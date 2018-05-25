@@ -1,0 +1,66 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.name	Name	name	name	NN	O					
+-1	1	fb:row.row.date	Date	date	date	NN	O					
+-1	2	fb:row.row.condition	Condition	condition	condition	NN	O					
+-1	3	fb:row.row.ownership_access	Ownership\n/ Access	ownership|/|access	ownership|/|access	NN|:|NN	O|O|O	||				
+-1	4	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.chateau_d_angers	Château d'Angers	château|d'angers	Château|d'Angers	NNP|NNPS	PERSON|PERSON	|				
+0	1	fb:cell.13th_century	13th century	13th|century	13th|century	JJ|NN	DATE|DATE	12XX|12XX	13.0			
+0	2	fb:cell.substantially_intact	Substantially intact	substantially|intact	substantially|intact	RB|JJ	O|O	|				
+0	3	fb:cell.city_of_angers	City of Angers	city|of|angers	city|of|anger	NN|IN|NNS	O|O|O	||				
+0	4	fb:cell.walls_nearly_2_000_feet_610_m_in_circumference_incorporating_17_towers_originally_130_feet_40_m_high	Walls nearly 2,000 feet (610 m) in circumference, incorporating 17 towers originally 130 feet (40 m) high.	walls|nearly|2,000|feet|-lrb-|610|m|-rrb-|in|circumference|,|incorporating|17|towers|originally|130|feet|-lrb-|40|m|-rrb-|high|.	wall|nearly|2,000|foot|-lrb-|610|m|-rrb-|in|circumference|,|incorporate|17|tower|originally|130|foot|-lrb-|40|m|-rrb-|high|.	NNS|RB|CD|NNS|-LRB-|CD|NN|-RRB-|IN|NN|,|VBG|CD|NNS|RB|CD|NNS|-LRB-|CD|NN|-RRB-|JJ|.	O|O|NUMBER|O|O|NUMBER|O|O|O|O|O|O|NUMBER|O|O|NUMBER|O|O|NUMBER|O|O|O|O	||~2000.0|||610.0|||||||17.0|||130.0|||40.0||||	2000.0		610.0	Walls nearly 2,000 feet (610 m) in circumference|incorporating 17 towers originally 130 feet (40 m) high.
+1	0	fb:cell.chateau_de_bauge	Château de Baugé	château|de|baugé	Château|de|Baugé	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+1	1	fb:cell.15th_century	15th century	15th|century	15th|century	JJ|NN	DATE|DATE	14XX|14XX	15.0			
+1	2	fb:cell.intact	Intact	intact	intact	JJ	O					
+1	3	fb:cell.null										
+1	4	fb:cell.built_as_hunting_lodge	Built as hunting lodge.	built|as|hunting|lodge|.	build|as|hunting|lodge|.	VBN|IN|NN|NNP|.	O|O|O|O|O	||||				Built as hunting lodge.
+2	0	fb:cell.chateau_de_bourmont	Château de Bourmont	château|de|bourmont	Château|de|Bourmont	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+2	1	fb:cell.16_19th_century	16-19th century	16-19th|century	16-19th|century	JJ|NN	O|DURATION	|P100Y	16.0		19.0	
+2	2	fb:cell.intact_and_extended	Intact and extended	intact|and|extended	intact|and|extended	JJ|CC|JJ	O|O|O	||				
+2	3	fb:cell.private	Private	private	private	JJ	O					
+2	4	fb:cell.extended_in_neo_gothic_style	Extended in Neo-Gothic style	extended|in|neo|gothic|style	extend|in|Neo|gothic|style	VBN|IN|NNP|JJ|NN	O|O|MISC|MISC|MISC	||||				Extended in Neo-Gothic style
+3	0	fb:cell.chateau_de_brissac	Château de Brissac	château|de|brissac	Château|de|Brissac	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+3	1	fb:cell.15_17th_century	15-17th century	15-17th|century	15-17th|century	JJ|NN	O|DURATION	|P100Y	15.0		17.0	
+3	2	fb:cell.rebuilt	Rebuilt	rebuilt	rebuilt	NN	O					
+3	3	fb:cell.private	Private	private	private	JJ	O					
+3	4	fb:cell.damaged_during_french_wars_of_religion_rebuilt_1611_in_baroque_style	Damaged during French Wars of Religion, rebuilt 1611 in baroque style.	damaged|during|french|wars|of|religion|,|rebuilt|1611|in|baroque|style|.	damage|during|french|war|of|religion|,|rebuilt|1611|in|baroque|style|.	VBN|IN|JJ|NNS|IN|NN|,|NN|CD|IN|JJ|NN|.	O|O|MISC|O|O|O|O|O|DATE|O|O|O|O	||||||||1611||||	1611.0			Damaged during French Wars of Religion|rebuilt 1611 in baroque style.
+4	0	fb:cell.chateau_de_champtoce	Château de Champtocé	château|de|champtocé	Château|de|Champtocé	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+4	1	fb:cell.13_16th_century	13-16th century	13-16th|century	13-16th|century	JJ|NN	O|DURATION	|P100Y	13.0		16.0	
+4	2	fb:cell.ruins	Ruins	ruins	ruin	NNS	O					
+4	3	fb:cell.null										
+4	4	fb:cell.null										
+5	0	fb:cell.chateau_de_montreuil_bellay	Château de Montreuil-Bellay	château|de|montreuil|bellay	Château|de|Montreuil|Bellay	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				
+5	1	fb:cell.11_13th_century	11-13th century	11-13th|century	11-13th|century	JJ|NN	O|DURATION	|P100Y	11.0		13.0	
+5	2	fb:cell.substantially_intact	Substantially intact	substantially|intact	substantially|intact	RB|JJ	O|O	|				
+5	3	fb:cell.private	Private	private	private	JJ	O					
+5	4	fb:cell.divided_into_rental_units_in_1822_restored_after_1860	Divided into rental units in 1822, restored after 1860.	divided|into|rental|units|in|1822|,|restored|after|1860|.	divide|into|rental|unit|in|1822|,|restore|after|1860|.	VBN|IN|JJ|NNS|IN|CD|,|VBN|IN|CD|.	O|O|O|O|O|DATE|O|O|O|DATE|O	|||||1822||||1860|	1822.0		1860.0	Divided into rental units in 1822|restored after 1860.
+6	0	fb:cell.chateau_de_montsoreau	Château de Montsoreau	château|de|montsoreau	Château|de|Montsoreau	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+6	1	fb:cell.1455	1455	1455	1455	CD	DATE	1455	1455.0	1455-xx-xx		
+6	2	fb:cell.restored	Restored	restored	restore	VBN	O					
+6	3	fb:cell.departement	Département	département	département	NN	O					
+6	4	fb:cell.ruinous_by_late_19th_century_restored_houses_the_musee_des_goums_marocains	Ruinous by late 19th century, restored, houses the Musée des Goums Marocains.	ruinous|by|late|19th|century|,|restored|,|houses|the|musée|des|goums|marocains|.	ruinous|by|late|19th|century|,|restore|,|house|the|Musée|des|Goums|marocain|.	JJ|IN|JJ|JJ|NN|,|VBD|,|VBZ|DT|NNP|NNP|NNP|NNS|.	O|O|DATE|DATE|DATE|O|O|O|O|O|O|O|O|O|O	||18XX|18XX|18XX||||||||||	19.0			Ruinous by late 19th century|restored|houses the Musée des Goums Marocains.
+7	0	fb:cell.chateau_du_plessis_bourre	Château du Plessis-Bourré	château|du|plessis|bourré	Château|du|Plessis|Bourré	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				
+7	1	fb:cell.1468_1472	1468-1472	1468-1472	1468-1472	CD	DURATION	PT35064H	1468.0		1472.0	
+7	2	fb:cell.intact	Intact	intact	intact	JJ	O					
+7	3	fb:cell.private_open_to_the_public	Private (open to the public)	private|-lrb-|open|to|the|public|-rrb-	private|-lrb-|open|to|the|public|-rrb-	JJ|-LRB-|JJ|TO|DT|NN|-RRB-	O|O|O|O|O|O|O	||||||				
+7	4	fb:cell.externally_unchanged_since_the_15th_century_working_drawbridge	Externally unchanged since the 15th century, working drawbridge.	externally|unchanged|since|the|15th|century|,|working|drawbridge|.	externally|unchanged|since|the|15th|century|,|work|drawbridge|.	RB|JJ|IN|DT|JJ|NN|,|VBG|NN|.	O|O|O|DATE|DATE|DATE|O|O|O|O	|||14XX|14XX|14XX||||	15.0			Externally unchanged since the 15th century|working drawbridge.
+8	0	fb:cell.chateau_du_plessis_mace	Château du Plessis-Macé	château|du|plessis|macé	Château|du|Plessis|Macé	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				
+8	1	fb:cell.13_16th_century	13-16th century	13-16th|century	13-16th|century	JJ|NN	O|DURATION	|P100Y	13.0		16.0	
+8	2	fb:cell.intact	Intact	intact	intact	JJ	O					
+8	3	fb:cell.null										
+8	4	fb:cell.converted_to_house_15th_century	Converted to house 15th century.	converted|to|house|15th|century|.	convert|to|house|15th|century|.	VBN|TO|VB|JJ|NN|.	O|O|O|DATE|DATE|O	|||14XX|14XX|	15.0			Converted to house 15th century.
+9	0	fb:cell.chateau_de_pouance	Château de Pouancé	château|de|pouancé	Château|de|Pouancé	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+9	1	fb:cell.12_13th_century	12-13th century	12-13th|century	12-13th|century	JJ|NN	O|DURATION	|P100Y	12.0		13.0	
+9	2	fb:cell.ruins	Ruins	ruins	ruin	NNS	O					
+9	3	fb:cell.null										
+9	4	fb:cell.considered_second_fortress_of_anjou_after_angers	Considered second fortress of Anjou, after Angers.	considered|second|fortress|of|anjou|,|after|angers|.	consider|second|fortress|of|Anjou|,|after|anger|.	VBN|JJ|NN|IN|NNP|,|IN|NNS|.	O|ORDINAL|O|O|LOCATION|O|O|O|O	|2.0|||||||				Considered second fortress of Anjou|after Angers.
+10	0	fb:cell.chateau_de_saumur	Château de Saumur	château|de|saumur	Château|de|Saumur	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+10	1	fb:cell.12th_century	12th century	12th|century	12th|century	JJ|NN	DATE|DATE	11XX|11XX	12.0			
+10	2	fb:cell.restored	Restored	restored	restore	VBN	O					
+10	3	fb:cell.city_of_saumur	City of Saumur	city|of|saumur	city|of|Saumur	NN|IN|NNP	O|O|LOCATION	||				
+10	4	fb:cell.page_for_september_in_the_tres_riches_heures_du_duc_de_berry_depicts_the_chateau_as_it_looked_in_1410	Page for September in the Tres Riches Heures du Duc de Berry depicts the Chateau as it looked in 1410.	page|for|september|in|the|tres|riches|heures|du|duc|de|berry|depicts|the|chateau|as|it|looked|in|1410|.	page|for|September|in|the|tre|riches|heure|du|Duc|de|Berry|depict|the|Chateau|as|it|look|in|1410|.	NN|IN|NNP|IN|DT|NNS|NNS|NNS|NNP|NNP|IN|NNP|VBZ|DT|NNP|IN|PRP|VBD|IN|CD|.	O|O|DATE|O|O|O|O|O|PERSON|PERSON|PERSON|PERSON|O|O|O|O|O|O|O|DATE|O	||XXXX-09|||||||||||||||||1410|	1410.0			Page for September in the Tres Riches Heures du Duc de Berry depicts the Chateau as it looked in 1410.
+11	0	fb:cell.chateau_de_la_turmeliere	Château de la Turmelière	château|de|la|turmelière	Château|de|la|Turmelière	NNP|FW|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				
+11	1	fb:cell.13th_century	13th century	13th|century	13th|century	JJ|NN	DATE|DATE	12XX|12XX	13.0			
+11	2	fb:cell.ruins	Ruins	ruins	ruin	NNS	O					
+11	3	fb:cell.null										
+11	4	fb:cell.19th_century_building_of_same_name_nearby	19th century building of same name nearby.	19th|century|building|of|same|name|nearby|.	19th|century|building|of|same|name|nearby|.	JJ|NN|NN|IN|JJ|NN|RB|.	DATE|DATE|O|O|O|O|O|O	18XX|18XX||||||	19.0			19th century building of same name nearby.

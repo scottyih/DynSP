@@ -1,0 +1,199 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.title	Title	title	title	NN	O					
+-1	1	fb:row.row.genre	Genre	genre	genre	NN	O					
+-1	2	fb:row.row.sub_divisions	Sub­divisions	subdivisions	subdivision	NNS	O					
+-1	3	fb:row.row.libretto	Libretto	libretto	libretto	NN	O					
+-1	4	fb:row.row.premiere_date	Première date	première|date	Première|date	NNP|NN	O|O	|				
+-1	5	fb:row.row.place_theatre	Place, theatre	place|,|theatre	place|,|theatre	NN|,|NN	O|O|O	||				
+0	0	fb:cell.mahomed_s_paradies	Mahomed's Paradies	mahomed|'s|paradies	Mahomed|'s|Paradies	NNP|POS|NNP	PERSON|O|O	||				Mahomed's Paradies
+0	1	fb:cell.burleske_operette	Burleske-Operette	burleske|operette	Burleske|Operette	NNP|NNP	PERSON|PERSON	|				
+0	2	fb:cell.1_act	1 act	1|act	1|act	CD|NN	NUMBER|O	1.0|	1.0			
+0	3	fb:cell.composer	Composer	composer	composer	NN	O					Composer
+0	4	fb:cell.26_february_1866	26 February 1866	26|february|1866	26|February|1866	CD|NNP|NNP	DATE|DATE|DATE	1866-02-26|1866-02-26|1866-02-26	26.0	1866-02-26	1866.0	26 February 1866
+0	5	fb:cell.vienna_harmonietheater	Vienna, Harmonietheater	vienna|,|harmonietheater	Vienna|,|harmonietheater	NNP|,|NN	LOCATION|O|PERSON	||				Vienna|Harmonietheater
+1	0	fb:cell.das_orakel_zu_delfi	Das Orakel zu Delfi	das|orakel|zu|delfi	Das|Orakel|zu|Delfi	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Das Orakel zu Delfi
+1	1	fb:cell.burleske_operette	Burleske-Operette	burleske|operette	Burleske|Operette	NNP|NNP	PERSON|PERSON	|				
+1	2	fb:cell.2_acts	2 acts	2|acts	2|act	CD|NNS	NUMBER|O	2.0|	2.0			
+1	3	fb:cell.carl_costa	Carl Costa	carl|costa	Carl|Costa	NNP|NNP	PERSON|PERSON	|				Carl Costa
+1	4	fb:cell.21_september_1872	21 September 1872	21|september|1872	21|September|1872	CD|NNP|CD	DATE|DATE|DATE	1872-09-21|1872-09-21|1872-09-21	21.0	1872-09-21	1872.0	21 September 1872
+1	5	fb:cell.linz_landestheater	Linz, Landestheater	linz|,|landestheater	Linz|,|landestheater	NNP|,|NN	LOCATION|O|O	||				Linz|Landestheater
+2	0	fb:cell.cleopatra_oder_durch_drei_jahrtausende_together_with_richard_genee_and_max_von_weinzierl	Cleopatra, oder Durch drei Jahrtausende (together with: Richard Genée and Max von Weinzierl)	cleopatra|,|oder|durch|drei|jahrtausende|-lrb-|together|with|:|richard|genée|and|max|von|weinzierl|-rrb-	Cleopatra|,|oder|Durch|drei|Jahrtausende|-lrb-|together|with|:|Richard|Genée|and|Max|von|Weinzierl|-rrb-	NNP|,|NNP|NNP|NNP|NNP|-LRB-|RB|IN|:|NNP|NNP|CC|NNP|NNP|NNP|-RRB-	PERSON|O|PERSON|PERSON|PERSON|PERSON|O|O|O|O|PERSON|PERSON|O|PERSON|PERSON|PERSON|O	||||||||||||||||				Cleopatra|oder Durch drei Jahrtausende (together with: Richard Genée and Max von Weinzierl)
+2	1	fb:cell.fantastic_burlesque	fantastic burlesque	fantastic|burlesque	fantastic|burlesque	JJ|JJ	O|O	|				
+2	2	fb:cell.3_sections	3 sections	3|sections	3|section	CD|NNS	NUMBER|O	3.0|	3.0			
+2	3	fb:cell.j_steinher	J. Steinher	j.|steinher	J.|Steinher	NNP|NNP	PERSON|PERSON	|				J. Steinher
+2	4	fb:cell.13_november_1875	13 November 1875	13|november|1875	13|November|1875	CD|NNP|CD	DATE|DATE|DATE	1875-11-13|1875-11-13|1875-11-13	13.0	1875-11-13	1875.0	13 November 1875
+2	5	fb:cell.vienna_komische_oper	Vienna, Komische Oper	vienna|,|komische|oper	Vienna|,|Komische|Oper	NNP|,|NNP|NNP	LOCATION|O|O|O	|||				Vienna|Komische Oper
+3	0	fb:cell.konig_jerome_oder_immer_lustick	König Jérôme oder Immer lustick!	könig|jérôme|oder|immer|lustick|!	König|Jérôme|oder|Immer|lustick|!	NNP|NNP|NNP|NNP|NNP|.	PERSON|PERSON|PERSON|PERSON|PERSON|O	|||||				König Jérôme oder Immer lustick!
+3	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+3	2	fb:cell.4_acts	4 acts	4|acts	4|act	CD|NNS	NUMBER|O	4.0|	4.0			
+3	3	fb:cell.adolf_schirmer	Adolf Schirmer	adolf|schirmer	Adolf|Schirmer	NNP|NNP	PERSON|PERSON	|				Adolf Schirmer
+3	4	fb:cell.28_november_1878	28 November 1878	28|november|1878	28|November|1878	CD|NNP|CD	DATE|DATE|DATE	1878-11-28|1878-11-28|1878-11-28	28.0	1878-11-28	1878.0	28 November 1878
+3	5	fb:cell.vienna_ringtheater	Vienna, Ringtheater	vienna|,|ringtheater	Vienna|,|ringtheater	NNP|,|NN	LOCATION|O|PERSON	||				Vienna|Ringtheater
+4	0	fb:cell.der_kleine_don_juan	Der kleine Don Juan	der|kleine|don|juan	Der|kleine|Don|Juan	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Der kleine Don Juan
+4	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+4	2	fb:cell.null										
+4	3	fb:cell.null										
+4	4	fb:cell.november_1879	November 1879	november|1879	November|1879	NNP|NNS	SET|SET	|	1879.0			November 1879
+4	5	fb:cell.budapest_deutsches_theater	Budapest, Deutsches Theater	budapest|,|deutsches|theater	Budapest|,|Deutsches|Theater	NNP|,|NNP|NNP	LOCATION|O|O|O	|||				Budapest|Deutsches Theater
+5	0	fb:cell.wiener_kinder	Wiener Kinder	wiener|kinder	Wiener|kinder	NNP|JJR	PERSON|PERSON	|				Wiener Kinder
+5	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+5	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+5	3	fb:cell.leopold_krenn_and_carl_wolff	Leopold Krenn and Carl Wolff	leopold|krenn|and|carl|wolff	Leopold|Krenn|and|Carl|Wolff	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Leopold Krenn and Carl Wolff
+5	4	fb:cell.19_january_1881	19 January 1881	19|january|1881	19|January|1881	CD|NNP|CD	DATE|DATE|DATE	1881-01-19|1881-01-19|1881-01-19	19.0	1881-01-19	1881.0	19 January 1881
+5	5	fb:cell.vienna_carltheater	Vienna, Carltheater	vienna|,|carltheater	Vienna|,|carltheater	NNP|,|NN	LOCATION|O|PERSON	||				Vienna|Carltheater
+6	0	fb:cell.ein_deutschmeister	Ein Deutschmeister	ein|deutschmeister	ein|deutschmeister	NN|NN	PERSON|PERSON	|				Ein Deutschmeister
+6	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+6	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+6	3	fb:cell.richard_genee_and_bruno_zappert	Richard Genée and Bruno Zappert	richard|genée|and|bruno|zappert	Richard|Genée|and|Bruno|Zappert	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Richard Genée and Bruno Zappert
+6	4	fb:cell.30_november_1888	30 November 1888	30|november|1888	30|November|1888	CD|NNP|CD	DATE|DATE|DATE	1888-11-30|1888-11-30|1888-11-30	30.0	1888-11-30	1888.0	30 November 1888
+6	5	fb:cell.vienna_carltheater	Vienna, Carltheater	vienna|,|carltheater	Vienna|,|carltheater	NNP|,|NN	LOCATION|O|PERSON	||				Vienna|Carltheater
+7	0	fb:cell.wiener_luft	Wiener Luft	wiener|luft	Wiener|Luft	NNP|NNP	PERSON|PERSON	|				Wiener Luft
+7	1	fb:cell.posse_mit_gesang	Posse mit Gesang	posse|mit|gesang	posse|mit|Gesang	NN|NNP|NNP	O|PERSON|PERSON	||				
+7	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+7	3	fb:cell.benno_rauchenegger	Benno Rauchenegger	benno|rauchenegger	Benno|Rauchenegger	NNP|NNP	PERSON|PERSON	|				Benno Rauchenegger
+7	4	fb:cell.10_may_1889	10 May 1889	10|may|1889	10|may|1889	CD|VBD-AUX|CD	DATE|DATE|DATE	1889-05-10|1889-05-10|1889-05-10	10.0	1889-05-10	1889.0	10 May 1889
+7	5	fb:cell.vienna_theater_an_der_wien	Vienna, Theater an der Wien	vienna|,|theater|an|der|wien	Vienna|,|Theater|a|der|Wien	NNP|,|NNP|DT|NNP|NNP	LOCATION|O|O|O|PERSON|PERSON	|||||				Vienna|Theater an der Wien
+8	0	fb:cell.der_bleiche_zauberer	Der bleiche Zauberer	der|bleiche|zauberer	Der|bleiche|Zauberer	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Der bleiche Zauberer
+8	1	fb:cell.indianisches_lagerbild	indianisches Lagerbild	indianisches|lagerbild	indianisch|lagerbild	NN|NN	O|O	|				
+8	2	fb:cell.1_act	1 act	1|act	1|act	CD|NN	NUMBER|O	1.0|	1.0			
+8	3	fb:cell.isidor_fuchs_based_on_an_indian_story_by_james_fennimore_cooper	Isidor Fuchs, based on an Indian story by James Fennimore Cooper	isidor|fuchs|,|based|on|an|indian|story|by|james|fennimore|cooper	Isidor|Fuchs|,|base|on|a|indian|story|by|James|Fennimore|Cooper	NNP|NNP|,|VBN|IN|DT|JJ|NN|IN|NNP|NNP|NNP	PERSON|PERSON|O|O|O|O|MISC|O|O|PERSON|PERSON|PERSON	|||||||||||				Isidor Fuchs|based on an Indian story by James Fennimore Cooper
+8	4	fb:cell.20_september_1890	20 September 1890	20|september|1890	20|September|1890	CD|NNP|CD	DATE|DATE|DATE	1890-09-20|1890-09-20|1890-09-20	20.0	1890-09-20	1890.0	20 September 1890
+8	5	fb:cell.vienna_theater_an_der_wien	Vienna, Theater an der Wien	vienna|,|theater|an|der|wien	Vienna|,|Theater|a|der|Wien	NNP|,|NNP|DT|NNP|NNP	LOCATION|O|O|O|PERSON|PERSON	|||||				Vienna|Theater an der Wien
+9	0	fb:cell.der_schone_rigo	Der schöne Rigo	der|schöne|rigo	Der|schöne|Rigo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Der schöne Rigo
+9	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+9	2	fb:cell.2_acts	2 acts	2|acts	2|act	CD|NNS	NUMBER|O	2.0|	2.0			
+9	3	fb:cell.leopold_krenn_and_carl_lindau	Leopold Krenn and Carl Lindau	leopold|krenn|and|carl|lindau	Leopold|Krenn|and|Carl|Lindau	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Leopold Krenn and Carl Lindau
+9	4	fb:cell.24_may_1898	24 May 1898	24|may|1898	24|may|1898	CD|VBD-AUX|CD	DATE|DATE|DATE	1898-05-24|1898-05-24|1898-05-24	24.0	1898-05-24	1898.0	24 May 1898
+9	5	fb:cell.vienna_sommertheater_venedig_in_wien	Vienna, 'Sommertheater Venedig in Wien'	vienna|,|`|sommertheater|venedig|in|wien|'	Vienna|,|`|sommertheater|venedig|in|Wien|'	NNP|,|``|FW|FW|IN|NNP|''	LOCATION|O|O|O|O|O|PERSON|O	|||||||				Vienna|'Sommertheater Venedig in Wien'
+10	0	fb:cell.die_landstreicher	Die Landstreicher	die|landstreicher	die|Landstreicher	VB|NNP	PERSON|PERSON	|				Die Landstreicher
+10	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+10	2	fb:cell.prologue_and_2_acts	Prologue and 2 acts	prologue|and|2|acts	prologue|and|2|act	NN|CC|CD|NNS	O|O|NUMBER|O	||2.0|	2.0			
+10	3	fb:cell.leopold_krenn_and_carl_lindau	Leopold Krenn and Carl Lindau	leopold|krenn|and|carl|lindau	Leopold|Krenn|and|Carl|Lindau	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Leopold Krenn and Carl Lindau
+10	4	fb:cell.26_july_1899	26 July 1899	26|july|1899	26|July|1899	CD|NNP|CD	DATE|DATE|DATE	1899-07-26|1899-07-26|1899-07-26	26.0	1899-07-26	1899.0	26 July 1899
+10	5	fb:cell.vienna_sommertheater_venedig_in_wien	Vienna, 'Sommertheater Venedig in Wien'	vienna|,|`|sommertheater|venedig|in|wien|'	Vienna|,|`|sommertheater|venedig|in|Wien|'	NNP|,|``|FW|FW|IN|NNP|''	LOCATION|O|O|O|O|O|PERSON|O	|||||||				Vienna|'Sommertheater Venedig in Wien'
+11	0	fb:cell.die_drei_wunsche	Die drei Wünsche	die|drei|wünsche	die|drei|Wünsche	VB|NNP|NNP	PERSON|PERSON|PERSON	||				Die drei Wünsche
+11	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+11	2	fb:cell.prologue_and_3_acts	Prologue and 3 acts	prologue|and|3|acts	prologue|and|3|act	NN|CC|CD|NNS	O|O|NUMBER|O	||3.0|	3.0			
+11	3	fb:cell.leopold_krenn_and_carl_lindau	Leopold Krenn and Carl Lindau	leopold|krenn|and|carl|lindau	Leopold|Krenn|and|Carl|Lindau	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Leopold Krenn and Carl Lindau
+11	4	fb:cell.9_march_1901	9 March 1901	9|march|1901	9|March|1901	CD|NNP|CD	DATE|DATE|DATE	1901-03-09|1901-03-09|1901-03-09	9.0	1901-03-09	1901.0	9 March 1901
+11	5	fb:cell.vienna_carltheater	Vienna, Carltheater	vienna|,|carltheater	Vienna|,|carltheater	NNP|,|NN	LOCATION|O|PERSON	||				Vienna|Carltheater
+12	0	fb:cell.der_fremdenfuhrer	Der Fremdenführer	der|fremdenführer	Der|Fremdenführer	NNP|NNP	PERSON|PERSON	|				Der Fremdenführer
+12	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+12	2	fb:cell.prologue_and_3_acts	Prologue and 3 acts	prologue|and|3|acts	prologue|and|3|act	NN|CC|CD|NNS	O|O|NUMBER|O	||3.0|	3.0			
+12	3	fb:cell.leopold_krenn_and_carl_lindau	Leopold Krenn and Carl Lindau	leopold|krenn|and|carl|lindau	Leopold|Krenn|and|Carl|Lindau	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Leopold Krenn and Carl Lindau
+12	4	fb:cell.11_october_1902	11 October 1902	11|october|1902	11|October|1902	CD|NNP|CD	DATE|DATE|DATE	1902-10-11|1902-10-11|1902-10-11	11.0	1902-10-11	1902.0	11 October 1902
+12	5	fb:cell.vienna_theater_an_der_wien	Vienna, Theater an der Wien	vienna|,|theater|an|der|wien	Vienna|,|Theater|a|der|Wien	NNP|,|NNP|DT|NNP|NNP	LOCATION|O|O|O|PERSON|PERSON	|||||				Vienna|Theater an der Wien
+13	0	fb:cell.der_schatzmeister	Der Schätzmeister	der|schätzmeister	Der|Schätzmeister	NNP|NNP	PERSON|PERSON	|				Der Schätzmeister
+13	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+13	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+13	3	fb:cell.alexander_engel_and_julius_horst	Alexander Engel and Julius Horst	alexander|engel|and|julius|horst	Alexander|Engel|and|Julius|Horst	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Alexander Engel and Julius Horst
+13	4	fb:cell.10_december_1904	10 December 1904	10|december|1904	10|December|1904	CD|NNP|CD	DATE|DATE|DATE	1904-12-10|1904-12-10|1904-12-10	10.0	1904-12-10	1904.0	10 December 1904
+13	5	fb:cell.vienna_carltheater	Vienna, Carltheater	vienna|,|carltheater	Vienna|,|carltheater	NNP|,|NN	LOCATION|O|PERSON	||				Vienna|Carltheater
+14	0	fb:cell.fesche_geister	Fesche Geister	fesche|geister	Fesche|Geister	NNP|NNP	PERSON|PERSON	|				Fesche Geister
+14	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+14	2	fb:cell.prologue_and_2_sections	Prologue and 2 sections	prologue|and|2|sections	prologue|and|2|section	NN|CC|CD|NNS	O|O|NUMBER|O	||2.0|	2.0			
+14	3	fb:cell.leopold_krenn_and_carl_lindau	Leopold Krenn and Carl Lindau	leopold|krenn|and|carl|lindau	Leopold|Krenn|and|Carl|Lindau	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Leopold Krenn and Carl Lindau
+14	4	fb:cell.7_july_1905	7 July 1905	7|july|1905	7|July|1905	CD|NNP|CD	DATE|DATE|DATE	1905-07-07|1905-07-07|1905-07-07	7.0	1905-07-07	1905.0	7 July 1905
+14	5	fb:cell.vienna_sommertheater_venedig_in_wien	Vienna, 'Sommertheater Venedig in Wien'	vienna|,|`|sommertheater|venedig|in|wien|'	Vienna|,|`|sommertheater|venedig|in|Wien|'	NNP|,|``|FW|FW|IN|NNP|''	LOCATION|O|O|O|O|O|PERSON|O	|||||||				Vienna|'Sommertheater Venedig in Wien'
+15	0	fb:cell.uber_n_gro_en_teich_together_with_edmund_eysler_bela_von_ujj_and_f_ziegler	Über'n großen Teich (together with: Edmund Eysler, Bela von Ujj and F. Ziegler)	über|'n|großen|teich|-lrb-|together|with|:|edmund|eysler|,|bela|von|ujj|and|f.|ziegler|-rrb-	Über|'n|großen|Teich|-lrb-|together|with|:|Edmund|Eysler|,|Bela|von|Ujj|and|F.|Ziegler|-rrb-	NNP|NNP|NNP|NNP|-LRB-|RB|IN|:|NNP|NNP|,|NNP|NNP|NNP|CC|NNP|NNP|-RRB-	O|O|PERSON|PERSON|O|O|O|O|PERSON|PERSON|O|PERSON|PERSON|PERSON|O|PERSON|PERSON|O	|||||||||||||||||				Über'n großen Teich (together with: Edmund Eysler|Bela von Ujj and F. Ziegler)
+15	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+15	2	fb:cell.null										
+15	3	fb:cell.adolph_philipp	Adolph Philipp	adolph|philipp	Adolph|Philipp	NNP|NNP	PERSON|PERSON	|				Adolph Philipp
+15	4	fb:cell.2_september_1906	2 September 1906	2|september|1906	2|September|1906	CD|NNP|CD	DATE|DATE|DATE	1906-09-02|1906-09-02|1906-09-02	2.0	1906-09-02	1906.0	2 September 1906
+15	5	fb:cell.vienna_theater_an_der_wien	Vienna, Theater an der Wien	vienna|,|theater|an|der|wien	Vienna|,|Theater|a|der|Wien	NNP|,|NNP|DT|NNP|NNP	LOCATION|O|O|O|PERSON|PERSON	|||||				Vienna|Theater an der Wien
+16	0	fb:cell.die_spottvogelwirtin	Die Spottvogelwirtin	die|spottvogelwirtin	die|spottvogelwirtin	VB|NN	PERSON|PERSON	|				Die Spottvogelwirtin
+16	1	fb:cell.null										
+16	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+16	3	fb:cell.rudolf_oesterreicher	Rudolf Oesterreicher	rudolf|oesterreicher	Rudolf|Oesterreicher	NNP|NNP	PERSON|PERSON	|				Rudolf Oesterreicher
+16	4	fb:cell.1906	1906	1906	1906	CD	DATE	1906	1906.0	1906-xx-xx		1906
+16	5	fb:cell.vienna	Vienna	vienna	Vienna	NNP	LOCATION					Vienna
+17	0	fb:cell.ein_tolles_madel_english_mlle_mischief	Ein tolles Mädel (English: Mlle Mischief)	ein|tolles|mädel|-lrb-|english|:|mlle|mischief|-rrb-	Ein|tolles|Mädel|-lrb-|English|:|Mlle|mischief|-rrb-	NNP|NNP|NNP|-LRB-|NNP|:|NNP|NN|-RRB-	PERSON|PERSON|PERSON|O|MISC|O|O|O|O	||||||||				Ein tolles Mädel (English: Mlle Mischief)
+17	1	fb:cell.vaudeville_operette	Vaudeville-Operette	vaudeville|operette	Vaudeville|Operette	NNP|NNP	O|O	|				
+17	2	fb:cell.prologue_and_2_acts	Prologue and 2 acts	prologue|and|2|acts	prologue|and|2|act	NN|CC|CD|NNS	O|O|NUMBER|O	||2.0|	2.0			
+17	3	fb:cell.wilhelm_sterk_after_kurt_kraatz_and_heinrich_stobitzer_english_sydney_rosenfeld	Wilhelm Sterk (after: Kurt Kraatz and Heinrich Stobitzer) (English: Sydney Rosenfeld)	wilhelm|sterk|-lrb-|after|:|kurt|kraatz|and|heinrich|stobitzer|-rrb-|-lrb-|english|:|sydney|rosenfeld|-rrb-	Wilhelm|Sterk|-lrb-|after|:|Kurt|Kraatz|and|Heinrich|Stobitzer|-rrb-|-lrb-|English|:|Sydney|Rosenfeld|-rrb-	NNP|NNP|-LRB-|IN|:|NNP|NNP|CC|NNP|NNP|-RRB-|-LRB-|NNP|:|NNP|NNP|-RRB-	PERSON|PERSON|O|O|O|PERSON|PERSON|O|PERSON|PERSON|O|O|MISC|O|PERSON|PERSON|O	||||||||||||||||				Wilhelm Sterk (after: Kurt Kraatz and Heinrich Stobitzer) (English: Sydney Rosenfeld)
+17	4	fb:cell.24_august_1907_english_version_28_september_1908	24 August 1907, English version: 28 September 1908	24|august|1907|,|english|version|:|28|september|1908	24|August|1907|,|English|version|:|28|September|1908	CD|NNP|CD|,|NNP|NN|:|CD|NNP|CD	DATE|DATE|DATE|O|MISC|O|O|DATE|DATE|DATE	1907-08-24|1907-08-24|1907-08-24|||||1908-09-28|1908-09-28|1908-09-28	24.0		1907.0	24 August 1907|English version: 28 September 1908
+17	5	fb:cell.wiesbaden_english_version_new_york_city_lyric_theatre	Wiesbaden; English version: New York City, Lyric Theatre;	wiesbaden|;|english|version|:|new|york|city|,|lyric|theatre|;	Wiesbaden|;|English|version|:|New|York|City|,|Lyric|Theatre|;	NNP|:|NNP|NN|:|NNP|NNP|NNP|,|NNP|NNP|:	LOCATION|O|MISC|O|O|LOCATION|LOCATION|LOCATION|O|O|O|O	|||||||||||				Wiesbaden; English version: New York City|Lyric Theatre;
+18	0	fb:cell.am_lido	Am Lido	am|lido	Am|Lido	VBD-AUX|NNP	PERSON|PERSON	|				Am Lido
+18	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+18	2	fb:cell.1_act	1 act	1|act	1|act	CD|NN	NUMBER|O	1.0|	1.0			
+18	3	fb:cell.ottokar_tann_bergler_and_alfred_deutsch_german	Ottokar Tann-Bergler and Alfred Deutsch-German	ottokar|tann|bergler|and|alfred|deutsch|german	Ottokar|Tann|Bergler|and|Alfred|Deutsch|German	NNP|NNP|NNP|CC|NNP|NNP|NNP	PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON	||||||				Ottokar Tann-Bergler and Alfred Deutsch-German
+18	4	fb:cell.31_august_1907	31 August 1907	31|august|1907	31|August|1907	CD|NNP|CD	DATE|DATE|DATE	1907-08-31|1907-08-31|1907-08-31	31.0	1907-08-31	1907.0	31 August 1907
+18	5	fb:cell.vienna_kolosseum	Vienna, Kolosseum	vienna|,|kolosseum	Vienna|,|Kolosseum	NNP|,|NNP	LOCATION|O|PERSON	||				Vienna|Kolosseum
+19	0	fb:cell.der_liebeswalzer	Der Liebeswalzer	der|liebeswalzer	Der|Liebeswalzer	NNP|NNP	PERSON|PERSON	|				Der Liebeswalzer
+19	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+19	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+19	3	fb:cell.robert_bodanzky_and_fritz_grunbaum	Robert Bodanzky and Fritz Grünbaum	robert|bodanzky|and|fritz|grünbaum	Robert|Bodanzky|and|Fritz|Grünbaum	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Robert Bodanzky and Fritz Grünbaum
+19	4	fb:cell.24_october_1908	24 October 1908	24|october|1908	24|October|1908	CD|NNP|CD	DATE|DATE|DATE	1908-10-24|1908-10-24|1908-10-24	24.0	1908-10-24	1908.0	24 October 1908
+19	5	fb:cell.vienna_raimund_theater	Vienna, Raimund Theater	vienna|,|raimund|theater	Vienna|,|Raimund|Theater	NNP|,|NNP|NNP	LOCATION|O|PERSON|PERSON	|||				Vienna|Raimund Theater
+20	0	fb:cell.herr_und_frau_biedermeier	Herr und Frau Biedermeier	herr|und|frau|biedermeier	Herr|und|Frau|Biedermeier	NNP|NNP|NNP|NNP	PERSON|O|PERSON|PERSON	|||				Herr und Frau Biedermeier
+20	1	fb:cell.singspiel	Singspiel	singspiel	Singspiel	NNP	PERSON					
+20	2	fb:cell.1_act	1 act	1|act	1|act	CD|NN	NUMBER|O	1.0|	1.0			
+20	3	fb:cell.wilhelm_sterk	Wilhelm Sterk	wilhelm|sterk	Wilhelm|Sterk	NNP|NNP	PERSON|PERSON	|				Wilhelm Sterk
+20	4	fb:cell.9_january_1909	9 January 1909	9|january|1909	9|January|1909	CD|NNP|CD	DATE|DATE|DATE	1909-01-09|1909-01-09|1909-01-09	9.0	1909-01-09	1909.0	9 January 1909
+20	5	fb:cell.munich_kleine_buhne	Munich, 'Kleine Bühne'	munich|,|`|kleine|bühne|'	Munich|,|`|Kleine|Bühne|'	NNP|,|``|NNP|NNP|POS	LOCATION|O|O|PERSON|PERSON|O	|||||				Munich|'Kleine Bühne'
+21	0	fb:cell.die_gaukler	Die Gaukler	die|gaukler	die|Gaukler	VB|NNP	PERSON|PERSON	|				Die Gaukler
+21	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+21	2	fb:cell.1_act	1 act	1|act	1|act	CD|NN	NUMBER|O	1.0|	1.0			
+21	3	fb:cell.emil_golz_and_arnold_golz	Emil Golz and Arnold Golz	emil|golz|and|arnold|golz	Emil|Golz|and|Arnold|Golz	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Emil Golz and Arnold Golz
+21	4	fb:cell.6_september_1909	6 September 1909	6|september|1909	6|September|1909	CD|NNP|CD	DATE|DATE|DATE	1909-09-06|1909-09-06|1909-09-06	6.0	1909-09-06	1909.0	6 September 1909
+21	5	fb:cell.vienna_apollotheater	Vienna, Apollotheater	vienna|,|apollotheater	Vienna|,|apollotheater	NNP|,|NN	LOCATION|O|O	||				Vienna|Apollotheater
+22	0	fb:cell.ball_bei_hof	Ball bei Hof	ball|bei|hof	ball|bei|hof	NN|FW|FW	PERSON|PERSON|PERSON	||				Ball bei Hof
+22	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+22	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+22	3	fb:cell.wilhelm_sterk_after_the_comedy_hofgunst_by_thilo_von_trotha	Wilhelm Sterk (after the comedy "Hofgunst" by Thilo von Trotha)	wilhelm|sterk|-lrb-|after|the|comedy|``|hofgunst|''|by|thilo|von|trotha|-rrb-	Wilhelm|Sterk|-lrb-|after|the|comedy|``|hofgunst|''|by|Thilo|von|Trotha|-rrb-	NNP|NNP|-LRB-|IN|DT|NN|``|NN|''|IN|NNP|NNP|NNP|-RRB-	PERSON|PERSON|O|O|O|O|O|O|O|O|PERSON|PERSON|PERSON|O	|||||||||||||				Wilhelm Sterk (after the comedy "Hofgunst" by Thilo von Trotha)
+22	4	fb:cell.22_january_1911	22 January 1911	22|january|1911	22|January|1911	CD|NNP|CD	DATE|DATE|DATE	1911-01-22|1911-01-22|1911-01-22	22.0	1911-01-22	1911.0	22 January 1911
+22	5	fb:cell.stettin_stadttheater	Stettin, Stadttheater	stettin|,|stadttheater	Stettin|,|stadttheater	NNP|,|NN	LOCATION|O|O	||				Stettin|Stadttheater
+23	0	fb:cell.in_funfzig_jahren_zukunftstraum_einer_kuchenfee	In fünfzig Jahren — "Zukunftstraum einer Küchenfee"	in|fünfzig|jahren|--|``|zukunftstraum|einer|küchenfee|''	in|fünfzig|Jahren|--|``|Zukunftstraum|einer|Küchenfee|''	IN|NNP|NNP|:|``|NNP|NNP|NNP|''	O|PERSON|PERSON|O|O|O|PERSON|PERSON|O	||||||||				In fünfzig Jahren — "Zukunftstraum einer Küchenfee"
+23	1	fb:cell.burleske_operette	Burleske-Operette	burleske|operette	Burleske|Operette	NNP|NNP	PERSON|PERSON	|				
+23	2	fb:cell.2_acts	2 acts	2|acts	2|act	CD|NNS	NUMBER|O	2.0|	2.0			
+23	3	fb:cell.leopold_krenn_and_carl_lindau	Leopold Krenn and Carl Lindau	leopold|krenn|and|carl|lindau	Leopold|Krenn|and|Carl|Lindau	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Leopold Krenn and Carl Lindau
+23	4	fb:cell.13_january_1911	13 January 1911	13|january|1911	13|January|1911	CD|NNP|CD	DATE|DATE|DATE	1911-01-13|1911-01-13|1911-01-13	13.0	1911-01-13	1911.0	13 January 1911
+23	5	fb:cell.vienna_ronacher	Vienna, Ronacher	vienna|,|ronacher	Vienna|,|Ronacher	NNP|,|NNP	LOCATION|O|PERSON	||				Vienna|Ronacher
+24	0	fb:cell.manoverkinder	Manöverkinder	manöverkinder	manöverkinder	NN	O					Manöverkinder
+24	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+24	2	fb:cell.2_acts	2 acts	2|acts	2|act	CD|NNS	NUMBER|O	2.0|	2.0			
+24	3	fb:cell.oskar_friedmann_and_fritz_lunzer	Oskar Friedmann and Fritz Lunzer	oskar|friedmann|and|fritz|lunzer	Oskar|Friedmann|and|Fritz|Lunzer	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Oskar Friedmann and Fritz Lunzer
+24	4	fb:cell.22_june_1912	22 June 1912	22|june|1912	22|June|1912	CD|NNP|CD	DATE|DATE|DATE	1912-06-22|1912-06-22|1912-06-22	22.0	1912-06-22	1912.0	22 June 1912
+24	5	fb:cell.vienna_sommerbuhne_kaisergarten	Vienna, Sommerbühne 'Kaisergarten'	vienna|,|sommerbühne|`|kaisergarten|'	Vienna|,|Sommerbühne|`|Kaisergarten|'	NNP|,|NNP|``|NNP|''	LOCATION|O|O|O|O|O	|||||				Vienna|Sommerbühne 'Kaisergarten'
+25	0	fb:cell.der_husarengeneral_new_version_of_manoverkinder	Der Husarengeneral (new version of Manöverkinder)	der|husarengeneral|-lrb-|new|version|of|manöverkinder|-rrb-	Der|Husarengeneral|-lrb-|new|version|of|manöverkinder|-rrb-	NNP|NNP|-LRB-|JJ|NN|IN|NN|-RRB-	PERSON|PERSON|O|O|O|O|O|O	|||||||				Der Husarengeneral (new version of Manöverkinder)
+25	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+25	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+25	3	fb:cell.oskar_friedmann_and_fritz_lunzer	Oskar Friedmann and Fritz Lunzer	oskar|friedmann|and|fritz|lunzer	Oskar|Friedmann|and|Fritz|Lunzer	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Oskar Friedmann and Fritz Lunzer
+25	4	fb:cell.3_october_1913	3 October 1913	3|october|1913	3|October|1913	CD|NNP|CD	DATE|DATE|DATE	1913-10-03|1913-10-03|1913-10-03	3.0	1913-10-03	1913.0	3 October 1913
+25	5	fb:cell.vienna_raimund_theater	Vienna, Raimund Theater	vienna|,|raimund|theater	Vienna|,|Raimund|Theater	NNP|,|NNP|NNP	LOCATION|O|PERSON|PERSON	|||				Vienna|Raimund Theater
+26	0	fb:cell.furst_casimir	Fürst Casimir	fürst|casimir	Fürst|Casimir	NNP|NNP	PERSON|PERSON	|				Fürst Casimir
+26	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+26	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+26	3	fb:cell.max_neal_and_max_ferner	Max Neal and Max Ferner	max|neal|and|max|ferner	Max|Neal|and|Max|Ferner	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Max Neal and Max Ferner
+26	4	fb:cell.13_september_1913	13 September 1913	13|september|1913	13|September|1913	CD|NNP|CD	DATE|DATE|DATE	1913-09-13|1913-09-13|1913-09-13	13.0	1913-09-13	1913.0	13 September 1913
+26	5	fb:cell.vienna_carltheater	Vienna, Carltheater	vienna|,|carltheater	Vienna|,|carltheater	NNP|,|NN	LOCATION|O|PERSON	||				Vienna|Carltheater
+27	0	fb:cell.das_dumme_herz	Das dumme Herz	das|dumme|herz	Das|dumme|Herz	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Das dumme Herz
+27	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+27	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+27	3	fb:cell.rudolf_oesterreicher_and_wilhelm_sterk	Rudolf Oesterreicher and Wilhelm Sterk	rudolf|oesterreicher|and|wilhelm|sterk	Rudolf|Oesterreicher|and|Wilhelm|Sterk	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Rudolf Oesterreicher and Wilhelm Sterk
+27	4	fb:cell.27_february_1914	27 February 1914	27|february|1914	27|February|1914	CD|NNP|CD	DATE|DATE|DATE	1914-02-27|1914-02-27|1914-02-27	27.0	1914-02-27	1914.0	27 February 1914
+27	5	fb:cell.vienna_johann_strauss_theater	Vienna, Johann Strauss-Theater	vienna|,|johann|strauss|theater	Vienna|,|Johann|Strauss|Theater	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|O	||||				Vienna|Johann Strauss-Theater
+28	0	fb:cell.der_kriegsberichterstatter_together_with_edmund_eysler_bruno_granichstaedten_oskar_nedbal_charles_weinberger	Der Kriegsberichterstatter (together with: Edmund Eysler, Bruno Granichstaedten, Oskar Nedbal, Charles Weinberger)	der|kriegsberichterstatter|-lrb-|together|with|:|edmund|eysler|,|bruno|granichstaedten|,|oskar|nedbal|,|charles|weinberger|-rrb-	Der|Kriegsberichterstatter|-lrb-|together|with|:|Edmund|Eysler|,|Bruno|Granichstaedten|,|Oskar|Nedbal|,|Charles|Weinberger|-rrb-	NNP|NNP|-LRB-|RB|IN|:|NNP|NNP|,|NNP|NNP|,|NNP|NNP|,|NNP|NNP|-RRB-	PERSON|PERSON|O|O|O|O|PERSON|PERSON|O|PERSON|PERSON|O|PERSON|PERSON|O|PERSON|PERSON|O	|||||||||||||||||				Der Kriegsberichterstatter (together with: Edmund Eysler|Bruno Granichstaedten|Oskar Nedbal|Charles Weinberger)
+28	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+28	2	fb:cell.8_scenes	8 scenes	8|scenes	8|scene	CD|NNS	NUMBER|O	8.0|	8.0			
+28	3	fb:cell.rudolf_oesterreicher_and_wilhelm_sterk	Rudolf Oesterreicher and Wilhelm Sterk	rudolf|oesterreicher|and|wilhelm|sterk	Rudolf|Oesterreicher|and|Wilhelm|Sterk	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Rudolf Oesterreicher and Wilhelm Sterk
+28	4	fb:cell._1914	(1914)	-lrb-|1914|-rrb-	-lrb-|1914|-rrb-	-LRB-|CD|-RRB-	O|DATE|O	|1914|	1914.0			(1914)
+28	5	fb:cell.null										
+29	0	fb:cell.im_siebenten_himmel	Im siebenten Himmel	im|siebenten|himmel	Im|siebenten|Himmel	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Im siebenten Himmel
+29	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+29	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+29	3	fb:cell.max_neal_and_max_ferner	Max Neal and Max Ferner	max|neal|and|max|ferner	Max|Neal|and|Max|Ferner	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Max Neal and Max Ferner
+29	4	fb:cell.26_february_1916	26 February 1916	26|february|1916	26|February|1916	CD|NNP|CD	DATE|DATE|DATE	1916-02-26|1916-02-26|1916-02-26	26.0	1916-02-26	1916.0	26 February 1916
+29	5	fb:cell.munich_theater_am_gartnerplatz	Munich, Theater am Gärtnerplatz	munich|,|theater|am|gärtnerplatz	Munich|,|Theater|am|Gärtnerplatz	NNP|,|NNP|VBD-AUX|NNP	LOCATION|O|O|O|PERSON	||||				Munich|Theater am Gärtnerplatz
+30	0	fb:cell.deutschmeisterkapelle	Deutschmeisterkapelle	deutschmeisterkapelle	deutschmeisterkapelle	NN	PERSON					Deutschmeisterkapelle
+30	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+30	2	fb:cell.null										
+30	3	fb:cell.hubert_marischka_and_rudolf_oesterreicher	Hubert Marischka and Rudolf Oesterreicher	hubert|marischka|and|rudolf|oesterreicher	Hubert|Marischka|and|Rudolf|Oesterreicher	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Hubert Marischka and Rudolf Oesterreicher
+30	4	fb:cell.30_may_1958	30 May 1958	30|may|1958	30|may|1958	CD|VBD-AUX|CD	DATE|DATE|DATE	1958-05-30|1958-05-30|1958-05-30	30.0	1958-05-30	1958.0	30 May 1958
+30	5	fb:cell.vienna_raimund_theater	Vienna, Raimund Theater	vienna|,|raimund|theater	Vienna|,|Raimund|Theater	NNP|,|NNP|NNP	LOCATION|O|PERSON|PERSON	|||				Vienna|Raimund Theater
+31	0	fb:cell.die_verliebte_eskadron	Die verliebte Eskadron	die|verliebte|eskadron	die|verliebte|eskadron	VB|NN|NN	O|O|O	||				Die verliebte Eskadron
+31	1	fb:cell.operette	Operette	operette	Operette	NNP	PERSON					
+31	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+31	3	fb:cell.wilhelm_sterk_after_b_buchbinder	Wilhelm Sterk (after B. Buchbinder)	wilhelm|sterk|-lrb-|after|b.|buchbinder|-rrb-	Wilhelm|Sterk|-lrb-|after|B.|Buchbinder|-rrb-	NNP|NNP|-LRB-|IN|NNP|NNP|-RRB-	PERSON|PERSON|O|O|PERSON|PERSON|O	||||||				Wilhelm Sterk (after B. Buchbinder)
+31	4	fb:cell.11_july_1930	11 July 1930	11|july|1930	11|July|1930	CD|NNP|CD	DATE|DATE|DATE	1930-07-11|1930-07-11|1930-07-11	11.0	1930-07-11	1930.0	11 July 1930
+31	5	fb:cell.vienna_johann_strau_theater	Vienna, Johann-Strauß-Theater	vienna|,|johann|strauß|theater	Vienna|,|Johann|Strauß|Theater	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Vienna|Johann-Strauß-Theater

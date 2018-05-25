@@ -1,0 +1,51 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.award	Award	award	award	NN	O					
+-1	2	fb:row.row.group	Group	group	group	NN	O					
+-1	3	fb:row.row.result	Result	result	result	NN	O					
+-1	4	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+0	1	fb:cell.black_reel_awards	Black Reel Awards	black|reel|awards	black|reel|award	JJ|NN|NNS	O|O|O	||				Black Reel Awards
+0	2	fb:cell.best_actor_drama	Best actor: Drama	best|actor|:|drama	best|actor|:|drama	JJS|NN|:|NN	O|O|O|O	|||				
+0	3	fb:cell.nominated	Nominated	nominated	nominate	VBN	O					
+0	4	fb:cell.the_human_stain_film	The Human Stain (film)	the|human|stain|-lrb-|film|-rrb-	the|human|stain|-lrb-|film|-rrb-	DT|JJ|VB|-LRB-|NN|-RRB-	O|O|O|O|O|O	|||||				
+1	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+1	1	fb:cell.black_reel_awards	Black Reel Awards	black|reel|awards	black|reel|award	JJ|NN|NNS	O|O|O	||				Black Reel Awards
+1	2	fb:cell.best_breakthrough_performance	Best Breakthrough Performance	best|breakthrough|performance	best|breakthrough|performance	JJS|NN|NN	O|O|O	||				
+1	3	fb:cell.nominated	Nominated	nominated	nominate	VBN	O					
+1	4	fb:cell.the_human_stain_film	The Human Stain (film)	the|human|stain|-lrb-|film|-rrb-	the|human|stain|-lrb-|film|-rrb-	DT|JJ|VB|-LRB-|NN|-RRB-	O|O|O|O|O|O	|||||				
+2	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+2	1	fb:cell.academy_of_science_fiction_fantasy_horror_films	Academy of Science Fiction, Fantasy & Horror Films	academy|of|science|fiction|,|fantasy|&|horror|films	Academy|of|Science|fiction|,|Fantasy|&|horror|film	NNP|IN|NNP|NN|,|NNP|CC|NN|NNS	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O|O|O	||||||||				Academy of Science Fiction|Fantasy & Horror Films
+2	2	fb:cell.best_actor_on_television	Best Actor on Television	best|actor|on|television	best|actor|on|television	JJS|NN|IN|NN	O|O|O|O	|||				
+2	3	fb:cell.nominated	Nominated	nominated	nominate	VBN	O					
+2	4	fb:cell.prison_break	Prison Break	prison|break	prison|break	NN|NN	O|O	|				
+3	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+3	1	fb:cell.teen_choice_awards	Teen Choice Awards	teen|choice|awards	teen|choice|award	JJ|NN|NNS	O|O|O	||				Teen Choice Awards
+3	2	fb:cell.tv_choice_actor	TV - Choice Actor	tv|-|choice|actor	tv|-|choice|actor	NN|:|NN|NN	O|O|O|O	|||				
+3	3	fb:cell.nominated	Nominated	nominated	nominate	VBN	O					
+3	4	fb:cell.prison_break	Prison Break	prison|break	prison|break	NN|NN	O|O	|				
+4	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+4	1	fb:cell.teen_choice_awards	Teen Choice Awards	teen|choice|awards	teen|choice|award	JJ|NN|NNS	O|O|O	||				Teen Choice Awards
+4	2	fb:cell.tv_choice_breakout_star	TV - Choice Breakout Star	tv|-|choice|breakout|star	tv|-|choice|breakout|star	NN|:|NN|NN|NN	O|O|O|O|O	||||				
+4	3	fb:cell.nominated	Nominated	nominated	nominate	VBN	O					
+4	4	fb:cell.prison_break	Prison Break	prison|break	prison|break	NN|NN	O|O	|				
+5	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+5	1	fb:cell.golden_globes_awards	Golden Globes Awards	golden|globes|awards	Golden|Globes|award	NNP|NNP|NNS	O|O|O	||				Golden Globes Awards
+5	2	fb:cell.best_performance_by_an_actor_in_a_television_series_drama	Best Performance by an Actor in a Television Series - Drama	best|performance|by|an|actor|in|a|television|series|-|drama	best|performance|by|a|actor|in|a|television|series|-|drama	JJS|NN|IN|DT|NN|IN|DT|NN|NN|:|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||				
+5	3	fb:cell.nominated	Nominated	nominated	nominate	VBN	O					
+5	4	fb:cell.prison_break	Prison Break	prison|break	prison|break	NN|NN	O|O	|				
+6	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+6	1	fb:cell.teen_choice_awards	Teen Choice Awards	teen|choice|awards	teen|choice|award	JJ|NN|NNS	O|O|O	||				Teen Choice Awards
+6	2	fb:cell.choice_tv_actor_drama	Choice TV Actor: Drama	choice|tv|actor|:|drama	Choice|TV|actor|:|drama	NNP|NNP|NN|:|NN	O|O|O|O|O	||||				
+6	3	fb:cell.nominated	Nominated	nominated	nominate	VBN	O					
+6	4	fb:cell.prison_break	Prison Break	prison|break	prison|break	NN|NN	O|O	|				
+7	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+7	1	fb:cell.teen_choice_awards	Teen Choice Awards	teen|choice|awards	teen|choice|award	JJ|NN|NNS	O|O|O	||				Teen Choice Awards
+7	2	fb:cell.choice_tv_actor_action_adventure	Choice TV Actor: Action Adventure	choice|tv|actor|:|action|adventure	Choice|TV|actor|:|action|adventure	NNP|NNP|NN|:|NN|NN	O|O|O|O|O|O	|||||				
+7	3	fb:cell.nominated	Nominated	nominated	nominate	VBN	O					
+7	4	fb:cell.prison_break	Prison Break	prison|break	prison|break	NN|NN	O|O	|				
+8	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+8	1	fb:cell.fangoria_chainsaw_awards	Fangoria Chainsaw Awards	fangoria|chainsaw|awards	Fangoria|Chainsaw|award	NNP|NNP|NNS	O|O|O	||				Fangoria Chainsaw Awards
+8	2	fb:cell.best_screenplay	Best Screenplay	best|screenplay	best|screenplay	JJS|NN	O|O	|				
+8	3	fb:cell.pending	Pending	pending	pend	VBG	O					
+8	4	fb:cell.stoker_film	Stoker (film)	stoker|-lrb-|film|-rrb-	Stoker|-lrb-|film|-rrb-	NNP|-LRB-|NN|-RRB-	PERSON|O|O|O	|||				

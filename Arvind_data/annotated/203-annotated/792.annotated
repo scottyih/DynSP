@@ -1,0 +1,176 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.event	Event	event	event	NN	O					
+-1	1	fb:row.row.class	Class	class	class	NN	O					
+-1	2	fb:row.row.gold	Gold	gold	gold	NN	O					
+-1	3	fb:row.row.silver	Silver	silver	silver	NN	O					
+-1	4	fb:row.row.bronze	Bronze	bronze	bronze	NN	O					
+0	0	fb:cell.downhill	Downhill	downhill	downhill	RB	O					
+0	1	fb:cell.b1_3_details	B1-3\ndetails	b1-3|details	b1-3|detail	NN|NNS	O|O	|	1.0		3.0	B1-3|details
+0	2	fb:cell.bart_bunting_guide_nathan_chivers_australia_aus	Bart Bunting\nGuide: Nathan Chivers\nAustralia (AUS)	bart|bunting|guide|:|nathan|chivers|australia|-lrb-|aus|-rrb-	Bart|Bunting|Guide|:|Nathan|Chivers|Australia|-lrb-|AUS|-rrb-	NNP|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O	|||||||||				Bart Bunting|Guide: Nathan Chivers|Australia (AUS)
+0	3	fb:cell.eric_villalon_guide_pere_comet_spain_esp	Eric Villalon\nGuide: Pere Comet\nSpain (ESP)	eric|villalon|guide|:|pere|comet|spain|-lrb-|esp|-rrb-	Eric|Villalon|Guide|:|Pere|Comet|Spain|-lrb-|ESP|-rrb-	NNP|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O|O|LOCATION|O|O|O	|||||||||				Eric Villalon|Guide: Pere Comet|Spain (ESP)
+0	4	fb:cell.yon_santacana_guide_raul_capdevila_spain_esp	Yon Santacana\nGuide: Raul Capdevila\nSpain (ESP)	yon|santacana|guide|:|raul|capdevila|spain|-lrb-|esp|-rrb-	yon|Santacana|Guide|:|Raul|Capdevila|Spain|-lrb-|ESP|-rrb-	RB|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|PERSON|PERSON|LOCATION|O|O|O	|||||||||				Yon Santacana|Guide: Raul Capdevila|Spain (ESP)
+1	0	fb:cell.downhill	Downhill	downhill	downhill	RB	O					
+1	1	fb:cell.lw2_details	LW2\ndetails	lw2|details	lw2|detail	NN|NNS	O|O	|	2.0			LW2|details
+1	2	fb:cell.michael_milton_australia_aus	Michael Milton\nAustralia (AUS)	michael|milton|australia|-lrb-|aus|-rrb-	Michael|Milton|Australia|-lrb-|AUS|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Michael Milton|Australia (AUS)
+1	3	fb:cell.christian_lanthaler_italy_ita	Christian Lanthaler\nItaly (ITA)	christian|lanthaler|italy|-lrb-|ita|-rrb-	Christian|Lanthaler|Italy|-lrb-|ITA|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	O|O|LOCATION|O|O|O	|||||				Christian Lanthaler|Italy (ITA)
+1	4	fb:cell.jason_lalla_united_states_usa	Jason Lalla\nUnited States (USA)	jason|lalla|united|states|-lrb-|usa|-rrb-	Jason|Lalla|United|States|-lrb-|USA|-rrb-	NNP|NNP|NNP|NNPS|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|LOCATION|O|LOCATION|O	||||||				Jason Lalla|United States (USA)
+2	0	fb:cell.downhill	Downhill	downhill	downhill	RB	O					
+2	1	fb:cell.lw3_5_7_9_details	LW3,5/7,9\ndetails	lw3|,5|/|7,9|details	lw3|,5|/|7,9|detail	NN|NN|:|CD|NNS	O|O|O|NUMBER|O	|||7.9|	35.0		79.0	LW3,5|7,9|details
+2	2	fb:cell.gerd_schoenfelder_germany_ger	Gerd Schoenfelder\nGermany (GER)	gerd|schoenfelder|germany|-lrb-|ger|-rrb-	Gerd|Schoenfelder|Germany|-lrb-|GER|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Gerd Schoenfelder|Germany (GER)
+2	3	fb:cell.arno_hirschbuehl_austria_aut	Arno Hirschbuehl\nAustria (AUT)	arno|hirschbuehl|austria|-lrb-|aut|-rrb-	Arno|Hirschbuehl|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Arno Hirschbuehl|Austria (AUT)
+2	4	fb:cell.jacob_rife_united_states_usa	Jacob Rife\nUnited States (USA)	jacob|rife|united|states|-lrb-|usa|-rrb-	Jacob|rife|United|States|-lrb-|USA|-rrb-	NNP|JJ|NNP|NNPS|-LRB-|NNP|-RRB-	PERSON|O|LOCATION|LOCATION|O|LOCATION|O	||||||				Jacob Rife|United States (USA)
+3	0	fb:cell.downhill	Downhill	downhill	downhill	RB	O					
+3	1	fb:cell.lw4_details	LW4\ndetails	lw4|details	lw4|detail	NN|NNS	O|O	|	4.0			LW4|details
+3	2	fb:cell.hans_burn_switzerland_sui	Hans Burn\nSwitzerland (SUI)	hans|burn|switzerland|-lrb-|sui|-rrb-	Hans|burn|Switzerland|-lrb-|SUI|-rrb-	NNP|VBP|NNP|-LRB-|NNP|-RRB-	PERSON|O|LOCATION|O|O|O	|||||				Hans Burn|Switzerland (SUI)
+3	3	fb:cell.james_lagerstrom_united_states_usa	James Lagerstrom\nUnited States (USA)	james|lagerstrom|united|states|-lrb-|usa|-rrb-	James|Lagerstrom|United|States|-lrb-|USA|-rrb-	NNP|NNP|NNP|NNPS|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|LOCATION|O|LOCATION|O	||||||				James Lagerstrom|United States (USA)
+3	4	fb:cell.steven_bayley_new_zealand_nzl	Steven Bayley\nNew Zealand (NZL)	steven|bayley|new|zealand|-lrb-|nzl|-rrb-	Steven|Bayley|New|Zealand|-lrb-|NZL|-rrb-	NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|LOCATION|O|O|O	||||||				Steven Bayley|New Zealand (NZL)
+4	0	fb:cell.downhill	Downhill	downhill	downhill	RB	O					
+4	1	fb:cell.lw6_8_details	LW6/8\ndetails	lw6/8|details	lw6/8|detail	NN|NNS	O|O	|	6.0		8.0	LW6|8|details
+4	2	fb:cell.rolf_heinzmann_switzerland_sui	Rolf Heinzmann\nSwitzerland (SUI)	rolf|heinzmann|switzerland|-lrb-|sui|-rrb-	Rolf|Heinzmann|Switzerland|-lrb-|SUI|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Rolf Heinzmann|Switzerland (SUI)
+4	3	fb:cell.lionel_brun_france_fra	Lionel Brun\nFrance (FRA)	lionel|brun|france|-lrb-|fra|-rrb-	Lionel|Brun|France|-lrb-|FRA|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Lionel Brun|France (FRA)
+4	4	fb:cell.markus_pfefferle_germany_ger	Markus Pfefferle\nGermany (GER)	markus|pfefferle|germany|-lrb-|ger|-rrb-	Markus|Pfefferle|Germany|-lrb-|GER|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Markus Pfefferle|Germany (GER)
+5	0	fb:cell.downhill	Downhill	downhill	downhill	RB	O					
+5	1	fb:cell.lw10_details	LW10\ndetails	lw10|details	lw10|detail	NN|NNS	O|O	|	10.0			LW10|details
+5	2	fb:cell.martin_braxenthaler_germany_ger	Martin Braxenthaler\nGermany (GER)	martin|braxenthaler|germany|-lrb-|ger|-rrb-	Martin|Braxenthaler|Germany|-lrb-|GER|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Martin Braxenthaler|Germany (GER)
+5	3	fb:cell.chris_waddell_united_states_usa	Chris Waddell\nUnited States (USA)	chris|waddell|united|states|-lrb-|usa|-rrb-	Chris|Waddell|United|States|-lrb-|USA|-rrb-	NNP|NNP|NNP|NNPS|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|LOCATION|O|LOCATION|O	||||||				Chris Waddell|United States (USA)
+5	4	fb:cell.ronny_persson_sweden_swe	Ronny Persson\nSweden (SWE)	ronny|persson|sweden|-lrb-|swe|-rrb-	Ronny|Persson|Sweden|-lrb-|swe|-rrb-	NNP|NNP|NNP|-LRB-|NN|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Ronny Persson|Sweden (SWE)
+6	0	fb:cell.downhill	Downhill	downhill	downhill	RB	O					
+6	1	fb:cell.lw11_details	LW11\ndetails	lw11|details	lw11|detail	NN|NNS	O|O	|	11.0			LW11|details
+6	2	fb:cell.harald_eder_austria_aut	Harald Eder\nAustria (AUT)	harald|eder|austria|-lrb-|aut|-rrb-	Harald|Eder|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Harald Eder|Austria (AUT)
+6	3	fb:cell.andreas_schiestl_austria_aut	Andreas Schiestl\nAustria (AUT)	andreas|schiestl|austria|-lrb-|aut|-rrb-	Andreas|Schiestl|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Andreas Schiestl|Austria (AUT)
+6	4	fb:cell.fabrizio_zardini_italy_ita	Fabrizio Zardini\nItaly (ITA)	fabrizio|zardini|italy|-lrb-|ita|-rrb-	Fabrizio|Zardini|Italy|-lrb-|ITA|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	O|LOCATION|LOCATION|O|O|O	|||||				Fabrizio Zardini|Italy (ITA)
+7	0	fb:cell.downhill	Downhill	downhill	downhill	RB	O					
+7	1	fb:cell.lw12_details	LW12\ndetails	lw12|details	lw12|detail	NN|NNS	O|O	|	12.0			LW12|details
+7	2	fb:cell.kevin_bramble_united_states_usa	Kevin Bramble\nUnited States (USA)	kevin|bramble|united|states|-lrb-|usa|-rrb-	Kevin|bramble|United|States|-lrb-|USA|-rrb-	NNP|NN|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|LOCATION|O|LOCATION|O	||||||				Kevin Bramble|United States (USA)
+7	3	fb:cell.christopher_devlin_young_united_states_usa	Christopher Devlin-Young\nUnited States (USA)	christopher|devlin|young|united|states|-lrb-|usa|-rrb-	Christopher|Devlin|Young|United|States|-lrb-|USA|-rrb-	NNP|NNP|NNP|NNP|NNPS|-LRB-|NNP|-RRB-	PERSON|PERSON|O|LOCATION|LOCATION|O|LOCATION|O	|||||||				Christopher Devlin-Young|United States (USA)
+7	4	fb:cell.daniel_wesley_canada_can	Daniel Wesley\nCanada (CAN)	daniel|wesley|canada|-lrb-|can|-rrb-	Daniel|Wesley|Canada|-lrb-|can|-rrb-	NNP|NNP|NNP|-LRB-|VBD-AUX|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Daniel Wesley|Canada (CAN)
+8	0	fb:cell.super_g	Super-G	super|g	Super|G	NNP|NNP	O|O	|				
+8	1	fb:cell.b1_3_details	B1-3\ndetails	b1-3|details	b1-3|detail	NN|NNS	O|O	|	1.0		3.0	B1-3|details
+8	2	fb:cell.bart_bunting_guide_nathan_chivers_australia_aus	Bart Bunting\nGuide: Nathan Chivers\nAustralia (AUS)	bart|bunting|guide|:|nathan|chivers|australia|-lrb-|aus|-rrb-	Bart|Bunting|Guide|:|Nathan|Chivers|Australia|-lrb-|AUS|-rrb-	NNP|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O	|||||||||				Bart Bunting|Guide: Nathan Chivers|Australia (AUS)
+8	3	fb:cell.eric_villalon_guide_pere_comet_spain_esp	Eric Villalon\nGuide: Pere Comet\nSpain (ESP)	eric|villalon|guide|:|pere|comet|spain|-lrb-|esp|-rrb-	Eric|Villalon|Guide|:|Pere|Comet|Spain|-lrb-|ESP|-rrb-	NNP|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O|O|LOCATION|O|O|O	|||||||||				Eric Villalon|Guide: Pere Comet|Spain (ESP)
+8	4	fb:cell.yon_santacana_guide_raul_capdevila_spain_esp	Yon Santacana\nGuide: Raul Capdevila\nSpain (ESP)	yon|santacana|guide|:|raul|capdevila|spain|-lrb-|esp|-rrb-	yon|Santacana|Guide|:|Raul|Capdevila|Spain|-lrb-|ESP|-rrb-	RB|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|PERSON|PERSON|LOCATION|O|O|O	|||||||||				Yon Santacana|Guide: Raul Capdevila|Spain (ESP)
+9	0	fb:cell.super_g	Super-G	super|g	Super|G	NNP|NNP	O|O	|				
+9	1	fb:cell.lw2_details	LW2\ndetails	lw2|details	lw2|detail	NN|NNS	O|O	|	2.0			LW2|details
+9	2	fb:cell.michael_milton_australia_aus	Michael Milton\nAustralia (AUS)	michael|milton|australia|-lrb-|aus|-rrb-	Michael|Milton|Australia|-lrb-|AUS|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Michael Milton|Australia (AUS)
+9	3	fb:cell.christian_lanthaler_italy_ita	Christian Lanthaler\nItaly (ITA)	christian|lanthaler|italy|-lrb-|ita|-rrb-	Christian|Lanthaler|Italy|-lrb-|ITA|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	O|O|LOCATION|O|O|O	|||||				Christian Lanthaler|Italy (ITA)
+9	4	fb:cell.florian_planker_italy_ita	Florian Planker\nItaly (ITA)	florian|planker|italy|-lrb-|ita|-rrb-	Florian|Planker|Italy|-lrb-|ITA|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Florian Planker|Italy (ITA)
+10	0	fb:cell.super_g	Super-G	super|g	Super|G	NNP|NNP	O|O	|				
+10	1	fb:cell.lw3_5_7_9_details	LW3,5/7,9\ndetails	lw3|,5|/|7,9|details	lw3|,5|/|7,9|detail	NN|NN|:|CD|NNS	O|O|O|NUMBER|O	|||7.9|	35.0		79.0	LW3,5|7,9|details
+10	2	fb:cell.gerd_schoenfelder_germany_ger	Gerd Schoenfelder\nGermany (GER)	gerd|schoenfelder|germany|-lrb-|ger|-rrb-	Gerd|Schoenfelder|Germany|-lrb-|GER|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Gerd Schoenfelder|Germany (GER)
+10	3	fb:cell.romain_riboud_france_fra	Romain Riboud\nFrance (FRA)	romain|riboud|france|-lrb-|fra|-rrb-	Romain|Riboud|France|-lrb-|FRA|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Romain Riboud|France (FRA)
+10	4	fb:cell.arno_hirschbuehl_austria_aut	Arno Hirschbuehl\nAustria (AUT)	arno|hirschbuehl|austria|-lrb-|aut|-rrb-	Arno|Hirschbuehl|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Arno Hirschbuehl|Austria (AUT)
+11	0	fb:cell.super_g	Super-G	super|g	Super|G	NNP|NNP	O|O	|				
+11	1	fb:cell.lw4_details	LW4\ndetails	lw4|details	lw4|detail	NN|NNS	O|O	|	4.0			LW4|details
+11	2	fb:cell.hubert_mandl_austria_aut	Hubert Mandl\nAustria (AUT)	hubert|mandl|austria|-lrb-|aut|-rrb-	Hubert|Mandl|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Hubert Mandl|Austria (AUT)
+11	3	fb:cell.josef_schoesswendter_austria_aut	Josef Schoesswendter\nAustria (AUT)	josef|schoesswendter|austria|-lrb-|aut|-rrb-	Josef|Schoesswendter|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Josef Schoesswendter|Austria (AUT)
+11	4	fb:cell.steven_bayley_new_zealand_nzl	Steven Bayley\nNew Zealand (NZL)	steven|bayley|new|zealand|-lrb-|nzl|-rrb-	Steven|Bayley|New|Zealand|-lrb-|NZL|-rrb-	NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|LOCATION|O|O|O	||||||				Steven Bayley|New Zealand (NZL)
+12	0	fb:cell.super_g	Super-G	super|g	Super|G	NNP|NNP	O|O	|				
+12	1	fb:cell.lw6_8_details	LW6/8\ndetails	lw6/8|details	lw6/8|detail	NN|NNS	O|O	|	6.0		8.0	LW6|8|details
+12	2	fb:cell.rolf_heinzmann_switzerland_sui	Rolf Heinzmann\nSwitzerland (SUI)	rolf|heinzmann|switzerland|-lrb-|sui|-rrb-	Rolf|Heinzmann|Switzerland|-lrb-|SUI|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Rolf Heinzmann|Switzerland (SUI)
+12	3	fb:cell.lionel_brun_france_fra	Lionel Brun\nFrance (FRA)	lionel|brun|france|-lrb-|fra|-rrb-	Lionel|Brun|France|-lrb-|FRA|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Lionel Brun|France (FRA)
+12	4	fb:cell.wolfgang_moosbrugger_austria_aut	Wolfgang Moosbrugger\nAustria (AUT)	wolfgang|moosbrugger|austria|-lrb-|aut|-rrb-	Wolfgang|Moosbrugger|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Wolfgang Moosbrugger|Austria (AUT)
+13	0	fb:cell.super_g	Super-G	super|g	Super|G	NNP|NNP	O|O	|				
+13	1	fb:cell.lw10_details	LW10\ndetails	lw10|details	lw10|detail	NN|NNS	O|O	|	10.0			LW10|details
+13	2	fb:cell.martin_braxenthaler_germany_ger	Martin Braxenthaler\nGermany (GER)	martin|braxenthaler|germany|-lrb-|ger|-rrb-	Martin|Braxenthaler|Germany|-lrb-|GER|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Martin Braxenthaler|Germany (GER)
+13	3	fb:cell.ronny_persson_sweden_swe	Ronny Persson\nSweden (SWE)	ronny|persson|sweden|-lrb-|swe|-rrb-	Ronny|Persson|Sweden|-lrb-|swe|-rrb-	NNP|NNP|NNP|-LRB-|NN|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Ronny Persson|Sweden (SWE)
+13	4	fb:cell.michael_kroener_germany_ger	Michael Kroener\nGermany (GER)	michael|kroener|germany|-lrb-|ger|-rrb-	Michael|Kroener|Germany|-lrb-|GER|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Michael Kroener|Germany (GER)
+14	0	fb:cell.super_g	Super-G	super|g	Super|G	NNP|NNP	O|O	|				
+14	1	fb:cell.lw11_details	LW11\ndetails	lw11|details	lw11|detail	NN|NNS	O|O	|	11.0			LW11|details
+14	2	fb:cell.fabrizio_zardini_italy_ita	Fabrizio Zardini\nItaly (ITA)	fabrizio|zardini|italy|-lrb-|ita|-rrb-	Fabrizio|Zardini|Italy|-lrb-|ITA|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	O|LOCATION|LOCATION|O|O|O	|||||				Fabrizio Zardini|Italy (ITA)
+14	3	fb:cell.andreas_schiestl_austria_aut	Andreas Schiestl\nAustria (AUT)	andreas|schiestl|austria|-lrb-|aut|-rrb-	Andreas|Schiestl|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Andreas Schiestl|Austria (AUT)
+14	4	fb:cell.denis_barbet_france_fra	Denis Barbet\nFrance (FRA)	denis|barbet|france|-lrb-|fra|-rrb-	Denis|Barbet|France|-lrb-|FRA|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Denis Barbet|France (FRA)
+15	0	fb:cell.super_g	Super-G	super|g	Super|G	NNP|NNP	O|O	|				
+15	1	fb:cell.lw12_details	LW12\ndetails	lw12|details	lw12|detail	NN|NNS	O|O	|	12.0			LW12|details
+15	2	fb:cell.christopher_devlin_young_united_states_usa	Christopher Devlin-Young\nUnited States (USA)	christopher|devlin|young|united|states|-lrb-|usa|-rrb-	Christopher|Devlin|Young|United|States|-lrb-|USA|-rrb-	NNP|NNP|NNP|NNP|NNPS|-LRB-|NNP|-RRB-	PERSON|PERSON|O|LOCATION|LOCATION|O|LOCATION|O	|||||||				Christopher Devlin-Young|United States (USA)
+15	3	fb:cell.daniel_wesley_canada_can	Daniel Wesley\nCanada (CAN)	daniel|wesley|canada|-lrb-|can|-rrb-	Daniel|Wesley|Canada|-lrb-|can|-rrb-	NNP|NNP|NNP|-LRB-|VBD-AUX|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Daniel Wesley|Canada (CAN)
+15	4	fb:cell.ludwig_wolf_germany_ger	Ludwig Wolf\nGermany (GER)	ludwig|wolf|germany|-lrb-|ger|-rrb-	Ludwig|Wolf|Germany|-lrb-|GER|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Ludwig Wolf|Germany (GER)
+16	0	fb:cell.giant_slalom	Giant slalom	giant|slalom	giant|slalom	JJ|NN	O|O	|				
+16	1	fb:cell.b1_2_details	B1-2\ndetails	b1-2|details	b1-2|detail	NN|NNS	O|O	|	1.0		2.0	B1-2|details
+16	2	fb:cell.eric_villalon_guide_pere_comet_spain_esp	Eric Villalon\nGuide: Pere Comet\nSpain (ESP)	eric|villalon|guide|:|pere|comet|spain|-lrb-|esp|-rrb-	Eric|Villalon|Guide|:|Pere|Comet|Spain|-lrb-|ESP|-rrb-	NNP|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O|O|LOCATION|O|O|O	|||||||||				Eric Villalon|Guide: Pere Comet|Spain (ESP)
+16	3	fb:cell.bart_bunting_guide_nathan_chivers_australia_aus	Bart Bunting\nGuide: Nathan Chivers\nAustralia (AUS)	bart|bunting|guide|:|nathan|chivers|australia|-lrb-|aus|-rrb-	Bart|Bunting|Guide|:|Nathan|Chivers|Australia|-lrb-|AUS|-rrb-	NNP|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O	|||||||||				Bart Bunting|Guide: Nathan Chivers|Australia (AUS)
+16	4	fb:cell.radomir_dudas_guide_juraj_mikulas_slovakia_svk	Radomir Dudas\nGuide: Juraj Mikulas\nSlovakia (SVK)	radomir|dudas|guide|:|juraj|mikulas|slovakia|-lrb-|svk|-rrb-	Radomir|Dudas|Guide|:|Juraj|Mikulas|Slovakia|-lrb-|SVK|-rrb-	NNP|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|PERSON|PERSON|PERSON|O|O|O	|||||||||				Radomir Dudas|Guide: Juraj Mikulas|Slovakia (SVK)
+17	0	fb:cell.giant_slalom	Giant slalom	giant|slalom	giant|slalom	JJ|NN	O|O	|				
+17	1	fb:cell.b3_details	B3\ndetails	b3|details	b3|detail	NN|NNS	O|O	|	3.0			B3|details
+17	2	fb:cell.yon_santacana_guide_raul_capdevila_spain_esp	Yon Santacana\nGuide: Raul Capdevila\nSpain (ESP)	yon|santacana|guide|:|raul|capdevila|spain|-lrb-|esp|-rrb-	yon|Santacana|Guide|:|Raul|Capdevila|Spain|-lrb-|ESP|-rrb-	RB|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|PERSON|PERSON|LOCATION|O|O|O	|||||||||				Yon Santacana|Guide: Raul Capdevila|Spain (ESP)
+17	3	fb:cell.gianmaria_dal_maistro_guide_guido_lanaro_italy_ita	Gianmaria Dal Maistro\nGuide: Guido Lanaro\nItaly (ITA)	gianmaria|dal|maistro|guide|:|guido|lanaro|italy|-lrb-|ita|-rrb-	Gianmaria|Dal|Maistro|Guide|:|Guido|Lanaro|Italy|-lrb-|ITA|-rrb-	NNP|NNP|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|PERSON|PERSON|PERSON|O|O|O	||||||||||				Gianmaria Dal Maistro|Guide: Guido Lanaro|Italy (ITA)
+17	4	fb:cell.andrew_parr_guide_david_marchi_united_states_usa	Andrew Parr\nGuide: David Marchi\nUnited States (USA)	andrew|parr|guide|:|david|marchi|united|states|-lrb-|usa|-rrb-	Andrew|Parr|Guide|:|David|Marchi|United|States|-lrb-|USA|-rrb-	NNP|NNP|NNP|:|NNP|NNP|NNP|NNPS|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|PERSON|PERSON|LOCATION|LOCATION|O|LOCATION|O	||||||||||				Andrew Parr|Guide: David Marchi|United States (USA)
+18	0	fb:cell.giant_slalom	Giant slalom	giant|slalom	giant|slalom	JJ|NN	O|O	|				
+18	1	fb:cell.lw2_details	LW2\ndetails	lw2|details	lw2|detail	NN|NNS	O|O	|	2.0			LW2|details
+18	2	fb:cell.michael_milton_australia_aus	Michael Milton\nAustralia (AUS)	michael|milton|australia|-lrb-|aus|-rrb-	Michael|Milton|Australia|-lrb-|AUS|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Michael Milton|Australia (AUS)
+18	3	fb:cell.jason_lalla_united_states_usa	Jason Lalla\nUnited States (USA)	jason|lalla|united|states|-lrb-|usa|-rrb-	Jason|Lalla|United|States|-lrb-|USA|-rrb-	NNP|NNP|NNP|NNPS|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|LOCATION|O|LOCATION|O	||||||				Jason Lalla|United States (USA)
+18	4	fb:cell.asle_tangvik_norway_nor	Asle Tangvik\nNorway (NOR)	asle|tangvik|norway|-lrb-|nor|-rrb-	Asle|Tangvik|Norway|-lrb-|nor|-rrb-	NNP|NNP|NNP|-LRB-|CC|-RRB-	O|O|LOCATION|O|O|O	|||||				Asle Tangvik|Norway (NOR)
+19	0	fb:cell.giant_slalom	Giant slalom	giant|slalom	giant|slalom	JJ|NN	O|O	|				
+19	1	fb:cell.lw3_5_7_9_details	LW3,5/7,9\ndetails	lw3|,5|/|7,9|details	lw3|,5|/|7,9|detail	NN|NN|:|CD|NNS	O|O|O|NUMBER|O	|||7.9|	35.0		79.0	LW3,5|7,9|details
+19	2	fb:cell.gerd_schoenfelder_germany_ger	Gerd Schoenfelder\nGermany (GER)	gerd|schoenfelder|germany|-lrb-|ger|-rrb-	Gerd|Schoenfelder|Germany|-lrb-|GER|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Gerd Schoenfelder|Germany (GER)
+19	3	fb:cell.romain_riboud_france_fra	Romain Riboud\nFrance (FRA)	romain|riboud|france|-lrb-|fra|-rrb-	Romain|Riboud|France|-lrb-|FRA|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Romain Riboud|France (FRA)
+19	4	fb:cell.arno_hirschbuehl_austria_aut	Arno Hirschbuehl\nAustria (AUT)	arno|hirschbuehl|austria|-lrb-|aut|-rrb-	Arno|Hirschbuehl|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Arno Hirschbuehl|Austria (AUT)
+20	0	fb:cell.giant_slalom	Giant slalom	giant|slalom	giant|slalom	JJ|NN	O|O	|				
+20	1	fb:cell.lw4_details	LW4\ndetails	lw4|details	lw4|detail	NN|NNS	O|O	|	4.0			LW4|details
+20	2	fb:cell.steven_bayley_new_zealand_nzl	Steven Bayley\nNew Zealand (NZL)	steven|bayley|new|zealand|-lrb-|nzl|-rrb-	Steven|Bayley|New|Zealand|-lrb-|NZL|-rrb-	NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|LOCATION|O|O|O	||||||				Steven Bayley|New Zealand (NZL)
+20	3	fb:cell.hans_burn_switzerland_sui	Hans Burn\nSwitzerland (SUI)	hans|burn|switzerland|-lrb-|sui|-rrb-	Hans|burn|Switzerland|-lrb-|SUI|-rrb-	NNP|VBP|NNP|-LRB-|NNP|-RRB-	PERSON|O|LOCATION|O|O|O	|||||				Hans Burn|Switzerland (SUI)
+20	4	fb:cell.robert_meusburger_austria_aut	Robert Meusburger\nAustria (AUT)	robert|meusburger|austria|-lrb-|aut|-rrb-	Robert|Meusburger|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Robert Meusburger|Austria (AUT)
+21	0	fb:cell.giant_slalom	Giant slalom	giant|slalom	giant|slalom	JJ|NN	O|O	|				
+21	1	fb:cell.lw6_8_details	LW6/8\ndetails	lw6/8|details	lw6/8|detail	NN|NNS	O|O	|	6.0		8.0	LW6|8|details
+21	2	fb:cell.rolf_heinzmann_switzerland_sui	Rolf Heinzmann\nSwitzerland (SUI)	rolf|heinzmann|switzerland|-lrb-|sui|-rrb-	Rolf|Heinzmann|Switzerland|-lrb-|SUI|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Rolf Heinzmann|Switzerland (SUI)
+21	3	fb:cell.lionel_brun_france_fra	Lionel Brun\nFrance (FRA)	lionel|brun|france|-lrb-|fra|-rrb-	Lionel|Brun|France|-lrb-|FRA|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Lionel Brun|France (FRA)
+21	4	fb:cell.frank_pfortmueller_germany_ger	Frank Pfortmueller\nGermany (GER)	frank|pfortmueller|germany|-lrb-|ger|-rrb-	Frank|Pfortmueller|Germany|-lrb-|GER|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Frank Pfortmueller|Germany (GER)
+22	0	fb:cell.giant_slalom	Giant slalom	giant|slalom	giant|slalom	JJ|NN	O|O	|				
+22	1	fb:cell.lw10_details	LW10\ndetails	lw10|details	lw10|detail	NN|NNS	O|O	|	10.0			LW10|details
+22	2	fb:cell.martin_braxenthaler_germany_ger	Martin Braxenthaler\nGermany (GER)	martin|braxenthaler|germany|-lrb-|ger|-rrb-	Martin|Braxenthaler|Germany|-lrb-|GER|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Martin Braxenthaler|Germany (GER)
+22	3	fb:cell.ronny_persson_sweden_swe	Ronny Persson\nSweden (SWE)	ronny|persson|sweden|-lrb-|swe|-rrb-	Ronny|Persson|Sweden|-lrb-|swe|-rrb-	NNP|NNP|NNP|-LRB-|NN|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Ronny Persson|Sweden (SWE)
+22	4	fb:cell.chris_waddell_united_states_usa	Chris Waddell\nUnited States (USA)	chris|waddell|united|states|-lrb-|usa|-rrb-	Chris|Waddell|United|States|-lrb-|USA|-rrb-	NNP|NNP|NNP|NNPS|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|LOCATION|O|LOCATION|O	||||||				Chris Waddell|United States (USA)
+23	0	fb:cell.giant_slalom	Giant slalom	giant|slalom	giant|slalom	JJ|NN	O|O	|				
+23	1	fb:cell.lw11_details	LW11\ndetails	lw11|details	lw11|detail	NN|NNS	O|O	|	11.0			LW11|details
+23	2	fb:cell.harald_eder_austria_aut	Harald Eder\nAustria (AUT)	harald|eder|austria|-lrb-|aut|-rrb-	Harald|Eder|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Harald Eder|Austria (AUT)
+23	3	fb:cell.juergen_egle_austria_aut	Juergen Egle\nAustria (AUT)	juergen|egle|austria|-lrb-|aut|-rrb-	Juergen|Egle|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Juergen Egle|Austria (AUT)
+23	4	fb:cell.andreas_schiestl_austria_aut	Andreas Schiestl\nAustria (AUT)	andreas|schiestl|austria|-lrb-|aut|-rrb-	Andreas|Schiestl|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Andreas Schiestl|Austria (AUT)
+24	0	fb:cell.giant_slalom	Giant slalom	giant|slalom	giant|slalom	JJ|NN	O|O	|				
+24	1	fb:cell.lw12_details	LW12\ndetails	lw12|details	lw12|detail	NN|NNS	O|O	|	12.0			LW12|details
+24	2	fb:cell.hans_joerg_arnold_switzerland_sui	Hans Joerg Arnold\nSwitzerland (SUI)	hans|joerg|arnold|switzerland|-lrb-|sui|-rrb-	Hans|Joerg|Arnold|Switzerland|-lrb-|SUI|-rrb-	NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|PERSON|O|O|O	||||||				Hans Joerg Arnold|Switzerland (SUI)
+24	3	fb:cell.sang_min_han_south_korea_kor	Sang Min Han\nSouth Korea (KOR)	sang|min|han|south|korea|-lrb-|kor|-rrb-	sing|min|Han|South|Korea|-lrb-|KOR|-rrb-	VBD|NN|NNP|NNP|NNP|-LRB-|NNP|-RRB-	O|DURATION|LOCATION|LOCATION|LOCATION|O|O|O	|PT1M||||||				Sang Min Han|South Korea (KOR)
+24	4	fb:cell.scott_patterson_canada_can	Scott Patterson\nCanada (CAN)	scott|patterson|canada|-lrb-|can|-rrb-	Scott|Patterson|Canada|-lrb-|can|-rrb-	NNP|NNP|NNP|-LRB-|VBD-AUX|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Scott Patterson|Canada (CAN)
+25	0	fb:cell.slalom	Slalom	slalom	slalom	NN	PERSON					
+25	1	fb:cell.b1_2_details	B1-2\ndetails	b1-2|details	b1-2|detail	NN|NNS	O|O	|	1.0		2.0	B1-2|details
+25	2	fb:cell.eric_villalon_guide_pere_comet_spain_esp	Eric Villalon\nGuide: Pere Comet\nSpain (ESP)	eric|villalon|guide|:|pere|comet|spain|-lrb-|esp|-rrb-	Eric|Villalon|Guide|:|Pere|Comet|Spain|-lrb-|ESP|-rrb-	NNP|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O|O|LOCATION|O|O|O	|||||||||				Eric Villalon|Guide: Pere Comet|Spain (ESP)
+25	3	fb:cell.radomir_dudas_guide_juraj_mikulas_slovakia_svk	Radomir Dudas\nGuide: Juraj Mikulas\nSlovakia (SVK)	radomir|dudas|guide|:|juraj|mikulas|slovakia|-lrb-|svk|-rrb-	Radomir|Dudas|Guide|:|Juraj|Mikulas|Slovakia|-lrb-|SVK|-rrb-	NNP|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|PERSON|PERSON|PERSON|O|O|O	|||||||||				Radomir Dudas|Guide: Juraj Mikulas|Slovakia (SVK)
+25	4	fb:cell.stefan_kopcik_guide_branislav_mazgut_slovakia_svk	Stefan Kopcik\nGuide: Branislav Mazgut\nSlovakia (SVK)	stefan|kopcik|guide|:|branislav|mazgut|slovakia|-lrb-|svk|-rrb-	Stefan|Kopcik|Guide|:|Branislav|Mazgut|Slovakia|-lrb-|SVK|-rrb-	NNP|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|PERSON|PERSON|PERSON|O|O|O	|||||||||				Stefan Kopcik|Guide: Branislav Mazgut|Slovakia (SVK)
+26	0	fb:cell.slalom	Slalom	slalom	slalom	NN	PERSON					
+26	1	fb:cell.b3_details	B3\ndetails	b3|details	b3|detail	NN|NNS	O|O	|	3.0			B3|details
+26	2	fb:cell.chris_williamson_guide_bill_harriott_canada_can	Chris Williamson\nGuide: Bill Harriott\nCanada (CAN)	chris|williamson|guide|:|bill|harriott|canada|-lrb-|can|-rrb-	Chris|Williamson|Guide|:|Bill|Harriott|Canada|-lrb-|can|-rrb-	NNP|NNP|NNP|:|NNP|NNP|NNP|-LRB-|VBD-AUX|-RRB-	PERSON|PERSON|O|O|PERSON|PERSON|LOCATION|O|O|O	|||||||||				Chris Williamson|Guide: Bill Harriott|Canada (CAN)
+26	3	fb:cell.andrew_parr_guide_david_marchi_united_states_usa	Andrew Parr\nGuide: David Marchi\nUnited States (USA)	andrew|parr|guide|:|david|marchi|united|states|-lrb-|usa|-rrb-	Andrew|Parr|Guide|:|David|Marchi|United|States|-lrb-|USA|-rrb-	NNP|NNP|NNP|:|NNP|NNP|NNP|NNPS|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|PERSON|PERSON|LOCATION|LOCATION|O|LOCATION|O	||||||||||				Andrew Parr|Guide: David Marchi|United States (USA)
+26	4	fb:cell.norbert_holik_guide_radoslav_grus_slovakia_svk	Norbert Holik\nGuide: Radoslav Grus\nSlovakia (SVK)	norbert|holik|guide|:|radoslav|grus|slovakia|-lrb-|svk|-rrb-	Norbert|Holik|Guide|:|Radoslav|Grus|Slovakia|-lrb-|SVK|-rrb-	NNP|NNP|NNP|:|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|PERSON|PERSON|PERSON|O|O|O	|||||||||				Norbert Holik|Guide: Radoslav Grus|Slovakia (SVK)
+27	0	fb:cell.slalom	Slalom	slalom	slalom	NN	PERSON					
+27	1	fb:cell.lw2_details	LW2\ndetails	lw2|details	lw2|detail	NN|NNS	O|O	|	2.0			LW2|details
+27	2	fb:cell.michael_milton_australia_aus	Michael Milton\nAustralia (AUS)	michael|milton|australia|-lrb-|aus|-rrb-	Michael|Milton|Australia|-lrb-|AUS|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Michael Milton|Australia (AUS)
+27	3	fb:cell.monte_meier_united_states_usa	Monte Meier\nUnited States (USA)	monte|meier|united|states|-lrb-|usa|-rrb-	Monte|Meier|United|States|-lrb-|USA|-rrb-	NNP|NNP|NNP|NNPS|-LRB-|NNP|-RRB-	LOCATION|LOCATION|LOCATION|LOCATION|O|LOCATION|O	||||||				Monte Meier|United States (USA)
+27	4	fb:cell.michael_hipp_germany_ger	Michael Hipp\nGermany (GER)	michael|hipp|germany|-lrb-|ger|-rrb-	Michael|Hipp|Germany|-lrb-|GER|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Michael Hipp|Germany (GER)
+28	0	fb:cell.slalom	Slalom	slalom	slalom	NN	PERSON					
+28	1	fb:cell.lw3_5_7_9_details	LW3,5/7,9\ndetails	lw3|,5|/|7,9|details	lw3|,5|/|7,9|detail	NN|NN|:|CD|NNS	O|O|O|NUMBER|O	|||7.9|	35.0		79.0	LW3,5|7,9|details
+28	2	fb:cell.gerd_schoenfelder_germany_ger	Gerd Schoenfelder\nGermany (GER)	gerd|schoenfelder|germany|-lrb-|ger|-rrb-	Gerd|Schoenfelder|Germany|-lrb-|GER|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Gerd Schoenfelder|Germany (GER)
+28	3	fb:cell.arno_hirschbuehl_austria_aut	Arno Hirschbuehl\nAustria (AUT)	arno|hirschbuehl|austria|-lrb-|aut|-rrb-	Arno|Hirschbuehl|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Arno Hirschbuehl|Austria (AUT)
+28	4	fb:cell.alexei_moshkine_russia_rus	Alexei Moshkine\nRussia (RUS)	alexei|moshkine|russia|-lrb-|rus|-rrb-	Alexei|Moshkine|Russia|-lrb-|RUS|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Alexei Moshkine|Russia (RUS)
+29	0	fb:cell.slalom	Slalom	slalom	slalom	NN	PERSON					
+29	1	fb:cell.lw4_details	LW4\ndetails	lw4|details	lw4|detail	NN|NNS	O|O	|	4.0			LW4|details
+29	2	fb:cell.hubert_mandl_austria_aut	Hubert Mandl\nAustria (AUT)	hubert|mandl|austria|-lrb-|aut|-rrb-	Hubert|Mandl|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Hubert Mandl|Austria (AUT)
+29	3	fb:cell.hans_burn_switzerland_sui	Hans Burn\nSwitzerland (SUI)	hans|burn|switzerland|-lrb-|sui|-rrb-	Hans|burn|Switzerland|-lrb-|SUI|-rrb-	NNP|VBP|NNP|-LRB-|NNP|-RRB-	PERSON|O|LOCATION|O|O|O	|||||				Hans Burn|Switzerland (SUI)
+29	4	fb:cell.martin_falch_austria_aut	Martin Falch\nAustria (AUT)	martin|falch|austria|-lrb-|aut|-rrb-	Martin|Falch|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O	|||||				Martin Falch|Austria (AUT)
+30	0	fb:cell.slalom	Slalom	slalom	slalom	NN	PERSON					
+30	1	fb:cell.lw6_8_details	LW6/8\ndetails	lw6/8|details	lw6/8|detail	NN|NNS	O|O	|	6.0		8.0	LW6|8|details
+30	2	fb:cell.wolfgang_moosbrugger_austria_aut	Wolfgang Moosbrugger\nAustria (AUT)	wolfgang|moosbrugger|austria|-lrb-|aut|-rrb-	Wolfgang|Moosbrugger|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Wolfgang Moosbrugger|Austria (AUT)
+30	3	fb:cell.rolf_heinzmann_switzerland_sui	Rolf Heinzmann\nSwitzerland (SUI)	rolf|heinzmann|switzerland|-lrb-|sui|-rrb-	Rolf|Heinzmann|Switzerland|-lrb-|SUI|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Rolf Heinzmann|Switzerland (SUI)
+30	4	fb:cell.lionel_brun_france_fra	Lionel Brun\nFrance (FRA)	lionel|brun|france|-lrb-|fra|-rrb-	Lionel|Brun|France|-lrb-|FRA|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Lionel Brun|France (FRA)
+31	0	fb:cell.slalom	Slalom	slalom	slalom	NN	PERSON					
+31	1	fb:cell.lw10_details	LW10\ndetails	lw10|details	lw10|detail	NN|NNS	O|O	|	10.0			LW10|details
+31	2	fb:cell.martin_braxenthaler_germany_ger	Martin Braxenthaler\nGermany (GER)	martin|braxenthaler|germany|-lrb-|ger|-rrb-	Martin|Braxenthaler|Germany|-lrb-|GER|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Martin Braxenthaler|Germany (GER)
+31	3	fb:cell.ronny_persson_sweden_swe	Ronny Persson\nSweden (SWE)	ronny|persson|sweden|-lrb-|swe|-rrb-	Ronny|Persson|Sweden|-lrb-|swe|-rrb-	NNP|NNP|NNP|-LRB-|NN|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Ronny Persson|Sweden (SWE)
+31	4	fb:cell.chris_waddell_united_states_usa	Chris Waddell\nUnited States (USA)	chris|waddell|united|states|-lrb-|usa|-rrb-	Chris|Waddell|United|States|-lrb-|USA|-rrb-	NNP|NNP|NNP|NNPS|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|LOCATION|O|LOCATION|O	||||||				Chris Waddell|United States (USA)
+32	0	fb:cell.slalom	Slalom	slalom	slalom	NN	PERSON					
+32	1	fb:cell.lw11_details	LW11\ndetails	lw11|details	lw11|detail	NN|NNS	O|O	|	11.0			LW11|details
+32	2	fb:cell.denis_barbet_france_fra	Denis Barbet\nFrance (FRA)	denis|barbet|france|-lrb-|fra|-rrb-	Denis|Barbet|France|-lrb-|FRA|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Denis Barbet|France (FRA)
+32	3	fb:cell.juergen_egle_austria_aut	Juergen Egle\nAustria (AUT)	juergen|egle|austria|-lrb-|aut|-rrb-	Juergen|Egle|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Juergen Egle|Austria (AUT)
+32	4	fb:cell.harald_eder_austria_aut	Harald Eder\nAustria (AUT)	harald|eder|austria|-lrb-|aut|-rrb-	Harald|Eder|Austria|-lrb-|AUT|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|LOCATION|O|O|O	|||||				Harald Eder|Austria (AUT)
+33	0	fb:cell.slalom	Slalom	slalom	slalom	NN	PERSON					
+33	1	fb:cell.lw12_details	LW12\ndetails	lw12|details	lw12|detail	NN|NNS	O|O	|	12.0			LW12|details
+33	2	fb:cell.daniel_wesley_canada_can	Daniel Wesley\nCanada (CAN)	daniel|wesley|canada|-lrb-|can|-rrb-	Daniel|Wesley|Canada|-lrb-|can|-rrb-	NNP|NNP|NNP|-LRB-|VBD-AUX|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Daniel Wesley|Canada (CAN)
+33	3	fb:cell.hans_joerg_arnold_switzerland_sui	Hans Joerg Arnold\nSwitzerland (SUI)	hans|joerg|arnold|switzerland|-lrb-|sui|-rrb-	Hans|Joerg|Arnold|Switzerland|-lrb-|SUI|-rrb-	NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|PERSON|O|O|O	||||||				Hans Joerg Arnold|Switzerland (SUI)
+33	4	fb:cell.ludwig_wolf_germany_ger	Ludwig Wolf\nGermany (GER)	ludwig|wolf|germany|-lrb-|ger|-rrb-	Ludwig|Wolf|Germany|-lrb-|GER|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Ludwig Wolf|Germany (GER)

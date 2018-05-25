@@ -1,0 +1,1205 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.chart_year	Chart Year	chart|year	chart|year	NN|NN	O|DURATION	|P1Y				
+-1	1	fb:row.row.artist	Artist	artist	Artist	NNP	O					
+-1	2	fb:row.row.album	Album	album	album	NN	O					
+-1	3	fb:row.row.song	Song	song	song	NN	O					
+-1	4	fb:row.row.billboard_hot_100	Billboard Hot 100	billboard|hot|100	Billboard|Hot|100	NNP|NNP|CD	O|O|NUMBER	||100.0				
+-1	5	fb:row.row.billboard_hot_r_b_hip_hop	Billboard Hot R&B/Hip Hop	billboard|hot|r&b|/|hip|hop	Billboard|Hot|r&b|/|hip|hop	NNP|NNP|NN|:|NN|VBP	O|O|O|O|O|O	|||||				
+-1	6	fb:row.row.null										
+0	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+0	1	fb:cell.puff_daddy	Puff Daddy	puff|daddy	puff|daddy	NN|NN	O|O	|				Puff Daddy
+0	2	fb:cell.fothcoming_album	Fothcoming Album	fothcoming|album	fothcoming|album	JJ|NN	O|O	|				Fothcoming Album
+0	3	fb:cell.big_homie	Big Homie	big|homie	big|Homie	JJ|NNP	PERSON|PERSON	|				Big Homie
+0	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+0	5	fb:cell.null										
+0	6	fb:cell.null										
+1	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+1	1	fb:cell.rick_ross_f_jay_z	Rick Ross f/Jay Z	rick|ross|f/jay|z	Rick|Ross|f/Jay|Z	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Rick Ross f|Jay Z
+1	2	fb:cell.fothcoming_album	Fothcoming Album	fothcoming|album	fothcoming|album	JJ|NN	O|O	|				Fothcoming Album
+1	3	fb:cell.devil_is_a_lie	Devil Is A Lie	devil|is|a|lie	Devil|be|a|lie	NNP|VBD-AUX|DT|NN	PERSON|O|O|O	|||				Devil Is A Lie
+1	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+1	5	fb:cell.null										
+1	6	fb:cell.null										
+2	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+2	1	fb:cell.rick_ross_f_jay_z	Rick Ross f/Jay Z	rick|ross|f/jay|z	Rick|Ross|f/Jay|Z	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Rick Ross f|Jay Z
+2	2	fb:cell.mastermind	Mastermind	mastermind	mastermind	NN	O					Mastermind
+2	3	fb:cell.war_ready	War Ready	war|ready	War|Ready	NNP|NNP	O|O	|				War Ready
+2	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+2	5	fb:cell.null										
+2	6	fb:cell.null										
+3	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+3	1	fb:cell.yo_gotti	Yo Gotti	yo|gotti	Yo|Gotti	NNP|NNP	PERSON|PERSON	|				Yo Gotti
+3	2	fb:cell.i_am	I Am	i|am	I|be	PRP|VBD-AUX	O|O	|				I Am
+3	3	fb:cell.i_know_f_rich_homie_quan	I Know f Rich Homie Quan	i|know|f|rich|homie|quan	I|know|f|rich|Homie|Quan	PRP|VBP|NN|JJ|NNP|NNP	O|O|O|PERSON|PERSON|PERSON	|||||				I Know f Rich Homie Quan
+3	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+3	5	fb:cell.null										
+3	6	fb:cell.null										
+4	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+4	1	fb:cell.marsha_ambrosius	Marsha Ambrosius	marsha|ambrosius	Marsha|Ambrosius	NNP|NNP	PERSON|PERSON	|				Marsha Ambrosius
+4	2	fb:cell.fvck_love	FVCK&LOVE	fvck&love	FVCK&LOVE	NNP	O					FVCK&LOVE
+4	3	fb:cell.stronger_than_pride	Stronger Than Pride	stronger|than|pride	stronger|than|pride	JJR|IN|NN	O|O|O	||				Stronger Than Pride
+4	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+4	5	fb:cell.null										
+4	6	fb:cell.null										
+5	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+5	1	fb:cell.marsha_ambrosius	Marsha Ambrosius	marsha|ambrosius	Marsha|Ambrosius	NNP|NNP	PERSON|PERSON	|				Marsha Ambrosius
+5	2	fb:cell.fvck_love	FVCK&LOVE	fvck&love	FVCK&LOVE	NNP	O					FVCK&LOVE
+5	3	fb:cell.friends_lovers	Friends & Lovers	friends|&|lovers	Friends|&|Lovers	NNPS|CC|NNPS	O|O|O	||				Friends & Lovers
+5	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+5	5	fb:cell.null										
+5	6	fb:cell.null										
+6	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+6	1	fb:cell.juicy_j	Juicy J	juicy|j	Juicy|J	NNP|NNP	PERSON|PERSON	|				Juicy J
+6	2	fb:cell.fothcoming_album	Fothcoming Album	fothcoming|album	fothcoming|album	JJ|NN	O|O	|				Fothcoming Album
+6	3	fb:cell.blow_out	Blow Out	blow|out	blow|out	NN|IN	O|O	|				Blow Out
+6	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+6	5	fb:cell.null										
+6	6	fb:cell.null										
+7	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+7	1	fb:cell.chris_brown	Chris Brown	chris|brown	Chris|Brown	NNP|NNP	PERSON|PERSON	|				Chris Brown
+7	2	fb:cell.x	X	x	x	NN	O					X
+7	3	fb:cell.loyal	Loyal	loyal	loyal	JJ	O					Loyal
+7	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+7	5	fb:cell.null										
+7	6	fb:cell.null										
+8	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+8	1	fb:cell.iamsu	IAMSU!	iamsu|!	iamsu|!	NN|.	PERSON|O	|				IAMSU!
+8	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+8	3	fb:cell.only_that_real_f_2_chains	Only that Real f 2 Chains	only|that|real|f|2|chains	only|that|real|f|2|chain	RB|DT|JJ|NN|CD|NNS	O|O|O|O|NUMBER|O	||||2.0|	2.0			Only that Real f 2 Chains
+8	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+8	5	fb:cell.null										
+8	6	fb:cell.null										
+9	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+9	1	fb:cell.omarion	Omarion	omarion	Omarion	NNP	PERSON					Omarion
+9	2	fb:cell.fothcoming_album	Fothcoming Album	fothcoming|album	fothcoming|album	JJ|NN	O|O	|				Fothcoming Album
+9	3	fb:cell.i_like_it	I Like It	i|like|it	I|like|it	PRP|VBP|PRP	O|O|O	||				I Like It
+9	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+9	5	fb:cell.null										
+9	6	fb:cell.null										
+10	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+10	1	fb:cell.j_lo_ricky_martin	J-Lo/Ricky Martin	j|lo/ricky|martin	J|Lo/Ricky|Martin	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				J-Lo|Ricky Martin
+10	2	fb:cell.world_cup	World Cup	world|cup	world|cup	NN|NN	MISC|MISC	|				World Cup
+10	3	fb:cell.adrenalina_f_j_lo_ricky_martin	Adrenalina f/J-Lo/Ricky Martin	adrenalina|f/j|lo/ricky|martin	Adrenalina|f/J|Lo/Ricky|Martin	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Adrenalina f|J-Lo|Ricky Martin
+10	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+10	5	fb:cell.null										
+10	6	fb:cell.null										
+11	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+11	1	fb:cell.jennifer_lopez	Jennifer Lopez	jennifer|lopez	Jennifer|Lopez	NNP|NNP	PERSON|PERSON	|				Jennifer Lopez
+11	2	fb:cell.fothcoming_album	Fothcoming Album	fothcoming|album	fothcoming|album	JJ|NN	O|O	|				Fothcoming Album
+11	3	fb:cell.girls_just_wanna	Girls Just Wanna	girls|just|wan|na	girl|just|wan|na	NNS|RB|VBP|TO	O|O|O|O	|||				Girls Just Wanna
+11	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+11	5	fb:cell.null										
+11	6	fb:cell.null										
+12	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+12	1	fb:cell.jennifer_lopez	Jennifer Lopez	jennifer|lopez	Jennifer|Lopez	NNP|NNP	PERSON|PERSON	|				Jennifer Lopez
+12	2	fb:cell.fothcoming_album	Fothcoming Album	fothcoming|album	fothcoming|album	JJ|NN	O|O	|				Fothcoming Album
+12	3	fb:cell.same_girl	Same Girl	same|girl	same|girl	JJ|NN	O|O	|				Same Girl
+12	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+12	5	fb:cell.null										
+12	6	fb:cell.null										
+13	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+13	1	fb:cell.jennifer_lopez	Jennifer Lopez	jennifer|lopez	Jennifer|Lopez	NNP|NNP	PERSON|PERSON	|				Jennifer Lopez
+13	2	fb:cell.fothcoming_album	Fothcoming Album	fothcoming|album	fothcoming|album	JJ|NN	O|O	|				Fothcoming Album
+13	3	fb:cell.papi	Papi	papi	Papi	NNP	O					Papi
+13	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+13	5	fb:cell.null										
+13	6	fb:cell.null										
+14	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+14	1	fb:cell.jhene_aiko	Jhene Aiko	jhene|aiko	Jhene|Aiko	NNP|NNP	PERSON|PERSON	|				Jhene Aiko
+14	2	fb:cell.sail_out	Sail Out	sail|out	sail|out	VB|RP	O|O	|				Sail Out
+14	3	fb:cell.the_worst	The Worst	the|worst	the|worst	DT|JJS	O|O	|				The Worst
+14	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+14	5	fb:cell.null										
+14	6	fb:cell.null										
+15	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+15	1	fb:cell.sevyn_streeter	Sevyn Streeter	sevyn|streeter	Sevyn|Streeter	NNP|NNP	PERSON|PERSON	|				Sevyn Streeter
+15	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+15	3	fb:cell.next	Next	next	next	JJ	O					Next
+15	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+15	5	fb:cell.null										
+15	6	fb:cell.null										
+16	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+16	1	fb:cell.tinashe	Tinashe	tinashe	Tinashe	NNP	PERSON					Tinashe
+16	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+16	3	fb:cell.2_on_f_schoolboy_q	2 On f/ Schoolboy Q	2|on|f|/|schoolboy|q	2|on|f|/|schoolboy|Q	CD|IN|NN|:|NN|NNP	NUMBER|O|O|O|O|O	2.0|||||	2.0			2 On f|Schoolboy Q
+16	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+16	5	fb:cell.null										
+16	6	fb:cell.null										
+17	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+17	1	fb:cell.future	Future	future	future	NN	DATE	FUTURE_REF				Future
+17	2	fb:cell.honest	Honest	honest	honest	JJ	O					Honest
+17	3	fb:cell.covered_in_money	Covered In Money	covered|in|money	cover|in|money	VBN|IN|NN	O|O|O	||				Covered In Money
+17	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+17	5	fb:cell.null										
+17	6	fb:cell.null										
+18	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+18	1	fb:cell.future	Future	future	future	NN	DATE	FUTURE_REF				Future
+18	2	fb:cell.honest	Honest	honest	honest	JJ	O					Honest
+18	3	fb:cell.move_that_dope	Move That Dope	move|that|dope	move|that|dope	VB|IN|NN	O|O|O	||				Move That Dope
+18	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+18	5	fb:cell.null										
+18	6	fb:cell.null										
+19	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+19	1	fb:cell.trey_songz	Trey Songz	trey|songz	Trey|Songz	NNP|NNP	PERSON|PERSON	|				Trey Songz
+19	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+19	3	fb:cell.nana	NANA	nana	NANA	NNP	PERSON					NANA
+19	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+19	5	fb:cell.null										
+19	6	fb:cell.null										
+20	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+20	1	fb:cell.kid_ink	Kid Ink	kid|ink	Kid|ink	NNP|NN	O|O	|				Kid Ink
+20	2	fb:cell.my_own_lane	My Own Lane	my|own|lane	my|own|lane	PRP$|JJ|NN	O|O|O	||				My Own Lane
+20	3	fb:cell.main_chick	Main Chick	main|chick	main|chick	JJ|NN	O|O	|				Main Chick
+20	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+20	5	fb:cell.null										
+20	6	fb:cell.null										
+21	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+21	1	fb:cell.kid_ink	Kid Ink	kid|ink	Kid|ink	NNP|NN	O|O	|				Kid Ink
+21	2	fb:cell.my_own_lane	My Own Lane	my|own|lane	my|own|lane	PRP$|JJ|NN	O|O|O	||				My Own Lane
+21	3	fb:cell.show_me	Show Me	show|me	show|I	VB|PRP	O|O	|				Show Me
+21	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+21	5	fb:cell.null										
+21	6	fb:cell.null										
+22	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+22	1	fb:cell.august_alsina	August Alsina	august|alsina	August|Alsina	NNP|NNP	PERSON|PERSON	|				August Alsina
+22	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+22	3	fb:cell.benidiction_f_rick_ross	Benidiction f/ Rick Ross	benidiction|f|/|rick|ross	benidiction|f|/|Rick|Ross	NN|NN|:|NNP|NNP	O|O|O|PERSON|PERSON	||||				Benidiction f|Rick Ross
+22	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+22	5	fb:cell.null										
+22	6	fb:cell.null										
+23	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+23	1	fb:cell.august_alsina	August Alsina	august|alsina	August|Alsina	NNP|NNP	PERSON|PERSON	|				August Alsina
+23	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+23	3	fb:cell.numb	Numb	numb	numb	JJ	O					Numb
+23	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+23	5	fb:cell.null										
+23	6	fb:cell.null										
+24	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+24	1	fb:cell.august_alsina	August Alsina	august|alsina	August|Alsina	NNP|NNP	PERSON|PERSON	|				August Alsina
+24	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+24	3	fb:cell.make_it_home	Make It Home	make|it|home	make|it|home	VB|PRP|NN	O|O|O	||				Make It Home
+24	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+24	5	fb:cell.null										
+24	6	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+25	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+25	1	fb:cell.yo_gotti	Yo Gotti	yo|gotti	Yo|Gotti	NNP|NNP	PERSON|PERSON	|				Yo Gotti
+25	2	fb:cell.i_am	I Am	i|am	I|be	PRP|VBD-AUX	O|O	|				I Am
+25	3	fb:cell.don_t_come_around	Don't Come Around	do|n't|come|around	do|not|come|around	VBD-AUX|RB|VB|RB	O|O|O|O	|||				Don't Come Around
+25	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+25	5	fb:cell.null										
+25	6	fb:cell.null										
+26	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+26	1	fb:cell.marsha_ambrosious	Marsha Ambrosious	marsha|ambrosious	Marsha|Ambrosious	NNP|NNP	PERSON|PERSON	|				Marsha Ambrosious
+26	2	fb:cell.fothcoming_album	Fothcoming Album	fothcoming|album	fothcoming|album	JJ|NN	O|O	|				Fothcoming Album
+26	3	fb:cell.without_you_f_neyo	Without You f/ Neyo	without|you|f|/|neyo	without|you|f|/|neyo	IN|PRP|NN|:|NN	O|O|O|O|O	||||				Without You f|Neyo
+26	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+26	5	fb:cell.null										
+26	6	fb:cell.null										
+27	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+27	1	fb:cell.justin_bieber	Justin Bieber	justin|bieber	Justin|Bieber	NNP|NNP	PERSON|PERSON	|				Justin Bieber
+27	2	fb:cell.journals	Journals	journals	journal	NNS	O					Journals
+27	3	fb:cell.various_music_monday_singles	Various Music Monday Singles	various|music|monday|singles	various|music|Monday|singles	JJ|NN|NNP|NNS	O|O|DATE|O	||XXXX-WXX-1|				Various Music Monday Singles
+27	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+27	5	fb:cell.null										
+27	6	fb:cell.null										
+28	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+28	1	fb:cell.r_kelly	R. Kelly	r.|kelly	R.|Kelly	NNP|NNP	PERSON|PERSON	|				R. Kelly
+28	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+28	3	fb:cell.cookie	Cookie	cookie	cookie	NN	PERSON					Cookie
+28	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+28	5	fb:cell.null										
+28	6	fb:cell.null										
+29	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+29	1	fb:cell.r_kelly	R. Kelly	r.|kelly	R.|Kelly	NNP|NNP	PERSON|PERSON	|				R. Kelly
+29	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+29	3	fb:cell.sex_genius	Sex Genius	sex|genius	sex|genius	NN|NN	O|O	|				Sex Genius
+29	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+29	5	fb:cell.null										
+29	6	fb:cell.null										
+30	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+30	1	fb:cell.trevor_jackson	Trevor Jackson	trevor|jackson	Trevor|Jackson	NNP|NNP	PERSON|PERSON	|				Trevor Jackson
+30	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+30	3	fb:cell.drop_it	Drop It	drop|it	drop|it	VB|PRP	O|O	|				Drop It
+30	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+30	5	fb:cell.null										
+30	6	fb:cell.null										
+31	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+31	1	fb:cell.aloe_blacc	Aloe Blacc	aloe|blacc	Aloe|Blacc	NNP|NNP	PERSON|PERSON	|				Aloe Blacc
+31	2	fb:cell.wake_me_up	Wake Me Up	wake|me|up	wake|I|up	VB|PRP|RP	O|O|O	||				Wake Me Up
+31	3	fb:cell.wake_me_up	Wake Me Up	wake|me|up	wake|I|up	VB|PRP|RP	O|O|O	||				Wake Me Up
+31	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+31	5	fb:cell.null										
+31	6	fb:cell.null										
+32	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+32	1	fb:cell.jhene_aiko	Jhene Aiko	jhene|aiko	Jhene|Aiko	NNP|NNP	PERSON|PERSON	|				Jhene Aiko
+32	2	fb:cell.sail_out	Sail Out	sail|out	sail|out	VB|RP	O|O	|				Sail Out
+32	3	fb:cell.bed_peace_f_childish_gambino	Bed Peace f/Childish Gambino	bed|peace|f/childish|gambino	bed|peace|f/childish|gambino	NN|NN|JJ|NN	O|O|O|O	|||				Bed Peace f|Childish Gambino
+32	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+32	5	fb:cell.null										
+32	6	fb:cell.null										
+33	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+33	1	fb:cell.jay_z	Jay-Z	jay|z	Jay|Z	NNP|NNP	PERSON|PERSON	|				Jay-Z
+33	2	fb:cell.magna_carta_holy_grail	Magna Carta... Holy Grail	magna|carta|...|holy|grail	magna|carta|...|holy|grail	JJ|NN|:|JJ|NN	ORGANIZATION|ORGANIZATION|O|O|O	||||				Magna Carta... Holy Grail
+33	3	fb:cell.f_uckwithmeyouknowigotit	F*uckwithmeyouknowigotit	f|*|uckwithmeyouknowigotit	f|*|uckwithmeyouknowigotit	NN|SYM|NN	O|O|O	||				F*uckwithmeyouknowigotit
+33	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+33	5	fb:cell.null										
+33	6	fb:cell.null										
+34	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+34	1	fb:cell.yo_gotti	Yo Gotti	yo|gotti	Yo|Gotti	NNP|NNP	PERSON|PERSON	|				Yo Gotti
+34	2	fb:cell.i_am	I Am	i|am	I|be	PRP|VBD-AUX	O|O	|				I Am
+34	3	fb:cell.king_shit_f_ti	King Shit f/TI	king|shit|f/ti	King|Shit|f/TI	NNP|NNP|NNP	O|O|O	||				King Shit f|TI
+34	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+34	5	fb:cell.null										
+34	6	fb:cell.null										
+35	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+35	1	fb:cell.cali_y_el_dandee	Cali Y El Dandee	cali|y|el|dandee	cali|y|El|Dandee	FW|NN|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Cali Y El Dandee
+35	2	fb:cell.3_a_m	3 A.M	3|a.m	3|a.m	CD|RB	TIME|TIME	T03:00|T03:00	3.0			3 A.M
+35	3	fb:cell.no_digas_nada_deja_vu	No Digas Nada (Déjà vu)	no|digas|nada|-lrb-|déjà|vu|-rrb-	no|Digas|Nada|-lrb-|Déjà|vu|-rrb-	DT|NNP|NNP|-LRB-|NNP|NN|-RRB-	O|O|O|O|O|O|O	||||||				No Digas Nada (Déjà vu)
+35	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+35	5	fb:cell.null										
+35	6	fb:cell.null										
+36	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+36	1	fb:cell.ciara	Ciara	ciara	Ciara	NNP	PERSON					Ciara
+36	2	fb:cell.ciara	Ciara	ciara	Ciara	NNP	PERSON					Ciara
+36	3	fb:cell.overdose	Overdose	overdose	overdose	NN	O					Overdose
+36	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+36	5	fb:cell.null										
+36	6	fb:cell.null										
+37	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+37	1	fb:cell.mario	Mario	mario	Mario	NNP	PERSON					Mario
+37	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+37	3	fb:cell.fatal_distraction	Fatal Distraction	fatal|distraction	fatal|distraction	JJ|NN	O|O	|				Fatal Distraction
+37	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+37	5	fb:cell.null										
+37	6	fb:cell.null										
+38	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+38	1	fb:cell.miley_cyrus	Miley Cyrus	miley|cyrus	Miley|Cyrus	NNP|NNP	PERSON|PERSON	|				Miley Cyrus
+38	2	fb:cell.bangerz	Bangerz	bangerz	bangerz	NN	PERSON					Bangerz
+38	3	fb:cell._we_can_t_stop	"We Can't Stop"	``|we|ca|n't|stop|''	``|we|can|not|stop|''	``|PRP|MD|RB|VB|''	O|O|O|O|O|O	|||||				"We Can't Stop"
+38	4	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+38	5	fb:cell.null										
+38	6	fb:cell.null										
+39	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+39	1	fb:cell.mike_will_made_it	Mike Will Made It	mike|will|made|it	Mike|will|make|it	NNP|VBD-AUX|VBD|PRP	PERSON|O|O|O	|||				Mike Will Made It
+39	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+39	3	fb:cell.23	23	23	23	CD	NUMBER	23.0	23.0			23
+39	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+39	5	fb:cell.null										
+39	6	fb:cell.null										
+40	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+40	1	fb:cell.jhene_aiko	Jhene Aiko	jhene|aiko	Jhene|Aiko	NNP|NNP	PERSON|PERSON	|				Jhene Aiko
+40	2	fb:cell.sail_out	Sail Out	sail|out	sail|out	VB|RP	O|O	|				Sail Out
+40	3	fb:cell.bed_piece	Bed Piece	bed|piece	bed|piece	NN|NN	O|O	|				Bed Piece
+40	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+40	5	fb:cell.null										
+40	6	fb:cell.null										
+41	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+41	1	fb:cell.omarion	Omarion	omarion	Omarion	NNP	PERSON					Omarion
+41	2	fb:cell.self_made_3	Self Made 3	self|made|3	self|make|3	NN|VBD|CD	O|O|NUMBER	||3.0	3.0			Self Made 3
+41	3	fb:cell.know_you_better_f_fab	Know You Better f/ Fab	know|you|better|f|/|fab	know|you|better|f|/|fab	VB|PRP|JJR|NN|:|NN	O|O|O|O|O|O	|||||				Know You Better f|Fab
+41	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+41	5	fb:cell.null										
+41	6	fb:cell.null										
+42	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+42	1	fb:cell.marsha_ambrosius	Marsha Ambrosius	marsha|ambrosius	Marsha|Ambrosius	NNP|NNP	PERSON|PERSON	|				Marsha Ambrosius
+42	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+42	3	fb:cell.without_you_f_neyo_2	Without You f/Neyo	without|you|f/neyo	without|you|f/neyo	IN|PRP|VBP	O|O|O	||				Without You f|Neyo
+42	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+42	5	fb:cell.null										
+42	6	fb:cell.null										
+43	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+43	1	fb:cell.sevyn_streeter	Sevyn Streeter	sevyn|streeter	Sevyn|Streeter	NNP|NNP	PERSON|PERSON	|				Sevyn Streeter
+43	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+43	3	fb:cell.it_wont_stop	It Wont Stop	it|wont|stop	it|wont|stop	PRP|VBD|NN	O|O|O	||				It Wont Stop
+43	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+43	5	fb:cell.null										
+43	6	fb:cell.null										
+44	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+44	1	fb:cell.mario	Mario	mario	Mario	NNP	PERSON					Mario
+44	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+44	3	fb:cell.somebody_else_f_nikki_minaj	Somebody Else f/ Nikki Minaj	somebody|else|f|/|nikki|minaj	somebody|else|f|/|Nikki|Minaj	NN|RB|NN|:|NNP|NNP	O|O|O|O|PERSON|PERSON	|||||				Somebody Else f|Nikki Minaj
+44	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+44	5	fb:cell.null										
+44	6	fb:cell.null										
+45	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+45	1	fb:cell.future	Future	future	future	NN	DATE	FUTURE_REF				Future
+45	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+45	3	fb:cell.shit	Shit	shit	Shit	NNP	O					Shit
+45	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+45	5	fb:cell.null										
+45	6	fb:cell.null										
+46	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+46	1	fb:cell.future	Future	future	future	NN	DATE	FUTURE_REF				Future
+46	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+46	3	fb:cell.honest	Honest	honest	honest	JJ	O					Honest
+46	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+46	5	fb:cell.null										
+46	6	fb:cell.null										
+47	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+47	1	fb:cell.ariana_grande	Ariana Grande	ariana|grande	Ariana|Grande	NNP|NNP	PERSON|PERSON	|				Ariana Grande
+47	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+47	3	fb:cell.right_there_f_big_sean	Right There f/ Big Sean	right|there|f|/|big|sean	right|there|f|/|big|Sean	RB|RB|NN|:|JJ|NNP	O|O|O|O|O|PERSON	|||||				Right There f|Big Sean
+47	4	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+47	5	fb:cell.null										
+47	6	fb:cell.null										
+48	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+48	1	fb:cell.r_kelly	R. Kelly	r.|kelly	R.|Kelly	NNP|NNP	PERSON|PERSON	|				R. Kelly
+48	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+48	3	fb:cell.my_story_f_2_chains	My Story f/ 2 Chains	my|story|f|/|2|chains	my|story|f|/|2|chain	PRP$|NN|NN|:|CD|NNS	O|O|O|O|NUMBER|O	||||2.0|	2.0			My Story f|2 Chains
+48	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+48	5	fb:cell.null										
+48	6	fb:cell.null										
+49	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+49	1	fb:cell.sabi	SABI	sabi	sabi	FW	PERSON					SABI
+49	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+49	3	fb:cell.cali_love_f_tyga	Cali Love f/ TYGA	cali|love|f|/|tyga	Cali|Love|f|/|tyga	NNP|NNP|NN|:|NN	MISC|O|O|O|O	||||				Cali Love f|TYGA
+49	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+49	5	fb:cell.null										
+49	6	fb:cell.null										
+50	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+50	1	fb:cell.iggy_azelea	Iggy Azelea	iggy|azelea	Iggy|Azelea	NNP|NNP	PERSON|PERSON	|				Iggy Azelea
+50	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+50	3	fb:cell.change_your_life_f_ti	Change your Life f/ TI	change|your|life|f|/|ti	change|you|life|f|/|TI	VB|PRP$|NN|NN|:|NNP	O|O|O|O|O|O	|||||				Change your Life f|TI
+50	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+50	5	fb:cell.null										
+50	6	fb:cell.null										
+51	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+51	1	fb:cell.ludacris	Ludacris	ludacris	Ludacris	NNP	PERSON					Ludacris
+51	2	fb:cell.ludaversal	Ludaversal	ludaversal	ludaversal	JJ	PERSON					Ludaversal
+51	3	fb:cell.helluva_night	Helluva Night	helluva|night	Helluva|Night	NNP|NNP	O|TIME	|TNI				Helluva Night
+51	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+51	5	fb:cell.null										
+51	6	fb:cell.null										
+52	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+52	1	fb:cell.momo_wu	Momo Wu	momo|wu	Momo|Wu	NNP|NNP	PERSON|PERSON	|				Momo Wu
+52	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+52	3	fb:cell.live_for_now	Live for Now	live|for|now	live|for|now	VB|IN|RB	O|O|DATE	||PRESENT_REF				Live for Now
+52	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+52	5	fb:cell.null										
+52	6	fb:cell.null										
+53	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+53	1	fb:cell.yo_gotti	Yo Gotti	yo|gotti	Yo|Gotti	NNP|NNP	PERSON|PERSON	|				Yo Gotti
+53	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+53	3	fb:cell.act_right	Act Right	act|right	act|right	VB|NN	O|O	|				Act Right
+53	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+53	5	fb:cell.null										
+53	6	fb:cell.null										
+54	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+54	1	fb:cell.chris_brown	Chris Brown	chris|brown	Chris|Brown	NNP|NNP	PERSON|PERSON	|				Chris Brown
+54	2	fb:cell.x	X	x	x	NN	O					X
+54	3	fb:cell.love_more_f_nikki_minaj	Love More f/Nikki Minaj	love|more|f/nikki|minaj	love|more|f/nikki|minaj	VB|RBR|JJ|NN	O|O|PERSON|PERSON	|||				Love More f|Nikki Minaj
+54	4	fb:cell.31	31	31	31	CD	NUMBER	31.0	31.0			
+54	5	fb:cell.null										
+54	6	fb:cell.null										
+55	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+55	1	fb:cell.kaptn	Kaptn	kaptn	kaptn	NN	PERSON					Kaptn
+55	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+55	3	fb:cell.ricky_ricardo	Ricky Ricardo	ricky|ricardo	Ricky|Ricardo	NNP|NNP	PERSON|PERSON	|				Ricky Ricardo
+55	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+55	5	fb:cell.null										
+55	6	fb:cell.null										
+56	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+56	1	fb:cell.jay_sean	Jay Sean	jay|sean	Jay|Sean	NNP|NNP	PERSON|PERSON	|				Jay Sean
+56	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+56	3	fb:cell.mars_f_rick_ross	Mars f/ Rick Ross	mars|f|/|rick|ross	Mars|f|/|Rick|Ross	NNP|NN|:|NNP|NNP	O|O|O|PERSON|PERSON	||||				Mars f|Rick Ross
+56	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+56	5	fb:cell.null										
+56	6	fb:cell.null										
+57	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+57	1	fb:cell.earl_sweatshirt	Earl Sweatshirt	earl|sweatshirt	Earl|sweatshirt	NNP|NN	PERSON|PERSON	|				Earl Sweatshirt
+57	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+57	3	fb:cell.hive	Hive	hive	Hive	NNP	O					Hive
+57	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+57	5	fb:cell.null										
+57	6	fb:cell.null										
+58	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+58	1	fb:cell.kelly_rowland	Kelly Rowland	kelly|rowland	Kelly|Rowland	NNP|NNP	PERSON|PERSON	|				Kelly Rowland
+58	2	fb:cell.talk_a_good_game	Talk A Good Game	talk|a|good|game	talk|a|good|game	VB|DT|JJ|NN	O|O|O|O	|||				Talk A Good Game
+58	3	fb:cell.dirty_laundry	Dirty Laundry	dirty|laundry	dirty|laundry	JJ|NN	O|O	|				Dirty Laundry
+58	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+58	5	fb:cell.null										
+58	6	fb:cell.null										
+59	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+59	1	fb:cell.tyler_the_creator	Tyler The Creator	tyler|the|creator	Tyler|the|Creator	NNP|DT|NNP	PERSON|PERSON|PERSON	||				Tyler The Creator
+59	2	fb:cell.wolf	Wolf	wolf	Wolf	NNP	PERSON					Wolf
+59	3	fb:cell.domo_23_rusty	Domo 23 & Rusty	domo|23|&|rusty	Domo|23|&|Rusty	NNP|CD|CC|NNP	O|NUMBER|O|PERSON	|23.0||	23.0			Domo 23 & Rusty
+59	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+59	5	fb:cell.null										
+59	6	fb:cell.null										
+60	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+60	1	fb:cell.fantasia	Fantasia	fantasia	Fantasia	NNP	O					Fantasia
+60	2	fb:cell.side_effects_of_you	Side Effects of You	side|effects|of|you	side|effect|of|you	JJ|NNS|IN|PRP	O|O|O|O	|||				Side Effects of You
+60	3	fb:cell.without_me_f_kelly_rolland_miss_elliot	Without Me f/ Kelly Rolland & Miss Elliot	without|me|f|/|kelly|rolland|&|miss|elliot	without|I|f|/|Kelly|Rolland|&|Miss|Elliot	IN|PRP|NN|:|NNP|NNP|CC|NNP|NNP	O|O|O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|PERSON	||||||||				Without Me f|Kelly Rolland & Miss Elliot
+60	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+60	5	fb:cell.null										
+60	6	fb:cell.null										
+61	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+61	1	fb:cell.august_alsina	August Alsina	august|alsina	August|Alsina	NNP|NNP	PERSON|PERSON	|				August Alsina
+61	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+61	3	fb:cell.i_love_this_sh_t	I Love This Sh*t	i|love|this|sh|*|t	I|love|this|sh|*|t	PRP|VBP|DT|NN|SYM|NN	O|O|O|O|O|O	|||||				I Love This Sh*t
+61	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+61	5	fb:cell.null										
+61	6	fb:cell.null										
+62	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+62	1	fb:cell.chris_brown	Chris Brown	chris|brown	Chris|Brown	NNP|NNP	PERSON|PERSON	|				Chris Brown
+62	2	fb:cell.x	X	x	x	NN	O					X
+62	3	fb:cell.fine_china	Fine China	fine|china	fine|China	JJ|NNP	O|LOCATION	|				Fine China
+62	4	fb:cell.31	31	31	31	CD	NUMBER	31.0	31.0			
+62	5	fb:cell.null										
+62	6	fb:cell.null										
+63	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+63	1	fb:cell.ludacris	Ludacris	ludacris	Ludacris	NNP	PERSON					Ludacris
+63	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+63	3	fb:cell.raised_in_the_south	Raised in the South	raised|in|the|south	raise|in|the|South	VBN|IN|DT|NNP	O|O|O|O	|||				Raised in the South
+63	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+63	5	fb:cell.null										
+63	6	fb:cell.null										
+64	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+64	1	fb:cell.ariana_grande	Ariana Grande	ariana|grande	Ariana|Grande	NNP|NNP	PERSON|PERSON	|				Ariana Grande
+64	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+64	3	fb:cell.the_way_f_mac_miller	The Way f/ Mac Miller	the|way|f|/|mac|miller	the|way|f|/|Mac|Miller	DT|NN|NN|:|NNP|NNP	O|O|O|O|PERSON|PERSON	|||||				The Way f|Mac Miller
+64	4	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+64	5	fb:cell.null										
+64	6	fb:cell.null										
+65	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+65	1	fb:cell.sean_kingston	Sean Kingston	sean|kingston	Sean|Kingston	NNP|NNP	PERSON|PERSON	|				Sean Kingston
+65	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+65	3	fb:cell.beat_it_f_chris_brown_wiz_khalifa	Beat It f/ Chris Brown & Wiz Khalifa	beat|it|f|/|chris|brown|&|wiz|khalifa	beat|it|f|/|Chris|Brown|&|wiz|Khalifa	VB|PRP|NN|:|NNP|NNP|CC|NN|NNP	O|O|O|O|PERSON|PERSON|O|O|PERSON	||||||||				Beat It f|Chris Brown & Wiz Khalifa
+65	4	fb:cell.55	55	55	55	CD	NUMBER	55.0	55.0			
+65	5	fb:cell.null										
+65	6	fb:cell.null										
+66	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+66	1	fb:cell.ciara	Ciara	ciara	Ciara	NNP	PERSON					Ciara
+66	2	fb:cell.one_woman_army	One Woman Army	one|woman|army	one|woman|army	CD|NN|NN	NUMBER|O|O	1.0||				One Woman Army
+66	3	fb:cell.body_party	Body Party	body|party	Body|Party	NNP|NNP	O|O	|				Body Party
+66	4	fb:cell.34	34	34	34	CD	NUMBER	34.0	34.0			
+66	5	fb:cell.null										
+66	6	fb:cell.null										
+67	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+67	1	fb:cell.bryan_j	Bryan J	bryan|j	Bryan|J	NNP|NNP	PERSON|PERSON	|				Bryan J
+67	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+67	3	fb:cell.caught_up	Caught Up	caught|up	catch|up	VBN|RP	O|O	|				Caught Up
+67	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+67	5	fb:cell.null										
+67	6	fb:cell.null										
+68	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+68	1	fb:cell.justin_bieber	Justin Bieber	justin|bieber	Justin|Bieber	NNP|NNP	PERSON|PERSON	|				Justin Bieber
+68	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+68	3	fb:cell.right_here_f_drake	Right Here f/ Drake	right|here|f|/|drake	right|here|f|/|Drake	RB|RB|NN|:|NNP	O|O|O|O|O	||||				Right Here f|Drake
+68	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+68	5	fb:cell.null										
+68	6	fb:cell.null										
+69	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+69	1	fb:cell.adrian_marcel	Adrian Marcel	adrian|marcel	Adrian|Marcel	NNP|NNP	PERSON|PERSON	|				Adrian Marcel
+69	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+69	3	fb:cell.waiting	Waiting	waiting	wait	VBG	O					Waiting
+69	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+69	5	fb:cell.null										
+69	6	fb:cell.null										
+70	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+70	1	fb:cell.chrisette_michele	Chrisette Michele	chrisette|michele	Chrisette|Michele	NNP|NNP	PERSON|PERSON	|				Chrisette Michele
+70	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+70	3	fb:cell.a_couple_of_forevers	A Couple of Forevers	a|couple|of|forevers	a|couple|of|forever	DT|NN|IN|NNS	O|O|O|O	|||				A Couple of Forevers
+70	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+70	5	fb:cell.null										
+70	6	fb:cell.null										
+71	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+71	1	fb:cell.juicy_j	Juicy J	juicy|j	Juicy|J	NNP|NNP	PERSON|PERSON	|				Juicy J
+71	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+71	3	fb:cell.show_out_f_young_jeezy_and_big_sean	Show Out f/Young Jeezy and Big Sean	show|out|f/young|jeezy|and|big|sean	show|out|f/young|jeezy|and|big|Sean	VB|RP|JJ|NN|CC|JJ|NNP	O|O|O|O|O|O|PERSON	||||||				Show Out f|Young Jeezy and Big Sean
+71	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+71	5	fb:cell.null										
+71	6	fb:cell.null										
+72	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+72	1	fb:cell.the_dream	The-Dream	the|dream	the|dream	DT|NN	O|O	|				The-Dream
+72	2	fb:cell.iv_play	IV Play	iv|play	iv|play	CD|NN	NUMBER|O	0.0|				IV Play
+72	3	fb:cell.iv_play	IV Play	iv|play	iv|play	CD|NN	NUMBER|O	0.0|				IV Play
+72	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+72	5	fb:cell.null										
+72	6	fb:cell.null										
+73	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+73	1	fb:cell.rick_ross	Rick Ross	rick|ross	Rick|Ross	NNP|NNP	PERSON|PERSON	|				Rick Ross
+73	2	fb:cell.django_soundtrack	Django Soundtrack	django|soundtrack	Django|soundtrack	NNP|NN	PERSON|PERSON	|				Django Soundtrack
+73	3	fb:cell.100_black_coffins	100 Black Coffins	100|black|coffins	100|black|coffin	CD|JJ|NNS	NUMBER|O|O	100.0||	100.0			100 Black Coffins
+73	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+73	5	fb:cell.null										
+73	6	fb:cell.null										
+74	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+74	1	fb:cell.b_smyth	B Smyth	b|smyth	b|smyth	NN|NN	O|PERSON	|				B Smyth
+74	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+74	3	fb:cell.leggo	Leggo	leggo	Leggo	NNP	PERSON					Leggo
+74	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+74	5	fb:cell.null										
+74	6	fb:cell.null										
+75	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+75	1	fb:cell.french_montana	French Montana	french|montana	french|Montana	JJ|NNP	O|LOCATION	|				French Montana
+75	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+75	3	fb:cell.marble_floors_f_rick_ross_lil_wayne_2_chainz	Marble Floors f Rick Ross, Lil Wayne, 2 Chainz	marble|floors|f|rick|ross|,|lil|wayne|,|2|chainz	marble|floor|f|Rick|Ross|,|Lil|Wayne|,|2|chainz	NN|NNS|NN|NNP|NNP|,|NNP|NNP|,|CD|NN	O|O|O|PERSON|PERSON|O|PERSON|PERSON|O|NUMBER|PERSON	|||||||||2.0|	2.0			Marble Floors f Rick Ross|Lil Wayne|2 Chainz
+75	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+75	5	fb:cell.null										
+75	6	fb:cell.null										
+76	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+76	1	fb:cell.t_i	T.I.	t.i.	T.I.	NNP	PERSON					T.I.
+76	2	fb:cell.trouble_man	Trouble Man	trouble|man	trouble|man	NN|NN	O|O	|				Trouble Man
+76	3	fb:cell.sorry_f_andre_3000_trouble_man	Sorry f Andre 3000 Trouble Man	sorry|f|andre|3000|trouble|man	sorry|f|Andre|3000|trouble|man	JJ|NN|NNP|CD|NN|NN	O|O|O|NUMBER|O|O	|||3000.0||	3000.0			Sorry f Andre 3000 Trouble Man
+76	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+76	5	fb:cell.null										
+76	6	fb:cell.null										
+77	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+77	1	fb:cell.t_i	T.I.	t.i.	T.I.	NNP	PERSON					T.I.
+77	2	fb:cell.trouble_man	Trouble Man	trouble|man	trouble|man	NN|NN	O|O	|				Trouble Man
+77	3	fb:cell.trap_back_jumpin	Trap Back Jumpin	trap|back|jumpin	trap|back|jumpin	NN|RB|NN	O|O|O	||				Trap Back Jumpin
+77	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+77	5	fb:cell.null										
+77	6	fb:cell.null										
+78	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+78	1	fb:cell.future	Future	future	future	NN	DATE	FUTURE_REF				Future
+78	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+78	3	fb:cell.shit	Shit	shit	Shit	NNP	O					Shit
+78	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+78	5	fb:cell.null										
+78	6	fb:cell.null										
+79	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+79	1	fb:cell.earl_sweatshirt	Earl Sweatshirt	earl|sweatshirt	Earl|sweatshirt	NNP|NN	PERSON|PERSON	|				Earl Sweatshirt
+79	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+79	3	fb:cell.chum	Chum	chum	chum	NN	O					Chum
+79	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+79	5	fb:cell.null										
+79	6	fb:cell.null										
+80	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+80	1	fb:cell.sevyn_streeter	Sevyn Streeter	sevyn|streeter	Sevyn|Streeter	NNP|NNP	PERSON|PERSON	|				Sevyn Streeter
+80	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+80	3	fb:cell.i_like_it	I Like It	i|like|it	I|like|it	PRP|VBP|PRP	O|O|O	||				I Like It
+80	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+80	5	fb:cell.null										
+80	6	fb:cell.null										
+81	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+81	1	fb:cell.rihanna	Rihanna	rihanna	Rihanna	NNP	PERSON					Rihanna
+81	2	fb:cell.unapologetic	Unapologetic	unapologetic	unapologetic	JJ	O					Unapologetic
+81	3	fb:cell.various_songs	Various Songs	various|songs	various|song	JJ|NNS	O|O	|				Various Songs
+81	4	fb:cell.11	11	11	11	CD	NUMBER	11.0	11.0			
+81	5	fb:cell.14	14	14	14	CD	NUMBER	14.0	14.0			
+81	6	fb:cell.null										
+82	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+82	1	fb:cell.future	Future	future	future	NN	DATE	FUTURE_REF				Future
+82	2	fb:cell.pluto	Pluto	pluto	Pluto	NNP	LOCATION					Pluto
+82	3	fb:cell.neva_end_f_kelly_rowland	Neva End f/Kelly Rowland	neva|end|f/kelly|rowland	Neva|End|f/Kelly|Rowland	NNP|NNP|NNP|NNP	O|O|O|O	|||				Neva End f|Kelly Rowland
+82	4	fb:cell.21	21	21	21	CD	NUMBER	21.0	21.0			
+82	5	fb:cell.null										
+82	6	fb:cell.null										
+83	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+83	1	fb:cell.ne_yo	Ne-Yo	ne|yo	ne|Yo	NN|NNP	PERSON|PERSON	|				Ne-Yo
+83	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+83	3	fb:cell.don_t_make_em_like_you	Don't Make Em Like You	do|n't|make|em|like|you	do|not|make|Em|like|you	VBD-AUX|RB|VB|NNP|IN|PRP	O|O|O|O|O|O	|||||				Don't Make Em Like You
+83	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+83	5	fb:cell.null										
+83	6	fb:cell.null										
+84	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+84	1	fb:cell.keyshia_cole	Keyshia Cole	keyshia|cole	Keyshia|Cole	NNP|NNP	PERSON|PERSON	|				Keyshia Cole
+84	2	fb:cell.woman_to_woman	Woman to Woman	woman|to|woman	woman|to|woman	NN|TO|NN	O|O|O	||				Woman to Woman
+84	3	fb:cell.enough_of_no_love_f_lil_wayne	Enough of No Love f Lil Wayne	enough|of|no|love|f|lil|wayne	enough|of|no|love|f|lil|Wayne	RB|IN|DT|NN|NN|NN|NNP	O|O|O|O|O|PERSON|PERSON	||||||				Enough of No Love f Lil Wayne
+84	4	fb:cell.null										
+84	5	fb:cell.null										
+84	6	fb:cell.null										
+85	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+85	1	fb:cell.keyshia_cole	Keyshia Cole	keyshia|cole	Keyshia|Cole	NNP|NNP	PERSON|PERSON	|				Keyshia Cole
+85	2	fb:cell.woman_to_woman	Woman to Woman	woman|to|woman	woman|to|woman	NN|TO|NN	O|O|O	||				Woman to Woman
+85	3	fb:cell.trust_and_believe	Trust and Believe	trust|and|believe	trust|and|believe	NN|CC|VB	O|O|O	||				Trust and Believe
+85	4	fb:cell.32	32	32	32	CD	NUMBER	32.0	32.0			
+85	5	fb:cell.null										
+85	6	fb:cell.null										
+86	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+86	1	fb:cell.king_l_louie	King L "Louie"	king|l|``|louie|''	King|L|``|Louie|''	NNP|NNP|``|NNP|''	O|O|O|PERSON|O	||||				King L "Louie"
+86	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+86	3	fb:cell.val_venus	Val Venus	val|venus	val|Venus	NN|NNP	PERSON|PERSON	|				Val Venus
+86	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+86	5	fb:cell.null										
+86	6	fb:cell.null										
+87	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+87	1	fb:cell.pusha_t	Pusha-T	pusha|t	pusha|t	NN|NN	PERSON|PERSON	|				Pusha-T
+87	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+87	3	fb:cell.exodus_23_1	Exodus 23:1	exodus|23:1	Exodus|23:1	NNP|NNP	O|O	|	23.0		1.0	Exodus 23:1
+87	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+87	5	fb:cell.null										
+87	6	fb:cell.null										
+88	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+88	1	fb:cell.kelly_rowland	Kelly Rowland	kelly|rowland	Kelly|Rowland	NNP|NNP	PERSON|PERSON	|				Kelly Rowland
+88	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+88	3	fb:cell.kisses_down_low	Kisses Down Low	kisses|down|low	kiss|down|low	NNS|RB|JJ	O|O|O	||				Kisses Down Low
+88	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+88	5	fb:cell.null										
+88	6	fb:cell.null										
+89	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+89	1	fb:cell.brandy_f_chris_brown	Brandy f/ Chris Brown	brandy|f|/|chris|brown	brandy|f|/|Chris|Brown	NN|NN|:|NNP|NNP	O|O|O|PERSON|PERSON	||||				Brandy f|Chris Brown
+89	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+89	3	fb:cell._put_it_down	**Put It Down	**|put|it|down	**|put|it|down	SYM|VBD|PRP|RP	O|O|O|O	|||				**Put It Down
+89	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+89	5	fb:cell.null										
+89	6	fb:cell.null										
+90	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+90	1	fb:cell.chris_brown	Chris Brown	chris|brown	Chris|Brown	NNP|NNP	PERSON|PERSON	|				Chris Brown
+90	2	fb:cell.fortune	Fortune	fortune	Fortune	NNP	PERSON					Fortune
+90	3	fb:cell.don_t_judge_me	Don't Judge Me	do|n't|judge|me	do|not|judge|I	VBD-AUX|RB|VB|PRP	O|O|O|O	|||				Don't Judge Me
+90	4	fb:cell.18	18	18	18	CD	NUMBER	18.0	18.0			
+90	5	fb:cell.null										
+90	6	fb:cell.null										
+91	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+91	1	fb:cell.chris_brown_f_big_sean_wiz_khalifa	Chris Brown f/ Big Sean & Wiz Khalifa	chris|brown|f|/|big|sean|&|wiz|khalifa	Chris|Brown|f|/|big|Sean|&|wiz|Khalifa	NNP|NNP|NN|:|JJ|NNP|CC|NN|NNP	PERSON|PERSON|O|O|O|O|O|O|PERSON	||||||||				Chris Brown f|Big Sean & Wiz Khalifa
+91	2	fb:cell.fortune	Fortune	fortune	Fortune	NNP	PERSON					Fortune
+91	3	fb:cell.till_i_die	Till I Die	till|i|die	till|I|die	IN|PRP|VBP	O|O|O	||				Till I Die
+91	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+91	5	fb:cell.12	12	12	12	CD	NUMBER	12.0	12.0			
+91	6	fb:cell.null										
+92	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+92	1	fb:cell.future	Future	future	future	NN	DATE	FUTURE_REF				Future
+92	2	fb:cell.pluto	Pluto	pluto	Pluto	NNP	LOCATION					Pluto
+92	3	fb:cell.turn_on_the_lights	Turn On The Lights	turn|on|the|lights	turn|on|the|light	VB|IN|DT|NNS	O|O|O|O	|||				Turn On The Lights
+92	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+92	5	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+92	6	fb:cell.null										
+93	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+93	1	fb:cell.nas	Nas	nas	Nas	NNP	PERSON					Nas
+93	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+93	3	fb:cell.the_don	The Don	the|don	the|Don	DT|NNP	O|O	|				The Don
+93	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+93	5	fb:cell.null										
+93	6	fb:cell.null										
+94	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+94	1	fb:cell.cashout	Cashout	cashout	Cashout	NNP	O					Cashout
+94	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+94	3	fb:cell.big_booty_ho	Big Booty Ho	big|booty|ho	big|Booty|Ho	JJ|NNP|NNP	O|O|O	||				Big Booty Ho
+94	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+94	5	fb:cell.null										
+94	6	fb:cell.null										
+95	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+95	1	fb:cell.ciara	Ciara	ciara	Ciara	NNP	PERSON					Ciara
+95	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+95	3	fb:cell.got_me_good	Got Me Good	got|me|good	get|I|good	VBD|PRP|JJ	O|O|O	||				Got Me Good
+95	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+95	5	fb:cell.null										
+95	6	fb:cell.null										
+96	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+96	1	fb:cell.tank	Tank	tank	tank	NN	O					Tank
+96	2	fb:cell.this_is_how_i_feel	This Is How I Feel	this|is|how|i|feel	this|be|how|I|feel	DT|VBD-AUX|WRB|PRP|VBP	O|O|O|O|O	||||				This Is How I Feel
+96	3	fb:cell.next_breath	Next Breath	next|breath	next|breath	JJ|NN	O|O	|				Next Breath
+96	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+96	5	fb:cell.null										
+96	6	fb:cell.null										
+97	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+97	1	fb:cell.chris_brown_f_kevin_mccall	Chris Brown f/Kevin McCall	chris|brown|f/kevin|mccall	Chris|Brown|f/Kevin|McCall	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Chris Brown f|Kevin McCall
+97	2	fb:cell.fortune	Fortune	fortune	Fortune	NNP	PERSON					Fortune
+97	3	fb:cell.strip	Strip	strip	Strip	NNP	O					Strip
+97	4	fb:cell.42	42	42	42	CD	NUMBER	42.0	42.0			
+97	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+97	6	fb:cell.null										
+98	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+98	1	fb:cell.karmin	Karmin	karmin	Karmin	NNP	PERSON					Karmin
+98	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+98	3	fb:cell.crash_your_party	Crash Your Party	crash|your|party	crash|you|party	VB|PRP$|NN	O|O|O	||				Crash Your Party
+98	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+98	5	fb:cell.null										
+98	6	fb:cell.null										
+99	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+99	1	fb:cell.john_legend	John Legend	john|legend	John|Legend	NNP|NNP	PERSON|PERSON	|				John Legend
+99	2	fb:cell.think_like_a_man_soundtrack	Think Like A Man Soundtrack	think|like|a|man|soundtrack	think|like|a|man|soundtrack	VB|IN|DT|NN|NN	O|O|O|O|O	||||				Think Like A Man Soundtrack
+99	3	fb:cell.tonight_best_you_ever_had	Tonight (Best You Ever Had)	tonight|-lrb-|best|you|ever|had|-rrb-	tonight|-lrb-|best|you|ever|have|-rrb-	NN|-LRB-|JJS|PRP|RB|VBD-AUX|-RRB-	DATE|O|O|O|O|O|O	THIS NI||||||				Tonight (Best You Ever Had)
+99	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+99	5	fb:cell.12	12	12	12	CD	NUMBER	12.0	12.0			
+99	6	fb:cell.null										
+100	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+100	1	fb:cell.diggy_simmons_f_jeremih	Diggy Simmons f/ Jeremih	diggy|simmons|f|/|jeremih	Diggy|Simmons|f|/|Jeremih	NNP|NNP|NN|:|NNP	PERSON|PERSON|O|O|O	||||				Diggy Simmons f|Jeremih
+100	2	fb:cell.4_letter_word	4 Letter Word	4|letter|word	4|letter|word	CD|NN|NN	NUMBER|O|O	4.0||	4.0			4 Letter Word
+100	3	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+100	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+100	5	fb:cell.11	11	11	11	CD	NUMBER	11.0	11.0			
+100	6	fb:cell.null										
+101	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+101	1	fb:cell.big_sean	Big Sean	big|sean	big|Sean	JJ|NNP	PERSON|PERSON	|				Big Sean
+101	2	fb:cell.finally_famous	Finally Famous	finally|famous	finally|famous	RB|JJ	O|O	|				Finally Famous
+101	3	fb:cell.dance_a	Dance (A$$)	dance|-lrb-|a$|$|-rrb-	dance|-lrb-|a$|$|-rrb-	NN|-LRB-|$|$|-RRB-	O|O|MISC|O|O	||||				Dance (A$$)
+101	4	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			
+101	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+101	6	fb:cell.null										
+102	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+102	1	fb:cell.t_i_f_b_o_b	T.I. f/ B.o.B	t.i.|f|/|b.o.b	T.I.|f|/|b.o.b	NNP|NN|:|NN	PERSON|O|O|O	|||				T.I. f|B.o.B
+102	2	fb:cell.we_don_t_get_down_like_y_all	We Don't Get Down Like Y'all	we|do|n't|get|down|like|y'|all	we|do|not|get|down|like|y'|all	PRP|VBD-AUX|RB|VB|RP|IN|NN|DT	O|O|O|O|O|O|O|O	|||||||				We Don't Get Down Like Y'all
+102	3	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+102	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+102	5	fb:cell.null										
+102	6	fb:cell.null										
+103	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+103	1	fb:cell.lupe_fiasco	Lupe Fiasco	lupe|fiasco	Lupe|fiasco	NNP|NN	PERSON|PERSON	|				Lupe Fiasco
+103	2	fb:cell.the_show_goes_on	The Show Goes On	the|show|goes|on	the|show|go|on	DT|NN|VBZ|IN	O|O|O|O	|||				The Show Goes On
+103	3	fb:cell.lasers	Lasers	lasers	laser	NNS	O					Lasers
+103	4	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+103	5	fb:cell.null										
+103	6	fb:cell.null										
+104	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+104	1	fb:cell.trey_songz	Trey Songz	trey|songz	Trey|Songz	NNP|NNP	PERSON|PERSON	|				Trey Songz
+104	2	fb:cell.passion_pain_pleasure	Passion, Pain & Pleasure	passion|,|pain|&|pleasure	passion|,|pain|&|pleasure	NN|,|NN|CC|NN	O|O|O|O|O	||||				Passion|Pain & Pleasure
+104	3	fb:cell.unusual	Unusual	unusual	unusual	JJ	O					Unusual
+104	4	fb:cell.68	68	68	68	CD	NUMBER	68.0	68.0			
+104	5	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+104	6	fb:cell.null										
+105	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+105	1	fb:cell.diggy_simmons	Diggy Simmons	diggy|simmons	Diggy|Simmons	NNP|NNP	PERSON|PERSON	|				Diggy Simmons
+105	2	fb:cell.forthcoming_album	Forthcoming Album	forthcoming|album	forthcoming|album	JJ|NN	O|O	|				Forthcoming Album
+105	3	fb:cell.copy_paste	Copy, Paste	copy|,|paste	copy|,|paste	NN|,|VBP	O|O|O	||				Copy|Paste
+105	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+105	5	fb:cell.13	13	13	13	CD	NUMBER	13.0	13.0			
+105	6	fb:cell.null										
+106	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+106	1	fb:cell.ledisi	Ledisi	ledisi	Ledisi	NNP	PERSON					Ledisi
+106	2	fb:cell.pieces_of_me	Pieces of Me	pieces|of|me	piece|of|I	NNS|IN|PRP	O|O|O	||				Pieces of Me
+106	3	fb:cell.pieces_of_me	Pieces of Me	pieces|of|me	piece|of|I	NNS|IN|PRP	O|O|O	||				Pieces of Me
+106	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+106	5	fb:cell.21	21	21	21	CD	NUMBER	21.0	21.0			
+106	6	fb:cell.null										
+107	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+107	1	fb:cell.trey_songz	Trey Songz	trey|songz	Trey|Songz	NNP|NNP	PERSON|PERSON	|				Trey Songz
+107	2	fb:cell.passion_pain_pleasure	Passion, Pain & Pleasure	passion|,|pain|&|pleasure	passion|,|pain|&|pleasure	NN|,|NN|CC|NN	O|O|O|O|O	||||				Passion|Pain & Pleasure
+107	3	fb:cell.can_t_be_friends	Can't Be Friends	ca|n't|be|friends	can|not|be|friend	MD|RB|VBD-AUX|NNS	O|O|O|O	|||				Can't Be Friends
+107	4	fb:cell.43	43	43	43	CD	NUMBER	43.0	43.0			
+107	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+107	6	fb:cell.null										
+108	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+108	1	fb:cell.trey_songz	Trey Songz	trey|songz	Trey|Songz	NNP|NNP	PERSON|PERSON	|				Trey Songz
+108	2	fb:cell.passion_pain_pleasure	Passion, Pain & Pleasure	passion|,|pain|&|pleasure	passion|,|pain|&|pleasure	NN|,|NN|CC|NN	O|O|O|O|O	||||				Passion|Pain & Pleasure
+108	3	fb:cell.love_faces	Love Faces	love|faces	love|face	NN|VBZ	O|O	|				Love Faces
+108	4	fb:cell.null										
+108	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+108	6	fb:cell.null										
+109	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+109	1	fb:cell.far_east_movement	Far East Movement	far|east|movement	Far|East|Movement	NNP|NNP|NNP	O|O|O	||				Far East Movement
+109	2	fb:cell.free_wired	Free Wired	free|wired	free|wire	JJ|VBN	O|O	|				Free Wired
+109	3	fb:cell.rocketeer	Rocketeer	rocketeer	rocketeer	NN	O					Rocketeer
+109	4	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+109	5	fb:cell.null										
+109	6	fb:cell.null										
+110	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+110	1	fb:cell.lloyd	Lloyd	lloyd	Lloyd	NNP	ORGANIZATION					Lloyd
+110	2	fb:cell.king_of_hearts	King of Hearts	king|of|hearts	King|of|Hearts	NNP|IN|NNPS	O|O|O	||				King of Hearts
+110	3	fb:cell.lloyd_ft_trey_songz_young_jeezy	Lloyd ft. Trey Songz & Young Jeezy	lloyd|ft.|trey|songz|&|young|jeezy	Lloyd|ft.|Trey|Songz|&|Young|Jeezy	NNP|NNP|NNP|NNP|CC|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||||				Lloyd ft. Trey Songz & Young Jeezy
+110	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+110	5	fb:cell.null										
+110	6	fb:cell.null										
+111	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+111	1	fb:cell.marsha_ambrosius	Marsha Ambrosius	marsha|ambrosius	Marsha|Ambrosius	NNP|NNP	PERSON|PERSON	|				Marsha Ambrosius
+111	2	fb:cell.late_nights_early_mornings	Late Nights & Early Mornings	late|nights|&|early|mornings	late|night|&|early|morning	JJ|NNS|CC|JJ|NNS	TIME|TIME|O|TIME|TIME	TNI|TNI||TMO|TMO				Late Nights & Early Mornings
+111	3	fb:cell.late_nights_early_mornings	Late Nights & Early Mornings	late|nights|&|early|mornings	late|night|&|early|morning	JJ|NNS|CC|JJ|NNS	TIME|TIME|O|TIME|TIME	TNI|TNI||TMO|TMO				Late Nights & Early Mornings
+111	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+111	5	fb:cell.30	30	30	30	CD	NUMBER	30.0	30.0			
+111	6	fb:cell.null										
+112	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+112	1	fb:cell.rihanna	Rihanna	rihanna	Rihanna	NNP	PERSON					Rihanna
+112	2	fb:cell.loud	Loud	loud	loud	JJ	O					Loud
+112	3	fb:cell.skin	Skin	skin	skin	NN	O					Skin
+112	4	fb:cell.null										
+112	5	fb:cell.null										
+112	6	fb:cell.null										
+113	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+113	1	fb:cell.katy_perry	Katy Perry	katy|perry	Katy|Perry	NNP|NNP	PERSON|PERSON	|				Katy Perry
+113	2	fb:cell.teenage_dream	Teenage Dream	teenage|dream	teenage|dream	JJ|NN	O|O	|				Teenage Dream
+113	3	fb:cell.circle_the_drain	Circle the Drain	circle|the|drain	Circle|the|drain	NNP|DT|NN	O|O|O	||				Circle the Drain
+113	4	fb:cell.58	58	58	58	CD	NUMBER	58.0	58.0			
+113	5	fb:cell.null										
+113	6	fb:cell.null										
+114	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+114	1	fb:cell.katy_perry	Katy Perry	katy|perry	Katy|Perry	NNP|NNP	PERSON|PERSON	|				Katy Perry
+114	2	fb:cell.teenage_dream	Teenage Dream	teenage|dream	teenage|dream	JJ|NN	O|O	|				Teenage Dream
+114	3	fb:cell.who_am_i_living_for	Who Am I Living For	who|am|i|living|for	who|be|I|live|for	WP|VBD-AUX|PRP|VBG|IN	O|O|O|O|O	||||				Who Am I Living For
+114	4	fb:cell.null										
+114	5	fb:cell.null										
+114	6	fb:cell.null										
+115	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+115	1	fb:cell.usher	Usher	usher	Usher	NNP	O					Usher
+115	2	fb:cell.raymond_v_raymond	Raymond v. Raymond	raymond|v.|raymond	Raymond|v.|Raymond	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Raymond v. Raymond
+115	3	fb:cell.lil_freak	Lil Freak	lil|freak	Lil|Freak	NNP|NNP	PERSON|PERSON	|				Lil Freak
+115	4	fb:cell.40	40	40	40	CD	NUMBER	40.0	40.0			
+115	5	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+115	6	fb:cell.null										
+116	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+116	1	fb:cell.dirty_money	Dirty Money	dirty|money	dirty|money	JJ|NN	O|O	|				Dirty Money
+116	2	fb:cell.last_train_to_paris	Last Train to Paris	last|train|to|paris	last|train|to|Paris	JJ|NN|TO|NNP	O|O|O|LOCATION	|||				Last Train to Paris
+116	3	fb:cell.ass_to_the_floor	Ass to The Floor	ass|to|the|floor	ass|to|the|floor	NN|TO|DT|NN	O|O|O|O	|||				Ass to The Floor
+116	4	fb:cell.new_single	New Single	new|single	new|single	JJ|JJ	O|O	|				
+116	5	fb:cell.null										
+116	6	fb:cell.null										
+117	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+117	1	fb:cell.mariah_carey	Mariah Carey	mariah|carey	Mariah|Carey	NNP|NNP	PERSON|PERSON	|				Mariah Carey
+117	2	fb:cell.e_mc	E=MC²	e|=|mc|²	e|=|mc|²	NN|JJ|NN|NN	O|O|O|O	|||				E=MC²
+117	3	fb:cell.touch_my_body	Touch My Body	touch|my|body	touch|my|body	VB|PRP$|NN	O|O|O	||				Touch My Body
+117	4	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+117	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+117	6	fb:cell.null										
+118	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+118	1	fb:cell.beyonce	Beyoncé	beyoncé	Beyoncé	NNP	PERSON					Beyoncé
+118	2	fb:cell.i_am_sasha_fierce	I Am... Sasha Fierce	i|am|...|sasha|fierce	I|be|...|Sasha|fierce	PRP|VBD-AUX|:|NNP|JJ	O|O|O|PERSON|PERSON	||||				I Am... Sasha Fierce
+118	3	fb:cell.single_ladies	Single Ladies	single|ladies	single|lady	JJ|NNS	O|O	|				Single Ladies
+118	4	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+118	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+118	6	fb:cell.null										
+119	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+119	1	fb:cell.jamie_foxx	Jamie Foxx	jamie|foxx	Jamie|Foxx	NNP|NNP	PERSON|PERSON	|				Jamie Foxx
+119	2	fb:cell.intuition	Intuition	intuition	intuition	NN	O					Intuition
+119	3	fb:cell.blame_it	Blame It	blame|it	blame|it	VB|PRP	O|O	|				Blame It
+119	4	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+119	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+119	6	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+120	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+120	1	fb:cell.sean_paul	Sean Paul	sean|paul	Sean|Paul	NNP|NNP	PERSON|PERSON	|				Sean Paul
+120	2	fb:cell.the_trinity	The Trinity	the|trinity	the|Trinity	DT|NNP	O|O	|				The Trinity
+120	3	fb:cell._when_you_gonna_give_it_up_to_me	(When You Gonna) Give It Up To Me	-lrb-|when|you|gon|na|-rrb-|give|it|up|to|me	-lrb-|when|you|gon|na|-rrb-|give|it|up|to|I	-LRB-|WRB|PRP|VBG|TO|-RRB-|VBP|PRP|RP|TO|PRP	O|O|O|O|O|O|O|O|O|O|O	||||||||||				(When You Gonna) Give It Up To Me
+120	4	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+120	5	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+120	6	fb:cell.null										
+121	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+121	1	fb:cell.justin_bieber	Justin Bieber	justin|bieber	Justin|Bieber	NNP|NNP	PERSON|PERSON	|				Justin Bieber
+121	2	fb:cell.my_world_2_0	My World 2.0	my|world|2.0	my|world|2.0	PRP$|NN|CD	O|O|NUMBER	||2.0	2.0			My World 2.0
+121	3	fb:cell.baby_ft_ludacris	Baby ft. Ludacris	baby|ft.|ludacris	Baby|ft.|Ludacris	NNP|NNP|NNP	O|O|PERSON	||				Baby ft. Ludacris
+121	4	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+121	5	fb:cell.96	96	96	96	CD	NUMBER	96.0	96.0			
+121	6	fb:cell.null										
+122	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+122	1	fb:cell.trey_songz	Trey Songz	trey|songz	Trey|Songz	NNP|NNP	PERSON|PERSON	|				Trey Songz
+122	2	fb:cell.passion_pain_pleasure	Passion, Pain & Pleasure	passion|,|pain|&|pleasure	passion|,|pain|&|pleasure	NN|,|NN|CC|NN	O|O|O|O|O	||||				Passion|Pain & Pleasure
+122	3	fb:cell.bottoms_up	Bottoms Up	bottoms|up	bottom|up	NNS|IN	O|O	|				Bottoms Up
+122	4	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+122	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+122	6	fb:cell.null										
+123	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+123	1	fb:cell.mariah_carey	Mariah Carey	mariah|carey	Mariah|Carey	NNP|NNP	PERSON|PERSON	|				Mariah Carey
+123	2	fb:cell.memoirs_of_an_imperfect_angel	Memoirs of an Imperfect Angel	memoirs|of|an|imperfect|angel	memoirs|of|a|imperfect|Angel	NNS|IN|DT|JJ|NNP	O|O|O|O|O	||||				Memoirs of an Imperfect Angel
+123	3	fb:cell.obsessed	Obsessed	obsessed	obsess	VBN	O					Obsessed
+123	4	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+123	5	fb:cell.12	12	12	12	CD	NUMBER	12.0	12.0			
+123	6	fb:cell.null										
+124	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+124	1	fb:cell.jesse_mccartney	Jesse McCartney	jesse|mccartney	Jesse|McCartney	NNP|NNP	PERSON|PERSON	|				Jesse McCartney
+124	2	fb:cell.departure	Departure	departure	departure	NN	O					Departure
+124	3	fb:cell.leavin	Leavin'	leavin|'	leavin|'	NN|''	O|O	|				Leavin'
+124	4	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			
+124	5	fb:cell.null										
+124	6	fb:cell.null										
+125	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+125	1	fb:cell.rihanna	Rihanna	rihanna	Rihanna	NNP	PERSON					Rihanna
+125	2	fb:cell.rated_r	Rated R	rated|r	rate|R	VBN|NNP	O|O	|				Rated R
+125	3	fb:cell.hard_ft_young_jeezy	Hard ft. Young Jeezy	hard|ft.|young|jeezy	hard|ft.|Young|Jeezy	JJ|NNP|NNP|NNP	O|O|PERSON|PERSON	|||				Hard ft. Young Jeezy
+125	4	fb:cell.11	11	11	11	CD	NUMBER	11.0	11.0			
+125	5	fb:cell.14	14	14	14	CD	NUMBER	14.0	14.0			
+125	6	fb:cell.null										
+126	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+126	1	fb:cell.justin_bieber	Justin Bieber	justin|bieber	Justin|Bieber	NNP|NNP	PERSON|PERSON	|				Justin Bieber
+126	2	fb:cell.my_world_2_0	My World 2.0	my|world|2.0	my|world|2.0	PRP$|NN|CD	O|O|NUMBER	||2.0	2.0			My World 2.0
+126	3	fb:cell.somebody_to_love	Somebody to Love	somebody|to|love	somebody|to|love	NN|TO|VB	O|O|O	||				Somebody to Love
+126	4	fb:cell.15	15	15	15	CD	NUMBER	15.0	15.0			
+126	5	fb:cell.20	20	20	20	CD	NUMBER	20.0	20.0			
+126	6	fb:cell.null										
+127	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+127	1	fb:cell.justin_bieber	Justin Bieber	justin|bieber	Justin|Bieber	NNP|NNP	PERSON|PERSON	|				Justin Bieber
+127	2	fb:cell.my_world	My World	my|world	my|world	PRP$|NN	O|O	|				My World
+127	3	fb:cell.one_less_lonely_girl	One Less Lonely Girl	one|less|lonely|girl	one|less|lonely|girl	CD|JJR|JJ|NN	NUMBER|O|O|O	1.0|||				One Less Lonely Girl
+127	4	fb:cell.16	16	16	16	CD	NUMBER	16.0	16.0			
+127	5	fb:cell.null										
+127	6	fb:cell.null										
+128	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+128	1	fb:cell.fabolous	Fabolous	fabolous	Fabolous	NNP	O					Fabolous
+128	2	fb:cell.loso_s_way	Loso's Way	loso|'s|way	Loso|'s|way	NNP|POS|NN	PERSON|O|O	||				Loso's Way
+128	3	fb:cell.throw_it_in_the_bag_ft_the_dream	Throw It in the Bag ft. The-Dream	throw|it|in|the|bag|ft.|the|dream	throw|it|in|the|bag|ft.|the|dream	VB|PRP|IN|DT|NN|NN|DT|NN	O|O|O|O|O|O|O|O	|||||||				Throw It in the Bag ft. The-Dream
+128	4	fb:cell.17	17	17	17	CD	NUMBER	17.0	17.0			
+128	5	fb:cell.4	4	4	4	CD	NUMBER	4.0	4.0			
+128	6	fb:cell.null										
+129	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+129	1	fb:cell.the_dream	The-Dream	the|dream	the|dream	DT|NN	O|O	|				The-Dream
+129	2	fb:cell.love_hate	Love Hate	love|hate	love|hate	NN|NN	O|O	|				Love Hate
+129	3	fb:cell.i_luv_your_girl	I Luv Your Girl	i|luv|your|girl	I|luv|you|girl	PRP|VBP|PRP$|NN	O|O|O|O	|||				I Luv Your Girl
+129	4	fb:cell.20	20	20	20	CD	NUMBER	20.0	20.0			
+129	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+129	6	fb:cell.null										
+130	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+130	1	fb:cell.mary_j_blige	Mary J. Blige	mary|j.|blige	Mary|J.|Blige	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Mary J. Blige
+130	2	fb:cell.growing_pains	Growing Pains	growing|pains	grow|pain	VBG|NNS	O|O	|				Growing Pains
+130	3	fb:cell.just_fine	Just Fine	just|fine	just|fine	RB|NN	O|O	|				Just Fine
+130	4	fb:cell.22	22	22	22	CD	NUMBER	22.0	22.0			
+130	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+130	6	fb:cell.null										
+131	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+131	1	fb:cell.the_dream	The-Dream	the|dream	the|dream	DT|NN	O|O	|				The-Dream
+131	2	fb:cell.love_vs_money	Love vs. Money	love|vs.|money	love|vs.|money	NN|CC|NN	O|O|O	||				Love vs. Money
+131	3	fb:cell.rockin_that_shit	Rockin' That Shit	rockin|'|that|shit	rockin|'|that|shit	VBG|''|WDT|VBP	PERSON|O|O|O	|||				Rockin' That Shit
+131	4	fb:cell.22	22	22	22	CD	NUMBER	22.0	22.0			
+131	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+131	6	fb:cell.null										
+132	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+132	1	fb:cell.christina_aguilera	Christina Aguilera	christina|aguilera	Christina|Aguilera	NNP|NNP	PERSON|PERSON	|				Christina Aguilera
+132	2	fb:cell.bionic	Bionic	bionic	Bionic	NNP	O					Bionic
+132	3	fb:cell.not_myself_tonight	Not Myself Tonight	not|myself|tonight	not|myself|tonight	RB|PRP|RB	O|O|DATE	||THIS NI				Not Myself Tonight
+132	4	fb:cell.23	23	23	23	CD	NUMBER	23.0	23.0			23
+132	5	fb:cell.null										
+132	6	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+133	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+133	1	fb:cell.keyshia_cole	Keyshia Cole	keyshia|cole	Keyshia|Cole	NNP|NNP	PERSON|PERSON	|				Keyshia Cole
+133	2	fb:cell.just_like_you	Just Like You	just|like|you	just|like|you	RB|IN|PRP	O|O|O	||				Just Like You
+133	3	fb:cell.remember	Remember	remember	remember	VB	O					Remember
+133	4	fb:cell.24	24	24	24	CD	NUMBER	24.0	24.0			
+133	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+133	6	fb:cell.null										
+134	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+134	1	fb:cell.justin_bieber	Justin Bieber	justin|bieber	Justin|Bieber	NNP|NNP	PERSON|PERSON	|				Justin Bieber
+134	2	fb:cell.my_world	My World	my|world	my|world	PRP$|NN	O|O	|				My World
+134	3	fb:cell.favorite_girl	Favorite Girl	favorite|girl	favorite|girl	JJ|NN	O|O	|				Favorite Girl
+134	4	fb:cell.26	26	26	26	CD	NUMBER	26.0	26.0			
+134	5	fb:cell.null										
+134	6	fb:cell.null										
+135	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+135	1	fb:cell.dirty_money	Dirty Money	dirty|money	dirty|money	JJ|NN	O|O	|				Dirty Money
+135	2	fb:cell.last_train_to_paris	Last Train to Paris	last|train|to|paris	last|train|to|Paris	JJ|NN|TO|NNP	O|O|O|LOCATION	|||				Last Train to Paris
+135	3	fb:cell.hello_good_morning	Hello Good Morning	hello|good|morning	hello|good|morning	UH|JJ|NN	O|O|O	||				Hello Good Morning
+135	4	fb:cell.27	27	27	27	CD	NUMBER	27.0	27.0			
+135	5	fb:cell.13	13	13	13	CD	NUMBER	13.0	13.0			
+135	6	fb:cell.null										
+136	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+136	1	fb:cell.the_dream	The-Dream	the|dream	the|dream	DT|NN	O|O	|				The-Dream
+136	2	fb:cell.love_hate	Love Hate	love|hate	love|hate	NN|NN	O|O	|				Love Hate
+136	3	fb:cell.falsetto	Falsetto	falsetto	falsetto	NN	O					Falsetto
+136	4	fb:cell.30	30	30	30	CD	NUMBER	30.0	30.0			
+136	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+136	6	fb:cell.null										
+137	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+137	1	fb:cell.soulja_boy	Soulja Boy	soulja|boy	Soulja|Boy	NNP|NNP	O|O	|				Soulja Boy
+137	2	fb:cell.tell_em	Tell Em	tell|em	tell|Em	VB|NNP	O|O	|				Tell Em
+137	3	fb:cell.soulja_girl	Soulja Girl	soulja|girl	Soulja|Girl	NNP|NNP	O|O	|				Soulja Girl
+137	4	fb:cell.32	32	32	32	CD	NUMBER	32.0	32.0			
+137	5	fb:cell.13	13	13	13	CD	NUMBER	13.0	13.0			
+137	6	fb:cell.null										
+138	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+138	1	fb:cell.yung_berg	Yung Berg	yung|berg	Yung|Berg	NNP|NNP	PERSON|PERSON	|				Yung Berg
+138	2	fb:cell.look_what_you_made_me	Look What You Made Me	look|what|you|made|me	look|what|you|make|I	VB|WP|PRP|VBD|PRP	O|O|O|O|O	||||				Look What You Made Me
+138	3	fb:cell.the_business_ft_casha	The Business ft. Casha	the|business|ft.|casha	the|business|ft.|casha	DT|NN|NN|NN	O|O|O|PERSON	|||				The Business ft. Casha
+138	4	fb:cell.33	33	33	33	CD	NUMBER	33.0	33.0			
+138	5	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+138	6	fb:cell.null										
+139	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+139	1	fb:cell.snoop_dogg	Snoop Dogg	snoop|dogg	Snoop|Dogg	NNP|NNP	PERSON|PERSON	|				Snoop Dogg
+139	2	fb:cell.malice_n_wonderland	Malice n Wonderland	malice|n|wonderland	malice|n|Wonderland	NN|NN|NNP	O|O|O	||				Malice n Wonderland
+139	3	fb:cell.gangsta_luv_ft_the_dream	Gangsta Luv ft. The-Dream	gangsta|luv|ft.|the|dream	Gangsta|Luv|ft.|the|dream	NNP|NNP|NNP|DT|NN	O|O|O|O|O	||||				Gangsta Luv ft. The-Dream
+139	4	fb:cell.35	35	35	35	CD	NUMBER	35.0	35.0			
+139	5	fb:cell.24	24	24	24	CD	NUMBER	24.0	24.0			
+139	6	fb:cell.null										
+140	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+140	1	fb:cell.new_kids_on_the_block	New Kids On The Block	new|kids|on|the|block	new|kid|on|the|block	JJ|NNS|IN|DT|NN	O|O|O|O|O	||||				New Kids On The Block
+140	2	fb:cell.the_block	The Block	the|block	the|block	DT|NN	O|O	|				The Block
+140	3	fb:cell.summertime	Summertime	summertime	summertime	NN	O					Summertime
+140	4	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+140	5	fb:cell.96	96	96	96	CD	NUMBER	96.0	96.0			
+140	6	fb:cell.null										
+141	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+141	1	fb:cell.cali_swag_district	Cali Swag District	cali|swag|district	Cali|Swag|District	NNP|NNP|NNP	LOCATION|LOCATION|LOCATION	||				Cali Swag District
+141	2	fb:cell.upcoming_album_release	Upcoming Album Release	upcoming|album|release	upcome|album|release	VBG|NN|NN	O|O|O	||				Upcoming Album Release
+141	3	fb:cell.teach_me_how_to_dougie	Teach Me How to Dougie	teach|me|how|to|dougie	teach|I|how|to|Dougie	VB|PRP|WRB|TO|NNP	O|O|O|O|PERSON	||||				Teach Me How to Dougie
+141	4	fb:cell.28	28	28	28	CD	NUMBER	28.0	28.0			
+141	5	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+141	6	fb:cell.null										
+142	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+142	1	fb:cell.justin_bieber	Justin Bieber	justin|bieber	Justin|Bieber	NNP|NNP	PERSON|PERSON	|				Justin Bieber
+142	2	fb:cell.my_world	My World	my|world	my|world	PRP$|NN	O|O	|				My World
+142	3	fb:cell.love_me	Love Me	love|me	love|I	VB|PRP	O|O	|				Love Me
+142	4	fb:cell.37	37	37	37	CD	NUMBER	37.0	37.0			
+142	5	fb:cell.null										
+142	6	fb:cell.null										
+143	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+143	1	fb:cell.ashanti	Ashanti	ashanti	Ashanti	NNP	ORGANIZATION					Ashanti
+143	2	fb:cell.the_declaration	The Declaration	the|declaration	the|declaration	DT|NN	O|O	|				The Declaration
+143	3	fb:cell.the_way_that_i_love_you	The Way That I Love You	the|way|that|i|love|you	the|way|that|I|love|you	DT|NN|IN|PRP|VBP|PRP	O|O|O|O|O|O	|||||				The Way That I Love You
+143	4	fb:cell.37	37	37	37	CD	NUMBER	37.0	37.0			
+143	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+143	6	fb:cell.null										
+144	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+144	1	fb:cell.keyshia_cole	Keyshia Cole	keyshia|cole	Keyshia|Cole	NNP|NNP	PERSON|PERSON	|				Keyshia Cole
+144	2	fb:cell.just_like_you	Just Like You	just|like|you	just|like|you	RB|IN|PRP	O|O|O	||				Just Like You
+144	3	fb:cell.shoulda_let_you_go	Shoulda Let You Go	shoulda|let|you|go	Shoulda|let|you|go	NNP|VB|PRP|VB	O|O|O|O	|||				Shoulda Let You Go
+144	4	fb:cell.41	41	41	41	CD	NUMBER	41.0	41.0			
+144	5	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+144	6	fb:cell.null										
+145	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+145	1	fb:cell.trey_songz	Trey Songz	trey|songz	Trey|Songz	NNP|NNP	PERSON|PERSON	|				Trey Songz
+145	2	fb:cell.ready	Ready	ready	ready	JJ	O					Ready
+145	3	fb:cell.i_invented_sex	I Invented Sex	i|invented|sex	I|invent|sex	PRP|VBD|NN	O|O|O	||				I Invented Sex
+145	4	fb:cell.42	42	42	42	CD	NUMBER	42.0	42.0			
+145	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+145	6	fb:cell.null										
+146	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+146	1	fb:cell.monica	Monica	monica	Monica	NNP	PERSON					Monica
+146	2	fb:cell.still_standing	Still Standing	still|standing	still|stand	RB|VBG	O|O	|				Still Standing
+146	3	fb:cell.everything_to_me	Everything To Me	everything|to|me	everything|to|I	NN|TO|PRP	O|O|O	||				Everything To Me
+146	4	fb:cell.44	44	44	44	CD	NUMBER	44.0	44.0			
+146	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+146	6	fb:cell.null										
+147	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+147	1	fb:cell.usher	Usher	usher	Usher	NNP	O					Usher
+147	2	fb:cell.here_i_stand	Here I Stand	here|i|stand	here|I|stand	RB|PRP|VBP	O|O|O	||				Here I Stand
+147	3	fb:cell.trading_places	Trading Places	trading|places	trading|place	NN|NNS	O|O	|				Trading Places
+147	4	fb:cell.45	45	45	45	CD	NUMBER	45.0	45.0			
+147	5	fb:cell.4	4	4	4	CD	NUMBER	4.0	4.0			
+147	6	fb:cell.null										
+148	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+148	1	fb:cell.ciara	Ciara	ciara	Ciara	NNP	PERSON					Ciara
+148	2	fb:cell.basic_instinct	Basic Instinct	basic|instinct	basic|instinct	JJ|NN	O|O	|				Basic Instinct
+148	3	fb:cell.ride_ft_ludacris	Ride ft. Ludacris	ride|ft.|ludacris	ride|ft.|Ludacris	NN|NN|NNP	O|O|PERSON	||				Ride ft. Ludacris
+148	4	fb:cell.45	45	45	45	CD	NUMBER	45.0	45.0			
+148	5	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+148	6	fb:cell.null										
+149	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+149	1	fb:cell.keith_urban	Keith Urban	keith|urban	Keith|Urban	NNP|NNP	PERSON|PERSON	|				Keith Urban
+149	2	fb:cell.love_pain_the_whole_crazy_thing	Love, Pain & the Whole Crazy Thing	love|,|pain|&|the|whole|crazy|thing	love|,|pain|&|the|whole|crazy|thing	NN|,|NN|CC|DT|JJ|JJ|NN	O|O|O|O|O|O|O|O	|||||||				Love|Pain & the Whole Crazy Thing
+149	3	fb:cell.i_told_you_so	I Told You So	i|told|you|so	I|tell|you|so	PRP|VBD|PRP|RB	O|O|O|O	|||				I Told You So
+149	4	fb:cell.48	48	48	48	CD	NUMBER	48.0	48.0			
+149	5	fb:cell.null										
+149	6	fb:cell.null										
+150	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+150	1	fb:cell.jamie_foxx	Jamie Foxx	jamie|foxx	Jamie|Foxx	NNP|NNP	PERSON|PERSON	|				Jamie Foxx
+150	2	fb:cell.intuition	Intuition	intuition	intuition	NN	O					Intuition
+150	3	fb:cell.just_like_me_ft_t_i	Just Like Me ft. T.I.	just|like|me|ft.|t.i.	just|like|I|ft.|T.I.	RB|IN|PRP|NNP|NNP	O|O|O|O|PERSON	||||				Just Like Me ft. T.I.
+150	4	fb:cell.49	49	49	49	CD	NUMBER	49.0	49.0			
+150	5	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+150	6	fb:cell.null										
+151	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+151	1	fb:cell.ll_cool_j	LL Cool J	ll|cool|j	ll|cool|j	NN|JJ|NN	O|O|O	||				LL Cool J
+151	2	fb:cell.exit_13	Exit 13	exit|13	exit|13	NN|CD	O|NUMBER	|13.0	13.0			Exit 13
+151	3	fb:cell.baby_ft_the_dream	Baby ft. The-Dream	baby|ft.|the|dream	baby|ft.|the|dream	NN|NN|DT|NN	O|O|O|O	|||				Baby ft. The-Dream
+151	4	fb:cell.52	52	52	52	CD	NUMBER	52.0	52.0			
+151	5	fb:cell.22	22	22	22	CD	NUMBER	22.0	22.0			
+151	6	fb:cell.null										
+152	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+152	1	fb:cell.charice	Charice	charice	Charice	NNP	O					Charice
+152	2	fb:cell.charice	Charice	charice	Charice	NNP	O					Charice
+152	3	fb:cell.pyramid_ft_iyaz	Pyramid ft. Iyaz	pyramid|ft.|iyaz	pyramid|ft.|iyaz	NN|NN|NN	O|O|PERSON	||				Pyramid ft. Iyaz
+152	4	fb:cell.56	56	56	56	CD	NUMBER	56.0	56.0			
+152	5	fb:cell.null										
+152	6	fb:cell.null										
+153	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+153	1	fb:cell.gym_class_heroes	Gym Class Heroes	gym|class|heroes	gym|class|hero	NN|NN|NNS	O|O|O	||				Gym Class Heroes
+153	2	fb:cell.the_quilt	The Quilt	the|quilt	the|quilt	DT|NN	O|O	|				The Quilt
+153	3	fb:cell.cookie_jar_ft_the_dream	Cookie Jar ft. The-Dream	cookie|jar|ft.|the|dream	cookie|jar|ft.|the|dream	NN|NN|NN|DT|NN	O|O|O|O|O	||||				Cookie Jar ft. The-Dream
+153	4	fb:cell.59	59	59	59	CD	NUMBER	59.0	59.0			
+153	5	fb:cell.null										
+153	6	fb:cell.null										
+154	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+154	1	fb:cell.keyshia_cole	Keyshia Cole	keyshia|cole	Keyshia|Cole	NNP|NNP	PERSON|PERSON	|				Keyshia Cole
+154	2	fb:cell.a_different_me	A Different Me	a|different|me	a|different|I	DT|JJ|PRP	O|O|O	||				A Different Me
+154	3	fb:cell.you_complete_me	You Complete Me	you|complete|me	you|complete|I	PRP|VB|PRP	O|O|O	||				You Complete Me
+154	4	fb:cell.67	67	67	67	CD	NUMBER	67.0	67.0			
+154	5	fb:cell.null										
+154	6	fb:cell.null										
+155	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+155	1	fb:cell.mary_j_blige	Mary J. Blige	mary|j.|blige	Mary|J.|Blige	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Mary J. Blige
+155	2	fb:cell.stronger_with_each_tear	Stronger with Each Tear	stronger|with|each|tear	stronger|with|each|tear	JJR|IN|DT|VB	O|O|O|O	|||				Stronger with Each Tear
+155	3	fb:cell.the_one_ft_drake	The One ft. Drake	the|one|ft.|drake	the|one|ft.|Drake	DT|CD|NNP|NNP	O|NUMBER|O|PERSON	|1.0||				The One ft. Drake
+155	4	fb:cell.63	63	63	63	CD	NUMBER	63.0	63.0			
+155	5	fb:cell.32	32	32	32	CD	NUMBER	32.0	32.0			
+155	6	fb:cell.null										
+156	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+156	1	fb:cell.mary_j_blige	Mary J. Blige	mary|j.|blige	Mary|J.|Blige	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Mary J. Blige
+156	2	fb:cell.growing_pains	Growing Pains	growing|pains	grow|pain	VBG|NNS	O|O	|				Growing Pains
+156	3	fb:cell.work_that	Work That	work|that	work|that	NN|WDT	O|O	|				Work That
+156	4	fb:cell.65	65	65	65	CD	NUMBER	65.0	65.0			
+156	5	fb:cell.16	16	16	16	CD	NUMBER	16.0	16.0			
+156	6	fb:cell.null										
+157	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+157	1	fb:cell.usher	Usher	usher	Usher	NNP	O					Usher
+157	2	fb:cell.here_i_stand	Here I Stand	here|i|stand	here|I|stand	RB|PRP|VBP	O|O|O	||				Here I Stand
+157	3	fb:cell.moving_mountains	Moving Mountains	moving|mountains	move|mountain	VBG|NNS	O|O	|				Moving Mountains
+157	4	fb:cell.67	67	67	67	CD	NUMBER	67.0	67.0			
+157	5	fb:cell.18	18	18	18	CD	NUMBER	18.0	18.0			
+157	6	fb:cell.null										
+158	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+158	1	fb:cell.whitney_houston	Whitney Houston	whitney|houston	Whitney|Houston	NNP|NNP	PERSON|PERSON	|				Whitney Houston
+158	2	fb:cell.i_look_to_you	I Look to You	i|look|to|you	I|look|to|you	PRP|VBP|TO|PRP	O|O|O|O	|||				I Look to You
+158	3	fb:cell.i_look_to_you	I Look to You	i|look|to|you	I|look|to|you	PRP|VBP|TO|PRP	O|O|O|O	|||				I Look to You
+158	4	fb:cell.70	70	70	70	CD	NUMBER	70.0	70.0			
+158	5	fb:cell.19	19	19	19	CD	NUMBER	19.0	19.0			
+158	6	fb:cell.null										
+159	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+159	1	fb:cell.musiq_soulchild	Musiq Soulchild	musiq|soulchild	Musiq|Soulchild	NNP|NNP	PERSON|PERSON	|				Musiq Soulchild
+159	2	fb:cell.onmyradio	OnMyRadio	onmyradio	OnMyRadio	NNP	O					OnMyRadio
+159	3	fb:cell.ifuleave_ft_mary_j_blige	IfULeave ft. Mary J. Blige	ifuleave|ft.|mary|j.|blige	IfULeave|ft.|Mary|J.|Blige	NNP|NNP|NNP|NNP|NNP	O|O|PERSON|PERSON|PERSON	||||				IfULeave ft. Mary J. Blige
+159	4	fb:cell.71	71	71	71	CD	NUMBER	71.0	71.0			
+159	5	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+159	6	fb:cell.null										
+160	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+160	1	fb:cell.pussycat_dolls	Pussycat Dolls	pussycat|dolls	pussycat|doll	NN|NNS	O|O	|				Pussycat Dolls
+160	2	fb:cell.doll_domination	Doll Domination	doll|domination	doll|domination	NN|NN	O|O	|				Doll Domination
+160	3	fb:cell.hush_hush	Hush Hush	hush|hush	hush|hush	JJ|JJ	PERSON|PERSON	|				Hush Hush
+160	4	fb:cell.73	73	73	73	CD	NUMBER	73.0	73.0			
+160	5	fb:cell.null										
+160	6	fb:cell.29	29	29	29	CD	NUMBER	29.0	29.0			
+161	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+161	1	fb:cell.letoya_luckett	Letoya Luckett	letoya|luckett	Letoya|Luckett	NNP|NNP	PERSON|PERSON	|				Letoya Luckett
+161	2	fb:cell.lady_love	Lady Love	lady|love	Lady|Love	NNP|NNP	PERSON|PERSON	|				Lady Love
+161	3	fb:cell.regret_ft_ludacris	Regret ft. Ludacris	regret|ft.|ludacris	regret|ft.|Ludacris	NN|NN|NNP	O|O|PERSON	||				Regret ft. Ludacris
+161	4	fb:cell.78	78	78	78	CD	NUMBER	78.0	78.0			
+161	5	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+161	6	fb:cell.null										
+162	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+162	1	fb:cell.justin_bieber	Justin Bieber	justin|bieber	Justin|Bieber	NNP|NNP	PERSON|PERSON	|				Justin Bieber
+162	2	fb:cell.my_world	My World	my|world	my|world	PRP$|NN	O|O	|				My World
+162	3	fb:cell.down_to_earth	Down To Earth	down|to|earth	down|to|Earth	IN|TO|NNP	O|O|O	||				Down To Earth
+162	4	fb:cell.79	79	79	79	CD	NUMBER	79.0	79.0			
+162	5	fb:cell.null										
+162	6	fb:cell.null										
+163	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+163	1	fb:cell.the_dream	The-Dream	the|dream	the|dream	DT|NN	O|O	|				The-Dream
+163	2	fb:cell.love_vs_money	Love vs. Money	love|vs.|money	love|vs.|money	NN|CC|NN	O|O|O	||				Love vs. Money
+163	3	fb:cell.walkin_on_the_moon_ft_kanye_west	Walkin' on the Moon ft. Kanye West	walkin|'|on|the|moon|ft.|kanye|west	Walkin|'|on|the|Moon|ft.|Kanye|West	NNP|POS|IN|DT|NNP|NNP|NNP|NNP	PERSON|O|O|O|O|O|PERSON|PERSON	|||||||				Walkin' on the Moon ft. Kanye West
+163	4	fb:cell.87	87	87	87	CD	NUMBER	87.0	87.0			
+163	5	fb:cell.38	38	38	38	CD	NUMBER	38.0	38.0			
+163	6	fb:cell.null										
+164	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+164	1	fb:cell.the_dream	The-Dream	the|dream	the|dream	DT|NN	O|O	|				The-Dream
+164	2	fb:cell.love_king	Love King	love|king	Love|King	NNP|NNP	O|O	|				Love King
+164	3	fb:cell.love_king	Love King	love|king	Love|King	NNP|NNP	O|O	|				Love King
+164	4	fb:cell.92	92	92	92	CD	NUMBER	92.0	92.0			
+164	5	fb:cell.37	37	37	37	CD	NUMBER	37.0	37.0			
+164	6	fb:cell.null										
+165	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+165	1	fb:cell.jamie_foxx	Jamie Foxx	jamie|foxx	Jamie|Foxx	NNP|NNP	PERSON|PERSON	|				Jamie Foxx
+165	2	fb:cell.intuition	Intuition	intuition	intuition	NN	O					Intuition
+165	3	fb:cell.digital_girl_ft_the_dream_kanye_west	Digital Girl ft. The-Dream & Kanye West	digital|girl|ft.|the|dream|&|kanye|west	Digital|Girl|ft.|the|dream|&|Kanye|West	NNP|NNP|NNP|DT|NN|CC|NNP|NNP	O|O|O|O|O|O|PERSON|PERSON	|||||||				Digital Girl ft. The-Dream & Kanye West
+165	4	fb:cell.92	92	92	92	CD	NUMBER	92.0	92.0			
+165	5	fb:cell.38	38	38	38	CD	NUMBER	38.0	38.0			
+165	6	fb:cell.null										
+166	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+166	1	fb:cell.lupe_fiasco	Lupe Fiasco	lupe|fiasco	Lupe|fiasco	NNP|NN	PERSON|PERSON	|				Lupe Fiasco
+166	2	fb:cell.lasers	Lasers	lasers	laser	NNS	O					Lasers
+166	3	fb:cell.shining_down_ft_matthew_santos	Shining Down ft. Matthew Santos	shining|down|ft.|matthew|santos	shine|down|ft.|Matthew|Santos	VBG|RP|NN|NNP|NNP	O|O|O|PERSON|PERSON	||||				Shining Down ft. Matthew Santos
+166	4	fb:cell.93	93	93	93	CD	NUMBER	93.0	93.0			
+166	5	fb:cell.null										
+166	6	fb:cell.null										
+167	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+167	1	fb:cell.fantasia	Fantasia	fantasia	Fantasia	NNP	O					Fantasia
+167	2	fb:cell.back_to_me	Back to Me	back|to|me	back|to|I	RB|TO|PRP	O|O|O	||				Back to Me
+167	3	fb:cell.bittersweet	Bittersweet	bittersweet	Bittersweet	NNP	O					Bittersweet
+167	4	fb:cell.79	79	79	79	CD	NUMBER	79.0	79.0			
+167	5	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+167	6	fb:cell.null										
+168	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+168	1	fb:cell.justin_bieber	Justin Bieber	justin|bieber	Justin|Bieber	NNP|NNP	PERSON|PERSON	|				Justin Bieber
+168	2	fb:cell.my_world	My World	my|world	my|world	PRP$|NN	O|O	|				My World
+168	3	fb:cell.bigger	Bigger	bigger	bigger	JJR	O					Bigger
+168	4	fb:cell.94	94	94	94	CD	NUMBER	94.0	94.0			
+168	5	fb:cell.null										
+168	6	fb:cell.null										
+169	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+169	1	fb:cell.rihanna	Rihanna	rihanna	Rihanna	NNP	PERSON					Rihanna
+169	2	fb:cell.rated_r	Rated R	rated|r	rate|R	VBN|NNP	O|O	|				Rated R
+169	3	fb:cell.rockstar_101	Rockstar 101	rockstar|101	rockstar|101	NN|CD	O|NUMBER	|101.0	101.0			Rockstar 101
+169	4	fb:cell.76	76	76	76	CD	NUMBER	76.0	76.0			
+169	5	fb:cell.null										
+169	6	fb:cell.null										
+170	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+170	1	fb:cell.ayumi_hamasaki	Ayumi Hamasaki	ayumi|hamasaki	Ayumi|Hamasaki	NNP|NNP	PERSON|PERSON	|				Ayumi Hamasaki
+170	2	fb:cell.love_songs	Love songs	love|songs	love|song	NN|NNS	O|O	|				Love songs
+170	3	fb:cell.like_a_doll	Like a doll	like|a|doll	like|a|doll	IN|DT|NN	O|O|O	||				Like a doll
+170	4	fb:cell.null										
+170	5	fb:cell.null										
+170	6	fb:cell.null										

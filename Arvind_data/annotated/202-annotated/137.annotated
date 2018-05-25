@@ -1,0 +1,197 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.film	Film	film	film	NN	O					
+-1	1	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	2	fb:row.row.role	Role	role	role	NN	O					
+-1	3	fb:row.row.language	Language	language	language	NN	O					
+0	0	fb:cell.miss_christina	Miss Christina	miss|christina	Miss|Christina	NNP|NNP	O|PERSON	|				Miss Christina
+0	1	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		2013
+0	2	fb:cell.mrs_moscu	Mrs. Moscu	mrs.|moscu	Mrs.|Moscu	NNP|NNP	O|PERSON	|				Mrs. Moscu
+0	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+1	0	fb:cell.the_secret_of_polichinelle	The Secret of Polichinelle	the|secret|of|polichinelle	the|secret|of|polichinelle	DT|NN|IN|NN	O|O|O|O	|||				The Secret of Polichinelle
+1	1	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		2013
+1	2	fb:cell.maya	Maya	maya	maya	JJ	PERSON					Maya
+1	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+2	0	fb:cell.fata_din_transilvania	Fata din Transilvania	fata|din|transilvania	Fata|din|Transilvania	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Fata din Transilvania
+2	1	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		2011
+2	2	fb:cell.null										
+2	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+3	0	fb:cell.la_fin_du_silence	La fin du silence	la|fin|du|silence	La|fin|du|silence	NNP|NNP|NNP|NN	PERSON|PERSON|PERSON|PERSON	|||				La fin du silence
+3	1	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		2011
+3	2	fb:cell.the_mother	the mother	the|mother	the|mother	DT|NN	O|O	|				the mother
+3	3	fb:cell.french	French	french	French	NNP	MISC					French
+4	0	fb:cell.sange_tanar_munti_si_brazi	Sange Tanar, Munti Si Brazi	sange|tanar|,|munti|si|brazi	Sange|Tanar|,|Munti|Si|Brazi	NNP|NNP|,|NNP|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON|PERSON	|||||				Sange Tanar|Munti Si Brazi
+4	1	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		2011
+4	2	fb:cell.mama	Mama	mama	mama	NN	O					Mama
+4	3	fb:cell.romanian_drama	Romanian drama	romanian|drama	romanian|drama	JJ|NN	MISC|O	|				Romanian drama
+5	0	fb:cell.luna_verde	Luna verde	luna|verde	Luna|verde	NNP|NNP	PERSON|PERSON	|				Luna verde
+5	1	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		2010
+5	2	fb:cell.simona	Simona	simona	Simona	NNP	PERSON					Simona
+5	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+6	0	fb:cell.iubire_si_onoare_tv_series	Iubire si onoare (tv series)	iubire|si|onoare|-lrb-|tv|series|-rrb-	Iubire|si|onoare|-lrb-|tv|series|-rrb-	NNP|NNP|NNP|-LRB-|NNP|NNP|-RRB-	O|O|O|O|O|O|O	||||||				Iubire si onoare (tv series)
+6	1	fb:cell.2010_2011	2010–2011	2010|--|2011	2010|--|2011	CD|:|CD	DATE|O|DATE	2010||2011	2010.0		2011.0	2010–2011
+6	2	fb:cell.marieta	Marieta	marieta	Marieta	NNP	PERSON					Marieta
+6	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+7	0	fb:cell.aniela_tv_series	Aniela (tv series)	aniela|-lrb-|tv|series|-rrb-	Aniela|-lrb-|tv|series|-rrb-	NNP|-LRB-|NNP|NNP|-RRB-	PERSON|O|O|O|O	||||				Aniela (tv series)
+7	1	fb:cell.2009_2010	2009–2010	2009|--|2010	2009|--|2010	CD|:|CD	DATE|O|DATE	2009||2010	2009.0		2010.0	2009–2010
+7	2	fb:cell.maica_stareta	Maica Stareţa	maica|stareţa	Maica|Stareţa	NNP|NNP	PERSON|PERSON	|				Maica Stareţa
+7	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+8	0	fb:cell.the_house_of_terror	The House of Terror	the|house|of|terror	the|House|of|terror	DT|NNP|IN|NN	O|O|O|O	|||				The House of Terror
+8	1	fb:cell.2008_pre_production	2008 (pre-production)	2008|-lrb-|pre|production|-rrb-	2008|-lrb-|pre|production|-rrb-	CD|-LRB-|JJ|NN|-RRB-	DATE|O|O|O|O	2008||||	2008.0			2008 (pre-production)
+8	2	fb:cell.eszter_somos	Eszter Somos	eszter|somos	Eszter|Somos	NNP|NNP	PERSON|PERSON	|				Eszter Somos
+8	3	fb:cell.english	English	english	English	NNP	MISC					English
+9	0	fb:cell.eva	Eva	eva	Eva	NNP	PERSON					Eva
+9	1	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		2009
+9	2	fb:cell.maria	Maria	maria	Maria	NNP	PERSON					Maria
+9	3	fb:cell.english	English	english	English	NNP	MISC					English
+10	0	fb:cell.the_fence	The Fence	the|fence	the|fence	DT|NN	O|O	|				The Fence
+10	1	fb:cell.2007_in_production	2007 (in production)	2007|-lrb-|in|production|-rrb-	2007|-lrb-|in|production|-rrb-	CD|-LRB-|IN|NN|-RRB-	DATE|O|O|O|O	2007||||	2007.0			2007 (in production)
+10	2	fb:cell.herman_s_mother	Herman's mother	herman|'s|mother	Herman|'s|mother	NNP|POS|NN	PERSON|O|O	||				Herman's mother
+10	3	fb:cell.english	English	english	English	NNP	MISC					English
+11	0	fb:cell.mansfeld	Mansfeld	mansfeld	Mansfeld	NNP	PERSON					Mansfeld
+11	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		2006
+11	2	fb:cell.mrs_mansfeld	Mrs. Mansfeld	mrs.|mansfeld	Mrs.|Mansfeld	NNP|NNP	O|PERSON	|				Mrs. Mansfeld
+11	3	fb:cell.hungarian_english_russian_german	Hungarian / English / Russian / German	hungarian|/|english|/|russian|/|german	hungarian|/|english|/|russian|/|german	JJ|:|JJ|:|JJ|:|JJ	MISC|O|MISC|O|O|O|MISC	||||||				Hungarian|English|Russian|German
+12	0	fb:cell.margo	Margo	margo	Margo	NNP	PERSON					Margo
+12	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		2006
+12	2	fb:cell.margo_s_stepmother	Margo's stepmother	margo|'s|stepmother	Margo|'s|stepmother	NNP|POS|NN	PERSON|O|O	||				Margo's stepmother
+12	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+13	0	fb:cell.visuri_otravite_poisoned_dreams	Visuri otrăvite ("Poisoned Dreams")	visuri|otrăvite|-lrb-|``|poisoned|dreams|''|-rrb-	Visuri|otrăvite|-lrb-|``|poison|dream|''|-rrb-	NNP|NNP|-LRB-|``|VBN|NNS|''|-RRB-	O|O|O|O|O|O|O|O	|||||||				Visuri otrăvite ("Poisoned Dreams")
+13	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		2006
+13	2	fb:cell.ada_s_mother	Ada's mother	ada|'s|mother	ada|'s|mother	NN|POS|NN	ORGANIZATION|O|O	||				Ada's mother
+13	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+14	0	fb:cell.15	15	15	15	CD	NUMBER	15.0	15.0			15
+14	1	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		2005
+14	2	fb:cell.irene	Irene	irene	Irene	NNP	PERSON					Irene
+14	3	fb:cell.romanian_french	Romanian / French	romanian|/|french	romanian|/|french	JJ|:|JJ	MISC|O|MISC	||				Romanian|French
+15	0	fb:cell.l_homme_presse	L'Homme pressé	l'homme|pressé	L'Homme|pressé	NNP|NNP	PERSON|PERSON	|				L'Homme pressé
+15	1	fb:cell.2005_tv	2005, TV	2005|,|tv	2005|,|tv	CD|,|NN	DATE|O|O	2005||	2005.0			2005|TV
+15	2	fb:cell.bonne_de_bois_de_rose	Bonne de Bois de Rose	bonne|de|bois|de|rose	bonne|de|bois|de|rise	FW|FW|FW|FW|VBD	PERSON|PERSON|PERSON|PERSON|PERSON	||||				Bonne de Bois de Rose
+15	3	fb:cell.french	French	french	French	NNP	MISC					French
+16	0	fb:cell.orient_express	Orient Express	orient|express	Orient|Express	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Orient Express
+16	1	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		2004
+16	2	fb:cell.amalia_frunzetti	Amalia Frunzetti	amalia|frunzetti	Amalia|Frunzetti	NNP|NNP	PERSON|PERSON	|				Amalia Frunzetti
+16	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+17	0	fb:cell.damen_tango	Damen tango	damen|tango	Damen|tango	NNP|NNP	O|O	|				Damen tango
+17	1	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		2004
+17	2	fb:cell.null										
+17	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+18	0	fb:cell.the_passion_of_the_christ	The Passion of the Christ	the|passion|of|the|christ	the|passion|of|the|Christ	DT|NN|IN|DT|NNP	O|O|O|O|PERSON	||||				The Passion of the Christ
+18	1	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		2004
+18	2	fb:cell.mary	Mary	mary	Mary	NNP	PERSON					Mary
+18	3	fb:cell.aramaic	Aramaic	aramaic	Aramaic	NNP	O					Aramaic
+19	0	fb:cell.casatorie_imposibila_impossible_marriage	Căsătorie imposibilă ("Impossible marriage")	căsătorie|imposibilă|-lrb-|``|impossible|marriage|''|-rrb-	Căsătorie|imposibilă|-lrb-|``|impossible|marriage|''|-rrb-	NNP|NNP|-LRB-|``|JJ|NN|''|-RRB-	PERSON|PERSON|O|O|O|O|O|O	|||||||				Căsătorie imposibilă ("Impossible marriage")
+19	1	fb:cell.2004_tv_series	2004, TV series	2004|,|tv|series	2004|,|TV|series	CD|,|NNP|NNP	DATE|O|O|O	2004|||	2004.0			2004|TV series
+19	2	fb:cell.null										
+19	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+20	0	fb:cell.bolondok_eneke_fool_s_song	Bolondok éneke (Fool's Song)	bolondok|éneke|-lrb-|fool|'s|song|-rrb-	bolondok|éneke|-lrb-|fool|'s|song|-rrb-	NN|NN|-LRB-|NN|POS|NN|-RRB-	PERSON|PERSON|O|O|O|O|O	||||||				Bolondok éneke (Fool's Song)
+20	1	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		2003
+20	2	fb:cell.gina	Gina	gina	Gina	NNP	PERSON					Gina
+20	3	fb:cell.hungarian_french_romanian	Hungarian / French / Romanian	hungarian|/|french|/|romanian	hungarian|/|french|/|romanian	JJ|:|JJ|:|JJ	MISC|O|MISC|O|MISC	||||				Hungarian|French|Romanian
+21	0	fb:cell.a_rozsa_enekei_rose_s_songs	A Rózsa énekei (Rose's Songs)	a|rózsa|énekei|-lrb-|rose|'s|songs|-rrb-	a|rózsa|énekei|-lrb-|rose|'s|song|-rrb-	DT|NN|NN|-LRB-|NN|POS|NNS|-RRB-	O|O|O|O|O|O|O|O	|||||||				A Rózsa énekei (Rose's Songs)
+21	1	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		2003
+21	2	fb:cell.olga	Olga	olga	Olga	NNP	PERSON					Olga
+21	3	fb:cell.hungarian	Hungarian	hungarian	hungarian	JJ	MISC					Hungarian
+22	0	fb:cell.patul_lui_procust_procust_s_bed_based_on_camil_petrescu_s_novel_patul_lui_procust	Patul lui Procust (Procust's Bed)\nBased on Camil Petrescu's novel Patul lui Procust	patul|lui|procust|-lrb-|procust|'s|bed|-rrb-|based|on|camil|petrescu|'s|novel|patul|lui|procust	Patul|lui|Procust|-lrb-|Procust|'s|bed|-rrb-|base|on|Camil|Petrescu|'s|novel|patul|luus|procust	NNP|NNP|NNP|-LRB-|NNP|POS|NN|-RRB-|VBN|IN|NNP|NNP|POS|JJ|NN|NN|NN	PERSON|PERSON|PERSON|O|O|O|O|O|O|O|PERSON|PERSON|O|O|PERSON|PERSON|PERSON	||||||||||||||||				Patul lui Procust (Procust's Bed)|Based on Camil Petrescu's novel Patul lui Procust
+22	1	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		2001
+22	2	fb:cell.doamna_t	Doamna T.	doamna|t.	Doamna|T.	NNP|NNP	PERSON|PERSON	|				Doamna T.
+22	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+23	0	fb:cell.dark_prince_the_true_story_of_dracula	Dark Prince: The True Story of Dracula	dark|prince|:|the|true|story|of|dracula	dark|prince|:|the|true|story|of|Dracula	JJ|NN|:|DT|JJ|NN|IN|NNP	O|O|O|O|O|O|O|PERSON	|||||||				Dark Prince: The True Story of Dracula
+23	1	fb:cell.2000_tv	2000, TV	2000|,|tv	2000|,|tv	CD|,|NN	DATE|O|O	2000||	2000.0			2000|TV
+23	2	fb:cell.woman_at_the_fountain	woman at the fountain	woman|at|the|fountain	woman|at|the|fountain	NN|IN|DT|NN	O|O|O|O	|||				woman at the fountain
+23	3	fb:cell.english	English	english	English	NNP	MISC					English
+24	0	fb:cell.marie_nonna_la_vierge_et_moi	Marie, Nonna, la vierge et moi	marie|,|nonna|,|la|vierge|et|moi	Marie|,|Nonna|,|la|vierge|et|moi	NNP|,|NNP|,|NNP|NNP|FW|FW	PERSON|O|O|O|PERSON|PERSON|PERSON|PERSON	|||||||				Marie|Nonna|la vierge et moi
+24	1	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		2000
+24	2	fb:cell.nonna	Nonna	nonna	Nonna	NNP	PERSON					Nonna
+24	3	fb:cell.french	French	french	French	NNP	MISC					French
+25	0	fb:cell.kinai_vedelem_chinese_defense	Kínai védelem (Chinese Defense)	kínai|védelem|-lrb-|chinese|defense|-rrb-	Kínai|védelem|-lrb-|Chinese|Defense|-rrb-	NNP|NNP|-LRB-|NNP|NNP|-RRB-	PERSON|PERSON|O|MISC|O|O	|||||				Kínai védelem (Chinese Defense)
+25	1	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		1999
+25	2	fb:cell.null										
+25	3	fb:cell.hungarian	Hungarian	hungarian	hungarian	JJ	MISC					Hungarian
+26	0	fb:cell.fata_in_fata_face_to_face	Faţă în faţă (Face to Face)	faţă|în|faţă|-lrb-|face|to|face|-rrb-	faţă|în|faţă|-lrb-|face|to|face|-rrb-	NN|NN|NN|-LRB-|NN|TO|NN|-RRB-	O|O|O|O|O|O|O|O	|||||||				Faţă în faţă (Face to Face)
+26	1	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		1999
+26	2	fb:cell.null										
+26	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+27	0	fb:cell.triunghiul_mortii_triangle_of_death	Triunghiul morţii ("Triangle of Death")	triunghiul|morţii|-lrb-|``|triangle|of|death|''|-rrb-	triunghiul|morţii|-lrb-|``|Triangle|of|death|''|-rrb-	NN|NN|-LRB-|``|NNP|IN|NN|''|-RRB-	PERSON|PERSON|O|O|O|O|O|O|O	||||||||				Triunghiul morţii ("Triangle of Death")
+27	1	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		1999
+27	2	fb:cell.regina_maria	Regina Maria	regina|maria	Regina|Maria	NNP|NNP	PERSON|PERSON	|				Regina Maria
+27	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+28	0	fb:cell.az_alombanya	Az Álombánya	az|álombánya	Az|Álombánya	NNP|NNP	PERSON|PERSON	|				Az Álombánya
+28	1	fb:cell.1998_tv_short	1998, TV, short	1998|,|tv|,|short	1998|,|tv|,|short	CD|,|NN|,|JJ	DATE|O|O|O|O	1998||||	1998.0			1998|TV|short
+28	2	fb:cell.null										
+28	3	fb:cell.hungarian	Hungarian	hungarian	hungarian	JJ	MISC					Hungarian
+29	0	fb:cell.witman_fiuk_witman_boys	Witman fiúk (Witman Boys)	witman|fiúk|-lrb-|witman|boys|-rrb-	Witman|fiúk|-lrb-|Witman|Boys|-rrb-	NNP|NNP|-LRB-|NNP|NNPS|-RRB-	PERSON|PERSON|O|ORGANIZATION|ORGANIZATION|O	|||||				Witman fiúk (Witman Boys)
+29	1	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		1997
+29	2	fb:cell.mrs_witman	Mrs. Witman	mrs.|witman	Mrs.|Witman	NNP|NNP	O|PERSON	|				Mrs. Witman
+29	3	fb:cell.hungarian	Hungarian	hungarian	hungarian	JJ	MISC					Hungarian
+30	0	fb:cell.omul_zilei_the_man_of_the_day	Omul zilei (The Man of the Day)	omul|zilei|-lrb-|the|man|of|the|day|-rrb-	Omul|zilei|-lrb-|the|man|of|the|day|-rrb-	NNP|NNP|-LRB-|DT|NN|IN|DT|NN|-RRB-	ORGANIZATION|ORGANIZATION|O|O|O|O|DATE|DATE|O	||||||THIS P1D|THIS P1D|				Omul zilei (The Man of the Day)
+30	1	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		1997
+30	2	fb:cell.null										
+30	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+31	0	fb:cell.ulysses_gaze_original_greek_title_to_vlemma_tou_odyssea	Ulysses' Gaze(original Greek title: Το Βλέμμα του Οδυσσέα, To Vlemma tou Odyssea)	ulysses|'|gaze|-lrb-|original|greek|title|:|το|βλέμμα|του|οδυσσέα|,|to|vlemma|tou|odyssea|-rrb-	Ulysses|'|gaze|-lrb-|original|greek|title|:|το|βλέμμα|του|οδυσσέα|,|to|Vlemma|tou|Odyssea|-rrb-	NNP|POS|VBP|-LRB-|JJ|JJ|NN|:|NN|NN|NN|NN|,|TO|NNP|NNP|NNP|-RRB-	PERSON|O|O|O|O|MISC|O|O|O|O|O|O|O|O|PERSON|PERSON|PERSON|O	|||||||||||||||||				Ulysses' Gaze(original Greek title: Το Βλέμμα του Οδυσσέα|To Vlemma tou Odyssea)
+31	1	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		1995
+31	2	fb:cell.playing_opposite_harvey_keitel_as_ulysses_wife	playing opposite Harvey Keitel as Ulysses' wife	playing|opposite|harvey|keitel|as|ulysses|'|wife	play|opposite|Harvey|Keitel|as|Ulysses|'|wife	VBG|JJ|NNP|NNP|IN|NNP|POS|NN	O|O|PERSON|PERSON|O|PERSON|O|O	|||||||				playing opposite Harvey Keitel as Ulysses' wife
+31	3	fb:cell.english_greek	English / Greek	english|/|greek	English|/|greek	NNP|:|JJ	MISC|O|MISC	||				English|Greek
+32	0	fb:cell.siodmy_pokoj_the_seventh_room	Siódmy pokój (The Seventh Room)	siódmy|pokój|-lrb-|the|seventh|room|-rrb-	siódmy|pokój|-lrb-|the|seventh|room|-rrb-	JJ|NN|-LRB-|DT|JJ|NN|-RRB-	PERSON|PERSON|O|O|ORDINAL|O|O	||||7.0||				Siódmy pokój (The Seventh Room)
+32	1	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		1995
+32	2	fb:cell.edith_stein_the_starring_role	Edith Stein (the starring role)	edith|stein|-lrb-|the|starring|role|-rrb-	Edith|Stein|-lrb-|the|star|role|-rrb-	NNP|NNP|-LRB-|DT|VBG|NN|-RRB-	PERSON|PERSON|O|O|O|O|O	||||||				Edith Stein (the starring role)
+32	3	fb:cell.hungarian	Hungarian	hungarian	hungarian	JJ	MISC					Hungarian
+33	0	fb:cell.nostradamus	Nostradamus	nostradamus	Nostradamus	NNP	O					Nostradamus
+33	1	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		1994
+33	2	fb:cell.helen	Helen	helen	Helen	NNP	PERSON					Helen
+33	3	fb:cell.english	English	english	English	NNP	MISC					English
+34	0	fb:cell.trahir_betrayal_romanian_title_a_trada	Trahir (Betrayal, Romanian title: A trada)	trahir|-lrb-|betrayal|,|romanian|title|:|a|trada|-rrb-	trahir|-lrb-|betrayal|,|romanian|title|:|a|trada|-rrb-	NN|-LRB-|NN|,|JJ|NN|:|DT|NN|-RRB-	O|O|O|O|MISC|O|O|O|O|O	|||||||||				Trahir (Betrayal|Romanian title: A trada)
+34	1	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		1993
+34	2	fb:cell.woman_in_prison	woman in prison	woman|in|prison	woman|in|prison	NN|IN|NN	O|O|O	||				woman in prison
+34	3	fb:cell.french_romanian	French / Romanian	french|/|romanian	french|/|romanian	JJ|:|JJ	MISC|O|MISC	||				French|Romanian
+35	0	fb:cell.casa_din_vis_the_house_from_the_dream	Casa din vis ("The House from the Dream")	casa|din|vis|-lrb-|``|the|house|from|the|dream|''|-rrb-	Casa|din|vis|-lrb-|``|The|House|from|the|dream|''|-rrb-	NNP|NNP|FW|-LRB-|``|NNP|NNP|IN|DT|NN|''|-RRB-	PERSON|PERSON|PERSON|O|O|O|O|O|O|O|O|O	|||||||||||				Casa din vis ("The House from the Dream")
+35	1	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		1993
+35	2	fb:cell.null										
+35	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+36	0	fb:cell.cel_mai_iubit_dintre_paminteni_the_earth_s_most_beloved_son_based_on_marin_preda_s_novel_cel_mai_iubit_dintre_pamanteni	Cel mai iubit dintre pămînteni (The Earth's Most Beloved Son)\nbased on Marin Preda's novel Cel mai iubit dintre pământeni	cel|mai|iubit|dintre|pămînteni|-lrb-|the|earth|'s|most|beloved|son|-rrb-|based|on|marin|preda|'s|novel|cel|mai|iubit|dintre|pământeni	Cel|mai|iubit|dintre|pămînteni|-lrb-|the|earth|'s|most|beloved|son|-rrb-|base|on|Marin|Preda|'s|novel|Cel|mai|iubit|dintre|pământeni	NNP|NNP|NNP|NNP|NNP|-LRB-|DT|NN|POS|RBS|JJ|NN|-RRB-|VBN|IN|NNP|NNP|POS|JJ|NNP|NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON|PERSON|O|O|LOCATION|O|O|O|O|O|O|O|LOCATION|LOCATION|O|O|O|O|O|O|O	|||||||||||||||||||||||				Cel mai iubit dintre pămînteni (The Earth's Most Beloved Son)|based on Marin Preda's novel Cel mai iubit dintre pământeni
+36	1	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		1993
+36	2	fb:cell.null										
+36	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+37	0	fb:cell.balanta_the_oak	Balanţa (The Oak)	balanţa|-lrb-|the|oak|-rrb-	balanţa|-lrb-|the|oak|-rrb-	NN|-LRB-|DT|NN|-RRB-	PERSON|O|O|O|O	||||				Balanţa (The Oak)
+37	1	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		1992
+37	2	fb:cell.nela_the_starring_role	Nela (the starring role)	nela|-lrb-|the|starring|role|-rrb-	Nela|-lrb-|the|star|role|-rrb-	NNP|-LRB-|DT|VBG|NN|-RRB-	PERSON|O|O|O|O|O	|||||				Nela (the starring role)
+37	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+38	0	fb:cell.raminerea_forgotten_by_god	Rămînerea (Forgotten by God)	rămînerea|-lrb-|forgotten|by|god|-rrb-	rămînerea|-lrb-|forget|by|God|-rrb-	NN|-LRB-|VBN|IN|NNP|-RRB-	PERSON|O|O|O|O|O	|||||				Rămînerea (Forgotten by God)
+38	1	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		1992
+38	2	fb:cell.null										
+38	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+39	0	fb:cell.baiatul_cu_o_singura_bretea_also_known_as_flacaul_cu_o_singura_bretea_the_boy_with_a_single_brace	Băiatul cu o singură bretea, also known as Flăcăul cu o singura bretea\n("The Boy with a Single Brace")	băiatul|cu|o|singură|bretea|,|also|known|as|flăcăul|cu|o|singura|bretea|-lrb-|``|the|boy|with|a|single|brace|''|-rrb-	Băiatul|cu|o|singură|bretea|,|also|know|as|flăcăul|cu|o|singura|bretea|-lrb-|``|The|Boy|with|a|single|Brace|''|-rrb-	NNP|NN|NN|NN|NN|,|RB|VBN|IN|NN|NN|NN|NNP|NNP|-LRB-|``|NNP|NNP|IN|DT|JJ|NNP|''|-RRB-	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||||				Băiatul cu o singură bretea|also known as Flăcăul cu o singura bretea|("The Boy with a Single Brace")
+39	1	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		1991
+39	2	fb:cell.null										
+39	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+40	0	fb:cell.cei_care_platesc_cu_viata_those_who_pay_with_their_lives	Cei care plătesc cu viaţa\n(Those Who Pay with Their Lives)	cei|care|plătesc|cu|viaţa|-lrb-|those|who|pay|with|their|lives|-rrb-	Cei|care|plătesc|cu|viaţa|-lrb-|those|who|pay|with|they|life|-rrb-	NNP|NNP|NNP|NN|NN|-LRB-|DT|WP|VBP|IN|PRP$|NNS|-RRB-	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O|O|O|O|O|O	||||||||||||				Cei care plătesc cu viaţa|(Those Who Pay with Their Lives)
+40	1	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		1991
+40	2	fb:cell.null										
+40	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+41	0	fb:cell.pasaj	Pasaj	pasaj	pasaj	NN	PERSON					Pasaj
+41	1	fb:cell.1990	1990	1990	1990	CD	DATE	1990	1990.0	1990-xx-xx		1990
+41	2	fb:cell.null										
+41	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+42	0	fb:cell.marea_sfidare_the_great_defiance	Marea sfidare ("The great defiance")	marea|sfidare|-lrb-|``|the|great|defiance|''|-rrb-	Marea|sfidare|-lrb-|``|The|great|defiance|''|-rrb-	NNP|NNP|-LRB-|``|NNP|NNP|NN|''|-RRB-	PERSON|PERSON|O|O|O|O|O|O|O	||||||||				Marea sfidare ("The great defiance")
+42	1	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		1989
+42	2	fb:cell.null										
+42	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+43	0	fb:cell.maria_si_marea_maria_and_the_sea	Maria şi marea ("Maria and the Sea")	maria|şi|marea|-lrb-|``|maria|and|the|sea|''|-rrb-	Maria|şi|marea|-lrb-|``|Maria|and|the|sea|''|-rrb-	NNP|NNP|NNP|-LRB-|``|NNP|CC|DT|NN|''|-RRB-	PERSON|PERSON|PERSON|O|O|PERSON|O|O|O|O|O	||||||||||				Maria şi marea ("Maria and the Sea")
+43	1	fb:cell.1988	1988	1988	1988	CD	DATE	1988	1988.0	1988-xx-xx		1988
+43	2	fb:cell.maria	Maria	maria	Maria	NNP	PERSON					Maria
+43	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+44	0	fb:cell.anotimpul_iubirii_the_season_of_love	Anotimpul iubirii (The Season of Love)	anotimpul|iubirii|-lrb-|the|season|of|love|-rrb-	anotimpul|iubirius|-lrb-|the|season|of|love|-rrb-	NN|NN|-LRB-|DT|NN|IN|NN|-RRB-	PERSON|PERSON|O|O|O|O|O|O	|||||||				Anotimpul iubirii (The Season of Love)
+44	1	fb:cell.1986	1986	1986	1986	CD	DATE	1986	1986.0	1986-xx-xx		1986
+44	2	fb:cell.null										
+44	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+45	0	fb:cell.secretul_lui_bachus_the_secret_of_bacchus	Secretul lui Bachus\n(The Secret of Bacchus)	secretul|lui|bachus|-lrb-|the|secret|of|bacchus|-rrb-	Secretul|lui|Bachus|-lrb-|the|secret|of|bacchus|-rrb-	NNP|NNP|NNP|-LRB-|DT|NN|IN|NN|-RRB-	PERSON|PERSON|PERSON|O|O|O|O|O|O	||||||||				Secretul lui Bachus|(The Secret of Bacchus)
+45	1	fb:cell.1984	1984	1984	1984	CD	DATE	1984	1984.0	1984-xx-xx		1984
+45	2	fb:cell.the_girl_in_the_restaurant_as_maia_morgenstern_istodor	the girl in the restaurant\n(as Maia Morgenstern Istodor)	the|girl|in|the|restaurant|-lrb-|as|maia|morgenstern|istodor|-rrb-	the|girl|in|the|restaurant|-lrb-|as|Maia|Morgenstern|Istodor|-rrb-	DT|NN|IN|DT|NN|-LRB-|IN|NNP|NNP|NNP|-RRB-	O|O|O|O|O|O|O|PERSON|PERSON|PERSON|O	||||||||||				the girl in the restaurant|(as Maia Morgenstern Istodor)
+45	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+46	0	fb:cell.dreptate_in_lanturi_chained_justice	Dreptate în lanţuri (Chained Justice)	dreptate|în|lanţuri|-lrb-|chained|justice|-rrb-	dreptate|în|lanţuri|-lrb-|chained|justice|-rrb-	NN|NN|NN|-LRB-|JJ|NN|-RRB-	O|O|O|O|O|O|O	||||||				Dreptate în lanţuri (Chained Justice)
+46	1	fb:cell.1983	1983	1983	1983	CD	DATE	1983	1983.0	1983-xx-xx		1983
+46	2	fb:cell.null										
+46	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian
+47	0	fb:cell.prea_cald_pentru_luna_mai_too_hot_for_the_month_of_may	Prea cald pentru luna mai\n("Too hot for the month of May")	prea|cald|pentru|luna|mai|-lrb-|``|too|hot|for|the|month|of|may|''|-rrb-	prea|cald|pentru|luna|mai|-lrb-|``|too|hot|for|the|month|of|May|''|-rrb-	NN|NN|NN|NNP|NNP|-LRB-|``|RB|JJ|IN|DT|NN|IN|VBD-AUX|''|-RRB-	PERSON|PERSON|PERSON|PERSON|PERSON|O|O|O|O|O|DATE|DATE|DATE|DATE|O|O	||||||||||THIS P1M INTERSECT XXXX-05|THIS P1M INTERSECT XXXX-05|THIS P1M INTERSECT XXXX-05|THIS P1M INTERSECT XXXX-05||				Prea cald pentru luna mai|("Too hot for the month of May")
+47	1	fb:cell.1983	1983	1983	1983	CD	DATE	1983	1983.0	1983-xx-xx		1983
+47	2	fb:cell.null										
+47	3	fb:cell.romanian	Romanian	romanian	Romanian	NNP	MISC					Romanian

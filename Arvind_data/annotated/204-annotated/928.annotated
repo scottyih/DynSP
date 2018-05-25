@@ -1,0 +1,56 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.album	Album	album	album	NN	O					
+-1	2	fb:row.row.territory	Territory	territory	territory	NN	O					
+-1	3	fb:row.row.label	Label	label	label	NN	O					
+-1	4	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+0	1	fb:cell.good_deeds_and_dirty_rags	Good Deeds and Dirty Rags	good|deeds|and|dirty|rags	good|deed|and|dirty|rag	JJ|NNS|CC|JJ|NNS	O|O|O|O|O	||||				
+0	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					
+0	3	fb:cell.capitol_records	Capitol Records	capitol|records	Capitol|Records	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Capitol Records
+0	4	fb:cell.debut_album_reached_no_26_on_uk_albums_chart	Debut album, reached No. 26 on UK Albums Chart	debut|album|,|reached|no.|26|on|uk|albums|chart	debut|album|,|reach|no.|26|on|UK|album|chart	NN|NN|,|VBD|NN|CD|IN|NNP|NNS|VBP	O|O|O|O|O|NUMBER|O|LOCATION|O|O	|||||26.0||||	0.26			Debut album|reached No. 26 on UK Albums Chart
+1	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+1	1	fb:cell.fish_heads_and_tails	Fish Heads and Tails	fish|heads|and|tails	fish|head|and|tail	NN|NNS|CC|NNS	O|O|O|O	|||				
+1	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					
+1	3	fb:cell.capitol_records	Capitol Records	capitol|records	Capitol|Records	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Capitol Records
+1	4	fb:cell.mid_price_live_and_rarities_compilation	Mid-price live and rarities compilation	mid|price|live|and|rarities|compilation	mid|price|live|and|rarity|compilation	JJ|NN|JJ|CC|NNS|NN	O|O|O|O|O|O	|||||				Mid-price live and rarities compilation
+2	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+2	1	fb:cell.hammer_and_tongs	Hammer and Tongs	hammer|and|tongs	hammer|and|tong	VB|CC|NNS	O|O|O	||				
+2	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					
+2	3	fb:cell.radioactive_records_mca	Radioactive Records/MCA	radioactive|records/mca	radioactive|records/mca	JJ|NN	O|O	|				Radioactive Records|MCA
+2	4	fb:cell.second_studio_album_reached_no_61_on_the_uk_albums_chart	Second studio album; reached No. 61 on the UK Albums Chart	second|studio|album|;|reached|no.|61|on|the|uk|albums|chart	second|studio|album|;|reach|no.|61|on|the|UK|album|chart	JJ|NN|NN|:|VBN|NN|CD|IN|DT|NNP|NNS|VBP	ORDINAL|O|O|O|O|O|NUMBER|O|O|LOCATION|O|O	2.0||||||61.0|||||	0.61			Second studio album; reached No. 61 on the UK Albums Chart
+3	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+3	1	fb:cell.goodbye_mr_mackenzie	Goodbye Mr. Mackenzie	goodbye|mr.|mackenzie	Goodbye|Mr.|Mackenzie	NNP|NNP|NNP	O|O|PERSON	||				
+3	2	fb:cell.international	International	international	International	NNP	O					
+3	3	fb:cell.radioactive_records_mca	Radioactive Records/MCA	radioactive|records/mca	radioactive|records/mca	JJ|NN	O|O	|				Radioactive Records|MCA
+3	4	fb:cell.compilation_of_tracks_from_both_albums_remixed	Compilation of tracks from both albums, remixed	compilation|of|tracks|from|both|albums|,|remixed	compilation|of|track|from|both|album|,|remix	NN|IN|NNS|IN|DT|NNS|,|VBN	O|O|O|O|O|O|O|O	|||||||				Compilation of tracks from both albums|remixed
+4	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+4	1	fb:cell.live_on_the_day_of_storms	Live on The Day of Storms	live|on|the|day|of|storms	live|on|the|day|of|storm	VB|IN|DT|NN|IN|NNS	O|O|DATE|DATE|O|O	||THIS P1D|THIS P1D||				
+4	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					
+4	3	fb:cell.blokshok_records	Blokshok Records	blokshok|records	blokshok|record	NN|NNS	O|O	|				Blokshok Records
+4	4	fb:cell.live_album	Live album	live|album	live|album	JJ|NN	O|O	|				Live album
+5	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+5	1	fb:cell.five	Five	five	five	CD	NUMBER	5.0	5.0			
+5	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					
+5	3	fb:cell.blokshok_records	Blokshok Records	blokshok|records	blokshok|record	NN|NNS	O|O	|				Blokshok Records
+5	4	fb:cell.third_studio_album	Third studio album	third|studio|album	third|studio|album	JJ|NN|NN	ORDINAL|O|O	3.0||				Third studio album
+6	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+6	1	fb:cell.jezebel	Jezebel	jezebel	Jezebel	NNP	PERSON					
+6	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					
+6	3	fb:cell.blokshok_records	Blokshok Records	blokshok|records	blokshok|record	NN|NNS	O|O	|				Blokshok Records
+6	4	fb:cell.rarities_compilation	Rarities compilation	rarities|compilation	rarity|compilation	NNS|NN	O|O	|				Rarities compilation
+7	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+7	1	fb:cell.the_glory_hole	The Glory Hole	the|glory|hole	the|glory|hole	DT|NN|NN	O|O|O	||				
+7	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					
+7	3	fb:cell.blokshok_records	Blokshok Records	blokshok|records	blokshok|record	NN|NNS	O|O	|				Blokshok Records
+7	4	fb:cell.fourth_and_final_studio_album_manson_scobie_or_duncan_do_not_feature	Fourth and final studio album: Manson, Scobie or Duncan do not feature	fourth|and|final|studio|album|:|manson|,|scobie|or|duncan|do|not|feature	fourth|and|final|studio|album|:|Manson|,|Scobie|or|Duncan|do|not|feature	JJ|CC|JJ|NN|NN|:|NNP|,|NNP|CC|NNP|VBD-AUX|RB|NN	ORDINAL|O|O|O|O|O|PERSON|O|PERSON|O|PERSON|O|O|O	4.0|||||||||||||				Fourth and final studio album: Manson|Scobie or Duncan do not feature
+8	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+8	1	fb:cell.the_river_sessions	The River Sessions	the|river|sessions	the|river|session	DT|NN|NNS	O|O|O	||				
+8	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					
+8	3	fb:cell.river_records	River Records	river|records	river|record	NN|NNS	O|O	|				River Records
+8	4	fb:cell.double_live_album	Double live album	double|live|album	double|live|album	JJ|JJ|NN	O|O|O	||				Double live album
+9	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+9	1	fb:cell.the_rattler_live_91	The Rattler: Live '91'	the|rattler|:|live|'|91|'	the|rattler|:|live|'|91|'	DT|NN|:|VB|''|CD|''	O|O|O|O|DATE|DATE|O	||||XX91|XX91|	91.0			
+9	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					
+9	3	fb:cell.md_music_company	MD Music Company	md|music|company	MD|music|company	NNP|NN|NN	O|O|O	||				MD Music Company
+9	4	fb:cell.live_album_digital_release	Live album (Digital release)	live|album|-lrb-|digital|release|-rrb-	live|album|-lrb-|digital|release|-rrb-	VB|NN|-LRB-|JJ|NN|-RRB-	O|O|O|O|O|O	|||||				Live album (Digital release)

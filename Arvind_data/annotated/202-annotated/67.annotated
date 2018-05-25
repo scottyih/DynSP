@@ -1,0 +1,57 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.show	Show	show	show	NN	O					
+-1	2	fb:row.row.role	Role	role	role	NN	O					
+-1	3	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.1994_96	1994-96	1994-96	1994-96	CD	NUMBER	1994.0 - 96.0	1994.0		96.0	
+0	1	fb:cell.martin	Martin	martin	Martin	NNP	PERSON					Martin
+0	2	fb:cell.hustle_man	Hustle Man	hustle|man	hustle|man	VB|NN	PERSON|PERSON	|				Hustle Man
+0	3	fb:cell.null										
+1	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+1	1	fb:cell.3rd_rock_from_the_sun	3rd Rock from the Sun	3rd|rock|from|the|sun	3rd|Rock|from|the|Sun	NNP|NNP|IN|DT|NNP	ORDINAL|O|O|O|O	3.0||||	3.0			3rd Rock from the Sun
+1	2	fb:cell.tracy_morgan	Tracy Morgan	tracy|morgan	Tracy|Morgan	NNP|NNP	PERSON|PERSON	|				Tracy Morgan
+1	3	fb:cell.null										
+2	0	fb:cell.1996_03	1996-03	1996-03	1996-03	CD	DATE	1996-03	1996.0	1996-03-xx	3.0	
+2	1	fb:cell.saturday_night_live	Saturday Night Live	saturday|night|live	Saturday|Night|Live	NNP|NNP|NNP	TIME|TIME|O	XXXX-WXX-6TNI|XXXX-WXX-6TNI|				Saturday Night Live
+2	2	fb:cell.himself_various	Himself, Various	himself|,|various	himself|,|various	PRP|,|JJ	O|O|O	||				Himself|Various
+2	3	fb:cell.null										
+3	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+3	1	fb:cell.crank_yankers	Crank Yankers	crank|yankers	crank|yankers	VB|RB	O|O	|				Crank Yankers
+3	2	fb:cell.spoonie_luv	Spoonie Luv	spoonie|luv	spoonie|luv	NN|NN	PERSON|PERSON	|				Spoonie Luv
+3	3	fb:cell.null										
+4	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+4	1	fb:cell.frank_mcklusky_c_i	Frank McKlusky, C.I.	frank|mcklusky|,|c.i.	Frank|McKlusky|,|C.I.	NNP|NNP|,|NNP	PERSON|PERSON|O|LOCATION	|||				Frank McKlusky|C.I.
+4	2	fb:cell.reggie_rosengold	Reggie Rosengold	reggie|rosengold	Reggie|Rosengold	NNP|NNP	PERSON|PERSON	|				Reggie Rosengold
+4	3	fb:cell.null										
+5	0	fb:cell.2003_04	2003-04	2003-04	2003-04	CD	DATE	2003-04	2003.0	2003-04-xx	4.0	
+5	1	fb:cell.the_tracy_morgan_show	The Tracy Morgan Show	the|tracy|morgan|show	the|Tracy|Morgan|Show	DT|NNP|NNP|NNP	O|PERSON|PERSON|O	|||				The Tracy Morgan Show
+5	2	fb:cell.tracy_mitchell	Tracy Mitchell	tracy|mitchell	Tracy|Mitchell	NNP|NNP	PERSON|PERSON	|				Tracy Mitchell
+5	3	fb:cell.null										
+6	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+6	1	fb:cell.mind_of_mencia	Mind of Mencia	mind|of|mencia	mind|of|Mencia	NN|IN|NNP	O|O|PERSON	||				Mind of Mencia
+6	2	fb:cell.captain_black_cawk	Captain Black Cawk	captain|black|cawk	captain|black|cawk	NN|JJ|NN	O|PERSON|PERSON	||				Captain Black Cawk
+6	3	fb:cell.null										
+7	0	fb:cell.2006_13	2006-13	2006-13	2006-13	CD	NUMBER	2006.0 - 13.0	2006.0		13.0	
+7	1	fb:cell.30_rock	30 Rock	30|rock	30|rock	CD|NN	NUMBER|O	30.0|	30.0			30 Rock
+7	2	fb:cell.tracy_jordan	Tracy Jordan	tracy|jordan	Tracy|Jordan	NNP|NNP	PERSON|PERSON	|				Tracy Jordan
+7	3	fb:cell.null										
+8	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+8	1	fb:cell.human_giant	Human Giant	human|giant	human|giant	JJ|NN	O|O	|				Human Giant
+8	2	fb:cell.the_invisible_man	The Invisible Man	the|invisible|man	the|invisible|man	DT|JJ|NN	O|O|O	||				The Invisible Man
+8	3	fb:cell.null										
+9	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+9	1	fb:cell.where_my_dogs_at	Where My Dogs At?	where|my|dogs|at|?	where|my|dog|at|?	WRB|PRP$|NNS|IN|.	O|O|O|O|O	||||				Where My Dogs At?
+9	2	fb:cell.woof	Woof	woof	Woof	NNP	O					Woof
+9	3	fb:cell.null										
+10	0	fb:cell.2008_present	2008–present	2008|--|present	2008|--|present	CD|:|JJ	DATE|O|DATE	2008||PRESENT_REF	2008.0			
+10	1	fb:cell.scare_tactics	Scare Tactics	scare|tactics	Scare|tactic	NNP|NNS	O|O	|				Scare Tactics
+10	2	fb:cell.host	Host	host	host	NN	O					Host
+10	3	fb:cell.null										
+11	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+11	1	fb:cell.saturday_night_live	Saturday Night Live	saturday|night|live	Saturday|Night|Live	NNP|NNP|NNP	TIME|TIME|O	XXXX-WXX-6TNI|XXXX-WXX-6TNI|				Saturday Night Live
+11	2	fb:cell.host	Host	host	host	NN	O					Host
+11	3	fb:cell.episode_tracy_morgan_kelly_clarkson	Episode: "Tracy Morgan/Kelly Clarkson"	episode|:|``|tracy|morgan/kelly|clarkson|''	episode|:|``|Tracy|Morgan/Kelly|Clarkson|''	NN|:|``|NNP|NNP|NNP|''	O|O|O|O|O|O|O	||||||				Episode: "Tracy Morgan|Kelly Clarkson"
+12	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+12	1	fb:cell.saturday_night_live	Saturday Night Live	saturday|night|live	Saturday|Night|Live	NNP|NNP|NNP	TIME|TIME|O	XXXX-WXX-6TNI|XXXX-WXX-6TNI|				Saturday Night Live
+12	2	fb:cell.various	Various	various	various	JJ	O					Various
+12	3	fb:cell.episode_jimmy_fallon_michael_buble	Episode: "Jimmy Fallon/Michael Bublé"	episode|:|``|jimmy|fallon/michael|bublé|''	episode|:|``|Jimmy|Fallon/Michael|Bublé|''	NN|:|``|NNP|NNP|NNP|''	O|O|O|PERSON|PERSON|PERSON|O	||||||				Episode: "Jimmy Fallon|Michael Bublé"

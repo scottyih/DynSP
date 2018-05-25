@@ -1,0 +1,505 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.genre	Genre	genre	genre	NN	O					
+-1	1	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	2	fb:row.row.title	Title	title	title	NN	O					
+-1	3	fb:row.row.episode	Episode	episode	episode	NN	O					
+-1	4	fb:row.row.role	Role	role	role	NN	O					
+-1	5	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+0	1	fb:cell.1990	1990	1990	1990	CD	DATE	1990	1990.0	1990-xx-xx		
+0	2	fb:cell.the_days_and_nights_of_molly_dodd	The Days and Nights of Molly Dodd	the|days|and|nights|of|molly|dodd	the|day|and|night|of|Molly|Dodd	DT|NNS|CC|NNS|IN|NNP|NNP	DURATION|DURATION|O|TIME|O|PERSON|PERSON	PXD|PXD||TNI|||				The Days and Nights of Molly Dodd
+0	3	fb:cell._here_s_a_quick_and_easy_recipe_for_leftovers	"Here's a Quick and Easy Recipe for Leftovers"	``|here|'s|a|quick|and|easy|recipe|for|leftovers|''	``|here|be|a|quick|and|easy|recipe|for|Leftovers|''	``|RB|VBZ|DT|JJ|CC|JJ|NN|IN|NNP|''	O|O|O|O|O|O|O|O|O|O|O	||||||||||				"Here's a Quick and Easy Recipe for Leftovers"
+0	4	fb:cell.trent	Trent	trent	Trent	NNP	PERSON					Trent
+0	5	fb:cell.null										
+1	0	fb:cell.short_film	Short film	short|film	short|film	JJ|NN	O|O	|				
+1	1	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+1	2	fb:cell.dangerous_music	Dangerous Music	dangerous|music	dangerous|music	JJ|NN	O|O	|				Dangerous Music
+1	3	fb:cell.null										
+1	4	fb:cell.tyler	Tyler	tyler	Tyler	NNP	PERSON					Tyler
+1	5	fb:cell.24_minutes	24 minutes	24|minutes	24|minute	CD|NNS	DURATION|DURATION	PT24M|PT24M	24.0			
+2	0	fb:cell.short_film	Short film	short|film	short|film	JJ|NN	O|O	|				
+2	1	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+2	2	fb:cell.the_bet	The Bet	the|bet	the|bet	DT|NN	O|O	|				The Bet
+2	3	fb:cell.null										
+2	4	fb:cell.henry	Henry	henry	Henry	NNP	PERSON					Henry
+2	5	fb:cell.21_minutes	21 minutes	21|minutes	21|minute	CD|NNS	DURATION|DURATION	PT21M|PT21M	21.0			
+3	0	fb:cell.tv_film	TV film	tv|film	tv|film	NN|NN	O|O	|				
+3	1	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+3	2	fb:cell.normandy_the_great_crusade	Normandy: The Great Crusade	normandy|:|the|great|crusade	Normandy|:|the|great|crusade	NNP|:|DT|JJ|NN	LOCATION|O|O|O|O	||||				Normandy: The Great Crusade
+3	3	fb:cell.null										
+3	4	fb:cell.louis_simpson	Louis Simpson	louis|simpson	Louis|Simpson	NNP|NNP	PERSON|PERSON	|				Louis Simpson
+3	5	fb:cell.voice_actor	voice actor	voice|actor	voice|actor	NNP|NN	O|O	|				
+4	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+4	1	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+4	2	fb:cell.nypd_blue	NYPD Blue	nypd|blue	NYPD|Blue	NNP|NNP	O|O	|				NYPD Blue
+4	3	fb:cell._good_time_charlie	"Good Time Charlie"	``|good|time|charlie|''	``|good|time|Charlie|''	``|JJ|NN|NNP|''	O|O|O|O|O	||||				"Good Time Charlie"
+4	4	fb:cell.paul_gaines	Paul Gaines	paul|gaines	Paul|Gaines	NNP|NNP	PERSON|PERSON	|				Paul Gaines
+4	5	fb:cell.null										
+5	0	fb:cell.film	Film	film	film	NN	O					
+5	1	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+5	2	fb:cell.only_you	Only You	only|you	only|you	RB|PRP	O|O	|				Only You
+5	3	fb:cell.null										
+5	4	fb:cell.dwayne_faith_s_fiance	Dwayne, Faith's fiancé	dwayne|,|faith|'s|fiancé	Dwayne|,|faith|'s|fiancé	NNP|,|NN|POS|NN	PERSON|O|O|O|O	||||				Dwayne|Faith's fiancé
+5	5	fb:cell.null										
+6	0	fb:cell.film	Film	film	film	NN	O					
+6	1	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+6	2	fb:cell.the_ref	The Ref	the|ref	the|ref	DT|NN	O|O	|				The Ref
+6	3	fb:cell.null										
+6	4	fb:cell.old_baybrook_policeman	Old Baybrook Policeman	old|baybrook|policeman	old|Baybrook|policeman	JJ|NNP|NN	O|LOCATION|O	||				Old Baybrook Policeman
+6	5	fb:cell.null										
+7	0	fb:cell.film	Film	film	film	NN	O					
+7	1	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+7	2	fb:cell.comfortably_numb	Comfortably Numb	comfortably|numb	comfortably|numb	RB|JJ	O|O	|				Comfortably Numb
+7	3	fb:cell.null										
+7	4	fb:cell.priest	Priest	priest	priest	NN	O					Priest
+7	5	fb:cell.null										
+8	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+8	1	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+8	2	fb:cell.new_york_news	New York News	new|york|news	New|York|News	NNP|NNP|NNP	LOCATION|LOCATION|O	||				New York News
+8	3	fb:cell._you_thought_the_pope_was_something	"You Thought the Pope Was Something"	``|you|thought|the|pope|was|something|''	``|you|think|the|Pope|be|something|''	``|PRP|VBD|DT|NNP|VBD-AUX|NN|''	O|O|O|O|O|O|O|O	|||||||				"You Thought the Pope Was Something"
+8	4	fb:cell.null										
+8	5	fb:cell.null										
+9	0	fb:cell.film	Film	film	film	NN	O					
+9	1	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+9	2	fb:cell.eddie	Eddie	eddie	Eddie	NNP	PERSON					Eddie
+9	3	fb:cell.null										
+9	4	fb:cell.joe_nader	Joe Nader	joe|nader	Joe|Nader	NNP|NNP	PERSON|PERSON	|				Joe Nader
+9	5	fb:cell.null										
+10	0	fb:cell.short_film	Short film	short|film	short|film	JJ|NN	O|O	|				
+10	1	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+10	2	fb:cell.sin_8	Sin #8	sin|#|8	Sin|#|8	NNP|#|CD	O|MONEY|MONEY	|£8.0|£8.0	8.0			Sin #8
+10	3	fb:cell.null										
+10	4	fb:cell.null										
+10	5	fb:cell.null										
+11	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+11	1	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+11	2	fb:cell.nothing_sacred	Nothing Sacred	nothing|sacred	nothing|sacred	NN|JJ	O|O	|				Nothing Sacred
+11	3	fb:cell._speaking_in_tongues	"Speaking in Tongues"	``|speaking|in|tongues|''	``|speak|in|tongue|''	``|VBG|IN|NNS|''	O|O|O|O|O	||||				"Speaking in Tongues"
+11	4	fb:cell.dr_elliott	Dr. Elliott	dr.|elliott	Dr.|Elliott	NNP|NNP	O|PERSON	|				Dr. Elliott
+11	5	fb:cell.null										
+12	0	fb:cell.film	Film	film	film	NN	O					
+12	1	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+12	2	fb:cell.the_ice_storm	The Ice Storm	the|ice|storm	the|ice|storm	DT|NN|NN	O|O|O	||				The Ice Storm
+12	3	fb:cell.null										
+12	4	fb:cell.mark_boland	Mark Boland	mark|boland	Mark|Boland	NNP|NNP	PERSON|PERSON	|				Mark Boland
+12	5	fb:cell.null										
+13	0	fb:cell.film	Film	film	film	NN	O					
+13	1	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+13	2	fb:cell.love_valour_compassion	Love! Valour! Compassion!	love|!|valour|!|compassion|!	love|!|valour|!|compassion|!	NN|.|NN|.|NN|.	O|O|O|O|O|O	|||||				Love! Valour! Compassion!
+13	3	fb:cell.null										
+13	4	fb:cell.arthur_pape	Arthur Pape	arthur|pape	Arthur|Pape	NNP|NNP	PERSON|PERSON	|				Arthur Pape
+13	5	fb:cell.null										
+14	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+14	1	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+14	2	fb:cell.3rd_rock_from_the_sun	3rd Rock from the Sun	3rd|rock|from|the|sun	3rd|Rock|from|the|Sun	NNP|NNP|IN|DT|NNP	ORDINAL|O|O|O|O	3.0||||	3.0			3rd Rock from the Sun
+14	3	fb:cell._the_great_dickdater	"The Great Dickdater"	``|the|great|dickdater|''	``|the|great|dickdater|''	``|DT|JJ|NN|''	O|O|O|O|O	||||				"The Great Dickdater"
+14	4	fb:cell.rick	Rick	rick	Rick	NNP	PERSON					Rick
+14	5	fb:cell.null										
+15	0	fb:cell.film	Film	film	film	NN	O					
+15	1	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+15	2	fb:cell.finding_north	Finding North	finding|north	find|north	VBG|NN	O|O	|				Finding North
+15	3	fb:cell.null										
+15	4	fb:cell.travis_furlong	Travis Furlong	travis|furlong	Travis|Furlong	NNP|NNP	PERSON|PERSON	|				Travis Furlong
+15	5	fb:cell.null										
+16	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+16	1	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+16	2	fb:cell.law_order	Law & Order	law|&|order	Law|&|Order	NNP|CC|NNP	PERSON|O|O	||				Law & Order
+16	3	fb:cell._castoff	"Castoff"	``|castoff|''	``|castoff|''	``|NN|''	O|O|O	||				"Castoff"
+16	4	fb:cell.charles_thatcher	Charles Thatcher	charles|thatcher	Charles|Thatcher	NNP|NNP	PERSON|PERSON	|				Charles Thatcher
+16	5	fb:cell.5_episodes_total	5 episodes total	5|episodes|total	5|episode|total	CD|NNS|VBP	NUMBER|O|O	5.0||	5.0			
+17	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+17	1	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+17	2	fb:cell.sex_and_the_city	Sex and the City	sex|and|the|city	sex|and|the|city	NN|CC|DT|NN	O|O|O|O	|||				Sex and the City
+17	3	fb:cell._oh_come_all_ye_faithful	"Oh Come All Ye Faithful"	``|oh|come|all|ye|faithful|''	``|oh|come|all|ye|faithful|''	``|UH|VB|DT|PRP|JJ|''	O|O|O|O|O|O|O	||||||				"Oh Come All Ye Faithful"
+17	4	fb:cell.tom	Tom	tom	Tom	NNP	PERSON					Tom
+17	5	fb:cell.null										
+18	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+18	1	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+18	2	fb:cell.homicide_life_on_the_street	Homicide: Life on the Street	homicide|:|life|on|the|street	homicide|:|life|on|the|street	NN|:|NN|IN|DT|NN	O|O|O|O|O|O	|||||				Homicide: Life on the Street
+18	3	fb:cell._zen_and_the_art_of_murder	"Zen and the Art of Murder"	``|zen|and|the|art|of|murder|''	``|zen|and|the|art|of|murder|''	``|NN|CC|DT|NN|IN|NN|''	O|O|O|O|O|O|O|O	|||||||				"Zen and the Art of Murder"
+18	4	fb:cell.dennis_kohler	Dennis Kohler	dennis|kohler	Dennis|Kohler	NNP|NNP	PERSON|PERSON	|				Dennis Kohler
+18	5	fb:cell.null										
+19	0	fb:cell.film	Film	film	film	NN	O					
+19	1	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+19	2	fb:cell.the_general_s_daughter	The General's Daughter	the|general|'s|daughter	the|General|'s|daughter	DT|NNP|POS|NN	O|O|O|O	|||				The General's Daughter
+19	3	fb:cell.null										
+19	4	fb:cell.captain_goodson	Captain Goodson	captain|goodson	captain|Goodson	NN|NNP	O|PERSON	|				Captain Goodson
+19	5	fb:cell.null										
+20	0	fb:cell.film	Film	film	film	NN	O					
+20	1	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+20	2	fb:cell.the_bone_collector	The Bone Collector	the|bone|collector	the|bone|Collector	DT|NN|NNP	O|O|O	||				The Bone Collector
+20	3	fb:cell.null										
+20	4	fb:cell.dr_barry_lehman	Dr. Barry Lehman	dr.|barry|lehman	Dr.|Barry|Lehman	NNP|NNP|NNP	O|PERSON|PERSON	||				Dr. Barry Lehman
+20	5	fb:cell.null										
+21	0	fb:cell.tv_film	TV film	tv|film	tv|film	NN|NN	O|O	|				
+21	1	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+21	2	fb:cell.the_lady_in_question	The Lady in Question	the|lady|in|question	the|lady|in|question	DT|NN|IN|NN	O|O|O|O	|||				The Lady in Question
+21	3	fb:cell.null										
+21	4	fb:cell.paul_kessler	Paul Kessler	paul|kessler	Paul|Kessler	NNP|NNP	PERSON|PERSON	|				Paul Kessler
+21	5	fb:cell.null										
+22	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+22	1	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+22	2	fb:cell.d_c	D.C.	d.c.	D.C.	NNP	LOCATION					D.C.
+22	3	fb:cell._truth_justice_blame_party	"Truth"\n"Justice"\n"Blame"\n"Party"	``|truth|''|``|justice|''|``|blame|''|``|party|''	``|truth|''|``|Justice|''|``|blame|''|``|Party|''	``|NN|''|``|NNP|''|``|NN|''|``|NNP|''	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||				"Truth"|"Justice"|"Blame"|"Party"
+22	4	fb:cell.rob_rob_congressman_owens_neil	Rob\nRob\nCongressman Owens\nNeil	rob|rob|congressman|owens|neil	Rob|Rob|Congressman|Owens|Neil	NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Rob|Rob|Congressman Owens|Neil
+22	5	fb:cell.null										
+23	0	fb:cell.tv_film	TV film	tv|film	tv|film	NN|NN	O|O	|				
+23	1	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+23	2	fb:cell.hamlet	Hamlet	hamlet	Hamlet	NNP	PERSON					Hamlet
+23	3	fb:cell.null										
+23	4	fb:cell.horatio	Horatio	horatio	Horatio	NNP	PERSON					Horatio
+23	5	fb:cell.null										
+24	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+24	1	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+24	2	fb:cell.law_order_special_victims_unit	Law & Order: Special Victims Unit	law|&|order|:|special|victims|unit	Law|&|Order|:|special|victim|unit	NNP|CC|NNP|:|JJ|NNS|NN	PERSON|O|O|O|O|O|O	||||||				Law & Order: Special Victims Unit
+24	3	fb:cell._misleader_nocturne	"Misleader"\n"Nocturne"	``|misleader|''|``|nocturne|''	``|Misleader|''|``|Nocturne|''	``|NNP|''|``|NNP|''	O|O|O|O|O|O	|||||				"Misleader"|"Nocturne"
+24	4	fb:cell.assistant_district_attorney	Assistant District Attorney	assistant|district|attorney	assistant|district|attorney	JJ|NN|NN	O|O|O	||				Assistant District Attorney
+24	5	fb:cell.null										
+25	0	fb:cell.tv_film	TV film	tv|film	tv|film	NN|NN	O|O	|				
+25	1	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+25	2	fb:cell.perfect_murder_perfect_town_jonbenet_and_the_city_of_boulder	Perfect Murder, Perfect Town: JonBenét and the City of Boulder	perfect|murder|,|perfect|town|:|jonbenét|and|the|city|of|boulder	perfect|murder|,|perfect|town|:|JonBenét|and|the|city|of|Boulder	JJ|NN|,|JJ|NN|:|NNP|CC|DT|NN|IN|NNP	O|O|O|O|O|O|PERSON|O|O|O|O|LOCATION	|||||||||||				Perfect Murder|Perfect Town: JonBenét and the City of Boulder
+25	3	fb:cell.null										
+25	4	fb:cell.null										
+25	5	fb:cell.null										
+26	0	fb:cell.film	Film	film	film	NN	O					
+26	1	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+26	2	fb:cell.the_anniversary_party	The Anniversary Party	the|anniversary|party	the|anniversary|party	DT|NN|NN	O|O|O	||				The Anniversary Party
+26	3	fb:cell.null										
+26	4	fb:cell.jerry_adams	Jerry Adams	jerry|adams	Jerry|Adams	NNP|NNP	PERSON|PERSON	|				Jerry Adams
+26	5	fb:cell.null										
+27	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+27	1	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+27	2	fb:cell.csi_crime_scene_investigation	CSI: Crime Scene Investigation	csi|:|crime|scene|investigation	CSI|:|Crime|scene|investigation	NNP|:|NNP|NN|NN	MISC|O|O|O|O	||||				CSI: Crime Scene Investigation
+27	3	fb:cell._slaves_of_las_vegas	"Slaves of Las Vegas"	``|slaves|of|las|vegas|''	``|slave|of|Las|Vegas|''	``|NNS|IN|NNP|NNP|''	O|O|O|LOCATION|LOCATION|O	|||||				"Slaves of Las Vegas"
+27	4	fb:cell.dr_sidney_cornfeld	Dr. Sidney Cornfeld	dr.|sidney|cornfeld	Dr.|Sidney|Cornfeld	NNP|NNP|NNP	O|PERSON|PERSON	||				Dr. Sidney Cornfeld
+27	5	fb:cell.null										
+28	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+28	1	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+28	2	fb:cell.the_guardian	The Guardian	the|guardian	the|guardian	DT|NN	O|O	|				The Guardian
+28	3	fb:cell._loyalties	"Loyalties"	``|loyalties|''	``|loyalty|''	``|NNS|''	O|O|O	||				"Loyalties"
+28	4	fb:cell.the_hudson_s_attorney	The Hudson's Attorney	the|hudson|'s|attorney	the|Hudson|'s|attorney	DT|NNP|POS|NN	O|LOCATION|O|O	|||				The Hudson's Attorney
+28	5	fb:cell.null										
+29	0	fb:cell.tv_film	TV film	tv|film	tv|film	NN|NN	O|O	|				
+29	1	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+29	2	fb:cell.a_glimpse_of_hell	A Glimpse of Hell	a|glimpse|of|hell	a|glimpse|of|hell	DT|NN|IN|NN	O|O|O|O	|||				A Glimpse of Hell
+29	3	fb:cell.null										
+29	4	fb:cell.null										
+29	5	fb:cell.null										
+30	0	fb:cell.tv_film	TV film	tv|film	tv|film	NN|NN	O|O	|				
+30	1	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+30	2	fb:cell.life_with_judy_garland_me_and_my_shadows	Life with Judy Garland: Me and My Shadows	life|with|judy|garland|:|me|and|my|shadows	life|with|Judy|Garland|:|I|and|my|shadow	NN|IN|NNP|NNP|:|PRP|CC|PRP$|NNS	O|O|PERSON|PERSON|O|O|O|O|O	||||||||				Life with Judy Garland: Me and My Shadows
+30	3	fb:cell.null										
+30	4	fb:cell.roger_edens	Roger Edens	roger|edens	Roger|Edens	NNP|NNP	PERSON|PERSON	|				Roger Edens
+30	5	fb:cell.null										
+31	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+31	1	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+31	2	fb:cell.nypd_blue	NYPD Blue	nypd|blue	NYPD|Blue	NNP|NNP	O|O	|				NYPD Blue
+31	3	fb:cell._mom_s_away	"Mom's Away"	``|mom|'s|away|''	``|mom|'s|away|''	``|NN|POS|RB|''	O|O|O|O|O	||||				"Mom's Away"
+31	4	fb:cell.phillip_connor	Phillip Connor	phillip|connor	Phillip|Connor	NNP|NNP	PERSON|PERSON	|				Phillip Connor
+31	5	fb:cell.null										
+32	0	fb:cell.film	Film	film	film	NN	O					
+32	1	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+32	2	fb:cell.changing_lanes	Changing Lanes	changing|lanes	change|lane	VBG|NNS	O|O	|				Changing Lanes
+32	3	fb:cell.null										
+32	4	fb:cell.carlyle	Carlyle	carlyle	Carlyle	NNP	PERSON					Carlyle
+32	5	fb:cell.null										
+33	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+33	1	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+33	2	fb:cell.hack	Hack	hack	hack	NN	O					Hack
+33	3	fb:cell._obsession	"Obsession"	``|obsession|''	``|obsession|''	``|NN|''	O|O|O	||				"Obsession"
+33	4	fb:cell.dr_martin_shane	Dr. Martin Shane	dr.|martin|shane	Dr.|Martin|Shane	NNP|NNP|NNP	O|PERSON|PERSON	||				Dr. Martin Shane
+33	5	fb:cell.null										
+34	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+34	1	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+34	2	fb:cell.law_order	Law & Order	law|&|order	Law|&|Order	NNP|CC|NNP	PERSON|O|O	||				Law & Order
+34	3	fb:cell._dr_1_102	"DR 1-102"	``|dr|1-102|''	``|dr|1-102|''	``|NN|CD|''	O|O|NUMBER|O	||1.0 - 102.0|	1.0		102.0	"DR 1-102"
+34	4	fb:cell.aaron_solomon	Aaron Solomon	aaron|solomon	Aaron|Solomon	NNP|NNP	PERSON|PERSON	|				Aaron Solomon
+34	5	fb:cell.5_episodes_total	5 episodes total	5|episodes|total	5|episode|total	CD|NNS|VBP	NUMBER|O|O	5.0||	5.0			
+35	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+35	1	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+35	2	fb:cell.law_order_criminal_intent	Law & Order: Criminal Intent	law|&|order|:|criminal|intent	Law|&|Order|:|criminal|intent	NNP|CC|NNP|:|JJ|NN	PERSON|O|O|O|O|O	|||||				Law & Order: Criminal Intent
+35	3	fb:cell._con_text	"Con-Text"	``|con|text|''	``|con|text|''	``|NN|NN|''	O|O|O|O	|||				"Con-Text"
+35	4	fb:cell.randall_fuller	Randall Fuller	randall|fuller	Randall|Fuller	NNP|NNP	PERSON|PERSON	|				Randall Fuller
+35	5	fb:cell.null										
+36	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+36	1	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+36	2	fb:cell.it_s_all_relative	It's All Relative	it|'s|all|relative	it|be|all|relative	PRP|VBZ|DT|JJ	O|O|O|O	|||				It's All Relative
+36	3	fb:cell._pilot_truth_and_consequences_hell_s_kitchen_take_me_out_the_doctor_is_out_waking_uncle_paddy_swangate_road_trippin_thanks_but_no_thanks_artistic_differences_the_santa_that_came_to_dinner	"Pilot"\n"Truth and Consequences"\n"Hell's Kitchen"\n"Take Me Out"\n"The Doctor Is Out"\n"Waking Uncle Paddy"\n"Swangate"\n"Road Trippin' "\n"Thanks, But No Thanks"\n"Artistic Differences"\n"The Santa That Came to Dinner"	``|pilot|''|``|truth|and|consequences|''|``|hell|'s|kitchen|''|``|take|me|out|''|``|the|doctor|is|out|''|``|waking|uncle|paddy|''|``|swangate|''|``|road|trippin|'|''|``|thanks|,|but|no|thanks|''|``|artistic|differences|''|``|the|santa|that|came|to|dinner|''	``|pilot|''|``|truth|and|consequence|''|``|Hell|'s|kitchen|''|``|take|I|out|''|``|the|doctor|be|out|''|``|wake|Uncle|Paddy|''|``|Swangate|''|``|road|trippin|'|''|``|thanks|,|but|no|thanks|''|``|artistic|difference|''|``|the|Santa|that|come|to|dinner|''	``|NN|''|``|NN|CC|NNS|''|``|NNP|POS|NN|''|``|VB|PRP|RP|''|``|DT|NN|VBD-AUX|RP|''|``|VBG|NNP|NNP|''|``|NNP|''|``|NN|NN|''|''|``|NNS|,|CC|DT|NNS|''|``|JJ|NNS|''|``|DT|NNP|WDT|VBD|TO|NN|''	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||||||||||||||||||||||||||||||||||||				"Pilot"|"Truth and Consequences"|"Hell's Kitchen"|"Take Me Out"|"The Doctor Is Out"|"Waking Uncle Paddy"|"Swangate"|"Road Trippin' "|"Thanks|But No Thanks"|"Artistic Differences"|"The Santa That Came to Dinner"
+36	4	fb:cell.philip_stoddard	Philip Stoddard	philip|stoddard	Philip|Stoddard	NNP|NNP	PERSON|PERSON	|				Philip Stoddard
+36	5	fb:cell.22_episodes_total	22 episodes total	22|episodes|total	22|episode|total	CD|NNS|VBP	NUMBER|O|O	22.0||	22.0			
+37	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+37	1	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+37	2	fb:cell.it_s_all_relative	It's All Relative	it|'s|all|relative	it|be|all|relative	PRP|VBZ|DT|JJ	O|O|O|O	|||				It's All Relative
+37	3	fb:cell._doggy_style_fight_for_your_invite_to_party_what_s_up_our_sauce_it_is_a_beauty_ready_aim_sing_tackleboxxx_the_love_below_cross_my_heart_a_long_day_s_journey_into_leonard_s_oscar_interruptus_who_s_camping_now_philip_in_a_china_shop	"Doggy-style"\n"Fight for Your Invite to Party"\n"What's Up"\n"Our Sauce, It Is a Beauty"\n"Ready, Aim, Sing"\n"Tackleboxxx/The Love Below"\n"Cross My Heart"\n"A Long Day's Journey Into Leonard's"\n"Oscar Interruptus"\n"Who's Camping Now"\n"Philip in a China Shop"	``|doggy|style|''|``|fight|for|your|invite|to|party|''|``|what|'s|up|''|``|our|sauce|,|it|is|a|beauty|''|``|ready|,|aim|,|sing|''|``|tackleboxxx/the|love|below|''|``|cross|my|heart|''|``|a|long|day|'s|journey|into|leonard|'s|''|``|oscar|interruptus|''|``|who|'s|camping|now|''|``|philip|in|a|china|shop|''	``|Doggy|style|''|``|fight|for|you|invite|to|party|''|``|what|be|up|''|``|we|sauce|,|it|be|a|beauty|''|``|ready|,|aim|,|sing|''|``|Tackleboxxx/The|Love|below|''|``|Cross|my|heart|''|``|a|long|day|'s|journey|into|Leonard|'s|''|``|Oscar|Interruptus|''|``|who|be|camping|now|''|``|Philip|in|a|China|shop|''	``|NNP|NN|''|``|NN|IN|PRP$|VB|TO|NN|''|``|WP|VBZ|RP|''|``|PRP$|NN|,|PRP|VBD-AUX|DT|NN|''|``|JJ|,|NN|,|VB|''|``|NNP|NNP|IN|''|``|NNP|PRP$|NN|''|``|DT|JJ|NN|POS|NN|IN|NNP|POS|''|``|NNP|NNP|''|``|WP|VBZ|NN|RB|''|``|NNP|IN|DT|NNP|NN|''	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|DURATION|O|O|O|PERSON|O|O|O|O|O|O|O|O|O|O|DATE|O|O|O|O|O|LOCATION|O|O	||||||||||||||||||||||||||||||||||||||||||||||P1D|||||||||||||||PRESENT_REF||||||||				"Doggy-style"|"Fight for Your Invite to Party"|"What's Up"|"Our Sauce|It Is a Beauty"|"Ready|Aim|Sing"|"Tackleboxxx|The Love Below"|"Cross My Heart"|"A Long Day's Journey Into Leonard's"|"Oscar Interruptus"|"Who's Camping Now"|"Philip in a China Shop"
+37	4	fb:cell.philip_stoddard	Philip Stoddard	philip|stoddard	Philip|Stoddard	NNP|NNP	PERSON|PERSON	|				Philip Stoddard
+37	5	fb:cell.22_episodes_total	22 episodes total	22|episodes|total	22|episode|total	CD|NNS|VBP	NUMBER|O|O	22.0||	22.0			
+38	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+38	1	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+38	2	fb:cell.law_order	Law & Order	law|&|order	Law|&|Order	NNP|CC|NNP	PERSON|O|O	||				Law & Order
+38	3	fb:cell._c_o_d	"C.O.D."	``|c.o.d.|''	``|C.O.D.|''	``|NNP|''	O|O|O	||				"C.O.D."
+38	4	fb:cell.aaron_solomon	Aaron Solomon	aaron|solomon	Aaron|Solomon	NNP|NNP	PERSON|PERSON	|				Aaron Solomon
+38	5	fb:cell.5_episodes_total	5 episodes total	5|episodes|total	5|episode|total	CD|NNS|VBP	NUMBER|O|O	5.0||	5.0			
+39	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+39	1	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+39	2	fb:cell.alias	Alias	alias	Alias	NNP	O					Alias
+39	3	fb:cell._in_dreams	"In Dreams"	``|in|dreams|''	``|in|dream|''	``|IN|NNS|''	O|O|O|O	|||				"In Dreams"
+39	4	fb:cell.father_kampinski	Father Kampinski	father|kampinski	Father|Kampinski	NNP|NNP	O|PERSON	|				Father Kampinski
+39	5	fb:cell.null										
+40	0	fb:cell.film	Film	film	film	NN	O					
+40	1	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+40	2	fb:cell.flightplan	Flightplan	flightplan	Flightplan	NNP	O					Flightplan
+40	3	fb:cell.null										
+40	4	fb:cell.david	David	david	David	NNP	PERSON					David
+40	5	fb:cell.null										
+41	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+41	1	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+41	2	fb:cell.law_order	Law & Order	law|&|order	Law|&|Order	NNP|CC|NNP	PERSON|O|O	||				Law & Order
+41	3	fb:cell._mammon	"Mammon"	``|mammon|''	``|mammon|''	``|NN|''	O|O|O	||				"Mammon"
+41	4	fb:cell.aaron_solomon	Aaron Solomon	aaron|solomon	Aaron|Solomon	NNP|NNP	PERSON|PERSON	|				Aaron Solomon
+41	5	fb:cell.5_episodes_total	5 episodes total	5|episodes|total	5|episode|total	CD|NNS|VBP	NUMBER|O|O	5.0||	5.0			
+42	0	fb:cell.tv_film	TV film	tv|film	tv|film	NN|NN	O|O	|				
+42	1	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+42	2	fb:cell.silver_bells	Silver Bells	silver|bells	silver|bell	NN|NNS	O|O	|				Silver Bells
+42	3	fb:cell.null										
+42	4	fb:cell.lawrence	Lawrence	lawrence	Lawrence	NNP	PERSON					Lawrence
+42	5	fb:cell.null										
+43	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+43	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+43	2	fb:cell.brothers_sisters	Brothers & Sisters	brothers|&|sisters	Brothers|&|sister	NNP|CC|NNS	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Brothers & Sisters
+43	3	fb:cell._light_the_lights	"Light the Lights"	``|light|the|lights|''	``|light|the|light|''	``|JJ|DT|NNS|''	O|O|O|O|O	||||				"Light the Lights"
+43	4	fb:cell.major_guinness	Major Guinness	major|guinness	major|Guinness	JJ|NNP	O|O	|				Major Guinness
+43	5	fb:cell.null										
+44	0	fb:cell.film	Film	film	film	NN	O					
+44	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+44	2	fb:cell.the_ex	The Ex	the|ex	the|ex	DT|FW	O|O	|				The Ex
+44	3	fb:cell.null										
+44	4	fb:cell.wesley_s_dad	Wesley's Dad	wesley|'s|dad	Wesley|'s|Dad	NNP|POS|NNP	PERSON|O|O	||				Wesley's Dad
+44	5	fb:cell.null										
+45	0	fb:cell.film	Film	film	film	NN	O					
+45	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+45	2	fb:cell.flags_of_our_fathers	Flags of Our Fathers	flags|of|our|fathers	flag|of|we|father	NNS|IN|PRP$|NNS	O|O|O|O	|||				Flags of Our Fathers
+45	3	fb:cell.null										
+45	4	fb:cell.sergeant_keyes_beech	Sergeant Keyes Beech	sergeant|keyes|beech	sergeant|keye|Beech	NN|NNS|NNP	O|PERSON|PERSON	||				Sergeant Keyes Beech
+45	5	fb:cell.null										
+46	0	fb:cell.tv_film	TV film	tv|film	tv|film	NN|NN	O|O	|				
+46	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+46	2	fb:cell.a_house_divided	A House Divided	a|house|divided	a|House|divide	DT|NNP|VBN	O|O|O	||				A House Divided
+46	3	fb:cell.null										
+46	4	fb:cell.president_russell	President Russell	president|russell	president|Russell	NN|NNP	O|PERSON	|				President Russell
+46	5	fb:cell.null										
+47	0	fb:cell.film	Film	film	film	NN	O					
+47	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+47	2	fb:cell.infamous	Infamous	infamous	infamous	JJ	O					Infamous
+47	3	fb:cell.null										
+47	4	fb:cell.jack_dunphy	Jack Dunphy	jack|dunphy	Jack|Dunphy	NNP|NNP	PERSON|PERSON	|				Jack Dunphy
+47	5	fb:cell.null										
+48	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+48	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+48	2	fb:cell.justice	Justice	justice	Justice	NNP	O					Justice
+48	3	fb:cell._wrongful_death	"Wrongful Death"	``|wrongful|death|''	``|wrongful|death|''	``|JJ|NN|''	O|O|O|O	|||				"Wrongful Death"
+48	4	fb:cell.lloyd_barrett	Lloyd Barrett	lloyd|barrett	Lloyd|Barrett	NNP|NNP	PERSON|PERSON	|				Lloyd Barrett
+48	5	fb:cell.null										
+49	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+49	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+49	2	fb:cell.law_order	Law & Order	law|&|order	Law|&|Order	NNP|CC|NNP	PERSON|O|O	||				Law & Order
+49	3	fb:cell._profiteer	"Profiteer"	``|profiteer|''	``|profiteer|''	``|NN|''	O|O|O	||				"Profiteer"
+49	4	fb:cell.aaron_solomon	Aaron Solomon	aaron|solomon	Aaron|Solomon	NNP|NNP	PERSON|PERSON	|				Aaron Solomon
+49	5	fb:cell.5_episodes_total	5 episodes total	5|episodes|total	5|episode|total	CD|NNS|VBP	NUMBER|O|O	5.0||	5.0			
+50	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+50	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+50	2	fb:cell.stacked	Stacked	stacked	stack	VBN	O					Stacked
+50	3	fb:cell._the_headmaster	"The Headmaster"	``|the|headmaster|''	``|the|headmaster|''	``|DT|NN|''	O|O|O|O	|||				"The Headmaster"
+50	4	fb:cell.headmaster_keenan	Headmaster Keenan	headmaster|keenan	Headmaster|Keenan	NNP|NNP	O|PERSON	|				Headmaster Keenan
+50	5	fb:cell.null										
+51	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+51	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+51	2	fb:cell.undercover_history	Undercover History	undercover|history	undercover|history	JJ|NN	O|O	|				Undercover History
+51	3	fb:cell._amelia_earhart	"Amelia Earhart"	``|amelia|earhart|''	``|Amelia|Earhart|''	``|NNP|NNP|''	O|O|O|O	|||				"Amelia Earhart"
+51	4	fb:cell.narrator	Narrator	narrator	narrator	NN	O					Narrator
+51	5	fb:cell.voice_actor_6_episodes_total	voice actor; 6 episodes total	voice|actor|;|6|episodes|total	voice|actor|;|6|episode|total	NNP|NN|:|CD|NNS|VBP	O|O|O|NUMBER|O|O	|||6.0||	6.0			
+52	0	fb:cell.film	Film	film	film	NN	O					
+52	1	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+52	2	fb:cell.freedom_writers	Freedom Writers	freedom|writers	Freedom|Writers	NNP|NNP	O|O	|				Freedom Writers
+52	3	fb:cell.null										
+52	4	fb:cell.brian_gelford	Brian Gelford	brian|gelford	Brian|Gelford	NNP|NNP	PERSON|PERSON	|				Brian Gelford
+52	5	fb:cell.null										
+53	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+53	1	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+53	2	fb:cell.heartland	Heartland	heartland	heartland	NN	O					Heartland
+53	3	fb:cell._pilot	"Pilot"	``|pilot|''	``|pilot|''	``|NN|''	O|O|O	||				"Pilot"
+53	4	fb:cell.bill	Bill	bill	Bill	NNP	PERSON					Bill
+53	5	fb:cell.null										
+54	0	fb:cell.tv_film	TV film	tv|film	tv|film	NN|NN	O|O	|				
+54	1	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+54	2	fb:cell.the_hunt_for_the_boston_strangler	The Hunt for the Boston Strangler	the|hunt|for|the|boston|strangler	the|hunt|for|the|Boston|Strangler	DT|NN|IN|DT|NNP|NNP	O|O|O|O|ORGANIZATION|ORGANIZATION	|||||				The Hunt for the Boston Strangler
+54	3	fb:cell.null										
+54	4	fb:cell.narrator	Narrator	narrator	narrator	NN	O					Narrator
+54	5	fb:cell.voice_actor	voice actor	voice|actor	voice|actor	NNP|NN	O|O	|				
+55	0	fb:cell.tv_documentary	TV documentary	tv|documentary	tv|documentary	NN|NN	O|O	|				
+55	1	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+55	2	fb:cell.secrets_of_the_moon_landings	Secrets of the Moon Landings	secrets|of|the|moon|landings	secret|of|the|moon|landing	NNS|IN|DT|NN|NNS	O|O|O|O|O	||||				Secrets of the Moon Landings
+55	3	fb:cell.null										
+55	4	fb:cell.narrator	Narrator	narrator	narrator	NN	O					Narrator
+55	5	fb:cell.voice_actor	voice actor	voice|actor	voice|actor	NNP|NN	O|O	|				
+56	0	fb:cell.film	Film	film	film	NN	O					
+56	1	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+56	2	fb:cell.the_seeker_the_dark_is_rising	The Seeker: The Dark Is Rising	the|seeker|:|the|dark|is|rising	the|seeker|:|the|dark|be|rise	DT|NN|:|DT|NN|VBD-AUX|VBG	O|O|O|O|O|O|O	||||||				The Seeker: The Dark Is Rising
+56	3	fb:cell.null										
+56	4	fb:cell.john_stanton	John Stanton	john|stanton	John|Stanton	NNP|NNP	PERSON|PERSON	|				John Stanton
+56	5	fb:cell.null										
+57	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+57	1	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+57	2	fb:cell.critical_situation	Critical Situation	critical|situation	critical|situation	JJ|NN	O|O	|				Critical Situation
+57	3	fb:cell._nightmare_on_mt_hood	"Nightmare on Mt. Hood"	``|nightmare|on|mt.|hood|''	``|nightmare|on|Mt.|hood|''	``|NN|IN|NNP|NN|''	O|O|O|LOCATION|LOCATION|O	|||||				"Nightmare on Mt. Hood"
+57	4	fb:cell.narrator	Narrator	narrator	narrator	NN	O					Narrator
+57	5	fb:cell.voice_actor_also_known_as_situation_critical	voice actor; also known as Situation Critical	voice|actor|;|also|known|as|situation|critical	voice|actor|;|also|know|as|situation|critical	NNP|NN|:|RB|VBN|IN|NN|JJ	O|O|O|O|O|O|O|O	|||||||				
+58	0	fb:cell.film	Film	film	film	NN	O					
+58	1	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+58	2	fb:cell.then_she_found_me	Then She Found Me	then|she|found|me	then|she|find|I	RB|PRP|VBD|PRP	O|O|O|O	|||				Then She Found Me
+58	3	fb:cell.null										
+58	4	fb:cell.alan	Alan	alan	Alan	NNP	PERSON					Alan
+58	5	fb:cell.null										
+59	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+59	1	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+59	2	fb:cell.undercover_history	Undercover History	undercover|history	undercover|history	JJ|NN	O|O	|				Undercover History
+59	3	fb:cell._the_hunt_for_hitler_the_hunt_for_the_boston_strangler_j_edgar_hoover	"The Hunt for Hitler"\n"The Hunt for the Boston Strangler"\n"J. Edgar Hoover"	``|the|hunt|for|hitler|''|``|the|hunt|for|the|boston|strangler|''|``|j.|edgar|hoover|''	``|the|Hunt|for|Hitler|''|``|the|Hunt|for|the|Boston|Strangler|''|``|J.|Edgar|Hoover|''	``|DT|NNP|IN|NNP|''|``|DT|NNP|IN|DT|NNP|NNP|''|``|NNP|NNP|NNP|''	O|O|O|O|PERSON|O|O|O|O|O|O|ORGANIZATION|ORGANIZATION|O|O|PERSON|PERSON|PERSON|O	||||||||||||||||||				"The Hunt for Hitler"|"The Hunt for the Boston Strangler"|"J. Edgar Hoover"
+59	4	fb:cell.narrator	Narrator	narrator	narrator	NN	O					Narrator
+59	5	fb:cell.voice_actor_6_episodes_total	voice actor; 6 episodes total	voice|actor|;|6|episodes|total	voice|actor|;|6|episode|total	NNP|NN|:|CD|NNS|VBP	O|O|O|NUMBER|O|O	|||6.0||	6.0			
+60	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+60	1	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+60	2	fb:cell.in_plain_sight	In Plain Sight	in|plain|sight	in|plain|sight	IN|JJ|NN	O|O|O	||				In Plain Sight
+60	3	fb:cell._don_of_the_dead	"Don of the Dead"	``|don|of|the|dead|''	``|Don|of|the|dead|''	``|NNP|IN|DT|JJ|''	O|PERSON|O|O|O|O	|||||				"Don of the Dead"
+60	4	fb:cell.donald_ferguson_donald_fraser	Donald Ferguson/Donald Fraser	donald|ferguson/donald|fraser	Donald|Ferguson/Donald|Fraser	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Donald Ferguson|Donald Fraser
+60	5	fb:cell.null										
+61	0	fb:cell.tv_film	TV film	tv|film	tv|film	NN|NN	O|O	|				
+61	1	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+61	2	fb:cell.living_proof	Living Proof	living|proof	live|proof	VBG|NN	O|O	|				Living Proof
+61	3	fb:cell.null										
+61	4	fb:cell.blake_rogers_dr_slamon_s_friend_and_fellow_scientist	Blake Rogers, Dr. Slamon's friend and fellow scientist	blake|rogers|,|dr.|slamon|'s|friend|and|fellow|scientist	Blake|Rogers|,|Dr.|Slamon|'s|friend|and|fellow|scientist	NNP|NNP|,|NNP|NNP|POS|NN|CC|JJ|NN	PERSON|PERSON|O|O|PERSON|O|O|O|O|O	|||||||||				Blake Rogers|Dr. Slamon's friend and fellow scientist
+61	5	fb:cell.null										
+62	0	fb:cell.tv_documentary	TV documentary	tv|documentary	tv|documentary	NN|NN	O|O	|				
+62	1	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+62	2	fb:cell.the_real_george_washington	The Real George Washington	the|real|george|washington	the|real|George|Washington	DT|JJ|NNP|NNP	O|O|PERSON|PERSON	|||				The Real George Washington
+62	3	fb:cell.null										
+62	4	fb:cell.narrator	Narrator	narrator	narrator	NN	O					Narrator
+62	5	fb:cell.voice_actor	voice actor	voice|actor	voice|actor	NNP|NN	O|O	|				
+63	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+63	1	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+63	2	fb:cell.undercover_history	Undercover History	undercover|history	undercover|history	JJ|NN	O|O	|				Undercover History
+63	3	fb:cell._unabomber_the_secret_history_undercover_titanic_with_bob_ballard	"Unabomber: The Secret History"\n"Undercover Titanic with Bob Ballard"	``|unabomber|:|the|secret|history|''|``|undercover|titanic|with|bob|ballard|''	``|Unabomber|:|the|secret|history|''|``|undercover|Titanic|with|Bob|Ballard|''	``|NNP|:|DT|JJ|NN|''|``|JJ|NNP|IN|NNP|NNP|''	O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON|O	|||||||||||||				"Unabomber: The Secret History"|"Undercover Titanic with Bob Ballard"
+63	4	fb:cell.narrator_himself	Narrator/Himself	narrator/himself	narrator/himself	NN	O					Narrator|Himself
+63	5	fb:cell.voice_actor_6_episodes_total	voice actor; 6 episodes total	voice|actor|;|6|episodes|total	voice|actor|;|6|episode|total	NNP|NN|:|CD|NNS|VBP	O|O|O|NUMBER|O|O	|||6.0||	6.0			
+64	0	fb:cell.tv_film	TV film	tv|film	tv|film	NN|NN	O|O	|				
+64	1	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+64	2	fb:cell.lincoln_american_mastermind	Lincoln: American Mastermind	lincoln|:|american|mastermind	Lincoln|:|American|mastermind	NNP|:|NNP|NN	PERSON|O|MISC|MISC	|||				Lincoln: American Mastermind
+64	3	fb:cell.null										
+64	4	fb:cell.narrator	Narrator	narrator	narrator	NN	O					Narrator
+64	5	fb:cell.voice_actor	voice actor	voice|actor	voice|actor	NNP|NN	O|O	|				
+65	0	fb:cell.film	Film	film	film	NN	O					
+65	1	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+65	2	fb:cell.the_taking_of_pelham_123	The Taking of Pelham 123	the|taking|of|pelham|123	the|taking|of|pelham|123	DT|NN|IN|NN|CD	O|O|O|LOCATION|NUMBER	||||123.0	123.0			The Taking of Pelham 123
+65	3	fb:cell.null										
+65	4	fb:cell.deputy_mayor_lasalle	Deputy Mayor LaSalle	deputy|mayor|lasalle	deputy|mayor|LaSalle	NN|NN|NNP	O|O|O	||				Deputy Mayor LaSalle
+65	5	fb:cell.null										
+66	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+66	1	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+66	2	fb:cell.timewatch	Timewatch	timewatch	Timewatch	NNP	PERSON					Timewatch
+66	3	fb:cell._the_real_bonnie_and_clyde	"The Real Bonnie and Clyde"	``|the|real|bonnie|and|clyde|''	``|the|real|Bonnie|and|Clyde|''	``|DT|JJ|NNP|CC|NNP|''	O|O|O|PERSON|O|O|O	||||||				"The Real Bonnie and Clyde"
+66	4	fb:cell.narrator	Narrator	narrator	narrator	NN	O					Narrator
+66	5	fb:cell.voice_actor	voice actor	voice|actor	voice|actor	NNP|NN	O|O	|				
+67	0	fb:cell.film	Film	film	film	NN	O					
+67	1	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+67	2	fb:cell.transformers_revenge_of_the_fallen	Transformers: Revenge of the Fallen	transformers|:|revenge|of|the|fallen	Transformers|:|revenge|of|the|fall	NNPS|:|NN|IN|DT|VBN	O|O|O|O|O|O	|||||				Transformers: Revenge of the Fallen
+67	3	fb:cell.null										
+67	4	fb:cell.theodore_galloway	Theodore Galloway	theodore|galloway	Theodore|Galloway	NNP|NNP	PERSON|PERSON	|				Theodore Galloway
+67	5	fb:cell.null										
+68	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+68	1	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+68	2	fb:cell.the_big_c	The Big C	the|big|c	the|big|c	DT|JJ|NN	O|O|O	||				The Big C
+68	3	fb:cell._pilot_summer_time_there_s_no_c_in_team_playing_the_cancer_car_blue_eyed_iris_taking_lumps_two_for_the_road_happy_birthday_cancer_the_ecstasy_and_the_agony_divine_intervention_new_beginnings_everything_that_rises_must_converge_taking_the_plunge	"Pilot"\n"Summer Time"\n"There's No C in Team"\n"Playing the Cancer Car"\n"Blue-Eyed Iris"\n"Taking Lumps"\n"Two for the Road"\n"Happy Birthday, Cancer"\n"The Ecstasy and the Agony"\n"Divine Intervention"\n"New Beginnings"\n"Everything That Rises Must Converge"\n"Taking the Plunge"	``|pilot|''|``|summer|time|''|``|there|'s|no|c|in|team|''|``|playing|the|cancer|car|''|``|blue|eyed|iris|''|``|taking|lumps|''|``|two|for|the|road|''|``|happy|birthday|,|cancer|''|``|the|ecstasy|and|the|agony|''|``|divine|intervention|''|``|new|beginnings|''|``|everything|that|rises|must|converge|''|``|taking|the|plunge|''	``|pilot|''|``|summer|time|''|``|there|be|no|c|in|team|''|``|play|the|cancer|car|''|``|Blue|Eyed|Iris|''|``|take|lump|''|``|two|for|the|road|''|``|happy|birthday|,|cancer|''|``|the|ecstasy|and|the|agony|''|``|divine|intervention|''|``|new|beginning|''|``|everything|that|rise|must|converge|''|``|take|the|plunge|''	``|NN|''|``|NN|NN|''|``|EX|VBZ|DT|NN|IN|NN|''|``|VBG|DT|NN|NN|''|``|NNP|NNP|NNP|''|``|VBG|NNS|''|``|CD|IN|DT|NN|''|``|JJ|NN|,|NN|''|``|DT|NN|CC|DT|NN|''|``|JJ|NN|''|``|JJ|NNS|''|``|NN|WDT|VBZ|VBD-AUX|VB|''|``|VBG|DT|NN|''	O|O|O|O|DATE|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|NUMBER|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||XXXX-SU|||||||||||||||||||||||||||2.0|||||||||||||||||||||||||||||||||||||				"Pilot"|"Summer Time"|"There's No C in Team"|"Playing the Cancer Car"|"Blue-Eyed Iris"|"Taking Lumps"|"Two for the Road"|"Happy Birthday|Cancer"|"The Ecstasy and the Agony"|"Divine Intervention"|"New Beginnings"|"Everything That Rises Must Converge"|"Taking the Plunge"
+68	4	fb:cell.sean_tolkey	Sean Tolkey	sean|tolkey	Sean|Tolkey	NNP|NNP	PERSON|PERSON	|				Sean Tolkey
+68	5	fb:cell.36_episodes_total	36 episodes total	36|episodes|total	36|episode|total	CD|NNS|VBP	NUMBER|O|O	36.0||	36.0			
+69	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+69	1	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+69	2	fb:cell.law_order_la	Law & Order: LA	law|&|order|:|la	Law|&|Order|:|LA	NNP|CC|NNP|:|NNP	PERSON|O|O|O|O	||||				Law & Order: LA
+69	3	fb:cell._pasadena	"Pasadena"	``|pasadena|''	``|Pasadena|''	``|NNP|''	O|LOCATION|O	||				"Pasadena"
+69	4	fb:cell.congressman_thomas_nelson	Congressman Thomas Nelson	congressman|thomas|nelson	congressman|Thomas|Nelson	NN|NNP|NNP	O|PERSON|PERSON	||				Congressman Thomas Nelson
+69	5	fb:cell.null										
+70	0	fb:cell.short_film	Short film	short|film	short|film	JJ|NN	O|O	|				
+70	1	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+70	2	fb:cell.civil_unions_a_love_story	Civil Unions: A Love Story	civil|unions|:|a|love|story	civil|union|:|a|love|story	JJ|NNS|:|DT|NN|NN	O|O|O|O|O|O	|||||				Civil Unions: A Love Story
+70	3	fb:cell.null										
+70	4	fb:cell.null										
+70	5	fb:cell.4_minutes	4 minutes	4|minutes	4|minute	CD|NNS	DURATION|DURATION	PT4M|PT4M	4.0			
+71	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+71	1	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+71	2	fb:cell.the_big_c	The Big C	the|big|c	the|big|c	DT|JJ|NN	O|O|O	||				The Big C
+71	3	fb:cell._losing_patients_musical_chairs_sexual_healing_boo_cats_and_dogs_the_little_c_goldilocks_and_the_bears_the_last_thanksgiving_a_little_death_how_do_you_feel_fight_or_flight_the_darkest_day_crossing_the_line	"Losing Patients"\n"Musical Chairs"\n"Sexual Healing"\n"Boo!"\n"Cats and Dogs"\n"The Little c"\n"Goldilocks and the Bears"\n"The Last Thanksgiving"\n"A Little Death"\n"How Do You Feel?"\n"Fight or Flight"\n"The Darkest Day"\n"Crossing the Line"	``|losing|patients|''|``|musical|chairs|''|``|sexual|healing|''|``|boo|!|''|``|cats|and|dogs|''|``|the|little|c|''|``|goldilocks|and|the|bears|''|``|the|last|thanksgiving|''|``|a|little|death|''|``|how|do|you|feel|?|''|``|fight|or|flight|''|``|the|darkest|day|''|``|crossing|the|line|''	``|lose|patient|''|``|musical|chair|''|``|sexual|healing|''|``|Boo|!|''|``|cat|and|dog|''|``|the|little|c|''|``|Goldilocks|and|the|Bears|''|``|the|last|Thanksgiving|''|``|a|little|death|''|``|how|do|you|feel|?|''|``|fight|or|flight|''|``|the|darkest|day|''|``|cross|the|line|''	``|VBG|NNS|''|``|JJ|NNS|''|``|JJ|NN|''|``|NNP|.|''|``|NNS|CC|NNS|''|``|DT|JJ|NN|''|``|NNP|CC|DT|NNPS|''|``|DT|JJ|NNP|''|``|DT|JJ|NN|''|``|WRB|VBD-AUX|PRP|VB|.|''|``|NN|CC|NN|''|``|DT|JJS|NN|''|``|VBG|DT|NN|''	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|DATE|DATE|DATE|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|DURATION|O|O|O|O|O|O	|||||||||||||||||||||||||||||||||PREV_IMMEDIATE THANKSGIVING|PREV_IMMEDIATE THANKSGIVING|PREV_IMMEDIATE THANKSGIVING||||||||||||||||||||||P1D||||||				"Losing Patients"|"Musical Chairs"|"Sexual Healing"|"Boo!"|"Cats and Dogs"|"The Little c"|"Goldilocks and the Bears"|"The Last Thanksgiving"|"A Little Death"|"How Do You Feel?"|"Fight or Flight"|"The Darkest Day"|"Crossing the Line"
+71	4	fb:cell.sean_tolkey	Sean Tolkey	sean|tolkey	Sean|Tolkey	NNP|NNP	PERSON|PERSON	|				Sean Tolkey
+71	5	fb:cell.36_episodes_total	36 episodes total	36|episodes|total	36|episode|total	CD|NNS|VBP	NUMBER|O|O	36.0||	36.0			
+72	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+72	1	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+72	2	fb:cell.a_gifted_man	A Gifted Man	a|gifted|man	a|gifted|man	DT|JJ|NN	O|O|O	||				A Gifted Man
+72	3	fb:cell._in_case_of_exposure	"In Case of Exposure"	``|in|case|of|exposure|''	``|in|case|of|exposure|''	``|IN|NN|IN|NN|''	O|O|O|O|O|O	|||||				"In Case of Exposure"
+72	4	fb:cell.ben_tucker	Ben Tucker	ben|tucker	Ben|Tucker	NNP|NNP	PERSON|PERSON	|				Ben Tucker
+72	5	fb:cell.null										
+73	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+73	1	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+73	2	fb:cell.the_good_wife	The Good Wife	the|good|wife	the|good|wife	DT|JJ|NN	O|O|O	||				The Good Wife
+73	3	fb:cell._great_firewall	"Great Firewall"	``|great|firewall|''	``|great|firewall|''	``|JJ|NN|''	O|O|O|O	|||				"Great Firewall"
+73	4	fb:cell.neil_gross	Neil Gross	neil|gross	Neil|Gross	NNP|NNP	PERSON|PERSON	|				Neil Gross
+73	5	fb:cell.3_episodes_total	3 episodes total	3|episodes|total	3|episode|total	CD|NNS|VBP	NUMBER|O|O	3.0||	3.0			
+74	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+74	1	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+74	2	fb:cell.the_big_c	The Big C	the|big|c	the|big|c	DT|JJ|NN	O|O|O	||				The Big C
+74	3	fb:cell._thin_ice_what_s_your_story_bundle_of_joy_family_matters_face_off_life_rights_how_bazaar_killjoy_vaya_con_dios_fly_away	"Thin Ice"\n"What's Your Story?"\n"Bundle of Joy"\n"Family Matters"\n"Face Off"\n"Life Rights"\n"How Bazaar"\n"Killjoy"\n"Vaya Con Dios"\n"Fly Away"	``|thin|ice|''|``|what|'s|your|story|?|''|``|bundle|of|joy|''|``|family|matters|''|``|face|off|''|``|life|rights|''|``|how|bazaar|''|``|killjoy|''|``|vaya|con|dios|''|``|fly|away|''	``|thin|ice|''|``|what|be|you|story|?|''|``|bundle|of|Joy|''|``|family|matter|''|``|face|off|''|``|Life|Rights|''|``|how|bazaar|''|``|Killjoy|''|``|Vaya|con|dio|''|``|fly|away|''	``|JJ|NN|''|``|WP|VBZ|PRP$|NN|.|''|``|NN|IN|NNP|''|``|NN|NNS|''|``|VB|RP|''|``|NNP|NNPS|''|``|WRB|JJ|''|``|NNP|''|``|NNP|NN|NNS|''|``|VB|RB|''	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||||||||||||||||||||||||				"Thin Ice"|"What's Your Story?"|"Bundle of Joy"|"Family Matters"|"Face Off"|"Life Rights"|"How Bazaar"|"Killjoy"|"Vaya Con Dios"|"Fly Away"
+74	4	fb:cell.sean_tolkey	Sean Tolkey	sean|tolkey	Sean|Tolkey	NNP|NNP	PERSON|PERSON	|				Sean Tolkey
+74	5	fb:cell.36_episodes_total	36 episodes total	36|episodes|total	36|episode|total	CD|NNS|VBP	NUMBER|O|O	36.0||	36.0			
+75	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+75	1	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+75	2	fb:cell.the_good_wife	The Good Wife	the|good|wife	the|good|wife	DT|JJ|NN	O|O|O	||				The Good Wife
+75	3	fb:cell._live_from_damascus_two_girls_one_code	"Live from Damascus"\n"Two Girls, One Code"	``|live|from|damascus|''|``|two|girls|,|one|code|''	``|live|from|Damascus|''|``|two|girl|,|one|code|''	``|VB|IN|NNP|''|``|CD|NNS|,|CD|NN|''	O|O|O|LOCATION|O|O|NUMBER|O|O|NUMBER|O|O	||||||2.0|||1.0||				"Live from Damascus"|"Two Girls|One Code"
+75	4	fb:cell.neil_gross	Neil Gross	neil|gross	Neil|Gross	NNP|NNP	PERSON|PERSON	|				Neil Gross
+75	5	fb:cell.3_episodes_total	3 episodes total	3|episodes|total	3|episode|total	CD|NNS|VBP	NUMBER|O|O	3.0||	3.0			
+76	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+76	1	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+76	2	fb:cell.the_mob_doctor	The Mob Doctor	the|mob|doctor	the|mob|doctor	DT|NN|NN	O|O|O	||				The Mob Doctor
+76	3	fb:cell._family_secrets	"Family Secrets"	``|family|secrets|''	``|family|secret|''	``|NN|NNS|''	O|O|O|O	|||				"Family Secrets"
+76	4	fb:cell.mark_easton	Mark Easton	mark|easton	Mark|Easton	NNP|NNP	PERSON|PERSON	|				Mark Easton
+76	5	fb:cell.null										
+77	0	fb:cell.film	Film	film	film	NN	O					
+77	1	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+77	2	fb:cell.my_eleventh	My Eleventh	my|eleventh	my|eleventh	PRP$|NN	O|ORDINAL	|11.0				My Eleventh
+77	3	fb:cell.null										
+77	4	fb:cell.null										
+77	5	fb:cell.null										
+78	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+78	1	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+78	2	fb:cell.the_new_normal	The New Normal	the|new|normal	the|new|normal	DT|JJ|JJ	O|O|O	||				The New Normal
+78	3	fb:cell._the_god_parent_trap_dog_children_the_big_day	"The God-Parent Trap"\n"Dog Children"\n"The Big Day	``|the|god|parent|trap|''|``|dog|children|''|``|the|big|day	``|the|God|parent|trap|''|``|dog|child|''|``|the|big|day	``|DT|NNP|NN|NN|''|``|NN|NNS|''|``|DT|JJ|NN	O|O|O|O|O|O|O|O|O|O|O|DATE|DATE|DATE	|||||||||||THIS P1D|THIS P1D|THIS P1D				"The God-Parent Trap"|"Dog Children"|"The Big Day
+78	4	fb:cell.father_michael	Father Michael	father|michael	father|Michael	NN|NNP	O|PERSON	|				Father Michael
+78	5	fb:cell.3_episodes_total	3 episodes total	3|episodes|total	3|episode|total	CD|NNS|VBP	NUMBER|O|O	3.0||	3.0			
+79	0	fb:cell.film	Film	film	film	NN	O					
+79	1	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+79	2	fb:cell.pitch_perfect	Pitch Perfect	pitch|perfect	pitch|perfect	NN|JJ	O|O	|				Pitch Perfect
+79	3	fb:cell.null										
+79	4	fb:cell.dr_mitchell	Dr. Mitchell	dr.|mitchell	Dr.|Mitchell	NNP|NNP	O|PERSON	|				Dr. Mitchell
+79	5	fb:cell.null										
+80	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+80	1	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+80	2	fb:cell.the_big_c	The Big C	the|big|c	the|big|c	DT|JJ|NN	O|O|O	||				The Big C
+80	3	fb:cell._quality_of_life_you_can_t_take_it_with_you_quality_of_death_the_finale	"Quality of Life"\n"You Can't Take it with You"\n"Quality of Death"\n"The Finale"	``|quality|of|life|''|``|you|ca|n't|take|it|with|you|''|``|quality|of|death|''|``|the|finale|''	``|quality|of|life|''|``|you|can|not|take|it|with|you|''|``|quality|of|death|''|``|the|finale|''	``|NN|IN|NN|''|``|PRP|MD|RB|VB|PRP|IN|PRP|''|``|NN|IN|NN|''|``|DT|NN|''	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||||				"Quality of Life"|"You Can't Take it with You"|"Quality of Death"|"The Finale"
+80	4	fb:cell.sean_tolkey	Sean Tolkey	sean|tolkey	Sean|Tolkey	NNP|NNP	PERSON|PERSON	|				Sean Tolkey
+80	5	fb:cell.36_episodes_total	36 episodes total	36|episodes|total	36|episode|total	CD|NNS|VBP	NUMBER|O|O	36.0||	36.0			
+81	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+81	1	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+81	2	fb:cell.hannibal	Hannibal	hannibal	Hannibal	NNP	PERSON					Hannibal
+81	3	fb:cell._buffet_froid	"Buffet Froid"	``|buffet|froid|''	``|buffet|froid|''	``|NN|NN|''	O|O|O|O	|||				"Buffet Froid"
+81	4	fb:cell.dr_sutcliffe	Dr. Sutcliffe	dr.|sutcliffe	Dr.|Sutcliffe	NNP|NNP	O|PERSON	|				Dr. Sutcliffe
+81	5	fb:cell.null										
+82	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+82	1	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+82	2	fb:cell.modern_family	Modern Family	modern|family	modern|family	JJ|NN	O|O	|				Modern Family
+82	3	fb:cell._under_pressure	"Under Pressure"	``|under|pressure|''	``|under|pressure|''	``|IN|NN|''	O|O|O|O	|||				"Under Pressure"
+82	4	fb:cell.dr_clark	Dr. Clark	dr.|clark	Dr.|Clark	NNP|NNP	O|PERSON	|				Dr. Clark
+82	5	fb:cell.null										

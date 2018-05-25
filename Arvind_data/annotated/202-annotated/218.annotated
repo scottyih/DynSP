@@ -1,0 +1,703 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.local_radio_station	Local Radio Station	local|radio|station	local|radio|station	JJ|NN|NN	O|O|O	||				
+-1	2	fb:row.row.local_radio_announcers	Local Radio Announcers	local|radio|announcers	local|radio|announcer	JJ|NN|NNS	O|O|O	||				
+-1	3	fb:row.row.foreign_language_radio_station	Foreign Language Radio Station	foreign|language|radio|station	foreign|language|radio|station	JJ|NN|NN|NN	O|O|O|O	|||				
+-1	4	fb:row.row.foreign_language_radio_announcers	Foreign Language Radio Announcers	foreign|language|radio|announcers	foreign|language|radio|announcer	JJ|NN|NN|NNS	O|O|O|O	|||				
+-1	5	fb:row.row.local_television_station	Local Television Station	local|television|station	local|television|station	JJ|NN|NN	O|O|O	||				
+-1	6	fb:row.row.local_television_announcers	Local Television Announcers	local|television|announcers	local|television|announcer	JJ|NN|NNS	O|O|O	||				
+-1	7	fb:row.row.cable_television_station	Cable Television Station	cable|television|station	cable|television|station	NN|NN|NN	O|O|O	||				
+-1	8	fb:row.row.cable_television_announcers	Cable Television Announcers	cable|television|announcers	cable|television|announcer	NN|NN|NNS	O|O|O	||				
+0	0	fb:cell.1939	1939	1939	1939	CD	DATE	1939	1939.0	1939-xx-xx		
+0	1	fb:cell.whn	WHN	whn	whn	NN	O					
+0	2	fb:cell.red_barber_al_helfer	Red Barber\nAl Helfer	red|barber|al|helfer	Red|Barber|Al|Helfer	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||				Red Barber|Al Helfer
+0	3	fb:cell.none	None	none	none	NN	O					None
+0	4	fb:cell.none	None	none	none	NN	O					None
+0	5	fb:cell.none	None	none	none	NN	O					None
+0	6	fb:cell.none	None	none	none	NN	O					None
+0	7	fb:cell.none	None	none	none	NN	O					None
+0	8	fb:cell.none	None	none	none	NN	O					None
+1	0	fb:cell.1940	1940	1940	1940	CD	DATE	1940	1940.0	1940-xx-xx		
+1	1	fb:cell.whn	WHN	whn	whn	NN	O					
+1	2	fb:cell.red_barber_al_helfer	Red Barber\nAl Helfer	red|barber|al|helfer	Red|Barber|Al|Helfer	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||				Red Barber|Al Helfer
+1	3	fb:cell.none	None	none	none	NN	O					None
+1	4	fb:cell.none	None	none	none	NN	O					None
+1	5	fb:cell.none	None	none	none	NN	O					None
+1	6	fb:cell.none	None	none	none	NN	O					None
+1	7	fb:cell.none	None	none	none	NN	O					None
+1	8	fb:cell.none	None	none	none	NN	O					None
+2	0	fb:cell.1941	1941	1941	1941	CD	DATE	1941	1941.0	1941-xx-xx		
+2	1	fb:cell.whn	WHN	whn	whn	NN	O					
+2	2	fb:cell.red_barber_al_helfer	Red Barber\nAl Helfer	red|barber|al|helfer	Red|Barber|Al|Helfer	NNP|NNP|NNP|NNP	O|O|PERSON|PERSON	|||				Red Barber|Al Helfer
+2	3	fb:cell.none	None	none	none	NN	O					None
+2	4	fb:cell.none	None	none	none	NN	O					None
+2	5	fb:cell.none	None	none	none	NN	O					None
+2	6	fb:cell.none	None	none	none	NN	O					None
+2	7	fb:cell.none	None	none	none	NN	O					None
+2	8	fb:cell.none	None	none	none	NN	O					None
+3	0	fb:cell.1942	1942	1942	1942	CD	DATE	1942	1942.0	1942-xx-xx		
+3	1	fb:cell.whn	WHN	whn	whn	NN	O					
+3	2	fb:cell.red_barber_alan_hale	Red Barber\nAlan Hale	red|barber|alan|hale	red|Barber|Alan|Hale	JJ|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Red Barber|Alan Hale
+3	3	fb:cell.none	None	none	none	NN	O					None
+3	4	fb:cell.none	None	none	none	NN	O					None
+3	5	fb:cell.none	None	none	none	NN	O					None
+3	6	fb:cell.none	None	none	none	NN	O					None
+3	7	fb:cell.none	None	none	none	NN	O					None
+3	8	fb:cell.none	None	none	none	NN	O					None
+4	0	fb:cell.1943	1943	1943	1943	CD	DATE	1943	1943.0	1943-xx-xx		
+4	1	fb:cell.whn	WHN	whn	whn	NN	O					
+4	2	fb:cell.red_barber_connie_desmond	Red Barber\nConnie Desmond	red|barber|connie|desmond	Red|Barber|Connie|Desmond	NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				Red Barber|Connie Desmond
+4	3	fb:cell.none	None	none	none	NN	O					None
+4	4	fb:cell.none	None	none	none	NN	O					None
+4	5	fb:cell.none	None	none	none	NN	O					None
+4	6	fb:cell.none	None	none	none	NN	O					None
+4	7	fb:cell.none	None	none	none	NN	O					None
+4	8	fb:cell.none	None	none	none	NN	O					None
+5	0	fb:cell.1944	1944	1944	1944	CD	DATE	1944	1944.0	1944-xx-xx		
+5	1	fb:cell.whn	WHN	whn	whn	NN	O					
+5	2	fb:cell.red_barber_connie_desmond	Red Barber\nConnie Desmond	red|barber|connie|desmond	Red|Barber|Connie|Desmond	NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				Red Barber|Connie Desmond
+5	3	fb:cell.none	None	none	none	NN	O					None
+5	4	fb:cell.none	None	none	none	NN	O					None
+5	5	fb:cell.none	None	none	none	NN	O					None
+5	6	fb:cell.none	None	none	none	NN	O					None
+5	7	fb:cell.none	None	none	none	NN	O					None
+5	8	fb:cell.none	None	none	none	NN	O					None
+6	0	fb:cell.1945	1945	1945	1945	CD	DATE	1945	1945.0	1945-xx-xx		
+6	1	fb:cell.whn	WHN	whn	whn	NN	O					
+6	2	fb:cell.red_barber_connie_desmond	Red Barber\nConnie Desmond	red|barber|connie|desmond	Red|Barber|Connie|Desmond	NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				Red Barber|Connie Desmond
+6	3	fb:cell.none	None	none	none	NN	O					None
+6	4	fb:cell.none	None	none	none	NN	O					None
+6	5	fb:cell.none	None	none	none	NN	O					None
+6	6	fb:cell.none	None	none	none	NN	O					None
+6	7	fb:cell.none	None	none	none	NN	O					None
+6	8	fb:cell.none	None	none	none	NN	O					None
+7	0	fb:cell.1946	1946	1946	1946	CD	DATE	1946	1946.0	1946-xx-xx		
+7	1	fb:cell.whn	WHN	whn	whn	NN	O					
+7	2	fb:cell.red_barber_connie_desmond	Red Barber\nConnie Desmond	red|barber|connie|desmond	Red|Barber|Connie|Desmond	NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				Red Barber|Connie Desmond
+7	3	fb:cell.none	None	none	none	NN	O					None
+7	4	fb:cell.none	None	none	none	NN	O					None
+7	5	fb:cell.none	None	none	none	NN	O					None
+7	6	fb:cell.none	None	none	none	NN	O					None
+7	7	fb:cell.none	None	none	none	NN	O					None
+7	8	fb:cell.none	None	none	none	NN	O					None
+8	0	fb:cell.1947	1947	1947	1947	CD	DATE	1947	1947.0	1947-xx-xx		
+8	1	fb:cell.whn	WHN	whn	whn	NN	O					
+8	2	fb:cell.red_barber_connie_desmond	Red Barber\nConnie Desmond	red|barber|connie|desmond	Red|Barber|Connie|Desmond	NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				Red Barber|Connie Desmond
+8	3	fb:cell.none	None	none	none	NN	O					None
+8	4	fb:cell.none	None	none	none	NN	O					None
+8	5	fb:cell.none	None	none	none	NN	O					None
+8	6	fb:cell.none	None	none	none	NN	O					None
+8	7	fb:cell.none	None	none	none	NN	O					None
+8	8	fb:cell.none	None	none	none	NN	O					None
+9	0	fb:cell.1948	1948	1948	1948	CD	DATE	1948	1948.0	1948-xx-xx		
+9	1	fb:cell.wmgm	WMGM	wmgm	WMGM	NNP	O					
+9	2	fb:cell.red_barber_connie_desmond_ernie_harwell	Red Barber\nConnie Desmond\nErnie Harwell	red|barber|connie|desmond|ernie|harwell	Red|Barber|Connie|Desmond|Ernie|Harwell	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|PERSON|PERSON	|||||				Red Barber|Connie Desmond|Ernie Harwell
+9	3	fb:cell.none	None	none	none	NN	O					None
+9	4	fb:cell.none	None	none	none	NN	O					None
+9	5	fb:cell.none	None	none	none	NN	O					None
+9	6	fb:cell.none	None	none	none	NN	O					None
+9	7	fb:cell.none	None	none	none	NN	O					None
+9	8	fb:cell.none	None	none	none	NN	O					None
+10	0	fb:cell.1949	1949	1949	1949	CD	DATE	1949	1949.0	1949-xx-xx		
+10	1	fb:cell.wmgm	WMGM	wmgm	WMGM	NNP	O					
+10	2	fb:cell.red_barber_connie_desmond_ernie_harwell	Red Barber\nConnie Desmond\nErnie Harwell	red|barber|connie|desmond|ernie|harwell	Red|Barber|Connie|Desmond|Ernie|Harwell	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|O|PERSON|PERSON	|||||				Red Barber|Connie Desmond|Ernie Harwell
+10	3	fb:cell.none	None	none	none	NN	O					None
+10	4	fb:cell.none	None	none	none	NN	O					None
+10	5	fb:cell.none	None	none	none	NN	O					None
+10	6	fb:cell.none	None	none	none	NN	O					None
+10	7	fb:cell.none	None	none	none	NN	O					None
+10	8	fb:cell.none	None	none	none	NN	O					None
+11	0	fb:cell.1950	1950	1950	1950	CD	DATE	1950	1950.0	1950-xx-xx		
+11	1	fb:cell.wmgm	WMGM	wmgm	WMGM	NNP	O					
+11	2	fb:cell.red_barber_connie_desmond_vin_scully	Red Barber\nConnie Desmond\nVin Scully	red|barber|connie|desmond|vin|scully	Red|Barber|Connie|Desmond|Vin|Scully	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Red Barber|Connie Desmond|Vin Scully
+11	3	fb:cell.none	None	none	none	NN	O					None
+11	4	fb:cell.none	None	none	none	NN	O					None
+11	5	fb:cell.wor_tv	WOR-TV	wor|tv	WOR|TV	NNP|NNP	O|O	|				WOR-TV
+11	6	fb:cell.red_barber_connie_desmond_vin_scully	Red Barber\nConnie Desmond\nVin Scully	red|barber|connie|desmond|vin|scully	Red|Barber|Connie|Desmond|Vin|Scully	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Red Barber|Connie Desmond|Vin Scully
+11	7	fb:cell.none	None	none	none	NN	O					None
+11	8	fb:cell.none	None	none	none	NN	O					None
+12	0	fb:cell.1951	1951	1951	1951	CD	DATE	1951	1951.0	1951-xx-xx		
+12	1	fb:cell.wmgm	WMGM	wmgm	WMGM	NNP	O					
+12	2	fb:cell.red_barber_connie_desmond_vin_scully	Red Barber\nConnie Desmond\nVin Scully	red|barber|connie|desmond|vin|scully	Red|Barber|Connie|Desmond|Vin|Scully	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Red Barber|Connie Desmond|Vin Scully
+12	3	fb:cell.none	None	none	none	NN	O					None
+12	4	fb:cell.none	None	none	none	NN	O					None
+12	5	fb:cell.wor_tv	WOR-TV	wor|tv	WOR|TV	NNP|NNP	O|O	|				WOR-TV
+12	6	fb:cell.red_barber_connie_desmond_vin_scully	Red Barber\nConnie Desmond\nVin Scully	red|barber|connie|desmond|vin|scully	Red|Barber|Connie|Desmond|Vin|Scully	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Red Barber|Connie Desmond|Vin Scully
+12	7	fb:cell.none	None	none	none	NN	O					None
+12	8	fb:cell.none	None	none	none	NN	O					None
+13	0	fb:cell.1952	1952	1952	1952	CD	DATE	1952	1952.0	1952-xx-xx		
+13	1	fb:cell.wmgm	WMGM	wmgm	WMGM	NNP	O					
+13	2	fb:cell.red_barber_connie_desmond_vin_scully	Red Barber\nConnie Desmond\nVin Scully	red|barber|connie|desmond|vin|scully	Red|Barber|Connie|Desmond|Vin|Scully	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Red Barber|Connie Desmond|Vin Scully
+13	3	fb:cell.none	None	none	none	NN	O					None
+13	4	fb:cell.none	None	none	none	NN	O					None
+13	5	fb:cell.wor_tv	WOR-TV	wor|tv	WOR|TV	NNP|NNP	O|O	|				WOR-TV
+13	6	fb:cell.red_barber_connie_desmond_vin_scully	Red Barber\nConnie Desmond\nVin Scully	red|barber|connie|desmond|vin|scully	Red|Barber|Connie|Desmond|Vin|Scully	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Red Barber|Connie Desmond|Vin Scully
+13	7	fb:cell.none	None	none	none	NN	O					None
+13	8	fb:cell.none	None	none	none	NN	O					None
+14	0	fb:cell.1953	1953	1953	1953	CD	DATE	1953	1953.0	1953-xx-xx		
+14	1	fb:cell.wmgm	WMGM	wmgm	WMGM	NNP	O					
+14	2	fb:cell.red_barber_connie_desmond_vin_scully	Red Barber\nConnie Desmond\nVin Scully	red|barber|connie|desmond|vin|scully	Red|Barber|Connie|Desmond|Vin|Scully	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Red Barber|Connie Desmond|Vin Scully
+14	3	fb:cell.whom	WHOM	whom	whom	WP	O					WHOM
+14	4	fb:cell.buck_canel_herb_marine	Buck Canel\nHerb Marine	buck|canel|herb|marine	Buck|Canel|Herb|Marine	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Buck Canel|Herb Marine
+14	5	fb:cell.wor_tv	WOR-TV	wor|tv	WOR|TV	NNP|NNP	O|O	|				WOR-TV
+14	6	fb:cell.red_barber_connie_desmond_vin_scully	Red Barber\nConnie Desmond\nVin Scully	red|barber|connie|desmond|vin|scully	Red|Barber|Connie|Desmond|Vin|Scully	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Red Barber|Connie Desmond|Vin Scully
+14	7	fb:cell.none	None	none	none	NN	O					None
+14	8	fb:cell.none	None	none	none	NN	O					None
+15	0	fb:cell.1954	1954	1954	1954	CD	DATE	1954	1954.0	1954-xx-xx		
+15	1	fb:cell.wmgm	WMGM	wmgm	WMGM	NNP	O					
+15	2	fb:cell.connie_desmond_vin_scully_andre_baruch	Connie Desmond\nVin Scully\nAndré Baruch	connie|desmond|vin|scully|andré|baruch	Connie|Desmond|Vin|Scully|André|Baruch	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Connie Desmond|Vin Scully|André Baruch
+15	3	fb:cell.whom	WHOM	whom	whom	WP	O					WHOM
+15	4	fb:cell.buck_canel_herb_marine	Buck Canel\nHerb Marine	buck|canel|herb|marine	Buck|Canel|Herb|Marine	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Buck Canel|Herb Marine
+15	5	fb:cell.wor_tv	WOR-TV	wor|tv	WOR|TV	NNP|NNP	O|O	|				WOR-TV
+15	6	fb:cell.connie_desmond_vin_scully_andre_baruch	Connie Desmond\nVin Scully\nAndré Baruch	connie|desmond|vin|scully|andré|baruch	Connie|Desmond|Vin|Scully|André|Baruch	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Connie Desmond|Vin Scully|André Baruch
+15	7	fb:cell.none	None	none	none	NN	O					None
+15	8	fb:cell.none	None	none	none	NN	O					None
+16	0	fb:cell.1955	1955	1955	1955	CD	DATE	1955	1955.0	1955-xx-xx		
+16	1	fb:cell.wmgm	WMGM	wmgm	WMGM	NNP	O					
+16	2	fb:cell.connie_desmond_vin_scully_andre_baruch_al_helfer	Connie Desmond\nVin Scully\nAndré Baruch\nAl Helfer	connie|desmond|vin|scully|andré|baruch|al|helfer	Connie|Desmond|Vin|Scully|André|Baruch|Al|Helfer	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||||				Connie Desmond|Vin Scully|André Baruch|Al Helfer
+16	3	fb:cell.whom	WHOM	whom	whom	WP	O					WHOM
+16	4	fb:cell.buck_canel_herb_marine	Buck Canel\nHerb Marine	buck|canel|herb|marine	Buck|Canel|Herb|Marine	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Buck Canel|Herb Marine
+16	5	fb:cell.wor_tv	WOR-TV	wor|tv	WOR|TV	NNP|NNP	O|O	|				WOR-TV
+16	6	fb:cell.connie_desmond_vin_scully_andre_baruch_al_helfer	Connie Desmond\nVin Scully\nAndré Baruch\nAl Helfer	connie|desmond|vin|scully|andré|baruch|al|helfer	Connie|Desmond|Vin|Scully|André|Baruch|Al|Helfer	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||||				Connie Desmond|Vin Scully|André Baruch|Al Helfer
+16	7	fb:cell.none	None	none	none	NN	O					None
+16	8	fb:cell.none	None	none	none	NN	O					None
+17	0	fb:cell.1956	1956	1956	1956	CD	DATE	1956	1956.0	1956-xx-xx		
+17	1	fb:cell.wmgm	WMGM	wmgm	WMGM	NNP	O					
+17	2	fb:cell.connie_desmond_vin_scully_al_helfer	Connie Desmond\nVin Scully\nAl Helfer	connie|desmond|vin|scully|al|helfer	Connie|Desmond|Vin|Scully|Al|Helfer	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Connie Desmond|Vin Scully|Al Helfer
+17	3	fb:cell.whom	WHOM	whom	whom	WP	O					WHOM
+17	4	fb:cell.buck_canel_herb_marine	Buck Canel\nHerb Marine	buck|canel|herb|marine	Buck|Canel|Herb|Marine	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Buck Canel|Herb Marine
+17	5	fb:cell.wor_tv	WOR-TV	wor|tv	WOR|TV	NNP|NNP	O|O	|				WOR-TV
+17	6	fb:cell.connie_desmond_vin_scully_al_helfer	Connie Desmond\nVin Scully\nAl Helfer	connie|desmond|vin|scully|al|helfer	Connie|Desmond|Vin|Scully|Al|Helfer	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Connie Desmond|Vin Scully|Al Helfer
+17	7	fb:cell.none	None	none	none	NN	O					None
+17	8	fb:cell.none	None	none	none	NN	O					None
+18	0	fb:cell.1957	1957	1957	1957	CD	DATE	1957	1957.0	1957-xx-xx		
+18	1	fb:cell.wmgm	WMGM	wmgm	WMGM	NNP	O					
+18	2	fb:cell.vin_scully_al_helfer_jerry_doggett	Vin Scully\nAl Helfer\nJerry Doggett	vin|scully|al|helfer|jerry|doggett	Vin|Scully|Al|Helfer|Jerry|Doggett	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Al Helfer|Jerry Doggett
+18	3	fb:cell.whom	WHOM	whom	whom	WP	O					WHOM
+18	4	fb:cell.buck_canel_herb_marine	Buck Canel\nHerb Marine	buck|canel|herb|marine	Buck|Canel|Herb|Marine	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Buck Canel|Herb Marine
+18	5	fb:cell.wor_tv	WOR-TV	wor|tv	WOR|TV	NNP|NNP	O|O	|				WOR-TV
+18	6	fb:cell.vin_scully_al_helfer_jerry_doggett	Vin Scully\nAl Helfer\nJerry Doggett	vin|scully|al|helfer|jerry|doggett	Vin|Scully|Al|Helfer|Jerry|Doggett	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Al Helfer|Jerry Doggett
+18	7	fb:cell.none	None	none	none	NN	O					None
+18	8	fb:cell.none	None	none	none	NN	O					None
+19	0	fb:cell.1958	1958	1958	1958	CD	DATE	1958	1958.0	1958-xx-xx		
+19	1	fb:cell.kmpc	KMPC	kmpc	KMPC	NNP	ORGANIZATION					
+19	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+19	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+19	4	fb:cell.rene_cardenas_milt_nava	René Cárdenas\nMilt Nava	rené|cárdenas|milt|nava	rené|cárdenas|Milt|Nava	NN|NNS|NNP|NNP	O|O|PERSON|PERSON	|||				René Cárdenas|Milt Nava
+19	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+19	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+19	7	fb:cell.none	None	none	none	NN	O					None
+19	8	fb:cell.none	None	none	none	NN	O					None
+20	0	fb:cell.1959	1959	1959	1959	CD	DATE	1959	1959.0	1959-xx-xx		
+20	1	fb:cell.kmpc	KMPC	kmpc	KMPC	NNP	ORGANIZATION					
+20	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+20	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+20	4	fb:cell.jaime_jarrin_rene_cardenas_miguel_alonzo	Jaime Jarrín\nRené Cárdenas\nMiguel Alonzo	jaime|jarrín|rené|cárdenas|miguel|alonzo	Jaime|Jarrín|René|Cárdenas|Miguel|Alonzo	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|René Cárdenas|Miguel Alonzo
+20	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+20	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+20	7	fb:cell.none	None	none	none	NN	O					None
+20	8	fb:cell.none	None	none	none	NN	O					None
+21	0	fb:cell.1960	1960	1960	1960	CD	DATE	1960	1960.0	1960-xx-xx		
+21	1	fb:cell.kfi	KFI	kfi	KFI	NNP	PERSON					
+21	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+21	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+21	4	fb:cell.jaime_jarrin_rene_cardenas_miguel_alonzo	Jaime Jarrín\nRené Cárdenas\nMiguel Alonzo	jaime|jarrín|rené|cárdenas|miguel|alonzo	Jaime|Jarrín|René|Cárdenas|Miguel|Alonzo	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|René Cárdenas|Miguel Alonzo
+21	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+21	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+21	7	fb:cell.none	None	none	none	NN	O					None
+21	8	fb:cell.none	None	none	none	NN	O					None
+22	0	fb:cell.1961	1961	1961	1961	CD	DATE	1961	1961.0	1961-xx-xx		
+22	1	fb:cell.kfi	KFI	kfi	KFI	NNP	PERSON					
+22	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+22	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+22	4	fb:cell.jaime_jarrin_rene_cardenas_miguel_alonzo	Jaime Jarrín\nRené Cárdenas\nMiguel Alonzo	jaime|jarrín|rené|cárdenas|miguel|alonzo	Jaime|Jarrín|René|Cárdenas|Miguel|Alonzo	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|René Cárdenas|Miguel Alonzo
+22	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+22	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+22	7	fb:cell.none	None	none	none	NN	O					None
+22	8	fb:cell.none	None	none	none	NN	O					None
+23	0	fb:cell.1962	1962	1962	1962	CD	DATE	1962	1962.0	1962-xx-xx		
+23	1	fb:cell.kfi	KFI	kfi	KFI	NNP	PERSON					
+23	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+23	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+23	4	fb:cell.jaime_jarrin_jose_garcia	Jaime Jarrín\nJose Garcia	jaime|jarrín|jose|garcia	Jaime|Jarrín|Jose|Garcia	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Jose Garcia
+23	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+23	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+23	7	fb:cell.none	None	none	none	NN	O					None
+23	8	fb:cell.none	None	none	none	NN	O					None
+24	0	fb:cell.1963	1963	1963	1963	CD	DATE	1963	1963.0	1963-xx-xx		
+24	1	fb:cell.kfi	KFI	kfi	KFI	NNP	PERSON					
+24	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+24	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+24	4	fb:cell.jaime_jarrin_jose_garcia	Jaime Jarrín\nJose Garcia	jaime|jarrín|jose|garcia	Jaime|Jarrín|Jose|Garcia	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Jose Garcia
+24	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+24	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+24	7	fb:cell.none	None	none	none	NN	O					None
+24	8	fb:cell.none	None	none	none	NN	O					None
+25	0	fb:cell.1964	1964	1964	1964	CD	DATE	1964	1964.0	1964-xx-xx		
+25	1	fb:cell.kfi	KFI	kfi	KFI	NNP	PERSON					
+25	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+25	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+25	4	fb:cell.jaime_jarrin_jose_garcia	Jaime Jarrín\nJose Garcia	jaime|jarrín|jose|garcia	Jaime|Jarrín|Jose|Garcia	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Jose Garcia
+25	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+25	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+25	7	fb:cell.none	None	none	none	NN	O					None
+25	8	fb:cell.none	None	none	none	NN	O					None
+26	0	fb:cell.1965	1965	1965	1965	CD	DATE	1965	1965.0	1965-xx-xx		
+26	1	fb:cell.kfi	KFI	kfi	KFI	NNP	PERSON					
+26	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+26	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+26	4	fb:cell.jaime_jarrin_jose_garcia	Jaime Jarrín\nJose Garcia	jaime|jarrín|jose|garcia	Jaime|Jarrín|Jose|Garcia	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Jose Garcia
+26	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+26	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+26	7	fb:cell.none	None	none	none	NN	O					None
+26	8	fb:cell.none	None	none	none	NN	O					None
+27	0	fb:cell.1966	1966	1966	1966	CD	DATE	1966	1966.0	1966-xx-xx		
+27	1	fb:cell.kfi	KFI	kfi	KFI	NNP	PERSON					
+27	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+27	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+27	4	fb:cell.jaime_jarrin_jose_garcia	Jaime Jarrín\nJose Garcia	jaime|jarrín|jose|garcia	Jaime|Jarrín|Jose|Garcia	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Jose Garcia
+27	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+27	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+27	7	fb:cell.none	None	none	none	NN	O					None
+27	8	fb:cell.none	None	none	none	NN	O					None
+28	0	fb:cell.1967	1967	1967	1967	CD	DATE	1967	1967.0	1967-xx-xx		
+28	1	fb:cell.kfi	KFI	kfi	KFI	NNP	PERSON					
+28	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+28	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+28	4	fb:cell.jaime_jarrin_jose_garcia	Jaime Jarrín\nJose Garcia	jaime|jarrín|jose|garcia	Jaime|Jarrín|Jose|Garcia	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Jose Garcia
+28	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+28	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+28	7	fb:cell.none	None	none	none	NN	O					None
+28	8	fb:cell.none	None	none	none	NN	O					None
+29	0	fb:cell.1968	1968	1968	1968	CD	DATE	1968	1968.0	1968-xx-xx		
+29	1	fb:cell.kfi	KFI	kfi	KFI	NNP	PERSON					
+29	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+29	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+29	4	fb:cell.jaime_jarrin_jose_garcia	Jaime Jarrín\nJose Garcia	jaime|jarrín|jose|garcia	Jaime|Jarrín|Jose|Garcia	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Jose Garcia
+29	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+29	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+29	7	fb:cell.none	None	none	none	NN	O					None
+29	8	fb:cell.none	None	none	none	NN	O					None
+30	0	fb:cell.1969	1969	1969	1969	CD	DATE	1969	1969.0	1969-xx-xx		
+30	1	fb:cell.kfi	KFI	kfi	KFI	NNP	PERSON					
+30	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+30	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+30	4	fb:cell.jaime_jarrin_jose_garcia	Jaime Jarrín\nJose Garcia	jaime|jarrín|jose|garcia	Jaime|Jarrín|Jose|Garcia	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Jose Garcia
+30	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+30	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+30	7	fb:cell.none	None	none	none	NN	O					None
+30	8	fb:cell.none	None	none	none	NN	O					None
+31	0	fb:cell.1970	1970	1970	1970	CD	DATE	1970	1970.0	1970-xx-xx		
+31	1	fb:cell.kfi	KFI	kfi	KFI	NNP	PERSON					
+31	2	fb:cell.vin_scully_jerry_doggett_mike_walden	Vin Scully\nJerry Doggett\nMike Walden	vin|scully|jerry|doggett|mike|walden	Vin|Scully|Jerry|Doggett|Mike|Walden	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Mike Walden
+31	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+31	4	fb:cell.jaime_jarrin_jose_garcia	Jaime Jarrín\nJose Garcia	jaime|jarrín|jose|garcia	Jaime|Jarrín|Jose|Garcia	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Jose Garcia
+31	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+31	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+31	7	fb:cell.none	None	none	none	NN	O					None
+31	8	fb:cell.none	None	none	none	NN	O					None
+32	0	fb:cell.1971	1971	1971	1971	CD	DATE	1971	1971.0	1971-xx-xx		
+32	1	fb:cell.kfi	KFI	kfi	KFI	NNP	PERSON					
+32	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+32	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+32	4	fb:cell.jaime_jarrin_jose_garcia	Jaime Jarrín\nJose Garcia	jaime|jarrín|jose|garcia	Jaime|Jarrín|Jose|Garcia	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Jose Garcia
+32	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+32	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+32	7	fb:cell.none	None	none	none	NN	O					None
+32	8	fb:cell.none	None	none	none	NN	O					None
+33	0	fb:cell.1972	1972	1972	1972	CD	DATE	1972	1972.0	1972-xx-xx		
+33	1	fb:cell.kfi	KFI	kfi	KFI	NNP	PERSON					
+33	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+33	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+33	4	fb:cell.jaime_jarrin_jose_garcia	Jaime Jarrín\nJose Garcia	jaime|jarrín|jose|garcia	Jaime|Jarrín|Jose|Garcia	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Jose Garcia
+33	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+33	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+33	7	fb:cell.none	None	none	none	NN	O					None
+33	8	fb:cell.none	None	none	none	NN	O					None
+34	0	fb:cell.1973	1973	1973	1973	CD	DATE	1973	1973.0	1973-xx-xx		
+34	1	fb:cell.kfi	KFI	kfi	KFI	NNP	PERSON					
+34	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+34	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+34	4	fb:cell.jaime_jarrin_rudy_hoyos	Jaime Jarrín\nRudy Hoyos	jaime|jarrín|rudy|hoyos	Jaime|Jarrín|Rudy|Hoyos	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Rudy Hoyos
+34	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+34	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+34	7	fb:cell.none	None	none	none	NN	O					None
+34	8	fb:cell.none	None	none	none	NN	O					None
+35	0	fb:cell.1974	1974	1974	1974	CD	DATE	1974	1974.0	1974-xx-xx		
+35	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+35	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+35	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+35	4	fb:cell.jaime_jarrin_rudy_hoyos	Jaime Jarrín\nRudy Hoyos	jaime|jarrín|rudy|hoyos	Jaime|Jarrín|Rudy|Hoyos	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Rudy Hoyos
+35	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+35	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+35	7	fb:cell.none	None	none	none	NN	O					None
+35	8	fb:cell.none	None	none	none	NN	O					None
+36	0	fb:cell.1974	1974	1974	1974	CD	DATE	1974	1974.0	1974-xx-xx		
+36	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+36	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+36	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+36	4	fb:cell.jaime_jarrin_rudy_hoyos	Jaime Jarrín\nRudy Hoyos	jaime|jarrín|rudy|hoyos	Jaime|Jarrín|Rudy|Hoyos	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Rudy Hoyos
+36	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+36	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+36	7	fb:cell.none	None	none	none	NN	O					None
+36	8	fb:cell.none	None	none	none	NN	O					None
+37	0	fb:cell.1975	1975	1975	1975	CD	DATE	1975	1975.0	1975-xx-xx		
+37	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+37	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+37	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+37	4	fb:cell.jaime_jarrin_rudy_hoyos	Jaime Jarrín\nRudy Hoyos	jaime|jarrín|rudy|hoyos	Jaime|Jarrín|Rudy|Hoyos	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Rudy Hoyos
+37	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+37	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+37	7	fb:cell.none	None	none	none	NN	O					None
+37	8	fb:cell.none	None	none	none	NN	O					None
+38	0	fb:cell.1976	1976	1976	1976	CD	DATE	1976	1976.0	1976-xx-xx		
+38	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+38	2	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+38	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+38	4	fb:cell.jaime_jarrin_rudy_hoyos	Jaime Jarrín\nRudy Hoyos	jaime|jarrín|rudy|hoyos	Jaime|Jarrín|Rudy|Hoyos	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Rudy Hoyos
+38	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+38	6	fb:cell.vin_scully_jerry_doggett	Vin Scully\nJerry Doggett	vin|scully|jerry|doggett	Vin|Scully|Jerry|Doggett	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Jerry Doggett
+38	7	fb:cell.none	None	none	none	NN	O					None
+38	8	fb:cell.none	None	none	none	NN	O					None
+39	0	fb:cell.1977	1977	1977	1977	CD	DATE	1977	1977.0	1977-xx-xx		
+39	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+39	2	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+39	3	fb:cell.xegm	XEGM	xegm	XEGM	NNP	PERSON					XEGM
+39	4	fb:cell.jaime_jarrin_rudy_hoyos	Jaime Jarrín\nRudy Hoyos	jaime|jarrín|rudy|hoyos	Jaime|Jarrín|Rudy|Hoyos	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Rudy Hoyos
+39	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+39	6	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+39	7	fb:cell.none	None	none	none	NN	O					None
+39	8	fb:cell.none	None	none	none	NN	O					None
+40	0	fb:cell.1978	1978	1978	1978	CD	DATE	1978	1978.0	1978-xx-xx		
+40	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+40	2	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+40	3	fb:cell.xegm	XEGM	xegm	XEGM	NNP	PERSON					XEGM
+40	4	fb:cell.jaime_jarrin_rudy_hoyos	Jaime Jarrín\nRudy Hoyos	jaime|jarrín|rudy|hoyos	Jaime|Jarrín|Rudy|Hoyos	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Rudy Hoyos
+40	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+40	6	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+40	7	fb:cell.none	None	none	none	NN	O					None
+40	8	fb:cell.none	None	none	none	NN	O					None
+41	0	fb:cell.1979	1979	1979	1979	CD	DATE	1979	1979.0	1979-xx-xx		
+41	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+41	2	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+41	3	fb:cell.ktnq	KTNQ	ktnq	KTNQ	NNP	PERSON					KTNQ
+41	4	fb:cell.jaime_jarrin_rudy_hoyos	Jaime Jarrín\nRudy Hoyos	jaime|jarrín|rudy|hoyos	Jaime|Jarrín|Rudy|Hoyos	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Rudy Hoyos
+41	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+41	6	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+41	7	fb:cell.none	None	none	none	NN	O					None
+41	8	fb:cell.none	None	none	none	NN	O					None
+42	0	fb:cell.1980	1980	1980	1980	CD	DATE	1980	1980.0	1980-xx-xx		
+42	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+42	2	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+42	3	fb:cell.ktnq	KTNQ	ktnq	KTNQ	NNP	PERSON					KTNQ
+42	4	fb:cell.jaime_jarrin_rudy_hoyos	Jaime Jarrín\nRudy Hoyos	jaime|jarrín|rudy|hoyos	Jaime|Jarrín|Rudy|Hoyos	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Rudy Hoyos
+42	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+42	6	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+42	7	fb:cell.ontv	ONTV	ontv	ONTV	NNP	PERSON					
+42	8	fb:cell.geoff_witcher_al_downing	Geoff Witcher\nAl Downing	geoff|witcher|al|downing	Geoff|Witcher|Al|Downing	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Geoff Witcher|Al Downing
+43	0	fb:cell.1981	1981	1981	1981	CD	DATE	1981	1981.0	1981-xx-xx		
+43	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+43	2	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+43	3	fb:cell.ktnq	KTNQ	ktnq	KTNQ	NNP	PERSON					KTNQ
+43	4	fb:cell.jaime_jarrin_rudy_hoyos	Jaime Jarrín\nRudy Hoyos	jaime|jarrín|rudy|hoyos	Jaime|Jarrín|Rudy|Hoyos	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Rudy Hoyos
+43	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+43	6	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+43	7	fb:cell.ontv	ONTV	ontv	ONTV	NNP	PERSON					
+43	8	fb:cell.geoff_witcher_al_downing	Geoff Witcher\nAl Downing	geoff|witcher|al|downing	Geoff|Witcher|Al|Downing	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Geoff Witcher|Al Downing
+44	0	fb:cell.1982	1982	1982	1982	CD	DATE	1982	1982.0	1982-xx-xx		
+44	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+44	2	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+44	3	fb:cell.ktnq	KTNQ	ktnq	KTNQ	NNP	PERSON					KTNQ
+44	4	fb:cell.jaime_jarrin_rene_cardenas	Jaime Jarrín\nRené Cárdenas	jaime|jarrín|rené|cárdenas	Jaime|Jarrín|René|Cárdenas	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|René Cárdenas
+44	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+44	6	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+44	7	fb:cell.ontv	ONTV	ontv	ONTV	NNP	PERSON					
+44	8	fb:cell.geoff_witcher_al_downing	Geoff Witcher\nAl Downing	geoff|witcher|al|downing	Geoff|Witcher|Al|Downing	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Geoff Witcher|Al Downing
+45	0	fb:cell.1983	1983	1983	1983	CD	DATE	1983	1983.0	1983-xx-xx		
+45	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+45	2	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+45	3	fb:cell.ktnq	KTNQ	ktnq	KTNQ	NNP	PERSON					KTNQ
+45	4	fb:cell.jaime_jarrin_rene_cardenas	Jaime Jarrín\nRené Cárdenas	jaime|jarrín|rené|cárdenas	Jaime|Jarrín|René|Cárdenas	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|René Cárdenas
+45	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+45	6	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+45	7	fb:cell.ontv	ONTV	ontv	ONTV	NNP	PERSON					
+45	8	fb:cell.geoff_witcher_al_downing	Geoff Witcher\nAl Downing	geoff|witcher|al|downing	Geoff|Witcher|Al|Downing	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Geoff Witcher|Al Downing
+46	0	fb:cell.1984	1984	1984	1984	CD	DATE	1984	1984.0	1984-xx-xx		
+46	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+46	2	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+46	3	fb:cell.ktnq	KTNQ	ktnq	KTNQ	NNP	PERSON					KTNQ
+46	4	fb:cell.jaime_jarrin_rene_cardenas	Jaime Jarrín\nRené Cárdenas	jaime|jarrín|rené|cárdenas	Jaime|Jarrín|René|Cárdenas	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|René Cárdenas
+46	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+46	6	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+46	7	fb:cell.ontv	ONTV	ontv	ONTV	NNP	PERSON					
+46	8	fb:cell.eddie_doucette_al_downing	Eddie Doucette\nAl Downing	eddie|doucette|al|downing	Eddie|Doucette|Al|Downing	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Eddie Doucette|Al Downing
+47	0	fb:cell.1985	1985	1985	1985	CD	DATE	1985	1985.0	1985-xx-xx		
+47	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+47	2	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+47	3	fb:cell.ktnq	KTNQ	ktnq	KTNQ	NNP	PERSON					KTNQ
+47	4	fb:cell.jaime_jarrin_rene_cardenas	Jaime Jarrín\nRené Cárdenas	jaime|jarrín|rené|cárdenas	Jaime|Jarrín|René|Cárdenas	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|René Cárdenas
+47	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+47	6	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+47	7	fb:cell.dodgervision	Dodgervision	dodgervision	dodgervision	NN	PERSON					
+47	8	fb:cell.eddie_doucette_al_downing_rick_monday	Eddie Doucette\nAl Downing\nRick Monday	eddie|doucette|al|downing|rick|monday	Eddie|Doucette|Al|Downing|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|O|O|PERSON|DATE	|||||XXXX-WXX-1				Eddie Doucette|Al Downing|Rick Monday
+48	0	fb:cell.1986	1986	1986	1986	CD	DATE	1986	1986.0	1986-xx-xx		
+48	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+48	2	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+48	3	fb:cell.ktnq	KTNQ	ktnq	KTNQ	NNP	PERSON					KTNQ
+48	4	fb:cell.jaime_jarrin_rene_cardenas	Jaime Jarrín\nRené Cárdenas	jaime|jarrín|rené|cárdenas	Jaime|Jarrín|René|Cárdenas	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|René Cárdenas
+48	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+48	6	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+48	7	fb:cell.dodgervision	Dodgervision	dodgervision	dodgervision	NN	PERSON					
+48	8	fb:cell.eddie_doucette_al_downing_rick_monday	Eddie Doucette\nAl Downing\nRick Monday	eddie|doucette|al|downing|rick|monday	Eddie|Doucette|Al|Downing|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|O|O|PERSON|DATE	|||||XXXX-WXX-1				Eddie Doucette|Al Downing|Rick Monday
+49	0	fb:cell.1987	1987	1987	1987	CD	DATE	1987	1987.0	1987-xx-xx		
+49	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+49	2	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+49	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+49	4	fb:cell.jaime_jarrin_rene_cardenas	Jaime Jarrín\nRené Cárdenas	jaime|jarrín|rené|cárdenas	Jaime|Jarrín|René|Cárdenas	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|René Cárdenas
+49	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+49	6	fb:cell.vin_scully_jerry_doggett_ross_porter	Vin Scully\nJerry Doggett\nRoss Porter	vin|scully|jerry|doggett|ross|porter	Vin|Scully|Jerry|Doggett|Ross|Porter	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Jerry Doggett|Ross Porter
+49	7	fb:cell.dodgervision	Dodgervision	dodgervision	dodgervision	NN	PERSON					
+49	8	fb:cell.eddie_doucette_al_downing_rick_monday	Eddie Doucette\nAl Downing\nRick Monday	eddie|doucette|al|downing|rick|monday	Eddie|Doucette|Al|Downing|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|O|O|PERSON|DATE	|||||XXXX-WXX-1				Eddie Doucette|Al Downing|Rick Monday
+50	0	fb:cell.1988	1988	1988	1988	CD	DATE	1988	1988.0	1988-xx-xx		
+50	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+50	2	fb:cell.vin_scully_ross_porter_don_drysdale	Vin Scully\nRoss Porter\nDon Drysdale	vin|scully|ross|porter|don|drysdale	Vin|Scully|Ross|Porter|Don|Drysdale	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Don Drysdale
+50	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+50	4	fb:cell.jaime_jarrin_rene_cardenas	Jaime Jarrín\nRené Cárdenas	jaime|jarrín|rené|cárdenas	Jaime|Jarrín|René|Cárdenas	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|René Cárdenas
+50	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+50	6	fb:cell.vin_scully_ross_porter_don_drysdale	Vin Scully\nRoss Porter\nDon Drysdale	vin|scully|ross|porter|don|drysdale	Vin|Scully|Ross|Porter|Don|Drysdale	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Don Drysdale
+50	7	fb:cell.z_channel	Z Channel	z|channel	Z|Channel	NNP|NNP	O|O	|				
+50	8	fb:cell.rick_monday_tony_hernandez	Rick Monday\nTony Hernandez	rick|monday|tony|hernandez	Rick|Monday|Tony|Hernandez	NNP|NNP|NNP|NNP	PERSON|DATE|PERSON|PERSON	|XXXX-WXX-1||				Rick Monday|Tony Hernandez
+51	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+51	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+51	2	fb:cell.vin_scully_ross_porter_don_drysdale	Vin Scully\nRoss Porter\nDon Drysdale	vin|scully|ross|porter|don|drysdale	Vin|Scully|Ross|Porter|Don|Drysdale	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Don Drysdale
+51	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+51	4	fb:cell.jaime_jarrin_rene_cardenas	Jaime Jarrín\nRené Cárdenas	jaime|jarrín|rené|cárdenas	Jaime|Jarrín|René|Cárdenas	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|René Cárdenas
+51	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+51	6	fb:cell.vin_scully_ross_porter_don_drysdale	Vin Scully\nRoss Porter\nDon Drysdale	vin|scully|ross|porter|don|drysdale	Vin|Scully|Ross|Porter|Don|Drysdale	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Don Drysdale
+51	7	fb:cell.z_channel	Z Channel	z|channel	Z|Channel	NNP|NNP	O|O	|				
+51	8	fb:cell.eddie_doucette_don_sutton	Eddie Doucette\nDon Sutton	eddie|doucette|don|sutton	Eddie|Doucette|Don|Sutton	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Eddie Doucette|Don Sutton
+52	0	fb:cell.1990	1990	1990	1990	CD	DATE	1990	1990.0	1990-xx-xx		
+52	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+52	2	fb:cell.vin_scully_ross_porter_don_drysdale	Vin Scully\nRoss Porter\nDon Drysdale	vin|scully|ross|porter|don|drysdale	Vin|Scully|Ross|Porter|Don|Drysdale	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Don Drysdale
+52	3	fb:cell.kwkw_kazn	KWKW\nKAZN	kwkw|kazn	KWKW|KAZN	NNP|NNP	PERSON|PERSON	|				KWKW|KAZN
+52	4	fb:cell.jaime_jarrin_rene_cardenas_tito_rondon_richard_choi	Jaime Jarrín\nRené Cárdenas\nTito Rondon\nRichard Choi	jaime|jarrín|rené|cárdenas|tito|rondon|richard|choi	Jaime|Jarrín|René|Cárdenas|Tito|Rondon|Richard|Choi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||||				Jaime Jarrín|René Cárdenas|Tito Rondon|Richard Choi
+52	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+52	6	fb:cell.vin_scully_ross_porter_don_drysdale	Vin Scully\nRoss Porter\nDon Drysdale	vin|scully|ross|porter|don|drysdale	Vin|Scully|Ross|Porter|Don|Drysdale	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Don Drysdale
+52	7	fb:cell.sportschannel	SportsChannel	sportschannel	SportsChannel	NNP	ORGANIZATION					
+52	8	fb:cell.joel_meyers_ron_cey	Joel Meyers\nRon Cey	joel|meyers|ron|cey	Joel|Meyers|Ron|Cey	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Joel Meyers|Ron Cey
+53	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+53	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+53	2	fb:cell.vin_scully_ross_porter_don_drysdale	Vin Scully\nRoss Porter\nDon Drysdale	vin|scully|ross|porter|don|drysdale	Vin|Scully|Ross|Porter|Don|Drysdale	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Don Drysdale
+53	3	fb:cell.kwkw_kazn	KWKW\nKAZN	kwkw|kazn	KWKW|KAZN	NNP|NNP	PERSON|PERSON	|				KWKW|KAZN
+53	4	fb:cell.jaime_jarrin_rene_cardenas_richard_choi	Jaime Jarrín\nRené Cárdenas\nRichard Choi	jaime|jarrín|rené|cárdenas|richard|choi	Jaime|Jarrín|René|Cárdenas|Richard|Choi	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|O|O|PERSON|PERSON	|||||				Jaime Jarrín|René Cárdenas|Richard Choi
+53	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+53	6	fb:cell.vin_scully_ross_porter_don_drysdale	Vin Scully\nRoss Porter\nDon Drysdale	vin|scully|ross|porter|don|drysdale	Vin|Scully|Ross|Porter|Don|Drysdale	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Don Drysdale
+53	7	fb:cell.sportschannel	SportsChannel	sportschannel	SportsChannel	NNP	ORGANIZATION					
+53	8	fb:cell.al_downing_joel_meyers_duke_snider	Al Downing\nJoel Meyers\nDuke Snider	al|downing|joel|meyers|duke|snider	Al|Downing|Joel|Meyers|Duke|Snider	NNP|NNP|NNP|NNP|NNP|NNP	O|O|PERSON|PERSON|PERSON|PERSON	|||||				Al Downing|Joel Meyers|Duke Snider
+54	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+54	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+54	2	fb:cell.vin_scully_ross_porter_don_drysdale	Vin Scully\nRoss Porter\nDon Drysdale	vin|scully|ross|porter|don|drysdale	Vin|Scully|Ross|Porter|Don|Drysdale	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Don Drysdale
+54	3	fb:cell.kwkw_kypa	KWKW\nKYPA	kwkw|kypa	KWKW|KYPA	NNP|NNP	PERSON|PERSON	|				KWKW|KYPA
+54	4	fb:cell.jaime_jarrin_rene_cardenas_richard_choi	Jaime Jarrín\nRené Cárdenas\nRichard Choi	jaime|jarrín|rené|cárdenas|richard|choi	Jaime|Jarrín|René|Cárdenas|Richard|Choi	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|O|O|PERSON|PERSON	|||||				Jaime Jarrín|René Cárdenas|Richard Choi
+54	5	fb:cell.kttv	KTTV	kttv	KTTV	NNP	PERSON					KTTV
+54	6	fb:cell.vin_scully_ross_porter_don_drysdale	Vin Scully\nRoss Porter\nDon Drysdale	vin|scully|ross|porter|don|drysdale	Vin|Scully|Ross|Porter|Don|Drysdale	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Don Drysdale
+54	7	fb:cell.sportschannel	SportsChannel	sportschannel	SportsChannel	NNP	ORGANIZATION					
+54	8	fb:cell.don_drysdale_ross_porter	Don Drysdale\nRoss Porter	don|drysdale|ross|porter	Don|Drysdale|Ross|Porter	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Don Drysdale|Ross Porter
+55	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+55	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+55	2	fb:cell.vin_scully_ross_porter_don_drysdale	Vin Scully\nRoss Porter\nDon Drysdale	vin|scully|ross|porter|don|drysdale	Vin|Scully|Ross|Porter|Don|Drysdale	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Don Drysdale
+55	3	fb:cell.kwkw_kypa	KWKW\nKYPA	kwkw|kypa	KWKW|KYPA	NNP|NNP	PERSON|PERSON	|				KWKW|KYPA
+55	4	fb:cell.jaime_jarrin_rene_cardenas_richard_choi	Jaime Jarrín\nRené Cárdenas\nRichard Choi	jaime|jarrín|rené|cárdenas|richard|choi	Jaime|Jarrín|René|Cárdenas|Richard|Choi	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|O|O|PERSON|PERSON	|||||				Jaime Jarrín|René Cárdenas|Richard Choi
+55	5	fb:cell.ktla	KTLA	ktla	KTLA	NNP	PERSON					KTLA
+55	6	fb:cell.vin_scully_ross_porter_don_drysdale	Vin Scully\nRoss Porter\nDon Drysdale	vin|scully|ross|porter|don|drysdale	Vin|Scully|Ross|Porter|Don|Drysdale	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Don Drysdale
+55	7	fb:cell.none	None	none	none	NN	O					None
+55	8	fb:cell.none	None	none	none	NN	O					None
+56	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+56	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+56	2	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+56	3	fb:cell.kwkw_kypa	KWKW\nKYPA	kwkw|kypa	KWKW|KYPA	NNP|NNP	PERSON|PERSON	|				KWKW|KYPA
+56	4	fb:cell.jaime_jarrin_rene_cardenas_richard_choi	Jaime Jarrín\nRené Cárdenas\nRichard Choi	jaime|jarrín|rené|cárdenas|richard|choi	Jaime|Jarrín|René|Cárdenas|Richard|Choi	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|O|O|PERSON|PERSON	|||||				Jaime Jarrín|René Cárdenas|Richard Choi
+56	5	fb:cell.ktla	KTLA	ktla	KTLA	NNP	PERSON					KTLA
+56	6	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+56	7	fb:cell.none	None	none	none	NN	O					None
+56	8	fb:cell.none	None	none	none	NN	O					None
+57	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+57	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+57	2	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+57	3	fb:cell.kwkw_kypa	KWKW\nKYPA	kwkw|kypa	KWKW|KYPA	NNP|NNP	PERSON|PERSON	|				KWKW|KYPA
+57	4	fb:cell.jaime_jarrin_rene_cardenas_richard_choi	Jaime Jarrín\nRené Cárdenas\nRichard Choi	jaime|jarrín|rené|cárdenas|richard|choi	Jaime|Jarrín|René|Cárdenas|Richard|Choi	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|O|O|PERSON|PERSON	|||||				Jaime Jarrín|René Cárdenas|Richard Choi
+57	5	fb:cell.ktla	KTLA	ktla	KTLA	NNP	PERSON					KTLA
+57	6	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+57	7	fb:cell.none	None	none	none	NN	O					None
+57	8	fb:cell.none	None	none	none	NN	O					None
+58	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+58	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+58	2	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+58	3	fb:cell.kwkw_kypa	KWKW\nKYPA	kwkw|kypa	KWKW|KYPA	NNP|NNP	PERSON|PERSON	|				KWKW|KYPA
+58	4	fb:cell.jaime_jarrin_rene_cardenas_richard_choi	Jaime Jarrín\nRené Cárdenas\nRichard Choi	jaime|jarrín|rené|cárdenas|richard|choi	Jaime|Jarrín|René|Cárdenas|Richard|Choi	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|O|O|PERSON|PERSON	|||||				Jaime Jarrín|René Cárdenas|Richard Choi
+58	5	fb:cell.ktla	KTLA	ktla	KTLA	NNP	PERSON					KTLA
+58	6	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+58	7	fb:cell.none	None	none	none	NN	O					None
+58	8	fb:cell.none	None	none	none	NN	O					None
+59	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+59	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+59	2	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+59	3	fb:cell.kwkw_kypa	KWKW\nKYPA	kwkw|kypa	KWKW|KYPA	NNP|NNP	PERSON|PERSON	|				KWKW|KYPA
+59	4	fb:cell.jaime_jarrin_rene_cardenas_richard_choi	Jaime Jarrín\nRené Cárdenas\nRichard Choi	jaime|jarrín|rené|cárdenas|richard|choi	Jaime|Jarrín|René|Cárdenas|Richard|Choi	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|O|O|PERSON|PERSON	|||||				Jaime Jarrín|René Cárdenas|Richard Choi
+59	5	fb:cell.ktla	KTLA	ktla	KTLA	NNP	PERSON					KTLA
+59	6	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+59	7	fb:cell.fox_sports_west_2	Fox Sports West 2	fox|sports|west|2	Fox|Sports|West|2	NNP|NNP|NNP|CD	ORGANIZATION|ORGANIZATION|ORGANIZATION|NUMBER	|||2.0	2.0			
+59	8	fb:cell.vin_scully_ross_porter	Vin Scully\nRoss Porter	vin|scully|ross|porter	Vin|Scully|Ross|Porter	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Ross Porter
+60	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+60	1	fb:cell.kxta	KXTA	kxta	KXTA	NNP	PERSON					
+60	2	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+60	3	fb:cell.kwkw_kypa	KWKW\nKYPA	kwkw|kypa	KWKW|KYPA	NNP|NNP	PERSON|PERSON	|				KWKW|KYPA
+60	4	fb:cell.jaime_jarrin_rene_cardenas_pepe_yniguez_richard_choi	Jaime Jarrín\nRené Cárdenas\nPepe Yñiguez\nRichard Choi	jaime|jarrín|rené|cárdenas|pepe|yñiguez|richard|choi	Jaime|Jarrín|René|Cárdenas|Pepe|Yñiguez|Richard|Choi	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||||				Jaime Jarrín|René Cárdenas|Pepe Yñiguez|Richard Choi
+60	5	fb:cell.ktla	KTLA	ktla	KTLA	NNP	PERSON					KTLA
+60	6	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+60	7	fb:cell.fox_sports_west_2	Fox Sports West 2	fox|sports|west|2	Fox|Sports|West|2	NNP|NNP|NNP|CD	ORGANIZATION|ORGANIZATION|ORGANIZATION|NUMBER	|||2.0	2.0			
+60	8	fb:cell.vin_scully_ross_porter	Vin Scully\nRoss Porter	vin|scully|ross|porter	Vin|Scully|Ross|Porter	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Vin Scully|Ross Porter
+61	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+61	1	fb:cell.kxta	KXTA	kxta	KXTA	NNP	PERSON					
+61	2	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+61	3	fb:cell.kwkw_kypa	KWKW\nKYPA	kwkw|kypa	KWKW|KYPA	NNP|NNP	PERSON|PERSON	|				KWKW|KYPA
+61	4	fb:cell.jaime_jarrin_pepe_yniguez_richard_choi	Jaime Jarrín\nPepe Yñiguez\nRichard Choi	jaime|jarrín|pepe|yñiguez|richard|choi	Jaime|Jarrín|Pepe|Yñiguez|Richard|Choi	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|Pepe Yñiguez|Richard Choi
+61	5	fb:cell.ktla	KTLA	ktla	KTLA	NNP	PERSON					KTLA
+61	6	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+61	7	fb:cell.fs_net_west_2	FS Net West 2	fs|net|west|2	f|net|west|2	NNS|JJ|NN|CD	O|O|O|NUMBER	|||2.0	2.0			
+61	8	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+62	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+62	1	fb:cell.kxta	KXTA	kxta	KXTA	NNP	PERSON					
+62	2	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+62	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+62	4	fb:cell.jaime_jarrin_pepe_yniguez	Jaime Jarrín\nPepe Yñiguez	jaime|jarrín|pepe|yñiguez	Jaime|Jarrín|Pepe|Yñiguez	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Pepe Yñiguez
+62	5	fb:cell.ktla	KTLA	ktla	KTLA	NNP	PERSON					KTLA
+62	6	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+62	7	fb:cell.fsn_west_2	FSN West 2	fsn|west|2	FSN|West|2	NNP|NNP|CD	ORGANIZATION|ORGANIZATION|NUMBER	||2.0	2.0			
+62	8	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+63	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+63	1	fb:cell.kxta	KXTA	kxta	KXTA	NNP	PERSON					
+63	2	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+63	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+63	4	fb:cell.jaime_jarrin_pepe_yniguez	Jaime Jarrín\nPepe Yñiguez	jaime|jarrín|pepe|yñiguez	Jaime|Jarrín|Pepe|Yñiguez	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Pepe Yñiguez
+63	5	fb:cell.ktla	KTLA	ktla	KTLA	NNP	PERSON					KTLA
+63	6	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+63	7	fb:cell.fsn_west_2	FSN West 2	fsn|west|2	FSN|West|2	NNP|NNP|CD	ORGANIZATION|ORGANIZATION|NUMBER	||2.0	2.0			
+63	8	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+64	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+64	1	fb:cell.kxta	KXTA	kxta	KXTA	NNP	PERSON					
+64	2	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+64	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+64	4	fb:cell.jaime_jarrin_pepe_yniguez	Jaime Jarrín\nPepe Yñiguez	jaime|jarrín|pepe|yñiguez	Jaime|Jarrín|Pepe|Yñiguez	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Pepe Yñiguez
+64	5	fb:cell.kcop	KCOP	kcop	KCOP	NNP	PERSON					KCOP
+64	6	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+64	7	fb:cell.fsn_west_2	FSN West 2	fsn|west|2	FSN|West|2	NNP|NNP|CD	ORGANIZATION|ORGANIZATION|NUMBER	||2.0	2.0			
+64	8	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+65	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+65	1	fb:cell.kfwb	KFWB	kfwb	KFWB	NNP	PERSON					
+65	2	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+65	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+65	4	fb:cell.jaime_jarrin_pepe_yniguez	Jaime Jarrín\nPepe Yñiguez	jaime|jarrín|pepe|yñiguez	Jaime|Jarrín|Pepe|Yñiguez	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jaime Jarrín|Pepe Yñiguez
+65	5	fb:cell.kcop	KCOP	kcop	KCOP	NNP	PERSON					KCOP
+65	6	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+65	7	fb:cell.fsn_west_2	FSN West 2	fsn|west|2	FSN|West|2	NNP|NNP|CD	ORGANIZATION|ORGANIZATION|NUMBER	||2.0	2.0			
+65	8	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+66	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+66	1	fb:cell.kfwb	KFWB	kfwb	KFWB	NNP	PERSON					
+66	2	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+66	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+66	4	fb:cell.jaime_jarrin_pepe_yniguez_fernando_valenzuela	Jaime Jarrín\nPepe Yñiguez\nFernando Valenzuela	jaime|jarrín|pepe|yñiguez|fernando|valenzuela	Jaime|Jarrín|Pepe|Yñiguez|Fernando|Valenzuela	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|Pepe Yñiguez|Fernando Valenzuela
+66	5	fb:cell.kcop	KCOP	kcop	KCOP	NNP	PERSON					KCOP
+66	6	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+66	7	fb:cell.fsn_west_2	FSN West 2	fsn|west|2	FSN|West|2	NNP|NNP|CD	ORGANIZATION|ORGANIZATION|NUMBER	||2.0	2.0			
+66	8	fb:cell.vin_scully_ross_porter_rick_monday	Vin Scully\nRoss Porter\nRick Monday	vin|scully|ross|porter|rick|monday	Vin|Scully|Ross|Porter|Rick|Monday	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Ross Porter|Rick Monday
+67	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+67	1	fb:cell.kfwb	KFWB	kfwb	KFWB	NNP	PERSON					
+67	2	fb:cell.vin_scully_rick_monday_charley_steiner_al_downing	Vin Scully\nRick Monday\nCharley Steiner\nAl Downing	vin|scully|rick|monday|charley|steiner|al|downing	Vin|Scully|Rick|Monday|Charley|Steiner|Al|Downing	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|DATE|PERSON|PERSON|PERSON|PERSON	|||XXXX-WXX-1||||				Vin Scully|Rick Monday|Charley Steiner|Al Downing
+67	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+67	4	fb:cell.jaime_jarrin_pepe_yniguez_fernando_valenzuela	Jaime Jarrín\nPepe Yñiguez\nFernando Valenzuela	jaime|jarrín|pepe|yñiguez|fernando|valenzuela	Jaime|Jarrín|Pepe|Yñiguez|Fernando|Valenzuela	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|Pepe Yñiguez|Fernando Valenzuela
+67	5	fb:cell.kcop_kcal	KCOP\nKCAL	kcop|kcal	KCOP|KCAL	NNP|NNP	PERSON|PERSON	|				KCOP|KCAL
+67	6	fb:cell.vin_scully_rick_monday_charley_steiner_steve_lyons	Vin Scully\nRick Monday\nCharley Steiner\nSteve Lyons	vin|scully|rick|monday|charley|steiner|steve|lyons	Vin|Scully|Rick|Monday|Charley|Steiner|Steve|Lyons	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|DATE|PERSON|PERSON|PERSON|PERSON	|||XXXX-WXX-1||||				Vin Scully|Rick Monday|Charley Steiner|Steve Lyons
+67	7	fb:cell.fsn_west_2	FSN West 2	fsn|west|2	FSN|West|2	NNP|NNP|CD	ORGANIZATION|ORGANIZATION|NUMBER	||2.0	2.0			
+67	8	fb:cell.vin_scully_rick_monday_charley_steiner_steve_lyons	Vin Scully\nRick Monday\nCharley Steiner\nSteve Lyons	vin|scully|rick|monday|charley|steiner|steve|lyons	Vin|Scully|Rick|Monday|Charley|Steiner|Steve|Lyons	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|DATE|PERSON|PERSON|PERSON|PERSON	|||XXXX-WXX-1||||				Vin Scully|Rick Monday|Charley Steiner|Steve Lyons
+68	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+68	1	fb:cell.kfwb	KFWB	kfwb	KFWB	NNP	PERSON					
+68	2	fb:cell.vin_scully_rick_monday_charley_steiner_jerry_reuss	Vin Scully\nRick Monday\nCharley Steiner\nJerry Reuss	vin|scully|rick|monday|charley|steiner|jerry|reuss	Vin|Scully|Rick|Monday|Charley|Steiner|Jerry|Reuss	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|DATE|PERSON|PERSON|PERSON|PERSON	|||XXXX-WXX-1||||				Vin Scully|Rick Monday|Charley Steiner|Jerry Reuss
+68	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+68	4	fb:cell.jaime_jarrin_pepe_yniguez_fernando_valenzuela	Jaime Jarrín\nPepe Yñiguez\nFernando Valenzuela	jaime|jarrín|pepe|yñiguez|fernando|valenzuela	Jaime|Jarrín|Pepe|Yñiguez|Fernando|Valenzuela	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|Pepe Yñiguez|Fernando Valenzuela
+68	5	fb:cell.kcal	KCAL	kcal	KCAL	NNP	PERSON					KCAL
+68	6	fb:cell.vin_scully_charley_steiner_steve_lyons	Vin Scully\nCharley Steiner\nSteve Lyons	vin|scully|charley|steiner|steve|lyons	Vin|Scully|Charley|Steiner|Steve|Lyons	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Charley Steiner|Steve Lyons
+68	7	fb:cell.fsn_west_2	FSN West 2	fsn|west|2	FSN|West|2	NNP|NNP|CD	ORGANIZATION|ORGANIZATION|NUMBER	||2.0	2.0			
+68	8	fb:cell.vin_scully_charley_steiner_steve_lyons	Vin Scully\nCharley Steiner\nSteve Lyons	vin|scully|charley|steiner|steve|lyons	Vin|Scully|Charley|Steiner|Steve|Lyons	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Charley Steiner|Steve Lyons
+69	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+69	1	fb:cell.kfwb	KFWB	kfwb	KFWB	NNP	PERSON					
+69	2	fb:cell.vin_scully_rick_monday_charley_steiner	Vin Scully\nRick Monday\nCharley Steiner	vin|scully|rick|monday|charley|steiner	Vin|Scully|Rick|Monday|Charley|Steiner	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|DATE|PERSON|PERSON	|||XXXX-WXX-1||				Vin Scully|Rick Monday|Charley Steiner
+69	3	fb:cell.kwkw	KWKW	kwkw	KWKW	NNP	PERSON					KWKW
+69	4	fb:cell.jaime_jarrin_pepe_yniguez_fernando_valenzuela	Jaime Jarrín\nPepe Yñiguez\nFernando Valenzuela	jaime|jarrín|pepe|yñiguez|fernando|valenzuela	Jaime|Jarrín|Pepe|Yñiguez|Fernando|Valenzuela	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|Pepe Yñiguez|Fernando Valenzuela
+69	5	fb:cell.kcal	KCAL	kcal	KCAL	NNP	PERSON					KCAL
+69	6	fb:cell.vin_scully_charley_steiner_steve_lyons	Vin Scully\nCharley Steiner\nSteve Lyons	vin|scully|charley|steiner|steve|lyons	Vin|Scully|Charley|Steiner|Steve|Lyons	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Charley Steiner|Steve Lyons
+69	7	fb:cell.fsn_primeticket	FSN PrimeTicket	fsn|primeticket	FSN|PrimeTicket	NNP|NNP	PERSON|PERSON	|				
+69	8	fb:cell.vin_scully_charley_steiner_steve_lyons	Vin Scully\nCharley Steiner\nSteve Lyons	vin|scully|charley|steiner|steve|lyons	Vin|Scully|Charley|Steiner|Steve|Lyons	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Charley Steiner|Steve Lyons
+70	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+70	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+70	2	fb:cell.vin_scully_rick_monday_charley_steiner	Vin Scully\nRick Monday\nCharley Steiner	vin|scully|rick|monday|charley|steiner	Vin|Scully|Rick|Monday|Charley|Steiner	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|DATE|PERSON|PERSON	|||XXXX-WXX-1||				Vin Scully|Rick Monday|Charley Steiner
+70	3	fb:cell.khj	KHJ	khj	KHJ	NNP	PERSON					KHJ
+70	4	fb:cell.jaime_jarrin_pepe_yniguez_fernando_valenzuela	Jaime Jarrín\nPepe Yñiguez\nFernando Valenzuela	jaime|jarrín|pepe|yñiguez|fernando|valenzuela	Jaime|Jarrín|Pepe|Yñiguez|Fernando|Valenzuela	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|Pepe Yñiguez|Fernando Valenzuela
+70	5	fb:cell.kcal	KCAL	kcal	KCAL	NNP	PERSON					KCAL
+70	6	fb:cell.vin_scully_charley_steiner_steve_lyons	Vin Scully\nCharley Steiner\nSteve Lyons	vin|scully|charley|steiner|steve|lyons	Vin|Scully|Charley|Steiner|Steve|Lyons	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Charley Steiner|Steve Lyons
+70	7	fb:cell.fsn_primeticket	FSN PrimeTicket	fsn|primeticket	FSN|PrimeTicket	NNP|NNP	PERSON|PERSON	|				
+70	8	fb:cell.vin_scully_charley_steiner_steve_lyons	Vin Scully\nCharley Steiner\nSteve Lyons	vin|scully|charley|steiner|steve|lyons	Vin|Scully|Charley|Steiner|Steve|Lyons	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Charley Steiner|Steve Lyons
+71	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+71	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+71	2	fb:cell.vin_scully_rick_monday_charley_steiner	Vin Scully\nRick Monday\nCharley Steiner	vin|scully|rick|monday|charley|steiner	Vin|Scully|Rick|Monday|Charley|Steiner	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|DATE|PERSON|PERSON	|||XXXX-WXX-1||				Vin Scully|Rick Monday|Charley Steiner
+71	3	fb:cell.khj	KHJ	khj	KHJ	NNP	PERSON					KHJ
+71	4	fb:cell.jaime_jarrin_pepe_yniguez_fernando_valenzuela	Jaime Jarrín\nPepe Yñiguez\nFernando Valenzuela	jaime|jarrín|pepe|yñiguez|fernando|valenzuela	Jaime|Jarrín|Pepe|Yñiguez|Fernando|Valenzuela	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|Pepe Yñiguez|Fernando Valenzuela
+71	5	fb:cell.kcal	KCAL	kcal	KCAL	NNP	PERSON					KCAL
+71	6	fb:cell.vin_scully_steve_lyons_eric_collins	Vin Scully\nSteve Lyons\nEric Collins	vin|scully|steve|lyons|eric|collins	Vin|Scully|Steve|Lyons|Eric|Collins	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Steve Lyons|Eric Collins
+71	7	fb:cell.fsn_primeticket	FSN PrimeTicket	fsn|primeticket	FSN|PrimeTicket	NNP|NNP	PERSON|PERSON	|				
+71	8	fb:cell.vin_scully_steve_lyons_eric_collins	Vin Scully\nSteve Lyons\nEric Collins	vin|scully|steve|lyons|eric|collins	Vin|Scully|Steve|Lyons|Eric|Collins	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Steve Lyons|Eric Collins
+72	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+72	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+72	2	fb:cell.vin_scully_rick_monday_charley_steiner	Vin Scully\nRick Monday\nCharley Steiner	vin|scully|rick|monday|charley|steiner	Vin|Scully|Rick|Monday|Charley|Steiner	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|DATE|PERSON|PERSON	|||XXXX-WXX-1||				Vin Scully|Rick Monday|Charley Steiner
+72	3	fb:cell.khj	KHJ	khj	KHJ	NNP	PERSON					KHJ
+72	4	fb:cell.jaime_jarrin_pepe_yniguez_fernando_valenzuela	Jaime Jarrín\nPepe Yñiguez\nFernando Valenzuela	jaime|jarrín|pepe|yñiguez|fernando|valenzuela	Jaime|Jarrín|Pepe|Yñiguez|Fernando|Valenzuela	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|Pepe Yñiguez|Fernando Valenzuela
+72	5	fb:cell.kcal	KCAL	kcal	KCAL	NNP	PERSON					KCAL
+72	6	fb:cell.vin_scully_steve_lyons_eric_collins	Vin Scully\nSteve Lyons\nEric Collins	vin|scully|steve|lyons|eric|collins	Vin|Scully|Steve|Lyons|Eric|Collins	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Steve Lyons|Eric Collins
+72	7	fb:cell.fsn_primeticket	FSN PrimeTicket	fsn|primeticket	FSN|PrimeTicket	NNP|NNP	PERSON|PERSON	|				
+72	8	fb:cell.vin_scully_steve_lyons_eric_collins_spanish_broadcasts_manny_mota	Vin Scully\nSteve Lyons\nEric Collins\nSpanish Broadcasts:\nManny Mota	vin|scully|steve|lyons|eric|collins|spanish|broadcasts|:|manny|mota	Vin|Scully|Steve|Lyons|Eric|Collins|Spanish|broadcast|:|Manny|Mota	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNS|:|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|O|O|O|PERSON|PERSON	||||||||||				Vin Scully|Steve Lyons|Eric Collins|Spanish Broadcasts:|Manny Mota
+73	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+73	1	fb:cell.kabc	KABC	kabc	KABC	NNP	ORGANIZATION					
+73	2	fb:cell.vin_scully_rick_monday_charley_steiner	Vin Scully\nRick Monday\nCharley Steiner	vin|scully|rick|monday|charley|steiner	Vin|Scully|Rick|Monday|Charley|Steiner	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|DATE|PERSON|PERSON	|||XXXX-WXX-1||				Vin Scully|Rick Monday|Charley Steiner
+73	3	fb:cell.ktnq	KTNQ	ktnq	KTNQ	NNP	PERSON					KTNQ
+73	4	fb:cell.jaime_jarrin_pepe_yniguez_fernando_valenzuela	Jaime Jarrín\nPepe Yñiguez\nFernando Valenzuela	jaime|jarrín|pepe|yñiguez|fernando|valenzuela	Jaime|Jarrín|Pepe|Yñiguez|Fernando|Valenzuela	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|Pepe Yñiguez|Fernando Valenzuela
+73	5	fb:cell.kcal	KCAL	kcal	KCAL	NNP	PERSON					KCAL
+73	6	fb:cell.vin_scully_steve_lyons_eric_collins	Vin Scully\nSteve Lyons\nEric Collins	vin|scully|steve|lyons|eric|collins	Vin|Scully|Steve|Lyons|Eric|Collins	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Steve Lyons|Eric Collins
+73	7	fb:cell.fsn_primeticket	FSN PrimeTicket	fsn|primeticket	FSN|PrimeTicket	NNP|NNP	PERSON|PERSON	|				
+73	8	fb:cell.vin_scully_steve_lyons_eric_collins_spanish_broadcasts_manny_mota	Vin Scully\nSteve Lyons\nEric Collins\nSpanish Broadcasts:\nManny Mota	vin|scully|steve|lyons|eric|collins|spanish|broadcasts|:|manny|mota	Vin|Scully|Steve|Lyons|Eric|Collins|Spanish|broadcast|:|Manny|Mota	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNS|:|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|O|O|O|PERSON|PERSON	||||||||||				Vin Scully|Steve Lyons|Eric Collins|Spanish Broadcasts:|Manny Mota
+74	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+74	1	fb:cell.klac	KLAC	klac	KLAC	NNP	PERSON					
+74	2	fb:cell.vin_scully_rick_monday_charley_steiner	Vin Scully\nRick Monday\nCharley Steiner	vin|scully|rick|monday|charley|steiner	Vin|Scully|Rick|Monday|Charley|Steiner	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|DATE|PERSON|PERSON	|||XXXX-WXX-1||				Vin Scully|Rick Monday|Charley Steiner
+74	3	fb:cell.ktnq	KTNQ	ktnq	KTNQ	NNP	PERSON					KTNQ
+74	4	fb:cell.jaime_jarrin_pepe_yniguez_fernando_valenzuela	Jaime Jarrín\nPepe Yñiguez\nFernando Valenzuela	jaime|jarrín|pepe|yñiguez|fernando|valenzuela	Jaime|Jarrín|Pepe|Yñiguez|Fernando|Valenzuela	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|Pepe Yñiguez|Fernando Valenzuela
+74	5	fb:cell.kcal	KCAL	kcal	KCAL	NNP	PERSON					KCAL
+74	6	fb:cell.vin_scully_steve_lyons_eric_collins	Vin Scully\nSteve Lyons\nEric Collins	vin|scully|steve|lyons|eric|collins	Vin|Scully|Steve|Lyons|Eric|Collins	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Steve Lyons|Eric Collins
+74	7	fb:cell.fsn_primeticket	FSN PrimeTicket	fsn|primeticket	FSN|PrimeTicket	NNP|NNP	PERSON|PERSON	|				
+74	8	fb:cell.vin_scully_steve_lyons_eric_collins_spanish_broadcasts_manny_mota_jorge_jarrin	Vin Scully\nSteve Lyons\nEric Collins\nSpanish Broadcasts:\nManny Mota\nJorge Jarrin	vin|scully|steve|lyons|eric|collins|spanish|broadcasts|:|manny|mota|jorge|jarrin	Vin|Scully|Steve|Lyons|Eric|Collins|Spanish|broadcast|:|Manny|Mota|Jorge|Jarrin	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNS|:|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|O|O|O|PERSON|PERSON|PERSON|PERSON	||||||||||||				Vin Scully|Steve Lyons|Eric Collins|Spanish Broadcasts:|Manny Mota|Jorge Jarrin
+75	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+75	1	fb:cell.klac	KLAC	klac	KLAC	NNP	PERSON					
+75	2	fb:cell.vin_scully_rick_monday_charley_steiner	Vin Scully\nRick Monday\nCharley Steiner	vin|scully|rick|monday|charley|steiner	Vin|Scully|Rick|Monday|Charley|Steiner	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|DATE|PERSON|PERSON	|||XXXX-WXX-1||				Vin Scully|Rick Monday|Charley Steiner
+75	3	fb:cell.ktnq	KTNQ	ktnq	KTNQ	NNP	PERSON					KTNQ
+75	4	fb:cell.jaime_jarrin_pepe_yniguez_fernando_valenzuela	Jaime Jarrín\nPepe Yñiguez\nFernando Valenzuela	jaime|jarrín|pepe|yñiguez|fernando|valenzuela	Jaime|Jarrín|Pepe|Yñiguez|Fernando|Valenzuela	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|Pepe Yñiguez|Fernando Valenzuela
+75	5	fb:cell.kcal	KCAL	kcal	KCAL	NNP	PERSON					KCAL
+75	6	fb:cell.vin_scully_steve_lyons_eric_collins	Vin Scully\nSteve Lyons\nEric Collins	vin|scully|steve|lyons|eric|collins	Vin|Scully|Steve|Lyons|Eric|Collins	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Vin Scully|Steve Lyons|Eric Collins
+75	7	fb:cell.fsn_primeticket	FSN PrimeTicket	fsn|primeticket	FSN|PrimeTicket	NNP|NNP	PERSON|PERSON	|				
+75	8	fb:cell.vin_scully_steve_lyons_eric_collins_spanish_broadcasts_manny_mota_jorge_jarrin	Vin Scully\nSteve Lyons\nEric Collins\nSpanish Broadcasts:\nManny Mota\nJorge Jarrin	vin|scully|steve|lyons|eric|collins|spanish|broadcasts|:|manny|mota|jorge|jarrin	Vin|Scully|Steve|Lyons|Eric|Collins|Spanish|broadcast|:|Manny|Mota|Jorge|Jarrin	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNS|:|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|O|O|O|PERSON|PERSON|PERSON|PERSON	||||||||||||				Vin Scully|Steve Lyons|Eric Collins|Spanish Broadcasts:|Manny Mota|Jorge Jarrin
+76	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+76	1	fb:cell.klac	KLAC	klac	KLAC	NNP	PERSON					
+76	2	fb:cell.vin_scully_charley_steiner_rick_monday_nomar_garciaparra	Vin Scully\nCharley Steiner\nRick Monday\nNomar Garciaparra	vin|scully|charley|steiner|rick|monday|nomar|garciaparra	Vin|Scully|Charley|Steiner|Rick|Monday|Nomar|Garciaparra	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|DATE|PERSON|PERSON	|||||XXXX-WXX-1||				Vin Scully|Charley Steiner|Rick Monday|Nomar Garciaparra
+76	3	fb:cell.ktnq	KTNQ	ktnq	KTNQ	NNP	PERSON					KTNQ
+76	4	fb:cell.jaime_jarrin_pepe_yniguez_fernando_valenzuela	Jaime Jarrín\nPepe Yñiguez\nFernando Valenzuela	jaime|jarrín|pepe|yñiguez|fernando|valenzuela	Jaime|Jarrín|Pepe|Yñiguez|Fernando|Valenzuela	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jaime Jarrín|Pepe Yñiguez|Fernando Valenzuela
+76	5	fb:cell.none	None	none	none	NN	O					None
+76	6	fb:cell.none	None	none	none	NN	O					None
+76	7	fb:cell.sportsnet_la	SportsNet LA	sportsnet|la	SportsNet|LA	NNP|NNP	PERSON|PERSON	|				
+76	8	fb:cell.vin_scully_charley_steiner_orel_hershiser_spanish_broadcasts_manny_mota_jorge_jarrin	Vin Scully\nCharley Steiner\nOrel Hershiser\nSpanish Broadcasts:\nManny Mota\nJorge Jarrin	vin|scully|charley|steiner|orel|hershiser|spanish|broadcasts|:|manny|mota|jorge|jarrin	Vin|Scully|Charley|Steiner|Orel|Hershiser|Spanish|broadcast|:|Manny|Mota|Jorge|Jarrin	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNS|:|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|MISC|O|O|PERSON|PERSON|PERSON|PERSON	||||||||||||				Vin Scully|Charley Steiner|Orel Hershiser|Spanish Broadcasts:|Manny Mota|Jorge Jarrin

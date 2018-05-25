@@ -1,0 +1,201 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.contestant	Contestant	contestant	contestant	NN	O					
+-1	1	fb:row.row.original_tribe	Original\nTribe	original|tribe	original|tribe	JJ|NN	O|O	|				
+-1	2	fb:row.row.first_switch	First\nSwitch	first|switch	first|switch	JJ|NN	ORDINAL|O	1.0|				
+-1	3	fb:row.row.second_switch	Second\nSwitch	second|switch	second|switch	JJ|NN	ORDINAL|O	2.0|				
+-1	4	fb:row.row.merged_tribe	Merged\nTribe	merged|tribe	merged|tribe	JJ|NN	O|O	|				
+-1	5	fb:row.row.finish	Finish	finish	finish	NN	O					
+-1	6	fb:row.row.ghost_island	Ghost\nIsland	ghost|island	ghost|island	NN|NN	O|O	|				
+-1	7	fb:row.row.total_votes	Total\nVotes	total|votes	total|vote	JJ|NNS	O|O	|				
+0	0	fb:cell.branka_cudanov_28_kikinda	Branka Čudanov\n28, Kikinda	branka|čudanov|28|,|kikinda	Branka|Čudanov|28|,|Kikinda	NNP|NNP|CD|,|NNP	PERSON|PERSON|NUMBER|O|PERSON	||28.0||	28.0			Branka Čudanov|28|Kikinda
+0	1	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+0	2	fb:cell.null										
+0	3	fb:cell.null										
+0	4	fb:cell.null										
+0	5	fb:cell.2nd_voted_out_day_7	2nd Voted Out\nDay 7	2nd|voted|out|day|7	2nd|vote|out|day|7	JJ|VBD|RP|NN|CD	ORDINAL|O|O|DURATION|NUMBER	2.0|||P1D|7.0	2.0		7.0	2nd Voted Out|Day 7
+0	6	fb:cell.1st_eliminated_day_9	1st Eliminated\nDay 9	1st|eliminated|day|9	1st|eliminate|day|9	JJ|VBN|NN|CD	ORDINAL|O|DURATION|NUMBER	1.0||P1D|9.0	1.0		9.0	1st Eliminated|Day 9
+0	7	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			
+1	0	fb:cell.gordana_berger_38_belgrade	Gordana Berger\n38, Belgrade	gordana|berger|38|,|belgrade	Gordana|Berger|38|,|Belgrade	NNP|NNP|CD|,|NNP	PERSON|PERSON|NUMBER|O|LOCATION	||38.0||	38.0			Gordana Berger|38|Belgrade
+1	1	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+1	2	fb:cell.null										
+1	3	fb:cell.null										
+1	4	fb:cell.null										
+1	5	fb:cell.1st_voted_out_day_4	1st Voted Out\nDay 4	1st|voted|out|day|4	1st|vote|out|day|4	JJ|VBD|RP|NN|CD	ORDINAL|O|O|DURATION|NUMBER	1.0|||P1D|4.0	1.0		4.0	1st Voted Out|Day 4
+1	6	fb:cell.2nd_eliminated_day_12	2nd Eliminated\nDay 12	2nd|eliminated|day|12	2nd|eliminate|day|12	JJ|VBN|NN|CD	ORDINAL|O|DURATION|NUMBER	2.0||P1D|12.0	2.0		12.0	2nd Eliminated|Day 12
+1	7	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+2	0	fb:cell.ana_mitric_23_belgrade	Ana Mitrić\n23, Belgrade	ana|mitrić|23|,|belgrade	Ana|Mitrić|23|,|Belgrade	NNP|NNP|CD|,|NNP	PERSON|PERSON|NUMBER|O|LOCATION	||23.0||	23.0			Ana Mitrić|23|Belgrade
+2	1	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+2	2	fb:cell.null										
+2	3	fb:cell.null										
+2	4	fb:cell.null										
+2	5	fb:cell.3rd_voted_out_day_10	3rd Voted Out\nDay 10	3rd|voted|out|day|10	3rd|vote|out|day|10	JJ|VBD|RP|NN|CD	ORDINAL|O|O|DURATION|NUMBER	3.0|||P1D|10.0	3.0		10.0	3rd Voted Out|Day 10
+2	6	fb:cell.3rd_eliminated_day_15	3rd Eliminated\nDay 15	3rd|eliminated|day|15	3rd|eliminate|day|15	JJ|VBN|NN|CD	ORDINAL|O|DURATION|NUMBER	3.0||P1D|15.0	3.0		15.0	3rd Eliminated|Day 15
+2	7	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+3	0	fb:cell.milena_vitanovic_21_paracin	Milena Vitanović\n21, Paraćin	milena|vitanović|21|,|paraćin	Milena|Vitanović|21|,|Paraćin	NNP|NNP|CD|,|NNP	PERSON|PERSON|NUMBER|O|PERSON	||21.0||	21.0			Milena Vitanović|21|Paraćin
+3	1	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+3	2	fb:cell.null										
+3	3	fb:cell.null										
+3	4	fb:cell.null										
+3	5	fb:cell.4th_voted_out_day_13	4th Voted Out\nDay 13	4th|voted|out|day|13	4th|vote|out|day|13	JJ|VBD|RP|NN|CD	ORDINAL|O|O|DURATION|NUMBER	4.0|||P1D|13.0	4.0		13.0	4th Voted Out|Day 13
+3	6	fb:cell.4th_eliminated_day_18	4th Eliminated\nDay 18	4th|eliminated|day|18	4th|eliminate|day|18	JJ|VBN|NN|CD	ORDINAL|O|DURATION|NUMBER	4.0||P1D|18.0	4.0		18.0	4th Eliminated|Day 18
+3	7	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+4	0	fb:cell.nikola_kovacevic_returned_to_game_from_ghost_island	Nikola Kovačević\nReturned to game from Ghost Island	nikola|kovačević|returned|to|game|from|ghost|island	Nikola|Kovačević|return|to|game|from|ghost|island	NNP|NNP|VBD|TO|NN|IN|NN|NN	PERSON|PERSON|O|O|O|O|LOCATION|LOCATION	|||||||				Nikola Kovačević|Returned to game from Ghost Island
+4	1	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+4	2	fb:cell.null										
+4	3	fb:cell.null										
+4	4	fb:cell.null										
+4	5	fb:cell.5th_voted_out_day_16	5th Voted Out\nDay 16	5th|voted|out|day|16	5th|vote|out|day|16	JJ|VBD|RP|NN|CD	ORDINAL|O|O|DURATION|NUMBER	5.0|||P1D|16.0	5.0		16.0	5th Voted Out|Day 16
+4	6	fb:cell.ghost_island_winner_day_32	Ghost Island Winner\nDay 32	ghost|island|winner|day|32	ghost|island|winner|day|32	NN|NN|NN|NN|CD	O|O|O|DURATION|NUMBER	|||P1D|32.0	32.0			Ghost Island Winner|Day 32
+4	7	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+5	0	fb:cell.branislava_bogdanovic_27_kacarevo	Branislava Bogdanović\n27, Kačarevo	branislava|bogdanović|27|,|kačarevo	Branislava|Bogdanović|27|,|Kačarevo	NNP|NNP|CD|,|NNP	PERSON|PERSON|NUMBER|O|PERSON	||27.0||	27.0			Branislava Bogdanović|27|Kačarevo
+5	1	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+5	2	fb:cell.null										
+5	3	fb:cell.null										
+5	4	fb:cell.null										
+5	5	fb:cell.eliminated_in_a_twist_day_17	Eliminated in a twist\nDay 17	eliminated|in|a|twist|day|17	eliminate|in|a|twist|day|17	VBN|IN|DT|NN|NN|CD	O|O|O|O|DURATION|NUMBER	||||P1D|17.0	17.0			Eliminated in a twist|Day 17
+5	6	fb:cell.5th_eliminated_day_18	5th Eliminated\nDay 18	5th|eliminated|day|18	5th|eliminate|day|18	JJ|VBN|NN|CD	ORDINAL|O|DURATION|NUMBER	5.0||P1D|18.0	5.0		18.0	5th Eliminated|Day 18
+5	7	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+6	0	fb:cell.pece_kotevski_42_bitola_macedonia	Pece Kotevski\n42, Bitola, Macedonia	pece|kotevski|42|,|bitola|,|macedonia	Pece|Kotevski|42|,|Bitola|,|Macedonia	NNP|NNP|CD|,|NNP|,|NNP	PERSON|PERSON|NUMBER|O|LOCATION|O|LOCATION	||42.0||||	42.0			Pece Kotevski|42|Bitola|Macedonia
+6	1	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+6	2	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+6	3	fb:cell.null										
+6	4	fb:cell.null										
+6	5	fb:cell.6th_voted_out_day_19	6th Voted Out\nDay 19	6th|voted|out|day|19	6th|vote|out|day|19	JJ|VBD|RP|NN|CD	ORDINAL|O|O|DURATION|NUMBER	6.0|||P1D|19.0	6.0		19.0	6th Voted Out|Day 19
+6	6	fb:cell.6th_eliminated_day_21	6th Eliminated\nDay 21	6th|eliminated|day|21	6th|eliminate|day|21	JJ|VBN|NN|CD	ORDINAL|O|DURATION|NUMBER	6.0||P1D|21.0	6.0		21.0	6th Eliminated|Day 21
+6	7	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+7	0	fb:cell.predrag_veljkovic_29_pekcanica_near_kraljevo	Predrag Veljković\n29, Pekčanica, near Kraljevo	predrag|veljković|29|,|pekčanica|,|near|kraljevo	Predrag|Veljković|29|,|Pekčanica|,|near|Kraljevo	NNP|NNP|CD|,|NNP|,|IN|NNP	PERSON|PERSON|NUMBER|O|LOCATION|O|O|LOCATION	||29.0|||||	29.0			Predrag Veljković|29|Pekčanica|near Kraljevo
+7	1	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+7	2	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+7	3	fb:cell.null										
+7	4	fb:cell.null										
+7	5	fb:cell.quit_day_22	Quit\nDay 22	quit|day|22	quit|day|22	VB|NN|CD	O|DURATION|NUMBER	|P1D|22.0	22.0			Quit|Day 22
+7	6	fb:cell.7th_eliminated_day_24	7th Eliminated\nDay 24	7th|eliminated|day|24	7th|eliminate|day|24	JJ|VBN|NN|CD	ORDINAL|O|DURATION|NUMBER	7.0||P1D|24.0	7.0		24.0	7th Eliminated|Day 24
+7	7	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+8	0	fb:cell.anita_mazar_23_kula	Anita Mažar\n23, Kula	anita|mažar|23|,|kula	Anita|Mažar|23|,|Kula	NNP|NNP|CD|,|NNP	PERSON|PERSON|NUMBER|O|LOCATION	||23.0||	23.0			Anita Mažar|23|Kula
+8	1	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+8	2	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+8	3	fb:cell.null										
+8	4	fb:cell.null										
+8	5	fb:cell.removed_due_to_injury_day_24	Removed Due to Injury\nDay 24	removed|due|to|injury|day|24	remove|due|to|injury|day|24	VBN|JJ|TO|NN|NN|CD	O|O|O|O|DURATION|NUMBER	||||P1D|24.0	24.0			Removed Due to Injury|Day 24
+8	6	fb:cell.null										
+8	7	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+9	0	fb:cell.aleksandar_boskovic_28_belgrade	Aleksandar Bošković\n28, Belgrade	aleksandar|bošković|28|,|belgrade	Aleksandar|Bošković|28|,|Belgrade	NNP|NNP|CD|,|NNP	PERSON|PERSON|NUMBER|O|LOCATION	||28.0||	28.0			Aleksandar Bošković|28|Belgrade
+9	1	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+9	2	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+9	3	fb:cell.null										
+9	4	fb:cell.null										
+9	5	fb:cell.7th_voted_out_day_25	7th Voted Out\nDay 25	7th|voted|out|day|25	7th|vote|out|day|25	JJ|VBD|RP|NN|CD	ORDINAL|O|O|DURATION|NUMBER	7.0|||P1D|25.0	7.0		25.0	7th Voted Out|Day 25
+9	6	fb:cell.8th_eliminated_day_27	8th Eliminated\nDay 27	8th|eliminated|day|27	8th|eliminate|day|27	JJ|VBN|NN|CD	ORDINAL|O|DURATION|NUMBER	8.0||P1D|27.0	8.0		27.0	8th Eliminated|Day 27
+9	7	fb:cell.4	4	4	4	CD	NUMBER	4.0	4.0			
+10	0	fb:cell.ana_stojanovska_21_skopje_macedonia	Ana Stojanovska\n21, Skopje, Macedonia	ana|stojanovska|21|,|skopje|,|macedonia	Ana|Stojanovska|21|,|Skopje|,|Macedonia	NNP|NNP|CD|,|NNP|,|NNP	PERSON|PERSON|NUMBER|O|LOCATION|O|LOCATION	||21.0||||	21.0			Ana Stojanovska|21|Skopje|Macedonia
+10	1	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+10	2	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+10	3	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+10	4	fb:cell.null										
+10	5	fb:cell.8th_voted_out_day_28	8th Voted Out\nDay 28	8th|voted|out|day|28	8th|vote|out|day|28	JJ|VBD|RP|NN|CD	ORDINAL|O|O|DURATION|NUMBER	8.0|||P1D|28.0	8.0		28.0	8th Voted Out|Day 28
+10	6	fb:cell.9th_eliminated_day_30	9th Eliminated\nDay 30	9th|eliminated|day|30	9th|eliminate|day|30	JJ|VBN|NN|CD	ORDINAL|O|DURATION|NUMBER	9.0||P1D|30.0	9.0		30.0	9th Eliminated|Day 30
+10	7	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+11	0	fb:cell.luka_rajacic_21_belgrade	Luka Rajačić\n21, Belgrade	luka|rajačić|21|,|belgrade	luka|rajačić|21|,|Belgrade	NN|NN|CD|,|NNP	PERSON|PERSON|NUMBER|O|LOCATION	||21.0||	21.0			Luka Rajačić|21|Belgrade
+11	1	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+11	2	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+11	3	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+11	4	fb:cell.null										
+11	5	fb:cell.9th_voted_out_day_31	9th Voted Out\nDay 31	9th|voted|out|day|31	9th|vote|out|day|31	JJ|VBD|RP|NN|CD	ORDINAL|O|O|DURATION|NUMBER	9.0|||P1D|31.0	9.0		31.0	9th Voted Out|Day 31
+11	6	fb:cell.10th_eliminated_day_32	10th Eliminated\nDay 32	10th|eliminated|day|32	10th|eliminate|day|32	JJ|VBN|NN|CD	ORDINAL|O|DURATION|NUMBER	10.0||P1D|32.0	10.0		32.0	10th Eliminated|Day 32
+11	7	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+12	0	fb:cell.nemanja_vucetic_23_novi_sad	Nemanja Vučetić\n23, Novi Sad	nemanja|vučetić|23|,|novi|sad	Nemanja|Vučetić|23|,|novi|sad	NNP|NNP|CD|,|RB|JJ	PERSON|PERSON|NUMBER|O|O|O	||23.0|||	23.0			Nemanja Vučetić|23|Novi Sad
+12	1	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+12	2	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+12	3	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+12	4	fb:cell.diwata	Diwata	diwata	Diwata	NNP	PERSON					
+12	5	fb:cell.10th_voted_out_1st_jury_member_day_35	10th Voted Out\n1st Jury Member\nDay 35	10th|voted|out|1st|jury|member|day|35	10th|vote|out|1st|jury|member|day|35	JJ|VBD|RP|JJ|NN|NN|NN|CD	ORDINAL|O|O|ORDINAL|O|O|DURATION|NUMBER	10.0|||1.0|||P1D|35.0	10.0		1.0	10th Voted Out|1st Jury Member|Day 35
+12	6	fb:cell.null										
+12	7	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+13	0	fb:cell.nikola_kovacevic_24_kragujevac	Nikola Kovačević\n24, Kragujevac	nikola|kovačević|24|,|kragujevac	Nikola|Kovačević|24|,|Kragujevac	NNP|NNP|CD|,|NNP	PERSON|PERSON|NUMBER|O|LOCATION	||24.0||	24.0			Nikola Kovačević|24|Kragujevac
+13	1	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+13	2	fb:cell.null										
+13	3	fb:cell.null										
+13	4	fb:cell.diwata	Diwata	diwata	Diwata	NNP	PERSON					
+13	5	fb:cell.11th_voted_out_2nd_jury_member_day_38	11th Voted Out\n2nd Jury Member\nDay 38	11th|voted|out|2nd|jury|member|day|38	11th|vote|out|2nd|jury|member|day|38	JJ|VBD|RP|JJ|NN|NN|NN|CD	ORDINAL|O|O|ORDINAL|O|O|DURATION|NUMBER	11.0|||2.0|||P1D|38.0	11.0		2.0	11th Voted Out|2nd Jury Member|Day 38
+13	6	fb:cell.ghost_island_winner_day_32	Ghost Island Winner\nDay 32	ghost|island|winner|day|32	ghost|island|winner|day|32	NN|NN|NN|NN|CD	O|O|O|DURATION|NUMBER	|||P1D|32.0	32.0			Ghost Island Winner|Day 32
+13	7	fb:cell.12	12	12	12	CD	NUMBER	12.0	12.0			
+14	0	fb:cell.dina_beric_23_ledinci_near_novi_sad	Dina Berić\n23, Ledinci, near Novi Sad	dina|berić|23|,|ledinci|,|near|novi|sad	Dina|Berić|23|,|ledincus|,|near|novi|sad	NNP|NNP|CD|,|NN|,|IN|RB|JJ	PERSON|PERSON|NUMBER|O|PERSON|O|O|O|O	||23.0||||||	23.0			Dina Berić|23|Ledinci|near Novi Sad
+14	1	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+14	2	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+14	3	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+14	4	fb:cell.diwata	Diwata	diwata	Diwata	NNP	PERSON					
+14	5	fb:cell.12th_voted_out_3rd_jury_member_day_41	12th Voted Out\n3rd Jury Member\nDay 41	12th|voted|out|3rd|jury|member|day|41	12th|vote|out|3rd|jury|member|day|41	JJ|VBD|RP|JJ|NN|NN|NN|CD	ORDINAL|O|O|ORDINAL|O|O|DURATION|NUMBER	12.0|||3.0|||P1D|41.0	12.0		3.0	12th Voted Out|3rd Jury Member|Day 41
+14	6	fb:cell.null										
+14	7	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+15	0	fb:cell.visnja_bankovic_24_aran_elovac	Višnja Banković\n24, Aranđelovac	višnja|banković|24|,|aranđelovac	višnja|banković|24|,|Aranđelovac	NN|NN|CD|,|NNP	PERSON|PERSON|NUMBER|O|PERSON	||24.0||	24.0			Višnja Banković|24|Aranđelovac
+15	1	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+15	2	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+15	3	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+15	4	fb:cell.diwata	Diwata	diwata	Diwata	NNP	PERSON					
+15	5	fb:cell.13th_voted_out_4th_jury_member_day_44	13th Voted Out\n4th Jury Member\nDay 44	13th|voted|out|4th|jury|member|day|44	13th|vote|out|4th|jury|member|day|44	JJ|VBD|RP|JJ|NN|NN|NN|CD	ORDINAL|O|O|ORDINAL|O|O|DURATION|NUMBER	13.0|||4.0|||P1D|44.0	13.0		4.0	13th Voted Out|4th Jury Member|Day 44
+15	6	fb:cell.null										
+15	7	fb:cell.14	14	14	14	CD	NUMBER	14.0	14.0			
+16	0	fb:cell.klemen_rutar_21_ljubljana_slovenija	Klemen Rutar\n21, Ljubljana, Slovenija	klemen|rutar|21|,|ljubljana|,|slovenija	Klemen|Rutar|21|,|Ljubljana|,|Slovenija	NNP|NNP|CD|,|NNP|,|NNP	PERSON|PERSON|NUMBER|O|LOCATION|O|PERSON	||21.0||||	21.0			Klemen Rutar|21|Ljubljana|Slovenija
+16	1	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+16	2	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+16	3	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+16	4	fb:cell.diwata	Diwata	diwata	Diwata	NNP	PERSON					
+16	5	fb:cell.14th_voted_out_5th_jury_member_day_47	14th Voted Out\n5th Jury Member\nDay 47	14th|voted|out|5th|jury|member|day|47	14th|vote|out|5th|jury|member|day|47	JJ|VBD|RP|JJ|NN|NN|NN|CD	ORDINAL|O|O|ORDINAL|O|O|DURATION|NUMBER	14.0|||5.0|||P1D|47.0	14.0		5.0	14th Voted Out|5th Jury Member|Day 47
+16	6	fb:cell.locator_of_hidden_immunity_idol_failed_day_34	Locator of\nHidden Immunity Idol\n(Failed)\nDay 34	locator|of|hidden|immunity|idol|-lrb-|failed|-rrb-|day|34	locator|of|hidden|immunity|idol|-lrb-|fail|-rrb-|day|34	NN|IN|JJ|NN|NN|-LRB-|VBN|-RRB-|NN|CD	O|O|O|O|O|O|O|O|DURATION|NUMBER	||||||||P1D|34.0	34.0			Locator of|Hidden Immunity Idol|(Failed)|Day 34
+16	7	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+17	0	fb:cell.sr_an_dincic_25_sremska_mitrovica	Srđan Dinčić\n25, Sremska Mitrovica	srđan|dinčić|25|,|sremska|mitrovica	Srđan|Dinčić|25|,|Sremska|Mitrovica	NNP|NNP|CD|,|NNP|NNP	PERSON|PERSON|NUMBER|O|LOCATION|LOCATION	||25.0|||	25.0			Srđan Dinčić|25|Sremska Mitrovica
+17	1	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+17	2	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+17	3	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+17	4	fb:cell.diwata	Diwata	diwata	Diwata	NNP	PERSON					
+17	5	fb:cell.15th_voted_out_6th_jury_member_day_50	15th Voted Out\n6th Jury Member\nDay 50	15th|voted|out|6th|jury|member|day|50	15th|vote|out|6th|jury|member|day|50	JJ|VBD|RP|JJ|NN|NN|NN|CD	ORDINAL|O|O|ORDINAL|O|O|DURATION|NUMBER	15.0|||6.0|||P1D|50.0	15.0		6.0	15th Voted Out|6th Jury Member|Day 50
+17	6	fb:cell.null										
+17	7	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+18	0	fb:cell.sr_an_dincic_25_sremska_mitrovica	Srđan Dinčić\n25, Sremska Mitrovica	srđan|dinčić|25|,|sremska|mitrovica	Srđan|Dinčić|25|,|Sremska|Mitrovica	NNP|NNP|CD|,|NNP|NNP	PERSON|PERSON|NUMBER|O|LOCATION|LOCATION	||25.0|||	25.0			Srđan Dinčić|25|Sremska Mitrovica
+18	1	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+18	2	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+18	3	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+18	4	fb:cell.diwata	Diwata	diwata	Diwata	NNP	PERSON					
+18	5	fb:cell.15th_voted_out_6th_jury_member_day_50	15th Voted Out\n6th Jury Member\nDay 50	15th|voted|out|6th|jury|member|day|50	15th|vote|out|6th|jury|member|day|50	JJ|VBD|RP|JJ|NN|NN|NN|CD	ORDINAL|O|O|ORDINAL|O|O|DURATION|NUMBER	15.0|||6.0|||P1D|50.0	15.0		6.0	15th Voted Out|6th Jury Member|Day 50
+18	6	fb:cell.null										
+18	7	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+19	0	fb:cell.njegos_arnautovic_21_bijeljina_republika_srpska	Njegoš Arnautović\n21, Bijeljina, Republika Srpska	njegoš|arnautović|21|,|bijeljina|,|republika|srpska	Njegoš|Arnautović|21|,|Bijeljina|,|Republika|Srpska	NNP|NNP|CD|,|NNP|,|NNP|NNP	ORGANIZATION|ORGANIZATION|NUMBER|O|LOCATION|O|LOCATION|LOCATION	||21.0|||||	21.0			Njegoš Arnautović|21|Bijeljina|Republika Srpska
+19	1	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+19	2	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+19	3	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+19	4	fb:cell.diwata	Diwata	diwata	Diwata	NNP	PERSON					
+19	5	fb:cell.eliminated_in_challenge_7th_jury_member_day_53	Eliminated in Challenge\n7th Jury Member\nDay 53	eliminated|in|challenge|7th|jury|member|day|53	eliminate|in|challenge|7th|jury|member|day|53	VBN|IN|NN|JJ|NN|NN|NN|CD	O|O|O|ORDINAL|O|O|DURATION|NUMBER	|||7.0|||P1D|53.0	7.0		53.0	Eliminated in Challenge|7th Jury Member|Day 53
+19	6	fb:cell.locator_of_hidden_immunity_idol_successful_day_40	Locator of\nHidden Immunity Idol\n(Successful)\nDay 40	locator|of|hidden|immunity|idol|-lrb-|successful|-rrb-|day|40	locator|of|hidden|immunity|idol|-lrb-|successful|-rrb-|day|40	NN|IN|JJ|NN|NN|-LRB-|JJ|-RRB-|NN|CD	O|O|O|O|O|O|O|O|DURATION|NUMBER	||||||||P1D|40.0	40.0			Locator of|Hidden Immunity Idol|(Successful)|Day 40
+19	7	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+20	0	fb:cell.dusan_milisavljevic_25_zvecan	Dušan Milisavljević\n25, Zvečan	dušan|milisavljević|25|,|zvečan	Dušan|Milisavljević|25|,|Zvečan	NNP|NNP|CD|,|NNP	PERSON|PERSON|NUMBER|O|PERSON	||25.0||	25.0			Dušan Milisavljević|25|Zvečan
+20	1	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+20	2	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+20	3	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+20	4	fb:cell.diwata	Diwata	diwata	Diwata	NNP	PERSON					
+20	5	fb:cell.eliminated_in_challenge_8th_jury_member_day_53	Eliminated in Challenge\n8th Jury Member\nDay 53	eliminated|in|challenge|8th|jury|member|day|53	eliminate|in|challenge|8th|jury|member|day|53	VBN|IN|NN|JJ|NN|NN|NN|CD	O|O|O|ORDINAL|O|O|DURATION|NUMBER	|||8.0|||P1D|53.0	8.0		53.0	Eliminated in Challenge|8th Jury Member|Day 53
+20	6	fb:cell.locator_of_hidden_immunity_idol_failed_day_37	Locator of\nHidden Immunity Idol\n(Failed)\nDay 37	locator|of|hidden|immunity|idol|-lrb-|failed|-rrb-|day|37	locator|of|hidden|immunity|idol|-lrb-|fail|-rrb-|day|37	NN|IN|JJ|NN|NN|-LRB-|VBN|-RRB-|NN|CD	O|O|O|O|O|O|O|O|DURATION|NUMBER	||||||||P1D|37.0	37.0			Locator of|Hidden Immunity Idol|(Failed)|Day 37
+20	7	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+21	0	fb:cell.vesna_olovic_38_beograd	Vesna Đolović\n38, Beograd	vesna|đolović|38|,|beograd	Vesna|Đolović|38|,|Beograd	NNP|NNP|CD|,|NNP	PERSON|PERSON|NUMBER|O|O	||38.0||	38.0			Vesna Đolović|38|Beograd
+21	1	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+21	2	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+21	3	fb:cell.manobo	Manobo	manobo	Manobo	NNP	PERSON					
+21	4	fb:cell.diwata	Diwata	diwata	Diwata	NNP	PERSON					
+21	5	fb:cell.2nd_runner_up	2nd Runner-Up	2nd|runner|up	2nd|runner|up	JJ|NN|IN	ORDINAL|O|O	2.0||	2.0			2nd Runner-Up
+21	6	fb:cell.locator_of_hidden_immunity_idol_failed_day_46	Locator of\nHidden Immunity Idol\n(Failed)\nDay 46	locator|of|hidden|immunity|idol|-lrb-|failed|-rrb-|day|46	locator|of|hidden|immunity|idol|-lrb-|fail|-rrb-|day|46	NN|IN|JJ|NN|NN|-LRB-|VBN|-RRB-|NN|CD	O|O|O|O|O|O|O|O|DURATION|NUMBER	||||||||P1D|46.0	46.0			Locator of|Hidden Immunity Idol|(Failed)|Day 46
+21	7	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+22	0	fb:cell.teja_lapanja_30_skofja_loka_slovenija	Teja Lapanja\n30, Škofja Loka, Slovenija	teja|lapanja|30|,|škofja|loka|,|slovenija	Teja|Lapanja|30|,|Škofja|Loka|,|Slovenija	NNP|NNP|CD|,|NNP|NNP|,|NNP	PERSON|PERSON|NUMBER|O|PERSON|PERSON|O|PERSON	||30.0|||||	30.0			Teja Lapanja|30|Škofja Loka|Slovenija
+22	1	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+22	2	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+22	3	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+22	4	fb:cell.diwata	Diwata	diwata	Diwata	NNP	PERSON					
+22	5	fb:cell.runner_up	Runner-Up	runner|up	runner|up	NN|IN	O|O	|				Runner-Up
+22	6	fb:cell.locator_of_hidden_immunity_idol_failed_day_49	Locator of\nHidden Immunity Idol\n(Failed)\nDay 49	locator|of|hidden|immunity|idol|-lrb-|failed|-rrb-|day|49	locator|of|hidden|immunity|idol|-lrb-|fail|-rrb-|day|49	NN|IN|JJ|NN|NN|-LRB-|VBN|-RRB-|NN|CD	O|O|O|O|O|O|O|O|DURATION|NUMBER	||||||||P1D|49.0	49.0			Locator of|Hidden Immunity Idol|(Failed)|Day 49
+22	7	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+23	0	fb:cell.aleksandar_krajisnik_19_majur_near_sabac	Aleksandar Krajišnik\n19, Majur, near Šabac	aleksandar|krajišnik|19|,|majur|,|near|šabac	Aleksandar|Krajišnik|19|,|majur|,|near|Šabac	NNP|NNP|CD|,|NN|,|IN|NNP	PERSON|PERSON|NUMBER|O|O|O|O|LOCATION	||19.0|||||	19.0			Aleksandar Krajišnik|19|Majur|near Šabac
+23	1	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+23	2	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+23	3	fb:cell.ga_dang	Ga 'dang	ga|`|dang	Ga|`|dang	NNP|``|NNP	O|O|O	||				
+23	4	fb:cell.diwata	Diwata	diwata	Diwata	NNP	PERSON					
+23	5	fb:cell.sole_survivor	Sole Survivor	sole|survivor	sole|survivor	JJ|NN	O|O	|				Sole Survivor
+23	6	fb:cell.locator_of_hidden_immunity_idol_failed_day_43	Locator of\nHidden Immunity Idol\n(Failed)\nDay 43	locator|of|hidden|immunity|idol|-lrb-|failed|-rrb-|day|43	locator|of|hidden|immunity|idol|-lrb-|fail|-rrb-|day|43	NN|IN|JJ|NN|NN|-LRB-|VBN|-RRB-|NN|CD	O|O|O|O|O|O|O|O|DURATION|NUMBER	||||||||P1D|43.0	43.0			Locator of|Hidden Immunity Idol|(Failed)|Day 43
+23	7	fb:cell.0	0	0	0	CD	NUMBER	0.0	0.0			

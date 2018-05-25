@@ -1,0 +1,67 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.date_announced	Date announced	date|announced	date|announce	NN|VBD	O|O	|				
+-1	1	fb:row.row.plant_name	Plant name	plant|name	plant|name	NN|NN	O|O	|				
+-1	2	fb:row.row.location	Location	location	location	NN	O					
+-1	3	fb:row.row.date_of_closing	Date of closing	date|of|closing	date|of|closing	NN|IN|NN	O|O|O	||				
+-1	4	fb:row.row.products	Products	products	product	NNS	O					
+-1	5	fb:row.row.employees	Employees	employees	employee	NNS	O					
+0	0	fb:cell.january_23_2006	January 23, 2006	january|23|,|2006	January|23|,|2006	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2006-01-23|2006-01-23|2006-01-23|2006-01-23	232006.0	2006-01-23		January 23|2006
+0	1	fb:cell.st_louis_assembly	St. Louis Assembly	st.|louis|assembly	St.|Louis|Assembly	NNP|NNP|NNP	LOCATION|LOCATION|LOCATION	||				
+0	2	fb:cell.hazelwood_missouri	Hazelwood, Missouri	hazelwood|,|missouri	Hazelwood|,|Missouri	NNP|,|NNP	PERSON|O|LOCATION	||				Hazelwood|Missouri
+0	3	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+0	4	fb:cell.ford_explorer_lincoln_aviator_mercury_mountaineer	Ford Explorer\nLincoln Aviator\nMercury Mountaineer	ford|explorer|lincoln|aviator|mercury|mountaineer	Ford|Explorer|Lincoln|Aviator|Mercury|Mountaineer	NNP|NNP|NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O	|||||				Ford Explorer|Lincoln Aviator|Mercury Mountaineer
+0	5	fb:cell.1_445	1,445	1,445	1,445	CD	NUMBER	1445.0	1445.0			
+1	0	fb:cell.january_23_2006	January 23, 2006	january|23|,|2006	January|23|,|2006	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2006-01-23|2006-01-23|2006-01-23|2006-01-23	232006.0	2006-01-23		January 23|2006
+1	1	fb:cell.atlanta_assembly	Atlanta Assembly	atlanta|assembly	Atlanta|Assembly	NNP|NNP	LOCATION|O	|				
+1	2	fb:cell.hapeville_georgia	Hapeville, Georgia	hapeville|,|georgia	Hapeville|,|Georgia	NNP|,|NNP	LOCATION|O|LOCATION	||				Hapeville|Georgia
+1	3	fb:cell.oct_2006	Oct. 2006	oct.|2006	Oct.|2006	NNP|CD	DATE|DATE	2006-10|2006-10	0.2006	2006-10-xx		
+1	4	fb:cell.ford_taurus_mercury_sable	Ford Taurus\nMercury Sable	ford|taurus|mercury|sable	Ford|Taurus|Mercury|Sable	NNP|NNP|NNP|NNP	ORGANIZATION|O|O|O	|||				Ford Taurus|Mercury Sable
+1	5	fb:cell.2_028	2,028	2,028	2,028	CD	NUMBER	2028.0	2028.0			
+2	0	fb:cell.january_23_2006	January 23, 2006	january|23|,|2006	January|23|,|2006	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2006-01-23|2006-01-23|2006-01-23|2006-01-23	232006.0	2006-01-23		January 23|2006
+2	1	fb:cell.batavia_transmission	Batavia Transmission	batavia|transmission	Batavia|Transmission	NNP|NNP	LOCATION|O	|				
+2	2	fb:cell.batavia_ohio	Batavia, Ohio	batavia|,|ohio	Batavia|,|Ohio	NNP|,|NNP	LOCATION|O|LOCATION	||				Batavia|Ohio
+2	3	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+2	4	fb:cell.transmissions	transmissions	transmissions	transmission	NNS	O					transmissions
+2	5	fb:cell.1_745	1,745	1,745	1,745	CD	NUMBER	1745.0	1745.0			
+3	0	fb:cell.january_23_2006	January 23, 2006	january|23|,|2006	January|23|,|2006	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2006-01-23|2006-01-23|2006-01-23|2006-01-23	232006.0	2006-01-23		January 23|2006
+3	1	fb:cell.windsor_casting	Windsor Casting	windsor|casting	Windsor|casting	NNP|NN	O|O	|				
+3	2	fb:cell.windsor_ontario_canada	Windsor, Ontario, Canada	windsor|,|ontario|,|canada	Windsor|,|Ontario|,|Canada	NNP|,|NNP|,|NNP	LOCATION|O|LOCATION|O|LOCATION	||||				Windsor|Ontario|Canada
+3	3	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+3	4	fb:cell.engine_blocks_parts	Engine blocks, parts	engine|blocks|,|parts	engine|block|,|part	NN|NNS|,|NNS	O|O|O|O	|||				Engine blocks|parts
+3	5	fb:cell.684	684	684	684	CD	NUMBER	684.0	684.0			
+4	0	fb:cell.january_23_2006	January 23, 2006	january|23|,|2006	January|23|,|2006	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2006-01-23|2006-01-23|2006-01-23|2006-01-23	232006.0	2006-01-23		January 23|2006
+4	1	fb:cell.wixom_assembly	Wixom Assembly	wixom|assembly	Wixom|Assembly	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+4	2	fb:cell.wixom_michigan	Wixom, Michigan	wixom|,|michigan	Wixom|,|Michigan	NNP|,|NNP	LOCATION|O|LOCATION	||				Wixom|Michigan
+4	3	fb:cell.june_2007	June 2007	june|2007	June|2007	NNP|CD	DATE|DATE	2007-06|2007-06	2007.0	2007-06-xx		
+4	4	fb:cell.lincoln_town_car_lincoln_ls_ford_gt	Lincoln Town Car\nLincoln LS\nFord GT	lincoln|town|car|lincoln|ls|ford|gt	Lincoln|Town|Car|Lincoln|l|Ford|gt	NNP|NNP|NNP|NNP|NN|NNP|NN	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O	||||||				Lincoln Town Car|Lincoln LS|Ford GT
+4	5	fb:cell.1_567	1,567	1,567	1,567	CD	NUMBER	1567.0	1567.0			
+5	0	fb:cell.april_13_2006	April 13, 2006	april|13|,|2006	April|13|,|2006	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2006-04-13|2006-04-13|2006-04-13|2006-04-13	132006.0	2006-04-13		April 13|2006
+5	1	fb:cell.twin_cities_assembly	Twin Cities Assembly	twin|cities|assembly	twin|city|assembly	JJ|NNS|NN	O|O|O	||				
+5	2	fb:cell.st_paul_minnesota_usa	St. Paul, Minnesota, USA	st.|paul|,|minnesota|,|usa	St.|Paul|,|Minnesota|,|USA	NNP|NNP|,|NNP|,|NNP	PERSON|PERSON|O|LOCATION|O|LOCATION	|||||				St. Paul|Minnesota|USA
+5	3	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+5	4	fb:cell.ford_ranger_mazda_b_series	Ford Ranger\nMazda B-Series	ford|ranger|mazda|b|series	Ford|Ranger|Mazda|B|Series	NNP|NNP|NNP|NNP|NNP	ORGANIZATION|O|ORGANIZATION|O|O	||||				Ford Ranger|Mazda B-Series
+5	5	fb:cell.1_885	1,885	1,885	1,885	CD	NUMBER	1885.0	1885.0			
+6	0	fb:cell.april_13_2006	April 13, 2006	april|13|,|2006	April|13|,|2006	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2006-04-13|2006-04-13|2006-04-13|2006-04-13	132006.0	2006-04-13		April 13|2006
+6	1	fb:cell.norfolk_assembly	Norfolk Assembly	norfolk|assembly	Norfolk|Assembly	NNP|NNP	LOCATION|O	|				
+6	2	fb:cell.norfolk_virginia_usa	Norfolk, Virginia, USA	norfolk|,|virginia|,|usa	Norfolk|,|Virginia|,|USA	NNP|,|NNP|,|NNP	LOCATION|O|LOCATION|O|LOCATION	||||				Norfolk|Virginia|USA
+6	3	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+6	4	fb:cell.ford_f_series	Ford F-Series	ford|f|series	Ford|f|Series	NNP|FW|NNP	ORGANIZATION|O|O	||				Ford F-Series
+6	5	fb:cell.2_433	2,433	2,433	2,433	CD	NUMBER	2433.0	2433.0			
+7	0	fb:cell.september_14_2006	September 14, 2006	september|14|,|2006	September|14|,|2006	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2006-09-14|2006-09-14|2006-09-14|2006-09-14	142006.0	2006-09-14		September 14|2006
+7	1	fb:cell.essex_engine	Essex Engine	essex|engine	Essex|Engine	NNP|NNP	ORGANIZATION|O	|				
+7	2	fb:cell.windsor_ontario_canada	Windsor, Ontario, Canada	windsor|,|ontario|,|canada	Windsor|,|Ontario|,|Canada	NNP|,|NNP|,|NNP	LOCATION|O|LOCATION|O|LOCATION	||||				Windsor|Ontario|Canada
+7	3	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+7	4	fb:cell.ford_triton_engine_ford_essex_v6_engine	Ford Triton engine\nFord Essex V6 engine	ford|triton|engine|ford|essex|v6|engine	Ford|Triton|engine|Ford|Essex|V6|engine	NNP|NNP|NNP|NNP|NNP|NNP|NN	ORGANIZATION|ORGANIZATION|O|ORGANIZATION|ORGANIZATION|O|O	||||||	6.0			Ford Triton engine|Ford Essex V6 engine
+7	5	fb:cell.null										
+8	0	fb:cell.september_14_2006	September 14, 2006	september|14|,|2006	September|14|,|2006	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2006-09-14|2006-09-14|2006-09-14|2006-09-14	142006.0	2006-09-14		September 14|2006
+8	1	fb:cell.maumee_stamping	Maumee Stamping	maumee|stamping	Maumee|stamp	NNP|VBG	LOCATION|O	|				
+8	2	fb:cell.maumee_ohio	Maumee, Ohio	maumee|,|ohio	Maumee|,|Ohio	NNP|,|NNP	LOCATION|O|LOCATION	||				Maumee|Ohio
+8	3	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+8	4	fb:cell.body_panels	body panels	body|panels	body|panel	NN|NNS	O|O	|				body panels
+8	5	fb:cell.null										
+9	0	fb:cell.total	Total	total	total	NN	O					Total
+9	1	fb:cell.total	Total	total	total	NN	O					Total
+9	2	fb:cell.total	Total	total	total	NN	O					Total
+9	3	fb:cell.total	Total	total	total	NN	O					Total
+9	4	fb:cell.total	Total	total	total	NN	O					Total
+9	5	fb:cell.11_787	11,787	11,787	11,787	CD	NUMBER	11787.0	11787.0			

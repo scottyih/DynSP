@@ -1,0 +1,974 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.film	Film	film	film	NN	O					
+-1	2	fb:row.row.publisher	Publisher	publisher	publisher	NN	O					
+-1	3	fb:row.row.director	Director	director	director	NN	O					
+-1	4	fb:row.row.distributor	Distributor	distributor	distributor	NN	O					
+-1	5	fb:row.row.worldwide_gross	Worldwide Gross	worldwide|gross	Worldwide|Gross	NNP|NNP	O|NUMBER	|144.0				
+-1	6	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.1951	1951	1951	1951	CD	DATE	1951	1951.0	1951-xx-xx		
+0	1	fb:cell.superman_and_the_mole_men	Superman and the Mole Men	superman|and|the|mole|men	Superman|and|the|mole|man	NNP|CC|DT|NN|NNS	PERSON|O|O|O|O	||||				Superman and the Mole Men
+0	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+0	3	fb:cell.lee_sholem	Lee Sholem	lee|sholem	Lee|Sholem	NNP|NNP	PERSON|PERSON	|				Lee Sholem
+0	4	fb:cell.lippert_pictures_inc	Lippert Pictures Inc.	lippert|pictures|inc.|.	Lippert|Pictures|Inc.|.	NNP|NNP|NNP|.	ORGANIZATION|ORGANIZATION|ORGANIZATION|O	|||				Lippert Pictures Inc.
+0	5	fb:cell.null										
+0	6	fb:cell.based_on_adventures_of_superman_tv_series	Based on Adventures of Superman TV series	based|on|adventures|of|superman|tv|series	base|on|adventure|of|Superman|TV|series	VBN|IN|NNS|IN|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||				Based on Adventures of Superman TV series
+1	0	fb:cell.1966	1966	1966	1966	CD	DATE	1966	1966.0	1966-xx-xx		
+1	1	fb:cell.batman	Batman	batman	Batman	NNP	PERSON					Batman
+1	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+1	3	fb:cell.leslie_h_martinson	Leslie H. Martinson	leslie|h.|martinson	Leslie|H.|Martinson	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Leslie H. Martinson
+1	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+1	5	fb:cell._1_700_000_est_us_canada_rentals	$1,700,000 (est.\nUS/ Canada rentals)	$|1,700,000|-lrb-|est.|.|us|/|canada|rentals|-rrb-	$|1,700,000|-lrb-|est.|.|we|/|Canada|rental|-rrb-	$|CD|-LRB-|NN|.|PRP|:|NNP|NNS|-RRB-	MONEY|MONEY|O|O|O|LOCATION|O|LOCATION|O|O	$1700000.0|$1700000.0||||||||	1700000.0			$1,700,000 (est.|US|Canada rentals)
+1	6	fb:cell.based_on_batman_tv_series	Based on Batman TV series	based|on|batman|tv|series	base|on|Batman|TV|series	VBN|IN|NNP|NNP|NNP	O|O|MISC|MISC|MISC	||||				Based on Batman TV series
+2	0	fb:cell.1977	1977	1977	1977	CD	DATE	1977	1977.0	1977-xx-xx		
+2	1	fb:cell.abar_the_first_black_superman	Abar, the First Black Superman	abar|,|the|first|black|superman	Abar|,|the|first|black|Superman	NNP|,|DT|JJ|JJ|NNP	PERSON|O|O|ORDINAL|O|O	|||1.0||				Abar|the First Black Superman
+2	2	fb:cell.original	Original	original	original	JJ	O					Original
+2	3	fb:cell.frank_packard	Frank Packard	frank|packard	Frank|Packard	NNP|NNP	PERSON|PERSON	|				Frank Packard
+2	4	fb:cell.mirror_releasing	Mirror Releasing	mirror|releasing	Mirror|release	NNP|VBG	O|O	|				Mirror Releasing
+2	5	fb:cell.null										
+2	6	fb:cell.null										
+3	0	fb:cell.1978	1978	1978	1978	CD	DATE	1978	1978.0	1978-xx-xx		
+3	1	fb:cell.superman	Superman	superman	Superman	NNP	PERSON					Superman
+3	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+3	3	fb:cell.richard_donner	Richard Donner	richard|donner	Richard|Donner	NNP|NNP	PERSON|PERSON	|				Richard Donner
+3	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+3	5	fb:cell._300_218_018	$300,218,018	$|300,218,018	$|300,218,018	$|CD	MONEY|MONEY	$3.00218018E8|$3.00218018E8	3.00218018E8			$300,218,018
+3	6	fb:cell.null										
+4	0	fb:cell.1978	1978	1978	1978	CD	DATE	1978	1978.0	1978-xx-xx		
+4	1	fb:cell.dr_strange	Dr. Strange	dr.|strange	Dr.|Strange	NNP|NNP	O|PERSON	|				Dr. Strange
+4	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+4	3	fb:cell.philip_deguere	Philip DeGuere	philip|deguere	Philip|DeGuere	NNP|NNP	PERSON|PERSON	|				Philip DeGuere
+4	4	fb:cell.mca_home_video	MCA Home Video	mca|home|video	MCA|Home|Video	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				MCA Home Video
+4	5	fb:cell.television_film	Television film	television|film	television|film	NN|NN	O|O	|				Television film
+4	6	fb:cell.null										
+5	0	fb:cell.1978	1978	1978	1978	CD	DATE	1978	1978.0	1978-xx-xx		
+5	1	fb:cell.kiss_meets_the_phantom_of_the_park	Kiss Meets the Phantom of the Park	kiss|meets|the|phantom|of|the|park	kiss|meet|the|phantom|of|the|park	VB|VBZ|DT|JJ|IN|DT|NN	O|O|O|O|O|O|O	||||||				Kiss Meets the Phantom of the Park
+5	2	fb:cell.hanna_barbera	Hanna-Barbera	hanna|barbera	Hanna|Barbera	NNP|NNP	PERSON|PERSON	|				Hanna-Barbera
+5	3	fb:cell.gordon_hessler	Gordon Hessler	gordon|hessler	Gordon|Hessler	NNP|NNP	PERSON|PERSON	|				Gordon Hessler
+5	4	fb:cell.nbc	NBC	nbc	NBC	NNP	ORGANIZATION					NBC
+5	5	fb:cell.television_film	Television film	television|film	television|film	NN|NN	O|O	|				Television film
+5	6	fb:cell.based_on_the_rock_band_kiss	Based on the rock band Kiss	based|on|the|rock|band|kiss	base|on|the|rock|band|kiss	VBN|IN|DT|NN|NN|NN	O|O|O|O|O|O	|||||				Based on the rock band Kiss
+6	0	fb:cell.1980	1980	1980	1980	CD	DATE	1980	1980.0	1980-xx-xx		
+6	1	fb:cell.superman_ii	Superman II	superman|ii	Superman|II	NNP|NNP	PERSON|PERSON	|				Superman II
+6	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+6	3	fb:cell.richard_lester	Richard Lester	richard|lester	Richard|Lester	NNP|NNP	PERSON|PERSON	|				Richard Lester
+6	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+6	5	fb:cell._108_185_706	$108,185,706	$|108,185,706	$|108,185,706	$|CD	MONEY|MONEY	$1.08185706E8|$1.08185706E8	1.08185706E8			$108,185,706
+6	6	fb:cell.sequel_to_1978_s_superman	Sequel to 1978's Superman	sequel|to|1978|'s|superman	sequel|to|1978|'s|Superman	NN|TO|CD|POS|NNP	O|O|DATE|O|O	||1978||	1978.0			Sequel to 1978's Superman
+7	0	fb:cell.1980	1980	1980	1980	CD	DATE	1980	1980.0	1980-xx-xx		
+7	1	fb:cell.hero_at_large	Hero at Large	hero|at|large	hero|at|large	NN|IN|JJ	O|O|O	||				Hero at Large
+7	2	fb:cell.original	Original	original	original	JJ	O					Original
+7	3	fb:cell.martin_davidson	Martin Davidson	martin|davidson	Martin|Davidson	NNP|NNP	PERSON|PERSON	|				Martin Davidson
+7	4	fb:cell.metro_goldwyn_mayer	Metro-Goldwyn-Mayer	metro|goldwyn|mayer	metro|Goldwyn|Mayer	NN|NNP|NNP	PERSON|PERSON|PERSON	||				Metro-Goldwyn-Mayer
+7	5	fb:cell._15_934_737	$15,934,737	$|15,934,737	$|15,934,737	$|CD	MONEY|MONEY	$1.5934737E7|$1.5934737E7	1.5934737E7			$15,934,737
+7	6	fb:cell.null										
+8	0	fb:cell.1981	1981	1981	1981	CD	DATE	1981	1981.0	1981-xx-xx		
+8	1	fb:cell.condorman	Condorman	condorman	condorman	NN	PERSON					Condorman
+8	2	fb:cell.original	Original	original	original	JJ	O					Original
+8	3	fb:cell.charles_jarrott	Charles Jarrott	charles|jarrott	Charles|Jarrott	NNP|NNP	PERSON|PERSON	|				Charles Jarrott
+8	4	fb:cell.walt_disney_pictures	Walt Disney Pictures	walt|disney|pictures	Walt|Disney|Pictures	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Walt Disney Pictures
+8	5	fb:cell._287_434	$287,434	$|287,434	$|287,434	$|CD	MONEY|MONEY	$287434.0|$287434.0	287434.0			$287,434
+8	6	fb:cell.null										
+9	0	fb:cell.1982	1982	1982	1982	CD	DATE	1982	1982.0	1982-xx-xx		
+9	1	fb:cell.swamp_thing	Swamp Thing	swamp|thing	swamp|thing	VB|NN	O|O	|				Swamp Thing
+9	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+9	3	fb:cell.wes_craven	Wes Craven	wes|craven	Wes|Craven	NNP|NNP	PERSON|PERSON	|				Wes Craven
+9	4	fb:cell.embassy_pictures	Embassy Pictures	embassy|pictures	Embassy|Pictures	NNP|NNP	O|O	|				Embassy Pictures
+9	5	fb:cell._287_434	$287,434	$|287,434	$|287,434	$|CD	MONEY|MONEY	$287434.0|$287434.0	287434.0			$287,434
+9	6	fb:cell.null										
+10	0	fb:cell.1983	1983	1983	1983	CD	DATE	1983	1983.0	1983-xx-xx		
+10	1	fb:cell.superman_iii	Superman III	superman|iii	Superman|III	NNP|NNP	PERSON|PERSON	|				Superman III
+10	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+10	3	fb:cell.richard_lester	Richard Lester	richard|lester	Richard|Lester	NNP|NNP	PERSON|PERSON	|				Richard Lester
+10	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+10	5	fb:cell._70_656_090	$70,656,090	$|70,656,090	$|70,656,090	$|CD	MONEY|MONEY	$7.065609E7|$7.065609E7	7.065609E7			$70,656,090
+10	6	fb:cell.sequel_to_1980_s_superman_ii	Sequel to 1980's Superman II	sequel|to|1980|'s|superman|ii	sequel|to|1980|'s|Superman|II	NN|TO|CD|POS|NNP|NNP	O|O|DATE|O|O|O	||1980|||	1980.0			Sequel to 1980's Superman II
+11	0	fb:cell.1984	1984	1984	1984	CD	DATE	1984	1984.0	1984-xx-xx		
+11	1	fb:cell.supergirl	Supergirl	supergirl	Supergirl	NNP	O					Supergirl
+11	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+11	3	fb:cell.jeannot_szwarc	Jeannot Szwarc	jeannot|szwarc	Jeannot|Szwarc	NNP|NNP	PERSON|PERSON	|				Jeannot Szwarc
+11	4	fb:cell.tristar_pictures_warner_bros	TriStar Pictures, Warner Bros.	tristar|pictures|,|warner|bros.|.	TriStar|Pictures|,|Warner|Bros.|.	NNP|NNP|,|NNP|NNP|.	O|O|O|ORGANIZATION|ORGANIZATION|O	|||||				TriStar Pictures|Warner Bros.
+11	5	fb:cell._14_296_438	$14,296,438	$|14,296,438	$|14,296,438	$|CD	MONEY|MONEY	$1.4296438E7|$1.4296438E7	1.4296438E7			$14,296,438
+11	6	fb:cell.spin_off_to_1978_s_superman	Spin-off to 1978's Superman	spin|off|to|1978|'s|superman	spin|off|to|1978|'s|Superman	VB|RP|TO|CD|POS|NNP	O|O|O|DATE|O|O	|||1978||	1978.0			Spin-off to 1978's Superman
+12	0	fb:cell.1984	1984	1984	1984	CD	DATE	1984	1984.0	1984-xx-xx		
+12	1	fb:cell.the_toxic_avenger	The Toxic Avenger	the|toxic|avenger	the|toxic|avenger	DT|JJ|NN	O|O|O	||				The Toxic Avenger
+12	2	fb:cell.original	Original	original	original	JJ	O					Original
+12	3	fb:cell.lloyd_kaufman	Lloyd Kaufman	lloyd|kaufman	Lloyd|Kaufman	NNP|NNP	PERSON|PERSON	|				Lloyd Kaufman
+12	4	fb:cell.troma_entertainment	Troma Entertainment,	troma|entertainment|,	Troma|Entertainment|,	NNP|NNP|,	ORGANIZATION|ORGANIZATION|O	||				Troma Entertainment,
+12	5	fb:cell._800_000	$800,000	$|800,000	$|800,000	$|CD	MONEY|MONEY	$800000.0|$800000.0	800000.0			$800,000
+12	6	fb:cell.null										
+13	0	fb:cell.1986	1986	1986	1986	CD	DATE	1986	1986.0	1986-xx-xx		
+13	1	fb:cell.howard_the_duck	Howard the Duck	howard|the|duck	Howard|the|duck	NNP|DT|NN	PERSON|PERSON|PERSON	||				Howard the Duck
+13	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+13	3	fb:cell.willard_huyck	Willard Huyck	willard|huyck	Willard|Huyck	NNP|NNP	PERSON|PERSON	|				Willard Huyck
+13	4	fb:cell.universal_pictures	Universal Pictures	universal|pictures	universal|picture	JJ|NNS	ORGANIZATION|ORGANIZATION	|				Universal Pictures
+13	5	fb:cell._37_962_774	$37,962,774	$|37,962,774	$|37,962,774	$|CD	MONEY|MONEY	$3.7962774E7|$3.7962774E7	3.7962774E7			$37,962,774
+13	6	fb:cell.null										
+14	0	fb:cell.1987	1987	1987	1987	CD	DATE	1987	1987.0	1987-xx-xx		
+14	1	fb:cell.superman_iv_the_quest_for_peace	Superman IV: The Quest for Peace	superman|iv|:|the|quest|for|peace	Superman|IV|:|the|quest|for|peace	NNP|NNP|:|DT|NN|IN|NN	O|O|O|O|O|O|O	||||||				Superman IV: The Quest for Peace
+14	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+14	3	fb:cell.sidney_j_furie	Sidney J. Furie	sidney|j.|furie	Sidney|J.|Furie	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Sidney J. Furie
+14	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+14	5	fb:cell._15_681_020	$15,681,020	$|15,681,020	$|15,681,020	$|CD	MONEY|MONEY	$1.568102E7|$1.568102E7	1.568102E7			$15,681,020
+14	6	fb:cell.sequel_to_1983_s_superman_iii	Sequel to 1983's Superman III	sequel|to|1983|'s|superman|iii	sequel|to|1983|'s|Superman|III	NN|TO|CD|POS|NNP|NNP	O|O|DATE|O|PERSON|PERSON	||1983|||	1983.0			Sequel to 1983's Superman III
+15	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+15	1	fb:cell.the_toxic_avenger_part_ii	The Toxic Avenger Part II	the|toxic|avenger|part|ii	the|toxic|avenger|part|ii	DT|JJ|NN|NN|CD	O|O|O|O|NUMBER	||||0.0				The Toxic Avenger Part II
+15	2	fb:cell.original	Original	original	original	JJ	O					Original
+15	3	fb:cell.lloyd_kaufman	Lloyd Kaufman	lloyd|kaufman	Lloyd|Kaufman	NNP|NNP	PERSON|PERSON	|				Lloyd Kaufman
+15	4	fb:cell.troma_entertainment	Troma Entertainment,	troma|entertainment|,	Troma|Entertainment|,	NNP|NNP|,	ORGANIZATION|ORGANIZATION|O	||				Troma Entertainment,
+15	5	fb:cell._792_966	$792,966	$|792,966	$|792,966	$|CD	MONEY|MONEY	$792966.0|$792966.0	792966.0			$792,966
+15	6	fb:cell.sequel_to_1984_s_the_toxic_avenger	Sequel to 1984's The Toxic Avenger	sequel|to|1984|'s|the|toxic|avenger	sequel|to|1984|'s|the|toxic|avenger	NN|TO|CD|POS|DT|JJ|NN	O|O|DATE|O|O|O|O	||1984||||	1984.0			Sequel to 1984's The Toxic Avenger
+16	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+16	1	fb:cell.the_toxic_avenger_part_iii_the_last_temptation_of_toxie	The Toxic Avenger Part III: The Last Temptation of Toxie	the|toxic|avenger|part|iii|:|the|last|temptation|of|toxie	the|toxic|avenger|part|iii|:|the|last|temptation|of|Toxie	DT|JJ|NN|NN|CD|:|DT|JJ|NN|IN|NNP	O|O|O|O|NUMBER|O|O|O|O|O|PERSON	||||0.0||||||				The Toxic Avenger Part III: The Last Temptation of Toxie
+16	2	fb:cell.original	Original	original	original	JJ	O					Original
+16	3	fb:cell.lloyd_kaufman	Lloyd Kaufman	lloyd|kaufman	Lloyd|Kaufman	NNP|NNP	PERSON|PERSON	|				Lloyd Kaufman
+16	4	fb:cell.troma_entertainment	Troma Entertainment,	troma|entertainment|,	Troma|Entertainment|,	NNP|NNP|,	ORGANIZATION|ORGANIZATION|O	||				Troma Entertainment,
+16	5	fb:cell._363_561	$363,561	$|363,561	$|363,561	$|CD	MONEY|MONEY	$363561.0|$363561.0	363561.0			$363,561
+16	6	fb:cell.sequel_to_1989_s_the_toxic_avenger_part_ii	Sequel to 1989's The Toxic Avenger Part II	sequel|to|1989|'s|the|toxic|avenger|part|ii	sequel|to|1989|'s|the|toxic|avenger|part|ii	NN|TO|CD|POS|DT|JJ|NN|NN|CD	O|O|DATE|O|O|O|O|O|NUMBER	||1989||||||0.0	1989.0			Sequel to 1989's The Toxic Avenger Part II
+17	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+17	1	fb:cell.batman	Batman	batman	Batman	NNP	PERSON					Batman
+17	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+17	3	fb:cell.tim_burton	Tim Burton	tim|burton	Tim|Burton	NNP|NNP	PERSON|PERSON	|				Tim Burton
+17	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+17	5	fb:cell._411_348_924	$411,348,924	$|411,348,924	$|411,348,924	$|CD	MONEY|MONEY	$4.11348924E8|$4.11348924E8	4.11348924E8			$411,348,924
+17	6	fb:cell.null										
+18	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+18	1	fb:cell.the_return_of_swamp_thing	The Return of Swamp Thing	the|return|of|swamp|thing	the|return|of|swamp|thing	DT|NN|IN|VB|NN	O|O|O|O|O	||||				The Return of Swamp Thing
+18	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+18	3	fb:cell.jim_wynorski	Jim Wynorski	jim|wynorski	Jim|Wynorski	NNP|NNP	PERSON|PERSON	|				Jim Wynorski
+18	4	fb:cell.millimeter_films	Millimeter Films	millimeter|films	millimeter|film	JJ|NNS	O|O	|				Millimeter Films
+18	5	fb:cell._192_816	$192,816	$|192,816	$|192,816	$|CD	MONEY|MONEY	$192816.0|$192816.0	192816.0			$192,816
+18	6	fb:cell.sequel_to_1982_s_swamp_thing	Sequel to 1982's Swamp Thing	sequel|to|1982|'s|swamp|thing	sequel|to|1982|'s|swamp|thing	NN|TO|CD|POS|VB|NN	O|O|DATE|O|O|O	||1982|||	1982.0			Sequel to 1982's Swamp Thing
+19	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+19	1	fb:cell.the_punisher	The Punisher	the|punisher	the|punisher	DT|NN	O|O	|				The Punisher
+19	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+19	3	fb:cell.mark_goldblatt	Mark Goldblatt	mark|goldblatt	Mark|Goldblatt	NNP|NNP	PERSON|PERSON	|				Mark Goldblatt
+19	4	fb:cell.artisan_entertainment	Artisan Entertainment	artisan|entertainment	Artisan|Entertainment	NNP|NNP	O|O	|				Artisan Entertainment
+19	5	fb:cell._287_434	$287,434	$|287,434	$|287,434	$|CD	MONEY|MONEY	$287434.0|$287434.0	287434.0			$287,434
+19	6	fb:cell.direct_to_video_in_north_america	Direct-to-video in North America	direct|to|video|in|north|america	direct|to|video|in|North|America	JJ|TO|NN|IN|NNP|NNP	O|O|O|O|LOCATION|LOCATION	|||||				Direct-to-video in North America
+20	0	fb:cell.1990	1990	1990	1990	CD	DATE	1990	1990.0	1990-xx-xx		
+20	1	fb:cell.teenage_mutant_ninja_turtles	Teenage Mutant Ninja Turtles	teenage|mutant|ninja|turtles	teenage|mutant|ninja|turtle	JJ|JJ|NN|NNS	O|O|O|O	|||				Teenage Mutant Ninja Turtles
+20	2	fb:cell.mirage_comics	Mirage Comics	mirage|comics	Mirage|Comics	NNP|NNPS	O|O	|				Mirage Comics
+20	3	fb:cell.steve_baron	Steve Baron	steve|baron	Steve|Baron	NNP|NNP	PERSON|PERSON	|				Steve Baron
+20	4	fb:cell.new_line_cinema	New Line Cinema	new|line|cinema	new|line|cinema	JJ|NN|NN	O|O|O	||				New Line Cinema
+20	5	fb:cell._201_965_915	$201,965,915	$|201,965,915	$|201,965,915	$|CD	MONEY|MONEY	$2.01965915E8|$2.01965915E8	2.01965915E8			$201,965,915
+20	6	fb:cell.null										
+21	0	fb:cell.1990	1990	1990	1990	CD	DATE	1990	1990.0	1990-xx-xx		
+21	1	fb:cell.darkman	Darkman	darkman	Darkman	NNP	PERSON					Darkman
+21	2	fb:cell.original	Original	original	original	JJ	O					Original
+21	3	fb:cell.sam_raimi	Sam Raimi	sam|raimi	Sam|Raimi	NNP|NNP	PERSON|PERSON	|				Sam Raimi
+21	4	fb:cell.universal_studios	Universal Studios	universal|studios	universal|studio	JJ|NNS	ORGANIZATION|ORGANIZATION	|				Universal Studios
+21	5	fb:cell._48_878_502	$48,878,502	$|48,878,502	$|48,878,502	$|CD	MONEY|MONEY	$4.8878502E7|$4.8878502E7	4.8878502E7			$48,878,502
+21	6	fb:cell.null										
+22	0	fb:cell.1990	1990	1990	1990	CD	DATE	1990	1990.0	1990-xx-xx		
+22	1	fb:cell.captain_america	Captain America	captain|america	Captain|America	NNP|NNP	PERSON|PERSON	|				Captain America
+22	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+22	3	fb:cell.albert_pyun	Albert Pyun	albert|pyun	Albert|Pyun	NNP|NNP	PERSON|PERSON	|				Albert Pyun
+22	4	fb:cell.21st_century_film_corporation	21st Century Film Corporation	21st|century|film|corporation	21st|century|film|corporation	JJ|NN|NN|NN	DATE|DATE|O|O	20XX|20XX||	21.0			21st Century Film Corporation
+22	5	fb:cell._675_437	$675,437	$|675,437	$|675,437	$|CD	MONEY|MONEY	$675437.0|$675437.0	675437.0			$675,437
+22	6	fb:cell.null										
+23	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+23	1	fb:cell.teenage_mutant_ninja_turtles_ii_the_secret_of_the_ooze	Teenage Mutant Ninja Turtles II: The Secret of the Ooze	teenage|mutant|ninja|turtles|ii|:|the|secret|of|the|ooze	teenage|mutant|ninja|turtle|ii|:|the|secret|of|the|ooze	JJ|JJ|NN|VBZ|CD|:|DT|NN|IN|DT|NN	O|O|O|O|NUMBER|O|O|O|O|O|O	||||0.0||||||				Teenage Mutant Ninja Turtles II: The Secret of the Ooze
+23	2	fb:cell.mirage_comics	Mirage Comics	mirage|comics	Mirage|Comics	NNP|NNPS	O|O	|				Mirage Comics
+23	3	fb:cell.michael_pressman	Michael Pressman	michael|pressman	Michael|pressman	NNP|NN	PERSON|PERSON	|				Michael Pressman
+23	4	fb:cell.new_line_cinema	New Line Cinema	new|line|cinema	new|line|cinema	JJ|NN|NN	O|O|O	||				New Line Cinema
+23	5	fb:cell._78_656_813	$78,656,813	$|78,656,813	$|78,656,813	$|CD	MONEY|MONEY	$7.8656813E7|$7.8656813E7	7.8656813E7			$78,656,813
+23	6	fb:cell.sequel_to_1990_s_teenage_mutant_ninja_turtles	Sequel to 1990's Teenage Mutant Ninja Turtles	sequel|to|1990|'s|teenage|mutant|ninja|turtles	sequel|to|1990|'s|teenage|mutant|ninja|turtle	NN|TO|CD|POS|JJ|JJ|NN|NNS	O|O|DATE|O|O|O|O|O	||1990|||||	1990.0			Sequel to 1990's Teenage Mutant Ninja Turtles
+24	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+24	1	fb:cell.the_guyver	The Guyver	the|guyver	the|guyver	DT|NN	O|O	|				The Guyver
+24	2	fb:cell.chuang_yi_publishing	Chuang Yi Publishing	chuang|yi|publishing	Chuang|Yi|publishing	NNP|NNP|NN	PERSON|PERSON|PERSON	||				Chuang Yi Publishing
+24	3	fb:cell.steve_wang	Steve Wang	steve|wang	Steve|Wang	NNP|NNP	PERSON|PERSON	|				Steve Wang
+24	4	fb:cell.new_line_cinema	New Line Cinema	new|line|cinema	new|line|cinema	JJ|NN|NN	O|O|O	||				New Line Cinema
+24	5	fb:cell.null										
+24	6	fb:cell.null										
+25	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+25	1	fb:cell.the_rocketeer	The Rocketeer	the|rocketeer	the|rocketeer	DT|NN	O|O	|				The Rocketeer
+25	2	fb:cell.pacific_comics	Pacific Comics	pacific|comics	Pacific|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Pacific Comics
+25	3	fb:cell.joe_johnston	Joe Johnston	joe|johnston	Joe|Johnston	NNP|NNP	PERSON|PERSON	|				Joe Johnston
+25	4	fb:cell.walt_disney_pictures	Walt Disney Pictures	walt|disney|pictures	Walt|Disney|Pictures	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Walt Disney Pictures
+25	5	fb:cell._62_000_000	$62,000,000	$|62,000,000	$|62,000,000	$|CD	MONEY|MONEY	$6.2E7|$6.2E7	6.2E7			$62,000,000
+25	6	fb:cell.null										
+26	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+26	1	fb:cell.batman_returns	Batman Returns	batman|returns	Batman|return	NNP|NNS	PERSON|O	|				Batman Returns
+26	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+26	3	fb:cell.tim_burton	Tim Burton	tim|burton	Tim|Burton	NNP|NNP	PERSON|PERSON	|				Tim Burton
+26	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+26	5	fb:cell._266_822_354	$266,822,354	$|266,822,354	$|266,822,354	$|CD	MONEY|MONEY	$2.66822354E8|$2.66822354E8	2.66822354E8			$266,822,354
+26	6	fb:cell.sequel_to_1989_s_batman	Sequel to 1989's Batman	sequel|to|1989|'s|batman	sequel|to|1989|'s|Batman	NN|TO|CD|POS|NNP	O|O|DATE|O|PERSON	||1989||	1989.0			Sequel to 1989's Batman
+27	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+27	1	fb:cell.teenage_mutant_ninja_turtles_iii	Teenage Mutant Ninja Turtles III	teenage|mutant|ninja|turtles|iii	teenage|mutant|ninja|turtle|iii	JJ|JJ|NN|VBZ|CD	O|O|O|O|NUMBER	||||0.0				Teenage Mutant Ninja Turtles III
+27	2	fb:cell.mirage_comics	Mirage Comics	mirage|comics	Mirage|Comics	NNP|NNPS	O|O	|				Mirage Comics
+27	3	fb:cell.stuart_gillard	Stuart Gillard	stuart|gillard	Stuart|Gillard	NNP|NNP	PERSON|PERSON	|				Stuart Gillard
+27	4	fb:cell.new_line_cinema	New Line Cinema	new|line|cinema	new|line|cinema	JJ|NN|NN	O|O|O	||				New Line Cinema
+27	5	fb:cell._42_273_609	$42,273,609	$|42,273,609	$|42,273,609	$|CD	MONEY|MONEY	$4.2273609E7|$4.2273609E7	4.2273609E7			$42,273,609
+27	6	fb:cell.sequel_to_1991_s_teenage_mutant_ninja_turtles_ii	Sequel to 1991's Teenage Mutant Ninja Turtles II	sequel|to|1991|'s|teenage|mutant|ninja|turtles|ii	sequel|to|1991|'s|teenage|mutant|ninja|turtle|ii	NN|TO|CD|POS|JJ|JJ|NN|VBZ|CD	O|O|DATE|O|O|O|O|O|NUMBER	||1991||||||0.0	1991.0			Sequel to 1991's Teenage Mutant Ninja Turtles II
+28	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+28	1	fb:cell.the_meteor_man	The Meteor Man	the|meteor|man	the|meteor|man	DT|JJ|NN	O|O|O	||				The Meteor Man
+28	2	fb:cell.original	Original	original	original	JJ	O					Original
+28	3	fb:cell.robert_townsend	Robert Townsend	robert|townsend	Robert|Townsend	NNP|NNP	PERSON|PERSON	|				Robert Townsend
+28	4	fb:cell.metro_goldwyn_mayer	Metro-Goldwyn-Mayer	metro|goldwyn|mayer	metro|Goldwyn|Mayer	NN|NNP|NNP	PERSON|PERSON|PERSON	||				Metro-Goldwyn-Mayer
+28	5	fb:cell._8_023_147	$8,023,147	$|8,023,147	$|8,023,147	$|CD	MONEY|MONEY	$8023147.0|$8023147.0	8023147.0			$8,023,147
+28	6	fb:cell.null										
+29	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+29	1	fb:cell.the_fantastic_four	The Fantastic Four	the|fantastic|four	the|fantastic|four	DT|JJ|CD	O|O|NUMBER	||4.0				The Fantastic Four
+29	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+29	3	fb:cell.oley_sassone	Oley Sassone	oley|sassone	Oley|Sassone	NNP|NNP	PERSON|PERSON	|				Oley Sassone
+29	4	fb:cell.constantin_film	Constantin Film	constantin|film	constantin|film	NN|NN	PERSON|PERSON	|				Constantin Film
+29	5	fb:cell.unreleased	Unreleased	unreleased	unreleased	JJ	O					Unreleased
+29	6	fb:cell.null										
+30	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+30	1	fb:cell.the_crow	The Crow	the|crow	the|crow	DT|NN	O|O	|				The Crow
+30	2	fb:cell.caliber_comics	Caliber Comics	caliber|comics	Caliber|Comics	NNP|NNPS	O|O	|				Caliber Comics
+30	3	fb:cell.alex_proyas	Alex Proyas	alex|proyas	Alex|Proyas	NNP|NNP	PERSON|PERSON	|				Alex Proyas
+30	4	fb:cell.miramax_films	Miramax Films	miramax|films	Miramax|film	NNP|NNS	ORGANIZATION|ORGANIZATION	|				Miramax Films
+30	5	fb:cell._144_693_129	$144,693,129	$|144,693,129	$|144,693,129	$|CD	MONEY|MONEY	$1.44693129E8|$1.44693129E8	1.44693129E8			$144,693,129
+30	6	fb:cell.null										
+31	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+31	1	fb:cell.blankman	Blankman	blankman	Blankman	NNP	O					Blankman
+31	2	fb:cell.original	Original	original	original	JJ	O					Original
+31	3	fb:cell.mike_binder	Mike Binder	mike|binder	Mike|Binder	NNP|NNP	PERSON|PERSON	|				Mike Binder
+31	4	fb:cell.columbia_pictures	Columbia Pictures	columbia|pictures	Columbia|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Columbia Pictures
+31	5	fb:cell._7_941_977	$7,941,977	$|7,941,977	$|7,941,977	$|CD	MONEY|MONEY	$7941977.0|$7941977.0	7941977.0			$7,941,977
+31	6	fb:cell.null										
+32	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+32	1	fb:cell.the_shadow	The Shadow	the|shadow	the|shadow	DT|NN	O|O	|				The Shadow
+32	2	fb:cell.street_and_smith_publications	Street and Smith Publications	street|and|smith|publications	street|and|Smith|Publications	NN|CC|NNP|NNP	O|O|PERSON|O	|||				Street and Smith Publications
+32	3	fb:cell.russell_mulcahy	Russell Mulcahy	russell|mulcahy	Russell|Mulcahy	NNP|NNP	PERSON|PERSON	|				Russell Mulcahy
+32	4	fb:cell.universal_studios	Universal Studios	universal|studios	universal|studio	JJ|NNS	ORGANIZATION|ORGANIZATION	|				Universal Studios
+32	5	fb:cell._48_063_435	$48,063,435	$|48,063,435	$|48,063,435	$|CD	MONEY|MONEY	$4.8063435E7|$4.8063435E7	4.8063435E7			$48,063,435
+32	6	fb:cell.null										
+33	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+33	1	fb:cell.the_mask	The Mask	the|mask	the|mask	DT|NN	O|O	|				The Mask
+33	2	fb:cell.dark_horse_comics	Dark Horse Comics	dark|horse|comics	dark|horse|comic	JJ|NN|NNS	O|O|O	||				Dark Horse Comics
+33	3	fb:cell.chuck_russell	Chuck Russell	chuck|russell	Chuck|Russell	NNP|NNP	PERSON|PERSON	|				Chuck Russell
+33	4	fb:cell.new_line_cinema	New Line Cinema	new|line|cinema	new|line|cinema	JJ|NN|NN	O|O|O	||				New Line Cinema
+33	5	fb:cell._351_583_407	$351,583,407	$|351,583,407	$|351,583,407	$|CD	MONEY|MONEY	$3.51583407E8|$3.51583407E8	3.51583407E8			$351,583,407
+33	6	fb:cell.null										
+34	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+34	1	fb:cell.guyver_dark_hero	Guyver: Dark Hero	guyver|:|dark|hero	Guyver|:|dark|hero	NNP|:|JJ|NN	O|O|O|O	|||				Guyver: Dark Hero
+34	2	fb:cell.chuang_yi_publishing	Chuang Yi Publishing	chuang|yi|publishing	Chuang|Yi|publishing	NNP|NNP|NN	PERSON|PERSON|PERSON	||				Chuang Yi Publishing
+34	3	fb:cell.steve_wang	Steve Wang	steve|wang	Steve|Wang	NNP|NNP	PERSON|PERSON	|				Steve Wang
+34	4	fb:cell.new_line_cinema	New Line Cinema	new|line|cinema	new|line|cinema	JJ|NN|NN	O|O|O	||				New Line Cinema
+34	5	fb:cell.null										
+34	6	fb:cell.sequel_to_1991_s_the_guyver	Sequel to 1991's The Guyver	sequel|to|1991|'s|the|guyver	sequel|to|1991|'s|the|guyver	NN|TO|CD|POS|DT|NN	O|O|DATE|O|O|O	||1991|||	1991.0			Sequel to 1991's The Guyver
+35	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+35	1	fb:cell.batman_forever	Batman Forever	batman|forever	Batman|forever	NNP|RB	PERSON|O	|				Batman Forever
+35	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+35	3	fb:cell.joel_schumacher	Joel Schumacher	joel|schumacher	Joel|Schumacher	NNP|NNP	PERSON|PERSON	|				Joel Schumacher
+35	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+35	5	fb:cell._336_529_844	$336,529,844	$|336,529,844	$|336,529,844	$|CD	MONEY|MONEY	$3.36529844E8|$3.36529844E8	3.36529844E8			$336,529,844
+35	6	fb:cell.sequel_to_1992_s_batman_returns	Sequel to 1992's Batman Returns	sequel|to|1992|'s|batman|returns	sequel|to|1992|'s|Batman|return	NN|TO|CD|POS|NNP|NNS	O|O|DATE|O|PERSON|O	||1992|||	1992.0			Sequel to 1992's Batman Returns
+36	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+36	1	fb:cell.judge_dredd	Judge Dredd	judge|dredd	Judge|Dredd	NNP|NNP	O|O	|				Judge Dredd
+36	2	fb:cell.ipc_media	IPC Media	ipc|media	IPC|Media	NNP|NNP	ORGANIZATION|ORGANIZATION	|				IPC Media
+36	3	fb:cell.danny_cannon	Danny Cannon	danny|cannon	Danny|Cannon	NNP|NNP	PERSON|PERSON	|				Danny Cannon
+36	4	fb:cell.hollywood_pictures	Hollywood Pictures	hollywood|pictures	Hollywood|picture	NNP|NNS	LOCATION|O	|				Hollywood Pictures
+36	5	fb:cell._113_493_481	$113,493,481	$|113,493,481	$|113,493,481	$|CD	MONEY|MONEY	$1.13493481E8|$1.13493481E8	1.13493481E8			$113,493,481
+36	6	fb:cell.null										
+37	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+37	1	fb:cell.tank_girl	Tank Girl	tank|girl	Tank|Girl	NNP|NNP	O|O	|				Tank Girl
+37	2	fb:cell.dark_horse_comics	Dark Horse Comics	dark|horse|comics	dark|horse|comic	JJ|NN|NNS	O|O|O	||				Dark Horse Comics
+37	3	fb:cell.rachel_talalay	Rachel Talalay	rachel|talalay	Rachel|Talalay	NNP|NNP	PERSON|PERSON	|				Rachel Talalay
+37	4	fb:cell.united_artists	United Artists	united|artists	United|Artists	NNP|NNP	ORGANIZATION|ORGANIZATION	|				United Artists
+37	5	fb:cell._4_064_495	$4,064,495	$|4,064,495	$|4,064,495	$|CD	MONEY|MONEY	$4064495.0|$4064495.0	4064495.0			$4,064,495
+37	6	fb:cell.null										
+38	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+38	1	fb:cell.mighty_morphin_power_rangers_the_movie	Mighty Morphin Power Rangers: The Movie	mighty|morphin|power|rangers|:|the|movie	Mighty|Morphin|Power|Rangers|:|the|movie	NNP|NNP|NNP|NNPS|:|DT|NN	O|O|O|O|O|O|O	||||||				Mighty Morphin Power Rangers: The Movie
+38	2	fb:cell.original	Original	original	original	JJ	O					Original
+38	3	fb:cell.bryan_spicer	Bryan Spicer	bryan|spicer	Bryan|Spicer	NNP|NNP	PERSON|PERSON	|				Bryan Spicer
+38	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+38	5	fb:cell._66_433_194	$66,433,194	$|66,433,194	$|66,433,194	$|CD	MONEY|MONEY	$6.6433194E7|$6.6433194E7	6.6433194E7			$66,433,194
+38	6	fb:cell.based_on_mighty_morphin_power_rangers_tv_series_characters_created_by_saban_entertainment	Based on Mighty Morphin Power Rangers TV series/\nCharacters created by Saban Entertainment	based|on|mighty|morphin|power|rangers|tv|series|/|characters|created|by|saban|entertainment	base|on|mighty|morphin|power|Rangers|TV|series|/|character|create|by|Saban|Entertainment	VBN|IN|JJ|NN|NN|NNPS|NNP|NNP|:|NNS|VBN|IN|NNP|NNP	O|O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O|O|O|O|ORGANIZATION|ORGANIZATION	|||||||||||||				Based on Mighty Morphin Power Rangers TV series|Characters created by Saban Entertainment
+39	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+39	1	fb:cell.black_scorpion	Black Scorpion	black|scorpion	black|scorpion	JJ|NN	O|O	|				Black Scorpion
+39	2	fb:cell.original	Original	original	original	JJ	O					Original
+39	3	fb:cell.jonathan_winfrey	Jonathan Winfrey	jonathan|winfrey	Jonathan|Winfrey	NNP|NNP	PERSON|PERSON	|				Jonathan Winfrey
+39	4	fb:cell.showtime	Showtime	showtime	Showtime	NNP	ORGANIZATION					Showtime
+39	5	fb:cell.television_film	Television film	television|film	television|film	NN|NN	O|O	|				Television film
+39	6	fb:cell.null										
+40	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+40	1	fb:cell.darkman_ii_the_return_of_durant	Darkman II: The Return of Durant	darkman|ii|:|the|return|of|durant	Darkman|II|:|the|return|of|Durant	NNP|NNP|:|DT|NN|IN|NNP	O|O|O|O|O|O|PERSON	||||||				Darkman II: The Return of Durant
+40	2	fb:cell.original	Original	original	original	JJ	O					Original
+40	3	fb:cell.bradford_may	Bradford May	bradford|may	Bradford|may	NNP|VBD-AUX	PERSON|O	|				Bradford May
+40	4	fb:cell.universal_studios	Universal Studios	universal|studios	universal|studio	JJ|NNS	ORGANIZATION|ORGANIZATION	|				Universal Studios
+40	5	fb:cell.direct_to_video	Direct-to-video	direct|to|video	direct|to|video	JJ|TO|NN	O|O|O	||				Direct-to-video
+40	6	fb:cell.sequel_to_1990_s_darkman	Sequel to 1990's Darkman	sequel|to|1990|'s|darkman	sequel|to|1990|'s|Darkman	NN|TO|CD|POS|NNP	O|O|DATE|O|O	||1990||	1990.0			Sequel to 1990's Darkman
+41	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+41	1	fb:cell.the_crow_city_of_angels	The Crow: City of Angels	the|crow|:|city|of|angels	the|crow|:|city|of|Angels	DT|NN|:|NN|IN|NNPS	O|O|O|O|O|O	|||||				The Crow: City of Angels
+41	2	fb:cell.caliber_comics	Caliber Comics	caliber|comics	Caliber|Comics	NNP|NNPS	O|O	|				Caliber Comics
+41	3	fb:cell.tim_pope	Tim Pope	tim|pope	Tim|Pope	NNP|NNP	PERSON|PERSON	|				Tim Pope
+41	4	fb:cell.miramax_films	Miramax Films	miramax|films	Miramax|film	NNP|NNS	ORGANIZATION|ORGANIZATION	|				Miramax Films
+41	5	fb:cell._17_917_287	$17,917,287	$|17,917,287	$|17,917,287	$|CD	MONEY|MONEY	$1.7917287E7|$1.7917287E7	1.7917287E7			$17,917,287
+41	6	fb:cell.sequel_to_1994_s_the_crow	Sequel to 1994's The Crow	sequel|to|1994|'s|the|crow	sequel|to|1994|'s|the|crow	NN|TO|CD|POS|DT|NN	O|O|DATE|O|O|O	||1994|||	1994.0			Sequel to 1994's The Crow
+42	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+42	1	fb:cell.barb_wire	Barb Wire	barb|wire	Barb|wire	NNP|NN	PERSON|PERSON	|				Barb Wire
+42	2	fb:cell.dark_horse_comics	Dark Horse Comics	dark|horse|comics	dark|horse|comic	JJ|NN|NNS	O|O|O	||				Dark Horse Comics
+42	3	fb:cell.david_hogan	David Hogan	david|hogan	David|Hogan	NNP|NNP	PERSON|PERSON	|				David Hogan
+42	4	fb:cell.universal_studios	Universal Studios	universal|studios	universal|studio	JJ|NNS	ORGANIZATION|ORGANIZATION	|				Universal Studios
+42	5	fb:cell._3_793_614	$3,793,614	$|3,793,614	$|3,793,614	$|CD	MONEY|MONEY	$3793614.0|$3793614.0	3793614.0			$3,793,614
+42	6	fb:cell.null										
+43	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+43	1	fb:cell.prey_of_the_jaguar	Prey of the Jaguar	prey|of|the|jaguar	prey|of|the|Jaguar	NN|IN|DT|NNP	O|O|O|ORGANIZATION	|||				Prey of the Jaguar
+43	2	fb:cell.original	Original	original	original	JJ	O					Original
+43	3	fb:cell.david_decoteau	David DeCoteau	david|decoteau	David|DeCoteau	NNP|NNP	PERSON|PERSON	|				David DeCoteau
+43	4	fb:cell.hit_entertainment	HIT Entertainment	hit|entertainment	hit|entertainment	VBN|NN	O|O	|				HIT Entertainment
+43	5	fb:cell.null										
+43	6	fb:cell.null										
+44	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+44	1	fb:cell.the_phantom	The Phantom	the|phantom	the|phantom	DT|JJ	O|O	|				The Phantom
+44	2	fb:cell.various	Various	various	various	JJ	O					Various
+44	3	fb:cell.simon_wincer	Simon Wincer	simon|wincer	Simon|Wincer	NNP|NNP	PERSON|PERSON	|				Simon Wincer
+44	4	fb:cell.paramount_pictures	Paramount Pictures	paramount|pictures	Paramount|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Paramount Pictures
+44	5	fb:cell._17_323_326	$17,323,326	$|17,323,326	$|17,323,326	$|CD	MONEY|MONEY	$1.7323326E7|$1.7323326E7	1.7323326E7			$17,323,326
+44	6	fb:cell.null										
+45	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+45	1	fb:cell.darkman_iii_die_darkman_die	Darkman III: Die Darkman Die	darkman|iii|:|die|darkman|die	Darkman|III|:|die|Darkman|die	NNP|NNP|:|VB|NNP|VB	PERSON|PERSON|O|O|O|O	|||||				Darkman III: Die Darkman Die
+45	2	fb:cell.original	Original	original	original	JJ	O					Original
+45	3	fb:cell.bradford_may	Bradford May	bradford|may	Bradford|may	NNP|VBD-AUX	PERSON|O	|				Bradford May
+45	4	fb:cell.universal_studios	Universal Studios	universal|studios	universal|studio	JJ|NNS	ORGANIZATION|ORGANIZATION	|				Universal Studios
+45	5	fb:cell.direct_to_video	Direct-to-video	direct|to|video	direct|to|video	JJ|TO|NN	O|O|O	||				Direct-to-video
+45	6	fb:cell.sequel_to_1995_s_darkman_ii_the_return_of_durant	Sequel to 1995's Darkman II: The Return of Durant	sequel|to|1995|'s|darkman|ii|:|the|return|of|durant	sequel|to|1995|'s|Darkman|II|:|the|return|of|Durant	NN|TO|CD|POS|NNP|NNP|:|DT|NN|IN|NNP	O|O|DATE|O|O|O|O|O|O|O|PERSON	||1995||||||||	1995.0			Sequel to 1995's Darkman II: The Return of Durant
+46	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+46	1	fb:cell.black_scorpion_ii_aftershock	Black Scorpion II: Aftershock	black|scorpion|ii|:|aftershock	black|scorpion|ii|:|aftershock	JJ|NN|CD|:|NN	O|O|NUMBER|O|O	||0.0||				Black Scorpion II: Aftershock
+46	2	fb:cell.original	Original	original	original	JJ	O					Original
+46	3	fb:cell.jonathan_winfrey	Jonathan Winfrey	jonathan|winfrey	Jonathan|Winfrey	NNP|NNP	PERSON|PERSON	|				Jonathan Winfrey
+46	4	fb:cell.showtime	Showtime	showtime	Showtime	NNP	ORGANIZATION					Showtime
+46	5	fb:cell.television_film	Television film	television|film	television|film	NN|NN	O|O	|				Television film
+46	6	fb:cell.sequel_to_1995_s_black_scorpion	Sequel to 1995's Black Scorpion	sequel|to|1995|'s|black|scorpion	sequel|to|1995|'s|black|scorpion	NN|TO|CD|POS|JJ|NN	O|O|DATE|O|O|O	||1995|||	1995.0			Sequel to 1995's Black Scorpion
+47	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+47	1	fb:cell.batman_robin	Batman & Robin	batman|&|robin	Batman|&|Robin	NNP|CC|NNP	O|O|PERSON	||				Batman & Robin
+47	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+47	3	fb:cell.joel_schumacher	Joel Schumacher	joel|schumacher	Joel|Schumacher	NNP|NNP	PERSON|PERSON	|				Joel Schumacher
+47	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+47	5	fb:cell._238_207_122	$238,207,122	$|238,207,122	$|238,207,122	$|CD	MONEY|MONEY	$2.38207122E8|$2.38207122E8	2.38207122E8			$238,207,122
+47	6	fb:cell.sequel_to_1995_s_batman_forever	Sequel to 1995's Batman Forever	sequel|to|1995|'s|batman|forever	sequel|to|1995|'s|Batman|forever	NN|TO|CD|POS|NNP|RB	O|O|DATE|O|O|O	||1995|||	1995.0			Sequel to 1995's Batman Forever
+48	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+48	1	fb:cell.spawn	Spawn	spawn	spawn	VB	O					Spawn
+48	2	fb:cell.image_comics	Image Comics	image|comics	image|comic	NN|NNS	O|O	|				Image Comics
+48	3	fb:cell.mark_a_z_dippe	Mark A.Z. Dippe	mark|a.z.|dippe	Mark|A.Z.|Dippe	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Mark A.Z. Dippe
+48	4	fb:cell.new_line_cinema	New Line Cinema	new|line|cinema	new|line|cinema	JJ|NN|NN	O|O|O	||				New Line Cinema
+48	5	fb:cell._87_840_042	$87,840,042	$|87,840,042	$|87,840,042	$|CD	MONEY|MONEY	$8.7840042E7|$8.7840042E7	8.7840042E7			$87,840,042
+48	6	fb:cell.null										
+49	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+49	1	fb:cell.steel	Steel	steel	steel	NN	O					Steel
+49	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+49	3	fb:cell.kenneth_johnson	Kenneth Johnson	kenneth|johnson	Kenneth|Johnson	NNP|NNP	PERSON|PERSON	|				Kenneth Johnson
+49	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+49	5	fb:cell._1_710_972	$1,710,972	$|1,710,972	$|1,710,972	$|CD	MONEY|MONEY	$1710972.0|$1710972.0	1710972.0			$1,710,972
+49	6	fb:cell.null										
+50	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+50	1	fb:cell.star_kid	Star Kid	star|kid	Star|Kid	NNP|NNP	O|O	|				Star Kid
+50	2	fb:cell.original	Original	original	original	JJ	O					Original
+50	3	fb:cell.manny_coto	Manny Coto	manny|coto	Manny|Coto	NNP|NNP	PERSON|PERSON	|				Manny Coto
+50	4	fb:cell.trimark_pictures	Trimark Pictures	trimark|pictures	Trimark|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Trimark Pictures
+50	5	fb:cell._7_029_025	$7,029,025	$|7,029,025	$|7,029,025	$|CD	MONEY|MONEY	$7029025.0|$7029025.0	7029025.0			$7,029,025
+50	6	fb:cell.null										
+51	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+51	1	fb:cell.blade	Blade	blade	blade	VB	O					Blade
+51	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+51	3	fb:cell.stephen_norrington	Stephen Norrington	stephen|norrington	Stephen|Norrington	NNP|NNP	PERSON|PERSON	|				Stephen Norrington
+51	4	fb:cell.new_line_cinema	New Line Cinema	new|line|cinema	new|line|cinema	JJ|NN|NN	O|O|O	||				New Line Cinema
+51	5	fb:cell._131_183_530	$131,183,530	$|131,183,530	$|131,183,530	$|CD	MONEY|MONEY	$1.3118353E8|$1.3118353E8	1.3118353E8			$131,183,530
+51	6	fb:cell.null										
+52	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+52	1	fb:cell.mystery_men	Mystery Men	mystery|men	mystery|man	NN|NNS	O|O	|				Mystery Men
+52	2	fb:cell.dark_horse_comics	Dark Horse Comics	dark|horse|comics	dark|horse|comic	JJ|NN|NNS	O|O|O	||				Dark Horse Comics
+52	3	fb:cell.kinka_usher	Kinka Usher	kinka|usher	Kinka|Usher	NNP|NNP	O|O	|				Kinka Usher
+52	4	fb:cell.universal_pictures	Universal Pictures	universal|pictures	universal|picture	JJ|NNS	ORGANIZATION|ORGANIZATION	|				Universal Pictures
+52	5	fb:cell._33_461_011	$33,461,011	$|33,461,011	$|33,461,011	$|CD	MONEY|MONEY	$3.3461011E7|$3.3461011E7	3.3461011E7			$33,461,011
+52	6	fb:cell.comedy_film	Comedy film	comedy|film	comedy|film	NN|NN	O|O	|				Comedy film
+53	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+53	1	fb:cell.the_crow_salvation	The Crow: Salvation	the|crow|:|salvation	the|crow|:|salvation	DT|NN|:|NN	O|O|O|O	|||				The Crow: Salvation
+53	2	fb:cell.caliber_comics	Caliber Comics	caliber|comics	Caliber|Comics	NNP|NNPS	O|O	|				Caliber Comics
+53	3	fb:cell.bharat_nalluri	Bharat Nalluri	bharat|nalluri	Bharat|Nalluri	NNP|NNP	PERSON|PERSON	|				Bharat Nalluri
+53	4	fb:cell.dimension_films	Dimension Films	dimension|films	dimension|film	NN|NNS	O|O	|				Dimension Films
+53	5	fb:cell.null										
+53	6	fb:cell.sequel_to_1996_s_the_crow_city_of_angels	Sequel to 1996's The Crow: City of Angels	sequel|to|1996|'s|the|crow|:|city|of|angels	sequel|to|1996|'s|the|crow|:|city|of|Angels	NN|TO|CD|POS|DT|NN|:|NN|IN|NNPS	O|O|DATE|O|O|O|O|O|O|O	||1996|||||||	1996.0			Sequel to 1996's The Crow: City of Angels
+54	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+54	1	fb:cell.x_men	X-Men	x|men	x|man	NN|NNS	O|O	|				X-Men
+54	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+54	3	fb:cell.bryan_singer	Bryan Singer	bryan|singer	Bryan|Singer	NNP|NNP	PERSON|PERSON	|				Bryan Singer
+54	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+54	5	fb:cell._296_339_527	$296,339,527	$|296,339,527	$|296,339,527	$|CD	MONEY|MONEY	$2.96339527E8|$2.96339527E8	2.96339527E8			$296,339,527
+54	6	fb:cell.null										
+55	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+55	1	fb:cell.citizen_toxie_the_toxic_avenger_part_iv	Citizen Toxie: The Toxic Avenger Part IV	citizen|toxie|:|the|toxic|avenger|part|iv	Citizen|Toxie|:|the|toxic|avenger|part|iv	NNP|NNP|:|DT|JJ|NN|NN|CD	O|PERSON|O|O|O|O|O|NUMBER	|||||||0.0				Citizen Toxie: The Toxic Avenger Part IV
+55	2	fb:cell.original	Original	original	original	JJ	O					Original
+55	3	fb:cell.lloyd_kaufman	Lloyd Kaufman	lloyd|kaufman	Lloyd|Kaufman	NNP|NNP	PERSON|PERSON	|				Lloyd Kaufman
+55	4	fb:cell.troma_entertainment	Troma Entertainment,	troma|entertainment|,	Troma|Entertainment|,	NNP|NNP|,	ORGANIZATION|ORGANIZATION|O	||				Troma Entertainment,
+55	5	fb:cell.null										
+55	6	fb:cell.sequel_to_1989_s_the_toxic_avenger_part_iii_the_last_temptation_of_toxie	Sequel to 1989's The Toxic Avenger Part III: The Last Temptation of Toxie	sequel|to|1989|'s|the|toxic|avenger|part|iii|:|the|last|temptation|of|toxie	sequel|to|1989|'s|the|toxic|avenger|part|iii|:|the|last|temptation|of|Toxie	NN|TO|CD|POS|DT|JJ|NN|NN|CD|:|DT|JJ|NN|IN|NNP	O|O|DATE|O|O|O|O|O|NUMBER|O|O|O|O|O|PERSON	||1989||||||0.0||||||	1989.0			Sequel to 1989's The Toxic Avenger Part III: The Last Temptation of Toxie
+56	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+56	1	fb:cell.the_specials	The Specials	the|specials	the|special	DT|NNS	O|O	|				The Specials
+56	2	fb:cell.original	Original	original	original	JJ	O					Original
+56	3	fb:cell.craig_mazin	Craig Mazin	craig|mazin	Craig|Mazin	NNP|NNP	PERSON|PERSON	|				Craig Mazin
+56	4	fb:cell.regent_entertainment	Regent Entertainment	regent|entertainment	Regent|Entertainment	NNP|NNP	O|O	|				Regent Entertainment
+56	5	fb:cell._13_276	$13,276	$|13,276	$|13,276	$|CD	MONEY|MONEY	$13276.0|$13276.0	13276.0			$13,276
+56	6	fb:cell.comedy_film	Comedy film	comedy|film	comedy|film	NN|NN	O|O	|				Comedy film
+57	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+57	1	fb:cell.unbreakable	Unbreakable	unbreakable	unbreakable	JJ	O					Unbreakable
+57	2	fb:cell.original	Original	original	original	JJ	O					Original
+57	3	fb:cell.m_night_shyamalan	M. Night Shyamalan	m.|night|shyamalan	M.|Night|Shyamalan	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				M. Night Shyamalan
+57	4	fb:cell.touchstone_pictures	Touchstone Pictures	touchstone|pictures	touchstone|picture	NN|NNS	O|O	|				Touchstone Pictures
+57	5	fb:cell._248_118_121	$248,118,121	$|248,118,121	$|248,118,121	$|CD	MONEY|MONEY	$2.48118121E8|$2.48118121E8	2.48118121E8			$248,118,121
+57	6	fb:cell.psychological_thriller	Psychological thriller	psychological|thriller	psychological|thriller	JJ|NN	O|O	|				Psychological thriller
+58	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+58	1	fb:cell.blade_ii	Blade II	blade|ii	Blade|II	NNP|NNP	O|O	|				Blade II
+58	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+58	3	fb:cell.guillermo_del_toro	Guillermo del Toro	guillermo|del|toro	Guillermo|del|Toro	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Guillermo del Toro
+58	4	fb:cell.new_line_cinema	New Line Cinema	new|line|cinema	new|line|cinema	JJ|NN|NN	O|O|O	||				New Line Cinema
+58	5	fb:cell._155_010_032	$155,010,032	$|155,010,032	$|155,010,032	$|CD	MONEY|MONEY	$1.55010032E8|$1.55010032E8	1.55010032E8			$155,010,032
+58	6	fb:cell.sequel_to_1998_s_blade	Sequel to 1998's Blade	sequel|to|1998|'s|blade	sequel|to|1998|'s|Blade	NN|TO|CD|POS|NNP	O|O|DATE|O|O	||1998||	1998.0			Sequel to 1998's Blade
+59	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+59	1	fb:cell.spider_man	Spider-Man	spider|man	Spider|Man	NNP|NNP	O|O	|				Spider-Man
+59	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+59	3	fb:cell.sam_raimi	Sam Raimi	sam|raimi	Sam|Raimi	NNP|NNP	PERSON|PERSON	|				Sam Raimi
+59	4	fb:cell.columbia_pictures	Columbia Pictures	columbia|pictures	Columbia|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Columbia Pictures
+59	5	fb:cell._821_708_551	$821,708,551	$|821,708,551	$|821,708,551	$|CD	MONEY|MONEY	$8.21708551E8|$8.21708551E8	8.21708551E8			$821,708,551
+59	6	fb:cell.null										
+60	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+60	1	fb:cell.daredevil	Daredevil	daredevil	Daredevil	NNP	O					Daredevil
+60	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+60	3	fb:cell.mark_steven_johnson	Mark Steven Johnson	mark|steven|johnson	Mark|Steven|Johnson	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Mark Steven Johnson
+60	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+60	5	fb:cell._179_179_718	$179,179,718	$|179,179,718	$|179,179,718	$|CD	MONEY|MONEY	$1.79179718E8|$1.79179718E8	1.79179718E8			$179,179,718
+60	6	fb:cell.null										
+61	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+61	1	fb:cell.x2_x_men_united	X2: X-Men United	x2|:|x|men|united	x2|:|x|man|United	NN|:|NN|NNS|NNP	O|O|O|O|O	||||	2.0			X2: X-Men United
+61	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+61	3	fb:cell.bryan_singer	Bryan Singer	bryan|singer	Bryan|Singer	NNP|NNP	PERSON|PERSON	|				Bryan Singer
+61	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+61	5	fb:cell._407_711_549	$407,711,549	$|407,711,549	$|407,711,549	$|CD	MONEY|MONEY	$4.07711549E8|$4.07711549E8	4.07711549E8			$407,711,549
+61	6	fb:cell.sequel_to_2000_s_x_men	Sequel to 2000's X-Men	sequel|to|2000|'s|x|men	sequel|to|2000|'s|x|man	NN|TO|CD|POS|NN|NNS	O|O|DATE|O|O|O	||2000|||	2000.0			Sequel to 2000's X-Men
+62	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+62	1	fb:cell.hulk	Hulk	hulk	hulk	NN	PERSON					Hulk
+62	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+62	3	fb:cell.ang_lee	Ang Lee	ang|lee	ang|Lee	NN|NNP	PERSON|PERSON	|				Ang Lee
+62	4	fb:cell.universal_studios	Universal Studios	universal|studios	universal|studio	JJ|NNS	ORGANIZATION|ORGANIZATION	|				Universal Studios
+62	5	fb:cell._245_360_480	$245,360,480	$|245,360,480	$|245,360,480	$|CD	MONEY|MONEY	$2.4536048E8|$2.4536048E8	2.4536048E8			$245,360,480
+62	6	fb:cell.null										
+63	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+63	1	fb:cell.the_league_of_extraordinary_gentlemen	The League of Extraordinary Gentlemen	the|league|of|extraordinary|gentlemen	the|league|of|extraordinary|gentleman	DT|NN|IN|JJ|NNS	O|O|O|O|O	||||				The League of Extraordinary Gentlemen
+63	2	fb:cell.wildstorm_dc_comics	WildStorm/DC Comics	wildstorm/dc|comics	WildStorm/DC|Comics	NNP|NNPS	O|O	|				WildStorm|DC Comics
+63	3	fb:cell.stephen_norrington	Stephen Norrington	stephen|norrington	Stephen|Norrington	NNP|NNP	PERSON|PERSON	|				Stephen Norrington
+63	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+63	5	fb:cell._179_265_204	$179,265,204	$|179,265,204	$|179,265,204	$|CD	MONEY|MONEY	$1.79265204E8|$1.79265204E8	1.79265204E8			$179,265,204
+63	6	fb:cell.null										
+64	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+64	1	fb:cell.hellboy	Hellboy	hellboy	Hellboy	NNP	O					Hellboy
+64	2	fb:cell.dark_horse_comics	Dark Horse Comics	dark|horse|comics	dark|horse|comic	JJ|NN|NNS	O|O|O	||				Dark Horse Comics
+64	3	fb:cell.guillermo_del_toro	Guillermo del Toro	guillermo|del|toro	Guillermo|del|Toro	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Guillermo del Toro
+64	4	fb:cell.columbia_pictures	Columbia Pictures	columbia|pictures	Columbia|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Columbia Pictures
+64	5	fb:cell._99_318_987	$99,318,987	$|99,318,987	$|99,318,987	$|CD	MONEY|MONEY	$9.9318987E7|$9.9318987E7	9.9318987E7			$99,318,987
+64	6	fb:cell.null										
+65	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+65	1	fb:cell.the_punisher	The Punisher	the|punisher	the|punisher	DT|NN	O|O	|				The Punisher
+65	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+65	3	fb:cell.jonathan_hensleigh	Jonathan Hensleigh	jonathan|hensleigh	Jonathan|Hensleigh	NNP|NNP	PERSON|PERSON	|				Jonathan Hensleigh
+65	4	fb:cell.lionsgate	Lionsgate	lionsgate	Lionsgate	NNP	ORGANIZATION					Lionsgate
+65	5	fb:cell._54_700_105	$54,700,105	$|54,700,105	$|54,700,105	$|CD	MONEY|MONEY	$5.4700105E7|$5.4700105E7	5.4700105E7			$54,700,105
+65	6	fb:cell.reboot_of_the_punisher_film_franchise	Reboot of The Punisher film franchise	reboot|of|the|punisher|film|franchise	reboot|of|the|punisher|film|franchise	NN|IN|DT|NN|NN|NN	O|O|O|O|O|O	|||||				Reboot of The Punisher film franchise
+66	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+66	1	fb:cell.spider_man_2	Spider-Man 2	spider|man|2	Spider|Man|2	NNP|NNP|CD	O|O|NUMBER	||2.0	2.0			Spider-Man 2
+66	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+66	3	fb:cell.sam_raimi	Sam Raimi	sam|raimi	Sam|Raimi	NNP|NNP	PERSON|PERSON	|				Sam Raimi
+66	4	fb:cell.columbia_pictures	Columbia Pictures	columbia|pictures	Columbia|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Columbia Pictures
+66	5	fb:cell._783_766_341	$783,766,341	$|783,766,341	$|783,766,341	$|CD	MONEY|MONEY	$7.83766341E8|$7.83766341E8	7.83766341E8			$783,766,341
+66	6	fb:cell.sequel_to_2002_s_spider_man	Sequel to 2002's Spider-Man	sequel|to|2002|'s|spider|man	sequel|to|2002|'s|Spider|man	NN|TO|CD|POS|NNP|NN	O|O|DATE|O|O|O	||2002|||	2002.0			Sequel to 2002's Spider-Man
+67	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+67	1	fb:cell.catwoman	Catwoman	catwoman	Catwoman	NNP	O					Catwoman
+67	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+67	3	fb:cell.pitof	Pitof	pitof	Pitof	NNP	PERSON					Pitof
+67	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+67	5	fb:cell._82_102_379	$82,102,379	$|82,102,379	$|82,102,379	$|CD	MONEY|MONEY	$8.2102379E7|$8.2102379E7	8.2102379E7			$82,102,379
+67	6	fb:cell.null										
+68	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+68	1	fb:cell.blade_trinity	Blade: Trinity	blade|:|trinity	Blade|:|Trinity	NNP|:|NNP	O|O|ORGANIZATION	||				Blade: Trinity
+68	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+68	3	fb:cell.david_s_goyer	David S. Goyer	david|s.|goyer	David|S.|Goyer	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				David S. Goyer
+68	4	fb:cell.new_line_cinema	New Line Cinema	new|line|cinema	new|line|cinema	JJ|NN|NN	O|O|O	||				New Line Cinema
+68	5	fb:cell._128_905_366	$128,905,366	$|128,905,366	$|128,905,366	$|CD	MONEY|MONEY	$1.28905366E8|$1.28905366E8	1.28905366E8			$128,905,366
+68	6	fb:cell.sequel_to_2002_s_blade_ii	Sequel to 2002's Blade II	sequel|to|2002|'s|blade|ii	sequel|to|2002|'s|Blade|II	NN|TO|CD|POS|NNP|NNP	O|O|DATE|O|O|O	||2002|||	2002.0			Sequel to 2002's Blade II
+69	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+69	1	fb:cell.elektra	Elektra	elektra	Elektra	NNP	ORGANIZATION					Elektra
+69	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+69	3	fb:cell.rob_bowman	Rob Bowman	rob|bowman	Rob|Bowman	NNP|NNP	PERSON|PERSON	|				Rob Bowman
+69	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+69	5	fb:cell._56_681_566	$56,681,566	$|56,681,566	$|56,681,566	$|CD	MONEY|MONEY	$5.6681566E7|$5.6681566E7	5.6681566E7			$56,681,566
+69	6	fb:cell.spin_off_to_2003_s_daredevil	Spin-off to 2003's Daredevil	spin|off|to|2003|'s|daredevil	spin|off|to|2003|'s|daredevil	VB|RP|TO|CD|POS|NN	O|O|O|DATE|O|O	|||2003||	2003.0			Spin-off to 2003's Daredevil
+70	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+70	1	fb:cell.constantine	Constantine	constantine	Constantine	NNP	PERSON					Constantine
+70	2	fb:cell.dc_comics_vertigo	DC Comics/Vertigo	dc|comics/vertigo	dc|comics/vertigo	NN|NN	O|O	|				DC Comics|Vertigo
+70	3	fb:cell.francis_lawrence	Francis Lawrence	francis|lawrence	Francis|Lawrence	NNP|NNP	PERSON|PERSON	|				Francis Lawrence
+70	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+70	5	fb:cell._230_884_728	$230,884,728	$|230,884,728	$|230,884,728	$|CD	MONEY|MONEY	$2.30884728E8|$2.30884728E8	2.30884728E8			$230,884,728
+70	6	fb:cell.null										
+71	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+71	1	fb:cell.the_crow_wicked_prayer	The Crow: Wicked Prayer	the|crow|:|wicked|prayer	the|crow|:|wicked|prayer	DT|NN|:|JJ|NN	O|O|O|O|O	||||				The Crow: Wicked Prayer
+71	2	fb:cell.caliber_comics	Caliber Comics	caliber|comics	Caliber|Comics	NNP|NNPS	O|O	|				Caliber Comics
+71	3	fb:cell.lance_mungia	Lance Mungia	lance|mungia	Lance|Mungia	NNP|NNP	PERSON|PERSON	|				Lance Mungia
+71	4	fb:cell.dimension_films	Dimension Films	dimension|films	dimension|film	NN|NNS	O|O	|				Dimension Films
+71	5	fb:cell.null										
+71	6	fb:cell.sequel_to_2000_s_the_crow_salvation	Sequel to 2000's The Crow: Salvation	sequel|to|2000|'s|the|crow|:|salvation	sequel|to|2000|'s|the|crow|:|salvation	NN|TO|CD|POS|DT|NN|:|NN	O|O|DATE|O|O|O|O|O	||2000|||||	2000.0			Sequel to 2000's The Crow: Salvation
+72	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+72	1	fb:cell.son_of_the_mask	Son of the Mask	son|of|the|mask	son|of|the|mask	NN|IN|DT|NN	O|O|O|O	|||				Son of the Mask
+72	2	fb:cell.dark_horse_comics	Dark Horse Comics	dark|horse|comics	dark|horse|comic	JJ|NN|NNS	O|O|O	||				Dark Horse Comics
+72	3	fb:cell.lawrence_guterman	Lawrence Guterman	lawrence|guterman	Lawrence|Guterman	NNP|NNP	PERSON|PERSON	|				Lawrence Guterman
+72	4	fb:cell.new_line_cinema	New Line Cinema	new|line|cinema	new|line|cinema	JJ|NN|NN	O|O|O	||				New Line Cinema
+72	5	fb:cell._57_552_641	$57,552,641	$|57,552,641	$|57,552,641	$|CD	MONEY|MONEY	$5.7552641E7|$5.7552641E7	5.7552641E7			$57,552,641
+72	6	fb:cell.sequel_to_1994_s_the_mask	Sequel to 1994's The Mask	sequel|to|1994|'s|the|mask	sequel|to|1994|'s|the|mask	NN|TO|CD|POS|DT|NN	O|O|DATE|O|O|O	||1994|||	1994.0			Sequel to 1994's The Mask
+73	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+73	1	fb:cell.the_adventures_of_sharkboy_and_lavagirl_in_3_d	The Adventures of Sharkboy and Lavagirl in 3-D	the|adventures|of|sharkboy|and|lavagirl|in|3|d	the|adventure|of|sharkboy|and|lavagirl|in|3|d	DT|NNS|IN|NN|CC|NN|IN|CD|NN	O|O|O|O|O|O|O|NUMBER|O	|||||||3.0|	3.0			The Adventures of Sharkboy and Lavagirl in 3-D
+73	2	fb:cell.original	Original	original	original	JJ	O					Original
+73	3	fb:cell.robert_rodriguez	Robert Rodriguez	robert|rodriguez	Robert|Rodriguez	NNP|NNP	PERSON|PERSON	|				Robert Rodriguez
+73	4	fb:cell.dimension_films_columbia_pictures	Dimension Films/\nColumbia Pictures	dimension|films|/|columbia|pictures	dimension|film|/|Columbia|Pictures	NN|NNS|:|NNP|NNP	O|O|O|ORGANIZATION|ORGANIZATION	||||				Dimension Films|Columbia Pictures
+73	5	fb:cell._69_425_967	$69,425,967	$|69,425,967	$|69,425,967	$|CD	MONEY|MONEY	$6.9425967E7|$6.9425967E7	6.9425967E7			$69,425,967
+73	6	fb:cell.comedy_family_film	Comedy, family film	comedy|,|family|film	comedy|,|family|film	NN|,|NN|NN	O|O|O|O	|||				Comedy|family film
+74	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+74	1	fb:cell.batman_begins	Batman Begins	batman|begins	Batman|begin	NNP|VBZ	PERSON|O	|				Batman Begins
+74	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+74	3	fb:cell.christopher_nolan	Christopher Nolan	christopher|nolan	Christopher|Nolan	NNP|NNP	PERSON|PERSON	|				Christopher Nolan
+74	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+74	5	fb:cell._374_218_673	$374,218,673	$|374,218,673	$|374,218,673	$|CD	MONEY|MONEY	$3.74218673E8|$3.74218673E8	3.74218673E8			$374,218,673
+74	6	fb:cell.reboot_of_the_batman_film_franchise	Reboot of the Batman film franchise	reboot|of|the|batman|film|franchise	reboot|of|the|Batman|film|franchise	NN|IN|DT|NNP|NN|NN	O|O|O|O|O|O	|||||				Reboot of the Batman film franchise
+75	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+75	1	fb:cell.fantastic_four	Fantastic Four	fantastic|four	fantastic|four	JJ|CD	O|NUMBER	|4.0				Fantastic Four
+75	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+75	3	fb:cell.tim_story	Tim Story	tim|story	Tim|Story	NNP|NNP	PERSON|PERSON	|				Tim Story
+75	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+75	5	fb:cell._330_579_719	$330,579,719	$|330,579,719	$|330,579,719	$|CD	MONEY|MONEY	$3.30579719E8|$3.30579719E8	3.30579719E8			$330,579,719
+75	6	fb:cell.null										
+76	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+76	1	fb:cell.man_thing	Man-Thing	man|thing	man|thing	NN|NN	O|O	|				Man-Thing
+76	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+76	3	fb:cell.brett_leonard	Brett Leonard	brett|leonard	Brett|Leonard	NNP|NNP	PERSON|PERSON	|				Brett Leonard
+76	4	fb:cell.cinemax	Cinemax	cinemax	Cinemax	NNP	PERSON					Cinemax
+76	5	fb:cell.direct_to_video	Direct-to-video	direct|to|video	direct|to|video	JJ|TO|NN	O|O|O	||				Direct-to-video
+76	6	fb:cell.null										
+77	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+77	1	fb:cell.sky_high	Sky High	sky|high	Sky|High	NNP|NNP	O|O	|				Sky High
+77	2	fb:cell.original	Original	original	original	JJ	O					Original
+77	3	fb:cell.mike_mitchell	Mike Mitchell	mike|mitchell	Mike|Mitchell	NNP|NNP	PERSON|PERSON	|				Mike Mitchell
+77	4	fb:cell.walt_disney_pictures	Walt Disney Pictures	walt|disney|pictures	Walt|Disney|Pictures	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Walt Disney Pictures
+77	5	fb:cell._86_369_815	$86,369,815	$|86,369,815	$|86,369,815	$|CD	MONEY|MONEY	$8.6369815E7|$8.6369815E7	8.6369815E7			$86,369,815
+77	6	fb:cell.comedy_family_film	Comedy, family film	comedy|,|family|film	comedy|,|family|film	NN|,|NN|NN	O|O|O|O	|||				Comedy|family film
+78	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+78	1	fb:cell.v_for_vendetta	V for Vendetta	v|for|vendetta	v|for|vendetta	NN|IN|NN	O|O|O	||				V for Vendetta
+78	2	fb:cell.dc_comics_vertigo	DC Comics/Vertigo	dc|comics/vertigo	dc|comics/vertigo	NN|NN	O|O	|				DC Comics|Vertigo
+78	3	fb:cell.james_mcteigue	James McTeigue	james|mcteigue	James|McTeigue	NNP|NNP	PERSON|PERSON	|				James McTeigue
+78	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+78	5	fb:cell._132_511_035	$132,511,035	$|132,511,035	$|132,511,035	$|CD	MONEY|MONEY	$1.32511035E8|$1.32511035E8	1.32511035E8			$132,511,035
+78	6	fb:cell.null										
+79	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+79	1	fb:cell.x_men_the_last_stand	X-Men: The Last Stand	x|men|:|the|last|stand	x|man|:|the|last|stand	NN|NNS|:|DT|JJ|NN	O|O|O|O|O|O	|||||				X-Men: The Last Stand
+79	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+79	3	fb:cell.brett_ratner	Brett Ratner	brett|ratner	Brett|Ratner	NNP|NNP	PERSON|PERSON	|				Brett Ratner
+79	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+79	5	fb:cell._459_359_555	$459,359,555	$|459,359,555	$|459,359,555	$|CD	MONEY|MONEY	$4.59359555E8|$4.59359555E8	4.59359555E8			$459,359,555
+79	6	fb:cell.sequel_to_2003_s_x2_x_men_united	Sequel to 2003's X2: X-Men United	sequel|to|2003|'s|x2|:|x|men|united	sequel|to|2003|'s|x2|:|x|man|United	NN|TO|CD|POS|NN|:|NN|NNS|NNP	O|O|DATE|O|O|O|O|O|O	||2003||||||	2003.0		2.0	Sequel to 2003's X2: X-Men United
+80	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+80	1	fb:cell.superman_returns	Superman Returns	superman|returns	Superman|return	NNP|NNS	O|O	|				Superman Returns
+80	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+80	3	fb:cell.bryan_singer	Bryan Singer	bryan|singer	Bryan|Singer	NNP|NNP	PERSON|PERSON	|				Bryan Singer
+80	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+80	5	fb:cell._391_081_192	$391,081,192	$|391,081,192	$|391,081,192	$|CD	MONEY|MONEY	$3.91081192E8|$3.91081192E8	3.91081192E8			$391,081,192
+80	6	fb:cell.alternative_sequel_to_1980_s_superman_ii	Alternative sequel to 1980's Superman II	alternative|sequel|to|1980|'s|superman|ii	alternative|sequel|to|1980|'s|Superman|II	JJ|NN|TO|CD|POS|NNP|NNP	O|O|O|DATE|O|O|O	|||1980|||	1980.0			Alternative sequel to 1980's Superman II
+81	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+81	1	fb:cell.lightspeed	Lightspeed	lightspeed	lightspeed	VBN	O					Lightspeed
+81	2	fb:cell.original	Original	original	original	JJ	O					Original
+81	3	fb:cell.don_e_fauntleroy	Don E. FauntLeRoy	don|e.|fauntleroy	Don|E.|FauntLeRoy	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Don E. FauntLeRoy
+81	4	fb:cell.nu_image_films	Nu Image Films	nu|image|films	Nu|image|film	NNP|NN|NNS	O|O|O	||				Nu Image Films
+81	5	fb:cell.direct_to_video	Direct-to-video	direct|to|video	direct|to|video	JJ|TO|NN	O|O|O	||				Direct-to-video
+81	6	fb:cell.created_by_stan_lee	Created by Stan Lee	created|by|stan|lee	create|by|Stan|Lee	VBN|IN|NNP|NNP	O|O|PERSON|PERSON	|||				Created by Stan Lee
+82	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+82	1	fb:cell.zoom	Zoom	zoom	zoom	VB	O					Zoom
+82	2	fb:cell.original	Original	original	original	JJ	O					Original
+82	3	fb:cell.peter_hewitt	Peter Hewitt	peter|hewitt	Peter|Hewitt	NNP|NNP	PERSON|PERSON	|				Peter Hewitt
+82	4	fb:cell.sony_pictures	Sony Pictures	sony|pictures	Sony|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Sony Pictures
+82	5	fb:cell._12_506_188	$12,506,188	$|12,506,188	$|12,506,188	$|CD	MONEY|MONEY	$1.2506188E7|$1.2506188E7	1.2506188E7			$12,506,188
+82	6	fb:cell.null										
+83	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+83	1	fb:cell.ghost_rider	Ghost Rider	ghost|rider	ghost|rider	NN|NN	O|O	|				Ghost Rider
+83	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+83	3	fb:cell.mark_steven_johnson	Mark Steven Johnson	mark|steven|johnson	Mark|Steven|Johnson	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Mark Steven Johnson
+83	4	fb:cell.columbia_pictures	Columbia Pictures	columbia|pictures	Columbia|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Columbia Pictures
+83	5	fb:cell._228_738_393	$228,738,393	$|228,738,393	$|228,738,393	$|CD	MONEY|MONEY	$2.28738393E8|$2.28738393E8	2.28738393E8			$228,738,393
+83	6	fb:cell.null										
+84	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+84	1	fb:cell.spider_man_3	Spider-Man 3	spider|man|3	Spider|Man|3	NNP|NNP|CD	O|O|NUMBER	||3.0	3.0			Spider-Man 3
+84	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+84	3	fb:cell.sam_raimi	Sam Raimi	sam|raimi	Sam|Raimi	NNP|NNP	PERSON|PERSON	|				Sam Raimi
+84	4	fb:cell.columbia_pictures	Columbia Pictures	columbia|pictures	Columbia|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Columbia Pictures
+84	5	fb:cell._890_871_626	$890,871,626	$|890,871,626	$|890,871,626	$|CD	MONEY|MONEY	$8.90871626E8|$8.90871626E8	8.90871626E8			$890,871,626
+84	6	fb:cell.sequel_to_2004_s_spider_man_2	Sequel to 2004's Spider-Man 2	sequel|to|2004|'s|spider|man|2	sequel|to|2004|'s|Spider|man|2	NN|TO|CD|POS|NNP|NN|CD	O|O|DATE|O|O|O|NUMBER	||2004||||2.0	2004.0		2.0	Sequel to 2004's Spider-Man 2
+85	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+85	1	fb:cell.fantastic_four_rise_of_the_silver_surfer	Fantastic Four: Rise of the Silver Surfer	fantastic|four|:|rise|of|the|silver|surfer	fantastic|four|:|rise|of|the|silver|surfer	JJ|CD|:|NN|IN|DT|NN|NN	O|NUMBER|O|O|O|O|O|O	|4.0||||||				Fantastic Four: Rise of the Silver Surfer
+85	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+85	3	fb:cell.tim_story	Tim Story	tim|story	Tim|Story	NNP|NNP	PERSON|PERSON	|				Tim Story
+85	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+85	5	fb:cell._289_047_763	$289,047,763	$|289,047,763	$|289,047,763	$|CD	MONEY|MONEY	$2.89047763E8|$2.89047763E8	2.89047763E8			$289,047,763
+85	6	fb:cell.sequel_to_2005_s_fantastic_four	Sequel to 2005's Fantastic Four	sequel|to|2005|'s|fantastic|four	sequel|to|2005|'s|fantastic|four	NN|TO|CD|POS|JJ|CD	O|O|DATE|O|O|NUMBER	||2005|||4.0	2005.0			Sequel to 2005's Fantastic Four
+86	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+86	1	fb:cell.underdog	Underdog	underdog	underdog	NN	O					Underdog
+86	2	fb:cell.various	Various	various	various	JJ	O					Various
+86	3	fb:cell.frederik_du_chau	Frederik Du Chau	frederik|du|chau	Frederik|Du|Chau	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Frederik Du Chau
+86	4	fb:cell.walt_disney_pictures	Walt Disney Pictures	walt|disney|pictures	Walt|Disney|Pictures	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Walt Disney Pictures
+86	5	fb:cell._65_270_477	$65,270,477	$|65,270,477	$|65,270,477	$|CD	MONEY|MONEY	$6.5270477E7|$6.5270477E7	6.5270477E7			$65,270,477
+86	6	fb:cell.null										
+87	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+87	1	fb:cell.superhero_movie	Superhero Movie	superhero|movie	Superhero|Movie	NNP|NNP	O|O	|				Superhero Movie
+87	2	fb:cell.original	Original	original	original	JJ	O					Original
+87	3	fb:cell.craig_mazin	Craig Mazin	craig|mazin	Craig|Mazin	NNP|NNP	PERSON|PERSON	|				Craig Mazin
+87	4	fb:cell.metro_goldwyn_mayer	Metro-Goldwyn-Mayer	metro|goldwyn|mayer	metro|Goldwyn|Mayer	NN|NNP|NNP	PERSON|PERSON|PERSON	||				Metro-Goldwyn-Mayer
+87	5	fb:cell._71_237_351	$71,237,351	$|71,237,351	$|71,237,351	$|CD	MONEY|MONEY	$7.1237351E7|$7.1237351E7	7.1237351E7			$71,237,351
+87	6	fb:cell.spoof_film	Spoof film	spoof|film	spoof|film	NN|NN	O|O	|				Spoof film
+88	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+88	1	fb:cell.iron_man	Iron Man	iron|man	Iron|Man	NNP|NNP	PERSON|PERSON	|				Iron Man
+88	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+88	3	fb:cell.jon_favreau	Jon Favreau	jon|favreau	Jon|Favreau	NNP|NNP	PERSON|PERSON	|				Jon Favreau
+88	4	fb:cell.paramount_pictures	Paramount Pictures	paramount|pictures	Paramount|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Paramount Pictures
+88	5	fb:cell._585_174_222	$585,174,222	$|585,174,222	$|585,174,222	$|CD	MONEY|MONEY	$5.85174222E8|$5.85174222E8	5.85174222E8			$585,174,222
+88	6	fb:cell.null										
+89	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+89	1	fb:cell.wanted	Wanted	wanted	want	VBN	O					Wanted
+89	2	fb:cell.top_cow_productions	Top Cow Productions	top|cow|productions	top|cow|production	JJ|NN|NNS	O|O|O	||				Top Cow Productions
+89	3	fb:cell.timur_bekmambetov	Timur Bekmambetov	timur|bekmambetov	Timur|Bekmambetov	NNP|NNP	PERSON|PERSON	|				Timur Bekmambetov
+89	4	fb:cell.universal_pictures	Universal Pictures	universal|pictures	universal|picture	JJ|NNS	ORGANIZATION|ORGANIZATION	|				Universal Pictures
+89	5	fb:cell._341_433_252	$341,433,252	$|341,433,252	$|341,433,252	$|CD	MONEY|MONEY	$3.41433252E8|$3.41433252E8	3.41433252E8			$341,433,252
+89	6	fb:cell.null										
+90	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+90	1	fb:cell.the_incredible_hulk	The Incredible Hulk	the|incredible|hulk	the|incredible|hulk	DT|JJ|NN	O|O|O	||				The Incredible Hulk
+90	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+90	3	fb:cell.louis_leterrier	Louis Leterrier	louis|leterrier	Louis|Leterrier	NNP|NNP	PERSON|PERSON	|				Louis Leterrier
+90	4	fb:cell.universal_studios	Universal Studios	universal|studios	universal|studio	JJ|NNS	ORGANIZATION|ORGANIZATION	|				Universal Studios
+90	5	fb:cell._263_427_551	$263,427,551	$|263,427,551	$|263,427,551	$|CD	MONEY|MONEY	$2.63427551E8|$2.63427551E8	2.63427551E8			$263,427,551
+90	6	fb:cell.reboot_of_the_hulk_film_franchise	Reboot of the Hulk film franchise	reboot|of|the|hulk|film|franchise	reboot|of|the|hulk|film|franchise	NN|IN|DT|NN|NN|NN	O|O|O|O|O|O	|||||				Reboot of the Hulk film franchise
+91	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+91	1	fb:cell.hancock	Hancock	hancock	Hancock	NNP	PERSON					Hancock
+91	2	fb:cell.original	Original	original	original	JJ	O					Original
+91	3	fb:cell.peter_berg	Peter Berg	peter|berg	Peter|Berg	NNP|NNP	PERSON|PERSON	|				Peter Berg
+91	4	fb:cell.columbia_pictures	Columbia Pictures	columbia|pictures	Columbia|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Columbia Pictures
+91	5	fb:cell._624_386_746	$624,386,746	$|624,386,746	$|624,386,746	$|CD	MONEY|MONEY	$6.24386746E8|$6.24386746E8	6.24386746E8			$624,386,746
+91	6	fb:cell.comedy_drama	Comedy-drama	comedy|drama	comedy|drama	NN|NN	O|O	|				Comedy-drama
+92	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+92	1	fb:cell.hellboy_ii_the_golden_army	Hellboy II: The Golden Army	hellboy|ii|:|the|golden|army	Hellboy|II|:|the|Golden|Army	NNP|NNP|:|DT|NNP|NNP	O|O|O|O|O|O	|||||				Hellboy II: The Golden Army
+92	2	fb:cell.dark_horse_comics	Dark Horse Comics	dark|horse|comics	dark|horse|comic	JJ|NN|NNS	O|O|O	||				Dark Horse Comics
+92	3	fb:cell.guillermo_del_toro	Guillermo del Toro	guillermo|del|toro	Guillermo|del|Toro	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Guillermo del Toro
+92	4	fb:cell.universal_studios	Universal Studios	universal|studios	universal|studio	JJ|NNS	ORGANIZATION|ORGANIZATION	|				Universal Studios
+92	5	fb:cell._160_388_063	$160,388,063	$|160,388,063	$|160,388,063	$|CD	MONEY|MONEY	$1.60388063E8|$1.60388063E8	1.60388063E8			$160,388,063
+92	6	fb:cell.sequel_to_2004_s_hellboy	Sequel to 2004's Hellboy	sequel|to|2004|'s|hellboy	sequel|to|2004|'s|Hellboy	NN|TO|CD|POS|NNP	O|O|DATE|O|O	||2004||	2004.0			Sequel to 2004's Hellboy
+93	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+93	1	fb:cell.the_dark_knight	The Dark Knight	the|dark|knight	the|dark|knight	DT|JJ|NN	O|O|O	||				The Dark Knight
+93	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+93	3	fb:cell.christopher_nolan	Christopher Nolan	christopher|nolan	Christopher|Nolan	NNP|NNP	PERSON|PERSON	|				Christopher Nolan
+93	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+93	5	fb:cell._1_004_558_444	$1,004,558,444	$|1,004,558,444	$|1,004,558,444	$|CD	MONEY|MONEY	$1.004558444E9|$1.004558444E9	1.004558444E9			$1,004,558,444
+93	6	fb:cell.sequel_to_2005_s_batman_begins	Sequel to 2005's Batman Begins	sequel|to|2005|'s|batman|begins	sequel|to|2005|'s|Batman|begin	NN|TO|CD|POS|NNP|VBZ	O|O|DATE|O|O|O	||2005|||	2005.0			Sequel to 2005's Batman Begins
+94	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+94	1	fb:cell.punisher_war_zone	Punisher: War Zone	punisher|:|war|zone	Punisher|:|War|Zone	NNP|:|NNP|NNP	O|O|O|O	|||				Punisher: War Zone
+94	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+94	3	fb:cell.lexi_alexander	Lexi Alexander	lexi|alexander	Lexi|Alexander	NNP|NNP	PERSON|PERSON	|				Lexi Alexander
+94	4	fb:cell.lionsgate	Lionsgate	lionsgate	Lionsgate	NNP	ORGANIZATION					Lionsgate
+94	5	fb:cell._10_100_036	$10,100,036	$|10,100,036	$|10,100,036	$|CD	MONEY|MONEY	$1.0100036E7|$1.0100036E7	1.0100036E7			$10,100,036
+94	6	fb:cell.reboot_of_the_punisher_film_franchise	Reboot of The Punisher film franchise	reboot|of|the|punisher|film|franchise	reboot|of|the|punisher|film|franchise	NN|IN|DT|NN|NN|NN	O|O|O|O|O|O	|||||				Reboot of The Punisher film franchise
+95	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+95	1	fb:cell.the_spirit	The Spirit	the|spirit	the|spirit	DT|NN	O|O	|				The Spirit
+95	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+95	3	fb:cell.frank_miller	Frank Miller	frank|miller	Frank|Miller	NNP|NNP	PERSON|PERSON	|				Frank Miller
+95	4	fb:cell.lionsgate	Lionsgate	lionsgate	Lionsgate	NNP	ORGANIZATION					Lionsgate
+95	5	fb:cell._39_031_337	$39,031,337	$|39,031,337	$|39,031,337	$|CD	MONEY|MONEY	$3.9031337E7|$3.9031337E7	3.9031337E7			$39,031,337
+95	6	fb:cell.null										
+96	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+96	1	fb:cell.watchmen	Watchmen	watchmen	Watchmen	NNP	O					Watchmen
+96	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+96	3	fb:cell.zack_snyder	Zack Snyder	zack|snyder	Zack|Snyder	NNP|NNP	PERSON|PERSON	|				Zack Snyder
+96	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+96	5	fb:cell._185_258_983	$185,258,983	$|185,258,983	$|185,258,983	$|CD	MONEY|MONEY	$1.85258983E8|$1.85258983E8	1.85258983E8			$185,258,983
+96	6	fb:cell.null										
+97	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+97	1	fb:cell.push	Push	push	push	NN	O					Push
+97	2	fb:cell.original	Original	original	original	JJ	O					Original
+97	3	fb:cell.paul_mcguigan	Paul McGuigan	paul|mcguigan	Paul|McGuigan	NNP|NNP	PERSON|PERSON	|				Paul McGuigan
+97	4	fb:cell.summit_entertainment	Summit Entertainment	summit|entertainment	summit|entertainment	NN|NN	O|O	|				Summit Entertainment
+97	5	fb:cell._48_808_215	$48,808,215	$|48,808,215	$|48,808,215	$|CD	MONEY|MONEY	$4.8808215E7|$4.8808215E7	4.8808215E7			$48,808,215
+97	6	fb:cell.null										
+98	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+98	1	fb:cell.x_men_origins_wolverine	X-Men Origins: Wolverine	x|men|origins|:|wolverine	x|man|origin|:|wolverine	NN|NNS|NNS|:|NN	O|O|O|O|O	||||				X-Men Origins: Wolverine
+98	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+98	3	fb:cell.gavin_hood	Gavin Hood	gavin|hood	Gavin|hood	NNP|NN	PERSON|PERSON	|				Gavin Hood
+98	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+98	5	fb:cell._373_062_864	$373,062,864	$|373,062,864	$|373,062,864	$|CD	MONEY|MONEY	$3.73062864E8|$3.73062864E8	3.73062864E8			$373,062,864
+98	6	fb:cell.prequel_to_the_x_men_film_trilogy	Prequel to the X-Men film trilogy	prequel|to|the|x|men|film|trilogy	prequel|to|the|x|man|film|trilogy	NN|TO|DT|NN|NNS|NN|NN	O|O|O|O|O|O|O	||||||				Prequel to the X-Men film trilogy
+99	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+99	1	fb:cell.defendor	Defendor	defendor	defendor	NN	O					Defendor
+99	2	fb:cell.original	Original	original	original	JJ	O					Original
+99	3	fb:cell.peter_stebbings	Peter Stebbings	peter|stebbings	Peter|Stebbings	NNP|NNP	PERSON|PERSON	|				Peter Stebbings
+99	4	fb:cell.sony_pictures_darius_films_alliance_films	Sony Pictures, Darius Films, Alliance Films	sony|pictures|,|darius|films|,|alliance|films	Sony|Pictures|,|Darius|film|,|alliance|film	NNP|NNP|,|NNP|NNS|,|NN|NNS	ORGANIZATION|ORGANIZATION|O|PERSON|O|O|O|O	|||||||				Sony Pictures|Darius Films|Alliance Films
+99	5	fb:cell._44_462	$44,462	$|44,462	$|44,462	$|CD	MONEY|MONEY	$44462.0|$44462.0	44462.0			$44,462
+99	6	fb:cell.null										
+100	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+100	1	fb:cell.kick_ass	Kick-Ass	kick|ass	kick|ass	NN|NN	O|O	|				Kick-Ass
+100	2	fb:cell.icon_comics_marvel_comics	Icon Comics/Marvel Comics	icon|comics/marvel|comics	icon|Comics/Marvel|Comics	NN|NNP|NNPS	O|O|O	||				Icon Comics|Marvel Comics
+100	3	fb:cell.matthew_vaughn	Matthew Vaughn	matthew|vaughn	Matthew|Vaughn	NNP|NNP	PERSON|PERSON	|				Matthew Vaughn
+100	4	fb:cell.lionsgate	Lionsgate	lionsgate	Lionsgate	NNP	ORGANIZATION					Lionsgate
+100	5	fb:cell._96_188_903	$96,188,903	$|96,188,903	$|96,188,903	$|CD	MONEY|MONEY	$9.6188903E7|$9.6188903E7	9.6188903E7			$96,188,903
+100	6	fb:cell.null										
+101	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+101	1	fb:cell.super	Super	super	Super	NNP	O					Super
+101	2	fb:cell.original	Original	original	original	JJ	O					Original
+101	3	fb:cell.james_gunn	James Gunn	james|gunn	James|Gunn	NNP|NNP	PERSON|PERSON	|				James Gunn
+101	4	fb:cell.ifc_films_studiocanal	IFC Films / StudioCanal	ifc|films|/|studiocanal	IFC|film|/|studiocanal	NNP|NNS|:|NN	ORGANIZATION|O|O|O	|||				IFC Films|StudioCanal
+101	5	fb:cell._327_716	$327,716	$|327,716	$|327,716	$|CD	MONEY|MONEY	$327716.0|$327716.0	327716.0			$327,716
+101	6	fb:cell.ifc_s_most_successful_vod_film_so_far	IFC's most successful VOD film so far	ifc|'s|most|successful|vod|film|so|far	IFC|'s|most|successful|vod|film|so|far	NNP|POS|RBS|JJ|NN|NN|RB|RB	ORGANIZATION|O|O|O|O|O|O|O	|||||||				IFC's most successful VOD film so far
+102	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+102	1	fb:cell.iron_man_2	Iron Man 2	iron|man|2	Iron|Man|2	NNP|NNP|CD	PERSON|PERSON|PERSON	||	2.0			Iron Man 2
+102	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+102	3	fb:cell.jon_favreau	Jon Favreau	jon|favreau	Jon|Favreau	NNP|NNP	PERSON|PERSON	|				Jon Favreau
+102	4	fb:cell.paramount_pictures	Paramount Pictures	paramount|pictures	Paramount|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Paramount Pictures
+102	5	fb:cell._623_933_331	$623,933,331	$|623,933,331	$|623,933,331	$|CD	MONEY|MONEY	$6.23933331E8|$6.23933331E8	6.23933331E8			$623,933,331
+102	6	fb:cell.sequel_to_2008_s_iron_man	Sequel to 2008's Iron Man	sequel|to|2008|'s|iron|man	sequel|to|2008|'s|iron|man	NN|TO|CD|POS|NN|NN	O|O|DATE|O|PERSON|PERSON	||2008|||	2008.0			Sequel to 2008's Iron Man
+103	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+103	1	fb:cell.jonah_hex	Jonah Hex	jonah|hex	Jonah|Hex	NNP|NNP	PERSON|PERSON	|				Jonah Hex
+103	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+103	3	fb:cell.jimmy_hayward	Jimmy Hayward	jimmy|hayward	Jimmy|Hayward	NNP|NNP	PERSON|PERSON	|				Jimmy Hayward
+103	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+103	5	fb:cell._10_903_312	$10,903,312	$|10,903,312	$|10,903,312	$|CD	MONEY|MONEY	$1.0903312E7|$1.0903312E7	1.0903312E7			$10,903,312
+103	6	fb:cell.null										
+104	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+104	1	fb:cell.the_green_hornet	The Green Hornet	the|green|hornet	the|green|hornet	DT|JJ|NN	O|O|O	||				The Green Hornet
+104	2	fb:cell.holyoke_publishing_now_comics	Holyoke Publishing/\nNOW Comics	holyoke|publishing|/|now|comics	Holyoke|Publishing|/|now|comic	NNP|NNP|:|RB|NNS	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				Holyoke Publishing|NOW Comics
+104	3	fb:cell.michel_gondry	Michel Gondry	michel|gondry	Michel|Gondry	NNP|NNP	PERSON|PERSON	|				Michel Gondry
+104	4	fb:cell.columbia_pictures	Columbia Pictures	columbia|pictures	Columbia|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Columbia Pictures
+104	5	fb:cell._227_817_248	$227,817,248	$|227,817,248	$|227,817,248	$|CD	MONEY|MONEY	$2.27817248E8|$2.27817248E8	2.27817248E8			$227,817,248
+104	6	fb:cell.null										
+105	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+105	1	fb:cell.thor	Thor	thor	Thor	NNP	PERSON					Thor
+105	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+105	3	fb:cell.kenneth_branagh	Kenneth Branagh	kenneth|branagh	Kenneth|Branagh	NNP|NNP	PERSON|PERSON	|				Kenneth Branagh
+105	4	fb:cell.paramount_pictures	Paramount Pictures	paramount|pictures	Paramount|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Paramount Pictures
+105	5	fb:cell._449_326_618	$449,326,618	$|449,326,618	$|449,326,618	$|CD	MONEY|MONEY	$4.49326618E8|$4.49326618E8	4.49326618E8			$449,326,618
+105	6	fb:cell.null										
+106	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+106	1	fb:cell.x_men_first_class	X-Men: First Class	x|men|:|first|class	x|man|:|first|class	NN|NNS|:|JJ|NN	O|O|O|ORDINAL|O	|||1.0|				X-Men: First Class
+106	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+106	3	fb:cell.matthew_vaughn	Matthew Vaughn	matthew|vaughn	Matthew|Vaughn	NNP|NNP	PERSON|PERSON	|				Matthew Vaughn
+106	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+106	5	fb:cell._353_624_124	$353,624,124	$|353,624,124	$|353,624,124	$|CD	MONEY|MONEY	$3.53624124E8|$3.53624124E8	3.53624124E8			$353,624,124
+106	6	fb:cell.prequel_to_the_x_men_film_trilogy	Prequel to the X-Men film trilogy	prequel|to|the|x|men|film|trilogy	prequel|to|the|x|man|film|trilogy	NN|TO|DT|NN|NNS|NN|NN	O|O|O|O|O|O|O	||||||				Prequel to the X-Men film trilogy
+107	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+107	1	fb:cell.green_lantern	Green Lantern	green|lantern	green|Lantern	JJ|NNP	O|O	|				Green Lantern
+107	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+107	3	fb:cell.martin_campbell	Martin Campbell	martin|campbell	Martin|Campbell	NNP|NNP	PERSON|PERSON	|				Martin Campbell
+107	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+107	5	fb:cell._219_851_172	$219,851,172	$|219,851,172	$|219,851,172	$|CD	MONEY|MONEY	$2.19851172E8|$2.19851172E8	2.19851172E8			$219,851,172
+107	6	fb:cell.null										
+108	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+108	1	fb:cell.vs	Vs	vs	vs	CC	O					Vs
+108	2	fb:cell.original	Original	original	original	JJ	O					Original
+108	3	fb:cell.jason_trost	Jason Trost	jason|trost	Jason|Trost	NNP|NNP	PERSON|PERSON	|				Jason Trost
+108	4	fb:cell.image_entertainment	Image Entertainment	image|entertainment	image|entertainment	NN|NN	O|O	|				Image Entertainment
+108	5	fb:cell.null										
+108	6	fb:cell.null										
+109	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+109	1	fb:cell.captain_america_the_first_avenger	Captain America: The First Avenger	captain|america|:|the|first|avenger	Captain|America|:|the|first|Avenger	NNP|NNP|:|DT|JJ|NNP	O|LOCATION|O|O|ORDINAL|O	||||1.0|				Captain America: The First Avenger
+109	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+109	3	fb:cell.joe_johnston	Joe Johnston	joe|johnston	Joe|Johnston	NNP|NNP	PERSON|PERSON	|				Joe Johnston
+109	4	fb:cell.paramount_pictures	Paramount Pictures	paramount|pictures	Paramount|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Paramount Pictures
+109	5	fb:cell._370_569_774	$370,569,774	$|370,569,774	$|370,569,774	$|CD	MONEY|MONEY	$3.70569774E8|$3.70569774E8	3.70569774E8			$370,569,774
+109	6	fb:cell.reboot_of_the_captain_america_film_franchise	Reboot of the Captain America film franchise	reboot|of|the|captain|america|film|franchise	reboot|of|the|Captain|America|film|franchise	NN|IN|DT|NNP|NNP|NNP|NN	O|O|O|O|PERSON|PERSON|PERSON	||||||				Reboot of the Captain America film franchise
+110	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+110	1	fb:cell.chronicle	Chronicle	chronicle	Chronicle	NNP	O					Chronicle
+110	2	fb:cell.original	Original	original	original	JJ	O					Original
+110	3	fb:cell.josh_trank	Josh Trank	josh|trank	Josh|Trank	NNP|NNP	PERSON|PERSON	|				Josh Trank
+110	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+110	5	fb:cell._126_636_097	$126,636,097	$|126,636,097	$|126,636,097	$|CD	MONEY|MONEY	$1.26636097E8|$1.26636097E8	1.26636097E8			$126,636,097
+110	6	fb:cell.superhero_movie_in_the_found_footage_genre	Superhero movie in the 'found-footage' genre	superhero|movie|in|the|`|found|footage|'|genre	Superhero|movie|in|the|`|find|footage|'|genre	NNP|NN|IN|DT|``|VBN|NN|''|NN	O|O|O|O|O|O|O|O|O	||||||||				Superhero movie in the 'found-footage' genre
+111	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+111	1	fb:cell.ghost_rider_spirit_of_vengeance	Ghost Rider: Spirit of Vengeance	ghost|rider|:|spirit|of|vengeance	ghost|rider|:|spirit|of|vengeance	NN|NN|:|NN|IN|NN	O|O|O|O|O|O	|||||				Ghost Rider: Spirit of Vengeance
+111	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+111	3	fb:cell.neveldine_taylor	Neveldine/Taylor	neveldine/taylor	neveldine/taylor	NN	O					Neveldine|Taylor
+111	4	fb:cell.columbia_pictures	Columbia Pictures	columbia|pictures	Columbia|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Columbia Pictures
+111	5	fb:cell._132_563_930	$132,563,930	$|132,563,930	$|132,563,930	$|CD	MONEY|MONEY	$1.3256393E8|$1.3256393E8	1.3256393E8			$132,563,930
+111	6	fb:cell.sequel_to_2007_s_ghost_rider	Sequel to 2007's Ghost Rider	sequel|to|2007|'s|ghost|rider	sequel|to|2007|'s|ghost|rider	NN|TO|CD|POS|NN|NN	O|O|DATE|O|O|O	||2007|||	2007.0			Sequel to 2007's Ghost Rider
+112	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+112	1	fb:cell.the_avengers	The Avengers	the|avengers	the|Avengers	DT|NNPS	O|O	|				The Avengers
+112	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+112	3	fb:cell.joss_whedon	Joss Whedon	joss|whedon	Joss|Whedon	NNP|NNP	PERSON|PERSON	|				Joss Whedon
+112	4	fb:cell.walt_disney_studios_motion_pictures	Walt Disney Studios Motion Pictures	walt|disney|studios|motion|pictures	Walt|Disney|Studios|Motion|Pictures	NNP|NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				Walt Disney Studios Motion Pictures
+112	5	fb:cell._1_518_594_910	$1,518,594,910	$|1,518,594,910	$|1,518,594,910	$|CD	MONEY|MONEY	$1.51859491E9|$1.51859491E9	1.51859491E9			$1,518,594,910
+112	6	fb:cell.in_continuity_with_2008_s_iron_man_and_the_incredible_hulk_2010_s_iron_man_2_and_2011_s_thor_and_captain_america_the_first_avenger	In continuity with 2008's Iron Man and The Incredible Hulk, 2010's Iron Man 2,\nand 2011's Thor and Captain America: The First Avenger	in|continuity|with|2008|'s|iron|man|and|the|incredible|hulk|,|2010|'s|iron|man|2|,|and|2011|'s|thor|and|captain|america|:|the|first|avenger	in|continuity|with|2008|'s|iron|man|and|the|incredible|hulk|,|2010|'s|iron|man|2|,|and|2011|'s|Thor|and|Captain|America|:|the|first|Avenger	IN|NN|IN|CD|POS|NN|NN|CC|DT|JJ|NN|,|CD|POS|NN|NN|CD|,|CC|CD|POS|NNP|CC|NNP|NNP|:|DT|JJ|NNP	O|O|O|DATE|O|O|O|O|O|O|O|O|DATE|O|O|O|NUMBER|O|DATE|DATE|O|O|O|O|LOCATION|O|O|ORDINAL|O	|||2008|||||||||2010||||2.0||2011|2011||||||||1.0|	2008.0		2010.0	In continuity with 2008's Iron Man and The Incredible Hulk|2010's Iron Man 2|and 2011's Thor and Captain America: The First Avenger
+113	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+113	1	fb:cell.the_amazing_spider_man	The Amazing Spider-Man	the|amazing|spider|man	the|amazing|spider|man	DT|JJ|NN|NN	O|O|O|O	|||				The Amazing Spider-Man
+113	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+113	3	fb:cell.marc_webb	Marc Webb	marc|webb	Marc|Webb	NNP|NNP	PERSON|PERSON	|				Marc Webb
+113	4	fb:cell.columbia_pictures	Columbia Pictures	columbia|pictures	Columbia|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Columbia Pictures
+113	5	fb:cell._752_216_557	$752,216,557	$|752,216,557	$|752,216,557	$|CD	MONEY|MONEY	$7.52216557E8|$7.52216557E8	7.52216557E8			$752,216,557
+113	6	fb:cell.reboot_of_the_spider_man_film_franchise	Reboot of the Spider-Man film franchise	reboot|of|the|spider|man|film|franchise	reboot|of|the|spider|man|film|franchise	NN|IN|DT|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||				Reboot of the Spider-Man film franchise
+114	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+114	1	fb:cell.the_dark_knight_rises	The Dark Knight Rises	the|dark|knight|rises	the|dark|knight|rise	DT|JJ|NN|NNS	O|O|O|O	|||				The Dark Knight Rises
+114	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+114	3	fb:cell.christopher_nolan	Christopher Nolan	christopher|nolan	Christopher|Nolan	NNP|NNP	PERSON|PERSON	|				Christopher Nolan
+114	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+114	5	fb:cell._1_084_439_099	$1,084,439,099	$|1,084,439,099	$|1,084,439,099	$|CD	MONEY|MONEY	$1.084439099E9|$1.084439099E9	1.084439099E9			$1,084,439,099
+114	6	fb:cell.sequel_to_2008_s_the_dark_knight	Sequel to 2008's The Dark Knight	sequel|to|2008|'s|the|dark|knight	sequel|to|2008|'s|the|dark|knight	NN|TO|CD|POS|DT|JJ|NN	O|O|DATE|O|O|O|O	||2008||||	2008.0			Sequel to 2008's The Dark Knight
+115	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+115	1	fb:cell.dredd	Dredd	dredd	Dredd	NNP	O					Dredd
+115	2	fb:cell.rebellion_developments	Rebellion Developments	rebellion|developments	rebellion|development	NN|NNS	O|O	|				Rebellion Developments
+115	3	fb:cell.pete_travis	Pete Travis	pete|travis	Pete|Travis	NNP|NNP	PERSON|PERSON	|				Pete Travis
+115	4	fb:cell.lionsgate	Lionsgate	lionsgate	Lionsgate	NNP	ORGANIZATION					Lionsgate
+115	5	fb:cell._35_626_525	$35,626,525	$|35,626,525	$|35,626,525	$|CD	MONEY|MONEY	$3.5626525E7|$3.5626525E7	3.5626525E7			$35,626,525
+115	6	fb:cell.reboot_of_the_judge_dredd_film_franchise	Reboot of the Judge Dredd film franchise	reboot|of|the|judge|dredd|film|franchise	reboot|of|the|judge|dredd|film|franchise	NN|IN|DT|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||				Reboot of the Judge Dredd film franchise
+116	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+116	1	fb:cell.iron_man_3	Iron Man 3	iron|man|3	Iron|Man|3	NNP|NNP|CD	PERSON|PERSON|PERSON	||	3.0			Iron Man 3
+116	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+116	3	fb:cell.shane_black	Shane Black	shane|black	Shane|Black	NNP|NNP	PERSON|PERSON	|				Shane Black
+116	4	fb:cell.walt_disney_studios_motion_pictures	Walt Disney Studios Motion Pictures	walt|disney|studios|motion|pictures	Walt|Disney|Studios|Motion|Pictures	NNP|NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				Walt Disney Studios Motion Pictures
+116	5	fb:cell._1_215_439_994	$1,215,439,994	$|1,215,439,994	$|1,215,439,994	$|CD	MONEY|MONEY	$1.215439994E9|$1.215439994E9	1.215439994E9			$1,215,439,994
+116	6	fb:cell.sequel_to_2010_s_iron_man_2	Sequel to 2010's Iron Man 2	sequel|to|2010|'s|iron|man|2	sequel|to|2010|'s|iron|man|2	NN|TO|CD|POS|NN|NN|CD	O|O|DATE|O|O|O|NUMBER	||2010||||2.0	2010.0		2.0	Sequel to 2010's Iron Man 2
+117	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+117	1	fb:cell.man_of_steel	Man of Steel	man|of|steel	man|of|steel	NN|IN|NN	O|O|O	||				Man of Steel
+117	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+117	3	fb:cell.zack_snyder	Zack Snyder	zack|snyder	Zack|Snyder	NNP|NNP	PERSON|PERSON	|				Zack Snyder
+117	4	fb:cell.warner_bros	Warner Bros.	warner|bros.|.	Warner|Bros.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Warner Bros.
+117	5	fb:cell._668_045_518	$668,045,518	$|668,045,518	$|668,045,518	$|CD	MONEY|MONEY	$6.68045518E8|$6.68045518E8	6.68045518E8			$668,045,518
+117	6	fb:cell.reboot_of_the_superman_film_franchise	Reboot of the Superman film franchise	reboot|of|the|superman|film|franchise	reboot|of|the|Superman|film|franchise	NN|IN|DT|NNP|NN|NN	O|O|O|O|O|O	|||||				Reboot of the Superman film franchise
+118	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+118	1	fb:cell.r_i_p_d	R.I.P.D.	r.i.p.d.	R.I.P.D.	NNP	O					R.I.P.D.
+118	2	fb:cell.dark_horse_comics	Dark Horse Comics	dark|horse|comics	dark|horse|comic	JJ|NN|NNS	O|O|O	||				Dark Horse Comics
+118	3	fb:cell.robert_schwentke	Robert Schwentke	robert|schwentke	Robert|Schwentke	NNP|NNP	PERSON|PERSON	|				Robert Schwentke
+118	4	fb:cell.universal_pictures	Universal Pictures	universal|pictures	universal|picture	JJ|NNS	ORGANIZATION|ORGANIZATION	|				Universal Pictures
+118	5	fb:cell._78_324_220	$78,324,220	$|78,324,220	$|78,324,220	$|CD	MONEY|MONEY	$7.832422E7|$7.832422E7	7.832422E7			$78,324,220
+118	6	fb:cell.null										
+119	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+119	1	fb:cell.the_wolverine	The Wolverine	the|wolverine	the|wolverine	DT|NN	O|O	|				The Wolverine
+119	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+119	3	fb:cell.james_mangold	James Mangold	james|mangold	James|Mangold	NNP|NNP	PERSON|PERSON	|				James Mangold
+119	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+119	5	fb:cell._414_828_246	$414,828,246	$|414,828,246	$|414,828,246	$|CD	MONEY|MONEY	$4.14828246E8|$4.14828246E8	4.14828246E8			$414,828,246
+119	6	fb:cell.sequel_to_the_x_men_film_trilogy	Sequel to the X-Men film trilogy	sequel|to|the|x|men|film|trilogy	sequel|to|the|x|man|film|trilogy	NN|TO|DT|NN|NNS|NN|NN	O|O|O|O|O|O|O	||||||				Sequel to the X-Men film trilogy
+120	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+120	1	fb:cell.kick_ass_2	Kick-Ass 2	kick|ass|2	kick|ass|2	NN|NN|CD	O|O|NUMBER	||2.0	2.0			Kick-Ass 2
+120	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+120	3	fb:cell.jeff_wadlow	Jeff Wadlow	jeff|wadlow	Jeff|Wadlow	NNP|NNP	PERSON|PERSON	|				Jeff Wadlow
+120	4	fb:cell.universal_studios	Universal Studios	universal|studios	universal|studio	JJ|NNS	ORGANIZATION|ORGANIZATION	|				Universal Studios
+120	5	fb:cell._59_556_104	$59,556,104	$|59,556,104	$|59,556,104	$|CD	MONEY|MONEY	$5.9556104E7|$5.9556104E7	5.9556104E7			$59,556,104
+120	6	fb:cell.sequel_to_2010_s_kick_ass	Sequel to 2010's Kick-Ass	sequel|to|2010|'s|kick|ass	sequel|to|2010|'s|kick|ass	NN|TO|CD|POS|NN|NN	O|O|DATE|O|O|O	||2010|||	2010.0			Sequel to 2010's Kick-Ass
+121	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+121	1	fb:cell.super_buddies	Super Buddies	super|buddies	Super|buddy	NNP|NNS	O|O	|				Super Buddies
+121	2	fb:cell.original	Original	original	original	JJ	O					Original
+121	3	fb:cell.robert_vince	Robert Vince	robert|vince	Robert|Vince	NNP|NNP	PERSON|PERSON	|				Robert Vince
+121	4	fb:cell.walt_disney_studios_home_entertainment	Walt Disney Studios Home Entertainment	walt|disney|studios|home|entertainment	Walt|Disney|Studios|Home|Entertainment	NNP|NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				Walt Disney Studios Home Entertainment
+121	5	fb:cell.direct_to_video_2	Direct to Video	direct|to|video	direct|to|video	JJ|TO|NN	O|O|O	||				Direct to Video
+121	6	fb:cell.7th_installment_in_the_air_buddies_franchise	7th installment in the Air Buddies franchise	7th|installment|in|the|air|buddies|franchise	7th|installment|in|the|air|buddy|franchise	JJ|NN|IN|DT|NN|NNS|NN	ORDINAL|O|O|O|O|O|O	7.0||||||	7.0			7th installment in the Air Buddies franchise
+122	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+122	1	fb:cell.thor_the_dark_world	Thor: The Dark World	thor|:|the|dark|world	Thor|:|the|dark|world	NNP|:|DT|JJ|NN	O|O|O|O|O	||||				Thor: The Dark World
+122	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+122	3	fb:cell.alan_taylor	Alan Taylor	alan|taylor	Alan|Taylor	NNP|NNP	PERSON|PERSON	|				Alan Taylor
+122	4	fb:cell.walt_disney_studios_motion_pictures	Walt Disney Studios Motion Pictures	walt|disney|studios|motion|pictures	Walt|Disney|Studios|Motion|Pictures	NNP|NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				Walt Disney Studios Motion Pictures
+122	5	fb:cell._629_972_697	$629,972,697	$|629,972,697	$|629,972,697	$|CD	MONEY|MONEY	$6.29972697E8|$6.29972697E8	6.29972697E8			$629,972,697
+122	6	fb:cell.sequel_to_2011_s_thor	Sequel to 2011's Thor	sequel|to|2011|'s|thor	sequel|to|2011|'s|Thor	NN|TO|CD|POS|NNP	O|O|DATE|O|PERSON	||2011||	2011.0			Sequel to 2011's Thor
+123	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+123	1	fb:cell.captain_america_the_winter_soldier	Captain America: The Winter Soldier	captain|america|:|the|winter|soldier	Captain|America|:|the|winter|soldier	NNP|NNP|:|DT|NN|NN	O|LOCATION|O|O|DATE|O	||||XXXX-WI|				Captain America: The Winter Soldier
+123	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+123	3	fb:cell.anthony_and_joseph_russo	Anthony and Joseph Russo	anthony|and|joseph|russo	Anthony|and|Joseph|Russo	NNP|CC|NNP|NNP	PERSON|O|PERSON|PERSON	|||				Anthony and Joseph Russo
+123	4	fb:cell.walt_disney_studios_motion_pictures	Walt Disney Studios Motion Pictures	walt|disney|studios|motion|pictures	Walt|Disney|Studios|Motion|Pictures	NNP|NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				Walt Disney Studios Motion Pictures
+123	5	fb:cell.null										
+123	6	fb:cell.sequel_to_2011_s_captain_america_the_first_avenger	Sequel to 2011's Captain America: The First Avenger	sequel|to|2011|'s|captain|america|:|the|first|avenger	sequel|to|2011|'s|Captain|America|:|the|first|Avenger	NN|TO|CD|POS|NNP|NNP|:|DT|JJ|NNP	O|O|DATE|O|O|LOCATION|O|O|ORDINAL|O	||2011||||||1.0|	2011.0			Sequel to 2011's Captain America: The First Avenger
+124	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+124	1	fb:cell.the_amazing_spider_man_2	The Amazing Spider-Man 2	the|amazing|spider|man|2	the|amazing|spider|man|2	DT|JJ|NN|NN|CD	O|O|O|O|NUMBER	||||2.0	2.0			The Amazing Spider-Man 2
+124	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+124	3	fb:cell.marc_webb	Marc Webb	marc|webb	Marc|Webb	NNP|NNP	PERSON|PERSON	|				Marc Webb
+124	4	fb:cell.columbia_pictures	Columbia Pictures	columbia|pictures	Columbia|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Columbia Pictures
+124	5	fb:cell.null										
+124	6	fb:cell.sequel_to_2012_s_the_amazing_spider_man	Sequel to 2012's The Amazing Spider-Man	sequel|to|2012|'s|the|amazing|spider|man	sequel|to|2012|'s|the|amazing|spider|man	NN|TO|CD|POS|DT|JJ|NN|NN	O|O|DATE|O|O|O|O|O	||2012|||||	2012.0			Sequel to 2012's The Amazing Spider-Man
+125	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+125	1	fb:cell.x_men_days_of_future_past	X-Men: Days of Future Past	x|men|:|days|of|future|past	x|man|:|day|of|future|past	NN|NNS|:|NNS|IN|JJ|NN	O|O|O|DURATION|O|DATE|DATE	|||PXD||FUTURE_REF|PAST_REF				X-Men: Days of Future Past
+125	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+125	3	fb:cell.bryan_singer	Bryan Singer	bryan|singer	Bryan|Singer	NNP|NNP	PERSON|PERSON	|				Bryan Singer
+125	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+125	5	fb:cell.null										
+125	6	fb:cell.sequel_to_2011_s_x_men_first_class_and_the_x_men_film_trilogy	Sequel to 2011's X-Men: First Class and the X-Men film trilogy	sequel|to|2011|'s|x|men|:|first|class|and|the|x|men|film|trilogy	sequel|to|2011|'s|x|man|:|first|class|and|the|x|man|film|trilogy	NN|TO|CD|POS|NN|NNS|:|JJ|NN|CC|DT|NN|NNS|NN|NN	O|O|DATE|O|O|O|O|ORDINAL|O|O|O|O|O|O|O	||2011|||||1.0|||||||	2011.0			Sequel to 2011's X-Men: First Class and the X-Men film trilogy
+126	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+126	1	fb:cell.teenage_mutant_ninja_turtles	Teenage Mutant Ninja Turtles	teenage|mutant|ninja|turtles	teenage|mutant|ninja|turtle	JJ|JJ|NN|NNS	O|O|O|O	|||				Teenage Mutant Ninja Turtles
+126	2	fb:cell.mirage_comics	Mirage Comics	mirage|comics	Mirage|Comics	NNP|NNPS	O|O	|				Mirage Comics
+126	3	fb:cell.jonathan_liebesman	Jonathan Liebesman	jonathan|liebesman	Jonathan|Liebesman	NNP|NNP	PERSON|PERSON	|				Jonathan Liebesman
+126	4	fb:cell.paramount_pictures	Paramount Pictures	paramount|pictures	Paramount|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Paramount Pictures
+126	5	fb:cell.null										
+126	6	fb:cell.reboot_of_the_teenage_mutant_ninja_turtles_film_franchise	Reboot of the Teenage Mutant Ninja Turtles film franchise	reboot|of|the|teenage|mutant|ninja|turtles|film|franchise	reboot|of|the|teenage|mutant|ninja|turtle|film|franchise	NN|IN|DT|JJ|JJ|NN|VBZ|NN|NN	O|O|O|O|O|O|O|O|O	||||||||				Reboot of the Teenage Mutant Ninja Turtles film franchise
+127	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+127	1	fb:cell.guardians_of_the_galaxy	Guardians of the Galaxy	guardians|of|the|galaxy	guardian|of|the|galaxy	NNS|IN|DT|NN	O|O|O|O	|||				Guardians of the Galaxy
+127	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+127	3	fb:cell.james_gunn	James Gunn	james|gunn	James|Gunn	NNP|NNP	PERSON|PERSON	|				James Gunn
+127	4	fb:cell.walt_disney_studios_motion_pictures	Walt Disney Studios Motion Pictures	walt|disney|studios|motion|pictures	Walt|Disney|Studios|Motion|Pictures	NNP|NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				Walt Disney Studios Motion Pictures
+127	5	fb:cell.null										
+127	6	fb:cell.null										
+128	0	fb:cell.2015	2015	2015	2015	CD	DATE	2015	2015.0	2015-xx-xx		
+128	1	fb:cell.the_fantastic_four	The Fantastic Four	the|fantastic|four	the|fantastic|four	DT|JJ|CD	O|O|NUMBER	||4.0				The Fantastic Four
+128	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+128	3	fb:cell.josh_trank	Josh Trank	josh|trank	Josh|Trank	NNP|NNP	PERSON|PERSON	|				Josh Trank
+128	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+128	5	fb:cell.null										
+128	6	fb:cell.reboot_of_the_fantastic_four_film_franchise	Reboot of the Fantastic Four film franchise	reboot|of|the|fantastic|four|film|franchise	reboot|of|the|fantastic|four|film|franchise	NN|IN|DT|JJ|CD|NN|NN	O|O|O|O|NUMBER|O|O	||||4.0||				Reboot of the Fantastic Four film franchise
+129	0	fb:cell.2015	2015	2015	2015	CD	DATE	2015	2015.0	2015-xx-xx		
+129	1	fb:cell.avengers_age_of_ultron	Avengers: Age of Ultron	avengers|:|age|of|ultron	Avengers|:|age|of|ultron	NNPS|:|NN|IN|NN	O|O|O|O|PERSON	||||				Avengers: Age of Ultron
+129	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+129	3	fb:cell.joss_whedon	Joss Whedon	joss|whedon	Joss|Whedon	NNP|NNP	PERSON|PERSON	|				Joss Whedon
+129	4	fb:cell.walt_disney_studios_motion_pictures	Walt Disney Studios Motion Pictures	walt|disney|studios|motion|pictures	Walt|Disney|Studios|Motion|Pictures	NNP|NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				Walt Disney Studios Motion Pictures
+129	5	fb:cell.null										
+129	6	fb:cell.sequel_to_2012_s_the_avengers	Sequel to 2012's The Avengers	sequel|to|2012|'s|the|avengers	sequel|to|2012|'s|the|Avengers	NN|TO|CD|POS|DT|NNPS	O|O|DATE|O|O|O	||2012|||	2012.0			Sequel to 2012's The Avengers
+130	0	fb:cell.2015	2015	2015	2015	CD	DATE	2015	2015.0	2015-xx-xx		
+130	1	fb:cell.ant_man	Ant-Man	ant|man	ant|man	NN|NN	O|O	|				Ant-Man
+130	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+130	3	fb:cell.edgar_wright	Edgar Wright	edgar|wright	Edgar|Wright	NNP|NNP	PERSON|PERSON	|				Edgar Wright
+130	4	fb:cell.walt_disney_studios_motion_pictures	Walt Disney Studios Motion Pictures	walt|disney|studios|motion|pictures	Walt|Disney|Studios|Motion|Pictures	NNP|NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				Walt Disney Studios Motion Pictures
+130	5	fb:cell.null										
+130	6	fb:cell.null										
+131	0	fb:cell.2016	2016	2016	2016	CD	DATE	2016	2016.0	2016-xx-xx		
+131	1	fb:cell.third_captain_america_film	Third Captain America film	third|captain|america|film	Third|Captain|America|film	NNP|NNP|NNP|NN	ORDINAL|O|PERSON|PERSON	3.0|||				Third Captain America film
+131	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+131	3	fb:cell.anthony_and_joseph_russo	Anthony and Joseph Russo	anthony|and|joseph|russo	Anthony|and|Joseph|Russo	NNP|CC|NNP|NNP	PERSON|O|PERSON|PERSON	|||				Anthony and Joseph Russo
+131	4	fb:cell.walt_disney_studios_motion_pictures	Walt Disney Studios Motion Pictures	walt|disney|studios|motion|pictures	Walt|Disney|Studios|Motion|Pictures	NNP|NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				Walt Disney Studios Motion Pictures
+131	5	fb:cell.null										
+131	6	fb:cell.sequel_to_2014_s_captain_america_the_winter_soldier	Sequel to 2014's Captain America: The Winter Soldier	sequel|to|2014|'s|captain|america|:|the|winter|soldier	sequel|to|2014|'s|Captain|America|:|the|winter|soldier	NN|TO|CD|POS|NNP|NNP|:|DT|NN|NN	O|O|DATE|O|O|LOCATION|O|O|DATE|O	||2014||||||XXXX-WI|	2014.0			Sequel to 2014's Captain America: The Winter Soldier
+132	0	fb:cell.2016	2016	2016	2016	CD	DATE	2016	2016.0	2016-xx-xx		
+132	1	fb:cell.untitled_man_of_steel_sequel	Untitled Man of Steel sequel	untitled|man|of|steel|sequel	untitled|man|of|steel|sequel	JJ|NN|IN|NN|NN	O|O|O|O|O	||||				Untitled Man of Steel sequel
+132	2	fb:cell.dc_comics	DC Comics	dc|comics	DC|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				DC Comics
+132	3	fb:cell.zack_snyder	Zack Snyder	zack|snyder	Zack|Snyder	NNP|NNP	PERSON|PERSON	|				Zack Snyder
+132	4	fb:cell.warner_bros_pictures	Warner Bros. Pictures	warner|bros.|.|pictures	Warner|Bros.|.|picture	NNP|NNP|.|NNS	ORGANIZATION|ORGANIZATION|O|O	|||				Warner Bros. Pictures
+132	5	fb:cell.null										
+132	6	fb:cell.crossover_team_up_with_superman_batman_and_wonder_woman_sequel_to_2013_s_man_of_steel	Crossover team up with Superman, Batman and Wonder Woman; sequel to 2013's Man of Steel;	crossover|team|up|with|superman|,|batman|and|wonder|woman|;|sequel|to|2013|'s|man|of|steel|;	Crossover|team|up|with|Superman|,|Batman|and|Wonder|woman|;|sequel|to|2013|'s|man|of|steel|;	NNP|NN|RP|IN|NNP|,|NNP|CC|NNP|NN|:|NN|TO|CD|POS|NN|IN|NN|:	O|O|O|O|O|O|PERSON|O|O|O|O|O|O|DATE|O|O|O|O|O	|||||||||||||2013|||||	2013.0			Crossover team up with Superman|Batman and Wonder Woman; sequel to 2013's Man of Steel;
+133	0	fb:cell.2016	2016	2016	2016	CD	DATE	2016	2016.0	2016-xx-xx		
+133	1	fb:cell.x_men_apocalypse	X-Men: Apocalypse	x|men|:|apocalypse	x|man|:|apocalypse	NN|NNS|:|NN	O|O|O|O	|||				X-Men: Apocalypse
+133	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+133	3	fb:cell.bryan_singer	Bryan Singer	bryan|singer	Bryan|Singer	NNP|NNP	PERSON|PERSON	|				Bryan Singer
+133	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+133	5	fb:cell.null										
+133	6	fb:cell.sequel_to_x_men_days_of_future_past	Sequel to X-Men: Days of Future Past	sequel|to|x|men|:|days|of|future|past	sequel|to|x|man|:|day|of|future|past	NN|TO|NN|NNS|:|NNS|IN|JJ|NN	O|O|O|O|O|DURATION|O|DATE|DATE	|||||PXD||FUTURE_REF|PAST_REF				Sequel to X-Men: Days of Future Past
+134	0	fb:cell.2016	2016	2016	2016	CD	DATE	2016	2016.0	2016-xx-xx		
+134	1	fb:cell.the_amazing_spider_man_3	The Amazing Spider-Man 3	the|amazing|spider|man|3	the|amazing|spider|man|3	DT|JJ|NN|NN|CD	O|O|O|O|NUMBER	||||3.0	3.0			The Amazing Spider-Man 3
+134	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+134	3	fb:cell.null										
+134	4	fb:cell.columbia_pictures	Columbia Pictures	columbia|pictures	Columbia|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Columbia Pictures
+134	5	fb:cell.null										
+134	6	fb:cell.sequel_to_2014_s_the_amazing_spider_man_2	Sequel to 2014's The Amazing Spider-Man 2	sequel|to|2014|'s|the|amazing|spider|man|2	sequel|to|2014|'s|the|amazing|spider|man|2	NN|TO|CD|POS|DT|JJ|NN|NN|CD	O|O|DATE|O|O|O|O|O|NUMBER	||2014||||||2.0	2014.0		2.0	Sequel to 2014's The Amazing Spider-Man 2
+135	0	fb:cell.2017	2017	2017	2017	CD	DATE	2017	2017.0	2017-xx-xx		
+135	1	fb:cell.untitled_the_wolverine_sequel	Untitled The Wolverine Sequel	untitled|the|wolverine|sequel	untitled|the|wolverine|sequel	JJ|DT|NN|NN	O|O|O|O	|||				Untitled The Wolverine Sequel
+135	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+135	3	fb:cell.null										
+135	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+135	5	fb:cell.null										
+135	6	fb:cell.sequel_to_the_wolverine	Sequel to The Wolverine	sequel|to|the|wolverine	sequel|to|the|wolverine	NN|TO|DT|NN	O|O|O|O	|||				Sequel to The Wolverine
+136	0	fb:cell.2017	2017	2017	2017	CD	DATE	2017	2017.0	2017-xx-xx		
+136	1	fb:cell.untitled_the_fantastic_four_sequel	Untitled The Fantastic Four Sequel	untitled|the|fantastic|four|sequel	untitled|the|fantastic|four|sequel	JJ|DT|JJ|CD|NN	O|O|O|NUMBER|O	|||4.0|				Untitled The Fantastic Four Sequel
+136	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+136	3	fb:cell.null										
+136	4	fb:cell.20th_century_fox	20th Century Fox	20th|century|fox	20th|Century|Fox	JJ|NNP|NNP	DATE|DATE|O	19XX|19XX|	20.0			20th Century Fox
+136	5	fb:cell.null										
+136	6	fb:cell.sequel_to_the_reboot_of_the_fantastic_four_film_franchise	Sequel to the reboot of the Fantastic Four film franchise	sequel|to|the|reboot|of|the|fantastic|four|film|franchise	sequel|to|the|reboot|of|the|fantastic|four|film|franchise	NN|TO|DT|NN|IN|DT|JJ|CD|NN|NN	O|O|O|O|O|O|O|NUMBER|O|O	|||||||4.0||				Sequel to the reboot of the Fantastic Four film franchise
+137	0	fb:cell.2018	2018	2018	2018	CD	DATE	2018	2018.0	2018-xx-xx		
+137	1	fb:cell.the_amazing_spider_man_4	The Amazing Spider-Man 4	the|amazing|spider|man|4	the|amazing|spider|man|4	DT|JJ|NN|NN|CD	O|O|O|O|NUMBER	||||4.0	4.0			The Amazing Spider-Man 4
+137	2	fb:cell.marvel_comics	Marvel Comics	marvel|comics	Marvel|Comics	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Marvel Comics
+137	3	fb:cell.null										
+137	4	fb:cell.columbia_pictures	Columbia Pictures	columbia|pictures	Columbia|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Columbia Pictures
+137	5	fb:cell.null										
+137	6	fb:cell.sequel_to_2016_s_the_amazing_spider_man_3	Sequel to 2016's The Amazing Spider-Man 3	sequel|to|2016|'s|the|amazing|spider|man|3	sequel|to|2016|'s|the|amazing|spider|man|3	NN|TO|CD|POS|DT|JJ|NN|NN|CD	O|O|DATE|O|O|O|O|O|NUMBER	||2016||||||3.0	2016.0		3.0	Sequel to 2016's The Amazing Spider-Man 3

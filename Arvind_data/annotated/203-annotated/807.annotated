@@ -1,0 +1,46 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.null										
+-1	1	fb:row.row._be	'be'	`|be|'	`|be|'	``|VBD-AUX|''	O|O|O	||				
+-1	2	fb:row.row._remain	'remain'	`|remain|'	`|remain|'	``|VBP|''	O|O|O	||				
+-1	3	fb:row.row._give	'give'	`|give|'	`|give|'	``|VB|''	O|O|O	||				
+-1	4	fb:row.row._save	'save'	`|save|'	`|save|'	``|VB|''	O|O|O	||				
+0	0	fb:cell.1st_sg	1st sg	1st|sg	1st|sg	CD|NNP	ORDINAL|O	1.0|	1.0			
+0	1	fb:cell.esmi	esmì	esmì	esmì	NN	PERSON					
+0	2	fb:cell.liekmi	liekmì	liekmì	liekmì	NN	PERSON					
+0	3	fb:cell.duomi	dúomi	dúomi	dúomi	NNP	PERSON					
+0	4	fb:cell.gelbmi	gélbmi	gélbmi	gélbmi	NNP	PERSON					
+1	0	fb:cell.2nd_sg	2nd sg	2nd|sg	2nd|sg	JJ|NN	ORDINAL|O	2.0|	2.0			
+1	1	fb:cell.esi	esì	esì	esì	NN	O					
+1	2	fb:cell.lieksi	lieksì	lieksì	lieksì	NN	PERSON					
+1	3	fb:cell.duosi	dúosi	dúosi	dúosi	NNP	PERSON					
+1	4	fb:cell.gelbsi	gélbsi	gélbsi	gélbsi	NNP	PERSON					
+2	0	fb:cell.3rd_sg	3rd sg	3rd|sg	3rd|sg	JJ|NN	ORDINAL|O	3.0|	3.0			
+2	1	fb:cell.est_i	ẽst(i)	ẽst|-lrb-|i|-rrb-	ẽst|-lrb-|i|-rrb-	NN|-LRB-|NN|-RRB-	O|O|O|O	|||				
+2	2	fb:cell.liekt_i	liẽkt(i)	liẽkt|-lrb-|i|-rrb-	liẽkt|-lrb-|i|-rrb-	NN|-LRB-|NN|-RRB-	PERSON|O|O|O	|||				
+2	3	fb:cell.duost_i	dúost(i)	dúost|-lrb-|i|-rrb-	dúost|-lrb-|i|-rrb-	NN|-LRB-|NN|-RRB-	O|O|O|O	|||				
+2	4	fb:cell.gelbt_i	gélbt(i)	gélbt|-lrb-|i|-rrb-	gélbt|-lrb-|i|-rrb-	NN|-LRB-|NN|-RRB-	O|O|O|O	|||				
+3	0	fb:cell.1st_dual	1st dual	1st|dual	1st|dual	JJ|JJ	ORDINAL|O	1.0|	1.0			
+3	1	fb:cell.esva	esvà	esvà	esvà	NN	PERSON					
+3	2	fb:cell.liekva	liekvà	liekvà	liekvà	NN	PERSON					
+3	3	fb:cell.duova	dúova	dúova	dúova	NNP	PERSON					
+3	4	fb:cell.gelbva	gélbva	gélbva	gélbva	NNP	PERSON					
+4	0	fb:cell.2nd_dual	2nd dual	2nd|dual	2nd|dual	JJ|JJ	ORDINAL|O	2.0|	2.0			
+4	1	fb:cell.esta	està	està	està	NN	O					
+4	2	fb:cell.liekta	liektà	liektà	liektà	NN	PERSON					
+4	3	fb:cell.duosta	dúosta	dúosta	dúosta	NNP	PERSON					
+4	4	fb:cell.gelbta	gélbta	gélbta	gélbta	NNP	PERSON					
+5	0	fb:cell.1st_pl	1st pl	1st|pl	1st|pl	CD|NN	ORDINAL|O	1.0|	1.0			
+5	1	fb:cell.esme	esmè	esmè	esmè	NN	PERSON					
+5	2	fb:cell.liekme	liekmè	liekmè	liekmè	NN	PERSON					
+5	3	fb:cell.duome	dúome	dúome	dúome	NNP	O					
+5	4	fb:cell.gelbme	gélbme	gélbme	gélbme	NNP	PERSON					
+6	0	fb:cell.2nd_pl	2nd pl	2nd|pl	2nd|pl	JJ|NN	ORDINAL|O	2.0|	2.0			
+6	1	fb:cell.este	estè	estè	estè	NN	O					
+6	2	fb:cell.liekte	liektè	liektè	liektè	NN	PERSON					
+6	3	fb:cell.duoste	dúoste	dúoste	dúoste	NNP	PERSON					
+6	4	fb:cell.gelbte	gélbte	gélbte	gélbte	NNP	PERSON					
+7	0	fb:cell.3rd_pl	3rd pl	3rd|pl	3rd|pl	JJ|NN	ORDINAL|O	3.0|	3.0			
+7	1	fb:cell.esti	ẽsti	ẽsti	ẽsti	NNP	PERSON					
+7	2	fb:cell.liekt_i	liẽkt(i)	liẽkt|-lrb-|i|-rrb-	liẽkt|-lrb-|i|-rrb-	NN|-LRB-|NN|-RRB-	PERSON|O|O|O	|||				
+7	3	fb:cell.duost_i	dúost(i)	dúost|-lrb-|i|-rrb-	dúost|-lrb-|i|-rrb-	NN|-LRB-|NN|-RRB-	O|O|O|O	|||				
+7	4	fb:cell.gelbt_i	gélbt(i)	gélbt|-lrb-|i|-rrb-	gélbt|-lrb-|i|-rrb-	NN|-LRB-|NN|-RRB-	O|O|O|O	|||				

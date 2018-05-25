@@ -1,0 +1,881 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.number	Number	number	number	NN	O					
+-1	1	fb:row.row.south_west_end	South/west end	south/west|end	south/west|end	NN|NN	O|O	|				
+-1	2	fb:row.row.north_east_end	North/east end	north/east|end	north/east|end	JJ|NN	O|O	|				
+-1	3	fb:row.row.formed	Formed	formed	form	VBN	O					
+-1	4	fb:row.row.eliminated	Eliminated	eliminated	eliminate	VBN	O					
+0	0	fb:cell.u_s_route_20	U.S. Route 20	u.s.|route|20	U.S.|route|20	NNP|NN|CD	LOCATION|O|NUMBER	||20.0				
+0	1	fb:cell.us_101_in_newport	US 101 in Newport	us|101|in|newport	we|101|in|Newport	PRP|CD|IN|NNP	LOCATION|NUMBER|O|LOCATION	|101.0||	101.0			US 101 in Newport
+0	2	fb:cell.us_20_us_26_towards_boise_id	US 20/US 26 towards Boise, ID	us|20/us|26|towards|boise|,|id	we|20/us|26|towards|Boise|,|id	PRP|VBZ|CD|IN|NNP|,|NN	O|O|NUMBER|O|LOCATION|O|O	||26.0||||	20.0		26.0	US 20|US 26 towards Boise|ID
+0	3	fb:cell.1940	1940	1940	1940	CD	DATE	1940	1940.0	1940-xx-xx		
+0	4	fb:cell.null										
+1	0	fb:cell.u_s_route_20_business	U.S. Route 20 Business	u.s.|route|20|business	U.S.|route|20|business	NNP|NN|CD|NN	LOCATION|O|NUMBER|O	||20.0|				
+1	1	fb:cell.us_20_northwest_of_toledo	US 20 northwest of Toledo	us|20|northwest|of|toledo	we|20|northwest|of|Toledo	PRP|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|20.0|||	20.0			US 20 northwest of Toledo
+1	2	fb:cell.us_20_northeast_of_toledo	US 20 northeast of Toledo	us|20|northeast|of|toledo	we|20|northeast|of|Toledo	PRP|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|20.0|||	20.0			US 20 northeast of Toledo
+1	3	fb:cell.null										
+1	4	fb:cell.null										
+2	0	fb:cell.u_s_route_20_business	U.S. Route 20 Business	u.s.|route|20|business	U.S.|route|20|business	NNP|NN|CD|NN	LOCATION|O|NUMBER|O	||20.0|				
+2	1	fb:cell.us_20_us_97b_in_bend	US 20/US 97B in Bend	us|20/us|97b|in|bend	we|20/us|97b|in|Bend	PRP|VBZ|NN|IN|NNP	O|O|O|O|O	||||	20.0		97.0	US 20|US 97B in Bend
+2	2	fb:cell.us_20_us_97b_in_bend	US 20/US 97B in Bend	us|20/us|97b|in|bend	we|20/us|97b|in|Bend	PRP|VBZ|NN|IN|NNP	O|O|O|O|O	||||	20.0		97.0	US 20|US 97B in Bend
+2	3	fb:cell.1980s	1980s	1980s	1980s	CD	DATE	198X	1980.0			
+2	4	fb:cell.null										
+3	0	fb:cell.u_s_route_26	U.S. Route 26	u.s.|route|26	U.S.|route|26	NNP|NN|CD	LOCATION|O|NUMBER	||26.0				
+3	1	fb:cell.us_101_south_of_seaside	US 101 south of Seaside	us|101|south|of|seaside	we|101|south|of|Seaside	PRP|CD|NNP|IN|NNP	LOCATION|NUMBER|O|O|O	|101.0|||	101.0			US 101 south of Seaside
+3	2	fb:cell.us_20_us_26_towards_boise_id	US 20/US 26 towards Boise, ID	us|20/us|26|towards|boise|,|id	we|20/us|26|towards|Boise|,|id	PRP|VBZ|CD|IN|NNP|,|NN	O|O|NUMBER|O|LOCATION|O|O	||26.0||||	20.0		26.0	US 20|US 26 towards Boise|ID
+3	3	fb:cell.1952	1952	1952	1952	CD	DATE	1952	1952.0	1952-xx-xx		
+3	4	fb:cell.null										
+4	0	fb:cell.u_s_route_126	U.S. Route 126	u.s.|route|126	U.S.|route|126	NNP|NN|CD	LOCATION|O|NUMBER	||126.0				
+4	1	fb:cell.or_99_in_eugene	OR 99 in Eugene	or|99|in|eugene	or|99|in|Eugene	CC|CD|IN|NNP	O|NUMBER|O|PERSON	|99.0||	99.0			OR 99 in Eugene
+4	2	fb:cell.us_26_in_prineville	US 26 in Prineville	us|26|in|prineville	we|26|in|Prineville	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|26.0||	26.0			US 26 in Prineville
+4	3	fb:cell.1952	1952	1952	1952	CD	DATE	1952	1952.0	1952-xx-xx		
+4	4	fb:cell.1972	1972	1972	1972	CD	DATE	1972	1972.0	1972-xx-xx		
+5	0	fb:cell.u_s_route_28	U.S. Route 28	u.s.|route|28	U.S.|route|28	NNP|NN|CD	LOCATION|O|NUMBER	||28.0				
+5	1	fb:cell.or_99_in_eugene	OR 99 in Eugene	or|99|in|eugene	or|99|in|Eugene	CC|CD|IN|NNP	O|NUMBER|O|PERSON	|99.0||	99.0			OR 99 in Eugene
+5	2	fb:cell.former_us_30_in_ontario	Former US 30 in Ontario	former|us|30|in|ontario	former|US|30|in|Ontario	JJ|NNP|CD|IN|NNP	O|O|NUMBER|O|LOCATION	||30.0||	30.0			Former US 30 in Ontario
+5	3	fb:cell.1926	1926	1926	1926	CD	DATE	1926	1926.0	1926-xx-xx		
+5	4	fb:cell.1952	1952	1952	1952	CD	DATE	1952	1952.0	1952-xx-xx		
+6	0	fb:cell.u_s_route_30	U.S. Route 30	u.s.|route|30	U.S.|route|30	NNP|NN|CD	LOCATION|O|NUMBER	||30.0				
+6	1	fb:cell.us_101_in_astoria	US 101 in Astoria	us|101|in|astoria	we|101|in|Astoria	PRP|CD|IN|NNP	LOCATION|NUMBER|O|LOCATION	|101.0||	101.0			US 101 in Astoria
+6	2	fb:cell.us_30_in_fruitland_id	US 30 in Fruitland, ID	us|30|in|fruitland|,|id	we|30|in|Fruitland|,|id	PRP|CD|IN|NNP|,|NN	O|NUMBER|O|LOCATION|O|O	|30.0||||	30.0			US 30 in Fruitland|ID
+6	3	fb:cell.1926	1926	1926	1926	CD	DATE	1926	1926.0	1926-xx-xx		
+6	4	fb:cell.null										
+7	0	fb:cell.u_s_route_30_business	U.S. Route 30 Business	u.s.|route|30|business	U.S.|route|30|business	NNP|NN|CD|NN	LOCATION|O|NUMBER|O	||30.0|				
+7	1	fb:cell.i_84_us_30_or_201_north_of_ontario	I-84/US 30/OR 201 north of Ontario	i-84|/|us|30/or|201|north|of|ontario	i-84|/|we|30/or|201|north|of|Ontario	NN|:|PRP|NN|CD|NN|IN|NNP	O|O|O|O|NUMBER|O|O|LOCATION	||||201.0|||	84.0		30.0	I-84|US 30|OR 201 north of Ontario
+7	2	fb:cell.i_84_us_30_in_ontario	I-84/US 30 in Ontario	i-84|/|us|30|in|ontario	i-84|/|we|30|in|Ontario	NN|:|PRP|CD|IN|NNP	O|O|O|NUMBER|O|LOCATION	|||30.0||	84.0		30.0	I-84|US 30 in Ontario
+7	3	fb:cell.1980	1980	1980	1980	CD	DATE	1980	1980.0	1980-xx-xx		
+7	4	fb:cell.null										
+8	0	fb:cell.u_s_route_30_business	U.S. Route 30 Business	u.s.|route|30|business	U.S.|route|30|business	NNP|NN|CD|NN	LOCATION|O|NUMBER|O	||30.0|				
+8	1	fb:cell.or_99e_in_portland	OR 99E in Portland	or|99e|in|portland	or|99e|in|Portland	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|99.0||	99.0			OR 99E in Portland
+8	2	fb:cell.us_30by_in_portland	US 30BY in Portland	us|30by|in|portland	we|30by|in|Portland	PRP|RB|IN|NNP	O|O|O|LOCATION	|||	30.0			US 30BY in Portland
+8	3	fb:cell.1967	1967	1967	1967	CD	DATE	1967	1967.0	1967-xx-xx		
+8	4	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+9	0	fb:cell.u_s_route_30_bypass	U.S. Route 30 Bypass	u.s.|route|30|bypass	U.S.|route|30|bypass	NNP|NN|CD|NN	LOCATION|O|NUMBER|O	||30.0|				
+9	1	fb:cell.us_30_in_portland	US 30 in Portland	us|30|in|portland	we|30|in|Portland	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|30.0||	30.0			US 30 in Portland
+9	2	fb:cell.i_84_us_30_in_fairview	I-84/US 30 in Fairview	i-84|/|us|30|in|fairview	i-84|/|we|30|in|Fairview	NN|:|PRP|CD|IN|NNP	O|O|O|NUMBER|O|LOCATION	|||30.0||	84.0		30.0	I-84|US 30 in Fairview
+9	3	fb:cell.1936	1936	1936	1936	CD	DATE	1936	1936.0	1936-xx-xx		
+9	4	fb:cell.null										
+10	0	fb:cell.u_s_route_30n	U.S. Route 30N	u.s.|route|30n	U.S.|route|30n	NNP|NN|NN	LOCATION|O|O	||				
+10	1	fb:cell.former_us_30_south_of_huntington	Former US 30 south of Huntington	former|us|30|south|of|huntington	former|US|30|south|of|Huntington	JJ|NNP|CD|NNP|IN|NNP	O|O|NUMBER|O|O|LOCATION	||30.0|||	30.0			Former US 30 south of Huntington
+10	2	fb:cell.weiser_id	Weiser, ID	weiser|,|id	Weiser|,|id	NNP|,|NN	PERSON|O|O	||				Weiser|ID
+10	3	fb:cell.1927	1927	1927	1927	CD	DATE	1927	1927.0	1927-xx-xx		
+10	4	fb:cell.1980	1980	1980	1980	CD	DATE	1980	1980.0	1980-xx-xx		
+11	0	fb:cell.u_s_route_30s	U.S. Route 30S	u.s.|route|30s	U.S.|route|30s	NNP|NN|CD	LOCATION|O|NUMBER	||30.0				
+11	1	fb:cell.us_30_in_ontario	US 30 in Ontario	us|30|in|ontario	we|30|in|Ontario	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|30.0||	30.0			US 30 in Ontario
+11	2	fb:cell.towards_parma_id	Towards Parma, ID	towards|parma|,|id	towards|Parma|,|id	IN|NNP|,|NN	O|ORGANIZATION|O|O	|||				Towards Parma|ID
+11	3	fb:cell.1938	1938	1938	1938	CD	DATE	1938	1938.0	1938-xx-xx		
+11	4	fb:cell.1940	1940	1940	1940	CD	DATE	1940	1940.0	1940-xx-xx		
+12	0	fb:cell.u_s_route_630	U.S. Route 630	u.s.|route|630	U.S.|route|630	NNP|NN|CD	LOCATION|O|NUMBER	||630.0				
+12	1	fb:cell.former_us_30_south_of_huntington	Former US 30 south of Huntington	former|us|30|south|of|huntington	former|US|30|south|of|Huntington	JJ|NNP|CD|NNP|IN|NNP	O|O|NUMBER|O|O|LOCATION	||30.0|||	30.0			Former US 30 south of Huntington
+12	2	fb:cell.weiser_id	Weiser, ID	weiser|,|id	Weiser|,|id	NNP|,|NN	PERSON|O|O	||				Weiser|ID
+12	3	fb:cell.1926	1926	1926	1926	CD	DATE	1926	1926.0	1926-xx-xx		
+12	4	fb:cell.1927	1927	1927	1927	CD	DATE	1927	1927.0	1927-xx-xx		
+13	0	fb:cell.u_s_route_730	U.S. Route 730	u.s.|route|730	U.S.|route|730	NNP|NN|CD	LOCATION|O|NUMBER	||730.0				
+13	1	fb:cell.i_84_us_30_east_of_boardman	I-84/US 30 east of Boardman	i-84|/|us|30|east|of|boardman	i-84|/|we|30|east|of|Boardman	NN|:|PRP|CD|NNP|IN|NNP	O|O|O|NUMBER|O|O|PERSON	|||30.0|||	84.0		30.0	I-84|US 30 east of Boardman
+13	2	fb:cell.us_730_towards_walla_walla_wa	US 730 towards Walla Walla, WA	us|730|towards|walla|walla|,|wa	we|730|towards|Walla|Walla|,|WA	PRP|CD|IN|NNP|NNP|,|NNP	LOCATION|NUMBER|O|PERSON|PERSON|O|O	|730.0|||||	730.0			US 730 towards Walla Walla|WA
+13	3	fb:cell.1926	1926	1926	1926	CD	DATE	1926	1926.0	1926-xx-xx		
+13	4	fb:cell.null										
+14	0	fb:cell.u_s_route_95	U.S. Route 95	u.s.|route|95	U.S.|route|95	NNP|NN|CD	LOCATION|O|NUMBER	||95.0				
+14	1	fb:cell.us_95_towards_winnemucca_nv	US 95 towards Winnemucca, NV	us|95|towards|winnemucca|,|nv	we|95|towards|Winnemucca|,|NV	PRP|CD|IN|NNP|,|NNP	O|NUMBER|O|LOCATION|O|O	|95.0||||	95.0			US 95 towards Winnemucca|NV
+14	2	fb:cell.us_95_towards_homedale_id	US 95 towards Homedale, ID	us|95|towards|homedale|,|id	we|95|towards|homedale|,|id	PRP|CD|IN|NN|,|NN	O|NUMBER|O|O|O|O	|95.0||||	95.0			US 95 towards Homedale|ID
+14	3	fb:cell.1939	1939	1939	1939	CD	DATE	1939	1939.0	1939-xx-xx		
+14	4	fb:cell.null										
+15	0	fb:cell.u_s_route_95_spur	U.S. Route 95 Spur	u.s.|route|95|spur	U.S.|route|95|spur	NNP|NN|CD|NN	LOCATION|O|NUMBER|O	||95.0|				
+15	1	fb:cell.or_201_south_of_huntington	OR 201 south of Huntington	or|201|south|of|huntington	or|201|south|of|Huntington	CC|CD|NNP|IN|NNP	O|NUMBER|O|O|LOCATION	|201.0|||	201.0			OR 201 south of Huntington
+15	2	fb:cell.us_95s_in_weiser_id	US 95S in Weiser, ID	us|95s|in|weiser|,|id	we|95|in|Weiser|,|id	PRP|NNS|IN|NNP|,|NN	LOCATION|O|O|LOCATION|O|O	|||||	95.0			US 95S in Weiser|ID
+15	3	fb:cell.1980	1980	1980	1980	CD	DATE	1980	1980.0	1980-xx-xx		
+15	4	fb:cell.null										
+16	0	fb:cell.u_s_route_395	U.S. Route 395	u.s.|route|395	U.S.|route|395	NNP|NN|CD	LOCATION|O|NUMBER	||395.0				
+16	1	fb:cell.us_395_towards_alturas_ca	US 395 towards Alturas, CA	us|395|towards|alturas|,|ca	we|395|towards|Alturas|,|CA	PRP|CD|IN|NNP|,|NNP	O|NUMBER|O|O|O|O	|395.0||||	395.0			US 395 towards Alturas|CA
+16	2	fb:cell.i_82_us_395_towards_tri_cities_wa	I-82/US 395 towards Tri-Cities, WA	i-82|/|us|395|towards|tri|cities|,|wa	i-82|/|we|395|towards|tri|city|,|WA	NN|:|PRP|CD|IN|FW|NNS|,|NNP	O|O|O|NUMBER|O|O|O|O|O	|||395.0|||||	82.0		395.0	I-82|US 395 towards Tri-Cities|WA
+16	3	fb:cell.1934	1934	1934	1934	CD	DATE	1934	1934.0	1934-xx-xx		
+16	4	fb:cell.null										
+17	0	fb:cell.u_s_route_97	U.S. Route 97	u.s.|route|97	U.S.|route|97	NNP|NN|CD	LOCATION|O|NUMBER	||97.0				
+17	1	fb:cell.us_97_towards_weed_ca	US 97 towards Weed, CA	us|97|towards|weed|,|ca	we|97|towards|weed|,|can	PRP|CD|IN|NN|,|MD	O|NUMBER|O|O|O|O	|97.0||||	97.0			US 97 towards Weed|CA
+17	2	fb:cell.us_97_towards_yakima_wa	US 97 towards Yakima, WA	us|97|towards|yakima|,|wa	we|97|towards|Yakima|,|WA	PRP|CD|IN|NNP|,|NNP	O|NUMBER|O|LOCATION|O|O	|97.0||||	97.0			US 97 towards Yakima|WA
+17	3	fb:cell.1926	1926	1926	1926	CD	DATE	1926	1926.0	1926-xx-xx		
+17	4	fb:cell.null										
+18	0	fb:cell.u_s_route_97_business	U.S. Route 97 Business	u.s.|route|97|business	U.S.|route|97|business	NNP|NN|CD|NN	LOCATION|O|NUMBER|O	||97.0|				
+18	1	fb:cell.us_97_in_klamath_falls	US 97 in Klamath Falls	us|97|in|klamath|falls	we|97|in|Klamath|Falls	PRP|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|97.0|||	97.0			US 97 in Klamath Falls
+18	2	fb:cell.us_97_in_klamath_falls	US 97 in Klamath Falls	us|97|in|klamath|falls	we|97|in|Klamath|Falls	PRP|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|97.0|||	97.0			US 97 in Klamath Falls
+18	3	fb:cell.1980s	1980s	1980s	1980s	CD	DATE	198X	1980.0			
+18	4	fb:cell.null										
+19	0	fb:cell.u_s_route_97_business	U.S. Route 97 Business	u.s.|route|97|business	U.S.|route|97|business	NNP|NN|CD|NN	LOCATION|O|NUMBER|O	||97.0|				
+19	1	fb:cell.us_97_in_bend	US 97 in Bend	us|97|in|bend	we|97|in|Bend	PRP|CD|IN|NNP	O|NUMBER|O|O	|97.0||	97.0			US 97 in Bend
+19	2	fb:cell.us_20_us_97_in_bend	US 20/US 97 in Bend	us|20/us|97|in|bend	we|20/us|97|in|Bend	PRP|VBZ|CD|IN|NNP	O|O|NUMBER|O|O	||97.0||	20.0		97.0	US 20|US 97 in Bend
+19	3	fb:cell.1980s	1980s	1980s	1980s	CD	DATE	198X	1980.0			
+19	4	fb:cell.null										
+20	0	fb:cell.u_s_route_197	U.S. Route 197	u.s.|route|197	U.S.|route|197	NNP|NN|CD	LOCATION|O|NUMBER	||197.0				
+20	1	fb:cell.us_97_at_shaniko_junction	US 97 at Shaniko Junction	us|97|at|shaniko|junction	we|97|at|Shaniko|junction	PRP|CD|IN|NNP|NN	O|NUMBER|O|LOCATION|LOCATION	|97.0|||	97.0			US 97 at Shaniko Junction
+20	2	fb:cell.us_197_towards_dallesport_wa	US 197 towards Dallesport, WA	us|197|towards|dallesport|,|wa	we|197|towards|dallesport|,|WA	PRP|CD|IN|NN|,|NNP	O|NUMBER|O|O|O|O	|197.0||||	197.0			US 197 towards Dallesport|WA
+20	3	fb:cell.1952	1952	1952	1952	CD	DATE	1952	1952.0	1952-xx-xx		
+20	4	fb:cell.null										
+21	0	fb:cell.u_s_route_99	U.S. Route 99	u.s.|route|99	U.S.|route|99	NNP|NN|CD	LOCATION|O|NUMBER	||99.0				
+21	1	fb:cell.towards_weed_ca	Towards Weed, CA	towards|weed|,|ca	towards|weed|,|can	IN|NN|,|MD	O|O|O|O	|||				Towards Weed|CA
+21	2	fb:cell.vancouver_wa	Vancouver, WA	vancouver|,|wa	Vancouver|,|WA	NNP|,|NNP	LOCATION|O|O	||				Vancouver|WA
+21	3	fb:cell.1926	1926	1926	1926	CD	DATE	1926	1926.0	1926-xx-xx		
+21	4	fb:cell.1972	1972	1972	1972	CD	DATE	1972	1972.0	1972-xx-xx		
+22	0	fb:cell.u_s_route_99e	U.S. Route 99E	u.s.|route|99e	U.S.|route|99e	NNP|NN|CD	LOCATION|O|NUMBER	||99.0				
+22	1	fb:cell.or_99_or_99w_in_junction_city	OR 99/OR 99W in Junction City	or|99/or|99w|in|junction|city	or|99/or|99w|in|junction|city	CC|CD|CD|IN|NN|NN	O|NUMBER|NUMBER|O|O|O	|||||	99.0		99.0	OR 99|OR 99W in Junction City
+22	2	fb:cell.or_99_or_99w_in_portland	OR 99/OR 99W in Portland	or|99/or|99w|in|portland	or|99/or|99w|in|Portland	CC|CD|CD|IN|NNP	O|NUMBER|NUMBER|O|LOCATION	||||	99.0		99.0	OR 99|OR 99W in Portland
+22	3	fb:cell.1928	1928	1928	1928	CD	DATE	1928	1928.0	1928-xx-xx		
+22	4	fb:cell.1972	1972	1972	1972	CD	DATE	1972	1972.0	1972-xx-xx		
+23	0	fb:cell.u_s_route_99w	U.S. Route 99W	u.s.|route|99w	U.S.|route|99w	NNP|NN|CD	LOCATION|O|NUMBER	||99.0				
+23	1	fb:cell.or_99_or_99e_in_junction_city	OR 99/OR 99E in Junction City	or|99/or|99e|in|junction|city	or|99/or|99e|in|junction|city	CC|CD|CD|IN|NN|NN	O|NUMBER|NUMBER|O|O|O	|||||	99.0		99.0	OR 99|OR 99E in Junction City
+23	2	fb:cell.or_99_or_99e_in_portland	OR 99/OR 99E in Portland	or|99/or|99e|in|portland	or|99/or|99e|in|Portland	CC|CD|CD|IN|NNP	O|NUMBER|NUMBER|O|LOCATION	||||	99.0		99.0	OR 99|OR 99E in Portland
+23	3	fb:cell.1928	1928	1928	1928	CD	DATE	1928	1928.0	1928-xx-xx		
+23	4	fb:cell.1972	1972	1972	1972	CD	DATE	1972	1972.0	1972-xx-xx		
+24	0	fb:cell.u_s_route_199	U.S. Route 199	u.s.|route|199	U.S.|route|199	NNP|NN|CD	LOCATION|O|NUMBER	||199.0				
+24	1	fb:cell.us_199_towards_crescent_city_ca	US 199 towards Crescent City, CA	us|199|towards|crescent|city|,|ca	we|199|towards|Crescent|City|,|CA	PRP|CD|IN|NNP|NNP|,|NNP	LOCATION|NUMBER|O|O|O|O|O	|199.0|||||	199.0			US 199 towards Crescent City|CA
+24	2	fb:cell.i_5_or_99_in_grants_pass	I-5/OR 99 in Grants Pass	i-5|/|or|99|in|grants|pass	i-5|/|or|99|in|grant|pass	NN|:|CC|CD|IN|NNS|VBP	O|O|O|NUMBER|O|O|O	|||99.0|||	5.0		99.0	I-5|OR 99 in Grants Pass
+24	3	fb:cell.1926	1926	1926	1926	CD	DATE	1926	1926.0	1926-xx-xx		
+24	4	fb:cell.null										
+25	0	fb:cell.u_s_route_101	U.S. Route 101	u.s.|route|101	U.S.|route|101	NNP|NN|CD	LOCATION|O|NUMBER	||101.0				
+25	1	fb:cell.us_101_towards_crescent_city_ca	US 101 towards Crescent City, CA	us|101|towards|crescent|city|,|ca	we|101|towards|Crescent|City|,|CA	PRP|CD|IN|NNP|NNP|,|NNP	LOCATION|NUMBER|O|O|O|O|O	|101.0|||||	101.0			US 101 towards Crescent City|CA
+25	2	fb:cell.us_101_towards_aberdeen_wa	US 101 towards Aberdeen, WA	us|101|towards|aberdeen|,|wa	we|101|towards|Aberdeen|,|WA	PRP|CD|IN|NNP|,|NNP	O|NUMBER|O|ORGANIZATION|O|O	|101.0||||	101.0			US 101 towards Aberdeen|WA
+25	3	fb:cell.1926	1926	1926	1926	CD	DATE	1926	1926.0	1926-xx-xx		
+25	4	fb:cell.null										
+26	0	fb:cell.u_s_route_101_business	U.S. Route 101 Business	u.s.|route|101|business	U.S.|route|101|business	NNP|NN|CD|NN	LOCATION|O|NUMBER|O	||101.0|				
+26	1	fb:cell.us_101_in_warrenton	US 101 in Warrenton	us|101|in|warrenton	we|101|in|Warrenton	PRP|CD|IN|NNP	LOCATION|NUMBER|O|LOCATION	|101.0||	101.0			US 101 in Warrenton
+26	2	fb:cell.us_101_in_astoria	US 101 in Astoria	us|101|in|astoria	we|101|in|Astoria	PRP|CD|IN|NNP	LOCATION|NUMBER|O|LOCATION	|101.0||	101.0			US 101 in Astoria
+26	3	fb:cell.1967	1967	1967	1967	CD	DATE	1967	1967.0	1967-xx-xx		
+26	4	fb:cell.null										
+27	0	fb:cell.oregon_route_2	Oregon Route 2	oregon|route|2	Oregon|route|2	NNP|NN|CD	LOCATION|O|NUMBER	||2.0	2.0			
+27	1	fb:cell.us_101_south_of_seaside	US 101 south of Seaside	us|101|south|of|seaside	we|101|south|of|Seaside	PRP|CD|NNP|IN|NNP	LOCATION|NUMBER|O|O|O	|101.0|||	101.0			US 101 south of Seaside
+27	2	fb:cell.or_10_in_portland	OR 10 in Portland	or|10|in|portland	or|10|in|Portland	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|10.0||	10.0			OR 10 in Portland
+27	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+27	4	fb:cell.1952	1952	1952	1952	CD	DATE	1952	1952.0	1952-xx-xx		
+28	0	fb:cell.oregon_route_3	Oregon Route 3	oregon|route|3	Oregon|route|3	NNP|NN|CD	LOCATION|O|NUMBER	||3.0	3.0			
+28	1	fb:cell.or_82_in_enterprise	OR 82 in Enterprise	or|82|in|enterprise	or|82|in|enterprise	CC|CD|IN|NN	O|NUMBER|O|O	|82.0||	82.0			OR 82 in Enterprise
+28	2	fb:cell.wa_129_towards_clarkston_wa	WA 129 towards Clarkston, WA	wa|129|towards|clarkston|,|wa	WA|129|towards|Clarkston|,|WA	NNP|CD|IN|NNP|,|NNP	O|NUMBER|O|LOCATION|O|O	|129.0||||	129.0			WA 129 towards Clarkston|WA
+28	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+28	4	fb:cell.null										
+29	0	fb:cell.oregon_route_6	Oregon Route 6	oregon|route|6	Oregon|route|6	NNP|NN|CD	LOCATION|O|NUMBER	||6.0	6.0			
+29	1	fb:cell.us_101_or_131_in_tillamook	US 101/OR 131 in Tillamook	us|101/or|131|in|tillamook	we|101/or|131|in|Tillamook	PRP|VBP|CD|IN|NNP	O|O|NUMBER|O|LOCATION	||131.0||	101.0		131.0	US 101|OR 131 in Tillamook
+29	2	fb:cell.us_26_west_of_north_plains	US 26 west of North Plains	us|26|west|of|north|plains	we|26|west|of|North|Plains	PRP|CD|NNP|IN|NNP|NNP	O|NUMBER|O|O|LOCATION|LOCATION	|26.0||||	26.0			US 26 west of North Plains
+29	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+29	4	fb:cell.null										
+30	0	fb:cell.oregon_route_7	Oregon Route 7	oregon|route|7	Oregon|route|7	NNP|NN|CD	LOCATION|O|NUMBER	||7.0	7.0			
+30	1	fb:cell.us_26_south_of_austin	US 26 south of Austin	us|26|south|of|austin	we|26|south|of|Austin	PRP|CD|NNP|IN|NNP	O|NUMBER|O|O|LOCATION	|26.0|||	26.0			US 26 south of Austin
+30	2	fb:cell.i_84_in_baker	I-84 in Baker	i-84|in|baker	i-84|in|Baker	NN|IN|NNP	O|O|PERSON	||	84.0			I-84 in Baker
+30	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+30	4	fb:cell.null										
+31	0	fb:cell.oregon_route_8	Oregon Route 8	oregon|route|8	Oregon|route|8	NNP|NN|CD	LOCATION|O|NUMBER	||8.0	8.0			
+31	1	fb:cell.or_6_near_gales_creek	OR 6 near Gales Creek	or|6|near|gales|creek	or|6|near|Gales|Creek	CC|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|6.0|||	6.0			OR 6 near Gales Creek
+31	2	fb:cell.us_26_east_of_beaverton	US 26 east of Beaverton	us|26|east|of|beaverton	we|26|east|of|Beaverton	PRP|CD|NNP|IN|NNP	O|NUMBER|O|O|LOCATION	|26.0|||	26.0			US 26 east of Beaverton
+31	3	fb:cell.1936	1936	1936	1936	CD	DATE	1936	1936.0	1936-xx-xx		
+31	4	fb:cell.null										
+32	0	fb:cell.oregon_route_10	Oregon Route 10	oregon|route|10	Oregon|route|10	NNP|NN|CD	LOCATION|O|NUMBER	||10.0	10.0			
+32	1	fb:cell.or_219_south_of_hillsboro	OR 219 south of Hillsboro	or|219|south|of|hillsboro	or|219|south|of|Hillsboro	CC|CD|NNP|IN|NNP	O|NUMBER|O|O|LOCATION	|219.0|||	219.0			OR 219 south of Hillsboro
+32	2	fb:cell.us_26_in_portland	US 26 in Portland	us|26|in|portland	we|26|in|Portland	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|26.0||	26.0			US 26 in Portland
+32	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+32	4	fb:cell.null										
+33	0	fb:cell.oregon_route_11	Oregon Route 11	oregon|route|11	Oregon|route|11	NNP|NN|CD	LOCATION|O|NUMBER	||11.0	11.0			
+33	1	fb:cell.i_84_near_pendleton	I-84 near Pendleton	i-84|near|pendleton	i-84|near|Pendleton	NN|IN|NNP	O|O|LOCATION	||	84.0			I-84 near Pendleton
+33	2	fb:cell.wa_125_towards_walla_walla_wa	WA 125 towards Walla Walla, WA	wa|125|towards|walla|walla|,|wa	WA|125|towards|Walla|Walla|,|WA	NNP|CD|IN|NNP|NNP|,|NNP	O|NUMBER|O|PERSON|PERSON|O|O	|125.0|||||	125.0			WA 125 towards Walla Walla|WA
+33	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+33	4	fb:cell.null										
+34	0	fb:cell.oregon_route_14	Oregon Route 14	oregon|route|14	Oregon|route|14	NNP|NN|CD	LOCATION|O|NUMBER	||14.0	14.0			
+34	1	fb:cell.us_101_at_hebo	US 101 at Hebo	us|101|at|hebo	we|101|at|Hebo	PRP|CD|IN|NNP	LOCATION|NUMBER|O|O	|101.0||	101.0			US 101 at Hebo
+34	2	fb:cell.or_18_west_of_willamina	OR 18 west of Willamina	or|18|west|of|willamina	or|18|west|of|Willamina	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|18.0|||	18.0			OR 18 west of Willamina
+34	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+34	4	fb:cell.1950s	1950s	1950s	1950s	CD	DATE	195X	1950.0			
+35	0	fb:cell.oregon_route_15	Oregon Route 15	oregon|route|15	Oregon|route|15	NNP|NN|CD	LOCATION|O|NUMBER	||15.0	15.0			
+35	1	fb:cell.us_30_in_pendleton	US 30 in Pendleton	us|30|in|pendleton	we|30|in|Pendleton	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|30.0||	30.0			US 30 in Pendleton
+35	2	fb:cell.us_730_at_cold_springs	US 730 at Cold Springs	us|730|at|cold|springs	we|730|at|Cold|Springs	PRP|CD|IN|NNP|NNP	LOCATION|NUMBER|O|O|DATE	|730.0|||XXXX-SP	730.0			US 730 at Cold Springs
+35	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+35	4	fb:cell.1934	1934	1934	1934	CD	DATE	1934	1934.0	1934-xx-xx		
+36	0	fb:cell.oregon_route_18	Oregon Route 18	oregon|route|18	Oregon|route|18	NNP|NN|CD	LOCATION|O|NUMBER	||18.0	18.0			
+36	1	fb:cell.us_101_west_of_otis_junction	US 101 west of Otis Junction	us|101|west|of|otis|junction	we|101|west|of|Otis|junction	PRP|CD|NNP|IN|NNP|NN	LOCATION|NUMBER|O|O|PERSON|PERSON	|101.0||||	101.0			US 101 west of Otis Junction
+36	2	fb:cell.or_99w_north_of_dayton	OR 99W north of Dayton	or|99w|north|of|dayton	or|99w|north|of|Dayton	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|99.0|||	99.0			OR 99W north of Dayton
+36	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+36	4	fb:cell.null										
+37	0	fb:cell.oregon_route_18_business	Oregon Route 18 Business	oregon|route|18|business	Oregon|route|18|business	NNP|NN|CD|NN	LOCATION|O|NUMBER|O	||18.0|	18.0			
+37	1	fb:cell.or_18_at_wallace_bridge	OR 18 at Wallace Bridge	or|18|at|wallace|bridge	or|18|at|Wallace|Bridge	CC|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|18.0|||	18.0			OR 18 at Wallace Bridge
+37	2	fb:cell.or_18_east_of_sheridan	OR 18 east of Sheridan	or|18|east|of|sheridan	or|18|east|of|Sheridan	CC|CD|NNP|IN|NNP	O|NUMBER|O|O|PERSON	|18.0|||	18.0			OR 18 east of Sheridan
+37	3	fb:cell.1960	1960	1960	1960	CD	DATE	1960	1960.0	1960-xx-xx		
+37	4	fb:cell.null										
+38	0	fb:cell.oregon_route_19	Oregon Route 19	oregon|route|19	Oregon|route|19	NNP|NN|CD	LOCATION|O|NUMBER	||19.0	19.0			
+38	1	fb:cell.us_26_northwest_of_dayville	US 26 northwest of Dayville	us|26|northwest|of|dayville	we|26|northwest|of|Dayville	PRP|CD|NNP|IN|NNP	O|NUMBER|O|O|LOCATION	|26.0|||	26.0			US 26 northwest of Dayville
+38	2	fb:cell.i_84_us_30_in_arlington	I-84/US 30 in Arlington	i-84|/|us|30|in|arlington	i-84|/|we|30|in|Arlington	NN|:|PRP|CD|IN|NNP	O|O|O|NUMBER|O|LOCATION	|||30.0||	84.0		30.0	I-84|US 30 in Arlington
+38	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+38	4	fb:cell.null										
+39	0	fb:cell.oregon_route_22	Oregon Route 22	oregon|route|22	Oregon|route|22	NNP|NN|CD	LOCATION|O|NUMBER	||22.0	22.0			
+39	1	fb:cell.us_101_at_hebo	US 101 at Hebo	us|101|at|hebo	we|101|at|Hebo	PRP|CD|IN|NNP	LOCATION|NUMBER|O|O	|101.0||	101.0			US 101 at Hebo
+39	2	fb:cell.us_20_west_of_suttle_lake	US 20 west of Suttle Lake	us|20|west|of|suttle|lake	we|20|west|of|Suttle|Lake	PRP|CD|NN|IN|NNP|NNP	O|NUMBER|O|O|LOCATION|LOCATION	|20.0||||	20.0			US 20 west of Suttle Lake
+39	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+39	4	fb:cell.null										
+40	0	fb:cell.oregon_route_23	Oregon Route 23	oregon|route|23	Oregon|route|23	NNP|NN|CD	LOCATION|O|NUMBER	||23.0	23.0			
+40	1	fb:cell.us_97_at_cow_canyon	US 97 at Cow Canyon	us|97|at|cow|canyon	we|97|at|cow|Canyon	PRP|CD|IN|NN|NNP	O|NUMBER|O|O|O	|97.0|||	97.0			US 97 at Cow Canyon
+40	2	fb:cell.us_30_in_the_dalles	US 30 in The Dalles	us|30|in|the|dalles	we|30|in|the|Dalles	PRP|CD|IN|DT|NNPS	O|NUMBER|O|O|PERSON	|30.0|||	30.0			US 30 in The Dalles
+40	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+40	4	fb:cell.1952	1952	1952	1952	CD	DATE	1952	1952.0	1952-xx-xx		
+41	0	fb:cell.oregon_route_26	Oregon Route 26	oregon|route|26	Oregon|route|26	NNP|NN|CD	LOCATION|O|NUMBER	||26.0	26.0			
+41	1	fb:cell.us_101_in_newport	US 101 in Newport	us|101|in|newport	we|101|in|Newport	PRP|CD|IN|NNP	LOCATION|NUMBER|O|LOCATION	|101.0||	101.0			US 101 in Newport
+41	2	fb:cell.or_99e_in_albany	OR 99E in Albany	or|99e|in|albany	or|99e|in|Albany	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|99.0||	99.0			OR 99E in Albany
+41	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+41	4	fb:cell.1943	1943	1943	1943	CD	DATE	1943	1943.0	1943-xx-xx		
+42	0	fb:cell.oregon_route_27	Oregon Route 27	oregon|route|27	Oregon|route|27	NNP|NN|CD	LOCATION|O|NUMBER	||27.0	27.0			
+42	1	fb:cell.us_20_west_of_brothers	US 20 west of Brothers	us|20|west|of|brothers	we|20|west|of|brother	PRP|CD|NN|IN|NNS	O|NUMBER|O|O|O	|20.0|||	20.0			US 20 west of Brothers
+42	2	fb:cell.us_26_in_prineville	US 26 in Prineville	us|26|in|prineville	we|26|in|Prineville	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|26.0||	26.0			US 26 in Prineville
+42	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+42	4	fb:cell.null										
+43	0	fb:cell.oregon_route_31	Oregon Route 31	oregon|route|31	Oregon|route|31	NNP|NN|CD	LOCATION|O|NUMBER	||31.0	31.0			
+43	1	fb:cell.us_395_at_valley_falls	US 395 at Valley Falls	us|395|at|valley|falls	we|395|at|Valley|Falls	PRP|CD|IN|NNP|NNP	LOCATION|NUMBER|O|LOCATION|LOCATION	|395.0|||	395.0			US 395 at Valley Falls
+43	2	fb:cell.us_97_south_of_la_pine	US 97 south of La Pine	us|97|south|of|la|pine	we|97|south|of|La|Pine	PRP|CD|NNP|IN|NNP|NNP	O|NUMBER|O|O|PERSON|PERSON	|97.0||||	97.0			US 97 south of La Pine
+43	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+43	4	fb:cell.null										
+44	0	fb:cell.oregon_route_32	Oregon Route 32	oregon|route|32	Oregon|route|32	NNP|NN|CD	LOCATION|O|NUMBER	||32.0	32.0			
+44	1	fb:cell.us_730_east_of_umatilla	US 730 east of Umatilla	us|730|east|of|umatilla	we|730|east|of|Umatilla	PRP|CD|NNP|IN|NNP	LOCATION|NUMBER|O|O|LOCATION	|730.0|||	730.0			US 730 east of Umatilla
+44	2	fb:cell.us_30_near_stanfield	US 30 near Stanfield	us|30|near|stanfield	we|30|near|Stanfield	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|30.0||	30.0			US 30 near Stanfield
+44	3	fb:cell.1945	1945	1945	1945	CD	DATE	1945	1945.0	1945-xx-xx		
+44	4	fb:cell.1973	1973	1973	1973	CD	DATE	1973	1973.0	1973-xx-xx		
+45	0	fb:cell.oregon_route_34	Oregon Route 34	oregon|route|34	Oregon|route|34	NNP|NN|CD	LOCATION|O|NUMBER	||34.0	34.0			
+45	1	fb:cell.us_101_in_waldport	US 101 in Waldport	us|101|in|waldport	we|101|in|Waldport	PRP|CD|IN|NNP	LOCATION|NUMBER|O|LOCATION	|101.0||	101.0			US 101 in Waldport
+45	2	fb:cell.us_20_in_lebanon	US 20 in Lebanon	us|20|in|lebanon	we|20|in|Lebanon	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|20.0||	20.0			US 20 in Lebanon
+45	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+45	4	fb:cell.null										
+46	0	fb:cell.oregon_route_35	Oregon Route 35	oregon|route|35	Oregon|route|35	NNP|NN|CD	LOCATION|O|NUMBER	||35.0	35.0			
+46	1	fb:cell.us_26_east_of_government_camp	US 26 east of Government Camp	us|26|east|of|government|camp	we|26|east|of|Government|Camp	PRP|CD|NNP|IN|NNP|NNP	O|NUMBER|O|O|O|O	|26.0||||	26.0			US 26 east of Government Camp
+46	2	fb:cell.i_84_us_30_west_of_hood_river	I-84/US 30 west of Hood River	i-84|/|us|30|west|of|hood|river	i-84|/|we|30|west|of|hood|river	NN|:|PRP|CD|NN|IN|NN|NN	O|O|O|NUMBER|O|O|LOCATION|LOCATION	|||30.0||||	84.0		30.0	I-84|US 30 west of Hood River
+46	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+46	4	fb:cell.null										
+47	0	fb:cell.oregon_route_36	Oregon Route 36	oregon|route|36	Oregon|route|36	NNP|NN|CD	LOCATION|O|NUMBER	||36.0	36.0			
+47	1	fb:cell.or_126_in_mapleton	OR 126 in Mapleton	or|126|in|mapleton	or|126|in|Mapleton	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|126.0||	126.0			OR 126 in Mapleton
+47	2	fb:cell.or_99w_near_junction_city	OR 99W near Junction City	or|99w|near|junction|city	or|99w|near|junction|city	CC|CD|IN|NN|NN	O|NUMBER|O|O|O	|99.0|||	99.0			OR 99W near Junction City
+47	3	fb:cell.1936	1936	1936	1936	CD	DATE	1936	1936.0	1936-xx-xx		
+47	4	fb:cell.null										
+48	0	fb:cell.oregon_route_37	Oregon Route 37	oregon|route|37	Oregon|route|37	NNP|NN|CD	LOCATION|O|NUMBER	||37.0	37.0			
+48	1	fb:cell.i_84_us_395_in_pendleton	I-84/US 395 in Pendleton	i-84|/|us|395|in|pendleton	i-84|/|we|395|in|Pendleton	NN|:|PRP|CD|IN|NNP	O|O|LOCATION|NUMBER|O|LOCATION	|||395.0||	84.0		395.0	I-84|US 395 in Pendleton
+48	2	fb:cell.us_730_at_cold_springs	US 730 at Cold Springs	us|730|at|cold|springs	we|730|at|Cold|Springs	PRP|CD|IN|NNP|NNP	LOCATION|NUMBER|O|O|DATE	|730.0|||XXXX-SP	730.0			US 730 at Cold Springs
+48	3	fb:cell.1973	1973	1973	1973	CD	DATE	1973	1973.0	1973-xx-xx		
+48	4	fb:cell.null										
+49	0	fb:cell.oregon_route_38	Oregon Route 38	oregon|route|38	Oregon|route|38	NNP|NN|CD	LOCATION|O|NUMBER	||38.0	38.0			
+49	1	fb:cell.us_101_in_reedsport	US 101 in Reedsport	us|101|in|reedsport	we|101|in|Reedsport	PRP|CD|IN|NNP	LOCATION|NUMBER|O|LOCATION	|101.0||	101.0			US 101 in Reedsport
+49	2	fb:cell.or_99_in_drain	OR 99 in Drain	or|99|in|drain	or|99|in|drain	CC|CD|IN|NN	O|NUMBER|O|O	|99.0||	99.0			OR 99 in Drain
+49	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+49	4	fb:cell.null										
+50	0	fb:cell.oregon_route_39	Oregon Route 39	oregon|route|39	Oregon|route|39	NNP|NN|CD	LOCATION|O|NUMBER	||39.0	39.0			
+50	1	fb:cell.ca_139_towards_alturas_ca	CA 139 towards Alturas, CA	ca|139|towards|alturas|,|ca	CA|139|towards|Alturas|,|CA	NNP|CD|IN|NNP|,|NNP	O|NUMBER|O|O|O|O	|139.0||||	139.0			CA 139 towards Alturas|CA
+50	2	fb:cell.us_97_in_klamath_falls	US 97 in Klamath Falls	us|97|in|klamath|falls	we|97|in|Klamath|Falls	PRP|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|97.0|||	97.0			US 97 in Klamath Falls
+50	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+50	4	fb:cell.null										
+51	0	fb:cell.oregon_route_42	Oregon Route 42	oregon|route|42	Oregon|route|42	NNP|NN|CD	LOCATION|O|NUMBER	||42.0	42.0			
+51	1	fb:cell.us_101_north_of_coquille	US 101 north of Coquille	us|101|north|of|coquille	we|101|north|of|Coquille	PRP|CD|NN|IN|NNP	LOCATION|NUMBER|O|O|O	|101.0|||	101.0			US 101 north of Coquille
+51	2	fb:cell.i_5_or_99_south_of_roseburg	I-5/OR 99 south of Roseburg	i-5|/|or|99|south|of|roseburg	i-5|/|or|99|south|of|Roseburg	NN|:|CC|CD|NNP|IN|NNP	O|O|O|NUMBER|O|O|LOCATION	|||99.0|||	5.0		99.0	I-5|OR 99 south of Roseburg
+51	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+51	4	fb:cell.null										
+52	0	fb:cell.oregon_route_43	Oregon Route 43	oregon|route|43	Oregon|route|43	NNP|NN|CD	LOCATION|O|NUMBER	||43.0	43.0			
+52	1	fb:cell.or_99e_in_oregon_city	OR 99E in Oregon City	or|99e|in|oregon|city	or|99e|in|Oregon|City	CC|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|99.0|||	99.0			OR 99E in Oregon City
+52	2	fb:cell.us_26_in_portland	US 26 in Portland	us|26|in|portland	we|26|in|Portland	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|26.0||	26.0			US 26 in Portland
+52	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+52	4	fb:cell.null										
+53	0	fb:cell.oregon_route_46	Oregon Route 46	oregon|route|46	Oregon|route|46	NNP|NN|CD	LOCATION|O|NUMBER	||46.0	46.0			
+53	1	fb:cell.us_199_in_cave_junction	US 199 in Cave Junction	us|199|in|cave|junction	we|199|in|Cave|junction	PRP|CD|IN|NNP|NN	LOCATION|NUMBER|O|O|O	|199.0|||	199.0			US 199 in Cave Junction
+53	2	fb:cell.oregon_caves	Oregon Caves	oregon|caves	Oregon|Caves	NNP|NNPS	O|O	|				Oregon Caves
+53	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+53	4	fb:cell.null										
+54	0	fb:cell.oregon_route_47	Oregon Route 47	oregon|route|47	Oregon|route|47	NNP|NN|CD	LOCATION|O|NUMBER	||47.0	47.0			
+54	1	fb:cell.or_99w_north_of_mcminnville	OR 99W north of McMinnville	or|99w|north|of|mcminnville	or|99w|north|of|McMinnville	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|99.0|||	99.0			OR 99W north of McMinnville
+54	2	fb:cell.us_30_in_clatskanie	US 30 in Clatskanie	us|30|in|clatskanie	we|30|in|Clatskanie	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|30.0||	30.0			US 30 in Clatskanie
+54	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+54	4	fb:cell.null										
+55	0	fb:cell.oregon_route_50	Oregon Route 50	oregon|route|50	Oregon|route|50	NNP|NN|CD	LOCATION|O|NUMBER	||50.0	50.0			
+55	1	fb:cell.or_10_in_portland	OR 10 in Portland	or|10|in|portland	or|10|in|Portland	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|10.0||	10.0			OR 10 in Portland
+55	2	fb:cell.us_97_in_madras	US 97 in Madras	us|97|in|madras	we|97|in|Madras	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|97.0||	97.0			US 97 in Madras
+55	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+55	4	fb:cell.1952	1952	1952	1952	CD	DATE	1952	1952.0	1952-xx-xx		
+56	0	fb:cell.oregon_route_51	Oregon Route 51	oregon|route|51	Oregon|route|51	NNP|NN|CD	LOCATION|O|NUMBER	||51.0	51.0			
+56	1	fb:cell.or_99w_or_194_in_monmouth	OR 99W/OR 194 in Monmouth	or|99w/or|194|in|monmouth	or|99w/or|194|in|Monmouth	CC|CD|CD|IN|NNP	O|NUMBER|NUMBER|O|LOCATION	||194.0||	99.0		194.0	OR 99W|OR 194 in Monmouth
+56	2	fb:cell.or_22_west_of_salem	OR 22 west of Salem	or|22|west|of|salem	or|22|west|of|Salem	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|22.0|||	22.0			OR 22 west of Salem
+56	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+56	4	fb:cell.null										
+57	0	fb:cell.oregon_route_52	Oregon Route 52	oregon|route|52	Oregon|route|52	NNP|NN|CD	LOCATION|O|NUMBER	||52.0	52.0			
+57	1	fb:cell.or_201_north_of_ontario	OR 201 north of Ontario	or|201|north|of|ontario	or|201|north|of|Ontario	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|201.0|||	201.0			OR 201 north of Ontario
+57	2	fb:cell.sh_52_in_payette_id	SH-52 in Payette, ID	sh-52|in|payette|,|id	sh-52|in|Payette|,|id	NN|IN|NNP|,|NN	O|O|PERSON|O|O	||||	52.0			SH-52 in Payette|ID
+57	3	fb:cell.1940s	1940s	1940s	1940s	CD	DATE	194X	1940.0			
+57	4	fb:cell.null										
+58	0	fb:cell.oregon_route_52	Oregon Route 52	oregon|route|52	Oregon|route|52	NNP|NN|CD	LOCATION|O|NUMBER	||52.0	52.0			
+58	1	fb:cell.us_26_near_bear_springs	US 26 near Bear Springs	us|26|near|bear|springs	we|26|near|Bear|Springs	PRP|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|26.0|||	26.0			US 26 near Bear Springs
+58	2	fb:cell.us_197_near_maupin	US 197 near Maupin	us|197|near|maupin	we|197|near|Maupin	PRP|CD|IN|NNP	LOCATION|NUMBER|O|LOCATION	|197.0||	197.0			US 197 near Maupin
+58	3	fb:cell.1940s	1940s	1940s	1940s	CD	DATE	194X	1940.0			
+58	4	fb:cell.1950s	1950s	1950s	1950s	CD	DATE	195X	1950.0			
+59	0	fb:cell.oregon_route_53	Oregon Route 53	oregon|route|53	Oregon|route|53	NNP|NN|CD	LOCATION|O|NUMBER	||53.0	53.0			
+59	1	fb:cell.us_101_near_wheeler	US 101 near Wheeler	us|101|near|wheeler	we|101|near|Wheeler	PRP|CD|IN|NNP	LOCATION|NUMBER|O|O	|101.0||	101.0			US 101 near Wheeler
+59	2	fb:cell.us_26_at_necanicum	US 26 at Necanicum	us|26|at|necanicum	we|26|at|necanicum	PRP|CD|IN|NN	O|NUMBER|O|LOCATION	|26.0||	26.0			US 26 at Necanicum
+59	3	fb:cell.1939	1939	1939	1939	CD	DATE	1939	1939.0	1939-xx-xx		
+59	4	fb:cell.null										
+60	0	fb:cell.oregon_route_54	Oregon Route 54	oregon|route|54	Oregon|route|54	NNP|NN|CD	LOCATION|O|NUMBER	||54.0	54.0			
+60	1	fb:cell.or_99e_in_albany	OR 99E in Albany	or|99e|in|albany	or|99e|in|Albany	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|99.0||	99.0			OR 99E in Albany
+60	2	fb:cell.us_28_in_vale	US 28 in Vale	us|28|in|vale	we|28|in|vale	PRP|CD|IN|NN	O|NUMBER|O|O	|28.0||	28.0			US 28 in Vale
+60	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+60	4	fb:cell.1940	1940	1940	1940	CD	DATE	1940	1940.0	1940-xx-xx		
+61	0	fb:cell.oregon_route_58	Oregon Route 58	oregon|route|58	Oregon|route|58	NNP|NN|CD	LOCATION|O|NUMBER	||58.0	58.0			
+61	1	fb:cell.i_5_or_99_at_goshen	I-5/OR 99 at Goshen	i-5|/|or|99|at|goshen	i-5|/|or|99|at|Goshen	NN|:|CC|CD|IN|NNP	O|O|O|NUMBER|O|LOCATION	|||99.0||	5.0		99.0	I-5|OR 99 at Goshen
+61	2	fb:cell.us_97_north_of_chemult	US 97 north of Chemult	us|97|north|of|chemult	we|97|north|of|chemult	PRP|CD|NN|IN|NN	O|NUMBER|O|O|LOCATION	|97.0|||	97.0			US 97 north of Chemult
+61	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+61	4	fb:cell.null										
+62	0	fb:cell.oregon_route_62	Oregon Route 62	oregon|route|62	Oregon|route|62	NNP|NN|CD	LOCATION|O|NUMBER	||62.0	62.0			
+62	1	fb:cell.or_99_or_238_in_medford	OR 99/OR 238 in Medford	or|99/or|238|in|medford	or|99/or|238|in|Medford	CC|CD|CD|IN|NNP	O|NUMBER|NUMBER|O|LOCATION	||238.0||	99.0		238.0	OR 99|OR 238 in Medford
+62	2	fb:cell.us_97_south_of_chiloquin	US 97 south of Chiloquin	us|97|south|of|chiloquin	we|97|south|of|Chiloquin	PRP|CD|NNP|IN|NNP	O|NUMBER|O|O|LOCATION	|97.0|||	97.0			US 97 south of Chiloquin
+62	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+62	4	fb:cell.null										
+63	0	fb:cell.oregon_route_66	Oregon Route 66	oregon|route|66	Oregon|route|66	NNP|NN|CD	LOCATION|O|NUMBER	||66.0	66.0			
+63	1	fb:cell.or_99_in_ashland	OR 99 in Ashland	or|99|in|ashland	or|99|in|Ashland	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|99.0||	99.0			OR 99 in Ashland
+63	2	fb:cell.us_97_south_of_klamath_falls	US 97 south of Klamath Falls	us|97|south|of|klamath|falls	we|97|south|of|Klamath|Falls	PRP|CD|NNP|IN|NNP|NNP	O|NUMBER|O|O|LOCATION|LOCATION	|97.0||||	97.0			US 97 south of Klamath Falls
+63	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+63	4	fb:cell.null										
+64	0	fb:cell.oregon_route_69	Oregon Route 69	oregon|route|69	Oregon|route|69	NNP|NN|CD	LOCATION|O|NUMBER	||69.0	69.0			
+64	1	fb:cell.or_126_in_eugene	OR 126 in Eugene	or|126|in|eugene	or|126|in|Eugene	CC|CD|IN|NNP	O|NUMBER|O|PERSON	|126.0||	126.0			OR 126 in Eugene
+64	2	fb:cell.i_5_in_springfield	I-5 in Springfield	i-5|in|springfield	i-5|in|Springfield	NN|IN|NNP	O|O|LOCATION	||	5.0			I-5 in Springfield
+64	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+64	4	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+65	0	fb:cell.oregon_route_70	Oregon Route 70	oregon|route|70	Oregon|route|70	NNP|NN|CD	LOCATION|O|NUMBER	||70.0	70.0			
+65	1	fb:cell.or_140_at_dairy	OR 140 at Dairy	or|140|at|dairy	or|140|at|dairy	CC|CD|IN|NN	O|NUMBER|O|O	|140.0||	140.0			OR 140 at Dairy
+65	2	fb:cell.bonanza	Bonanza	bonanza	Bonanza	NNP	PERSON					Bonanza
+65	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+65	4	fb:cell.null										
+66	0	fb:cell.oregon_route_74	Oregon Route 74	oregon|route|74	Oregon|route|74	NNP|NN|CD	LOCATION|O|NUMBER	||74.0	74.0			
+66	1	fb:cell.i_84_us_30_east_of_arlington	I-84/US 30 east of Arlington	i-84|/|us|30|east|of|arlington	i-84|/|we|30|east|of|Arlington	NN|:|PRP|CD|NNP|IN|NNP	O|O|O|NUMBER|O|O|LOCATION	|||30.0|||	84.0		30.0	I-84|US 30 east of Arlington
+66	2	fb:cell.us_395_at_nye	US 395 at Nye	us|395|at|nye	we|395|at|Nye	PRP|CD|IN|NNP	LOCATION|NUMBER|O|ORGANIZATION	|395.0||	395.0			US 395 at Nye
+66	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+66	4	fb:cell.null										
+67	0	fb:cell.oregon_route_78	Oregon Route 78	oregon|route|78	Oregon|route|78	NNP|NN|CD	LOCATION|O|NUMBER	||78.0	78.0			
+67	1	fb:cell.us_20_us_395_in_burns	US 20/US 395 in Burns	us|20/us|395|in|burns	we|20/us|395|in|Burns	PRP|VBZ|CD|IN|NNP	O|O|NUMBER|O|O	||395.0||	20.0		395.0	US 20|US 395 in Burns
+67	2	fb:cell.us_95_at_burns_junction	US 95 at Burns Junction	us|95|at|burns|junction	we|95|at|Burns|junction	PRP|CD|IN|NNP|NN	O|NUMBER|O|LOCATION|LOCATION	|95.0|||	95.0			US 95 at Burns Junction
+67	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+67	4	fb:cell.null										
+68	0	fb:cell.oregon_route_82	Oregon Route 82	oregon|route|82	Oregon|route|82	NNP|NN|CD	LOCATION|O|NUMBER	||82.0	82.0			
+68	1	fb:cell.us_30_in_la_grande	US 30 in La Grande	us|30|in|la|grande	we|30|in|La|Grande	PRP|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|30.0|||	30.0			US 30 in La Grande
+68	2	fb:cell.joseph	Joseph	joseph	Joseph	NNP	PERSON					Joseph
+68	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+68	4	fb:cell.null										
+69	0	fb:cell.oregon_route_86	Oregon Route 86	oregon|route|86	Oregon|route|86	NNP|NN|CD	LOCATION|O|NUMBER	||86.0	86.0			
+69	1	fb:cell.i_84_near_baker	I-84 near Baker	i-84|near|baker	i-84|near|Baker	NN|IN|NNP	O|O|LOCATION	||	84.0			I-84 near Baker
+69	2	fb:cell.near_hells_canyon_id	Near Hells Canyon, ID	near|hells|canyon|,|id	near|Hells|Canyon|,|id	IN|NNP|NNP|,|NN	O|LOCATION|LOCATION|O|O	||||				Near Hells Canyon|ID
+69	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+69	4	fb:cell.null										
+70	0	fb:cell.oregon_route_86s	Oregon Route 86S	oregon|route|86s	Oregon|route|86	NNP|NN|NN	LOCATION|O|O	||	86.0			
+70	1	fb:cell.or_86_northeast_of_richland	OR 86 northeast of Richland	or|86|northeast|of|richland	or|86|northeast|of|Richland	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|86.0|||	86.0			OR 86 northeast of Richland
+70	2	fb:cell.or_413_or_414_in_halfway	OR 413/OR 414 in Halfway	or|413/or|414|in|halfway	or|413/or|414|in|halfway	CC|NN|CD|IN|RB	O|O|NUMBER|O|O	||414.0||	413.0		414.0	OR 413|OR 414 in Halfway
+70	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+70	4	fb:cell.null										
+71	0	fb:cell.oregon_route_90	Oregon Route 90	oregon|route|90	Oregon|route|90	NNP|NN|CD	LOCATION|O|NUMBER	||90.0	90.0			
+71	1	fb:cell.or_201_north_of_ontario	OR 201 north of Ontario	or|201|north|of|ontario	or|201|north|of|Ontario	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|201.0|||	201.0			OR 201 north of Ontario
+71	2	fb:cell.sh_52_in_payette_id	SH-52 in Payette, ID	sh-52|in|payette|,|id	sh-52|in|Payette|,|id	NN|IN|NNP|,|NN	O|O|PERSON|O|O	||||	52.0			SH-52 in Payette|ID
+71	3	fb:cell.1932	1932	1932	1932	CD	DATE	1932	1932.0	1932-xx-xx		
+71	4	fb:cell.1950s	1950s	1950s	1950s	CD	DATE	195X	1950.0			
+72	0	fb:cell.oregon_route_99	Oregon Route 99	oregon|route|99	Oregon|route|99	NNP|NN|CD	LOCATION|O|NUMBER	||99.0	99.0			
+72	1	fb:cell.i_5_south_of_ashland	I-5 south of Ashland	i-5|south|of|ashland	i-5|south|of|Ashland	NN|NN|IN|NNP	O|O|O|LOCATION	|||	5.0			I-5 south of Ashland
+72	2	fb:cell.or_99e_or_99w_in_junction_city	OR 99E/OR 99W in Junction City	or|99e/or|99w|in|junction|city	or|99e/or|99w|in|junction|city	CC|CD|CD|IN|NN|NN	O|NUMBER|NUMBER|O|O|O	|||||	99.0		99.0	OR 99E|OR 99W in Junction City
+72	3	fb:cell.null										
+72	4	fb:cell.null										
+73	0	fb:cell.oregon_route_99e	Oregon Route 99E	oregon|route|99e	Oregon|route|99e	NNP|NN|CD	LOCATION|O|NUMBER	||99.0	99.0			
+73	1	fb:cell.or_99_or_99w_in_junction_city	OR 99/OR 99W in Junction City	or|99/or|99w|in|junction|city	or|99/or|99w|in|junction|city	CC|CD|CD|IN|NN|NN	O|NUMBER|NUMBER|O|O|O	|||||	99.0		99.0	OR 99|OR 99W in Junction City
+73	2	fb:cell.i_5_in_north_portland	I-5 in North Portland	i-5|in|north|portland	i-5|in|north|Portland	NN|IN|JJ|NNP	O|O|LOCATION|LOCATION	|||	5.0			I-5 in North Portland
+73	3	fb:cell.null										
+73	4	fb:cell.null										
+74	0	fb:cell.oregon_route_99e_business	Oregon Route 99E Business	oregon|route|99e|business	Oregon|route|99e|business	NNP|NN|CD|NN	LOCATION|O|NUMBER|O	||99.0|	99.0			
+74	1	fb:cell.i_5_or_99e_in_salem	I-5/OR 99E in Salem	i-5|/|or|99e|in|salem	i-5|/|or|99e|in|Salem	NN|:|CC|CD|IN|NNP	O|O|O|NUMBER|O|LOCATION	|||99.0||	5.0		99.0	I-5|OR 99E in Salem
+74	2	fb:cell.or_99e_north_of_salem	OR 99E north of Salem	or|99e|north|of|salem	or|99e|north|of|Salem	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|99.0|||	99.0			OR 99E north of Salem
+74	3	fb:cell.null										
+74	4	fb:cell.null										
+75	0	fb:cell.oregon_route_99w	Oregon Route 99W	oregon|route|99w	Oregon|route|99w	NNP|NN|CD	LOCATION|O|NUMBER	||99.0	99.0			
+75	1	fb:cell.or_99_or_99e_in_junction_city	OR 99/OR 99E in Junction City	or|99/or|99e|in|junction|city	or|99/or|99e|in|junction|city	CC|CD|CD|IN|NN|NN	O|NUMBER|NUMBER|O|O|O	|||||	99.0		99.0	OR 99|OR 99E in Junction City
+75	2	fb:cell.i_5_in_tigard	I-5 in Tigard	i-5|in|tigard	i-5|in|Tigard	NN|IN|NNP	O|O|LOCATION	||	5.0			I-5 in Tigard
+75	3	fb:cell.null										
+75	4	fb:cell.null										
+76	0	fb:cell.oregon_route_103	Oregon Route 103	oregon|route|103	Oregon|route|103	NNP|NN|CD	LOCATION|O|NUMBER	||103.0	103.0			
+76	1	fb:cell.us_26_near_elsie	US 26 near Elsie	us|26|near|elsie	we|26|near|Elsie	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|26.0||	26.0			US 26 near Elsie
+76	2	fb:cell.or_202_at_jewell	OR 202 at Jewell	or|202|at|jewell	or|202|at|Jewell	CC|CD|IN|NNP	O|NUMBER|O|PERSON	|202.0||	202.0			OR 202 at Jewell
+76	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+76	4	fb:cell.null										
+77	0	fb:cell.oregon_route_104	Oregon Route 104	oregon|route|104	Oregon|route|104	NNP|NN|CD	LOCATION|O|NUMBER	||104.0	104.0			
+77	1	fb:cell.us_101_south_of_warrenton	US 101 south of Warrenton	us|101|south|of|warrenton	we|101|south|of|Warrenton	PRP|CD|NNP|IN|NNP	LOCATION|NUMBER|O|O|LOCATION	|101.0|||	101.0			US 101 south of Warrenton
+77	2	fb:cell.fort_stevens_state_park	Fort Stevens State Park	fort|stevens|state|park	Fort|Stevens|State|Park	NNP|NNP|NNP|NNP	LOCATION|LOCATION|LOCATION|LOCATION	|||				Fort Stevens State Park
+77	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+77	4	fb:cell.null										
+78	0	fb:cell.oregon_route_104s	Oregon Route 104S	oregon|route|104s	Oregon|route|104	NNP|NN|NNS	LOCATION|O|O	||	104.0			
+78	1	fb:cell.or_104_in_warrenton	OR 104 in Warrenton	or|104|in|warrenton	or|104|in|Warrenton	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|104.0||	104.0			OR 104 in Warrenton
+78	2	fb:cell.us_101_in_warrenton	US 101 in Warrenton	us|101|in|warrenton	we|101|in|Warrenton	PRP|CD|IN|NNP	LOCATION|NUMBER|O|LOCATION	|101.0||	101.0			US 101 in Warrenton
+78	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+78	4	fb:cell.null										
+79	0	fb:cell.oregon_route_120	Oregon Route 120	oregon|route|120	Oregon|route|120	NNP|NN|CD	LOCATION|O|NUMBER	||120.0	120.0			
+79	1	fb:cell.north_portland	North Portland	north|portland	North|Portland	NNP|NNP	O|LOCATION	|				North Portland
+79	2	fb:cell.i_5_or_99e_in_north_portland	I-5/OR 99E in North Portland	i-5|/|or|99e|in|north|portland	i-5|/|or|99e|in|north|Portland	NN|:|CC|CD|IN|JJ|NNP	O|O|O|NUMBER|O|LOCATION|LOCATION	|||99.0|||	5.0		99.0	I-5|OR 99E in North Portland
+79	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+79	4	fb:cell.null										
+80	0	fb:cell.oregon_route_126	Oregon Route 126	oregon|route|126	Oregon|route|126	NNP|NN|CD	LOCATION|O|NUMBER	||126.0	126.0			
+80	1	fb:cell.us_101_in_florence	US 101 in Florence	us|101|in|florence	we|101|in|Florence	PRP|CD|IN|NNP	LOCATION|NUMBER|O|LOCATION	|101.0||	101.0			US 101 in Florence
+80	2	fb:cell.us_26_in_prineville	US 26 in Prineville	us|26|in|prineville	we|26|in|Prineville	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|26.0||	26.0			US 26 in Prineville
+80	3	fb:cell.null										
+80	4	fb:cell.null										
+81	0	fb:cell.oregon_route_126_business	Oregon Route 126 Business	oregon|route|126|business	Oregon|route|126|business	NNP|NN|CD|NN	LOCATION|O|NUMBER|O	||126.0|	126.0			
+81	1	fb:cell.i_105_or_99_or_126_in_eugene	I-105/OR 99/OR 126 in Eugene	i-105|/|or|99/or|126|in|eugene	i-105|/|or|99/or|126|in|Eugene	NN|:|CC|CD|CD|IN|NNP	O|O|O|NUMBER|NUMBER|O|PERSON	||||126.0||	105.0		99.0	I-105|OR 99|OR 126 in Eugene
+81	2	fb:cell.or_126_in_springfield	OR 126 in Springfield	or|126|in|springfield	or|126|in|Springfield	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|126.0||	126.0			OR 126 in Springfield
+81	3	fb:cell.null										
+81	4	fb:cell.null										
+82	0	fb:cell.oregon_route_130	Oregon Route 130	oregon|route|130	Oregon|route|130	NNP|NN|CD	LOCATION|O|NUMBER	||130.0	130.0			
+82	1	fb:cell.us_101_southwest_of_hebo	US 101 southwest of Hebo	us|101|southwest|of|hebo	we|101|southwest|of|hebo	PRP|CD|NN|IN|NN	LOCATION|NUMBER|O|O|O	|101.0|||	101.0			US 101 southwest of Hebo
+82	2	fb:cell.or_22_at_dolph	OR 22 at Dolph	or|22|at|dolph	or|22|at|Dolph	CC|CD|IN|NNP	O|NUMBER|O|PERSON	|22.0||	22.0			OR 22 at Dolph
+82	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+82	4	fb:cell.null										
+83	0	fb:cell.oregon_route_131	Oregon Route 131	oregon|route|131	Oregon|route|131	NNP|NN|CD	LOCATION|O|NUMBER	||131.0	131.0			
+83	1	fb:cell.oceanside	Oceanside	oceanside	Oceanside	NNP	O					Oceanside
+83	2	fb:cell.us_101_or_6_in_tillamook	US 101/OR 6 in Tillamook	us|101/or|6|in|tillamook	we|101/or|6|in|Tillamook	PRP|RB|CD|IN|NNP	O|O|NUMBER|O|LOCATION	||6.0||	101.0		6.0	US 101|OR 6 in Tillamook
+83	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+83	4	fb:cell.null										
+84	0	fb:cell.oregon_route_138	Oregon Route 138	oregon|route|138	Oregon|route|138	NNP|NN|CD	LOCATION|O|NUMBER	||138.0	138.0			
+84	1	fb:cell.or_38_at_elkton	OR 38 at Elkton	or|38|at|elkton	or|38|at|Elkton	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|38.0||	38.0			OR 38 at Elkton
+84	2	fb:cell.us_97_south_of_chemult	US 97 south of Chemult	us|97|south|of|chemult	we|97|south|of|Chemult	PRP|CD|NNP|IN|NNP	O|NUMBER|O|O|LOCATION	|97.0|||	97.0			US 97 south of Chemult
+84	3	fb:cell.1960s	1960s	1960s	1960s	CD	DATE	196X	1960.0			
+84	4	fb:cell.null										
+85	0	fb:cell.oregon_route_140	Oregon Route 140	oregon|route|140	Oregon|route|140	NNP|NN|CD	LOCATION|O|NUMBER	||140.0	140.0			
+85	1	fb:cell.or_62_near_white_city	OR 62 near White City	or|62|near|white|city	or|62|near|White|City	CC|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|62.0|||	62.0			OR 62 near White City
+85	2	fb:cell.nv_140_towards_winnemucca_nv	NV 140 towards Winnemucca, NV	nv|140|towards|winnemucca|,|nv	NV|140|towards|Winnemucca|,|NV	NNP|CD|IN|NNP|,|NNP	O|NUMBER|O|LOCATION|O|O	|140.0||||	140.0			NV 140 towards Winnemucca|NV
+85	3	fb:cell.1960s	1960s	1960s	1960s	CD	DATE	196X	1960.0			
+85	4	fb:cell.null										
+86	0	fb:cell.oregon_route_141	Oregon Route 141	oregon|route|141	Oregon|route|141	NNP|NN|CD	LOCATION|O|NUMBER	||141.0	141.0			
+86	1	fb:cell.i_5_in_wilsonville	I-5 in Wilsonville	i-5|in|wilsonville	i-5|in|Wilsonville	NN|IN|NNP	O|O|LOCATION	||	5.0			I-5 in Wilsonville
+86	2	fb:cell.or_217_in_beaverton	OR 217 in Beaverton	or|217|in|beaverton	or|217|in|Beaverton	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|217.0||	217.0			OR 217 in Beaverton
+86	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+86	4	fb:cell.null										
+87	0	fb:cell.oregon_route_153	Oregon Route 153	oregon|route|153	Oregon|route|153	NNP|NN|CD	LOCATION|O|NUMBER	||153.0	153.0			
+87	1	fb:cell.or_18_at_bellevue	OR 18 at Bellevue	or|18|at|bellevue	or|18|at|Bellevue	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|18.0||	18.0			OR 18 at Bellevue
+87	2	fb:cell.or_221_east_of_hopewell	OR 221 east of Hopewell	or|221|east|of|hopewell	or|221|east|of|Hopewell	CC|CD|NNP|IN|NNP	O|NUMBER|O|O|ORGANIZATION	|221.0|||	221.0			OR 221 east of Hopewell
+87	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+87	4	fb:cell.null										
+88	0	fb:cell.oregon_route_154	Oregon Route 154	oregon|route|154	Oregon|route|154	NNP|NN|CD	LOCATION|O|NUMBER	||154.0	154.0			
+88	1	fb:cell.or_153	OR 153	or|153	or|153	CC|CD	O|NUMBER	|153.0	153.0			OR 153
+88	2	fb:cell.or_233_southwest_of_dayton	OR 233 southwest of Dayton	or|233|southwest|of|dayton	or|233|southwest|of|Dayton	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|233.0|||	233.0			OR 233 southwest of Dayton
+88	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+88	4	fb:cell.null										
+89	0	fb:cell.oregon_route_164	Oregon Route 164	oregon|route|164	Oregon|route|164	NNP|NN|CD	LOCATION|O|NUMBER	||164.0	164.0			
+89	1	fb:cell.i_5_or_99e_in_millersburg	I-5/OR 99E in Millersburg	i-5|/|or|99e|in|millersburg	i-5|/|or|99e|in|Millersburg	NN|:|CC|CD|IN|NNP	O|O|O|NUMBER|O|LOCATION	|||99.0||	5.0		99.0	I-5|OR 99E in Millersburg
+89	2	fb:cell.i_5_or_99e_north_of_jefferson	I-5/OR 99E north of Jefferson	i-5|/|or|99e|north|of|jefferson	i-5|/|or|99e|north|of|Jefferson	NN|:|CC|CD|NN|IN|NNP	O|O|O|NUMBER|O|O|LOCATION	|||99.0|||	5.0		99.0	I-5|OR 99E north of Jefferson
+89	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+89	4	fb:cell.null										
+90	0	fb:cell.oregon_route_173	Oregon Route 173	oregon|route|173	Oregon|route|173	NNP|NN|CD	LOCATION|O|NUMBER	||173.0	173.0			
+90	1	fb:cell.us_26_east_of_government_camp	US 26 east of Government Camp	us|26|east|of|government|camp	we|26|east|of|Government|Camp	PRP|CD|NNP|IN|NNP|NNP	O|NUMBER|O|O|O|O	|26.0||||	26.0			US 26 east of Government Camp
+90	2	fb:cell.timberline_lodge	Timberline Lodge	timberline|lodge	Timberline|Lodge	NNP|NNP	LOCATION|LOCATION	|				Timberline Lodge
+90	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+90	4	fb:cell.null										
+91	0	fb:cell.oregon_route_180	Oregon Route 180	oregon|route|180	Oregon|route|180	NNP|NN|CD	LOCATION|O|NUMBER	||180.0	180.0			
+91	1	fb:cell.us_20_at_eddyville	US 20 at Eddyville	us|20|at|eddyville	we|20|at|Eddyville	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|20.0||	20.0			US 20 at Eddyville
+91	2	fb:cell.us_20_at_blodgett	US 20 at Blodgett	us|20|at|blodgett	we|20|at|Blodgett	PRP|CD|IN|NNP	O|NUMBER|O|PERSON	|20.0||	20.0			US 20 at Blodgett
+91	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+91	4	fb:cell.null										
+92	0	fb:cell.oregon_route_182	Oregon Route 182	oregon|route|182	Oregon|route|182	NNP|NN|CD	LOCATION|O|NUMBER	||182.0	182.0			
+92	1	fb:cell.devils_punch_bowl_state_natural_area	Devils Punch Bowl State Natural Area	devils|punch|bowl|state|natural|area	devil|punch|Bowl|State|natural|area	NNS|VBP|NNP|NNP|JJ|NN	O|O|O|O|O|O	|||||				Devils Punch Bowl State Natural Area
+92	2	fb:cell.us_101_north_of_newport	US 101 north of Newport	us|101|north|of|newport	we|101|north|of|Newport	PRP|CD|NN|IN|NNP	LOCATION|NUMBER|O|O|LOCATION	|101.0|||	101.0			US 101 north of Newport
+92	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+92	4	fb:cell.null										
+93	0	fb:cell.oregon_route_194	Oregon Route 194	oregon|route|194	Oregon|route|194	NNP|NN|CD	LOCATION|O|NUMBER	||194.0	194.0			
+93	1	fb:cell.or_223_south_of_dallas	OR 223 south of Dallas	or|223|south|of|dallas	or|223|south|of|Dallas	CC|CD|NNP|IN|NNP	O|NUMBER|O|O|LOCATION	|223.0|||	223.0			OR 223 south of Dallas
+93	2	fb:cell.or_51_or_99w_in_monmouth	OR 51/OR 99W in Monmouth	or|51/or|99w|in|monmouth	or|51/or|99w|in|Monmouth	CC|JJ|CD|IN|NNP	O|O|NUMBER|O|LOCATION	||99.0||	51.0		99.0	OR 51|OR 99W in Monmouth
+93	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+93	4	fb:cell.null										
+94	0	fb:cell.oregon_route_200	Oregon Route 200	oregon|route|200	Oregon|route|200	NNP|NN|CD	LOCATION|O|NUMBER	||200.0	200.0			
+94	1	fb:cell.north_of_curtin	North of Curtin	north|of|curtin	North|of|Curtin	NNP|IN|NNP	O|O|PERSON	||				North of Curtin
+94	2	fb:cell.or_99w_in_monroe	OR 99W in Monroe	or|99w|in|monroe	or|99w|in|Monroe	CC|CD|IN|NNP	O|NUMBER|O|PERSON	|99.0||	99.0			OR 99W in Monroe
+94	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+94	4	fb:cell.null										
+95	0	fb:cell.oregon_route_201	Oregon Route 201	oregon|route|201	Oregon|route|201	NNP|NN|CD	LOCATION|O|NUMBER	||201.0	201.0			
+95	1	fb:cell.sh_19_towards_homedale_id	SH-19 towards Homedale, ID	sh-19|towards|homedale|,|id	sh-19|towards|homedale|,|id	NN|IN|NN|,|NN	O|O|O|O|O	||||	19.0			SH-19 towards Homedale|ID
+95	2	fb:cell.i_84_us_30_south_of_huntington	I-84/US 30 south of Huntington	i-84|/|us|30|south|of|huntington	i-84|/|we|30|south|of|Huntington	NN|:|PRP|CD|NNP|IN|NNP	O|O|O|NUMBER|O|O|LOCATION	|||30.0|||	84.0		30.0	I-84|US 30 south of Huntington
+95	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+95	4	fb:cell.null										
+96	0	fb:cell.oregon_route_202	Oregon Route 202	oregon|route|202	Oregon|route|202	NNP|NN|CD	LOCATION|O|NUMBER	||202.0	202.0			
+96	1	fb:cell.us_101_in_astoria	US 101 in Astoria	us|101|in|astoria	we|101|in|Astoria	PRP|CD|IN|NNP	LOCATION|NUMBER|O|LOCATION	|101.0||	101.0			US 101 in Astoria
+96	2	fb:cell.or_47_at_mist	OR 47 at Mist	or|47|at|mist	or|47|at|Mist	CC|CD|IN|NNP	O|NUMBER|O|O	|47.0||	47.0			OR 47 at Mist
+96	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+96	4	fb:cell.null										
+97	0	fb:cell.oregon_route_203	Oregon Route 203	oregon|route|203	Oregon|route|203	NNP|NN|CD	LOCATION|O|NUMBER	||203.0	203.0			
+97	1	fb:cell.or_86_northeast_of_baker	OR 86 northeast of Baker	or|86|northeast|of|baker	or|86|northeast|of|Baker	CC|CD|NN|IN|NNP	O|NUMBER|O|O|PERSON	|86.0|||	86.0			OR 86 northeast of Baker
+97	2	fb:cell.i_84_us_30_south_of_la_grande	I-84/US 30 south of La Grande	i-84|/|us|30|south|of|la|grande	i-84|/|we|30|south|of|La|Grande	NN|:|PRP|CD|NNP|IN|NNP|NNP	O|O|O|NUMBER|O|O|LOCATION|LOCATION	|||30.0||||	84.0		30.0	I-84|US 30 south of La Grande
+97	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+97	4	fb:cell.null										
+98	0	fb:cell.oregon_route_204	Oregon Route 204	oregon|route|204	Oregon|route|204	NNP|NN|CD	LOCATION|O|NUMBER	||204.0	204.0			
+98	1	fb:cell.or_11_north_of_weston	OR 11 north of Weston	or|11|north|of|weston	or|11|north|of|Weston	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|11.0|||	11.0			OR 11 north of Weston
+98	2	fb:cell.or_82_in_elgin	OR 82 in Elgin	or|82|in|elgin	or|82|in|Elgin	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|82.0||	82.0			OR 82 in Elgin
+98	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+98	4	fb:cell.null										
+99	0	fb:cell.oregon_route_205	Oregon Route 205	oregon|route|205	Oregon|route|205	NNP|NN|CD	LOCATION|O|NUMBER	||205.0	205.0			
+99	1	fb:cell.roaring_springs_ranch	Roaring Springs Ranch	roaring|springs|ranch	Roaring|Springs|Ranch	NNP|NNP|NNP	O|DATE|O	|XXXX-SP|				Roaring Springs Ranch
+99	2	fb:cell.or_78_east_of_burns	OR 78 east of Burns	or|78|east|of|burns	or|78|east|of|Burns	CC|CD|NNP|IN|NNP	O|NUMBER|O|O|O	|78.0|||	78.0			OR 78 east of Burns
+99	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+99	4	fb:cell.null										
+100	0	fb:cell.oregon_route_206	Oregon Route 206	oregon|route|206	Oregon|route|206	NNP|NN|CD	LOCATION|O|NUMBER	||206.0	206.0			
+100	1	fb:cell.i_84_us_30_at_celilo	I-84/US 30 at Celilo	i-84|/|us|30|at|celilo	i-84|/|we|30|at|Celilo	NN|:|PRP|CD|IN|NNP	O|O|O|NUMBER|O|LOCATION	|||30.0||	84.0		30.0	I-84|US 30 at Celilo
+100	2	fb:cell.or_74_in_heppner	OR 74 in Heppner	or|74|in|heppner	or|74|in|Heppner	CC|CD|IN|NNP	O|NUMBER|O|PERSON	|74.0||	74.0			OR 74 in Heppner
+100	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+100	4	fb:cell.null										
+101	0	fb:cell.oregon_route_207	Oregon Route 207	oregon|route|207	Oregon|route|207	NNP|NN|CD	LOCATION|O|NUMBER	||207.0	207.0			
+101	1	fb:cell.us_26_in_mitchell	US 26 in Mitchell	us|26|in|mitchell	we|26|in|Mitchell	PRP|CD|IN|NNP	O|NUMBER|O|PERSON	|26.0||	26.0			US 26 in Mitchell
+101	2	fb:cell.us_730_west_of_cold_springs	US 730 west of Cold Springs	us|730|west|of|cold|springs	we|730|west|of|Cold|Springs	PRP|CD|NNP|IN|NNP|NNP	LOCATION|NUMBER|O|O|O|DATE	|730.0||||XXXX-SP	730.0			US 730 west of Cold Springs
+101	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+101	4	fb:cell.null										
+102	0	fb:cell.oregon_route_208	Oregon Route 208	oregon|route|208	Oregon|route|208	NNP|NN|CD	LOCATION|O|NUMBER	||208.0	208.0			
+102	1	fb:cell.or_219_south_of_hillsboro	OR 219 south of Hillsboro	or|219|south|of|hillsboro	or|219|south|of|Hillsboro	CC|CD|NNP|IN|NNP	O|NUMBER|O|O|LOCATION	|219.0|||	219.0			OR 219 south of Hillsboro
+102	2	fb:cell.or_10_in_beaverton	OR 10 in Beaverton	or|10|in|beaverton	or|10|in|Beaverton	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|10.0||	10.0			OR 10 in Beaverton
+102	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+102	4	fb:cell.1982	1982	1982	1982	CD	DATE	1982	1982.0	1982-xx-xx		
+103	0	fb:cell.oregon_route_209	Oregon Route 209	oregon|route|209	Oregon|route|209	NNP|NN|CD	LOCATION|O|NUMBER	||209.0	209.0			
+103	1	fb:cell.crater_lake_national_park	Crater Lake National Park	crater|lake|national|park	Crater|Lake|National|Park	NNP|NNP|NNP|NNP	LOCATION|LOCATION|LOCATION|LOCATION	|||				Crater Lake National Park
+103	2	fb:cell.or_58_at_crescent_lake_junction	OR 58 at Crescent Lake Junction	or|58|at|crescent|lake|junction	or|58|at|Crescent|Lake|junction	CC|CD|IN|NNP|NNP|NN	O|NUMBER|O|LOCATION|LOCATION|LOCATION	|58.0||||	58.0			OR 58 at Crescent Lake Junction
+103	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+103	4	fb:cell.1950s	1950s	1950s	1950s	CD	DATE	195X	1950.0			
+104	0	fb:cell.oregon_route_210	Oregon Route 210	oregon|route|210	Oregon|route|210	NNP|NN|CD	LOCATION|O|NUMBER	||210.0	210.0			
+104	1	fb:cell.or_219_at_scholls	OR 219 at Scholls	or|219|at|scholls	or|219|at|Scholls	CC|CD|IN|NNP	O|NUMBER|O|O	|219.0||	219.0			OR 219 at Scholls
+104	2	fb:cell.or_10_west_of_hillsdale	OR 10 west of Hillsdale	or|10|west|of|hillsdale	or|10|west|of|Hillsdale	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|10.0|||	10.0			OR 10 west of Hillsdale
+104	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+104	4	fb:cell.null										
+105	0	fb:cell.oregon_route_211	Oregon Route 211	oregon|route|211	Oregon|route|211	NNP|NN|CD	LOCATION|O|NUMBER	||211.0	211.0			
+105	1	fb:cell.or_99e_north_of_woodburn	OR 99E north of Woodburn	or|99e|north|of|woodburn	or|99e|north|of|Woodburn	CC|CD|NN|IN|NNP	O|NUMBER|O|O|O	|99.0|||	99.0			OR 99E north of Woodburn
+105	2	fb:cell.us_26_in_sandy	US 26 in Sandy	us|26|in|sandy	we|26|in|Sandy	PRP|CD|IN|NNP	O|NUMBER|O|PERSON	|26.0||	26.0			US 26 in Sandy
+105	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+105	4	fb:cell.null										
+106	0	fb:cell.oregon_route_212	Oregon Route 212	oregon|route|212	Oregon|route|212	NNP|NN|CD	LOCATION|O|NUMBER	||212.0	212.0			
+106	1	fb:cell.i_205_near_clackamas	I-205 near Clackamas	i-205|near|clackamas	i-205|near|Clackamas	NN|IN|NNP	O|O|LOCATION	||	205.0			I-205 near Clackamas
+106	2	fb:cell.us_26_west_of_sandy	US 26 west of Sandy	us|26|west|of|sandy	we|26|west|of|Sandy	PRP|CD|NNP|IN|NNP	O|NUMBER|O|O|PERSON	|26.0|||	26.0			US 26 west of Sandy
+106	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+106	4	fb:cell.null										
+107	0	fb:cell.oregon_route_213	Oregon Route 213	oregon|route|213	Oregon|route|213	NNP|NN|CD	LOCATION|O|NUMBER	||213.0	213.0			
+107	1	fb:cell.i_5_or_99e_in_salem	I-5/OR 99E in Salem	i-5|/|or|99e|in|salem	i-5|/|or|99e|in|Salem	NN|:|CC|CD|IN|NNP	O|O|O|NUMBER|O|LOCATION	|||99.0||	5.0		99.0	I-5|OR 99E in Salem
+107	2	fb:cell.portland_international_airport	Portland International Airport	portland|international|airport	Portland|International|Airport	NNP|NNP|NNP	LOCATION|LOCATION|LOCATION	||				Portland International Airport
+107	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+107	4	fb:cell.null										
+108	0	fb:cell.oregon_route_214	Oregon Route 214	oregon|route|214	Oregon|route|214	NNP|NN|CD	LOCATION|O|NUMBER	||214.0	214.0			
+108	1	fb:cell.i_5_in_woodburn	I-5 in Woodburn	i-5|in|woodburn	i-5|in|Woodburn	NN|IN|NNP	O|O|LOCATION	||	5.0			I-5 in Woodburn
+108	2	fb:cell.or_22_west_of_shaw	OR 22 west of Shaw	or|22|west|of|shaw	or|22|west|of|Shaw	CC|CD|NN|IN|NNP	O|NUMBER|O|O|O	|22.0|||	22.0			OR 22 west of Shaw
+108	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+108	4	fb:cell.null										
+109	0	fb:cell.oregon_route_215	Oregon Route 215	oregon|route|215	Oregon|route|215	NNP|NN|CD	LOCATION|O|NUMBER	||215.0	215.0			
+109	1	fb:cell.or_214_in_silverton	OR 214 in Silverton	or|214|in|silverton	or|214|in|Silverton	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|214.0||	214.0			OR 214 in Silverton
+109	2	fb:cell.or_99e_in_oregon_city	OR 99E in Oregon City	or|99e|in|oregon|city	or|99e|in|Oregon|City	CC|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|99.0|||	99.0			OR 99E in Oregon City
+109	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+109	4	fb:cell.1950s	1950s	1950s	1950s	CD	DATE	195X	1950.0			
+110	0	fb:cell.oregon_route_216	Oregon Route 216	oregon|route|216	Oregon|route|216	NNP|NN|CD	LOCATION|O|NUMBER	||216.0	216.0			
+110	1	fb:cell.us_26_near_bear_springs	US 26 near Bear Springs	us|26|near|bear|springs	we|26|near|Bear|Springs	PRP|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|26.0|||	26.0			US 26 near Bear Springs
+110	2	fb:cell.us_97_in_grass_valley	US 97 in Grass Valley	us|97|in|grass|valley	we|97|in|grass|Valley	PRP|CD|IN|NN|NNP	O|NUMBER|O|O|O	|97.0|||	97.0			US 97 in Grass Valley
+110	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+110	4	fb:cell.null										
+111	0	fb:cell.oregon_route_217	Oregon Route 217	oregon|route|217	Oregon|route|217	NNP|NN|CD	LOCATION|O|NUMBER	||217.0	217.0			
+111	1	fb:cell.i_5_east_of_tigard	I-5 east of Tigard	i-5|east|of|tigard	I-5|east|of|Tigard	NNP|NNP|IN|NNP	O|O|O|LOCATION	|||	5.0			I-5 east of Tigard
+111	2	fb:cell.us_26_at_cedar_hills	US 26 at Cedar Hills	us|26|at|cedar|hills	we|26|at|Cedar|Hills	PRP|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|26.0|||	26.0			US 26 at Cedar Hills
+111	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+111	4	fb:cell.null										
+112	0	fb:cell.oregon_route_218	Oregon Route 218	oregon|route|218	Oregon|route|218	NNP|NN|CD	LOCATION|O|NUMBER	||218.0	218.0			
+112	1	fb:cell.us_97_at_shaniko	US 97 at Shaniko	us|97|at|shaniko	we|97|at|Shaniko	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|97.0||	97.0			US 97 at Shaniko
+112	2	fb:cell.or_19_in_fossil	OR 19 in Fossil	or|19|in|fossil	or|19|in|fossil	CC|CD|IN|NN	O|NUMBER|O|O	|19.0||	19.0			OR 19 in Fossil
+112	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+112	4	fb:cell.null										
+113	0	fb:cell.oregon_route_219	Oregon Route 219	oregon|route|219	Oregon|route|219	NNP|NN|CD	LOCATION|O|NUMBER	||219.0	219.0			
+113	1	fb:cell.i_5_in_woodburn	I-5 in Woodburn	i-5|in|woodburn	i-5|in|Woodburn	NN|IN|NNP	O|O|LOCATION	||	5.0			I-5 in Woodburn
+113	2	fb:cell.or_8_in_hillsboro	OR 8 in Hillsboro	or|8|in|hillsboro	or|8|in|Hillsboro	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|8.0||	8.0			OR 8 in Hillsboro
+113	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+113	4	fb:cell.null										
+114	0	fb:cell.oregon_route_220	Oregon Route 220	oregon|route|220	Oregon|route|220	NNP|NN|CD	LOCATION|O|NUMBER	||220.0	220.0			
+114	1	fb:cell.sumpter	Sumpter	sumpter	Sumpter	NNP	PERSON					Sumpter
+114	2	fb:cell.or_7_at_salisbury	OR 7 at Salisbury	or|7|at|salisbury	or|7|at|Salisbury	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|7.0||	7.0			OR 7 at Salisbury
+114	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+114	4	fb:cell.1980s	1980s	1980s	1980s	CD	DATE	198X	1980.0			
+115	0	fb:cell.oregon_route_221	Oregon Route 221	oregon|route|221	Oregon|route|221	NNP|NN|CD	LOCATION|O|NUMBER	||221.0	221.0			
+115	1	fb:cell.or_22_in_salem	OR 22 in Salem	or|22|in|salem	or|22|in|Salem	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|22.0||	22.0			OR 22 in Salem
+115	2	fb:cell.or_18_northeast_of_dayton	OR 18 northeast of Dayton	or|18|northeast|of|dayton	or|18|northeast|of|Dayton	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|18.0|||	18.0			OR 18 northeast of Dayton
+115	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+115	4	fb:cell.null										
+116	0	fb:cell.oregon_route_222	Oregon Route 222	oregon|route|222	Oregon|route|222	NNP|NN|CD	LOCATION|O|NUMBER	||222.0	222.0			
+116	1	fb:cell.or_99_in_creswell	OR 99 in Creswell	or|99|in|creswell	or|99|in|Creswell	CC|CD|IN|NNP	O|NUMBER|O|PERSON	|99.0||	99.0			OR 99 in Creswell
+116	2	fb:cell.or_126b_in_springfield	OR 126B in Springfield	or|126b|in|springfield	or|126b|in|Springfield	CC|NN|IN|NNP	O|O|O|LOCATION	|||	126.0			OR 126B in Springfield
+116	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+116	4	fb:cell.null										
+117	0	fb:cell.oregon_route_222	Oregon Route 222	oregon|route|222	Oregon|route|222	NNP|NN|CD	LOCATION|O|NUMBER	||222.0	222.0			
+117	1	fb:cell.or_99eb_in_salem	OR 99EB in Salem	or|99eb|in|salem	or|99eb|in|Salem	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|99.0||	99.0			OR 99EB in Salem
+117	2	fb:cell.us_20_or_126_west_of_suttle_lake	US 20/OR 126 west of Suttle Lake	us|20/or|126|west|of|suttle|lake	we|20/or|126|west|of|Suttle|Lake	PRP|NN|CD|NNP|IN|NNP|NNP	O|O|NUMBER|O|O|LOCATION|LOCATION	||126.0||||	20.0		126.0	US 20|OR 126 west of Suttle Lake
+117	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+117	4	fb:cell.1950s	1950s	1950s	1950s	CD	DATE	195X	1950.0			
+118	0	fb:cell.oregon_route_223	Oregon Route 223	oregon|route|223	Oregon|route|223	NNP|NN|CD	LOCATION|O|NUMBER	||223.0	223.0			
+118	1	fb:cell.us_20_near_wren	US 20 near Wren	us|20|near|wren	we|20|near|Wren	PRP|CD|IN|NNP	O|NUMBER|O|O	|20.0||	20.0			US 20 near Wren
+118	2	fb:cell.or_22_west_of_rickreall	OR 22 west of Rickreall	or|22|west|of|rickreall	or|22|west|of|Rickreall	CC|CD|NNP|IN|NNP	O|NUMBER|O|O|O	|22.0|||	22.0			OR 22 west of Rickreall
+118	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+118	4	fb:cell.null										
+119	0	fb:cell.oregon_route_224	Oregon Route 224	oregon|route|224	Oregon|route|224	NNP|NN|CD	LOCATION|O|NUMBER	||224.0	224.0			
+119	1	fb:cell.or_99e_in_milwaukie	OR 99E in Milwaukie	or|99e|in|milwaukie	or|99e|in|Milwaukie	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|99.0||	99.0			OR 99E in Milwaukie
+119	2	fb:cell.near_ripplebrook	Near Ripplebrook	near|ripplebrook	near|ripplebrook	IN|NN	O|LOCATION	|				Near Ripplebrook
+119	3	fb:cell.1936	1936	1936	1936	CD	DATE	1936	1936.0	1936-xx-xx		
+119	4	fb:cell.null										
+120	0	fb:cell.oregon_route_225	Oregon Route 225	oregon|route|225	Oregon|route|225	NNP|NN|CD	LOCATION|O|NUMBER	||225.0	225.0			
+120	1	fb:cell.i_5_north_of_goshen	I-5 north of Goshen	i-5|north|of|goshen	I-5|north|of|Goshen	NNP|NNP|IN|NNP	O|O|O|LOCATION	|||	5.0			I-5 north of Goshen
+120	2	fb:cell.or_126b_west_of_springfield	OR 126B west of Springfield	or|126b|west|of|springfield	or|126b|west|of|Springfield	CC|NN|NN|IN|NNP	O|O|O|O|LOCATION	||||	126.0			OR 126B west of Springfield
+120	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+120	4	fb:cell.null										
+121	0	fb:cell.oregon_route_225	Oregon Route 225	oregon|route|225	Oregon|route|225	NNP|NN|CD	LOCATION|O|NUMBER	||225.0	225.0			
+121	1	fb:cell.or_99_in_sutherlin	OR 99 in Sutherlin	or|99|in|sutherlin	or|99|in|Sutherlin	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|99.0||	99.0			OR 99 in Sutherlin
+121	2	fb:cell.or_38_at_elkton	OR 38 at Elkton	or|38|at|elkton	or|38|at|Elkton	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|38.0||	38.0			OR 38 at Elkton
+121	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+121	4	fb:cell.1960s	1960s	1960s	1960s	CD	DATE	196X	1960.0			
+122	0	fb:cell.oregon_route_226	Oregon Route 226	oregon|route|226	Oregon|route|226	NNP|NN|CD	LOCATION|O|NUMBER	||226.0	226.0			
+122	1	fb:cell.us_20_at_crabtree_corners	US 20 at Crabtree Corners	us|20|at|crabtree|corners	we|20|at|Crabtree|Corners	PRP|CD|IN|NNP|NNPS	O|NUMBER|O|ORGANIZATION|ORGANIZATION	|20.0|||	20.0			US 20 at Crabtree Corners
+122	2	fb:cell.or_22_at_mehama	OR 22 at Mehama	or|22|at|mehama	or|22|at|Mehama	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|22.0||	22.0			OR 22 at Mehama
+122	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+122	4	fb:cell.null										
+123	0	fb:cell.oregon_route_227	Oregon Route 227	oregon|route|227	Oregon|route|227	NNP|NN|CD	LOCATION|O|NUMBER	||227.0	227.0			
+123	1	fb:cell.or_62_at_trail	OR 62 at Trail	or|62|at|trail	or|62|at|trail	CC|CD|IN|NN	O|NUMBER|O|O	|62.0||	62.0			OR 62 at Trail
+123	2	fb:cell.south_of_tiller	South of Tiller	south|of|tiller	South|of|tiller	NNP|IN|NN	O|O|PERSON	||				South of Tiller
+123	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+123	4	fb:cell.1986_restored_2003	1986 (restored 2003)	1986|-lrb-|restored|2003|-rrb-	1986|-lrb-|restore|2003|-rrb-	CD|-LRB-|VBN|CD|-RRB-	DATE|O|O|DATE|O	1986|||2003|	1986.0		2003.0	
+124	0	fb:cell.oregon_route_228	Oregon Route 228	oregon|route|228	Oregon|route|228	NNP|NN|CD	LOCATION|O|NUMBER	||228.0	228.0			
+124	1	fb:cell.or_99e_in_halsey	OR 99E in Halsey	or|99e|in|halsey	or|99e|in|Halsey	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|99.0||	99.0			OR 99E in Halsey
+124	2	fb:cell.us_20_in_sweet_home	US 20 in Sweet Home	us|20|in|sweet|home	we|20|in|sweet|home	PRP|CD|IN|JJ|NN	O|NUMBER|O|O|O	|20.0|||	20.0			US 20 in Sweet Home
+124	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+124	4	fb:cell.null										
+125	0	fb:cell.oregon_route_229	Oregon Route 229	oregon|route|229	Oregon|route|229	NNP|NN|CD	LOCATION|O|NUMBER	||229.0	229.0			
+125	1	fb:cell.us_20_north_of_toledo	US 20 north of Toledo	us|20|north|of|toledo	we|20|north|of|Toledo	PRP|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|20.0|||	20.0			US 20 north of Toledo
+125	2	fb:cell.us_101_at_kernville	US 101 at Kernville	us|101|at|kernville	we|101|at|Kernville	PRP|CD|IN|NNP	LOCATION|NUMBER|O|LOCATION	|101.0||	101.0			US 101 at Kernville
+125	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+125	4	fb:cell.null										
+126	0	fb:cell.oregon_route_230	Oregon Route 230	oregon|route|230	Oregon|route|230	NNP|NN|CD	LOCATION|O|NUMBER	||230.0	230.0			
+126	1	fb:cell.or_62_near_union_creek	OR 62 near Union Creek	or|62|near|union|creek	or|62|near|Union|Creek	CC|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|62.0|||	62.0			OR 62 near Union Creek
+126	2	fb:cell.or_138_near_diamond_lake	OR 138 near Diamond Lake	or|138|near|diamond|lake	or|138|near|Diamond|Lake	CC|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|138.0|||	138.0			OR 138 near Diamond Lake
+126	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+126	4	fb:cell.null										
+127	0	fb:cell.oregon_route_231	Oregon Route 231	oregon|route|231	Oregon|route|231	NNP|NN|CD	LOCATION|O|NUMBER	||231.0	231.0			
+127	1	fb:cell.null										
+127	2	fb:cell.null										
+127	3	fb:cell.null										
+127	4	fb:cell.null										
+128	0	fb:cell.oregon_route_232	Oregon Route 232	oregon|route|232	Oregon|route|232	NNP|NN|CD	LOCATION|O|NUMBER	||232.0	232.0			
+128	1	fb:cell.crater_lake_national_park	Crater Lake National Park	crater|lake|national|park	Crater|Lake|National|Park	NNP|NNP|NNP|NNP	LOCATION|LOCATION|LOCATION|LOCATION	|||				Crater Lake National Park
+128	2	fb:cell.us_97	US 97	us|97	we|97	PRP|CD	O|NUMBER	|97.0	97.0			US 97
+128	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+128	4	fb:cell.1980s	1980s	1980s	1980s	CD	DATE	198X	1980.0			
+129	0	fb:cell.oregon_route_233	Oregon Route 233	oregon|route|233	Oregon|route|233	NNP|NN|CD	LOCATION|O|NUMBER	||233.0	233.0			
+129	1	fb:cell.or_99w_north_of_amity	OR 99W north of Amity	or|99w|north|of|amity	or|99w|north|of|amity	CC|CD|NN|IN|NN	O|NUMBER|O|O|O	|99.0|||	99.0			OR 99W north of Amity
+129	2	fb:cell.or_99w_northeast_of_dayton	OR 99W northeast of Dayton	or|99w|northeast|of|dayton	or|99w|northeast|of|Dayton	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|99.0|||	99.0			OR 99W northeast of Dayton
+129	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+129	4	fb:cell.null										
+130	0	fb:cell.oregon_route_234	Oregon Route 234	oregon|route|234	Oregon|route|234	NNP|NN|CD	LOCATION|O|NUMBER	||234.0	234.0			
+130	1	fb:cell.i_5_west_of_gold_hill	I-5 west of Gold Hill	i-5|west|of|gold|hill	I-5|west|of|Gold|Hill	NNP|NNP|IN|NNP|NNP	O|O|O|LOCATION|LOCATION	||||	5.0			I-5 west of Gold Hill
+130	2	fb:cell.or_62_north_of_eagle_point	OR 62 north of Eagle Point	or|62|north|of|eagle|point	or|62|north|of|Eagle|point	CC|CD|NN|IN|NNP|NN	O|NUMBER|O|O|O|O	|62.0||||	62.0			OR 62 north of Eagle Point
+130	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+130	4	fb:cell.null										
+131	0	fb:cell.oregon_route_235	Oregon Route 235	oregon|route|235	Oregon|route|235	NNP|NN|CD	LOCATION|O|NUMBER	||235.0	235.0			
+131	1	fb:cell.null										
+131	2	fb:cell.null										
+131	3	fb:cell.null										
+131	4	fb:cell.null										
+132	0	fb:cell.oregon_route_236	Oregon Route 236	oregon|route|236	Oregon|route|236	NNP|NN|CD	LOCATION|O|NUMBER	||236.0	236.0			
+132	1	fb:cell.or_62_in_eagle_point	OR 62 in Eagle Point	or|62|in|eagle|point	or|62|in|Eagle|point	CC|CD|IN|NNP|NN	O|NUMBER|O|O|O	|62.0|||	62.0			OR 62 in Eagle Point
+132	2	fb:cell.us_97_in_klamath_falls	US 97 in Klamath Falls	us|97|in|klamath|falls	we|97|in|Klamath|Falls	PRP|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|97.0|||	97.0			US 97 in Klamath Falls
+132	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+132	4	fb:cell.1940s	1940s	1940s	1940s	CD	DATE	194X	1940.0			
+133	0	fb:cell.oregon_route_237	Oregon Route 237	oregon|route|237	Oregon|route|237	NNP|NN|CD	LOCATION|O|NUMBER	||237.0	237.0			
+133	1	fb:cell.i_84_us_30_at_north_powder	I-84/US 30 at North Powder	i-84|/|us|30|at|north|powder	i-84|/|we|30|at|North|Powder	NN|:|PRP|CD|IN|NNP|NNP	O|O|O|NUMBER|O|LOCATION|LOCATION	|||30.0|||	84.0		30.0	I-84|US 30 at North Powder
+133	2	fb:cell.or_82_in_island_city	OR 82 in Island City	or|82|in|island|city	or|82|in|Island|City	CC|CD|IN|NNP|NNP	O|NUMBER|O|O|O	|82.0|||	82.0			OR 82 in Island City
+133	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+133	4	fb:cell.null										
+134	0	fb:cell.oregon_route_238	Oregon Route 238	oregon|route|238	Oregon|route|238	NNP|NN|CD	LOCATION|O|NUMBER	||238.0	238.0			
+134	1	fb:cell.us_199_or_99_south_of_grants_pass	US 199/OR 99 south of Grants Pass	us|199/or|99|south|of|grants|pass	we|199/or|99|south|of|Grants|pass	PRP|RB|CD|NNP|IN|NNPS|VBP	O|O|NUMBER|O|O|O|O	||99.0||||	199.0		99.0	US 199|OR 99 south of Grants Pass
+134	2	fb:cell.or_99_in_medford	OR 99 in Medford	or|99|in|medford	or|99|in|Medford	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|99.0||	99.0			OR 99 in Medford
+134	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+134	4	fb:cell.null										
+135	0	fb:cell.oregon_route_240	Oregon Route 240	oregon|route|240	Oregon|route|240	NNP|NN|CD	LOCATION|O|NUMBER	||240.0	240.0			
+135	1	fb:cell.or_47_in_yamhill	OR 47 in Yamhill	or|47|in|yamhill	or|47|in|Yamhill	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|47.0||	47.0			OR 47 in Yamhill
+135	2	fb:cell.or_99w_in_newberg	OR 99W in Newberg	or|99w|in|newberg	or|99w|in|Newberg	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|99.0||	99.0			OR 99W in Newberg
+135	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+135	4	fb:cell.null										
+136	0	fb:cell.oregon_route_241	Oregon Route 241	oregon|route|241	Oregon|route|241	NNP|NN|CD	LOCATION|O|NUMBER	||241.0	241.0			
+136	1	fb:cell.us_101_in_coos_bay	US 101 in Coos Bay	us|101|in|coos|bay	we|101|in|Coos|Bay	PRP|CD|IN|NNP|NNP	LOCATION|NUMBER|O|O|O	|101.0|||	101.0			US 101 in Coos Bay
+136	2	fb:cell.east_of_nesika_county_park	East of Nesika County Park	east|of|nesika|county|park	East|of|Nesika|County|Park	NNP|IN|NNP|NNP|NNP	O|O|LOCATION|LOCATION|LOCATION	||||				East of Nesika County Park
+136	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+136	4	fb:cell.null										
+137	0	fb:cell.oregon_route_242	Oregon Route 242	oregon|route|242	Oregon|route|242	NNP|NN|CD	LOCATION|O|NUMBER	||242.0	242.0			
+137	1	fb:cell.or_126_south_of_belknap_springs	OR 126 south of Belknap Springs	or|126|south|of|belknap|springs	or|126|south|of|Belknap|Springs	CC|CD|NNP|IN|NNP|NNP	O|NUMBER|O|O|LOCATION|LOCATION	|126.0||||	126.0			OR 126 south of Belknap Springs
+137	2	fb:cell.us_20_or_126_in_sisters	US 20/OR 126 in Sisters	us|20/or|126|in|sisters	we|20/or|126|in|sister	PRP|NN|CD|IN|NNS	O|O|NUMBER|O|O	||126.0||	20.0		126.0	US 20|OR 126 in Sisters
+137	3	fb:cell.null										
+137	4	fb:cell.null										
+138	0	fb:cell.oregon_route_244	Oregon Route 244	oregon|route|244	Oregon|route|244	NNP|NN|CD	LOCATION|O|NUMBER	||244.0	244.0			
+138	1	fb:cell.us_395_west_of_ukiah	US 395 west of Ukiah	us|395|west|of|ukiah	we|395|west|of|Ukiah	PRP|CD|NNP|IN|NNP	LOCATION|NUMBER|O|O|LOCATION	|395.0|||	395.0			US 395 west of Ukiah
+138	2	fb:cell.i_84_us_30_at_hilgard	I-84/US 30 at Hilgard	i-84|/|us|30|at|hilgard	i-84|/|we|30|at|Hilgard	NN|:|PRP|CD|IN|NNP	O|O|O|NUMBER|O|LOCATION	|||30.0||	84.0		30.0	I-84|US 30 at Hilgard
+138	3	fb:cell.null										
+138	4	fb:cell.null										
+139	0	fb:cell.oregon_route_245	Oregon Route 245	oregon|route|245	Oregon|route|245	NNP|NN|CD	LOCATION|O|NUMBER	||245.0	245.0			
+139	1	fb:cell.us_26_near_unity	US 26 near Unity	us|26|near|unity	we|26|near|unity	PRP|CD|IN|NN	O|NUMBER|O|O	|26.0||	26.0			US 26 near Unity
+139	2	fb:cell.or_7_near_salisbury	OR 7 near Salisbury	or|7|near|salisbury	or|7|near|Salisbury	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|7.0||	7.0			OR 7 near Salisbury
+139	3	fb:cell.null										
+139	4	fb:cell.null										
+140	0	fb:cell.oregon_route_250	Oregon Route 250	oregon|route|250	Oregon|route|250	NNP|NN|CD	LOCATION|O|NUMBER	||250.0	250.0			
+140	1	fb:cell.us_101_north_of_port_orford	US 101 north of Port Orford	us|101|north|of|port|orford	we|101|north|of|Port|Orford	PRP|CD|NNP|IN|NNP|NNP	LOCATION|NUMBER|O|O|LOCATION|LOCATION	|101.0||||	101.0			US 101 north of Port Orford
+140	2	fb:cell.cape_blanco_state_park	Cape Blanco State Park	cape|blanco|state|park	Cape|Blanco|State|Park	NNP|NNP|NNP|NNP	LOCATION|LOCATION|LOCATION|LOCATION	|||				Cape Blanco State Park
+140	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+140	4	fb:cell.null										
+141	0	fb:cell.oregon_route_251	Oregon Route 251	oregon|route|251	Oregon|route|251	NNP|NN|CD	LOCATION|O|NUMBER	||251.0	251.0			
+141	1	fb:cell.port_orford_heads_state_park	Port Orford Heads State Park	port|orford|heads|state|park	Port|Orford|head|state|park	NNP|NNP|VBZ|NN|NN	LOCATION|LOCATION|LOCATION|LOCATION|LOCATION	||||				Port Orford Heads State Park
+141	2	fb:cell.us_101_in_port_orford	US 101 in Port Orford	us|101|in|port|orford	we|101|in|port|Orford	PRP|CD|IN|JJ|NNP	LOCATION|NUMBER|O|LOCATION|LOCATION	|101.0|||	101.0			US 101 in Port Orford
+141	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+141	4	fb:cell.null										
+142	0	fb:cell.oregon_route_255	Oregon Route 255	oregon|route|255	Oregon|route|255	NNP|NN|CD	LOCATION|O|NUMBER	||255.0	255.0			
+142	1	fb:cell.us_101_at_brookings	US 101 at Brookings	us|101|at|brookings	we|101|at|Brookings	PRP|CD|IN|NNP	LOCATION|NUMBER|O|O	|101.0||	101.0			US 101 at Brookings
+142	2	fb:cell.us_101_south_of_gold_beach	US 101 south of Gold Beach	us|101|south|of|gold|beach	we|101|south|of|Gold|Beach	PRP|CD|NNP|IN|NNP|NNP	LOCATION|NUMBER|O|O|O|O	|101.0||||	101.0			US 101 south of Gold Beach
+142	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+142	4	fb:cell.null										
+143	0	fb:cell.oregon_route_260	Oregon Route 260	oregon|route|260	Oregon|route|260	NNP|NN|CD	LOCATION|O|NUMBER	||260.0	260.0			
+143	1	fb:cell.us_199_southwest_of_grants_pass	US 199 southwest of Grants Pass	us|199|southwest|of|grants|pass	we|199|southwest|of|grant|pass	PRP|CD|NN|IN|NNS|VBP	LOCATION|NUMBER|O|O|O|O	|199.0||||	199.0			US 199 southwest of Grants Pass
+143	2	fb:cell.grants_pass	Grants Pass	grants|pass	grant|pass	NNS|VBP	O|O	|				Grants Pass
+143	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+143	4	fb:cell.null										
+144	0	fb:cell.oregon_route_273	Oregon Route 273	oregon|route|273	Oregon|route|273	NNP|NN|CD	LOCATION|O|NUMBER	||273.0	273.0			
+144	1	fb:cell.i_5_south_of_siskiyou_summit	I-5 south of Siskiyou Summit	i-5|south|of|siskiyou|summit	i-5|south|of|Siskiyou|Summit	NN|NN|IN|NNP|NNP	O|O|O|LOCATION|O	||||	5.0			I-5 south of Siskiyou Summit
+144	2	fb:cell.or_66_southeast_of_ashland	OR 66 southeast of Ashland	or|66|southeast|of|ashland	or|66|southeast|of|Ashland	CC|CD|NNP|IN|NNP	O|NUMBER|O|O|LOCATION	|66.0|||	66.0			OR 66 southeast of Ashland
+144	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+144	4	fb:cell.null										
+145	0	fb:cell.oregon_route_281	Oregon Route 281	oregon|route|281	Oregon|route|281	NNP|NN|CD	LOCATION|O|NUMBER	||281.0	281.0			
+145	1	fb:cell.or_35_at_mt_hood	OR 35 at Mt. Hood	or|35|at|mt.|hood	or|35|at|Mt.|hood	CC|CD|IN|NNP|NN	O|NUMBER|O|LOCATION|LOCATION	|35.0|||	35.0			OR 35 at Mt. Hood
+145	2	fb:cell.us_30_or_35_in_hood_river	US 30/OR 35 in Hood River	us|30/or|35|in|hood|river	we|30/or|35|in|hood|river	PRP|VBP|CD|IN|NN|NN	LOCATION|O|NUMBER|O|LOCATION|LOCATION	||35.0|||	30.0		35.0	US 30|OR 35 in Hood River
+145	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+145	4	fb:cell.null										
+146	0	fb:cell.oregon_route_282	Oregon Route 282	oregon|route|282	Oregon|route|282	NNP|NN|CD	LOCATION|O|NUMBER	||282.0	282.0			
+146	1	fb:cell.or_281_south_of_hood_river	OR 281 south of Hood River	or|281|south|of|hood|river	or|281|south|of|hood|river	CC|CD|NNP|IN|NN|NN	O|NUMBER|O|O|O|O	|281.0||||	281.0			OR 281 south of Hood River
+146	2	fb:cell.or_35_south_of_hood_river	OR 35 south of Hood River	or|35|south|of|hood|river	or|35|south|of|hood|river	CC|CD|NNP|IN|NN|NN	O|NUMBER|O|O|O|O	|35.0||||	35.0			OR 35 south of Hood River
+146	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+146	4	fb:cell.null										
+147	0	fb:cell.oregon_route_293	Oregon Route 293	oregon|route|293	Oregon|route|293	NNP|NN|CD	LOCATION|O|NUMBER	||293.0	293.0			
+147	1	fb:cell.us_97_north_of_madras	US 97 north of Madras	us|97|north|of|madras	we|97|north|of|Madras	PRP|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|97.0|||	97.0			US 97 north of Madras
+147	2	fb:cell.or_218_in_antelope	OR 218 in Antelope	or|218|in|antelope	or|218|in|antelope	CC|CD|IN|NNS	O|NUMBER|O|O	|218.0||	218.0			OR 218 in Antelope
+147	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+147	4	fb:cell.null										
+148	0	fb:cell.oregon_route_331	Oregon Route 331	oregon|route|331	Oregon|route|331	NNP|NN|CD	LOCATION|O|NUMBER	||331.0	331.0			
+148	1	fb:cell.i_84_us_30_southeast_of_pendleton	I-84/US 30 southeast of Pendleton	i-84|/|us|30|southeast|of|pendleton	i-84|/|we|30|southeast|of|Pendleton	NN|:|PRP|CD|NNP|IN|NNP	O|O|O|NUMBER|O|O|LOCATION	|||30.0|||	84.0		30.0	I-84|US 30 southeast of Pendleton
+148	2	fb:cell.or_11_northeast_of_pendleton	OR 11 northeast of Pendleton	or|11|northeast|of|pendleton	or|11|northeast|of|Pendleton	CC|CD|NN|IN|NNP	O|NUMBER|O|O|PERSON	|11.0|||	11.0			OR 11 northeast of Pendleton
+148	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+148	4	fb:cell.null										
+149	0	fb:cell.oregon_route_332	Oregon Route 332	oregon|route|332	Oregon|route|332	NNP|NN|CD	LOCATION|O|NUMBER	||332.0	332.0			
+149	1	fb:cell.washington_state_line	Washington state line	washington|state|line	Washington|state|line	NNP|NNP|NNP	LOCATION|O|O	||				Washington state line
+149	2	fb:cell.or_11_north_of_milton_freewater	OR 11 north of Milton-Freewater	or|11|north|of|milton|freewater	or|11|north|of|Milton|Freewater	CC|CD|NN|IN|NNP|NNP	O|NUMBER|O|O|PERSON|PERSON	|11.0||||	11.0			OR 11 north of Milton-Freewater
+149	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+149	4	fb:cell.null										
+150	0	fb:cell.oregon_route_334	Oregon Route 334	oregon|route|334	Oregon|route|334	NNP|NN|CD	LOCATION|O|NUMBER	||334.0	334.0			
+150	1	fb:cell.or_37_north_of_pendleton	OR 37 north of Pendleton	or|37|north|of|pendleton	or|37|north|of|Pendleton	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|37.0|||	37.0			OR 37 north of Pendleton
+150	2	fb:cell.or_11_east_of_athena	OR 11 east of Athena	or|11|east|of|athena	or|11|east|of|Athena	CC|CD|NNS|IN|NNP	O|NUMBER|O|O|ORGANIZATION	|11.0|||	11.0			OR 11 east of Athena
+150	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+150	4	fb:cell.null										
+151	0	fb:cell.oregon_route_335	Oregon Route 335	oregon|route|335	Oregon|route|335	NNP|NN|CD	LOCATION|O|NUMBER	||335.0	335.0			
+151	1	fb:cell.or_11_northeast_of_pendleton	OR 11 northeast of Pendleton	or|11|northeast|of|pendleton	or|11|northeast|of|Pendleton	CC|CD|NN|IN|NNP	O|NUMBER|O|O|PERSON	|11.0|||	11.0			OR 11 northeast of Pendleton
+151	2	fb:cell.helix	Helix	helix	helix	NN	O					Helix
+151	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+151	4	fb:cell.null										
+152	0	fb:cell.oregon_route_339	Oregon Route 339	oregon|route|339	Oregon|route|339	NNP|NN|CD	LOCATION|O|NUMBER	||339.0	339.0			
+152	1	fb:cell.or_11_in_milton_freewater	OR 11 in Milton-Freewater	or|11|in|milton|freewater	or|11|in|Milton|Freewater	CC|CD|IN|NNP|NNP	O|NUMBER|O|PERSON|PERSON	|11.0|||	11.0			OR 11 in Milton-Freewater
+152	2	fb:cell.towards_walla_walla_wa	Towards Walla Walla, WA	towards|walla|walla|,|wa	towards|Walla|Walla|,|WA	IN|NNP|NNP|,|NNP	O|PERSON|PERSON|O|O	||||				Towards Walla Walla|WA
+152	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+152	4	fb:cell.null										
+153	0	fb:cell.oregon_route_350	Oregon Route 350	oregon|route|350	Oregon|route|350	NNP|NN|CD	LOCATION|O|NUMBER	||350.0	350.0			
+153	1	fb:cell.or_82_or_351_in_joseph	OR 82/OR 351 in Joseph	or|82/or|351|in|joseph	or|82/or|351|in|Joseph	CC|NN|CD|IN|NNP	O|O|NUMBER|O|PERSON	||351.0||	82.0		351.0	OR 82|OR 351 in Joseph
+153	2	fb:cell.imnaha	Imnaha	imnaha	Imnaha	NNP	PERSON					Imnaha
+153	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+153	4	fb:cell.null										
+154	0	fb:cell.oregon_route_351	Oregon Route 351	oregon|route|351	Oregon|route|351	NNP|NN|CD	LOCATION|O|NUMBER	||351.0	351.0			
+154	1	fb:cell.south_of_wallowa_lake	South of Wallowa Lake	south|of|wallowa|lake	South|of|Wallowa|Lake	NNP|IN|NNP|NNP	O|O|LOCATION|LOCATION	|||				South of Wallowa Lake
+154	2	fb:cell.or_82_or_350_in_joseph	OR 82/OR 350 in Joseph	or|82/or|350|in|joseph	or|82/or|350|in|Joseph	CC|NN|CD|IN|NNP	O|O|NUMBER|O|PERSON	||350.0||	82.0		350.0	OR 82|OR 350 in Joseph
+154	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+154	4	fb:cell.null										
+155	0	fb:cell.oregon_route_361	Oregon Route 361	oregon|route|361	Oregon|route|361	NNP|NN|CD	LOCATION|O|NUMBER	||361.0	361.0			
+155	1	fb:cell.us_97_southeast_of_culver	US 97 southeast of Culver	us|97|southeast|of|culver	we|97|southeast|of|Culver	PRP|CD|NNP|IN|NNP	O|NUMBER|O|O|LOCATION	|97.0|||	97.0			US 97 southeast of Culver
+155	2	fb:cell.us_26_us_97_in_madras	US 26/US 97 in Madras	us|26/us|97|in|madras	we|26/us|97|in|Madras	PRP|VBZ|CD|IN|NNP	O|O|NUMBER|O|LOCATION	||97.0||	26.0		97.0	US 26|US 97 in Madras
+155	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+155	4	fb:cell.null										
+156	0	fb:cell.oregon_route_370	Oregon Route 370	oregon|route|370	Oregon|route|370	NNP|NN|CD	LOCATION|O|NUMBER	||370.0	370.0			
+156	1	fb:cell.us_97_north_of_redmond	US 97 north of Redmond	us|97|north|of|redmond	we|97|north|of|Redmond	PRP|CD|NN|IN|NNP	O|NUMBER|O|O|PERSON	|97.0|||	97.0			US 97 north of Redmond
+156	2	fb:cell.or_126_in_prineville	OR 126 in Prineville	or|126|in|prineville	or|126|in|Prineville	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|126.0||	126.0			OR 126 in Prineville
+156	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+156	4	fb:cell.null										
+157	0	fb:cell.oregon_route_380	Oregon Route 380	oregon|route|380	Oregon|route|380	NNP|NN|CD	LOCATION|O|NUMBER	||380.0	380.0			
+157	1	fb:cell.us_26_in_prineville	US 26 in Prineville	us|26|in|prineville	we|26|in|Prineville	PRP|CD|IN|NNP	O|NUMBER|O|LOCATION	|26.0||	26.0			US 26 in Prineville
+157	2	fb:cell.east_of_paulina	East of Paulina	east|of|paulina	East|of|Paulina	NNP|IN|NNP	O|O|PERSON	||				East of Paulina
+157	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+157	4	fb:cell.null										
+158	0	fb:cell.oregon_route_402	Oregon Route 402	oregon|route|402	Oregon|route|402	NNP|NN|CD	LOCATION|O|NUMBER	||402.0	402.0			
+158	1	fb:cell.or_19_at_kimberly	OR 19 at Kimberly	or|19|at|kimberly	or|19|at|Kimberly	CC|CD|IN|NNP	O|NUMBER|O|PERSON	|19.0||	19.0			OR 19 at Kimberly
+158	2	fb:cell.us_395_in_long_creek	US 395 in Long Creek	us|395|in|long|creek	we|395|in|Long|Creek	PRP|CD|IN|NNP|NNP	O|NUMBER|O|LOCATION|LOCATION	|395.0|||	395.0			US 395 in Long Creek
+158	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+158	4	fb:cell.null										
+159	0	fb:cell.oregon_route_410	Oregon Route 410	oregon|route|410	Oregon|route|410	NNP|NN|CD	LOCATION|O|NUMBER	||410.0	410.0			
+159	1	fb:cell.sumpter	Sumpter	sumpter	Sumpter	NNP	PERSON					Sumpter
+159	2	fb:cell.or_7_southeast_of_sumpter	OR 7 southeast of Sumpter	or|7|southeast|of|sumpter	or|7|southeast|of|Sumpter	CC|CD|NNP|IN|NNP	O|NUMBER|O|O|PERSON	|7.0|||	7.0			OR 7 southeast of Sumpter
+159	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+159	4	fb:cell.null										
+160	0	fb:cell.oregon_route_413	Oregon Route 413	oregon|route|413	Oregon|route|413	NNP|NN|CD	LOCATION|O|NUMBER	||413.0	413.0			
+160	1	fb:cell.or_86s_or_414_in_halfway	OR 86S/OR 414 in Halfway	or|86s/or|414|in|halfway	or|86s/or|414|in|halfway	CC|NN|CD|IN|RB	O|O|NUMBER|O|O	||414.0||	86.0		414.0	OR 86S|OR 414 in Halfway
+160	2	fb:cell.cornucopia	Cornucopia	cornucopia	cornucopia	NN	O					Cornucopia
+160	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+160	4	fb:cell.null										
+161	0	fb:cell.oregon_route_414	Oregon Route 414	oregon|route|414	Oregon|route|414	NNP|NN|CD	LOCATION|O|NUMBER	||414.0	414.0			
+161	1	fb:cell.or_86s_or_413_in_halfway	OR 86S/OR 413 in Halfway	or|86s/or|413|in|halfway	or|86s/or|413|in|halfway	CC|NN|CD|IN|RB	O|O|NUMBER|O|O	||413.0||	86.0		413.0	OR 86S|OR 413 in Halfway
+161	2	fb:cell.or_86_east_of_halfway	OR 86 east of Halfway	or|86|east|of|halfway	or|86|east|of|halfway	CC|CD|NNP|IN|RB	O|NUMBER|O|O|O	|86.0|||	86.0			OR 86 east of Halfway
+161	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+161	4	fb:cell.null										
+162	0	fb:cell.oregon_route_422	Oregon Route 422	oregon|route|422	Oregon|route|422	NNP|NN|CD	LOCATION|O|NUMBER	||422.0	422.0			
+162	1	fb:cell.south_of_klamath_agency	South of Klamath Agency	south|of|klamath|agency	South|of|Klamath|Agency	NNP|IN|NNP|NNP	O|O|LOCATION|O	|||				South of Klamath Agency
+162	2	fb:cell.us_97_southwest_of_chiloquin	US 97 southwest of Chiloquin	us|97|southwest|of|chiloquin	we|97|southwest|of|chiloquin	PRP|CD|NN|IN|NN	O|NUMBER|O|O|LOCATION	|97.0|||	97.0			US 97 southwest of Chiloquin
+162	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+162	4	fb:cell.null										
+163	0	fb:cell.oregon_route_422s	Oregon Route 422S	oregon|route|422s	Oregon|route|422	NNP|NN|NNS	LOCATION|O|O	||	422.0			
+163	1	fb:cell.or_422_in_chiloquin	OR 422 in Chiloquin	or|422|in|chiloquin	or|422|in|chiloquin	CC|CD|IN|NN	O|NUMBER|O|LOCATION	|422.0||	422.0			OR 422 in Chiloquin
+163	2	fb:cell.chiloquin	Chiloquin	chiloquin	Chiloquin	NNP	PERSON					Chiloquin
+163	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+163	4	fb:cell.null										
+164	0	fb:cell.oregon_route_429	Oregon Route 429	oregon|route|429	Oregon|route|429	NNP|NN|CD	LOCATION|O|NUMBER	||429.0	429.0			
+164	1	fb:cell.near_crescent_lake	Near Crescent Lake	near|crescent|lake	near|Crescent|Lake	IN|NNP|NNP	O|LOCATION|LOCATION	||				Near Crescent Lake
+164	2	fb:cell.or_58_at_crescent_lake_junction	OR 58 at Crescent Lake Junction	or|58|at|crescent|lake|junction	or|58|at|Crescent|Lake|junction	CC|CD|IN|NNP|NNP|NN	O|NUMBER|O|LOCATION|LOCATION|LOCATION	|58.0||||	58.0			OR 58 at Crescent Lake Junction
+164	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+164	4	fb:cell.null										
+165	0	fb:cell.oregon_route_451	Oregon Route 451	oregon|route|451	Oregon|route|451	NNP|NN|CD	LOCATION|O|NUMBER	||451.0	451.0			
+165	1	fb:cell.us_20_southwest_of_vale	US 20 southwest of Vale	us|20|southwest|of|vale	we|20|southwest|of|vale	PRP|CD|NN|IN|NN	O|NUMBER|ORGANIZATION|ORGANIZATION|ORGANIZATION	|20.0|||	20.0			US 20 southwest of Vale
+165	2	fb:cell.us_20_in_vale	US 20 in Vale	us|20|in|vale	we|20|in|vale	PRP|CD|IN|NN	O|NUMBER|O|O	|20.0||	20.0			US 20 in Vale
+165	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+165	4	fb:cell.null										
+166	0	fb:cell.oregon_route_452	Oregon Route 452	oregon|route|452	Oregon|route|452	NNP|NN|CD	LOCATION|O|NUMBER	||452.0	452.0			
+166	1	fb:cell.or_201_southwest_of_adrian	OR 201 southwest of Adrian	or|201|southwest|of|adrian	or|201|southwest|of|Adrian	CC|CD|NN|IN|NNP	O|NUMBER|O|O|PERSON	|201.0|||	201.0			OR 201 southwest of Adrian
+166	2	fb:cell.sh_18_towards_parma_id	SH-18 towards Parma, ID	sh-18|towards|parma|,|id	sh-18|towards|Parma|,|id	NN|IN|NNP|,|NN	O|O|ORGANIZATION|O|O	||||	18.0			SH-18 towards Parma|ID
+166	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+166	4	fb:cell.null										
+167	0	fb:cell.oregon_route_453	Oregon Route 453	oregon|route|453	Oregon|route|453	NNP|NN|CD	LOCATION|O|NUMBER	||453.0	453.0			
+167	1	fb:cell.or_454_southeast_of_adrian	OR 454 southeast of Adrian	or|454|southeast|of|adrian	or|454|southeast|of|Adrian	CC|CD|NNP|IN|NNP	O|NUMBER|O|O|PERSON	|454.0|||	454.0			OR 454 southeast of Adrian
+167	2	fb:cell.idaho_state_line	Idaho state line	idaho|state|line	Idaho|state|line	NNP|NNP|NNP	LOCATION|O|O	||				Idaho state line
+167	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+167	4	fb:cell.null										
+168	0	fb:cell.oregon_route_454	Oregon Route 454	oregon|route|454	Oregon|route|454	NNP|NN|CD	LOCATION|O|NUMBER	||454.0	454.0			
+168	1	fb:cell.or_452_southeast_of_adrian	OR 452 southeast of Adrian	or|452|southeast|of|adrian	or|452|southeast|of|Adrian	CC|CD|NNP|IN|NNP	O|NUMBER|O|O|PERSON	|452.0|||	452.0			OR 452 southeast of Adrian
+168	2	fb:cell.idaho_state_line	Idaho state line	idaho|state|line	Idaho|state|line	NNP|NNP|NNP	LOCATION|O|O	||				Idaho state line
+168	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+168	4	fb:cell.null										
+169	0	fb:cell.oregon_route_501	Oregon Route 501	oregon|route|501	Oregon|route|501	NNP|NN|CD	LOCATION|O|NUMBER	||501.0	501.0			
+169	1	fb:cell.southwest_of_alsea	Southwest of Alsea	southwest|of|alsea	Southwest|of|Alsea	NNP|IN|NNP	O|O|LOCATION	||				Southwest of Alsea
+169	2	fb:cell.or_34_at_alsea	OR 34 at Alsea	or|34|at|alsea	or|34|at|Alsea	CC|CD|IN|NNP	O|NUMBER|O|ORGANIZATION	|34.0||	34.0			OR 34 at Alsea
+169	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+169	4	fb:cell.null										
+170	0	fb:cell.oregon_route_528	Oregon Route 528	oregon|route|528	Oregon|route|528	NNP|NN|CD	LOCATION|O|NUMBER	||528.0	528.0			
+170	1	fb:cell.or_126b_in_springfield	OR 126B in Springfield	or|126b|in|springfield	or|126b|in|Springfield	CC|NN|IN|NNP	O|O|O|LOCATION	|||	126.0			OR 126B in Springfield
+170	2	fb:cell.or_126_in_springfield	OR 126 in Springfield	or|126|in|springfield	or|126|in|Springfield	CC|CD|IN|NNP	O|NUMBER|O|LOCATION	|126.0||	126.0			OR 126 in Springfield
+170	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+170	4	fb:cell.null										
+171	0	fb:cell.oregon_route_540	Oregon Route 540	oregon|route|540	Oregon|route|540	NNP|NN|CD	LOCATION|O|NUMBER	||540.0	540.0			
+171	1	fb:cell.cape_arago_state_park	Cape Arago State Park	cape|arago|state|park	Cape|Arago|State|Park	NNP|NNP|NNP|NNP	LOCATION|LOCATION|LOCATION|LOCATION	|||				Cape Arago State Park
+171	2	fb:cell.us_101_in_north_bend	US 101 in North Bend	us|101|in|north|bend	we|101|in|north|bend	PRP|CD|IN|JJ|NN	LOCATION|NUMBER|O|O|O	|101.0|||	101.0			US 101 in North Bend
+171	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+171	4	fb:cell.null										
+172	0	fb:cell.oregon_route_542	Oregon Route 542	oregon|route|542	Oregon|route|542	NNP|NN|CD	LOCATION|O|NUMBER	||542.0	542.0			
+172	1	fb:cell.powers	Powers	powers	power	NNS	O					Powers
+172	2	fb:cell.or_42_southeast_of_myrtle_point	OR 42 southeast of Myrtle Point	or|42|southeast|of|myrtle|point	or|42|southeast|of|Myrtle|point	CC|CD|NNP|IN|NNP|NN	O|NUMBER|O|O|LOCATION|LOCATION	|42.0||||	42.0			OR 42 southeast of Myrtle Point
+172	3	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+172	4	fb:cell.null										
+173	0	fb:cell.oregon_route_551	Oregon Route 551	oregon|route|551	Oregon|route|551	NNP|NN|CD	LOCATION|O|NUMBER	||551.0	551.0			
+173	1	fb:cell.or_99e_southwest_of_aurora	OR 99E southwest of Aurora	or|99e|southwest|of|aurora	or|99e|southwest|of|Aurora	CC|CD|NN|IN|NNP	O|NUMBER|O|O|LOCATION	|99.0|||	99.0			OR 99E southwest of Aurora
+173	2	fb:cell.i_5_in_wilsonville	I-5 in Wilsonville	i-5|in|wilsonville	i-5|in|Wilsonville	NN|IN|NNP	O|O|LOCATION	||	5.0			I-5 in Wilsonville
+173	3	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+173	4	fb:cell.null										
+174	0	fb:cell.oregon_route_569	Oregon Route 569	oregon|route|569	Oregon|route|569	NNP|NN|CD	LOCATION|O|NUMBER	||569.0	569.0			
+174	1	fb:cell.or_126_in_eugene	OR 126 in Eugene	or|126|in|eugene	or|126|in|Eugene	CC|CD|IN|NNP	O|NUMBER|O|PERSON	|126.0||	126.0			OR 126 in Eugene
+174	2	fb:cell.i_5_in_springfield	I-5 in Springfield	i-5|in|springfield	i-5|in|Springfield	NN|IN|NNP	O|O|LOCATION	||	5.0			I-5 in Springfield
+174	3	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+174	4	fb:cell.null										

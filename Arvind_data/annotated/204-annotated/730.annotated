@@ -1,0 +1,235 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.date	Date	date	date	NN	O					
+-1	1	fb:row.row.place	Place	place	place	NN	O					
+-1	2	fb:row.row.disc	Disc.	disc|.	disc|.	NN|.	O|O	|				
+-1	3	fb:row.row.winner	Winner	winner	winner	NN	O					
+-1	4	fb:row.row.second	Second	second	second	JJ	ORDINAL	2.0				
+-1	5	fb:row.row.third	Third	third	Third	NNP	ORDINAL	3.0				
+0	0	fb:cell.22_october_2005	22 October 2005	22|october|2005	22|October|2005	CD|NNP|CD	DATE|DATE|DATE	2005-10-22|2005-10-22|2005-10-22	22.0	2005-10-22	2005.0	
+0	1	fb:cell.solden_austria	Sölden, Austria	sölden|,|austria	Sölden|,|Austria	NNP|,|NNP	PERSON|O|LOCATION	||				Sölden|Austria
+0	2	fb:cell.gs	GS	gs	g	NN	O					
+0	3	fb:cell.tina_maze	Tina Maze	tina|maze	Tina|maze	NNP|NN	PERSON|PERSON	|				Tina Maze
+0	4	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+0	5	fb:cell.anja_parson	Anja Pärson	anja|pärson	Anja|Pärson	NNP|NNP	PERSON|PERSON	|				Anja Pärson
+1	0	fb:cell.2_december_2005	2 December 2005	2|december|2005	2|December|2005	CD|NNP|CD	DATE|DATE|DATE	2005-12-02|2005-12-02|2005-12-02	2.0	2005-12-02	2005.0	
+1	1	fb:cell.lake_louise_canada	Lake Louise, Canada	lake|louise|,|canada	Lake|Louise|,|Canada	NNP|NNP|,|NNP	PERSON|PERSON|O|LOCATION	|||				Lake Louise|Canada
+1	2	fb:cell.dh	DH	dh	dh	NN	O					
+1	3	fb:cell.elena_fanchini	Elena Fanchini	elena|fanchini	Elena|Fanchini	NNP|NNP	PERSON|PERSON	|				Elena Fanchini
+1	4	fb:cell.michaela_dorfmeister	Michaela Dorfmeister	michaela|dorfmeister	Michaela|Dorfmeister	NNP|NNP	PERSON|PERSON	|				Michaela Dorfmeister
+1	5	fb:cell.alexandra_meissnitzer	Alexandra Meissnitzer	alexandra|meissnitzer	Alexandra|Meissnitzer	NNP|NNP	PERSON|PERSON	|				Alexandra Meissnitzer
+2	0	fb:cell.3_december_2005	3 December 2005	3|december|2005	3|December|2005	CD|NNP|CD	DATE|DATE|DATE	2005-12-03|2005-12-03|2005-12-03	3.0	2005-12-03	2005.0	
+2	1	fb:cell.lake_louise_canada	Lake Louise, Canada	lake|louise|,|canada	Lake|Louise|,|Canada	NNP|NNP|,|NNP	PERSON|PERSON|O|LOCATION	|||				Lake Louise|Canada
+2	2	fb:cell.dh	DH	dh	dh	NN	O					
+2	3	fb:cell.lindsey_kildow	Lindsey Kildow	lindsey|kildow	Lindsey|Kildow	NNP|NNP	PERSON|PERSON	|				Lindsey Kildow
+2	4	fb:cell.sylviane_berthod	Sylviane Berthod	sylviane|berthod	Sylviane|Berthod	NNP|NNP	PERSON|PERSON	|				Sylviane Berthod
+2	5	fb:cell.michaela_dorfmeister	Michaela Dorfmeister	michaela|dorfmeister	Michaela|Dorfmeister	NNP|NNP	PERSON|PERSON	|				Michaela Dorfmeister
+3	0	fb:cell.4_december_2005	4 December 2005	4|december|2005	4|December|2005	CD|NNP|CD	DATE|DATE|DATE	2005-12-04|2005-12-04|2005-12-04	4.0	2005-12-04	2005.0	
+3	1	fb:cell.lake_louise_canada	Lake Louise, Canada	lake|louise|,|canada	Lake|Louise|,|Canada	NNP|NNP|,|NNP	PERSON|PERSON|O|LOCATION	|||				Lake Louise|Canada
+3	2	fb:cell.sg	SG	sg	SG	NNP	O					
+3	3	fb:cell.alexandra_meissnitzer	Alexandra Meissnitzer	alexandra|meissnitzer	Alexandra|Meissnitzer	NNP|NNP	PERSON|PERSON	|				Alexandra Meissnitzer
+3	4	fb:cell.andrea_fischbacher	Andrea Fischbacher	andrea|fischbacher	Andrea|Fischbacher	NNP|NNP	PERSON|PERSON	|				Andrea Fischbacher
+3	5	fb:cell.michaela_dorfmeister	Michaela Dorfmeister	michaela|dorfmeister	Michaela|Dorfmeister	NNP|NNP	PERSON|PERSON	|				Michaela Dorfmeister
+4	0	fb:cell.9_december_2005	9 December 2005	9|december|2005	9|December|2005	CD|NNP|CD	DATE|DATE|DATE	2005-12-09|2005-12-09|2005-12-09	9.0	2005-12-09	2005.0	
+4	1	fb:cell.aspen_usa	Aspen, USA	aspen|,|usa	Aspen|,|USA	NNP|,|NNP	LOCATION|O|LOCATION	||				Aspen|USA
+4	2	fb:cell.sg	SG	sg	SG	NNP	O					
+4	3	fb:cell.nadia_styger	Nadia Styger	nadia|styger	Nadia|Styger	NNP|NNP	PERSON|PERSON	|				Nadia Styger
+4	4	fb:cell.michaela_dorfmeister	Michaela Dorfmeister	michaela|dorfmeister	Michaela|Dorfmeister	NNP|NNP	PERSON|PERSON	|				Michaela Dorfmeister
+4	5	fb:cell.andrea_fischbacher	Andrea Fischbacher	andrea|fischbacher	Andrea|Fischbacher	NNP|NNP	PERSON|PERSON	|				Andrea Fischbacher
+5	0	fb:cell.10_december_2005	10 December 2005	10|december|2005	10|December|2005	CD|NNP|CD	DATE|DATE|DATE	2005-12-10|2005-12-10|2005-12-10	10.0	2005-12-10	2005.0	
+5	1	fb:cell.aspen_usa	Aspen, USA	aspen|,|usa	Aspen|,|USA	NNP|,|NNP	LOCATION|O|LOCATION	||				Aspen|USA
+5	2	fb:cell.gs	GS	gs	g	NN	O					
+5	3	fb:cell.maria_j_rienda	María J. Rienda	maría|j.|rienda	María|J.|Rienda	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				María J. Rienda
+5	4	fb:cell.anja_parson	Anja Pärson	anja|pärson	Anja|Pärson	NNP|NNP	PERSON|PERSON	|				Anja Pärson
+5	5	fb:cell.kathrin_zettel	Kathrin Zettel	kathrin|zettel	Kathrin|Zettel	NNP|NNP	PERSON|PERSON	|				Kathrin Zettel
+6	0	fb:cell.11_december_2005	11 December 2005	11|december|2005	11|December|2005	CD|NNP|CD	DATE|DATE|DATE	2005-12-11|2005-12-11|2005-12-11	11.0	2005-12-11	2005.0	
+6	1	fb:cell.aspen_usa	Aspen, USA	aspen|,|usa	Aspen|,|USA	NNP|,|NNP	LOCATION|O|LOCATION	||				Aspen|USA
+6	2	fb:cell.sl	SL	sl	sl	NN	O					
+6	3	fb:cell.anja_parson	Anja Pärson	anja|pärson	Anja|Pärson	NNP|NNP	PERSON|PERSON	|				Anja Pärson
+6	4	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+6	5	fb:cell.kathrin_zettel	Kathrin Zettel	kathrin|zettel	Kathrin|Zettel	NNP|NNP	PERSON|PERSON	|				Kathrin Zettel
+7	0	fb:cell.17_december_2005	17 December 2005	17|december|2005	17|December|2005	CD|NNP|CD	DATE|DATE|DATE	2005-12-17|2005-12-17|2005-12-17	17.0	2005-12-17	2005.0	
+7	1	fb:cell.val_d_isere_france	Val-d'Isère, France	val|d'isère|,|france	val|d'isère|,|France	NN|NN|,|NNP	PERSON|PERSON|O|LOCATION	|||				Val-d'Isère|France
+7	2	fb:cell.dh	DH	dh	dh	NN	O					
+7	3	fb:cell.lindsey_kildow	Lindsey Kildow	lindsey|kildow	Lindsey|Kildow	NNP|NNP	PERSON|PERSON	|				Lindsey Kildow
+7	4	fb:cell.caroline_lalive	Caroline Lalive	caroline|lalive	Caroline|Lalive	NNP|NNP	PERSON|PERSON	|				Caroline Lalive
+7	5	fb:cell.alexandra_meissnitzer	Alexandra Meissnitzer	alexandra|meissnitzer	Alexandra|Meissnitzer	NNP|NNP	PERSON|PERSON	|				Alexandra Meissnitzer
+8	0	fb:cell.18_december_2005	18 December 2005	18|december|2005	18|December|2005	CD|NNP|CD	DATE|DATE|DATE	2005-12-18|2005-12-18|2005-12-18	18.0	2005-12-18	2005.0	
+8	1	fb:cell.val_d_isere_france	Val-d'Isère, France	val|d'isère|,|france	val|d'isère|,|France	NN|NN|,|NNP	PERSON|PERSON|O|LOCATION	|||				Val-d'Isère|France
+8	2	fb:cell.sg	SG	sg	SG	NNP	O					
+8	3	fb:cell.michaela_dorfmeister	Michaela Dorfmeister	michaela|dorfmeister	Michaela|Dorfmeister	NNP|NNP	PERSON|PERSON	|				Michaela Dorfmeister
+8	4	fb:cell.alexandra_meissnitzer	Alexandra Meissnitzer	alexandra|meissnitzer	Alexandra|Meissnitzer	NNP|NNP	PERSON|PERSON	|				Alexandra Meissnitzer
+8	5	fb:cell.emily_brydon	Emily Brydon	emily|brydon	Emily|Brydon	NNP|NNP	PERSON|PERSON	|				Emily Brydon
+9	0	fb:cell.21_december_2005	21 December 2005	21|december|2005	21|December|2005	CD|NNP|CD	DATE|DATE|DATE	2005-12-21|2005-12-21|2005-12-21	21.0	2005-12-21	2005.0	
+9	1	fb:cell.spindleruv_mlyn_czech_rep	Spindleruv Mlyn, Czech Rep.	spindleruv|mlyn|,|czech|rep.	spindleruv|mlyn|,|Czech|Rep.	NN|NN|,|NNP|NNP	PERSON|PERSON|O|MISC|O	||||				Spindleruv Mlyn|Czech Rep.
+9	2	fb:cell.gs	GS	gs	g	NN	O					
+9	3	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+9	4	fb:cell.kathrin_zettel	Kathrin Zettel	kathrin|zettel	Kathrin|Zettel	NNP|NNP	PERSON|PERSON	|				Kathrin Zettel
+9	5	fb:cell.marlies_schild	Marlies Schild	marlies|schild	Marlies|Schild	NNP|NNP	PERSON|PERSON	|				Marlies Schild
+10	0	fb:cell.22_december_2005	22 December 2005	22|december|2005	22|December|2005	CD|NNP|CD	DATE|DATE|DATE	2005-12-22|2005-12-22|2005-12-22	22.0	2005-12-22	2005.0	
+10	1	fb:cell.spindleruv_mlyn_czech_rep	Spindleruv Mlyn, Czech Rep.	spindleruv|mlyn|,|czech|rep.	spindleruv|mlyn|,|Czech|Rep.	NN|NN|,|NNP|NNP	PERSON|PERSON|O|MISC|O	||||				Spindleruv Mlyn|Czech Rep.
+10	2	fb:cell.sl	SL	sl	sl	NN	O					
+10	3	fb:cell.anja_parson	Anja Pärson	anja|pärson	Anja|Pärson	NNP|NNP	PERSON|PERSON	|				Anja Pärson
+10	4	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+10	5	fb:cell.marlies_schild	Marlies Schild	marlies|schild	Marlies|Schild	NNP|NNP	PERSON|PERSON	|				Marlies Schild
+11	0	fb:cell.28_december_2005	28 December 2005	28|december|2005	28|December|2005	CD|NNP|CD	DATE|DATE|DATE	2005-12-28|2005-12-28|2005-12-28	28.0	2005-12-28	2005.0	
+11	1	fb:cell.lienz_austria	Lienz, Austria	lienz|,|austria	Lienz|,|Austria	NNP|,|NNP	LOCATION|O|LOCATION	||				Lienz|Austria
+11	2	fb:cell.gs	GS	gs	g	NN	O					
+11	3	fb:cell.anja_parson	Anja Pärson	anja|pärson	Anja|Pärson	NNP|NNP	PERSON|PERSON	|				Anja Pärson
+11	4	fb:cell.nicole_hosp	Nicole Hosp	nicole|hosp	Nicole|Hosp	NNP|NNP	PERSON|PERSON	|				Nicole Hosp
+11	5	fb:cell.tina_maze	Tina Maze	tina|maze	Tina|maze	NNP|NN	PERSON|PERSON	|				Tina Maze
+12	0	fb:cell.28_december_2005	28 December 2005	28|december|2005	28|December|2005	CD|NNP|CD	DATE|DATE|DATE	2005-12-28|2005-12-28|2005-12-28	28.0	2005-12-28	2005.0	
+12	1	fb:cell.lienz_austria	Lienz, Austria	lienz|,|austria	Lienz|,|Austria	NNP|,|NNP	LOCATION|O|LOCATION	||				Lienz|Austria
+12	2	fb:cell.sl	SL	sl	sl	NN	O					
+12	3	fb:cell.marlies_schild	Marlies Schild	marlies|schild	Marlies|Schild	NNP|NNP	PERSON|PERSON	|				Marlies Schild
+12	4	fb:cell.nicole_hosp	Nicole Hosp	nicole|hosp	Nicole|Hosp	NNP|NNP	PERSON|PERSON	|				Nicole Hosp
+12	5	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+13	0	fb:cell.5_january_2006	5 January 2006	5|january|2006	5|January|2006	CD|NNP|CD	DATE|DATE|DATE	2006-01-05|2006-01-05|2006-01-05	5.0	2006-01-05	2006.0	
+13	1	fb:cell.zagreb_croatia	Zagreb, Croatia	zagreb|,|croatia	Zagreb|,|Croatia	NNP|,|NNP	LOCATION|O|LOCATION	||				Zagreb|Croatia
+13	2	fb:cell.sl	SL	sl	sl	NN	O					
+13	3	fb:cell.marlies_schild	Marlies Schild	marlies|schild	Marlies|Schild	NNP|NNP	PERSON|PERSON	|				Marlies Schild
+13	4	fb:cell.kathrin_zettel	Kathrin Zettel	kathrin|zettel	Kathrin|Zettel	NNP|NNP	PERSON|PERSON	|				Kathrin Zettel
+13	5	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+14	0	fb:cell.7_january_2006	7 January 2006	7|january|2006	7|January|2006	CD|NNP|CD	DATE|DATE|DATE	2006-01-07|2006-01-07|2006-01-07	7.0	2006-01-07	2006.0	
+14	1	fb:cell.maribor_slovenia	Maribor, Slovenia	maribor|,|slovenia	Maribor|,|Slovenia	NNP|,|NNP	LOCATION|O|LOCATION	||				Maribor|Slovenia
+14	2	fb:cell.gs	GS	gs	g	NN	O					
+14	3	fb:cell.cancelled	cancelled	cancelled	cancel	VBN	O					cancelled
+14	4	fb:cell.null										
+14	5	fb:cell.null										
+15	0	fb:cell.8_january_2006	8 January 2006	8|january|2006	8|January|2006	CD|NNP|CD	DATE|DATE|DATE	2006-01-08|2006-01-08|2006-01-08	8.0	2006-01-08	2006.0	
+15	1	fb:cell.maribor_slovenia	Maribor, Slovenia	maribor|,|slovenia	Maribor|,|Slovenia	NNP|,|NNP	LOCATION|O|LOCATION	||				Maribor|Slovenia
+15	2	fb:cell.sl	SL	sl	sl	NN	O					
+15	3	fb:cell.marlies_schild	Marlies Schild	marlies|schild	Marlies|Schild	NNP|NNP	PERSON|PERSON	|				Marlies Schild
+15	4	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+15	5	fb:cell.therese_borssen	Therese Borssén	therese|borssén	Therese|Borssén	NNP|NNP	PERSON|PERSON	|				Therese Borssén
+16	0	fb:cell.13_january_2006	13 January 2006	13|january|2006	13|January|2006	CD|NNP|CD	DATE|DATE|DATE	2006-01-13|2006-01-13|2006-01-13	13.0	2006-01-13	2006.0	
+16	1	fb:cell.bad_kleinkirchheim_austria	Bad Kleinkirchheim, Austria	bad|kleinkirchheim|,|austria	bad|kleinkirchheim|,|Austria	JJ|NN|,|NNP	O|O|O|LOCATION	|||				Bad Kleinkirchheim|Austria
+16	2	fb:cell.dh	DH	dh	dh	NN	O					
+16	3	fb:cell.anja_parson	Anja Pärson	anja|pärson	Anja|Pärson	NNP|NNP	PERSON|PERSON	|				Anja Pärson
+16	4	fb:cell.michaela_dorfmeister	Michaela Dorfmeister	michaela|dorfmeister	Michaela|Dorfmeister	NNP|NNP	PERSON|PERSON	|				Michaela Dorfmeister
+16	5	fb:cell.franzi_aufdenblatten	Fränzi Aufdenblatten	fränzi|aufdenblatten	Fränzi|Aufdenblatten	NNP|NNP	PERSON|PERSON	|				Fränzi Aufdenblatten
+17	0	fb:cell.14_january_2006	14 January 2006	14|january|2006	14|January|2006	CD|NNP|CD	DATE|DATE|DATE	2006-01-14|2006-01-14|2006-01-14	14.0	2006-01-14	2006.0	
+17	1	fb:cell.bad_kleinkirchheim_austria	Bad Kleinkirchheim, Austria	bad|kleinkirchheim|,|austria	bad|kleinkirchheim|,|Austria	JJ|NN|,|NNP	O|O|O|LOCATION	|||				Bad Kleinkirchheim|Austria
+17	2	fb:cell.dh	DH	dh	dh	NN	O					
+17	3	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+17	4	fb:cell.nike_bent	Nike Bent	nike|bent	Nike|Bent	NNP|NNP	ORGANIZATION|O	|				Nike Bent
+17	5	fb:cell.michaela_dorfmeister	Michaela Dorfmeister	michaela|dorfmeister	Michaela|Dorfmeister	NNP|NNP	PERSON|PERSON	|				Michaela Dorfmeister
+18	0	fb:cell.15_january_2006	15 January 2006	15|january|2006	15|January|2006	CD|NNP|CD	DATE|DATE|DATE	2006-01-15|2006-01-15|2006-01-15	15.0	2006-01-15	2006.0	
+18	1	fb:cell.bad_kleinkirchheim_austria	Bad Kleinkirchheim, Austria	bad|kleinkirchheim|,|austria	bad|kleinkirchheim|,|Austria	JJ|NN|,|NNP	O|O|O|LOCATION	|||				Bad Kleinkirchheim|Austria
+18	2	fb:cell.sg	SG	sg	SG	NNP	O					
+18	3	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+18	4	fb:cell.michaela_dorfmeister_alexandra_meissnitzer	Michaela Dorfmeister\n Alexandra Meissnitzer	michaela|dorfmeister|alexandra|meissnitzer	Michaela|Dorfmeister|Alexandra|Meissnitzer	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Michaela Dorfmeister|Alexandra Meissnitzer
+18	5	fb:cell.null										
+19	0	fb:cell.20_january_2006	20 January 2006	20|january|2006	20|January|2006	CD|NNP|CD	DATE|DATE|DATE	2006-01-20|2006-01-20|2006-01-20	20.0	2006-01-20	2006.0	
+19	1	fb:cell.st_moritz_switzerland	St. Moritz, Switzerland	st.|moritz|,|switzerland	St.|Moritz|,|Switzerland	NNP|NNP|,|NNP	LOCATION|LOCATION|O|LOCATION	|||				St. Moritz|Switzerland
+19	2	fb:cell.sg	SG	sg	SG	NNP	O					
+19	3	fb:cell.michaela_dorfmeister	Michaela Dorfmeister	michaela|dorfmeister	Michaela|Dorfmeister	NNP|NNP	PERSON|PERSON	|				Michaela Dorfmeister
+19	4	fb:cell.tina_maze	Tina Maze	tina|maze	Tina|maze	NNP|NN	PERSON|PERSON	|				Tina Maze
+19	5	fb:cell.nicole_hosp	Nicole Hosp	nicole|hosp	Nicole|Hosp	NNP|NNP	PERSON|PERSON	|				Nicole Hosp
+20	0	fb:cell.20_january_2006	20 January 2006	20|january|2006	20|January|2006	CD|NNP|CD	DATE|DATE|DATE	2006-01-20|2006-01-20|2006-01-20	20.0	2006-01-20	2006.0	
+20	1	fb:cell.st_moritz_switzerland	St. Moritz, Switzerland	st.|moritz|,|switzerland	St.|Moritz|,|Switzerland	NNP|NNP|,|NNP	LOCATION|LOCATION|O|LOCATION	|||				St. Moritz|Switzerland
+20	2	fb:cell.dh	DH	dh	dh	NN	O					
+20	3	fb:cell.michaela_dorfmeister	Michaela Dorfmeister	michaela|dorfmeister	Michaela|Dorfmeister	NNP|NNP	PERSON|PERSON	|				Michaela Dorfmeister
+20	4	fb:cell.renate_gotschl	Renate Götschl	renate|götschl	Renate|Götschl	NNP|NNP	PERSON|PERSON	|				Renate Götschl
+20	5	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+21	0	fb:cell.22_january_2006	22 January 2006	22|january|2006	22|January|2006	CD|NNP|CD	DATE|DATE|DATE	2006-01-22|2006-01-22|2006-01-22	22.0	2006-01-22	2006.0	
+21	1	fb:cell.st_moritz_switzerland	St. Moritz, Switzerland	st.|moritz|,|switzerland	St.|Moritz|,|Switzerland	NNP|NNP|,|NNP	LOCATION|LOCATION|O|LOCATION	|||				St. Moritz|Switzerland
+21	2	fb:cell.sc	SC	sc	SC	NNP	O					
+21	3	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+21	4	fb:cell.anja_parson	Anja Pärson	anja|pärson	Anja|Pärson	NNP|NNP	PERSON|PERSON	|				Anja Pärson
+21	5	fb:cell.lindsey_kildow	Lindsey Kildow	lindsey|kildow	Lindsey|Kildow	NNP|NNP	PERSON|PERSON	|				Lindsey Kildow
+22	0	fb:cell.27_january_2006	27 January 2006	27|january|2006	27|January|2006	CD|NNP|CD	DATE|DATE|DATE	2006-01-27|2006-01-27|2006-01-27	27.0	2006-01-27	2006.0	
+22	1	fb:cell.cortina_d_ampezzo_italy	Cortina d'Ampezzo, Italy	cortina|d'ampezzo|,|italy	Cortina|d'Ampezzo|,|Italy	NNP|NNP|,|NNP	PERSON|PERSON|O|LOCATION	|||				Cortina d'Ampezzo|Italy
+22	2	fb:cell.sg	SG	sg	SG	NNP	O					
+22	3	fb:cell.anja_parson	Anja Pärson	anja|pärson	Anja|Pärson	NNP|NNP	PERSON|PERSON	|				Anja Pärson
+22	4	fb:cell.julia_mancuso	Julia Mancuso	julia|mancuso	Julia|Mancuso	NNP|NNP	PERSON|PERSON	|				Julia Mancuso
+22	5	fb:cell.lindsey_kildow	Lindsey Kildow	lindsey|kildow	Lindsey|Kildow	NNP|NNP	PERSON|PERSON	|				Lindsey Kildow
+23	0	fb:cell.28_january_2006	28 January 2006	28|january|2006	28|January|2006	CD|NNP|CD	DATE|DATE|DATE	2006-01-28|2006-01-28|2006-01-28	28.0	2006-01-28	2006.0	
+23	1	fb:cell.cortina_d_ampezzo_italy	Cortina d'Ampezzo, Italy	cortina|d'ampezzo|,|italy	Cortina|d'Ampezzo|,|Italy	NNP|NNP|,|NNP	PERSON|PERSON|O|LOCATION	|||				Cortina d'Ampezzo|Italy
+23	2	fb:cell.dh	DH	dh	dh	NN	O					
+23	3	fb:cell.renate_gotschl	Renate Götschl	renate|götschl	Renate|Götschl	NNP|NNP	PERSON|PERSON	|				Renate Götschl
+23	4	fb:cell.julia_mancuso	Julia Mancuso	julia|mancuso	Julia|Mancuso	NNP|NNP	PERSON|PERSON	|				Julia Mancuso
+23	5	fb:cell.elisabeth_gorgl	Elisabeth Görgl	elisabeth|görgl	Elisabeth|Görgl	NNP|NNP	PERSON|PERSON	|				Elisabeth Görgl
+24	0	fb:cell.29_january_2006	29 January 2006	29|january|2006	29|January|2006	CD|NNP|CD	DATE|DATE|DATE	2006-01-29|2006-01-29|2006-01-29	29.0	2006-01-29	2006.0	
+24	1	fb:cell.cortina_d_ampezzo_italy	Cortina d'Ampezzo, Italy	cortina|d'ampezzo|,|italy	Cortina|d'Ampezzo|,|Italy	NNP|NNP|,|NNP	PERSON|PERSON|O|LOCATION	|||				Cortina d'Ampezzo|Italy
+24	2	fb:cell.gs	GS	gs	g	NN	O					
+24	3	fb:cell.nicole_hosp	Nicole Hosp	nicole|hosp	Nicole|Hosp	NNP|NNP	PERSON|PERSON	|				Nicole Hosp
+24	4	fb:cell.genevieve_simard	Geneviève Simard	geneviève|simard	Geneviève|Simard	NNP|NNP	PERSON|PERSON	|				Geneviève Simard
+24	5	fb:cell.elisabeth_gorgl	Elisabeth Görgl	elisabeth|görgl	Elisabeth|Görgl	NNP|NNP	PERSON|PERSON	|				Elisabeth Görgl
+25	0	fb:cell.3_february_2006	3 February 2006	3|february|2006	3|February|2006	CD|NNP|CD	DATE|DATE|DATE	2006-02-03|2006-02-03|2006-02-03	3.0	2006-02-03	2006.0	
+25	1	fb:cell.ofterschwang_germany	Ofterschwang, Germany	ofterschwang|,|germany	Ofterschwang|,|Germany	NNP|,|NNP	O|O|LOCATION	||				Ofterschwang|Germany
+25	2	fb:cell.gs	GS	gs	g	NN	O					
+25	3	fb:cell.maria_j_rienda	María J. Rienda	maría|j.|rienda	María|J.|Rienda	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				María J. Rienda
+25	4	fb:cell.anja_parson	Anja Pärson	anja|pärson	Anja|Pärson	NNP|NNP	PERSON|PERSON	|				Anja Pärson
+25	5	fb:cell.kathrin_zettel	Kathrin Zettel	kathrin|zettel	Kathrin|Zettel	NNP|NNP	PERSON|PERSON	|				Kathrin Zettel
+26	0	fb:cell.4_february_2006	4 February 2006	4|february|2006	4|February|2006	CD|NNP|CD	DATE|DATE|DATE	2006-02-04|2006-02-04|2006-02-04	4.0	2006-02-04	2006.0	
+26	1	fb:cell.ofterschwang_germany	Ofterschwang, Germany	ofterschwang|,|germany	Ofterschwang|,|Germany	NNP|,|NNP	O|O|LOCATION	||				Ofterschwang|Germany
+26	2	fb:cell.gs	GS	gs	g	NN	O					
+26	3	fb:cell.maria_j_rienda_anja_parson	María J. Rienda\n Anja Pärson	maría|j.|rienda|anja|pärson	María|J.|Rienda|Anja|Pärson	NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON	||||				María J. Rienda|Anja Pärson
+26	4	fb:cell.null										
+26	5	fb:cell.julia_mancuso	Julia Mancuso	julia|mancuso	Julia|Mancuso	NNP|NNP	PERSON|PERSON	|				Julia Mancuso
+27	0	fb:cell.5_february_2006	5 February 2006	5|february|2006	5|February|2006	CD|NNP|CD	DATE|DATE|DATE	2006-02-05|2006-02-05|2006-02-05	5.0	2006-02-05	2006.0	
+27	1	fb:cell.ofterschwang_germany	Ofterschwang, Germany	ofterschwang|,|germany	Ofterschwang|,|Germany	NNP|,|NNP	O|O|LOCATION	||				Ofterschwang|Germany
+27	2	fb:cell.sl	SL	sl	sl	NN	O					
+27	3	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+27	4	fb:cell.kathrin_zettel	Kathrin Zettel	kathrin|zettel	Kathrin|Zettel	NNP|NNP	PERSON|PERSON	|				Kathrin Zettel
+27	5	fb:cell.marlies_schild	Marlies Schild	marlies|schild	Marlies|Schild	NNP|NNP	PERSON|PERSON	|				Marlies Schild
+28	0	fb:cell.15_24_feb	15-24 Feb.	15-24|feb.|.	15-24|Feb.|.	CD|NNP|.	NUMBER|DATE|O	15.0 - 24.0|XXXX-02|	15.0		24.0	
+28	1	fb:cell.torino_italy	Torino, Italy	torino|,|italy	Torino|,|Italy	NNP|,|NNP	LOCATION|O|LOCATION	||				Torino|Italy
+28	2	fb:cell.2006_winter_olympics	2006 Winter Olympics	2006|winter|olympics	2006|winter|Olympics	CD|NN|NNPS	DATE|DATE|MISC	2006-WI|2006-WI|	2006.0			
+28	3	fb:cell.2006_winter_olympics	2006 Winter Olympics	2006|winter|olympics	2006|winter|Olympics	CD|NN|NNPS	DATE|DATE|MISC	2006-WI|2006-WI|	2006.0			
+28	4	fb:cell.null										
+28	5	fb:cell.null										
+29	0	fb:cell.3_march_2006	3 March 2006	3|march|2006	3|March|2006	CD|NNP|CD	DATE|DATE|DATE	2006-03-03|2006-03-03|2006-03-03	3.0	2006-03-03	2006.0	
+29	1	fb:cell.kvitfjell_hafjell_norway	Kvitfjell & Hafjell, Norway	kvitfjell|&|hafjell|,|norway	Kvitfjell|&|Hafjell|,|Norway	NNP|CC|NNP|,|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|LOCATION	||||				Kvitfjell & Hafjell|Norway
+29	2	fb:cell.sg	SG	sg	SG	NNP	O					
+29	3	fb:cell.michaela_dorfmeister_lindsey_kildow_nadia_styger	Michaela Dorfmeister\n Lindsey Kildow\n Nadia Styger	michaela|dorfmeister|lindsey|kildow|nadia|styger	Michaela|Dorfmeister|Lindsey|Kildow|Nadia|Styger	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Michaela Dorfmeister|Lindsey Kildow|Nadia Styger
+29	4	fb:cell.null										
+29	5	fb:cell.null										
+30	0	fb:cell.4_march_2006	4 March 2006	4|march|2006	4|March|2006	CD|NNP|CD	DATE|DATE|DATE	2006-03-04|2006-03-04|2006-03-04	4.0	2006-03-04	2006.0	
+30	1	fb:cell.kvitfjell_hafjell_norway	Kvitfjell & Hafjell, Norway	kvitfjell|&|hafjell|,|norway	Kvitfjell|&|Hafjell|,|Norway	NNP|CC|NNP|,|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|LOCATION	||||				Kvitfjell & Hafjell|Norway
+30	2	fb:cell.sc	SC	sc	SC	NNP	O					
+30	3	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+30	4	fb:cell.anja_parson	Anja Pärson	anja|pärson	Anja|Pärson	NNP|NNP	PERSON|PERSON	|				Anja Pärson
+30	5	fb:cell.marlies_schild	Marlies Schild	marlies|schild	Marlies|Schild	NNP|NNP	PERSON|PERSON	|				Marlies Schild
+31	0	fb:cell.5_march_2006	5 March 2006	5|march|2006	5|March|2006	CD|NNP|CD	DATE|DATE|DATE	2006-03-05|2006-03-05|2006-03-05	5.0	2006-03-05	2006.0	
+31	1	fb:cell.kvitfjell_hafjell_norway	Kvitfjell & Hafjell, Norway	kvitfjell|&|hafjell|,|norway	Kvitfjell|&|Hafjell|,|Norway	NNP|CC|NNP|,|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|LOCATION	||||				Kvitfjell & Hafjell|Norway
+31	2	fb:cell.gs	GS	gs	g	NN	O					
+31	3	fb:cell.maria_j_rienda	María J. Rienda	maría|j.|rienda	María|J.|Rienda	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				María J. Rienda
+31	4	fb:cell.nicole_hosp	Nicole Hosp	nicole|hosp	Nicole|Hosp	NNP|NNP	PERSON|PERSON	|				Nicole Hosp
+31	5	fb:cell.tanja_poutiainen	Tanja Poutiainen	tanja|poutiainen	Tanja|Poutiainen	NNP|NNP	PERSON|PERSON	|				Tanja Poutiainen
+32	0	fb:cell.10_march_2006	10 March 2006	10|march|2006	10|March|2006	CD|NNP|CD	DATE|DATE|DATE	2006-03-10|2006-03-10|2006-03-10	10.0	2006-03-10	2006.0	
+32	1	fb:cell.levi_finland	Levi, Finland	levi|,|finland	Levi|,|Finland	NNP|,|NNP	PERSON|O|LOCATION	||				Levi|Finland
+32	2	fb:cell.sl	SL	sl	sl	NN	O					
+32	3	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+32	4	fb:cell.anja_parson	Anja Pärson	anja|pärson	Anja|Pärson	NNP|NNP	PERSON|PERSON	|				Anja Pärson
+32	5	fb:cell.kathrin_zettel	Kathrin Zettel	kathrin|zettel	Kathrin|Zettel	NNP|NNP	PERSON|PERSON	|				Kathrin Zettel
+33	0	fb:cell.11_march_2006	11 March 2006	11|march|2006	11|March|2006	CD|NNP|CD	DATE|DATE|DATE	2006-03-11|2006-03-11|2006-03-11	11.0	2006-03-11	2006.0	
+33	1	fb:cell.levi_finland	Levi, Finland	levi|,|finland	Levi|,|Finland	NNP|,|NNP	PERSON|O|LOCATION	||				Levi|Finland
+33	2	fb:cell.sl	SL	sl	sl	NN	O					
+33	3	fb:cell.anja_parson	Anja Pärson	anja|pärson	Anja|Pärson	NNP|NNP	PERSON|PERSON	|				Anja Pärson
+33	4	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+33	5	fb:cell.nicole_hosp	Nicole Hosp	nicole|hosp	Nicole|Hosp	NNP|NNP	PERSON|PERSON	|				Nicole Hosp
+34	0	fb:cell.15_march_2006	15 March 2006	15|march|2006	15|March|2006	CD|NNP|CD	DATE|DATE|DATE	2006-03-15|2006-03-15|2006-03-15	15.0	2006-03-15	2006.0	
+34	1	fb:cell.are_sweden	Åre, Sweden	åre|,|sweden	Åre|,|Sweden	NNP|,|NNP	O|O|LOCATION	||				Åre|Sweden
+34	2	fb:cell.dh	DH	dh	dh	NN	O					
+34	3	fb:cell.anja_parson	Anja Pärson	anja|pärson	Anja|Pärson	NNP|NNP	PERSON|PERSON	|				Anja Pärson
+34	4	fb:cell.lindsey_kildow	Lindsey Kildow	lindsey|kildow	Lindsey|Kildow	NNP|NNP	PERSON|PERSON	|				Lindsey Kildow
+34	5	fb:cell.elisabeth_gorgl	Elisabeth Görgl	elisabeth|görgl	Elisabeth|Görgl	NNP|NNP	PERSON|PERSON	|				Elisabeth Görgl
+35	0	fb:cell.16_march_2006	16 March 2006	16|march|2006	16|March|2006	CD|NNP|CD	DATE|DATE|DATE	2006-03-16|2006-03-16|2006-03-16	16.0	2006-03-16	2006.0	
+35	1	fb:cell.are_sweden	Åre, Sweden	åre|,|sweden	Åre|,|Sweden	NNP|,|NNP	O|O|LOCATION	||				Åre|Sweden
+35	2	fb:cell.sg	SG	sg	SG	NNP	O					
+35	3	fb:cell.nicole_hosp	Nicole Hosp	nicole|hosp	Nicole|Hosp	NNP|NNP	PERSON|PERSON	|				Nicole Hosp
+35	4	fb:cell.michaela_dorfmeister	Michaela Dorfmeister	michaela|dorfmeister	Michaela|Dorfmeister	NNP|NNP	PERSON|PERSON	|				Michaela Dorfmeister
+35	5	fb:cell.martina_ertl_renz	Martina Ertl-Renz	martina|ertl|renz	Martina|Ertl|Renz	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Martina Ertl-Renz
+36	0	fb:cell.17_march_2006	17 March 2006,	17|march|2006|,	17|March|2006|,	CD|NNP|CD|,	DATE|DATE|DATE|O	2006-03-17|2006-03-17|2006-03-17|	17.0		2006.0	
+36	1	fb:cell.are_sweden	Åre, Sweden	åre|,|sweden	Åre|,|Sweden	NNP|,|NNP	O|O|LOCATION	||				Åre|Sweden
+36	2	fb:cell.sl	SL	sl	sl	NN	O					
+36	3	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+36	4	fb:cell.marlies_schild	Marlies Schild	marlies|schild	Marlies|Schild	NNP|NNP	PERSON|PERSON	|				Marlies Schild
+36	5	fb:cell.anja_parson	Anja Pärson	anja|pärson	Anja|Pärson	NNP|NNP	PERSON|PERSON	|				Anja Pärson
+37	0	fb:cell.18_march_2006	18 March 2006	18|march|2006	18|March|2006	CD|NNP|CD	DATE|DATE|DATE	2006-03-18|2006-03-18|2006-03-18	18.0	2006-03-18	2006.0	
+37	1	fb:cell.are_sweden	Åre, Sweden	åre|,|sweden	Åre|,|Sweden	NNP|,|NNP	O|O|LOCATION	||				Åre|Sweden
+37	2	fb:cell.gs	GS	gs	g	NN	O					
+37	3	fb:cell.janica_kostelic	Janica Kostelić	janica|kostelić	Janica|Kostelić	NNP|NNP	PERSON|PERSON	|				Janica Kostelić
+37	4	fb:cell.genevieve_simard	Geneviève Simard	geneviève|simard	Geneviève|Simard	NNP|NNP	PERSON|PERSON	|				Geneviève Simard
+37	5	fb:cell.nicole_hosp_tanja_poutiainen	Nicole Hosp\n Tanja Poutiainen	nicole|hosp|tanja|poutiainen	Nicole|Hosp|Tanja|Poutiainen	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Nicole Hosp|Tanja Poutiainen

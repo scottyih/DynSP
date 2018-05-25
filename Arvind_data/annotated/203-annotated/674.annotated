@@ -1,0 +1,218 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.name	Name	name	name	NN	O					
+-1	1	fb:row.row.mark	Mark	mark	Mark	NNP	PERSON					
+-1	2	fb:row.row.system	System	system	system	NN	O					
+-1	3	fb:row.row.from	From	from	from	IN	O					
+-1	4	fb:row.row.to	To	to	to	TO	O					
+-1	5	fb:row.row.successor	Successor	successor	successor	NN	O					
+-1	6	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.alexandria_and_fredericksburg_railway	Alexandria and Fredericksburg Railway	alexandria|and|fredericksburg|railway	Alexandria|and|Fredericksburg|Railway	NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O	|||				Alexandria and Fredericksburg Railway
+0	1	fb:cell.null										
+0	2	fb:cell.rf_p	RF&P	rf&p	RF&P	NNP	O					RF&P
+0	3	fb:cell.1872	1872	1872	1872	CD	DATE	1872	1872.0	1872-xx-xx		
+0	4	fb:cell.1890	1890	1890	1890	CD	DATE	1890	1890.0	1890-xx-xx		
+0	5	fb:cell.baltimore_and_potomac_railroad	Baltimore and Potomac Railroad	baltimore|and|potomac|railroad	Baltimore|and|Potomac|Railroad	NNP|CC|NNP|NNP	LOCATION|O|O|O	|||				Baltimore and Potomac Railroad
+0	6	fb:cell.null										
+1	0	fb:cell.alexandria_and_washington_railroad	Alexandria and Washington Railroad	alexandria|and|washington|railroad	Alexandria|and|Washington|railroad	NNP|CC|NNP|NN	LOCATION|O|LOCATION|LOCATION	|||				Alexandria and Washington Railroad
+1	1	fb:cell.null										
+1	2	fb:cell.rf_p	RF&P	rf&p	RF&P	NNP	O					RF&P
+1	3	fb:cell.1854	1854	1854	1854	CD	DATE	1854	1854.0	1854-xx-xx		
+1	4	fb:cell.1872	1872	1872	1872	CD	DATE	1872	1872.0	1872-xx-xx		
+1	5	fb:cell.alexandria_and_fredericksburg_railway	Alexandria and Fredericksburg Railway	alexandria|and|fredericksburg|railway	Alexandria|and|Fredericksburg|Railway	NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O	|||				Alexandria and Fredericksburg Railway
+1	6	fb:cell.null										
+2	0	fb:cell.baltimore_and_ohio_railroad	Baltimore and Ohio Railroad	baltimore|and|ohio|railroad	Baltimore|and|Ohio|Railroad	NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O	|||				Baltimore and Ohio Railroad
+2	1	fb:cell.b_o_bo	B&O, BO	b&o|,|bo	B&O|,|BO	NNP|,|NNP	ORGANIZATION|O|PERSON	||				B&O|BO
+2	2	fb:cell.b_o	B&O	b&o	B&O	NNP	O					B&O
+2	3	fb:cell.1831	1831	1831	1831	CD	DATE	1831	1831.0	1831-xx-xx		
+2	4	fb:cell.1987	1987	1987	1987	CD	DATE	1987	1987.0	1987-xx-xx		
+2	5	fb:cell.chesapeake_and_ohio_railway	Chesapeake and Ohio Railway	chesapeake|and|ohio|railway	Chesapeake|and|Ohio|Railway	NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O	|||				Chesapeake and Ohio Railway
+2	6	fb:cell.null										
+3	0	fb:cell.baltimore_and_potomac_railroad	Baltimore and Potomac Railroad	baltimore|and|potomac|railroad	Baltimore|and|Potomac|Railroad	NNP|CC|NNP|NNP	LOCATION|O|O|O	|||				Baltimore and Potomac Railroad
+3	1	fb:cell.null										
+3	2	fb:cell.prr	PRR	prr	prr	NN	O					PRR
+3	3	fb:cell.1867	1867	1867	1867	CD	DATE	1867	1867.0	1867-xx-xx		
+3	4	fb:cell.1902	1902	1902	1902	CD	DATE	1902	1902.0	1902-xx-xx		
+3	5	fb:cell.philadelphia_baltimore_and_washington_railroad	Philadelphia, Baltimore and Washington Railroad	philadelphia|,|baltimore|and|washington|railroad	Philadelphia|,|Baltimore|and|Washington|railroad	NNP|,|NNP|CC|NNP|NN	LOCATION|O|LOCATION|O|LOCATION|O	|||||				Philadelphia|Baltimore and Washington Railroad
+3	6	fb:cell.null										
+4	0	fb:cell.chesapeake_beach_railway	Chesapeake Beach Railway	chesapeake|beach|railway	Chesapeake|Beach|Railway	NNP|NNP|NNP	LOCATION|LOCATION|LOCATION	||				Chesapeake Beach Railway
+4	1	fb:cell.null										
+4	2	fb:cell.null										
+4	3	fb:cell.1896	1896	1896	1896	CD	DATE	1896	1896.0	1896-xx-xx		
+4	4	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+4	5	fb:cell.east_washington_railway	East Washington Railway	east|washington|railway	East|Washington|railway	NNP|NNP|NN	LOCATION|LOCATION|LOCATION	||				East Washington Railway
+4	6	fb:cell.null										
+5	0	fb:cell.chesapeake_and_ohio_railway	Chesapeake and Ohio Railway	chesapeake|and|ohio|railway	Chesapeake|and|Ohio|Railway	NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O	|||				Chesapeake and Ohio Railway
+5	1	fb:cell.c_o_co	C&O, CO	c&o|,|co	C&O|,|CO	NNP|,|NNP	O|O|O	||				C&O|CO
+5	2	fb:cell.c_o	C&O	c&o	C&O	NNP	O					C&O
+5	3	fb:cell.1891	1891	1891	1891	CD	DATE	1891	1891.0	1891-xx-xx		
+5	4	fb:cell.1987	1987	1987	1987	CD	DATE	1987	1987.0	1987-xx-xx		
+5	5	fb:cell.csx_transportation	CSX Transportation	csx|transportation	CSX|Transportation	NNP|NNP	ORGANIZATION|ORGANIZATION	|				CSX Transportation
+5	6	fb:cell.null										
+6	0	fb:cell.consolidated_rail_corporation	Consolidated Rail Corporation	consolidated|rail|corporation	Consolidated|Rail|Corporation	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Consolidated Rail Corporation
+6	1	fb:cell.cr	CR	cr	cr	NN	O					CR
+6	2	fb:cell.null										
+6	3	fb:cell.1976	1976	1976	1976	CD	DATE	1976	1976.0	1976-xx-xx		
+6	4	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+6	5	fb:cell.csx_transportation_norfolk_southern_railway	CSX Transportation/Norfolk Southern Railway	csx|transportation/norfolk|southern|railway	CSX|Transportation/Norfolk|Southern|Railway	NNP|NNP|NNP|NNP	ORGANIZATION|O|O|O	|||				CSX Transportation|Norfolk Southern Railway
+6	6	fb:cell.null										
+7	0	fb:cell.east_washington_railway	East Washington Railway	east|washington|railway	East|Washington|railway	NNP|NNP|NN	LOCATION|LOCATION|LOCATION	||				East Washington Railway
+7	1	fb:cell.null										
+7	2	fb:cell.null										
+7	3	fb:cell.1935	1935	1935	1935	CD	DATE	1935	1935.0	1935-xx-xx		
+7	4	fb:cell.1976	1976	1976	1976	CD	DATE	1976	1976.0	1976-xx-xx		
+7	5	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+7	6	fb:cell.null										
+8	0	fb:cell.georgetown_barge_dock_elevator_and_railway_company	Georgetown Barge, Dock, Elevator and Railway Company	georgetown|barge|,|dock|,|elevator|and|railway|company	Georgetown|barge|,|dock|,|elevator|and|railway|company	NNP|NN|,|NN|,|NN|CC|NN|NN	LOCATION|O|O|O|O|O|O|O|O	||||||||				Georgetown Barge|Dock|Elevator and Railway Company
+8	1	fb:cell.null										
+8	2	fb:cell.b_o	B&O	b&o	B&O	NNP	O					B&O
+8	3	fb:cell.1888	1888	1888	1888	CD	DATE	1888	1888.0	1888-xx-xx		
+8	4	fb:cell.1972	1972	1972	1972	CD	DATE	1972	1972.0	1972-xx-xx		
+8	5	fb:cell.baltimore_and_ohio_railroad	Baltimore and Ohio Railroad	baltimore|and|ohio|railroad	Baltimore|and|Ohio|Railroad	NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O	|||				Baltimore and Ohio Railroad
+8	6	fb:cell.null										
+9	0	fb:cell.orange_alexandria_and_manassas_railroad	Orange, Alexandria and Manassas Railroad	orange|,|alexandria|and|manassas|railroad	Orange|,|Alexandria|and|Manassas|Railroad	NNP|,|NNP|CC|NNP|NNP	O|O|LOCATION|O|LOCATION|O	|||||				Orange|Alexandria and Manassas Railroad
+9	1	fb:cell.null										
+9	2	fb:cell.sou	SOU	sou	SOU	NNP	O					SOU
+9	3	fb:cell.1872	1872	1872	1872	CD	DATE	1872	1872.0	1872-xx-xx		
+9	4	fb:cell.1872	1872	1872	1872	CD	DATE	1872	1872.0	1872-xx-xx		
+9	5	fb:cell.virginia_and_north_carolina_railroad	Virginia and North Carolina Railroad	virginia|and|north|carolina|railroad	Virginia|and|North|Carolina|railroad	NNP|CC|NNP|NNP|NN	LOCATION|O|LOCATION|LOCATION|O	||||				Virginia and North Carolina Railroad
+9	6	fb:cell.null										
+10	0	fb:cell.penn_central_transportation_company	Penn Central Transportation Company	penn|central|transportation|company	Penn|Central|Transportation|company	NNP|NNP|NNP|NN	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				Penn Central Transportation Company
+10	1	fb:cell.pc	PC	pc	pc	NN	O					PC
+10	2	fb:cell.null										
+10	3	fb:cell.1968	1968	1968	1968	CD	DATE	1968	1968.0	1968-xx-xx		
+10	4	fb:cell.1976	1976	1976	1976	CD	DATE	1976	1976.0	1976-xx-xx		
+10	5	fb:cell.consolidated_rail_corporation	Consolidated Rail Corporation	consolidated|rail|corporation	Consolidated|Rail|Corporation	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Consolidated Rail Corporation
+10	6	fb:cell.null										
+11	0	fb:cell.pennsylvania_railroad	Pennsylvania Railroad	pennsylvania|railroad	Pennsylvania|Railroad	NNP|NNP	LOCATION|O	|				Pennsylvania Railroad
+11	1	fb:cell.prr	PRR	prr	prr	NN	O					PRR
+11	2	fb:cell.prr	PRR	prr	prr	NN	O					PRR
+11	3	fb:cell.1918	1918	1918	1918	CD	DATE	1918	1918.0	1918-xx-xx		
+11	4	fb:cell.1968	1968	1968	1968	CD	DATE	1968	1968.0	1968-xx-xx		
+11	5	fb:cell.penn_central_transportation_company	Penn Central Transportation Company	penn|central|transportation|company	Penn|Central|Transportation|company	NNP|NNP|NNP|NN	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				Penn Central Transportation Company
+11	6	fb:cell.null										
+12	0	fb:cell.philadelphia_baltimore_and_washington_railroad	Philadelphia, Baltimore and Washington Railroad	philadelphia|,|baltimore|and|washington|railroad	Philadelphia|,|Baltimore|and|Washington|railroad	NNP|,|NNP|CC|NNP|NN	LOCATION|O|LOCATION|O|LOCATION|O	|||||				Philadelphia|Baltimore and Washington Railroad
+12	1	fb:cell.null										
+12	2	fb:cell.prr	PRR	prr	prr	NN	O					PRR
+12	3	fb:cell.1902	1902	1902	1902	CD	DATE	1902	1902.0	1902-xx-xx		
+12	4	fb:cell.1976	1976	1976	1976	CD	DATE	1976	1976.0	1976-xx-xx		
+12	5	fb:cell.consolidated_rail_corporation	Consolidated Rail Corporation	consolidated|rail|corporation	Consolidated|Rail|Corporation	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Consolidated Rail Corporation
+12	6	fb:cell.null										
+13	0	fb:cell.philadelphia_wilmington_and_baltimore_railroad	Philadelphia, Wilmington and Baltimore Railroad	philadelphia|,|wilmington|and|baltimore|railroad	Philadelphia|,|Wilmington|and|Baltimore|railroad	NNP|,|NNP|CC|NNP|NN	LOCATION|O|LOCATION|O|LOCATION|O	|||||				Philadelphia|Wilmington and Baltimore Railroad
+13	1	fb:cell.null										
+13	2	fb:cell.prr	PRR	prr	prr	NN	O					PRR
+13	3	fb:cell.1891	1891	1891	1891	CD	DATE	1891	1891.0	1891-xx-xx		
+13	4	fb:cell.1902	1902	1902	1902	CD	DATE	1902	1902.0	1902-xx-xx		
+13	5	fb:cell.philadelphia_baltimore_and_washington_railroad	Philadelphia, Baltimore and Washington Railroad	philadelphia|,|baltimore|and|washington|railroad	Philadelphia|,|Baltimore|and|Washington|railroad	NNP|,|NNP|CC|NNP|NN	LOCATION|O|LOCATION|O|LOCATION|O	|||||				Philadelphia|Baltimore and Washington Railroad
+13	6	fb:cell.null										
+14	0	fb:cell.richmond_and_danville_railroad	Richmond and Danville Railroad	richmond|and|danville|railroad	Richmond|and|Danville|Railroad	NNP|CC|NNP|NNP	LOCATION|O|LOCATION|LOCATION	|||				Richmond and Danville Railroad
+14	1	fb:cell.null										
+14	2	fb:cell.sou	SOU	sou	SOU	NNP	O					SOU
+14	3	fb:cell.1886	1886	1886	1886	CD	DATE	1886	1886.0	1886-xx-xx		
+14	4	fb:cell.1894	1894	1894	1894	CD	DATE	1894	1894.0	1894-xx-xx		
+14	5	fb:cell.southern_railway	Southern Railway	southern|railway	Southern|Railway	NNP|NNP	O|O	|				Southern Railway
+14	6	fb:cell.null										
+15	0	fb:cell.richmond_fredericksburg_and_potomac_railroad	Richmond, Fredericksburg and Potomac Railroad	richmond|,|fredericksburg|and|potomac|railroad	Richmond|,|Fredericksburg|and|Potomac|Railroad	NNP|,|NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O|LOCATION|LOCATION	|||||				Richmond|Fredericksburg and Potomac Railroad
+15	1	fb:cell.rf_p_rfp	RF&P, RFP	rf&p|,|rfp	RF&P|,|RFP	NNP|,|NNP	ORGANIZATION|O|O	||				RF&P|RFP
+15	2	fb:cell.rf_p	RF&P	rf&p	RF&P	NNP	O					RF&P
+15	3	fb:cell.1920	1920	1920	1920	CD	DATE	1920	1920.0	1920-xx-xx		
+15	4	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+15	5	fb:cell.richmond_fredericksburg_and_potomac_railway	Richmond, Fredericksburg and Potomac Railway	richmond|,|fredericksburg|and|potomac|railway	Richmond|,|Fredericksburg|and|Potomac|Railway	NNP|,|NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O|LOCATION|LOCATION	|||||				Richmond|Fredericksburg and Potomac Railway
+15	6	fb:cell.null										
+16	0	fb:cell.richmond_fredericksburg_and_potomac_railway	Richmond, Fredericksburg and Potomac Railway	richmond|,|fredericksburg|and|potomac|railway	Richmond|,|Fredericksburg|and|Potomac|Railway	NNP|,|NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O|LOCATION|LOCATION	|||||				Richmond|Fredericksburg and Potomac Railway
+16	1	fb:cell.rfp	RFP	rfp	rfp	NN	O					RFP
+16	2	fb:cell.null										
+16	3	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+16	4	fb:cell.null										
+16	5	fb:cell.null										
+16	6	fb:cell.still_exists_as_a_subsidiary_of_csx_transportation	Still exists as a subsidiary of CSX Transportation	still|exists|as|a|subsidiary|of|csx|transportation	still|exist|as|a|subsidiary|of|CSX|Transportation	RB|VBZ|IN|DT|NN|IN|NNP|NNP	O|O|O|O|O|O|ORGANIZATION|ORGANIZATION	|||||||				
+17	0	fb:cell.southern_railway	Southern Railway	southern|railway	Southern|Railway	NNP|NNP	O|O	|				Southern Railway
+17	1	fb:cell.sou	SOU	sou	SOU	NNP	O					SOU
+17	2	fb:cell.sou	SOU	sou	SOU	NNP	O					SOU
+17	3	fb:cell.1894	1894	1894	1894	CD	DATE	1894	1894.0	1894-xx-xx		
+17	4	fb:cell.1990	1990	1990	1990	CD	DATE	1990	1990.0	1990-xx-xx		
+17	5	fb:cell.norfolk_southern_railway	Norfolk Southern Railway	norfolk|southern|railway	Norfolk|Southern|Railway	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Norfolk Southern Railway
+17	6	fb:cell.null										
+18	0	fb:cell.southern_maryland_railroad	Southern Maryland Railroad	southern|maryland|railroad	southern|Maryland|railroad	JJ|NNP|NN	O|LOCATION|O	||				Southern Maryland Railroad
+18	1	fb:cell.null										
+18	2	fb:cell.null										
+18	3	fb:cell.1882	1882	1882	1882	CD	DATE	1882	1882.0	1882-xx-xx		
+18	4	fb:cell.1886	1886	1886	1886	CD	DATE	1886	1886.0	1886-xx-xx		
+18	5	fb:cell.washington_and_potomac_railroad	Washington and Potomac Railroad	washington|and|potomac|railroad	Washington|and|Potomac|Railroad	NNP|CC|NNP|NNP	LOCATION|O|LOCATION|LOCATION	|||				Washington and Potomac Railroad
+18	6	fb:cell.null										
+19	0	fb:cell.virginia_midland_railway	Virginia Midland Railway	virginia|midland|railway	Virginia|Midland|Railway	NNP|NNP|NNP	LOCATION|LOCATION|LOCATION	||				Virginia Midland Railway
+19	1	fb:cell.null										
+19	2	fb:cell.sou	SOU	sou	SOU	NNP	O					SOU
+19	3	fb:cell.1880	1880	1880	1880	NNP	DATE	1880	1880.0	1880-xx-xx		
+19	4	fb:cell.1886	1886	1886	1886	CD	DATE	1886	1886.0	1886-xx-xx		
+19	5	fb:cell.richmond_and_danville_railroad	Richmond and Danville Railroad	richmond|and|danville|railroad	Richmond|and|Danville|Railroad	NNP|CC|NNP|NNP	LOCATION|O|LOCATION|LOCATION	|||				Richmond and Danville Railroad
+19	6	fb:cell.null										
+20	0	fb:cell.virginia_and_north_carolina_railroad	Virginia and North Carolina Railroad	virginia|and|north|carolina|railroad	Virginia|and|North|Carolina|railroad	NNP|CC|NNP|NNP|NN	LOCATION|O|LOCATION|LOCATION|O	||||				Virginia and North Carolina Railroad
+20	1	fb:cell.null										
+20	2	fb:cell.sou	SOU	sou	SOU	NNP	O					SOU
+20	3	fb:cell.1872	1872	1872	1872	CD	DATE	1872	1872.0	1872-xx-xx		
+20	4	fb:cell.1873	1873	1873	1873	NNP	DATE	1873	1873.0	1873-xx-xx		
+20	5	fb:cell.washington_city_virginia_midland_and_great_southern_railway	Washington City, Virginia Midland and Great Southern Railway	washington|city|,|virginia|midland|and|great|southern|railway	Washington|City|,|Virginia|Midland|and|Great|Southern|Railway	NNP|NNP|,|NNP|NNP|CC|NNP|NNP|NNP	LOCATION|LOCATION|O|LOCATION|LOCATION|O|O|O|O	||||||||				Washington City|Virginia Midland and Great Southern Railway
+20	6	fb:cell.null										
+21	0	fb:cell.washington_alexandria_and_georgetown_railroad	Washington, Alexandria and Georgetown Railroad	washington|,|alexandria|and|georgetown|railroad	Washington|,|Alexandria|and|Georgetown|Railroad	NNP|,|NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O|LOCATION|LOCATION	|||||				Washington|Alexandria and Georgetown Railroad
+21	1	fb:cell.null										
+21	2	fb:cell.rf_p	RF&P	rf&p	RF&P	NNP	O					RF&P
+21	3	fb:cell.1862	1862	1862	1862	CD	DATE	1862	1862.0	1862-xx-xx		
+21	4	fb:cell.1868	1868	1868	1868	CD	DATE	1868	1868.0	1868-xx-xx		
+21	5	fb:cell.alexandria_and_washington_railroad	Alexandria and Washington Railroad	alexandria|and|washington|railroad	Alexandria|and|Washington|railroad	NNP|CC|NNP|NN	LOCATION|O|LOCATION|LOCATION	|||				Alexandria and Washington Railroad
+21	6	fb:cell.null										
+22	0	fb:cell.washington_city_and_point_lookout_railroad	Washington City and Point Lookout Railroad	washington|city|and|point|lookout|railroad	Washington|City|and|point|lookout|railroad	NNP|NNP|CC|NN|NN|NN	LOCATION|LOCATION|O|O|O|O	|||||				Washington City and Point Lookout Railroad
+22	1	fb:cell.null										
+22	2	fb:cell.b_o	B&O	b&o	B&O	NNP	O					B&O
+22	3	fb:cell.1873	1873	1873	1873	NNP	DATE	1873	1873.0	1873-xx-xx		
+22	4	fb:cell.1874	1874	1874	1874	CD	DATE	1874	1874.0	1874-xx-xx		
+22	5	fb:cell.baltimore_and_ohio_railroad	Baltimore and Ohio Railroad	baltimore|and|ohio|railroad	Baltimore|and|Ohio|Railroad	NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O	|||				Baltimore and Ohio Railroad
+22	6	fb:cell.null										
+23	0	fb:cell.washington_city_virginia_midland_and_great_southern_railway	Washington City, Virginia Midland and Great Southern Railway	washington|city|,|virginia|midland|and|great|southern|railway	Washington|City|,|Virginia|Midland|and|Great|Southern|Railway	NNP|NNP|,|NNP|NNP|CC|NNP|NNP|NNP	LOCATION|LOCATION|O|LOCATION|LOCATION|O|O|O|O	||||||||				Washington City|Virginia Midland and Great Southern Railway
+23	1	fb:cell.null										
+23	2	fb:cell.sou	SOU	sou	SOU	NNP	O					SOU
+23	3	fb:cell.1873	1873	1873	1873	NNP	DATE	1873	1873.0	1873-xx-xx		
+23	4	fb:cell.1880	1880	1880	1880	NNP	DATE	1880	1880.0	1880-xx-xx		
+23	5	fb:cell.virginia_midland_railway	Virginia Midland Railway	virginia|midland|railway	Virginia|Midland|Railway	NNP|NNP|NNP	LOCATION|LOCATION|LOCATION	||				Virginia Midland Railway
+23	6	fb:cell.null										
+24	0	fb:cell.washington_and_potomac_railroad	Washington and Potomac Railroad	washington|and|potomac|railroad	Washington|and|Potomac|Railroad	NNP|CC|NNP|NNP	LOCATION|O|LOCATION|LOCATION	|||				Washington and Potomac Railroad
+24	1	fb:cell.null										
+24	2	fb:cell.null										
+24	3	fb:cell.1886	1886	1886	1886	CD	DATE	1886	1886.0	1886-xx-xx		
+24	4	fb:cell.1900	1900	1900	1900	CD	DATE	1900	1900.0	1900-xx-xx		
+24	5	fb:cell.washington_potomac_and_chesapeake_railroad	Washington, Potomac and Chesapeake Railroad	washington|,|potomac|and|chesapeake|railroad	Washington|,|Potomac|and|Chesapeake|Railroad	NNP|,|NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O|LOCATION|LOCATION	|||||				Washington|Potomac and Chesapeake Railroad
+24	6	fb:cell.null										
+25	0	fb:cell.washington_potomac_and_chesapeake_railroad	Washington, Potomac and Chesapeake Railroad	washington|,|potomac|and|chesapeake|railroad	Washington|,|Potomac|and|Chesapeake|Railroad	NNP|,|NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O|LOCATION|LOCATION	|||||				Washington|Potomac and Chesapeake Railroad
+25	1	fb:cell.null										
+25	2	fb:cell.null										
+25	3	fb:cell.1901	1901	1901	1901	CD	DATE	1901	1901.0	1901-xx-xx		
+25	4	fb:cell.1910	1910	1910	1910	CD	DATE	1910	1910.0	1910-xx-xx		
+25	5	fb:cell.washington_potomac_and_chesapeake_railway	Washington, Potomac and Chesapeake Railway	washington|,|potomac|and|chesapeake|railway	Washington|,|Potomac|and|Chesapeake|Railway	NNP|,|NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O|LOCATION|LOCATION	|||||				Washington|Potomac and Chesapeake Railway
+25	6	fb:cell.null										
+26	0	fb:cell.washington_potomac_and_chesapeake_railway	Washington, Potomac and Chesapeake Railway	washington|,|potomac|and|chesapeake|railway	Washington|,|Potomac|and|Chesapeake|Railway	NNP|,|NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O|LOCATION|LOCATION	|||||				Washington|Potomac and Chesapeake Railway
+26	1	fb:cell.null										
+26	2	fb:cell.null										
+26	3	fb:cell.1910	1910	1910	1910	CD	DATE	1910	1910.0	1910-xx-xx		
+26	4	fb:cell.1918	1918	1918	1918	CD	DATE	1918	1918.0	1918-xx-xx		
+26	5	fb:cell.chesapeake_beach_railway	Chesapeake Beach Railway	chesapeake|beach|railway	Chesapeake|Beach|Railway	NNP|NNP|NNP	LOCATION|LOCATION|LOCATION	||				Chesapeake Beach Railway
+26	6	fb:cell.null										
+27	0	fb:cell.washington_southern_railway	Washington Southern Railway	washington|southern|railway	Washington|Southern|Railway	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Washington Southern Railway
+27	1	fb:cell.wsn	WSN	wsn	WSN	NNP	O					WSN
+27	2	fb:cell.rf_p	RF&P	rf&p	RF&P	NNP	O					RF&P
+27	3	fb:cell.1901	1901	1901	1901	CD	DATE	1901	1901.0	1901-xx-xx		
+27	4	fb:cell.1920	1920	1920	1920	CD	DATE	1920	1920.0	1920-xx-xx		
+27	5	fb:cell.richmond_fredericksburg_and_potomac_railroad	Richmond, Fredericksburg and Potomac Railroad	richmond|,|fredericksburg|and|potomac|railroad	Richmond|,|Fredericksburg|and|Potomac|Railroad	NNP|,|NNP|CC|NNP|NNP	LOCATION|O|LOCATION|O|LOCATION|LOCATION	|||||				Richmond|Fredericksburg and Potomac Railroad
+27	6	fb:cell.null										
+28	0	fb:cell.washington_terminal_company	Washington Terminal Company	washington|terminal|company	Washington|terminal|company	NNP|JJ|NN	LOCATION|O|O	||				Washington Terminal Company
+28	1	fb:cell.watc	WATC	watc	watc	NN	O					WATC
+28	2	fb:cell.b_o_prr	B&O/ PRR	b&o|/|prr	B&O|/|prr	NNP|:|NN	ORGANIZATION|O|O	||				B&O|PRR
+28	3	fb:cell.1901	1901	1901	1901	CD	DATE	1901	1901.0	1901-xx-xx		
+28	4	fb:cell.null										
+28	5	fb:cell.null										
+28	6	fb:cell.still_exists_as_a_subsidiary_of_the_national_railroad_passenger_corporation_amtrak	Still exists as a subsidiary of the National Railroad Passenger Corporation (Amtrak)	still|exists|as|a|subsidiary|of|the|national|railroad|passenger|corporation|-lrb-|amtrak|-rrb-	still|exist|as|a|subsidiary|of|the|national|railroad|passenger|corporation|-lrb-|Amtrak|-rrb-	RB|VBZ|IN|DT|NN|IN|DT|JJ|NN|NN|NN|-LRB-|NNP|-RRB-	O|O|O|O|O|O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O|ORGANIZATION|O	|||||||||||||				
+29	0	fb:cell.washington_and_western_maryland_railroad	Washington and Western Maryland Railroad	washington|and|western|maryland|railroad	Washington|and|Western|Maryland|Railroad	NNP|CC|NNP|NNP|NNP	LOCATION|O|O|LOCATION|O	||||				Washington and Western Maryland Railroad
+29	1	fb:cell.null										
+29	2	fb:cell.b_o	B&O	b&o	B&O	NNP	O					B&O
+29	3	fb:cell.1889	1889	1889	1889	CD	DATE	1889	1889.0	1889-xx-xx		
+29	4	fb:cell.1985	1985	1985	1985	CD	DATE	1985	1985.0	1985-xx-xx		
+29	5	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+29	6	fb:cell.null										

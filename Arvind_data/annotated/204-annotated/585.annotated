@@ -1,0 +1,396 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.player	Player	player	player	NN	O					
+-1	2	fb:row.row.high_school	High School	high|school	high|school	JJ|NN	O|O	|				
+-1	3	fb:row.row.college	College	college	college	NN	O					
+-1	4	fb:row.row.nba_aba_draft	NBA/ABA draft	nba/aba|draft	NBA/ABA|draft	NNP|NN	O|O	|				
+0	0	fb:cell.1939	1939	1939	1939	CD	DATE	1939	1939.0	1939-xx-xx		1939
+0	1	fb:cell.george_crowe	George Crowe	george|crowe	George|Crowe	NNP|NNP	PERSON|PERSON	|				George Crowe
+0	2	fb:cell.franklin	Franklin	franklin	Franklin	NNP	PERSON					
+0	3	fb:cell.indiana_central	Indiana Central	indiana|central	Indiana|Central	NNP|NNP	LOCATION|O	|				Indiana Central
+0	4	fb:cell.null										
+1	0	fb:cell.1940	1940	1940	1940	CD	DATE	1940	1940.0	1940-xx-xx		1940
+1	1	fb:cell.ed_schienbein	Ed Schienbein	ed|schienbein	Ed|Schienbein	NNP|NNP	PERSON|PERSON	|				Ed Schienbein
+1	2	fb:cell.southport	Southport	southport	Southport	NNP	LOCATION					
+1	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+1	4	fb:cell.null										
+2	0	fb:cell.1941	1941	1941	1941	CD	DATE	1941	1941.0	1941-xx-xx		1941
+2	1	fb:cell.john_bass	John Bass	john|bass	John|Bass	NNP|NNP	PERSON|PERSON	|				John Bass
+2	2	fb:cell.greenwood	Greenwood	greenwood	Greenwood	NNP	PERSON					
+2	3	fb:cell.null										
+2	4	fb:cell.null										
+3	0	fb:cell.1942	1942	1942	1942	CD	DATE	1942	1942.0	1942-xx-xx		1942
+3	1	fb:cell.bud_brown	Bud Brown	bud|brown	Bud|Brown	NNP|NNP	PERSON|PERSON	|				Bud Brown
+3	2	fb:cell.muncie_burris	Muncie Burris	muncie|burris	Muncie|Burris	NNP|NNP	PERSON|PERSON	|				
+3	3	fb:cell.georgetown	Georgetown	georgetown	Georgetown	NNP	PERSON					Georgetown
+3	4	fb:cell.null										
+4	0	fb:cell.1943_1944	1943,\n1944	1943|,|1944	1943|,|1944	CD|,|CD	DATE|O|DATE	1943||1944	1943.0		1944.0	1943|1944
+4	1	fb:cell.no_games_world_war_ii	No Games\n(World War II)	no|games|-lrb-|world|war|ii|-rrb-	no|game|-lrb-|World|War|II|-rrb-	DT|NNS|-LRB-|NNP|NNP|NNP|-RRB-	O|O|O|MISC|MISC|MISC|O	||||||				No Games|(World War II)
+4	2	fb:cell.null										
+4	3	fb:cell.null										
+4	4	fb:cell.null										
+5	0	fb:cell.1945	1945	1945	1945	CD	DATE	1945	1945.0	1945-xx-xx		1945
+5	1	fb:cell.tom_schwartz	Tom Schwartz	tom|schwartz	Tom|Schwartz	NNP|NNP	PERSON|PERSON	|				Tom Schwartz
+5	2	fb:cell.kokomo	Kokomo	kokomo	Kokomo	NNP	LOCATION					
+5	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+5	4	fb:cell.null										
+6	0	fb:cell.1946	1946	1946	1946	CD	DATE	1946	1946.0	1946-xx-xx		1946
+6	1	fb:cell.johnny_wilson	Johnny Wilson	johnny|wilson	Johnny|Wilson	NNP|NNP	PERSON|PERSON	|				Johnny Wilson
+6	2	fb:cell.anderson	Anderson	anderson	Anderson	NNP	PERSON					Anderson
+6	3	fb:cell.anderson	Anderson	anderson	Anderson	NNP	PERSON					Anderson
+6	4	fb:cell.null										
+7	0	fb:cell.1947	1947	1947	1947	CD	DATE	1947	1947.0	1947-xx-xx		1947
+7	1	fb:cell.bill_garrett	Bill Garrett	bill|garrett	Bill|Garrett	NNP|NNP	PERSON|PERSON	|				Bill Garrett
+7	2	fb:cell.shelbyville	Shelbyville	shelbyville	Shelbyville	NNP	LOCATION					
+7	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+7	4	fb:cell.null										
+8	0	fb:cell.1948	1948	1948	1948	CD	DATE	1948	1948.0	1948-xx-xx		1948
+8	1	fb:cell.bob_masters	Bob Masters	bob|masters	Bob|master	NNP|NNS	PERSON|PERSON	|				Bob Masters
+8	2	fb:cell.lafayette_jefferson	Lafayette Jefferson	lafayette|jefferson	Lafayette|Jefferson	NNP|NNP	PERSON|PERSON	|				
+8	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+8	4	fb:cell.null										
+9	0	fb:cell.1949	1949	1949	1949	CD	DATE	1949	1949.0	1949-xx-xx		1949
+9	1	fb:cell.dee_monroe	Dee Monroe	dee|monroe	Dee|Monroe	NNP|NNP	PERSON|PERSON	|				Dee Monroe
+9	2	fb:cell.madison	Madison	madison	Madison	NNP	PERSON					
+9	3	fb:cell.kentucky	Kentucky	kentucky	Kentucky	NNP	PERSON					Kentucky
+9	4	fb:cell.null										
+10	0	fb:cell.1950	1950	1950	1950	CD	DATE	1950	1950.0	1950-xx-xx		1950
+10	1	fb:cell.pat_klein	Pat Klein	pat|klein	Pat|Klein	NNP|NNP	PERSON|PERSON	|				Pat Klein
+10	2	fb:cell.marion	Marion	marion	Marion	NNP	PERSON					
+10	3	fb:cell.null										
+10	4	fb:cell.null										
+11	0	fb:cell.1951	1951	1951	1951	CD	DATE	1951	1951.0	1951-xx-xx		1951
+11	1	fb:cell.tom_harold	Tom Harold	tom|harold	Tom|Harold	NNP|NNP	PERSON|PERSON	|				Tom Harold
+11	2	fb:cell.muncie_central	Muncie Central	muncie|central	Muncie|Central	NNP|NNP	PERSON|PERSON	|				
+11	3	fb:cell.colorado	Colorado	colorado	Colorado	NNP	LOCATION					Colorado
+11	4	fb:cell.null										
+12	0	fb:cell.1952	1952	1952	1952	CD	DATE	1952	1952.0	1952-xx-xx		1952
+12	1	fb:cell.joe_sexson	Joe Sexson	joe|sexson	Joe|Sexson	NNP|NNP	PERSON|PERSON	|				Joe Sexson
+12	2	fb:cell.indianapolis_tech	Indianapolis Tech	indianapolis|tech	Indianapolis|Tech	NNP|NNP	LOCATION|O	|				
+12	3	fb:cell.purdue	Purdue	purdue	Purdue	NNP	ORGANIZATION					Purdue
+12	4	fb:cell.null										
+13	0	fb:cell.1953	1953	1953	1953	CD	DATE	1953	1953.0	1953-xx-xx		1953
+13	1	fb:cell.hallie_bryant	Hallie Bryant	hallie|bryant	Hallie|Bryant	NNP|NNP	PERSON|PERSON	|				Hallie Bryant
+13	2	fb:cell.crispus_attucks	Crispus Attucks	crispus|attucks	Crispus|Attucks	NNP|NNPS	O|O	|				
+13	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+13	4	fb:cell.null										
+14	0	fb:cell.1954	1954	1954	1954	CD	DATE	1954	1954.0	1954-xx-xx		1954
+14	1	fb:cell.bobby_plump	Bobby Plump	bobby|plump	Bobby|plump	NNP|JJ	PERSON|PERSON	|				Bobby Plump
+14	2	fb:cell.milan	Milan	milan	Milan	NNP	LOCATION					
+14	3	fb:cell.butler	Butler	butler	Butler	NNP	PERSON					Butler
+14	4	fb:cell.null										
+15	0	fb:cell.1955	1955	1955	1955	CD	DATE	1955	1955.0	1955-xx-xx		1955
+15	1	fb:cell.wilson_eison	Wilson Eison	wilson|eison	Wilson|Eison	NNP|NNP	PERSON|PERSON	|				Wilson Eison
+15	2	fb:cell.gary_roosevelt	Gary Roosevelt	gary|roosevelt	Gary|Roosevelt	NNP|NNP	PERSON|PERSON	|				
+15	3	fb:cell.purdue	Purdue	purdue	Purdue	NNP	ORGANIZATION					Purdue
+15	4	fb:cell.null										
+16	0	fb:cell.1956	1956	1956	1956	CD	DATE	1956	1956.0	1956-xx-xx		1956
+16	1	fb:cell.oscar_robertson	Oscar Robertson	oscar|robertson	Oscar|Robertson	NNP|NNP	PERSON|PERSON	|				Oscar Robertson
+16	2	fb:cell.crispus_attucks	Crispus Attucks	crispus|attucks	Crispus|Attucks	NNP|NNPS	O|O	|				
+16	3	fb:cell.cincinnati	Cincinnati	cincinnati	Cincinnati	NNP	LOCATION					Cincinnati
+16	4	fb:cell.1960_nba_draft_1st_rnd_1st_overall_by_the_cincinnati_royals	1960 NBA Draft: 1st Rnd, 1st overall by the Cincinnati Royals	1960|nba|draft|:|1st|rnd|,|1st|overall|by|the|cincinnati|royals	1960|NBA|draft|:|1st|rnd|,|1st|overall|by|the|Cincinnati|Royals	CD|NNP|NN|:|CD|NN|,|JJ|JJ|IN|DT|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION	1960||||1.0|||1.0|||||	1960.0		1.0	1960 NBA Draft: 1st Rnd|1st overall by the Cincinnati Royals
+17	0	fb:cell.1957	1957	1957	1957	CD	DATE	1957	1957.0	1957-xx-xx		1957
+17	1	fb:cell.john_coalman	John Coalman	john|coalman	John|Coalman	NNP|NNP	PERSON|PERSON	|				John Coalman
+17	2	fb:cell.south_bend_central	South Bend Central	south|bend|central	South|Bend|Central	NNP|NNP|NNP	O|O|O	||				
+17	3	fb:cell.fordham	Fordham	fordham	Fordham	NNP	ORGANIZATION					Fordham
+17	4	fb:cell.null										
+18	0	fb:cell.1958	1958	1958	1958	CD	DATE	1958	1958.0	1958-xx-xx		1958
+18	1	fb:cell.mike_mccoy	Mike McCoy	mike|mccoy	Mike|McCoy	NNP|NNP	PERSON|PERSON	|				Mike McCoy
+18	2	fb:cell.ft_wayne_south_side	Ft. Wayne South Side	ft.|wayne|south|side	Ft.|Wayne|South|side	NNP|NNP|NNP|NN	O|PERSON|O|O	|||				
+18	3	fb:cell.miami_fl	Miami (FL)	miami|-lrb-|fl|-rrb-	Miami|-lrb-|fl|-rrb-	NNP|-LRB-|NN|-RRB-	LOCATION|O|O|O	|||				Miami (FL)
+18	4	fb:cell.null										
+19	0	fb:cell.1959	1959	1959	1959	CD	DATE	1959	1959.0	1959-xx-xx		1959
+19	1	fb:cell.jimmy_rayl	Jimmy Rayl	jimmy|rayl	Jimmy|Rayl	NNP|NNP	PERSON|PERSON	|				Jimmy Rayl
+19	2	fb:cell.kokomo	Kokomo	kokomo	Kokomo	NNP	LOCATION					
+19	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+19	4	fb:cell.1963_nba_draft_3rd_rnd_22nd_overall_by_the_cincinnati_royals	1963 NBA Draft: 3rd Rnd, 22nd overall by the Cincinnati Royals	1963|nba|draft|:|3rd|rnd|,|22nd|overall|by|the|cincinnati|royals	1963|NBA|draft|:|3rd|rnd|,|22nd|overall|by|the|Cincinnati|Royals	CD|NNP|NN|:|JJ|NN|,|JJ|JJ|IN|DT|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION	1963||||3.0|||22.0|||||	1963.0		3.0	1963 NBA Draft: 3rd Rnd|22nd overall by the Cincinnati Royals
+20	0	fb:cell.1960	1960	1960	1960	CD	DATE	1960	1960.0	1960-xx-xx		1960
+20	1	fb:cell.ron_bonham	Ron Bonham	ron|bonham	Ron|Bonham	NNP|NNP	PERSON|PERSON	|				Ron Bonham
+20	2	fb:cell.muncie_central	Muncie Central	muncie|central	Muncie|Central	NNP|NNP	PERSON|PERSON	|				
+20	3	fb:cell.cincinnati	Cincinnati	cincinnati	Cincinnati	NNP	LOCATION					Cincinnati
+20	4	fb:cell.1964_nba_draft_2nd_rnd_18th_overall_by_the_boston_celtics	1964 NBA Draft: 2nd Rnd, 18th overall by the Boston Celtics	1964|nba|draft|:|2nd|rnd|,|18th|overall|by|the|boston|celtics	1964|NBA|draft|:|2nd|rnd|,|18th|overall|by|the|Boston|Celtics	CD|NNP|NN|:|JJ|NN|,|JJ|JJ|IN|DT|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION	1964||||2.0|||18.0|||||	1964.0		2.0	1964 NBA Draft: 2nd Rnd|18th overall by the Boston Celtics
+21	0	fb:cell.1961_tie	1961 (tie)	1961|-lrb-|tie|-rrb-	1961|-lrb-|tie|-rrb-	CD|-LRB-|NN|-RRB-	DATE|O|O|O	1961|||	1961.0			1961 (tie)
+21	1	fb:cell.tom_van_arsdale	Tom Van Arsdale	tom|van|arsdale	Tom|Van|Arsdale	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Tom Van Arsdale
+21	2	fb:cell.indianapolis_manual	Indianapolis Manual	indianapolis|manual	Indianapolis|Manual	NNP|NNP	LOCATION|O	|				
+21	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+21	4	fb:cell.1965_nba_draft_2nd_rnd_11th_overall_by_the_detroit_pistons	1965 NBA Draft: 2nd Rnd, 11th overall by the Detroit Pistons	1965|nba|draft|:|2nd|rnd|,|11th|overall|by|the|detroit|pistons	1965|NBA|draft|:|2nd|rnd|,|11th|overall|by|the|Detroit|piston	CD|NNP|NN|:|JJ|NN|,|JJ|JJ|IN|DT|NNP|NNS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION	1965||||2.0|||11.0|||||	1965.0		2.0	1965 NBA Draft: 2nd Rnd|11th overall by the Detroit Pistons
+22	0	fb:cell.1961_tie	1961 (tie)	1961|-lrb-|tie|-rrb-	1961|-lrb-|tie|-rrb-	CD|-LRB-|NN|-RRB-	DATE|O|O|O	1961|||	1961.0			1961 (tie)
+22	1	fb:cell.dick_van_arsdale	Dick Van Arsdale	dick|van|arsdale	Dick|Van|Arsdale	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Dick Van Arsdale
+22	2	fb:cell.indianapolis_manual	Indianapolis Manual	indianapolis|manual	Indianapolis|Manual	NNP|NNP	LOCATION|O	|				
+22	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+22	4	fb:cell.1965_nba_draft_2nd_rnd_10th_overall_by_the_new_york_knicks	1965 NBA Draft: 2nd Rnd, 10th overall by the New York Knicks	1965|nba|draft|:|2nd|rnd|,|10th|overall|by|the|new|york|knicks	1965|NBA|draft|:|2nd|rnd|,|10th|overall|by|the|New|York|Knicks	CD|NNP|NN|:|JJ|NN|,|JJ|JJ|IN|DT|NNP|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION	1965||||2.0|||10.0||||||	1965.0		2.0	1965 NBA Draft: 2nd Rnd|10th overall by the New York Knicks
+23	0	fb:cell.1962	1962	1962	1962	CD	DATE	1962	1962.0	1962-xx-xx		1962
+23	1	fb:cell.larry_humes	Larry Humes	larry|humes	Larry|Humes	NNP|NNP	PERSON|PERSON	|				Larry Humes
+23	2	fb:cell.madison	Madison	madison	Madison	NNP	PERSON					
+23	3	fb:cell.evansville	Evansville	evansville	Evansville	NNP	LOCATION					Evansville
+23	4	fb:cell.null										
+24	0	fb:cell.1963	1963	1963	1963	CD	DATE	1963	1963.0	1963-xx-xx		1963
+24	1	fb:cell.rick_jones	Rick Jones	rick|jones	Rick|Jones	NNP|NNP	PERSON|PERSON	|				Rick Jones
+24	2	fb:cell.muncie_central	Muncie Central	muncie|central	Muncie|Central	NNP|NNP	PERSON|PERSON	|				
+24	3	fb:cell.miami_fl	Miami (FL)	miami|-lrb-|fl|-rrb-	Miami|-lrb-|fl|-rrb-	NNP|-LRB-|NN|-RRB-	LOCATION|O|O|O	|||				Miami (FL)
+24	4	fb:cell.null										
+25	0	fb:cell.1964	1964	1964	1964	CD	DATE	1964	1964.0	1964-xx-xx		1964
+25	1	fb:cell.dennis_brady	Dennis Brady	dennis|brady	Dennis|Brady	NNP|NNP	PERSON|PERSON	|				Dennis Brady
+25	2	fb:cell.lafayette_jefferson	Lafayette Jefferson	lafayette|jefferson	Lafayette|Jefferson	NNP|NNP	PERSON|PERSON	|				
+25	3	fb:cell.purdue	Purdue	purdue	Purdue	NNP	ORGANIZATION					Purdue
+25	4	fb:cell.null										
+26	0	fb:cell.1965	1965	1965	1965	CD	DATE	1965	1965.0	1965-xx-xx		1965
+26	1	fb:cell.billy_keller	Billy Keller	billy|keller	Billy|Keller	NNP|NNP	PERSON|PERSON	|				Billy Keller
+26	2	fb:cell.indianapolis_washington	Indianapolis Washington	indianapolis|washington	Indianapolis|Washington	NNP|NNP	LOCATION|LOCATION	|				
+26	3	fb:cell.purdue	Purdue	purdue	Purdue	NNP	ORGANIZATION					Purdue
+26	4	fb:cell.1969_nba_draft_7th_rnd_2nd_by_the_milwaukee_bucks	1969 NBA Draft: 7th Rnd, 2nd by the Milwaukee Bucks	1969|nba|draft|:|7th|rnd|,|2nd|by|the|milwaukee|bucks	1969|NBA|draft|:|7th|rnd|,|2nd|by|the|Milwaukee|buck	CD|NNP|NN|:|JJ|NN|,|JJ|IN|DT|NNP|NNS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|ORGANIZATION|ORGANIZATION	1969||||7.0|||2.0||||	1969.0		7.0	1969 NBA Draft: 7th Rnd|2nd by the Milwaukee Bucks
+27	0	fb:cell.1966	1966	1966	1966	CD	DATE	1966	1966.0	1966-xx-xx		1966
+27	1	fb:cell.rick_mount	Rick Mount	rick|mount	Rick|Mount	NNP|NNP	PERSON|PERSON	|				Rick Mount
+27	2	fb:cell.lebanon	Lebanon	lebanon	Lebanon	NNP	LOCATION					
+27	3	fb:cell.purdue	Purdue	purdue	Purdue	NNP	ORGANIZATION					Purdue
+27	4	fb:cell.1970_aba_draft_1st_rnd_by_the_indiana_pacers_1970_nba_draft_8th_rnd_132nd_overall_by_the_los_angeles_lakers	1970 ABA Draft: 1st Rnd by the Indiana Pacers\n1970 NBA Draft: 8th Rnd, 132nd overall by the Los Angeles Lakers	1970|aba|draft|:|1st|rnd|by|the|indiana|pacers|1970|nba|draft|:|8th|rnd|,|132nd|overall|by|the|los|angeles|lakers	1970|ABA|draft|:|1st|rnd|by|the|Indiana|Pacers|1970|NBA|draft|:|8th|rnd|,|132nd|overall|by|the|Los|Angeles|Lakers	CD|NNP|NN|:|CD|NN|IN|DT|NNP|NNPS|CD|NNP|NN|:|JJ|NN|,|JJ|JJ|IN|DT|NNP|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION|DATE|ORGANIZATION|O|O|ORDINAL|O|O|O|O|O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION	1970||||1.0||||||1970||||8.0|||||||||	1970.0		1.0	1970 ABA Draft: 1st Rnd by the Indiana Pacers|1970 NBA Draft: 8th Rnd|132nd overall by the Los Angeles Lakers
+28	0	fb:cell.1967	1967	1967	1967	CD	DATE	1967	1967.0	1967-xx-xx		1967
+28	1	fb:cell.willie_long	Willie Long	willie|long	Willie|Long	NNP|NNP	PERSON|PERSON	|				Willie Long
+28	2	fb:cell.ft_wayne_south_side	Ft. Wayne South Side	ft.|wayne|south|side	Ft.|Wayne|South|side	NNP|NNP|NNP|NN	O|PERSON|O|O	|||				
+28	3	fb:cell.new_mexico	New Mexico	new|mexico	New|Mexico	NNP|NNP	LOCATION|LOCATION	|				New Mexico
+28	4	fb:cell.1971_nba_draft_2nd_rnd_35th_overall_by_the_cleveland_cavaliers	1971 NBA Draft: 2nd Rnd, 35th overall by the Cleveland Cavaliers	1971|nba|draft|:|2nd|rnd|,|35th|overall|by|the|cleveland|cavaliers	1971|NBA|draft|:|2nd|rnd|,|35th|overall|by|the|Cleveland|Cavaliers	CD|NNP|NN|:|JJ|NN|,|JJ|JJ|IN|DT|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION	1971||||2.0|||35.0|||||	1971.0		2.0	1971 NBA Draft: 2nd Rnd|35th overall by the Cleveland Cavaliers
+29	0	fb:cell.1968	1968	1968	1968	CD	DATE	1968	1968.0	1968-xx-xx		1968
+29	1	fb:cell.billy_shepherd	Billy Shepherd	billy|shepherd	Billy|Shepherd	NNP|NNP	PERSON|PERSON	|				Billy Shepherd
+29	2	fb:cell.carmel	Carmel	carmel	Carmel	NNP	PERSON					
+29	3	fb:cell.butler	Butler	butler	Butler	NNP	PERSON					Butler
+29	4	fb:cell.null										
+30	0	fb:cell.1969	1969	1969	1969	CD	DATE	1969	1969.0	1969-xx-xx		1969
+30	1	fb:cell.george_mcginnis	George McGinnis	george|mcginnis	George|McGinnis	NNP|NNP	PERSON|PERSON	|				George McGinnis
+30	2	fb:cell.indianapolis_washington	Indianapolis Washington	indianapolis|washington	Indianapolis|Washington	NNP|NNP	LOCATION|LOCATION	|				
+30	3	fb:cell.indiana_1969_1971	Indiana (1969–1971)	indiana|-lrb-|1969|--|1971|-rrb-	Indiana|-lrb-|1969|--|1971|-rrb-	NNP|-LRB-|CD|:|CD|-RRB-	LOCATION|O|DATE|O|DATE|O	||1969||1971|	1969.0		1971.0	Indiana (1969–1971)
+30	4	fb:cell.1971_aba_draft_indiana_pacers	1971 ABA Draft: Indiana Pacers	1971|aba|draft|:|indiana|pacers	1971|ABA|draft|:|Indiana|Pacers	CD|NNP|NN|:|NNP|NNPS	DATE|ORGANIZATION|O|O|ORGANIZATION|ORGANIZATION	1971|||||	1971.0			1971 ABA Draft: Indiana Pacers
+31	0	fb:cell.1970	1970	1970	1970	CD	DATE	1970	1970.0	1970-xx-xx		1970
+31	1	fb:cell.dave_shepherd	Dave Shepherd	dave|shepherd	Dave|Shepherd	NNP|NNP	PERSON|PERSON	|				Dave Shepherd
+31	2	fb:cell.carmel	Carmel	carmel	Carmel	NNP	PERSON					
+31	3	fb:cell.indiana_1970_1972_mississippi_1973_1975	Indiana (1970–1972) / Mississippi (1973–1975)	indiana|-lrb-|1970|--|1972|-rrb-|/|mississippi|-lrb-|1973|--|1975|-rrb-	Indiana|-lrb-|1970|--|1972|-rrb-|/|Mississippi|-lrb-|1973|--|1975|-rrb-	NNP|-LRB-|CD|:|CD|-RRB-|:|NNP|-LRB-|CD|:|CD|-RRB-	LOCATION|O|DATE|O|DATE|O|O|LOCATION|O|DATE|O|DATE|O	||1970||1972|||||1973||1975|	1970.0		1972.0	Indiana (1970–1972)|Mississippi (1973–1975)
+31	4	fb:cell.null										
+32	0	fb:cell.1971	1971	1971	1971	CD	DATE	1971	1971.0	1971-xx-xx		1971
+32	1	fb:cell.mike_flynn	Mike Flynn	mike|flynn	Mike|Flynn	NNP|NNP	PERSON|PERSON	|				Mike Flynn
+32	2	fb:cell.jeffersonville	Jeffersonville	jeffersonville	Jeffersonville	NNP	LOCATION					
+32	3	fb:cell.kentucky	Kentucky	kentucky	Kentucky	NNP	PERSON					Kentucky
+32	4	fb:cell.1975_nba_draft_7th_rnd_113th_overall_by_the_philadelphia_76ers	1975 NBA Draft: 7th Rnd, 113th overall by the Philadelphia 76ers	1975|nba|draft|:|7th|rnd|,|113th|overall|by|the|philadelphia|76ers	1975|NBA|draft|:|7th|rnd|,|113th|overall|by|the|Philadelphia|76ers	CD|NNP|NN|:|JJ|NN|,|JJ|JJ|IN|DT|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|O|O|O|O|LOCATION|O	1975||||7.0||||||||	1975.0		7.0	1975 NBA Draft: 7th Rnd|113th overall by the Philadelphia 76ers
+33	0	fb:cell.1972	1972	1972	1972	CD	DATE	1972	1972.0	1972-xx-xx		1972
+33	1	fb:cell.phil_cox	Phil Cox	phil|cox	Phil|Cox	NNP|NNP	PERSON|PERSON	|				Phil Cox
+33	2	fb:cell.connersville	Connersville	connersville	Connersville	NNP	LOCATION					
+33	3	fb:cell.butler_1972_74_gardner_webb_1974_1976	Butler (1972-74) / Gardner–Webb (1974-1976)	butler|-lrb-|1972-74|-rrb-|/|gardner|--|webb|-lrb-|1974-1976|-rrb-	Butler|-lrb-|1972-74|-rrb-|/|Gardner|--|Webb|-lrb-|1974-1976|-rrb-	NNP|-LRB-|CD|-RRB-|:|NNP|:|NNP|-LRB-|CD|-RRB-	PERSON|O|NUMBER|O|O|O|O|PERSON|O|DURATION|O	||1972.0 - 74.0|||||||PT17520H|	1972.0		74.0	Butler (1972-74)|Gardner–Webb (1974-1976)
+33	4	fb:cell.null										
+34	0	fb:cell.1973	1973	1973	1973	CD	DATE	1973	1973.0	1973-xx-xx		1973
+34	1	fb:cell.kent_benson	Kent Benson	kent|benson	Kent|Benson	NNP|NNP	PERSON|PERSON	|				Kent Benson
+34	2	fb:cell.new_castle	New Castle	new|castle	new|castle	JJ|NN	O|O	|				
+34	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+34	4	fb:cell.1977_nba_draft_1st_rnd_1st_overall_by_the_milwaukee_bucks	1977 NBA Draft: 1st Rnd, 1st overall by the Milwaukee Bucks	1977|nba|draft|:|1st|rnd|,|1st|overall|by|the|milwaukee|bucks	1977|NBA|draft|:|1st|rnd|,|1st|overall|by|the|Milwaukee|buck	CD|NNP|NN|:|CD|NN|,|JJ|JJ|IN|DT|NNP|NNS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|O	1977||||1.0|||1.0|||||	1977.0		1.0	1977 NBA Draft: 1st Rnd|1st overall by the Milwaukee Bucks
+35	0	fb:cell.1974_tie	1974 (tie)	1974|-lrb-|tie|-rrb-	1974|-lrb-|tie|-rrb-	CD|-LRB-|NN|-RRB-	DATE|O|O|O	1974|||	1974.0			1974 (tie)
+35	1	fb:cell.steve_collier	Steve Collier	steve|collier	Steve|Collier	NNP|NNP	PERSON|PERSON	|				Steve Collier
+35	2	fb:cell.southwestern	Southwestern	southwestern	Southwestern	NNP	O					
+35	3	fb:cell.cincinnati	Cincinnati	cincinnati	Cincinnati	NNP	LOCATION					Cincinnati
+35	4	fb:cell.null										
+36	0	fb:cell.1974_tie	1974 (tie)	1974|-lrb-|tie|-rrb-	1974|-lrb-|tie|-rrb-	CD|-LRB-|NN|-RRB-	DATE|O|O|O	1974|||	1974.0			1974 (tie)
+36	1	fb:cell.roy_taylor	Roy Taylor	roy|taylor	Roy|Taylor	NNP|NNP	PERSON|PERSON	|				Roy Taylor
+36	2	fb:cell.anderson	Anderson	anderson	Anderson	NNP	PERSON					Anderson
+36	3	fb:cell.youngstown_state	Youngstown State	youngstown|state	Youngstown|State	NNP|NNP	LOCATION|O	|				Youngstown State
+36	4	fb:cell.null										
+37	0	fb:cell.1975	1975	1975	1975	CD	DATE	1975	1975.0	1975-xx-xx		1975
+37	1	fb:cell.kyle_macy	Kyle Macy	kyle|macy	Kyle|Macy	NNP|NNP	PERSON|PERSON	|				Kyle Macy
+37	2	fb:cell.peru	Peru	peru	Peru	NNP	LOCATION					
+37	3	fb:cell.purdue_1975_1976_kentucky_1976_1980	Purdue (1975–1976) / Kentucky (1976–1980)	purdue|-lrb-|1975|--|1976|-rrb-|/|kentucky|-lrb-|1976|--|1980|-rrb-	Purdue|-lrb-|1975|--|1976|-rrb-|/|Kentucky|-lrb-|1976|--|1980|-rrb-	NNP|-LRB-|CD|:|CD|-RRB-|:|NNP|-LRB-|CD|:|CD|-RRB-	ORGANIZATION|O|DATE|O|DATE|O|O|LOCATION|O|DATE|O|DATE|O	||1975||1976|||||1976||1980|	1975.0		1976.0	Purdue (1975–1976)|Kentucky (1976–1980)
+37	4	fb:cell.1979_nba_draft_1st_rnd_22nd_overall_by_the_phoenix_suns	1979 NBA Draft: 1st Rnd, 22nd overall by the Phoenix Suns	1979|nba|draft|:|1st|rnd|,|22nd|overall|by|the|phoenix|suns	1979|NBA|draft|:|1st|rnd|,|22nd|overall|by|the|Phoenix|Suns	CD|NNP|NN|:|CD|NN|,|JJ|JJ|IN|DT|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION	1979||||1.0|||22.0|||||	1979.0		1.0	1979 NBA Draft: 1st Rnd|22nd overall by the Phoenix Suns
+38	0	fb:cell.1976	1976	1976	1976	CD	DATE	1976	1976.0	1976-xx-xx		1976
+38	1	fb:cell.dave_colescott	Dave Colescott	dave|colescott	Dave|Colescott	NNP|NNP	PERSON|PERSON	|				Dave Colescott
+38	2	fb:cell.marion	Marion	marion	Marion	NNP	PERSON					
+38	3	fb:cell.north_carolina	North Carolina	north|carolina	North|Carolina	NNP|NNP	LOCATION|LOCATION	|				North Carolina
+38	4	fb:cell.null										
+39	0	fb:cell.1977	1977	1977	1977	CD	DATE	1977	1977.0	1977-xx-xx		1977
+39	1	fb:cell.ray_tolbert	Ray Tolbert	ray|tolbert	Ray|Tolbert	NNP|NNP	PERSON|PERSON	|				Ray Tolbert
+39	2	fb:cell.madison_heights	Madison Heights	madison|heights	Madison|Heights	NNP|NNP	PERSON|PERSON	|				
+39	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+39	4	fb:cell.1981_nba_draft_1st_rnd_18th_overall_by_the_new_jersey_nets	1981 NBA Draft: 1st Rnd, 18th overall by the New Jersey Nets	1981|nba|draft|:|1st|rnd|,|18th|overall|by|the|new|jersey|nets	1981|NBA|draft|:|1st|rnd|,|18th|overall|by|the|New|Jersey|net	CD|NNP|NN|:|CD|NN|,|JJ|JJ|IN|DT|NNP|NNP|NNS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|LOCATION|LOCATION|O	1981||||1.0|||18.0||||||	1981.0		1.0	1981 NBA Draft: 1st Rnd|18th overall by the New Jersey Nets
+40	0	fb:cell.1978	1978	1978	1978	CD	DATE	1978	1978.0	1978-xx-xx		1978
+40	1	fb:cell.david_magley	David Magley	david|magley	David|Magley	NNP|NNP	PERSON|PERSON	|				David Magley
+40	2	fb:cell.south_bend_lasalle	South Bend LaSalle	south|bend|lasalle	South|Bend|LaSalle	NNP|NNP|NNP	O|O|O	||				
+40	3	fb:cell.kansas	Kansas	kansas	Kansas	NNP	LOCATION					Kansas
+40	4	fb:cell.null										
+41	0	fb:cell.1979	1979	1979	1979	CD	DATE	1979	1979.0	1979-xx-xx		1979
+41	1	fb:cell.steve_bouchie	Steve Bouchie	steve|bouchie	Steve|Bouchie	NNP|NNP	PERSON|PERSON	|				Steve Bouchie
+41	2	fb:cell.washington	Washington	washington	Washington	NNP	LOCATION					
+41	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+41	4	fb:cell.null										
+42	0	fb:cell.1980	1980	1980	1980	CD	DATE	1980	1980.0	1980-xx-xx		1980
+42	1	fb:cell.jim_master	Jim Master	jim|master	Jim|Master	NNP|NNP	PERSON|PERSON	|				Jim Master
+42	2	fb:cell.ft_wayne_harding	Ft. Wayne Harding	ft.|wayne|harding	Ft.|Wayne|Harding	NNP|NNP|NNP	O|PERSON|PERSON	||				
+42	3	fb:cell.kentucky	Kentucky	kentucky	Kentucky	NNP	PERSON					Kentucky
+42	4	fb:cell.1984_nba_draft_6th_rnd_127th_overall_by_the_atlanta_hawks	1984 NBA Draft: 6th Rnd, 127th overall by the Atlanta Hawks	1984|nba|draft|:|6th|rnd|,|127th|overall|by|the|atlanta|hawks	1984|NBA|draft|:|6th|rnd|,|127th|overall|by|the|Atlanta|Hawks	CD|NNP|NN|:|JJ|NN|,|JJ|JJ|IN|DT|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|O|O|O|O|ORGANIZATION|ORGANIZATION	1984||||6.0||||||||	1984.0		6.0	1984 NBA Draft: 6th Rnd|127th overall by the Atlanta Hawks
+43	0	fb:cell.1981	1981	1981	1981	CD	DATE	1981	1981.0	1981-xx-xx		1981
+43	1	fb:cell.dan_palombizio	Dan Palombizio	dan|palombizio	Dan|Palombizio	NNP|NNP	PERSON|PERSON	|				Dan Palombizio
+43	2	fb:cell.michigan_city_rogers	Michigan City Rogers	michigan|city|rogers	Michigan|City|Rogers	NNP|NNP|NNP	LOCATION|LOCATION|ORGANIZATION	||				
+43	3	fb:cell.purdue_1981_1983_ball_state_1984_1986	Purdue (1981–1983) / Ball State (1984–1986)	purdue|-lrb-|1981|--|1983|-rrb-|/|ball|state|-lrb-|1984|--|1986|-rrb-	Purdue|-lrb-|1981|--|1983|-rrb-|/|ball|state|-lrb-|1984|--|1986|-rrb-	NNP|-LRB-|CD|:|CD|-RRB-|:|NN|NN|-LRB-|CD|:|CD|-RRB-	ORGANIZATION|O|DATE|O|DATE|O|O|O|O|O|DATE|O|DATE|O	||1981||1983||||||1984||1986|	1981.0		1983.0	Purdue (1981–1983)|Ball State (1984–1986)
+43	4	fb:cell.null										
+44	0	fb:cell.1982	1982	1982	1982	CD	DATE	1982	1982.0	1982-xx-xx		1982
+44	1	fb:cell.roger_harden	Roger Harden	roger|harden	Roger|Harden	NNP|NNP	PERSON|PERSON	|				Roger Harden
+44	2	fb:cell.valparaiso	Valparaiso	valparaiso	Valparaiso	NNP	PERSON					Valparaiso
+44	3	fb:cell.kentucky	Kentucky	kentucky	Kentucky	NNP	PERSON					Kentucky
+44	4	fb:cell.null										
+45	0	fb:cell.1983	1983	1983	1983	CD	DATE	1983	1983.0	1983-xx-xx		1983
+45	1	fb:cell.steve_alford	Steve Alford	steve|alford	Steve|Alford	NNP|NNP	PERSON|PERSON	|				Steve Alford
+45	2	fb:cell.new_castle	New Castle	new|castle	new|castle	JJ|NN	O|O	|				
+45	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+45	4	fb:cell.1987_nba_draft_2nd_rnd_26th_overall_by_the_dallas_mavericks	1987 NBA Draft: 2nd Rnd, 26th overall by the Dallas Mavericks	1987|nba|draft|:|2nd|rnd|,|26th|overall|by|the|dallas|mavericks	1987|NBA|draft|:|2nd|rnd|,|26th|overall|by|the|Dallas|Mavericks	CD|NNP|NN|:|JJ|NN|,|JJ|JJ|IN|DT|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION	1987||||2.0|||26.0|||||	1987.0		2.0	1987 NBA Draft: 2nd Rnd|26th overall by the Dallas Mavericks
+46	0	fb:cell.1984_tie	1984 (tie)	1984|-lrb-|tie|-rrb-	1984|-lrb-|tie|-rrb-	CD|-LRB-|NN|-RRB-	DATE|O|O|O	1984|||	1984.0			1984 (tie)
+46	1	fb:cell.troy_lewis	Troy Lewis	troy|lewis	Troy|Lewis	NNP|NNP	PERSON|PERSON	|				Troy Lewis
+46	2	fb:cell.anderson	Anderson	anderson	Anderson	NNP	PERSON					Anderson
+46	3	fb:cell.purdue	Purdue	purdue	Purdue	NNP	ORGANIZATION					Purdue
+46	4	fb:cell.null										
+47	0	fb:cell.1984_tie	1984 (tie)	1984|-lrb-|tie|-rrb-	1984|-lrb-|tie|-rrb-	CD|-LRB-|NN|-RRB-	DATE|O|O|O	1984|||	1984.0			1984 (tie)
+47	1	fb:cell.delray_brooks	Delray Brooks	delray|brooks	Delray|Brooks	NNP|NNP	PERSON|PERSON	|				Delray Brooks
+47	2	fb:cell.michigan_city_rogers	Michigan City Rogers	michigan|city|rogers	Michigan|City|Rogers	NNP|NNP|NNP	LOCATION|LOCATION|ORGANIZATION	||				
+47	3	fb:cell.indiana_1984_1985_providence_1986_1988	Indiana (1984–1985) / Providence (1986–1988)	indiana|-lrb-|1984|--|1985|-rrb-|/|providence|-lrb-|1986|--|1988|-rrb-	Indiana|-lrb-|1984|--|1985|-rrb-|/|Providence|-lrb-|1986|--|1988|-rrb-	NNP|-LRB-|CD|:|CD|-RRB-|:|NNP|-LRB-|CD|:|CD|-RRB-	LOCATION|O|DATE|O|DATE|O|O|LOCATION|O|DATE|O|DATE|O	||1984||1985|||||1986||1988|	1984.0		1985.0	Indiana (1984–1985)|Providence (1986–1988)
+47	4	fb:cell.null										
+48	0	fb:cell.1985	1985	1985	1985	CD	DATE	1985	1985.0	1985-xx-xx		1985
+48	1	fb:cell.jeff_grose	Jeff Grose	jeff|grose	Jeff|Grose	NNP|NNP	PERSON|PERSON	|				Jeff Grose
+48	2	fb:cell.warsaw	Warsaw	warsaw	Warsaw	NNP	LOCATION					
+48	3	fb:cell.northwestern	Northwestern	northwestern	Northwestern	NNP	O					Northwestern
+48	4	fb:cell.null										
+49	0	fb:cell.1986	1986	1986	1986	CD	DATE	1986	1986.0	1986-xx-xx		1986
+49	1	fb:cell.mark_jewell	Mark Jewell	mark|jewell	Mark|Jewell	NNP|NNP	PERSON|PERSON	|				Mark Jewell
+49	2	fb:cell.lafayette_jefferson	Lafayette Jefferson	lafayette|jefferson	Lafayette|Jefferson	NNP|NNP	PERSON|PERSON	|				
+49	3	fb:cell.evansville	Evansville	evansville	Evansville	NNP	LOCATION					Evansville
+49	4	fb:cell.null										
+50	0	fb:cell.1987_tie	1987 (tie)	1987|-lrb-|tie|-rrb-	1987|-lrb-|tie|-rrb-	CD|-LRB-|NN|-RRB-	DATE|O|O|O	1987|||	1987.0			1987 (tie)
+50	1	fb:cell.jay_edwards	Jay Edwards	jay|edwards	Jay|Edwards	NNP|NNP	PERSON|PERSON	|				Jay Edwards
+50	2	fb:cell.marion	Marion	marion	Marion	NNP	PERSON					
+50	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+50	4	fb:cell.1989_nba_draft_2nd_rnd_33rd_overall_by_the_los_angeles_clippers	1989 NBA Draft: 2nd Rnd, 33rd overall by the Los Angeles Clippers	1989|nba|draft|:|2nd|rnd|,|33rd|overall|by|the|los|angeles|clippers	1989|NBA|draft|:|2nd|rnd|,|33rd|overall|by|the|Los|Angeles|Clippers	CD|NNP|NN|:|JJ|NN|,|JJ|JJ|IN|DT|NNP|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|LOCATION|LOCATION|O	1989||||2.0|||33.0||||||	1989.0		2.0	1989 NBA Draft: 2nd Rnd|33rd overall by the Los Angeles Clippers
+51	0	fb:cell.1987_tie	1987 (tie)	1987|-lrb-|tie|-rrb-	1987|-lrb-|tie|-rrb-	CD|-LRB-|NN|-RRB-	DATE|O|O|O	1987|||	1987.0			1987 (tie)
+51	1	fb:cell.lyndon_jones	Lyndon Jones	lyndon|jones	Lyndon|Jones	NNP|NNP	PERSON|PERSON	|				Lyndon Jones
+51	2	fb:cell.marion	Marion	marion	Marion	NNP	PERSON					
+51	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+51	4	fb:cell.null										
+52	0	fb:cell.1988	1988	1988	1988	CD	DATE	1988	1988.0	1988-xx-xx		1988
+52	1	fb:cell.woody_austin	Woody Austin	woody|austin	Woody|Austin	NNP|NNP	PERSON|PERSON	|				Woody Austin
+52	2	fb:cell.richmond	Richmond	richmond	Richmond	NNP	LOCATION					
+52	3	fb:cell.purdue	Purdue	purdue	Purdue	NNP	ORGANIZATION					Purdue
+52	4	fb:cell.null										
+53	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		1989
+53	1	fb:cell.pat_graham	Pat Graham	pat|graham	Pat|Graham	NNP|NNP	PERSON|PERSON	|				Pat Graham
+53	2	fb:cell.floyd_central	Floyd Central	floyd|central	Floyd|Central	NNP|NNP	PERSON|PERSON	|				
+53	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+53	4	fb:cell.null										
+54	0	fb:cell.1990	1990	1990	1990	CD	DATE	1990	1990.0	1990-xx-xx		1990
+54	1	fb:cell.damon_bailey	Damon Bailey	damon|bailey	Damon|Bailey	NNP|NNP	PERSON|PERSON	|				Damon Bailey
+54	2	fb:cell.bedford_north_lawrence	Bedford North Lawrence	bedford|north|lawrence	Bedford|North|Lawrence	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+54	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+54	4	fb:cell.1994_nba_draft_2nd_rnd_44th_overall_by_the_indiana_pacers	1994 NBA Draft: 2nd Rnd, 44th overall by the Indiana Pacers	1994|nba|draft|:|2nd|rnd|,|44th|overall|by|the|indiana|pacers	1994|NBA|draft|:|2nd|rnd|,|44th|overall|by|the|Indiana|Pacers	CD|NNP|NN|:|JJ|NN|,|JJ|JJ|IN|DT|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION	1994||||2.0|||44.0|||||	1994.0		2.0	1994 NBA Draft: 2nd Rnd|44th overall by the Indiana Pacers
+55	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		1991
+55	1	fb:cell.glenn_robinson	Glenn Robinson	glenn|robinson	Glenn|Robinson	NNP|NNP	PERSON|PERSON	|				Glenn Robinson
+55	2	fb:cell.gary_roosevelt	Gary Roosevelt	gary|roosevelt	Gary|Roosevelt	NNP|NNP	PERSON|PERSON	|				
+55	3	fb:cell.purdue	Purdue	purdue	Purdue	NNP	ORGANIZATION					Purdue
+55	4	fb:cell.1994_nba_draft_1st_rnd_1st_overall_by_the_milwaukee_bucks	1994 NBA Draft 1st Rnd, 1st overall by the Milwaukee Bucks	1994|nba|draft|1st|rnd|,|1st|overall|by|the|milwaukee|bucks	1994|NBA|draft|1st|rnd|,|1st|overall|by|the|Milwaukee|buck	CD|NNP|NN|CD|NN|,|JJ|JJ|IN|DT|NNP|NNS	DATE|ORGANIZATION|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|O	1994|||1.0|||1.0|||||	1994.0		1.0	1994 NBA Draft 1st Rnd|1st overall by the Milwaukee Bucks
+56	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		1992
+56	1	fb:cell.charles_macon	Charles Macon	charles|macon	Charles|Macon	NNP|NNP	PERSON|PERSON	|				Charles Macon
+56	2	fb:cell.michigan_city_elston	Michigan City Elston	michigan|city|elston	Michigan|City|Elston	NNP|NNP|NNP	LOCATION|LOCATION|LOCATION	||				
+56	3	fb:cell.ohio_state_1992_1994_central_michigan_1995_1997	Ohio State (1992–1994) / Central Michigan (1995–1997)	ohio|state|-lrb-|1992|--|1994|-rrb-|/|central|michigan|-lrb-|1995|--|1997|-rrb-	Ohio|State|-lrb-|1992|--|1994|-rrb-|/|central|Michigan|-lrb-|1995|--|1997|-rrb-	NNP|NNP|-LRB-|CD|:|CD|-RRB-|:|JJ|NNP|-LRB-|CD|:|CD|-RRB-	ORGANIZATION|ORGANIZATION|O|DATE|O|DATE|O|O|O|LOCATION|O|DATE|O|DATE|O	|||1992||1994||||||1995||1997|	1992.0		1994.0	Ohio State (1992–1994)|Central Michigan (1995–1997)
+56	4	fb:cell.null										
+57	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		1993
+57	1	fb:cell.maurice_kojak_fuller	Maurice "Kojak" Fuller	maurice|``|kojak|''|fuller	Maurice|``|Kojak|''|Fuller	NNP|``|NNP|''|NNP	PERSON|O|O|O|O	||||				Maurice "Kojak" Fuller
+57	2	fb:cell.anderson	Anderson	anderson	Anderson	NNP	PERSON					Anderson
+57	3	fb:cell.southern	Southern	southern	Southern	NNP	O					Southern
+57	4	fb:cell.null										
+58	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		1994
+58	1	fb:cell.bryce_drew	Bryce Drew	bryce|drew	Bryce|draw	NNP|VBD	PERSON|PERSON	|				Bryce Drew
+58	2	fb:cell.valparaiso	Valparaiso	valparaiso	Valparaiso	NNP	PERSON					Valparaiso
+58	3	fb:cell.valparaiso	Valparaiso	valparaiso	Valparaiso	NNP	PERSON					Valparaiso
+58	4	fb:cell.1998_nba_draft_1st_rnd_16th_overall_by_the_houston_rockets	1998 NBA Draft: 1st Rnd, 16th overall by the Houston Rockets	1998|nba|draft|:|1st|rnd|,|16th|overall|by|the|houston|rockets	1998|NBA|draft|:|1st|rnd|,|16th|overall|by|the|Houston|rocket	CD|NNP|NN|:|CD|NN|,|JJ|JJ|IN|DT|NNP|NNS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION	1998||||1.0|||16.0|||||	1998.0		1.0	1998 NBA Draft: 1st Rnd|16th overall by the Houston Rockets
+59	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		1995
+59	1	fb:cell.damon_frierson	Damon Frierson	damon|frierson	Damon|Frierson	NNP|NNP	PERSON|PERSON	|				Damon Frierson
+59	2	fb:cell.ben_davis	Ben Davis	ben|davis	Ben|Davis	NNP|NNP	PERSON|PERSON	|				
+59	3	fb:cell.miami_oh	Miami (OH)	miami|-lrb-|oh|-rrb-	Miami|-lrb-|oh|-rrb-	NNP|-LRB-|UH|-RRB-	LOCATION|O|O|O	|||				Miami (OH)
+59	4	fb:cell.null										
+60	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		1996
+60	1	fb:cell.kevin_ault	Kevin Ault	kevin|ault	Kevin|Ault	NNP|NNP	PERSON|PERSON	|				Kevin Ault
+60	2	fb:cell.warsaw	Warsaw	warsaw	Warsaw	NNP	LOCATION					
+60	3	fb:cell.missouri_state	Missouri State	missouri|state	Missouri|State	NNP|NNP	LOCATION|O	|				Missouri State
+60	4	fb:cell.null										
+61	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		1997
+61	1	fb:cell.luke_recker	Luke Recker	luke|recker	Luke|Recker	NNP|NNP	PERSON|PERSON	|				Luke Recker
+61	2	fb:cell.dekalb	DeKalb	dekalb	DeKalb	NNP	PERSON					
+61	3	fb:cell.indiana_1997_1999_iowa_2000_2002	Indiana (1997–1999) / Iowa (2000–2002)	indiana|-lrb-|1997|--|1999|-rrb-|/|iowa|-lrb-|2000|--|2002|-rrb-	Indiana|-lrb-|1997|--|1999|-rrb-|/|Iowa|-lrb-|2000|--|2002|-rrb-	NNP|-LRB-|CD|:|CD|-RRB-|:|NNP|-LRB-|CD|:|CD|-RRB-	LOCATION|O|DATE|O|DATE|O|O|LOCATION|O|DATE|O|DATE|O	||1997||1999|||||2000||2002|	1997.0		1999.0	Indiana (1997–1999)|Iowa (2000–2002)
+61	4	fb:cell.null										
+62	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		1998
+62	1	fb:cell.tom_coverdale	Tom Coverdale	tom|coverdale	Tom|Coverdale	NNP|NNP	PERSON|PERSON	|				Tom Coverdale
+62	2	fb:cell.noblesville	Noblesville	noblesville	Noblesville	NNP	LOCATION					
+62	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+62	4	fb:cell.null										
+63	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		1999
+63	1	fb:cell.jason_gardner	Jason Gardner	jason|gardner	Jason|Gardner	NNP|NNP	PERSON|PERSON	|				Jason Gardner
+63	2	fb:cell.indianapolis_north_central	Indianapolis North Central	indianapolis|north|central	Indianapolis|North|Central	NNP|NNP|NNP	LOCATION|O|O	||				
+63	3	fb:cell.arizona	Arizona	arizona	Arizona	NNP	LOCATION					Arizona
+63	4	fb:cell.null										
+64	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		2000
+64	1	fb:cell.jared_jeffries	Jared Jeffries	jared|jeffries	Jared|Jeffries	NNP|NNP	PERSON|PERSON	|				Jared Jeffries
+64	2	fb:cell.bloomington_north	Bloomington North	bloomington|north	Bloomington|North	NNP|NNP	PERSON|PERSON	|				
+64	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+64	4	fb:cell.2002_nba_draft_1st_rnd_11th_overall_by_the_washington_wizards	2002 NBA Draft: 1st Rnd, 11th overall by the Washington Wizards	2002|nba|draft|:|1st|rnd|,|11th|overall|by|the|washington|wizards	2002|NBA|draft|:|1st|rnd|,|11th|overall|by|the|Washington|wizard	CD|NNP|NN|:|CD|NN|,|JJ|JJ|IN|DT|NNP|NNS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION	2002||||1.0|||11.0|||||	2002.0		1.0	2002 NBA Draft: 1st Rnd|11th overall by the Washington Wizards
+65	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		2001
+65	1	fb:cell.chris_thomas	Chris Thomas	chris|thomas	Chris|Thomas	NNP|NNP	PERSON|PERSON	|				Chris Thomas
+65	2	fb:cell.indianapolis_pike	Indianapolis Pike	indianapolis|pike	Indianapolis|Pike	NNP|NNP	LOCATION|O	|				
+65	3	fb:cell.notre_dame	Notre Dame	notre|dame	Notre|Dame	NNP|NNP	LOCATION|LOCATION	|				Notre Dame
+65	4	fb:cell.null										
+66	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		2002
+66	1	fb:cell.sean_may	Sean May	sean|may	Sean|may	NNP|VBD-AUX	PERSON|PERSON	|				Sean May
+66	2	fb:cell.bloomington_north	Bloomington North	bloomington|north	Bloomington|North	NNP|NNP	PERSON|PERSON	|				
+66	3	fb:cell.north_carolina	North Carolina	north|carolina	North|Carolina	NNP|NNP	LOCATION|LOCATION	|				North Carolina
+66	4	fb:cell.2005_nba_draft_1st_rnd_13th_overall_by_the_charlotte_bobcats	2005 NBA Draft: 1st Rnd, 13th overall by the Charlotte Bobcats	2005|nba|draft|:|1st|rnd|,|13th|overall|by|the|charlotte|bobcats	2005|NBA|draft|:|1st|rnd|,|13th|overall|by|the|Charlotte|Bobcats	CD|NNP|NN|:|CD|NN|,|JJ|JJ|IN|DT|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|PERSON|PERSON	2005||||1.0|||13.0|||||	2005.0		1.0	2005 NBA Draft: 1st Rnd|13th overall by the Charlotte Bobcats
+67	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		2003
+67	1	fb:cell.justin_cage	Justin Cage	justin|cage	Justin|Cage	NNP|NNP	PERSON|PERSON	|				Justin Cage
+67	2	fb:cell.indianapolis_pike	Indianapolis Pike	indianapolis|pike	Indianapolis|Pike	NNP|NNP	LOCATION|O	|				
+67	3	fb:cell.xavier	Xavier	xavier	Xavier	NNP	PERSON					Xavier
+67	4	fb:cell.null										
+68	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		2004
+68	1	fb:cell.a_j_ratliff	A.J. Ratliff	a.j.|ratliff	A.J.|Ratliff	NNP|NNP	PERSON|PERSON	|				A.J. Ratliff
+68	2	fb:cell.indianapolis_north_central	Indianapolis North Central	indianapolis|north|central	Indianapolis|North|Central	NNP|NNP|NNP	LOCATION|O|O	||				
+68	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+68	4	fb:cell.null										
+69	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		2005
+69	1	fb:cell.luke_zeller	Luke Zeller	luke|zeller	Luke|Zeller	NNP|NNP	PERSON|PERSON	|				Luke Zeller
+69	2	fb:cell.washington	Washington	washington	Washington	NNP	LOCATION					
+69	3	fb:cell.notre_dame	Notre Dame	notre|dame	Notre|Dame	NNP|NNP	LOCATION|LOCATION	|				Notre Dame
+69	4	fb:cell.null										
+70	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		2006
+70	1	fb:cell.greg_oden	Greg Oden	greg|oden	Greg|Oden	NNP|NNP	PERSON|PERSON	|				Greg Oden
+70	2	fb:cell.lawrence_north	Lawrence North	lawrence|north	Lawrence|North	NNP|NNP	PERSON|PERSON	|				
+70	3	fb:cell.ohio_state	Ohio State	ohio|state	Ohio|State	NNP|NNP	LOCATION|O	|				Ohio State
+70	4	fb:cell.2007_nba_draft_1st_rnd_1st_overall_by_the_portland_trail_blazers	2007 NBA Draft: 1st Rnd, 1st overall by the Portland Trail Blazers	2007|nba|draft|:|1st|rnd|,|1st|overall|by|the|portland|trail|blazers	2007|NBA|draft|:|1st|rnd|,|1st|overall|by|the|Portland|trail|blazer	CD|NNP|NN|:|CD|NN|,|JJ|JJ|IN|DT|NNP|NN|NNS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|LOCATION|LOCATION|O	2007||||1.0|||1.0||||||	2007.0		1.0	2007 NBA Draft: 1st Rnd|1st overall by the Portland Trail Blazers
+71	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		2007
+71	1	fb:cell.eric_gordon	Eric Gordon	eric|gordon	Eric|Gordon	NNP|NNP	PERSON|PERSON	|				Eric Gordon
+71	2	fb:cell.indianapolis_north_central	Indianapolis North Central	indianapolis|north|central	Indianapolis|North|Central	NNP|NNP|NNP	LOCATION|O|O	||				
+71	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+71	4	fb:cell.2008_nba_draft_1st_rnd_7th_overall_by_the_los_angeles_clippers	2008 NBA Draft: 1st Rnd, 7th overall by the Los Angeles Clippers	2008|nba|draft|:|1st|rnd|,|7th|overall|by|the|los|angeles|clippers	2008|NBA|draft|:|1st|rnd|,|7th|overall|by|the|Los|Angeles|Clippers	CD|NNP|NN|:|CD|NN|,|JJ|JJ|IN|DT|NNP|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION	2008||||1.0|||7.0||||||	2008.0		1.0	2008 NBA Draft: 1st Rnd|7th overall by the Los Angeles Clippers
+72	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		2008
+72	1	fb:cell.tyler_zeller	Tyler Zeller	tyler|zeller	Tyler|Zeller	NNP|NNP	PERSON|PERSON	|				Tyler Zeller
+72	2	fb:cell.washington	Washington	washington	Washington	NNP	LOCATION					
+72	3	fb:cell.north_carolina	North Carolina	north|carolina	North|Carolina	NNP|NNP	LOCATION|LOCATION	|				North Carolina
+72	4	fb:cell.2012_nba_draft_1st_rnd_17th_overall_by_the_dallas_mavericks	2012 NBA Draft: 1st Rnd, 17th overall by the Dallas Mavericks	2012|nba|draft|:|1st|rnd|,|17th|overall|by|the|dallas|mavericks	2012|NBA|draft|:|1st|rnd|,|17th|overall|by|the|Dallas|Mavericks	CD|NNP|NN|:|CD|NN|,|JJ|JJ|IN|DT|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION	2012||||1.0|||17.0|||||	2012.0		1.0	2012 NBA Draft: 1st Rnd|17th overall by the Dallas Mavericks
+73	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		2009
+73	1	fb:cell.jordan_hulls	Jordan Hulls	jordan|hulls	Jordan|Hulls	NNP|NNPS	LOCATION|O	|				Jordan Hulls
+73	2	fb:cell.bloomington_south	Bloomington South	bloomington|south	Bloomington|South	NNP|NNP	LOCATION|LOCATION	|				
+73	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+73	4	fb:cell.null										
+74	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		2010
+74	1	fb:cell.deshaun_thomas	Deshaun Thomas	deshaun|thomas	Deshaun|Thomas	NNP|NNP	PERSON|PERSON	|				Deshaun Thomas
+74	2	fb:cell.bishop_luers	Bishop Luers	bishop|luers	Bishop|Luers	NNP|NNP	PERSON|PERSON	|				
+74	3	fb:cell.ohio_state	Ohio State	ohio|state	Ohio|State	NNP|NNP	LOCATION|O	|				Ohio State
+74	4	fb:cell.2013_nba_draft_2nd_rnd_58th_overall_by_the_san_antonio_spurs	2013 NBA Draft: 2nd Rnd, 58th overall by the San Antonio Spurs	2013|nba|draft|:|2nd|rnd|,|58th|overall|by|the|san|antonio|spurs	2013|NBA|draft|:|2nd|rnd|,|58th|overall|by|the|San|Antonio|spur	CD|NNP|NN|:|JJ|NN|,|JJ|JJ|IN|DT|NNP|NNP|VBZ	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION	2013||||2.0|||58.0||||||	2013.0		2.0	2013 NBA Draft: 2nd Rnd|58th overall by the San Antonio Spurs
+75	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		2011
+75	1	fb:cell.cody_zeller	Cody Zeller	cody|zeller	Cody|Zeller	NNP|NNP	PERSON|PERSON	|				Cody Zeller
+75	2	fb:cell.washington	Washington	washington	Washington	NNP	LOCATION					
+75	3	fb:cell.indiana	Indiana	indiana	Indiana	NNP	LOCATION					Indiana
+75	4	fb:cell.2013_nba_draft_1st_rnd_4th_overall_by_the_charlotte_bobcats	2013 NBA Draft: 1st Rnd, 4th overall by the Charlotte Bobcats	2013|nba|draft|:|1st|rnd|,|4th|overall|by|the|charlotte|bobcats	2013|NBA|draft|:|1st|rnd|,|4th|overall|by|the|Charlotte|Bobcats	CD|NNP|NN|:|CD|NN|,|JJ|JJ|IN|DT|NNP|NNPS	DATE|ORGANIZATION|O|O|ORDINAL|O|O|ORDINAL|O|O|O|ORGANIZATION|ORGANIZATION	2013||||1.0|||4.0|||||	2013.0		1.0	2013 NBA Draft: 1st Rnd|4th overall by the Charlotte Bobcats
+76	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		2012
+76	1	fb:cell.gary_harris	Gary Harris	gary|harris	Gary|Harris	NNP|NNP	PERSON|PERSON	|				Gary Harris
+76	2	fb:cell.hamilton_southeastern	Hamilton Southeastern	hamilton|southeastern	Hamilton|Southeastern	NNP|NNP	PERSON|O	|				
+76	3	fb:cell.michigan_state	Michigan State	michigan|state	Michigan|State	NNP|NNP	LOCATION|O	|				Michigan State
+76	4	fb:cell.null										
+77	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		2013
+77	1	fb:cell.zak_irvin	Zak Irvin	zak|irvin	Zak|Irvin	NNP|NNP	PERSON|PERSON	|				Zak Irvin
+77	2	fb:cell.hamilton_southeastern	Hamilton Southeastern	hamilton|southeastern	Hamilton|Southeastern	NNP|NNP	PERSON|O	|				
+77	3	fb:cell.michigan	Michigan	michigan	Michigan	NNP	LOCATION					Michigan
+77	4	fb:cell.null										

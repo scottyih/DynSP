@@ -1,0 +1,1177 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.date	Date	date	date	NN	O					
+-1	1	fb:row.row.constituency	Constituency	constituency	constituency	NN	O					
+-1	2	fb:row.row.c_u	c/u	c/u	c/u	NN	O					
+-1	3	fb:row.row.former_incumbent	Former Incumbent	former|incumbent	former|incumbent	JJ|JJ	O|O	|				
+-1	4	fb:row.row.winner	Winner	winner	winner	NN	O					
+-1	5	fb:row.row.cause	Cause	cause	cause	VB	O					
+0	0	fb:cell.20_december_1790	20 December 1790	20|december|1790	20|December|1790	CD|NNP|CD	DATE|DATE|DATE	1790-12-20|1790-12-20|1790-12-20	20.0	1790-12-20	1790.0	
+0	1	fb:cell.haslemere	Haslemere	haslemere	Haslemere	NNP	LOCATION					
+0	2	fb:cell.u	u	u	u	NNP	O					
+0	3	fb:cell.james_lowther	James Lowther	james|lowther	James|Lowther	NNP|NNP	PERSON|PERSON	|				James Lowther
+0	4	fb:cell.richard_penn	Richard Penn	richard|penn	Richard|Penn	NNP|NNP	PERSON|PERSON	|				Richard Penn
+0	5	fb:cell.chose_to_sit_for_westmorland	Chose to sit for Westmorland	chose|to|sit|for|westmorland	choose|to|sit|for|Westmorland	VBD|TO|VB|IN|NNP	O|O|O|O|PERSON	||||				
+1	0	fb:cell.21_december_1790	21 December 1790	21|december|1790	21|December|1790	CD|NNP|CD	DATE|DATE|DATE	1790-12-21|1790-12-21|1790-12-21	21.0	1790-12-21	1790.0	
+1	1	fb:cell.banbury	Banbury	banbury	Banbury	NNP	LOCATION					
+1	2	fb:cell.u	u	u	u	NNP	O					
+1	3	fb:cell.lord_north	Lord North	lord|north	Lord|North	NNP|NNP	PERSON|PERSON	|				Lord North
+1	4	fb:cell.lord_north	Lord North	lord|north	Lord|North	NNP|NNP	PERSON|PERSON	|				Lord North
+1	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+2	0	fb:cell.21_december_1790	21 December 1790	21|december|1790	21|December|1790	CD|NNP|CD	DATE|DATE|DATE	1790-12-21|1790-12-21|1790-12-21	21.0	1790-12-21	1790.0	
+2	1	fb:cell.oxford	Oxford	oxford	Oxford	NNP	LOCATION					
+2	2	fb:cell.c	c	c	c	NN	O					
+2	3	fb:cell.peregrine_bertie	Peregrine Bertie	peregrine|bertie	peregrine|Bertie	JJ|NNP	PERSON|PERSON	|				Peregrine Bertie
+2	4	fb:cell.arthur_annesley	Arthur Annesley	arthur|annesley	Arthur|Annesley	NNP|NNP	PERSON|PERSON	|				Arthur Annesley
+2	5	fb:cell.death	Death	death	death	NN	O					
+3	0	fb:cell.22_december_1790	22 December 1790	22|december|1790	22|December|1790	CD|NNP|CD	DATE|DATE|DATE	1790-12-22|1790-12-22|1790-12-22	22.0	1790-12-22	1790.0	
+3	1	fb:cell.heytesbury	Heytesbury	heytesbury	Heytesbury	NNP	PERSON					
+3	2	fb:cell.u	u	u	u	NNP	O					
+3	3	fb:cell.william_pierce_ashe_a_court	William Pierce Ashe à Court	william|pierce|ashe|à|court	William|Pierce|Ashe|à|Court	NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON	||||				William Pierce Ashe à Court
+3	4	fb:cell.michael_angelo_taylor	Michael Angelo Taylor	michael|angelo|taylor	Michael|Angelo|Taylor	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Michael Angelo Taylor
+3	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+4	0	fb:cell.22_december_1790	22 December 1790	22|december|1790	22|December|1790	CD|NNP|CD	DATE|DATE|DATE	1790-12-22|1790-12-22|1790-12-22	22.0	1790-12-22	1790.0	
+4	1	fb:cell.huntingdon	Huntingdon	huntingdon	Huntingdon	NNP	PERSON					
+4	2	fb:cell.u	u	u	u	NNP	O					
+4	3	fb:cell.john_george_montagu	John George Montagu	john|george|montagu	John|George|Montagu	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				John George Montagu
+4	4	fb:cell.henry_speed	Henry Speed	henry|speed	Henry|speed	NNP|NN	PERSON|PERSON	|				Henry Speed
+4	5	fb:cell.death	Death	death	death	NN	O					
+5	0	fb:cell.22_december_1790	22 December 1790	22|december|1790	22|December|1790	CD|NNP|CD	DATE|DATE|DATE	1790-12-22|1790-12-22|1790-12-22	22.0	1790-12-22	1790.0	
+5	1	fb:cell.warwick	Warwick	warwick	Warwick	NNP	PERSON					
+5	2	fb:cell.u	u	u	u	NNP	O					
+5	3	fb:cell.the_lord_arden	The Lord Arden	the|lord|arden	the|Lord|Arden	DT|NNP|NNP	O|O|PERSON	||				The Lord Arden
+5	4	fb:cell.the_lord_arden	The Lord Arden	the|lord|arden	the|Lord|Arden	DT|NNP|NNP	O|O|PERSON	||				The Lord Arden
+5	5	fb:cell.registrar_of_the_court_of_the_admiralty	Registrar of the Court of the Admiralty	registrar|of|the|court|of|the|admiralty	registrar|of|the|court|of|the|admiralty	NN|IN|DT|NN|IN|DT|NN	O|O|O|O|O|O|O	||||||				
+6	0	fb:cell.24_december_1790	24 December 1790	24|december|1790	24|December|1790	CD|NNP|CD	DATE|DATE|DATE	1790-12-24|1790-12-24|1790-12-24	24.0	1790-12-24	1790.0	
+6	1	fb:cell.great_bedwyn	Great Bedwyn	great|bedwyn	great|bedwyn	JJ|NN	O|O	|				
+6	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+6	3	fb:cell.marquess_of_graham	Marquess of Graham	marquess|of|graham	marquess|of|Graham	NN|IN|NNP	O|O|PERSON	||				Marquess of Graham
+6	4	fb:cell.viscount_stopford	Viscount Stopford	viscount|stopford	Viscount|Stopford	NNP|NNP	PERSON|PERSON	|				Viscount Stopford
+6	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+7	0	fb:cell.27_december_1790	27 December 1790	27|december|1790	27|December|1790	CD|NNP|CD	DATE|DATE|DATE	1790-12-27|1790-12-27|1790-12-27	27.0	1790-12-27	1790.0	
+7	1	fb:cell.buckinghamshire	Buckinghamshire	buckinghamshire	Buckinghamshire	NNP	LOCATION					
+7	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+7	3	fb:cell.william_wyndham_grenville	William Wyndham Grenville	william|wyndham|grenville	William|Wyndham|Grenville	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				William Wyndham Grenville
+7	4	fb:cell.james_grenville	James Grenville	james|grenville	James|Grenville	NNP|NNP	PERSON|PERSON	|				James Grenville
+7	5	fb:cell.elevated_to_the_peerage	Elevated to the peerage	elevated|to|the|peerage	elevated|to|the|peerage	JJ|TO|DT|NN	O|O|O|O	|||				
+8	0	fb:cell.27_december_1790	27 December 1790	27|december|1790	27|December|1790	CD|NNP|CD	DATE|DATE|DATE	1790-12-27|1790-12-27|1790-12-27	27.0	1790-12-27	1790.0	
+8	1	fb:cell.tavistock	Tavistock	tavistock	Tavistock	NNP	PERSON					
+8	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+8	3	fb:cell.charles_william_wyndham	Charles William Wyndham	charles|william|wyndham	Charles|William|Wyndham	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Charles William Wyndham
+8	4	fb:cell.lord_john_russell	Lord John Russell	lord|john|russell	Lord|John|Russell	NNP|NNP|NNP	O|PERSON|PERSON	||				Lord John Russell
+8	5	fb:cell.chose_to_sit_for_midhurst	Chose to sit for Midhurst	chose|to|sit|for|midhurst	choose|to|sit|for|Midhurst	VBD|TO|VB|IN|NNP	O|O|O|O|O	||||				
+9	0	fb:cell.28_december_1790	28 December 1790	28|december|1790	28|December|1790	CD|NNP|CD	DATE|DATE|DATE	1790-12-28|1790-12-28|1790-12-28	28.0	1790-12-28	1790.0	
+9	1	fb:cell.monmouth	Monmouth	monmouth	Monmouth	NNP	PERSON					
+9	2	fb:cell.u	u	u	u	NNP	O					
+9	3	fb:cell.marquess_of_worcester	Marquess of Worcester	marquess|of|worcester	marquess|of|Worcester	NN|IN|NNP	O|O|LOCATION	||				Marquess of Worcester
+9	4	fb:cell.charles_bragge	Charles Bragge	charles|bragge	Charles|Bragge	NNP|NNP	PERSON|PERSON	|				Charles Bragge
+9	5	fb:cell.chose_to_sit_for_bristol	Chose to sit for Bristol	chose|to|sit|for|bristol	choose|to|sit|for|Bristol	VBD|TO|VB|IN|NNP	O|O|O|O|LOCATION	||||				
+10	0	fb:cell.28_december_1790	28 December 1790	28|december|1790	28|December|1790	CD|NNP|CD	DATE|DATE|DATE	1790-12-28|1790-12-28|1790-12-28	28.0	1790-12-28	1790.0	
+10	1	fb:cell.weobley	Weobley	weobley	Weobley	NNP	PERSON					
+10	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+10	3	fb:cell.viscount_weymouth	Viscount Weymouth	viscount|weymouth	Viscount|Weymouth	NNP|NNP	PERSON|PERSON	|				Viscount Weymouth
+10	4	fb:cell.lord_george_thynne	Lord George Thynne	lord|george|thynne	Lord|George|Thynne	NNP|NNP|NNP	O|PERSON|PERSON	||				Lord George Thynne
+10	5	fb:cell.chose_to_sit_for_bath	Chose to sit for Bath	chose|to|sit|for|bath	choose|to|sit|for|bath	VBD|TO|VB|IN|NN	O|O|O|O|O	||||				
+11	0	fb:cell.29_december_1790	29 December 1790	29|december|1790	29|December|1790	CD|NNP|CD	DATE|DATE|DATE	1790-12-29|1790-12-29|1790-12-29	29.0	1790-12-29	1790.0	
+11	1	fb:cell.buckingham	Buckingham	buckingham	Buckingham	NNP	PERSON					
+11	2	fb:cell.u	u	u	u	NNP	O					
+11	3	fb:cell.james_grenville	James Grenville	james|grenville	James|Grenville	NNP|NNP	PERSON|PERSON	|				James Grenville
+11	4	fb:cell.sir_alexander_hood	Sir Alexander Hood	sir|alexander|hood	Sir|Alexander|hood	NNP|NNP|NN	O|PERSON|PERSON	||				Sir Alexander Hood
+11	5	fb:cell.resignation_to_contest_buckinghamshire	Resignation to contest Buckinghamshire	resignation|to|contest|buckinghamshire	resignation|to|contest|Buckinghamshire	NN|TO|VB|NNP	O|O|O|LOCATION	|||				
+12	0	fb:cell.29_december_1790	29 December 1790	29|december|1790	29|December|1790	CD|NNP|CD	DATE|DATE|DATE	1790-12-29|1790-12-29|1790-12-29	29.0	1790-12-29	1790.0	
+12	1	fb:cell.petersfield	Petersfield	petersfield	Petersfield	NNP	LOCATION					
+12	2	fb:cell.u	u	u	u	NNP	O					
+12	3	fb:cell.lord_north	Lord North	lord|north	Lord|North	NNP|NNP	PERSON|PERSON	|				Lord North
+12	4	fb:cell.marquess_of_titchfield	Marquess of Titchfield	marquess|of|titchfield	marquess|of|titchfield	NN|IN|NN	O|O|PERSON	||				Marquess of Titchfield
+12	5	fb:cell.resignation_to_contest_banbury	Resignation to contest Banbury	resignation|to|contest|banbury	resignation|to|contest|Banbury	NN|TO|VB|NNP	O|O|O|O	|||				
+13	0	fb:cell.31_december_1790	31 December 1790	31|december|1790	31|December|1790	CD|NNP|CD	DATE|DATE|DATE	1790-12-31|1790-12-31|1790-12-31	31.0	1790-12-31	1790.0	
+13	1	fb:cell.higham_ferrers	Higham Ferrers	higham|ferrers	Higham|Ferrers	NNP|NNP	PERSON|PERSON	|				
+13	2	fb:cell.u	u	u	u	NNP	O					
+13	3	fb:cell.viscount_duncannon	Viscount Duncannon	viscount|duncannon	Viscount|Duncannon	NNP|NNP	PERSON|PERSON	|				Viscount Duncannon
+13	4	fb:cell.john_lee	John Lee	john|lee	John|Lee	NNP|NNP	PERSON|PERSON	|				John Lee
+13	5	fb:cell.chose_to_sit_for_knaresborough	Chose to sit for Knaresborough	chose|to|sit|for|knaresborough	choose|to|sit|for|Knaresborough	VBD|TO|VB|IN|NNP	O|O|O|O|PERSON	||||				
+14	0	fb:cell.4_january_1791	4 January 1791	4|january|1791	4|January|1791	CD|NNP|CD	DATE|DATE|DATE	1791-01-04|1791-01-04|1791-01-04	4.0	1791-01-04	1791.0	
+14	1	fb:cell.yarmouth	Yarmouth	yarmouth	Yarmouth	NNP	LOCATION					
+14	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+14	3	fb:cell.thomas_clarke_jervoise	Thomas Clarke Jervoise	thomas|clarke|jervoise	Thomas|Clarke|Jervoise	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Thomas Clarke Jervoise
+14	4	fb:cell.jervoise_clarke_jervoise	Jervoise Clarke Jervoise	jervoise|clarke|jervoise	Jervoise|Clarke|Jervoise	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Jervoise Clarke Jervoise
+14	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+15	0	fb:cell.4_january_1791	4 January 1791	4|january|1791	4|January|1791	CD|NNP|CD	DATE|DATE|DATE	1791-01-04|1791-01-04|1791-01-04	4.0	1791-01-04	1791.0	
+15	1	fb:cell.yarmouth	Yarmouth	yarmouth	Yarmouth	NNP	LOCATION					
+15	2	fb:cell.u	u	u	u	NNP	O					
+15	3	fb:cell.edward_rushworth	Edward Rushworth	edward|rushworth	Edward|Rushworth	NNP|NNP	PERSON|PERSON	|				Edward Rushworth
+15	4	fb:cell.sir_john_fleming_leicester	Sir John Fleming Leicester	sir|john|fleming|leicester	Sir|John|Fleming|Leicester	NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||				Sir John Fleming Leicester
+15	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+16	0	fb:cell.7_january_1791	7 January 1791	7|january|1791	7|January|1791	CD|NNP|CD	DATE|DATE|DATE	1791-01-07|1791-01-07|1791-01-07	7.0	1791-01-07	1791.0	
+16	1	fb:cell.st_germans	St Germans	st|germans	St|Germans	NNP|NNPS	O|O	|				
+16	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+16	3	fb:cell.edward_james_eliot	Edward James Eliot	edward|james|eliot	Edward|James|Eliot	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Edward James Eliot
+16	4	fb:cell.william_eliot	William Eliot	william|eliot	William|Eliot	NNP|NNP	PERSON|PERSON	|				William Eliot
+16	5	fb:cell.chose_to_sit_for_liskeard	Chose to sit for Liskeard	chose|to|sit|for|liskeard	choose|to|sit|for|Liskeard	VBD|TO|VB|IN|NNP	O|O|O|O|O	||||				
+17	0	fb:cell.8_january_1791	8 January 1791	8|january|1791	8|January|1791	CD|NNP|CD	DATE|DATE|DATE	1791-01-08|1791-01-08|1791-01-08	8.0	1791-01-08	1791.0	
+17	1	fb:cell.camelford	Camelford	camelford	Camelford	NNP	PERSON					
+17	2	fb:cell.u	u	u	u	NNP	O					
+17	3	fb:cell.sir_samuel_hannay	Sir Samuel Hannay	sir|samuel|hannay	Sir|Samuel|Hannay	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Samuel Hannay
+17	4	fb:cell.william_smith	William Smith	william|smith	William|Smith	NNP|NNP	PERSON|PERSON	|				William Smith
+17	5	fb:cell.death	Death	death	death	NN	O					
+18	0	fb:cell.21_january_1791	21 January 1791	21|january|1791	21|January|1791	CD|NNP|CD	DATE|DATE|DATE	1791-01-21|1791-01-21|1791-01-21	21.0	1791-01-21	1791.0	
+18	1	fb:cell.appleby	Appleby	appleby	Appleby	NNP	PERSON					
+18	2	fb:cell.u	u	u	u	NNP	O					
+18	3	fb:cell.robert_banks_jenkinson	Robert Banks Jenkinson	robert|banks|jenkinson	Robert|Banks|Jenkinson	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Robert Banks Jenkinson
+18	4	fb:cell.william_grimston	William Grimston	william|grimston	William|Grimston	NNP|NNP	PERSON|PERSON	|				William Grimston
+18	5	fb:cell.chose_to_sit_for_rye	Chose to sit for Rye	chose|to|sit|for|rye	choose|to|sit|for|rye	VBD|TO|VB|IN|NN	O|O|O|O|O	||||				
+19	0	fb:cell.12_february_1791	12 February 1791	12|february|1791	12|February|1791	CD|NNP|CD	DATE|DATE|DATE	1791-02-12|1791-02-12|1791-02-12	12.0	1791-02-12	1791.0	
+19	1	fb:cell.cambridge	Cambridge	cambridge	Cambridge	NNP	LOCATION					
+19	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+19	3	fb:cell.francis_dickins	Francis Dickins	francis|dickins	Francis|Dickins	NNP|NNP	PERSON|PERSON	|				Francis Dickins
+19	4	fb:cell.robert_manners	Robert Manners	robert|manners	Robert|manners	NNP|NNS	PERSON|PERSON	|				Robert Manners
+19	5	fb:cell.chose_to_sit_for_northamptonshire	Chose to sit for Northamptonshire	chose|to|sit|for|northamptonshire	choose|to|sit|for|Northamptonshire	VBD|TO|VB|IN|NNP	O|O|O|O|ORGANIZATION	||||				
+20	0	fb:cell.28_february_1791	28 February 1791	28|february|1791	28|February|1791	CD|NNP|CD	DATE|DATE|DATE	1791-02-28|1791-02-28|1791-02-28	28.0	1791-02-28	1791.0	
+20	1	fb:cell.chichester	Chichester	chichester	Chichester	NNP	PERSON					
+20	2	fb:cell.c_2	c*	c|*	c|*	NNP|SYM	O|O	|				
+20	3	fb:cell.thomas_steele	Thomas Steele	thomas|steele	Thomas|Steele	NNP|NNP	PERSON|PERSON	|				Thomas Steele
+20	4	fb:cell.thomas_steele	Thomas Steele	thomas|steele	Thomas|Steele	NNP|NNP	PERSON|PERSON	|				Thomas Steele
+20	5	fb:cell.joint_paymaster_of_the_forces	Joint Paymaster of the Forces	joint|paymaster|of|the|forces	joint|paymaster|of|the|force	JJ|NN|IN|DT|NNS	O|O|O|O|O	||||				
+21	0	fb:cell.1_march_1791	1 March 1791	1|march|1791	1|March|1791	CD|NNP|CD	DATE|DATE|DATE	1791-03-01|1791-03-01|1791-03-01	1.0	1791-03-01	1791.0	
+21	1	fb:cell.dunwich	Dunwich	dunwich	Dunwich	NNP	O					
+21	2	fb:cell.u	u	u	u	NNP	O					
+21	3	fb:cell.barne_barne	Barne Barne	barne|barne	Barne|Barne	NNP|NNP	PERSON|PERSON	|				Barne Barne
+21	4	fb:cell.miles_barne	Miles Barne	miles|barne	mile|barne	NNS|VBP	PERSON|PERSON	|				Miles Barne
+21	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+22	0	fb:cell.2_march_1791	2 March 1791	2|march|1791	2|March|1791	CD|NNP|CD	DATE|DATE|DATE	1791-03-02|1791-03-02|1791-03-02	2.0	1791-03-02	1791.0	
+22	1	fb:cell.tiverton	Tiverton	tiverton	Tiverton	NNP	LOCATION					
+22	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+22	3	fb:cell.dudley_ryder	Dudley Ryder	dudley|ryder	Dudley|Ryder	NNP|NNP	PERSON|PERSON	|				Dudley Ryder
+22	4	fb:cell.dudley_ryder	Dudley Ryder	dudley|ryder	Dudley|Ryder	NNP|NNP	PERSON|PERSON	|				Dudley Ryder
+22	5	fb:cell.joint_paymaster_of_the_forces	Joint Paymaster of the Forces	joint|paymaster|of|the|forces	joint|paymaster|of|the|force	JJ|NN|IN|DT|NNS	O|O|O|O|O	||||				
+23	0	fb:cell.8_march_1791	8 March 1791	8|march|1791	8|March|1791	CD|NNP|CD	DATE|DATE|DATE	1791-03-08|1791-03-08|1791-03-08	8.0	1791-03-08	1791.0	
+23	1	fb:cell.heytesbury	Heytesbury	heytesbury	Heytesbury	NNP	PERSON					
+23	2	fb:cell.u	u	u	u	NNP	O					
+23	3	fb:cell.michael_angelo_taylor	Michael Angelo Taylor	michael|angelo|taylor	Michael|Angelo|Taylor	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Michael Angelo Taylor
+23	4	fb:cell.the_earl_of_barrymore	The Earl of Barrymore	the|earl|of|barrymore	the|Earl|of|Barrymore	DT|NNP|IN|NNP	O|O|O|PERSON	|||				The Earl of Barrymore
+23	5	fb:cell.chose_to_sit_for_poole	Chose to sit for Poole	chose|to|sit|for|poole	choose|to|sit|for|Poole	VBD|TO|VB|IN|NNP	O|O|O|O|PERSON	||||				
+24	0	fb:cell.12_march_1791	12 March 1791	12|march|1791	12|March|1791	CD|NNP|CD	DATE|DATE|DATE	1791-03-12|1791-03-12|1791-03-12	12.0	1791-03-12	1791.0	
+24	1	fb:cell.poole	Poole	poole	Poole	NNP	PERSON					
+24	2	fb:cell.c	c	c	c	NN	O					
+24	3	fb:cell.benjamin_lester	Benjamin Lester	benjamin|lester	Benjamin|Lester	NNP|NNP	PERSON|PERSON	|				Benjamin Lester
+24	4	fb:cell.benjamin_lester	Benjamin Lester	benjamin|lester	Benjamin|Lester	NNP|NNP	PERSON|PERSON	|				Benjamin Lester
+24	5	fb:cell.seeks_re_election_due_to_holding_admiralty_contract	Seeks re-election due to holding Admiralty contract	seeks|re|election|due|to|holding|admiralty|contract	seek|re|election|due|to|hold|admiralty|contract	VBZ|NNP|NN|JJ|TO|VBG|NN|NN	O|O|O|O|O|O|O|O	|||||||				
+25	0	fb:cell.24_march_1791	24 March 1791	24|march|1791	24|March|1791	CD|NNP|CD	DATE|DATE|DATE	1791-03-24|1791-03-24|1791-03-24	24.0	1791-03-24	1791.0	
+25	1	fb:cell.steyning	Steyning	steyning	steyne	VBG	O					
+25	2	fb:cell.c_3	c(*)	c|-lrb-|*|-rrb-	c|-lrb-|*|-rrb-	NN|-LRB-|NN|-RRB-	O|O|O|O	|||				
+25	3	fb:cell.sir_john_honywood	Sir John Honywood	sir|john|honywood	Sir|John|Honywood	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir John Honywood
+25	4	fb:cell.james_martin_lloyd	James Martin Lloyd	james|martin|lloyd	James|Martin|Lloyd	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				James Martin Lloyd
+25	5	fb:cell.chose_to_sit_for_canterbury	Chose to sit for Canterbury	chose|to|sit|for|canterbury	choose|to|sit|for|Canterbury	VBD|TO|VB|IN|NNP	O|O|O|O|ORGANIZATION	||||				
+26	0	fb:cell.24_march_1791	24 March 1791	24|march|1791	24|March|1791	CD|NNP|CD	DATE|DATE|DATE	1791-03-24|1791-03-24|1791-03-24	24.0	1791-03-24	1791.0	
+26	1	fb:cell.steyning	Steyning	steyning	steyne	VBG	O					
+26	2	fb:cell.c	c	c	c	NN	O					
+26	3	fb:cell.james_martin_lloyd	James Martin Lloyd	james|martin|lloyd	James|Martin|Lloyd	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				James Martin Lloyd
+26	4	fb:cell.samuel_whitbread	Samuel Whitbread	samuel|whitbread	Samuel|Whitbread	NNP|NNP	PERSON|PERSON	|				Samuel Whitbread
+26	5	fb:cell.by_election_result_reversed_on_petition_7_may_1792	By-election result reversed on petition 7 May 1792	by|election|result|reversed|on|petition|7|may|1792	by|election|result|reverse|on|petition|7|may|1792	IN|NN|VBP|VBN|IN|NN|CD|VBD-AUX|CD	O|O|O|O|O|O|DATE|DATE|DATE	||||||1792-05-07|1792-05-07|1792-05-07	7.0		1792.0	
+27	0	fb:cell.28_march_1791	28 March 1791	28|march|1791	28|March|1791	CD|NNP|CD	DATE|DATE|DATE	1791-03-28|1791-03-28|1791-03-28	28.0	1791-03-28	1791.0	
+27	1	fb:cell.lostwithiel	Lostwithiel	lostwithiel	lostwithiel	NN	PERSON					
+27	2	fb:cell.u	u	u	u	NNP	O					
+27	3	fb:cell.viscount_valletort	Viscount Valletort	viscount|valletort	Viscount|Valletort	NNP|NNP	PERSON|PERSON	|				Viscount Valletort
+27	4	fb:cell.george_smith	George Smith	george|smith	George|Smith	NNP|NNP	PERSON|PERSON	|				George Smith
+27	5	fb:cell.chose_to_sit_for_fowey	Chose to sit for Fowey	chose|to|sit|for|fowey	choose|to|sit|for|Fowey	VBD|TO|VB|IN|NNP	O|O|O|O|PERSON	||||				
+28	0	fb:cell.18_april_1791	18 April 1791	18|april|1791	18|April|1791	CD|NNP|CD	DATE|DATE|DATE	1791-04-18|1791-04-18|1791-04-18	18.0	1791-04-18	1791.0	
+28	1	fb:cell.buckinghamshire	Buckinghamshire	buckinghamshire	Buckinghamshire	NNP	LOCATION					
+28	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+28	3	fb:cell.the_earl_verney	The Earl Verney	the|earl|verney	the|Earl|Verney	DT|NNP|NNP	O|PERSON|PERSON	||				The Earl Verney
+28	4	fb:cell.marquess_of_titchfield	Marquess of Titchfield	marquess|of|titchfield	marquess|of|titchfield	NN|IN|NN	O|O|PERSON	||				Marquess of Titchfield
+28	5	fb:cell.death	Death	death	death	NN	O					
+29	0	fb:cell.27_april_1791	27 April 1791	27|april|1791	27|April|1791	CD|NNP|CD	DATE|DATE|DATE	1791-04-27|1791-04-27|1791-04-27	27.0	1791-04-27	1791.0	
+29	1	fb:cell.harwich	Harwich	harwich	Harwich	NNP	PERSON					
+29	2	fb:cell.u	u	u	u	NNP	O					
+29	3	fb:cell.thomas_orde	Thomas Orde	thomas|orde	Thomas|Orde	NNP|NNP	PERSON|PERSON	|				Thomas Orde
+29	4	fb:cell.thomas_orde	Thomas Orde	thomas|orde	Thomas|Orde	NNP|NNP	PERSON|PERSON	|				Thomas Orde
+29	5	fb:cell.governor_of_the_isle_of_wight	Governor of the Isle of Wight	governor|of|the|isle|of|wight	governor|of|the|Isle|of|Wight	NN|IN|DT|NNP|IN|NNP	O|O|O|O|O|O	|||||				
+30	0	fb:cell.28_april_1791	28 April 1791	28|april|1791	28|April|1791	CD|NNP|CD	DATE|DATE|DATE	1791-04-28|1791-04-28|1791-04-28	28.0	1791-04-28	1791.0	
+30	1	fb:cell.ludgershall	Ludgershall	ludgershall	ludgershall	NN	PERSON					
+30	2	fb:cell.c	c	c	c	NN	O					
+30	3	fb:cell.george_augustus_selwyn	George Augustus Selwyn	george|augustus|selwyn	George|Augustus|Selwyn	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				George Augustus Selwyn
+30	4	fb:cell.samuel_smith	Samuel Smith	samuel|smith	Samuel|Smith	NNP|NNP	PERSON|PERSON	|				Samuel Smith
+30	5	fb:cell.death	Death	death	death	NN	O					
+31	0	fb:cell.29_april_1791	29 April 1791	29|april|1791	29|April|1791	CD|NNP|CD	DATE|DATE|DATE	1791-04-29|1791-04-29|1791-04-29	29.0	1791-04-29	1791.0	
+31	1	fb:cell.petersfield	Petersfield	petersfield	Petersfield	NNP	LOCATION					
+31	2	fb:cell.u	u	u	u	NNP	O					
+31	3	fb:cell.marquess_of_titchfield	Marquess of Titchfield	marquess|of|titchfield	marquess|of|titchfield	NN|IN|NN	O|O|PERSON	||				Marquess of Titchfield
+31	4	fb:cell.welbore_ellis	Welbore Ellis	welbore|ellis	Welbore|Ellis	NNP|NNP	PERSON|PERSON	|				Welbore Ellis
+31	5	fb:cell.resignation_to_contest_buckinghamshire	Resignation to contest Buckinghamshire	resignation|to|contest|buckinghamshire	resignation|to|contest|Buckinghamshire	NN|TO|VB|NNP	O|O|O|LOCATION	|||				
+32	0	fb:cell.2_may_1791	2 May 1791	2|may|1791	2|may|1791	CD|VBD-AUX|CD	DATE|DATE|DATE	1791-05-02|1791-05-02|1791-05-02	2.0	1791-05-02	1791.0	
+32	1	fb:cell.minehead	Minehead	minehead	Minehead	NNP	O					
+32	2	fb:cell.u	u	u	u	NNP	O					
+32	3	fb:cell.viscount_parker	Viscount Parker	viscount|parker	Viscount|Parker	NNP|NNP	PERSON|PERSON	|				Viscount Parker
+32	4	fb:cell.viscount_parker	Viscount Parker	viscount|parker	Viscount|Parker	NNP|NNP	PERSON|PERSON	|				Viscount Parker
+32	5	fb:cell.comptroller_of_the_household	Comptroller of the Household	comptroller|of|the|household	comptroller|of|the|household	NN|IN|DT|NN	O|O|O|O	|||				
+33	0	fb:cell.4_may_1791	4 May 1791	4|may|1791	4|may|1791	CD|VBD-AUX|CD	DATE|DATE|DATE	1791-05-04|1791-05-04|1791-05-04	4.0	1791-05-04	1791.0	
+33	1	fb:cell.stirling_burghs	Stirling Burghs	stirling|burghs	Stirling|Burghs	NNP|NNP	PERSON|PERSON	|				
+33	2	fb:cell.c_2	c*	c|*	c|*	NNP|SYM	O|O	|				
+33	3	fb:cell.sir_archibald_campbell	Sir Archibald Campbell	sir|archibald|campbell	Sir|Archibald|Campbell	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Archibald Campbell
+33	4	fb:cell.andrew_james_cochrane	Andrew James Cochrane	andrew|james|cochrane	Andrew|James|Cochrane	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Andrew James Cochrane
+33	5	fb:cell.death	Death	death	death	NN	O					
+34	0	fb:cell.6_may_1791	6 May 1791	6|may|1791	6|may|1791	CD|VBD-AUX|CD	DATE|DATE|DATE	1791-05-06|1791-05-06|1791-05-06	6.0	1791-05-06	1791.0	
+34	1	fb:cell.dorset	Dorset	dorset	Dorset	NNP	PERSON					
+34	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+34	3	fb:cell.william_morton_pitt	William Morton Pitt	william|morton|pitt	William|Morton|Pitt	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				William Morton Pitt
+34	4	fb:cell.william_morton_pitt	William Morton Pitt	william|morton|pitt	William|Morton|Pitt	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				William Morton Pitt
+34	5	fb:cell.seeks_re_election_due_to_holding_contract_to_supply_cordage	Seeks re-election due to holding contract to supply cordage	seeks|re|election|due|to|holding|contract|to|supply|cordage	seek|re|election|due|to|hold|contract|to|supply|cordage	VBZ|NNP|NN|JJ|TO|VBG|NN|TO|VB|NN	O|O|O|O|O|O|O|O|O|O	|||||||||				
+35	0	fb:cell.12_may_1791	12 May 1791	12|may|1791	12|may|1791	CD|VBD-AUX|CD	DATE|DATE|DATE	1791-05-12|1791-05-12|1791-05-12	12.0	1791-05-12	1791.0	
+35	1	fb:cell.lymington	Lymington	lymington	Lymington	NNP	LOCATION					
+35	2	fb:cell.u	u	u	u	NNP	O					
+35	3	fb:cell.harry_burrard	Harry Burrard	harry|burrard	Harry|Burrard	NNP|NNP	PERSON|PERSON	|				Harry Burrard
+35	4	fb:cell.nathaniel_brassey_halhed	Nathaniel Brassey Halhed	nathaniel|brassey|halhed	Nathaniel|Brassey|halh	NNP|NNP|VBD	PERSON|PERSON|PERSON	||				Nathaniel Brassey Halhed
+35	5	fb:cell.resignation_riding_forester_of_the_new_forest	Resignation (Riding Forester of the New Forest)	resignation|-lrb-|riding|forester|of|the|new|forest|-rrb-	resignation|-lrb-|ride|forester|of|the|new|forest|-rrb-	NN|-LRB-|VBG|NN|IN|DT|JJ|NN|-RRB-	O|O|O|O|O|O|O|O|O	||||||||				
+36	0	fb:cell.18_may_1791	18 May 1791	18|may|1791	18|may|1791	CD|VBD-AUX|CD	DATE|DATE|DATE	1791-05-18|1791-05-18|1791-05-18	18.0	1791-05-18	1791.0	
+36	1	fb:cell.appleby	Appleby	appleby	Appleby	NNP	PERSON					
+36	2	fb:cell.u	u	u	u	NNP	O					
+36	3	fb:cell.richard_ford	Richard Ford	richard|ford	Richard|Ford	NNP|NNP	PERSON|PERSON	|				Richard Ford
+36	4	fb:cell.john_theophilus_rawdon	John Theophilus Rawdon	john|theophilus|rawdon	John|Theophilus|Rawdon	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				John Theophilus Rawdon
+36	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+37	0	fb:cell.14_june_1791	14 June 1791	14|june|1791	14|June|1791	CD|NNP|CD	DATE|DATE|DATE	1791-06-14|1791-06-14|1791-06-14	14.0	1791-06-14	1791.0	
+37	1	fb:cell.milborne_port	Milborne Port	milborne|port	Milborne|Port	NNP|NNP	LOCATION|O	|				
+37	2	fb:cell.u	u	u	u	NNP	O					
+37	3	fb:cell.william_coles_medlycott	William Coles Medlycott	william|coles|medlycott	William|Coles|Medlycott	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				William Coles Medlycott
+37	4	fb:cell.richard_johnson	Richard Johnson	richard|johnson	Richard|Johnson	NNP|NNP	PERSON|PERSON	|				Richard Johnson
+37	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+38	0	fb:cell.15_june_1791	15 June 1791	15|june|1791	15|June|1791	CD|NNP|CD	DATE|DATE|DATE	1791-06-15|1791-06-15|1791-06-15	15.0	1791-06-15	1791.0	
+38	1	fb:cell.edinburgh	Edinburgh	edinburgh	Edinburgh	NNP	LOCATION					
+38	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+38	3	fb:cell.henry_dundas	Henry Dundas	henry|dundas	Henry|Dundas	NNP|NNP	PERSON|PERSON	|				Henry Dundas
+38	4	fb:cell.henry_dundas	Henry Dundas	henry|dundas	Henry|Dundas	NNP|NNP	PERSON|PERSON	|				Henry Dundas
+38	5	fb:cell.home_secretary	Home Secretary	home|secretary	home|secretary	NN|NN	O|O	|				
+39	0	fb:cell.17_june_1791	17 June 1791	17|june|1791	17|June|1791	CD|NNP|CD	DATE|DATE|DATE	1791-06-17|1791-06-17|1791-06-17	17.0	1791-06-17	1791.0	
+39	1	fb:cell.dover	Dover	dover	Dover	NNP	O					
+39	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+39	3	fb:cell.charles_small_pybus	Charles Small Pybus	charles|small|pybus	Charles|Small|Pybus	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Charles Small Pybus
+39	4	fb:cell.charles_small_pybus	Charles Small Pybus	charles|small|pybus	Charles|Small|Pybus	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Charles Small Pybus
+39	5	fb:cell.lord_of_the_admiralty	Lord of the Admiralty	lord|of|the|admiralty	Lord|of|the|admiralty	NNP|IN|DT|NN	O|O|O|O	|||				
+40	0	fb:cell.17_june_1791	17 June 1791	17|june|1791	17|June|1791	CD|NNP|CD	DATE|DATE|DATE	1791-06-17|1791-06-17|1791-06-17	17.0	1791-06-17	1791.0	
+40	1	fb:cell.queenborough	Queenborough	queenborough	Queenborough	NNP	O					
+40	2	fb:cell.u	u	u	u	NNP	O					
+40	3	fb:cell.richard_hopkins	Richard Hopkins	richard|hopkins	Richard|Hopkins	NNP|NNP	PERSON|PERSON	|				Richard Hopkins
+40	4	fb:cell.richard_hopkins	Richard Hopkins	richard|hopkins	Richard|Hopkins	NNP|NNP	PERSON|PERSON	|				Richard Hopkins
+40	5	fb:cell.junior_lord_of_the_treasury	Junior Lord of the Treasury	junior|lord|of|the|treasury	Junior|Lord|of|the|Treasury	NNP|NNP|IN|DT|NNP	O|O|O|O|ORGANIZATION	||||				
+41	0	fb:cell.17_june_1791	17 June 1791	17|june|1791	17|June|1791	CD|NNP|CD	DATE|DATE|DATE	1791-06-17|1791-06-17|1791-06-17	17.0	1791-06-17	1791.0	
+41	1	fb:cell.weymouth_and_melcombe_regis	Weymouth and Melcombe Regis	weymouth|and|melcombe|regis	Weymouth|and|Melcombe|Regis	NNP|CC|NNP|NNP	LOCATION|O|PERSON|PERSON	|||				
+41	2	fb:cell.u	u	u	u	NNP	O					
+41	3	fb:cell.thomas_jones	Thomas Jones	thomas|jones	Thomas|Jones	NNP|NNP	PERSON|PERSON	|				Thomas Jones
+41	4	fb:cell.sir_james_johnstone	Sir James Johnstone	sir|james|johnstone	Sir|James|Johnstone	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir James Johnstone
+41	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+42	0	fb:cell.18_june_1791	18 June 1791	18|june|1791	18|June|1791	CD|NNP|CD	DATE|DATE|DATE	1791-06-18|1791-06-18|1791-06-18	18.0	1791-06-18	1791.0	
+42	1	fb:cell.haslemere	Haslemere	haslemere	Haslemere	NNP	LOCATION					
+42	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+42	3	fb:cell.richard_penn	Richard Penn	richard|penn	Richard|Penn	NNP|NNP	PERSON|PERSON	|				Richard Penn
+42	4	fb:cell.james_clarke_satterthwaite	James Clarke Satterthwaite	james|clarke|satterthwaite	James|Clarke|Satterthwaite	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				James Clarke Satterthwaite
+42	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+43	0	fb:cell.20_june_1791	20 June 1791	20|june|1791	20|June|1791	CD|NNP|CD	DATE|DATE|DATE	1791-06-20|1791-06-20|1791-06-20	20.0	1791-06-20	1791.0	
+43	1	fb:cell.pontefract	Pontefract	pontefract	Pontefract	NNP	LOCATION					
+43	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+43	3	fb:cell.john_smyth	John Smyth	john|smyth	John|Smyth	NNP|NNP	PERSON|PERSON	|				John Smyth
+43	4	fb:cell.john_smyth	John Smyth	john|smyth	John|Smyth	NNP|NNP	PERSON|PERSON	|				John Smyth
+43	5	fb:cell.lord_of_the_admiralty	Lord of the Admiralty	lord|of|the|admiralty	Lord|of|the|admiralty	NNP|IN|DT|NN	O|O|O|O	|||				
+44	0	fb:cell.26_august_1791	26 August 1791	26|august|1791	26|August|1791	CD|NNP|CD	DATE|DATE|DATE	1791-08-26|1791-08-26|1791-08-26	26.0	1791-08-26	1791.0	
+44	1	fb:cell.newtown	Newtown	newtown	Newtown	NNP	LOCATION					
+44	2	fb:cell.u	u	u	u	NNP	O					
+44	3	fb:cell.sir_richard_worsley	Sir Richard Worsley	sir|richard|worsley	Sir|Richard|Worsley	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Richard Worsley
+44	4	fb:cell.sir_richard_worsley	Sir Richard Worsley	sir|richard|worsley	Sir|Richard|Worsley	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Richard Worsley
+44	5	fb:cell.resignation_due_to_attempt_to_be_appointed_as_governor_of_the_isle_of_wight_and_was_then_re_elected	Resignation due to attempt to be appointed as Governor of the Isle of Wight and was then re-elected	resignation|due|to|attempt|to|be|appointed|as|governor|of|the|isle|of|wight|and|was|then|re|elected	resignation|due|to|attempt|to|be|appoint|as|governor|of|the|Isle|of|Wight|and|be|then|re|elect	NN|JJ|TO|VB|TO|VBD-AUX|VBN|IN|NN|IN|DT|NNP|IN|NNP|CC|VBD-AUX|RB|NNP|VBD	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||				
+45	0	fb:cell.17_january_1792	17 January 1792	17|january|1792	17|January|1792	CD|NNP|CD	DATE|DATE|DATE	1792-01-17|1792-01-17|1792-01-17	17.0	1792-01-17	1792.0	
+45	1	fb:cell.grantham	Grantham	grantham	Grantham	NNP	PERSON					
+45	2	fb:cell.u	u	u	u	NNP	O					
+45	3	fb:cell.francis_cockayne_cust	Francis Cockayne Cust	francis|cockayne|cust	Francis|cockayne|cust	NNP|NN|NN	PERSON|PERSON|PERSON	||				Francis Cockayne Cust
+45	4	fb:cell.philip_yorke	Philip Yorke	philip|yorke	Philip|Yorke	NNP|NNP	PERSON|PERSON	|				Philip Yorke
+45	5	fb:cell.death	Death	death	death	NN	O					
+46	0	fb:cell.18_january_1792	18 January 1792	18|january|1792	18|January|1792	CD|NNP|CD	DATE|DATE|DATE	1792-01-18|1792-01-18|1792-01-18	18.0	1792-01-18	1792.0	
+46	1	fb:cell.warwick	Warwick	warwick	Warwick	NNP	PERSON					
+46	2	fb:cell.c_2	c*	c|*	c|*	NNP|SYM	O|O	|				
+46	3	fb:cell.henry_gage	Henry Gage	henry|gage	Henry|Gage	NNP|NNP	PERSON|PERSON	|				Henry Gage
+46	4	fb:cell.george_villiers	George Villiers	george|villiers	George|Villiers	NNP|NNP	PERSON|PERSON	|				George Villiers
+46	5	fb:cell.elevated_to_the_peerage	Elevated to the peerage	elevated|to|the|peerage	elevated|to|the|peerage	JJ|TO|DT|NN	O|O|O|O	|||				
+47	0	fb:cell.25_january_1792	25 January 1792	25|january|1792	25|January|1792	CD|NNP|CD	DATE|DATE|DATE	1792-01-25|1792-01-25|1792-01-25	25.0	1792-01-25	1792.0	
+47	1	fb:cell.merioneth	Merioneth	merioneth	merioneth	NN	PERSON					
+47	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+47	3	fb:cell.evan_lloyd_vaughan	Evan Lloyd Vaughan	evan|lloyd|vaughan	Evan|Lloyd|Vaughan	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Evan Lloyd Vaughan
+47	4	fb:cell.robert_williames_vaughan	Robert Williames Vaughan	robert|williames|vaughan	Robert|Williames|Vaughan	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Robert Williames Vaughan
+47	5	fb:cell.death	Death	death	death	NN	O					
+48	0	fb:cell.7_february_1792	7 February 1792	7|february|1792	7|February|1792	CD|NNP|CD	DATE|DATE|DATE	1792-02-07|1792-02-07|1792-02-07	7.0	1792-02-07	1792.0	
+48	1	fb:cell.calne	Calne	calne	Calne	NNP	PERSON					
+48	2	fb:cell.u	u	u	u	NNP	O					
+48	3	fb:cell.john_morris	John Morris	john|morris	John|Morris	NNP|NNP	PERSON|PERSON	|				John Morris
+48	4	fb:cell.benjamin_vaughan	Benjamin Vaughan	benjamin|vaughan	Benjamin|Vaughan	NNP|NNP	PERSON|PERSON	|				Benjamin Vaughan
+48	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+49	0	fb:cell.10_february_1792	10 February 1792	10|february|1792	10|February|1792	CD|NNP|CD	DATE|DATE|DATE	1792-02-10|1792-02-10|1792-02-10	10.0	1792-02-10	1792.0	
+49	1	fb:cell.truro	Truro	truro	Truro	NNP	LOCATION					
+49	2	fb:cell.u	u	u	u	NNP	O					
+49	3	fb:cell.william_augustus_spencer_boscawen	William Augustus Spencer Boscawen	william|augustus|spencer|boscawen	William|Augustus|Spencer|Boscawen	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				William Augustus Spencer Boscawen
+49	4	fb:cell.charles_ingoldsby_paulet	Charles Ingoldsby Paulet	charles|ingoldsby|paulet	Charles|Ingoldsby|Paulet	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Charles Ingoldsby Paulet
+49	5	fb:cell.resignation_commissioner_of_the_salt_office	Resignation (Commissioner of the Salt Office)	resignation|-lrb-|commissioner|of|the|salt|office|-rrb-	resignation|-lrb-|commissioner|of|the|salt|office|-rrb-	NN|-LRB-|NN|IN|DT|NN|NN|-RRB-	O|O|O|O|O|O|O|O	|||||||				
+50	0	fb:cell.11_february_1792	11 February 1792	11|february|1792	11|February|1792	CD|NNP|CD	DATE|DATE|DATE	1792-02-11|1792-02-11|1792-02-11	11.0	1792-02-11	1792.0	
+50	1	fb:cell.great_bedwyn	Great Bedwyn	great|bedwyn	great|bedwyn	JJ|NN	O|O	|				
+50	2	fb:cell.u	u	u	u	NNP	O					
+50	3	fb:cell.lord_doune	Lord Doune	lord|doune	Lord|Doune	NNP|NNP	O|PERSON	|				Lord Doune
+50	4	fb:cell.edward_hyde_east	Edward Hyde East	edward|hyde|east	Edward|Hyde|East	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Edward Hyde East
+50	5	fb:cell.death	Death	death	death	NN	O					
+51	0	fb:cell.20_february_1792	20 February 1792	20|february|1792	20|February|1792	CD|NNP|CD	DATE|DATE|DATE	1792-02-20|1792-02-20|1792-02-20	20.0	1792-02-20	1792.0	
+51	1	fb:cell.malmesbury	Malmesbury	malmesbury	Malmesbury	NNP	LOCATION					
+51	2	fb:cell.u	u	u	u	NNP	O					
+51	3	fb:cell.paul_benfield	Paul Benfield	paul|benfield	Paul|Benfield	NNP|NNP	PERSON|PERSON	|				Paul Benfield
+51	4	fb:cell.sir_james_sanderson	Sir James Sanderson	sir|james|sanderson	Sir|James|Sanderson	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir James Sanderson
+51	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+52	0	fb:cell.21_february_1792	21 February 1792	21|february|1792	21|February|1792	CD|NNP|CD	DATE|DATE|DATE	1792-02-21|1792-02-21|1792-02-21	21.0	1792-02-21	1792.0	
+52	1	fb:cell.st_mawes	St Mawes	st|mawes	st|mawe	JJ|NNS	PERSON|PERSON	|				
+52	2	fb:cell.u	u	u	u	NNP	O					
+52	3	fb:cell.john_graves_simcoe	John Graves Simcoe	john|graves|simcoe	John|Graves|Simcoe	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				John Graves Simcoe
+52	4	fb:cell.thomas_calvert	Thomas Calvert	thomas|calvert	Thomas|Calvert	NNP|NNP	PERSON|PERSON	|				Thomas Calvert
+52	5	fb:cell.resignation_lieutenant_governor_of_upper_canada	Resignation (Lieutenant Governor of Upper Canada)	resignation|-lrb-|lieutenant|governor|of|upper|canada|-rrb-	resignation|-lrb-|lieutenant|governor|of|upper|Canada|-rrb-	NN|-LRB-|NN|NN|IN|JJ|NNP|-RRB-	O|O|O|O|O|O|LOCATION|O	|||||||				
+53	0	fb:cell.27_february_1792	27 February 1792	27|february|1792	27|February|1792	CD|NNP|CD	DATE|DATE|DATE	1792-02-27|1792-02-27|1792-02-27	27.0	1792-02-27	1792.0	
+53	1	fb:cell.leicestershire	Leicestershire	leicestershire	Leicestershire	NNP	LOCATION					
+53	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+53	3	fb:cell.sir_thomas_cave	Sir Thomas Cave	sir|thomas|cave	Sir|Thomas|Cave	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Thomas Cave
+53	4	fb:cell.penn_assheton_curzon	Penn Assheton Curzon	penn|assheton|curzon	Penn|Assheton|Curzon	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Penn Assheton Curzon
+53	5	fb:cell.death	Death	death	death	NN	O					
+54	0	fb:cell.28_february_1792	28 February 1792	28|february|1792	28|February|1792	CD|NNP|CD	DATE|DATE|DATE	1792-02-28|1792-02-28|1792-02-28	28.0	1792-02-28	1792.0	
+54	1	fb:cell.clitheroe	Clitheroe	clitheroe	Clitheroe	NNP	PERSON					
+54	2	fb:cell.u	u	u	u	NNP	O					
+54	3	fb:cell.penn_assheton_curzon	Penn Assheton Curzon	penn|assheton|curzon	Penn|Assheton|Curzon	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Penn Assheton Curzon
+54	4	fb:cell.assheton_curzon	Assheton Curzon	assheton|curzon	Assheton|Curzon	NNP|NNP	PERSON|PERSON	|				Assheton Curzon
+54	5	fb:cell.resignation_to_contest_leicestershire	Resignation to contest Leicestershire	resignation|to|contest|leicestershire	resignation|to|contest|leicestershire	NN|TO|NN|NN	O|O|O|LOCATION	|||				
+55	0	fb:cell.7_march_1792	7 March 1792	7|march|1792	7|March|1792	CD|NNP|CD	DATE|DATE|DATE	1792-03-07|1792-03-07|1792-03-07	7.0	1792-03-07	1792.0	
+55	1	fb:cell.rochester	Rochester	rochester	Rochester	NNP	LOCATION					
+55	2	fb:cell.c	c	c	c	NN	O					
+55	3	fb:cell.sir_richard_bickerton	Sir Richard Bickerton	sir|richard|bickerton	Sir|Richard|Bickerton	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Richard Bickerton
+55	4	fb:cell.nathaniel_smith	Nathaniel Smith	nathaniel|smith	Nathaniel|Smith	NNP|NNP	PERSON|PERSON	|				Nathaniel Smith
+55	5	fb:cell.death	Death	death	death	NN	O					
+56	0	fb:cell.19_march_1792	19 March 1792	19|march|1792	19|March|1792	CD|NNP|CD	DATE|DATE|DATE	1792-03-19|1792-03-19|1792-03-19	19.0	1792-03-19	1792.0	
+56	1	fb:cell.tewkesbury	Tewkesbury	tewkesbury	Tewkesbury	NNP	PERSON					
+56	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+56	3	fb:cell.sir_william_codrington	Sir William Codrington	sir|william|codrington	Sir|William|Codrington	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir William Codrington
+56	4	fb:cell.william_dowdeswell	William Dowdeswell	william|dowdeswell	William|Dowdeswell	NNP|NNP	PERSON|PERSON	|				William Dowdeswell
+56	5	fb:cell.death	Death	death	death	NN	O					
+57	0	fb:cell.7_may_1792	7 May 1792	7|may|1792	7|may|1792	CD|VBD-AUX|CD	DATE|DATE|DATE	1792-05-07|1792-05-07|1792-05-07	7.0	1792-05-07	1792.0	
+57	1	fb:cell.malton	Malton	malton	Malton	NNP	LOCATION					
+57	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+57	3	fb:cell.william_weddell	William Weddell	william|weddell	William|Weddell	NNP|NNP	PERSON|PERSON	|				William Weddell
+57	4	fb:cell.george_damer	George Damer	george|damer	George|Damer	NNP|NNP	PERSON|PERSON	|				George Damer
+57	5	fb:cell.death	Death	death	death	NN	O					
+58	0	fb:cell.15_may_1792	15 May 1792	15|may|1792	15|may|1792	CD|VBD-AUX|CD	DATE|DATE|DATE	1792-05-15|1792-05-15|1792-05-15	15.0	1792-05-15	1792.0	
+58	1	fb:cell.huntingdonshire	Huntingdonshire	huntingdonshire	Huntingdonshire	NNP	LOCATION					
+58	2	fb:cell.u	u	u	u	NNP	O					
+58	3	fb:cell.viscount_hinchingbrooke	Viscount Hinchingbrooke	viscount|hinchingbrooke	Viscount|Hinchingbrooke	NNP|NNP	PERSON|PERSON	|				Viscount Hinchingbrooke
+58	4	fb:cell.lancelot_brown	Lancelot Brown	lancelot|brown	Lancelot|Brown	NNP|NNP	PERSON|PERSON	|				Lancelot Brown
+58	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+59	0	fb:cell.18_may_1792	18 May 1792	18|may|1792	18|may|1792	CD|VBD-AUX|CD	DATE|DATE|DATE	1792-05-18|1792-05-18|1792-05-18	18.0	1792-05-18	1792.0	
+59	1	fb:cell.aberdeen_burghs	Aberdeen Burghs	aberdeen|burghs	Aberdeen|Burghs	NNP|NNP	PERSON|PERSON	|				
+59	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+59	3	fb:cell.alexander_callender	Alexander Callender	alexander|callender	Alexander|Callender	NNP|NNP	PERSON|PERSON	|				Alexander Callender
+59	4	fb:cell.alexander_allardyce	Alexander Allardyce	alexander|allardyce	Alexander|Allardyce	NNP|NNP	PERSON|PERSON	|				Alexander Allardyce
+59	5	fb:cell.death	Death	death	death	NN	O					
+60	0	fb:cell.28_june_1792	28 June 1792	28|june|1792	28|June|1792	CD|NNP|CD	DATE|DATE|DATE	1792-06-28|1792-06-28|1792-06-28	28.0	1792-06-28	1792.0	
+60	1	fb:cell.liskeard	Liskeard	liskeard	Liskeard	NNP	O					
+60	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+60	3	fb:cell.edward_james_eliot	Edward James Eliot	edward|james|eliot	Edward|James|Eliot	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Edward James Eliot
+60	4	fb:cell.edward_james_eliot	Edward James Eliot	edward|james|eliot	Edward|James|Eliot	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Edward James Eliot
+60	5	fb:cell.commissioner_of_the_board_of_control	Commissioner of the Board of Control	commissioner|of|the|board|of|control	commissioner|of|the|board|of|control	NN|IN|DT|NN|IN|NN	O|O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||||				
+61	0	fb:cell.16_august_1792	16 August 1792	16|august|1792	16|August|1792	CD|NNP|CD	DATE|DATE|DATE	1792-08-16|1792-08-16|1792-08-16	16.0	1792-08-16	1792.0	
+61	1	fb:cell.monmouthshire	Monmouthshire	monmouthshire	monmouthshire	NN	PERSON					
+61	2	fb:cell.u	u	u	u	NNP	O					
+61	3	fb:cell.john_morgan	John Morgan	john|morgan	John|Morgan	NNP|NNP	PERSON|PERSON	|				John Morgan
+61	4	fb:cell.robert_salusbury	Robert Salusbury	robert|salusbury	Robert|Salusbury	NNP|NNP	PERSON|PERSON	|				Robert Salusbury
+61	5	fb:cell.death	Death	death	death	NN	O					
+62	0	fb:cell.6_september_1792	6 September 1792	6|september|1792	6|September|1792	CD|NNP|CD	DATE|DATE|DATE	1792-09-06|1792-09-06|1792-09-06	6.0	1792-09-06	1792.0	
+62	1	fb:cell.preston	Preston	preston	Preston	NNP	PERSON					
+62	2	fb:cell.u	u	u	u	NNP	O					
+62	3	fb:cell.john_burgoyne	John Burgoyne	john|burgoyne	John|Burgoyne	NNP|NNP	PERSON|PERSON	|				John Burgoyne
+62	4	fb:cell.william_cunliffe_shawe	William Cunliffe Shawe	william|cunliffe|shawe	William|Cunliffe|Shawe	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				William Cunliffe Shawe
+62	5	fb:cell.death	Death	death	death	NN	O					
+63	0	fb:cell.11_september_1792	11 September 1792	11|september|1792	11|September|1792	CD|NNP|CD	DATE|DATE|DATE	1792-09-11|1792-09-11|1792-09-11	11.0	1792-09-11	1792.0	
+63	1	fb:cell.eye	Eye	eye	eye	NN	O					
+63	2	fb:cell.u	u	u	u	NNP	O					
+63	3	fb:cell.richard_burton_phillipson	Richard Burton Phillipson	richard|burton|phillipson	Richard|Burton|Phillipson	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Richard Burton Phillipson
+63	4	fb:cell.peter_bathurst	Peter Bathurst	peter|bathurst	Peter|Bathurst	NNP|NNP	PERSON|PERSON	|				Peter Bathurst
+63	5	fb:cell.death	Death	death	death	NN	O					
+64	0	fb:cell.14_september_1792	14 September 1792	14|september|1792	14|September|1792	CD|NNP|CD	DATE|DATE|DATE	1792-09-14|1792-09-14|1792-09-14	14.0	1792-09-14	1792.0	
+64	1	fb:cell.somerset	Somerset	somerset	Somerset	NNP	O					
+64	2	fb:cell.u	u	u	u	NNP	O					
+64	3	fb:cell.edward_phelips	Edward Phelips	edward|phelips	Edward|Phelips	NNP|NNP	PERSON|PERSON	|				Edward Phelips
+64	4	fb:cell.henry_hippisley_coxe	Henry Hippisley Coxe	henry|hippisley|coxe	Henry|Hippisley|Coxe	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Henry Hippisley Coxe
+64	5	fb:cell.death	Death	death	death	NN	O					
+65	0	fb:cell.15_september_1792	15 September 1792	15|september|1792	15|September|1792	CD|NNP|CD	DATE|DATE|DATE	1792-09-15|1792-09-15|1792-09-15	15.0	1792-09-15	1792.0	
+65	1	fb:cell.newcastle_under_lyme	Newcastle-under-Lyme	newcastle|under|lyme	Newcastle|under|lyme	NNP|IN|NN	ORGANIZATION|O|O	||				
+65	2	fb:cell.c_2	c*	c|*	c|*	NNP|SYM	O|O	|				
+65	3	fb:cell.john_leveson_gower	John Leveson Gower	john|leveson|gower	John|Leveson|Gower	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				John Leveson Gower
+65	4	fb:cell.william_egerton	William Egerton	william|egerton	William|Egerton	NNP|NNP	PERSON|PERSON	|				William Egerton
+65	5	fb:cell.death	Death	death	death	NN	O					
+66	0	fb:cell.21_september_1792	21 September 1792	21|september|1792	21|September|1792	CD|NNP|CD	DATE|DATE|DATE	1792-09-21|1792-09-21|1792-09-21	21.0	1792-09-21	1792.0	
+66	1	fb:cell.banbury	Banbury	banbury	Banbury	NNP	LOCATION					
+66	2	fb:cell.u	u	u	u	NNP	O					
+66	3	fb:cell.lord_north	Lord North	lord|north	Lord|North	NNP|NNP	PERSON|PERSON	|				Lord North
+66	4	fb:cell.frederick_north	Frederick North	frederick|north	Frederick|North	NNP|NNP	PERSON|PERSON	|				Frederick North
+66	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+67	0	fb:cell.24_october_1792	24 October 1792	24|october|1792	24|October|1792	CD|NNP|CD	DATE|DATE|DATE	1792-10-24|1792-10-24|1792-10-24	24.0	1792-10-24	1792.0	
+67	1	fb:cell.winchelsea	Winchelsea	winchelsea	Winchelsea	NNP	PERSON					
+67	2	fb:cell.u	u	u	u	NNP	O					
+67	3	fb:cell.viscount_barnard	Viscount Barnard	viscount|barnard	Viscount|Barnard	NNP|NNP	PERSON|PERSON	|				Viscount Barnard
+67	4	fb:cell.sir_frederick_fletcher_vane	Sir Frederick Fletcher Vane	sir|frederick|fletcher|vane	Sir|Frederick|Fletcher|vane	NNP|NNP|NNP|NN	O|PERSON|PERSON|PERSON	|||				Sir Frederick Fletcher Vane
+67	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+68	0	fb:cell.18_december_1792	18 December 1792	18|december|1792	18|December|1792	CD|NNP|CD	DATE|DATE|DATE	1792-12-18|1792-12-18|1792-12-18	18.0	1792-12-18	1792.0	
+68	1	fb:cell.cambridge_university	Cambridge University	cambridge|university	Cambridge|University	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+68	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+68	3	fb:cell.william_pitt_the_younger	William Pitt the Younger	william|pitt|the|younger	William|Pitt|the|younger	NNP|NNP|DT|JJR	PERSON|PERSON|PERSON|PERSON	|||				William Pitt the Younger
+68	4	fb:cell.william_pitt_the_younger	William Pitt the Younger	william|pitt|the|younger	William|Pitt|the|younger	NNP|NNP|DT|JJR	PERSON|PERSON|PERSON|PERSON	|||				William Pitt the Younger
+68	5	fb:cell.lord_warden_of_the_cinque_ports	Lord Warden of the Cinque Ports	lord|warden|of|the|cinque|ports	Lord|warden|of|the|cinque|port	NNP|NN|IN|DT|JJ|NNS	O|O|O|O|O|O	|||||				
+69	0	fb:cell.19_december_1792	19 December 1792	19|december|1792	19|December|1792	CD|NNP|CD	DATE|DATE|DATE	1792-12-19|1792-12-19|1792-12-19	19.0	1792-12-19	1792.0	
+69	1	fb:cell.guildford	Guildford	guildford	Guildford	NNP	LOCATION					
+69	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+69	3	fb:cell.thomas_onslow	Thomas Onslow	thomas|onslow	Thomas|Onslow	NNP|NNP	PERSON|PERSON	|				Thomas Onslow
+69	4	fb:cell.thomas_onslow	Thomas Onslow	thomas|onslow	Thomas|Onslow	NNP|NNP	PERSON|PERSON	|				Thomas Onslow
+69	5	fb:cell.out_ranger_of_windsor_forest	Out-Ranger of Windsor Forest	out|ranger|of|windsor|forest	out|ranger|of|Windsor|Forest	IN|NN|IN|NNP|NNP	O|O|O|LOCATION|LOCATION	||||				
+70	0	fb:cell.7_january_1793	7 January 1793	7|january|1793	7|January|1793	CD|NNP|CD	DATE|DATE|DATE	1793-01-07|1793-01-07|1793-01-07	7.0	1793-01-07	1793.0	
+70	1	fb:cell.grantham	Grantham	grantham	Grantham	NNP	PERSON					
+70	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+70	3	fb:cell.philip_yorke	Philip Yorke	philip|yorke	Philip|Yorke	NNP|NNP	PERSON|PERSON	|				Philip Yorke
+70	4	fb:cell.simon_yorke	Simon Yorke	simon|yorke	Simon|Yorke	NNP|NNP	PERSON|PERSON	|				Simon Yorke
+70	5	fb:cell.death	Death	death	death	NN	O					
+71	0	fb:cell.8_february_1793	8 February 1793	8|february|1793	8|February|1793	CD|NNP|CD	DATE|DATE|DATE	1793-02-08|1793-02-08|1793-02-08	8.0	1793-02-08	1793.0	
+71	1	fb:cell.lyme_regis	Lyme Regis	lyme|regis	lyme|regi	NN|NN	O|O	|				
+71	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+71	3	fb:cell.thomas_fane	Thomas Fane	thomas|fane	Thomas|Fane	NNP|NNP	PERSON|PERSON	|				Thomas Fane
+71	4	fb:cell.thomas_fane	Thomas Fane	thomas|fane	Thomas|Fane	NNP|NNP	PERSON|PERSON	|				Thomas Fane
+71	5	fb:cell.groom_of_the_bedchamber	Groom of the Bedchamber	groom|of|the|bedchamber	Groom|of|the|bedchamber	NNP|IN|DT|NN	O|O|O|O	|||				
+72	0	fb:cell.13_february_1793	13 February 1793	13|february|1793	13|February|1793	CD|NNP|CD	DATE|DATE|DATE	1793-02-13|1793-02-13|1793-02-13	13.0	1793-02-13	1793.0	
+72	1	fb:cell.newport_i_o_w	Newport (I.o.w)	newport|-lrb-|i.o.w|-rrb-	Newport|-lrb-|I.o.w|-rrb-	NNP|-LRB-|NNP|-RRB-	LOCATION|O|O|O	|||				
+72	2	fb:cell.u	u	u	u	NNP	O					
+72	3	fb:cell.the_viscount_melbourne	The Viscount Melbourne	the|viscount|melbourne	the|Viscount|Melbourne	DT|NNP|NNP	O|PERSON|PERSON	||				The Viscount Melbourne
+72	4	fb:cell.peniston_lamb	Peniston Lamb	peniston|lamb	Peniston|Lamb	NNP|NNP	PERSON|PERSON	|				Peniston Lamb
+72	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+73	0	fb:cell.20_february_1793	20 February 1793	20|february|1793	20|February|1793	CD|NNP|CD	DATE|DATE|DATE	1793-02-20|1793-02-20|1793-02-20	20.0	1793-02-20	1793.0	
+73	1	fb:cell.bere_alston	Bere Alston	bere|alston	Bere|Alston	NNP|NNP	PERSON|PERSON	|				
+73	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+73	3	fb:cell.john_mitford	John Mitford	john|mitford	John|Mitford	NNP|NNP	PERSON|PERSON	|				John Mitford
+73	4	fb:cell.sir_john_mitford	Sir John Mitford	sir|john|mitford	Sir|John|Mitford	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir John Mitford
+73	5	fb:cell.solicitor_general_for_england_and_wales	Solicitor General for England and Wales	solicitor|general|for|england|and|wales	solicitor|general|for|England|and|Wales	NN|NN|IN|NNP|CC|NNP	O|O|O|LOCATION|O|LOCATION	|||||				
+74	0	fb:cell.20_february_1793	20 February 1793	20|february|1793	20|February|1793	CD|NNP|CD	DATE|DATE|DATE	1793-02-20|1793-02-20|1793-02-20	20.0	1793-02-20	1793.0	
+74	1	fb:cell.weobley	Weobley	weobley	Weobley	NNP	PERSON					
+74	2	fb:cell.u	u	u	u	NNP	O					
+74	3	fb:cell.sir_john_scott	Sir John Scott	sir|john|scott	Sir|John|Scott	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir John Scott
+74	4	fb:cell.sir_john_scott	Sir John Scott	sir|john|scott	Sir|John|Scott	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir John Scott
+74	5	fb:cell.attorney_general_for_england_and_wales	Attorney General for England and Wales	attorney|general|for|england|and|wales	attorney|general|for|England|and|Wales	NN|NN|IN|NNP|CC|NNP	O|O|O|LOCATION|O|LOCATION	|||||				
+75	0	fb:cell.22_february_1793	22 February 1793	22|february|1793	22|February|1793	CD|NNP|CD	DATE|DATE|DATE	1793-02-22|1793-02-22|1793-02-22	22.0	1793-02-22	1793.0	
+75	1	fb:cell.newcastle_under_lyme	Newcastle-under-Lyme	newcastle|under|lyme	Newcastle|under|lyme	NNP|IN|NN	ORGANIZATION|O|O	||				
+75	2	fb:cell.c	c	c	c	NN	O					
+75	3	fb:cell.sir_archibald_macdonald	Sir Archibald Macdonald	sir|archibald|macdonald	Sir|Archibald|Macdonald	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Archibald Macdonald
+75	4	fb:cell.sir_francis_ford	Sir Francis Ford	sir|francis|ford	Sir|Francis|Ford	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Francis Ford
+75	5	fb:cell.resignation_lord_chief_baron_of_the_exchequer	Resignation (Lord Chief Baron of the Exchequer)	resignation|-lrb-|lord|chief|baron|of|the|exchequer|-rrb-	resignation|-lrb-|lord|chief|Baron|of|the|Exchequer|-rrb-	NN|-LRB-|NN|NN|NNP|IN|DT|NNP|-RRB-	O|O|O|O|O|O|O|O|O	||||||||				
+76	0	fb:cell.6_march_1793	6 March 1793	6|march|1793	6|March|1793	CD|NNP|CD	DATE|DATE|DATE	1793-03-06|1793-03-06|1793-03-06	6.0	1793-03-06	1793.0	
+76	1	fb:cell.city_of_london	City of London	city|of|london	city|of|London	NN|IN|NNP	O|O|LOCATION	||				
+76	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+76	3	fb:cell.brook_watson	Brook Watson	brook|watson	Brook|Watson	NNP|NNP	PERSON|PERSON	|				Brook Watson
+76	4	fb:cell.john_william_anderson	John William Anderson	john|william|anderson	John|William|Anderson	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				John William Anderson
+76	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+77	0	fb:cell.20_march_1793	20 March 1793	20|march|1793	20|March|1793	CD|NNP|CD	DATE|DATE|DATE	1793-03-20|1793-03-20|1793-03-20	20.0	1793-03-20	1793.0	
+77	1	fb:cell.anstruther_easter	Anstruther Easter	anstruther|easter	Anstruther|Easter	NNP|NNP	O|DATE	|EASTER				
+77	2	fb:cell.u	u	u	u	NNP	O					
+77	3	fb:cell.sir_john_anstruther	Sir John Anstruther	sir|john|anstruther	Sir|John|Anstruther	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir John Anstruther
+77	4	fb:cell.robert_anstruther	Robert Anstruther	robert|anstruther	Robert|Anstruther	NNP|NNP	PERSON|PERSON	|				Robert Anstruther
+77	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+78	0	fb:cell.22_march_1793	22 March 1793	22|march|1793	22|March|1793	CD|NNP|CD	DATE|DATE|DATE	1793-03-22|1793-03-22|1793-03-22	22.0	1793-03-22	1793.0	
+78	1	fb:cell.heytesbury	Heytesbury	heytesbury	Heytesbury	NNP	PERSON					
+78	2	fb:cell.u	u	u	u	NNP	O					
+78	3	fb:cell.the_earl_of_barrymore	The Earl of Barrymore	the|earl|of|barrymore	the|Earl|of|Barrymore	DT|NNP|IN|NNP	O|O|O|PERSON	|||				The Earl of Barrymore
+78	4	fb:cell.charles_rose_ellis	Charles Rose Ellis	charles|rose|ellis	Charles|rise|Ellis	NNP|VBD|NNP	PERSON|PERSON|PERSON	||				Charles Rose Ellis
+78	5	fb:cell.death	Death	death	death	NN	O					
+79	0	fb:cell.30_march_1793	30 March 1793	30|march|1793	30|March|1793	CD|NNP|CD	DATE|DATE|DATE	1793-03-30|1793-03-30|1793-03-30	30.0	1793-03-30	1793.0	
+79	1	fb:cell.knaresborough	Knaresborough	knaresborough	Knaresborough	NNP	PERSON					
+79	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+79	3	fb:cell.viscount_duncannon	Viscount Duncannon	viscount|duncannon	Viscount|Duncannon	NNP|NNP	PERSON|PERSON	|				Viscount Duncannon
+79	4	fb:cell.lord_john_townshend	Lord John Townshend	lord|john|townshend	Lord|John|Townshend	NNP|NNP|NNP	O|PERSON|PERSON	||				Lord John Townshend
+79	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+80	0	fb:cell.30_march_1793	30 March 1793	30|march|1793	30|March|1793	CD|NNP|CD	DATE|DATE|DATE	1793-03-30|1793-03-30|1793-03-30	30.0	1793-03-30	1793.0	
+80	1	fb:cell.warwickshire	Warwickshire	warwickshire	Warwickshire	NNP	ORGANIZATION					
+80	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+80	3	fb:cell.sir_robert_lawley	Sir Robert Lawley	sir|robert|lawley	Sir|Robert|Lawley	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Robert Lawley
+80	4	fb:cell.sir_john_mordaunt	Sir John Mordaunt	sir|john|mordaunt	Sir|John|Mordaunt	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir John Mordaunt
+80	5	fb:cell.death	Death	death	death	NN	O					
+81	0	fb:cell.9_april_1793	9 April 1793	9|april|1793	9|April|1793	CD|NNP|CD	DATE|DATE|DATE	1793-04-09|1793-04-09|1793-04-09	9.0	1793-04-09	1793.0	
+81	1	fb:cell.carmarthenshire	Carmarthenshire	carmarthenshire	Carmarthenshire	NNP	ORGANIZATION					
+81	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+81	3	fb:cell.george_talbot_rice	George Talbot Rice	george|talbot|rice	George|Talbot|Rice	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				George Talbot Rice
+81	4	fb:cell.james_hamlyn	James Hamlyn	james|hamlyn	James|Hamlyn	NNP|NNP	PERSON|PERSON	|				James Hamlyn
+81	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+82	0	fb:cell.17_april_1793	17 April 1793	17|april|1793	17|April|1793	CD|NNP|CD	DATE|DATE|DATE	1793-04-17|1793-04-17|1793-04-17	17.0	1793-04-17	1793.0	
+82	1	fb:cell.great_grimsby	Great Grimsby	great|grimsby	great|Grimsby	JJ|NNP	O|O	|				
+82	2	fb:cell.u	u	u	u	NNP	O					
+82	3	fb:cell.dudley_long_north	Dudley Long North	dudley|long|north	Dudley|Long|North	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Dudley Long North
+82	4	fb:cell.dudley_long_north	Dudley Long North	dudley|long|north	Dudley|Long|North	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Dudley Long North
+82	5	fb:cell.void_election	Void Election	void|election	void|election	NN|NN	O|O	|				
+83	0	fb:cell.17_april_1793	17 April 1793	17|april|1793	17|April|1793	CD|NNP|CD	DATE|DATE|DATE	1793-04-17|1793-04-17|1793-04-17	17.0	1793-04-17	1793.0	
+83	1	fb:cell.great_grimsby	Great Grimsby	great|grimsby	great|Grimsby	JJ|NNP	O|O	|				
+83	2	fb:cell.u	u	u	u	NNP	O					
+83	3	fb:cell.john_harrison	John Harrison	john|harrison	John|Harrison	NNP|NNP	PERSON|PERSON	|				John Harrison
+83	4	fb:cell.john_harrison	John Harrison	john|harrison	John|Harrison	NNP|NNP	PERSON|PERSON	|				John Harrison
+83	5	fb:cell.void_election	Void Election	void|election	void|election	NN|NN	O|O	|				
+84	0	fb:cell.28_may_1793	28 May 1793	28|may|1793	28|may|1793	CD|VBD-AUX|CD	DATE|DATE|DATE	1793-05-28|1793-05-28|1793-05-28	28.0	1793-05-28	1793.0	
+84	1	fb:cell.heytesbury	Heytesbury	heytesbury	Heytesbury	NNP	PERSON					
+84	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+84	3	fb:cell.the_lord_auckland	The Lord Auckland	the|lord|auckland	the|Lord|Auckland	DT|NNP|NNP	O|O|LOCATION	||				The Lord Auckland
+84	4	fb:cell.the_viscount_clifden	The Viscount Clifden	the|viscount|clifden	the|Viscount|Clifden	DT|NNP|NNP	O|PERSON|PERSON	||				The Viscount Clifden
+84	5	fb:cell.became_a_british_peer	Became a British Peer	became|a|british|peer	become|a|british|peer	VBD|DT|JJ|NN	O|O|MISC|O	|||				
+85	0	fb:cell.26_june_1793	26 June 1793	26|june|1793	26|June|1793	CD|NNP|CD	DATE|DATE|DATE	1793-06-26|1793-06-26|1793-06-26	26.0	1793-06-26	1793.0	
+85	1	fb:cell.shaftesbury	Shaftesbury	shaftesbury	Shaftesbury	NNP	PERSON					
+85	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+85	3	fb:cell.william_grant	William Grant	william|grant	William|Grant	NNP|NNP	PERSON|PERSON	|				William Grant
+85	4	fb:cell.paul_benfield	Paul Benfield	paul|benfield	Paul|Benfield	NNP|NNP	PERSON|PERSON	|				Paul Benfield
+85	5	fb:cell.appointed_second_justice_of_the_south_wales_circuit	Appointed Second Justice of the South Wales Circuit	appointed|second|justice|of|the|south|wales|circuit	appoint|second|justice|of|the|South|Wales|Circuit	VBN|JJ|NN|IN|DT|NNP|NNP|NNP	O|ORDINAL|O|O|O|LOCATION|LOCATION|O	|2.0||||||				
+86	0	fb:cell.26_june_1793	26 June 1793	26|june|1793	26|June|1793	CD|NNP|CD	DATE|DATE|DATE	1793-06-26|1793-06-26|1793-06-26	26.0	1793-06-26	1793.0	
+86	1	fb:cell.whitchurch	Whitchurch	whitchurch	Whitchurch	NNP	PERSON					
+86	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+86	3	fb:cell.john_thomas_townshend	John Thomas Townshend	john|thomas|townshend	John|Thomas|Townshend	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				John Thomas Townshend
+86	4	fb:cell.john_thomas_townshend	John Thomas Townshend	john|thomas|townshend	John|Thomas|Townshend	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				John Thomas Townshend
+86	5	fb:cell.junior_lord_of_the_treasury	Junior Lord of the Treasury	junior|lord|of|the|treasury	Junior|Lord|of|the|Treasury	NNP|NNP|IN|DT|NNP	O|O|O|O|ORGANIZATION	||||				
+87	0	fb:cell.27_june_1793	27 June 1793	27|june|1793	27|June|1793	CD|NNP|CD	DATE|DATE|DATE	1793-06-27|1793-06-27|1793-06-27	27.0	1793-06-27	1793.0	
+87	1	fb:cell.ludgershall	Ludgershall	ludgershall	ludgershall	NN	PERSON					
+87	2	fb:cell.u	u	u	u	NNP	O					
+87	3	fb:cell.samuel_smith	Samuel Smith	samuel|smith	Samuel|Smith	NNP|NNP	PERSON|PERSON	|				Samuel Smith
+87	4	fb:cell.nathaniel_newnham	Nathaniel Newnham	nathaniel|newnham	Nathaniel|Newnham	NNP|NNP	PERSON|PERSON	|				Nathaniel Newnham
+87	5	fb:cell.death	Death	death	death	NN	O					
+88	0	fb:cell.28_june_1793	28 June 1793	28|june|1793	28|June|1793	CD|NNP|CD	DATE|DATE|DATE	1793-06-28|1793-06-28|1793-06-28	28.0	1793-06-28	1793.0	
+88	1	fb:cell.edinburgh	Edinburgh	edinburgh	Edinburgh	NNP	LOCATION					
+88	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+88	3	fb:cell.henry_dundas	Henry Dundas	henry|dundas	Henry|Dundas	NNP|NNP	PERSON|PERSON	|				Henry Dundas
+88	4	fb:cell.henry_dundas	Henry Dundas	henry|dundas	Henry|Dundas	NNP|NNP	PERSON|PERSON	|				Henry Dundas
+88	5	fb:cell.president_of_the_board_of_control	President of the Board of Control	president|of|the|board|of|control	president|of|the|board|of|control	NN|IN|DT|NN|IN|NN	O|O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||||				
+89	0	fb:cell.28_june_1793	28 June 1793	28|june|1793	28|June|1793	CD|NNP|CD	DATE|DATE|DATE	1793-06-28|1793-06-28|1793-06-28	28.0	1793-06-28	1793.0	
+89	1	fb:cell.marlborough	Marlborough	marlborough	Marlborough	NNP	PERSON					
+89	2	fb:cell.u	u	u	u	NNP	O					
+89	3	fb:cell.the_earl_of_courtown	The Earl of Courtown	the|earl|of|courtown	the|Earl|of|Courtown	DT|NNP|IN|NNP	O|O|O|O	|||				The Earl of Courtown
+89	4	fb:cell.earl_of_dalkeith	Earl of Dalkeith	earl|of|dalkeith	Earl|of|Dalkeith	NNP|IN|NNP	PERSON|PERSON|PERSON	||				Earl of Dalkeith
+89	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+90	0	fb:cell.28_june_1793	28 June 1793	28|june|1793	28|June|1793	CD|NNP|CD	DATE|DATE|DATE	1793-06-28|1793-06-28|1793-06-28	28.0	1793-06-28	1793.0	
+90	1	fb:cell.newtown	Newtown	newtown	Newtown	NNP	LOCATION					
+90	2	fb:cell.u	u	u	u	NNP	O					
+90	3	fb:cell.sir_richard_worsley	Sir Richard Worsley	sir|richard|worsley	Sir|Richard|Worsley	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Richard Worsley
+90	4	fb:cell.george_canning	George Canning	george|canning	George|canning	NNP|NN	PERSON|PERSON	|				George Canning
+90	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+91	0	fb:cell.28_june_1793	28 June 1793	28|june|1793	28|June|1793	CD|NNP|CD	DATE|DATE|DATE	1793-06-28|1793-06-28|1793-06-28	28.0	1793-06-28	1793.0	
+91	1	fb:cell.rye	Rye	rye	rye	NN	O					
+91	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+91	3	fb:cell.robert_banks_jenkinson	Robert Banks Jenkinson	robert|banks|jenkinson	Robert|Banks|Jenkinson	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Robert Banks Jenkinson
+91	4	fb:cell.robert_banks_jenkinson	Robert Banks Jenkinson	robert|banks|jenkinson	Robert|Banks|Jenkinson	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Robert Banks Jenkinson
+91	5	fb:cell.commissioner_of_the_board_of_control	Commissioner of the Board of Control	commissioner|of|the|board|of|control	commissioner|of|the|board|of|control	NN|IN|DT|NN|IN|NN	O|O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||||				
+92	0	fb:cell.29_june_1793	29 June 1793	29|june|1793	29|June|1793	CD|NNP|CD	DATE|DATE|DATE	1793-06-29|1793-06-29|1793-06-29	29.0	1793-06-29	1793.0	
+92	1	fb:cell.great_bedwyn	Great Bedwyn	great|bedwyn	great|bedwyn	JJ|NN	O|O	|				
+92	2	fb:cell.u	u	u	u	NNP	O					
+92	3	fb:cell.viscount_stopford	Viscount Stopford	viscount|stopford	Viscount|Stopford	NNP|NNP	PERSON|PERSON	|				Viscount Stopford
+92	4	fb:cell.viscount_stopford	Viscount Stopford	viscount|stopford	Viscount|Stopford	NNP|NNP	PERSON|PERSON	|				Viscount Stopford
+92	5	fb:cell.treasurer_of_the_household	Treasurer of the Household	treasurer|of|the|household	treasurer|of|the|household	NN|IN|DT|NN	O|O|O|O	|||				
+93	0	fb:cell.5_august_1793	5 August 1793	5|august|1793	5|August|1793	CD|NNP|CD	DATE|DATE|DATE	1793-08-05|1793-08-05|1793-08-05	5.0	1793-08-05	1793.0	
+93	1	fb:cell.cockermouth	Cockermouth	cockermouth	Cockermouth	NNP	O					
+93	2	fb:cell.u	u	u	u	NNP	O					
+93	3	fb:cell.john_anstruther	John Anstruther	john|anstruther	John|Anstruther	NNP|NNP	PERSON|PERSON	|				John Anstruther
+93	4	fb:cell.john_anstruther	John Anstruther	john|anstruther	John|Anstruther	NNP|NNP	PERSON|PERSON	|				John Anstruther
+93	5	fb:cell.chief_justice_of_the_north_wales_circuit	Chief Justice of the North Wales Circuit	chief|justice|of|the|north|wales|circuit	Chief|Justice|of|the|north|Wales|Circuit	NNP|NNP|IN|DT|JJ|NNP|NNP	O|O|O|O|LOCATION|LOCATION|O	||||||				
+94	0	fb:cell.13_september_1793	13 September 1793	13|september|1793	13|September|1793	CD|NNP|CD	DATE|DATE|DATE	1793-09-13|1793-09-13|1793-09-13	13.0	1793-09-13	1793.0	
+94	1	fb:cell.higham_ferrers	Higham Ferrers	higham|ferrers	Higham|Ferrers	NNP|NNP	PERSON|PERSON	|				
+94	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+94	3	fb:cell.john_lee	John Lee	john|lee	John|Lee	NNP|NNP	PERSON|PERSON	|				John Lee
+94	4	fb:cell.james_adair	James Adair	james|adair	James|Adair	NNP|NNP	PERSON|PERSON	|				James Adair
+94	5	fb:cell.death	Death	death	death	NN	O					
+95	0	fb:cell.24_october_1793	24 October 1793	24|october|1793	24|October|1793	CD|NNP|CD	DATE|DATE|DATE	1793-10-24|1793-10-24|1793-10-24	24.0	1793-10-24	1793.0	
+95	1	fb:cell.horsham	Horsham	horsham	Horsham	NNP	PERSON					
+95	2	fb:cell.u	u	u	u	NNP	O					
+95	3	fb:cell.james_baillie	James Baillie	james|baillie	James|Baillie	NNP|NNP	PERSON|PERSON	|				James Baillie
+95	4	fb:cell.william_fullarton	William Fullarton	william|fullarton	William|Fullarton	NNP|NNP	PERSON|PERSON	|				William Fullarton
+95	5	fb:cell.death	Death	death	death	NN	O					
+96	0	fb:cell.3_december_1793	3 December 1793	3|december|1793	3|December|1793	CD|NNP|CD	DATE|DATE|DATE	1793-12-03|1793-12-03|1793-12-03	3.0	1793-12-03	1793.0	
+96	1	fb:cell.queenborough	Queenborough	queenborough	Queenborough	NNP	O					
+96	2	fb:cell.u	u	u	u	NNP	O					
+96	3	fb:cell.gibbs_crawfurd	Gibbs Crawfurd	gibbs|crawfurd	Gibbs|Crawfurd	NNP|NNP	PERSON|PERSON	|				Gibbs Crawfurd
+96	4	fb:cell.augustus_rogers	Augustus Rogers	augustus|rogers	Augustus|Rogers	NNP|NNP	PERSON|PERSON	|				Augustus Rogers
+96	5	fb:cell.death	Death	death	death	NN	O					
+97	0	fb:cell.29_january_1794	29 January 1794	29|january|1794	29|January|1794	CD|NNP|CD	DATE|DATE|DATE	1794-01-29|1794-01-29|1794-01-29	29.0	1794-01-29	1794.0	
+97	1	fb:cell.seaford	Seaford	seaford	Seaford	NNP	LOCATION					
+97	2	fb:cell.c	c	c	c	NN	O					
+97	3	fb:cell.john_sargent	John Sargent	john|sargent	John|Sargent	NNP|NNP	PERSON|PERSON	|				John Sargent
+97	4	fb:cell.richard_paul_jodrell	Richard Paul Jodrell	richard|paul|jodrell	Richard|Paul|Jodrell	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Richard Paul Jodrell
+97	5	fb:cell.clerk_of_the_ordnance	Clerk of the Ordnance	clerk|of|the|ordnance	clerk|of|the|ordnance	NN|IN|DT|NN	O|O|O|O	|||				
+98	0	fb:cell.1_february_1794	1 February 1794	1|february|1794	1|February|1794	CD|NNP|CD	DATE|DATE|DATE	1794-02-01|1794-02-01|1794-02-01	1.0	1794-02-01	1794.0	
+98	1	fb:cell.chipping_wycombe	Chipping Wycombe	chipping|wycombe	chip|wycombe	VBG|NN	O|O	|				
+98	2	fb:cell.c	c	c	c	NN	O					
+98	3	fb:cell.sir_john_jervis	Sir John Jervis	sir|john|jervis	Sir|John|Jervis	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir John Jervis
+98	4	fb:cell.sir_francis_baring	Sir Francis Baring	sir|francis|baring	Sir|Francis|Baring	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Francis Baring
+98	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+99	0	fb:cell.1_february_1794	1 February 1794	1|february|1794	1|February|1794	CD|NNP|CD	DATE|DATE|DATE	1794-02-01|1794-02-01|1794-02-01	1.0	1794-02-01	1794.0	
+99	1	fb:cell.new_windsor	New Windsor	new|windsor	new|Windsor	JJ|NNP	PERSON|PERSON	|				
+99	2	fb:cell.c	c	c	c	NN	O					
+99	3	fb:cell.peniston_portlock_powney	Peniston Portlock Powney	peniston|portlock|powney	Peniston|Portlock|Powney	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Peniston Portlock Powney
+99	4	fb:cell.william_grant	William Grant	william|grant	William|Grant	NNP|NNP	PERSON|PERSON	|				William Grant
+99	5	fb:cell.death	Death	death	death	NN	O					
+100	0	fb:cell.3_february_1794	3 February 1794	3|february|1794	3|February|1794	CD|NNP|CD	DATE|DATE|DATE	1794-02-03|1794-02-03|1794-02-03	3.0	1794-02-03	1794.0	
+100	1	fb:cell.steyning	Steyning	steyning	steyne	VBG	O					
+100	2	fb:cell.c_2	c*	c|*	c|*	NNP|SYM	O|O	|				
+100	3	fb:cell.john_curtis	John Curtis	john|curtis	John|Curtis	NNP|NNP	PERSON|PERSON	|				John Curtis
+100	4	fb:cell.john_henniker_major	John Henniker Major	john|henniker|major	John|Henniker|Major	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				John Henniker Major
+100	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+101	0	fb:cell.4_february_1794	4 February 1794	4|february|1794	4|February|1794	CD|NNP|CD	DATE|DATE|DATE	1794-02-04|1794-02-04|1794-02-04	4.0	1794-02-04	1794.0	
+101	1	fb:cell.cardiff_boroughs	Cardiff Boroughs	cardiff|boroughs	Cardiff|Boroughs	NNP|NNP	ORGANIZATION|O	|				
+101	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+101	3	fb:cell.lord_mount_stuart	Lord Mount Stuart	lord|mount|stuart	Lord|Mount|Stuart	NNP|NNP|NNP	LOCATION|LOCATION|LOCATION	||				Lord Mount Stuart
+101	4	fb:cell.evelyn_james_stuart	Evelyn James Stuart	evelyn|james|stuart	Evelyn|James|Stuart	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Evelyn James Stuart
+101	5	fb:cell.death	Death	death	death	NN	O					
+102	0	fb:cell.11_february_1794	11 February 1794	11|february|1794	11|February|1794	CD|NNP|CD	DATE|DATE|DATE	1794-02-11|1794-02-11|1794-02-11	11.0	1794-02-11	1794.0	
+102	1	fb:cell.malmesbury	Malmesbury	malmesbury	Malmesbury	NNP	LOCATION					
+102	2	fb:cell.u	u	u	u	NNP	O					
+102	3	fb:cell.benjamin_bond_hopkins	Benjamin Bond Hopkins	benjamin|bond|hopkins	Benjamin|Bond|Hopkins	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Benjamin Bond Hopkins
+102	4	fb:cell.francis_glanville	Francis Glanville	francis|glanville	Francis|Glanville	NNP|NNP	PERSON|PERSON	|				Francis Glanville
+102	5	fb:cell.death	Death	death	death	NN	O					
+103	0	fb:cell.14_february_1794	14 February 1794	14|february|1794	14|February|1794	CD|NNP|CD	DATE|DATE|DATE	1794-02-14|1794-02-14|1794-02-14	14.0	1794-02-14	1794.0	
+103	1	fb:cell.plympton_erle	Plympton Erle	plympton|erle	Plympton|Erle	NNP|NNP	PERSON|PERSON	|				
+103	2	fb:cell.u	u	u	u	NNP	O					
+103	3	fb:cell.the_earl_of_carhampton	The Earl of Carhampton	the|earl|of|carhampton	the|Earl|of|Carhampton	DT|NNP|IN|NNP	O|O|O|LOCATION	|||				The Earl of Carhampton
+103	4	fb:cell.william_manning	William Manning	william|manning	William|Manning	NNP|NNP	PERSON|PERSON	|				William Manning
+103	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+104	0	fb:cell.15_february_1794	15 February 1794	15|february|1794	15|February|1794	CD|NNP|CD	DATE|DATE|DATE	1794-02-15|1794-02-15|1794-02-15	15.0	1794-02-15	1794.0	
+104	1	fb:cell.milborne_port	Milborne Port	milborne|port	Milborne|Port	NNP|NNP	LOCATION|O	|				
+104	2	fb:cell.u	u	u	u	NNP	O					
+104	3	fb:cell.richard_johnson	Richard Johnson	richard|johnson	Richard|Johnson	NNP|NNP	PERSON|PERSON	|				Richard Johnson
+104	4	fb:cell.mark_wood	Mark Wood	mark|wood	Mark|Wood	NNP|NNP	PERSON|PERSON	|				Mark Wood
+104	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+105	0	fb:cell.15_february_1794	15 February 1794	15|february|1794	15|February|1794	CD|NNP|CD	DATE|DATE|DATE	1794-02-15|1794-02-15|1794-02-15	15.0	1794-02-15	1794.0	
+105	1	fb:cell.queenborough	Queenborough	queenborough	Queenborough	NNP	O					
+105	2	fb:cell.u	u	u	u	NNP	O					
+105	3	fb:cell.augustus_rogers	Augustus Rogers	augustus|rogers	Augustus|Rogers	NNP|NNP	PERSON|PERSON	|				Augustus Rogers
+105	4	fb:cell.john_sargent	John Sargent	john|sargent	John|Sargent	NNP|NNP	PERSON|PERSON	|				John Sargent
+105	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+106	0	fb:cell.15_february_1794	15 February 1794	15|february|1794	15|February|1794	CD|NNP|CD	DATE|DATE|DATE	1794-02-15|1794-02-15|1794-02-15	15.0	1794-02-15	1794.0	
+106	1	fb:cell.wilton	Wilton	wilton	Wilton	NNP	PERSON					
+106	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+106	3	fb:cell.lord_herbert	Lord Herbert	lord|herbert	Lord|Herbert	NNP|NNP	O|PERSON	|				Lord Herbert
+106	4	fb:cell.philip_goldsworthy	Philip Goldsworthy	philip|goldsworthy	Philip|Goldsworthy	NNP|NNP	PERSON|PERSON	|				Philip Goldsworthy
+106	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+107	0	fb:cell.17_february_1794	17 February 1794	17|february|1794	17|February|1794	CD|NNP|CD	DATE|DATE|DATE	1794-02-17|1794-02-17|1794-02-17	17.0	1794-02-17	1794.0	
+107	1	fb:cell.winchelsea	Winchelsea	winchelsea	Winchelsea	NNP	PERSON					
+107	2	fb:cell.u	u	u	u	NNP	O					
+107	3	fb:cell.sir_frederick_fletcher_vane	Sir Frederick Fletcher Vane	sir|frederick|fletcher|vane	Sir|Frederick|Fletcher|vane	NNP|NNP|NNP|NN	O|PERSON|PERSON|PERSON	|||				Sir Frederick Fletcher Vane
+107	4	fb:cell.john_hiley_addington	John Hiley Addington	john|hiley|addington	John|Hiley|Addington	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				John Hiley Addington
+107	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+108	0	fb:cell.3_march_1794	3 March 1794	3|march|1794	3|March|1794	CD|NNP|CD	DATE|DATE|DATE	1794-03-03|1794-03-03|1794-03-03	3.0	1794-03-03	1794.0	
+108	1	fb:cell.east_retford	East Retford	east|retford	East|Retford	NNP|NNP	LOCATION|LOCATION	|				
+108	2	fb:cell.u	u	u	u	NNP	O					
+108	3	fb:cell.earl_of_lincoln	Earl of Lincoln	earl|of|lincoln	Earl|of|Lincoln	NNP|IN|NNP	PERSON|PERSON|PERSON	||				Earl of Lincoln
+108	4	fb:cell.william_henry_clinton	William Henry Clinton	william|henry|clinton	William|Henry|Clinton	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				William Henry Clinton
+108	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+109	0	fb:cell.5_march_1794	5 March 1794	5|march|1794	5|March|1794	CD|NNP|CD	DATE|DATE|DATE	1794-03-05|1794-03-05|1794-03-05	5.0	1794-03-05	1794.0	
+109	1	fb:cell.banbury	Banbury	banbury	Banbury	NNP	LOCATION					
+109	2	fb:cell.u	u	u	u	NNP	O					
+109	3	fb:cell.frederick_north	Frederick North	frederick|north	Frederick|North	NNP|NNP	PERSON|PERSON	|				Frederick North
+109	4	fb:cell.william_holbech	William Holbech	william|holbech	William|Holbech	NNP|NNP	PERSON|PERSON	|				William Holbech
+109	5	fb:cell.resignation_comptroller_of_customs_for_the_port_of_london	Resignation (Comptroller of Customs for the Port of London)	resignation|-lrb-|comptroller|of|customs|for|the|port|of|london|-rrb-	resignation|-lrb-|comptroller|of|custom|for|the|port|of|London|-rrb-	NN|-LRB-|NN|IN|NNS|IN|DT|NN|IN|NNP|-RRB-	O|O|O|O|ORGANIZATION|O|O|O|O|LOCATION|O	||||||||||				
+110	0	fb:cell.12_march_1794	12 March 1794	12|march|1794	12|March|1794	CD|NNP|CD	DATE|DATE|DATE	1794-03-12|1794-03-12|1794-03-12	12.0	1794-03-12	1794.0	
+110	1	fb:cell.wallingford	Wallingford	wallingford	Wallingford	NNP	LOCATION					
+110	2	fb:cell.c	c	c	c	NN	O					
+110	3	fb:cell.nathaniel_william_wraxall	Nathaniel William Wraxall	nathaniel|william|wraxall	Nathaniel|William|Wraxall	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nathaniel William Wraxall
+110	4	fb:cell.francis_william_sykes	Francis William Sykes	francis|william|sykes	Francis|William|Sykes	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Francis William Sykes
+110	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+111	0	fb:cell.13_march_1795	13 March 1795	13|march|1795	13|March|1795	CD|NNP|CD	DATE|DATE|DATE	1795-03-13|1795-03-13|1795-03-13	13.0	1795-03-13	1795.0	
+111	1	fb:cell.sandwich	Sandwich	sandwich	sandwich	NN	PERSON					
+111	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+111	3	fb:cell.sir_philip_stephens	Sir Philip Stephens	sir|philip|stephens	Sir|Philip|Stephens	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Philip Stephens
+111	4	fb:cell.sir_philip_stephens	Sir Philip Stephens	sir|philip|stephens	Sir|Philip|Stephens	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Philip Stephens
+111	5	fb:cell.lord_of_the_admiralty	Lord of the Admiralty	lord|of|the|admiralty	Lord|of|the|admiralty	NNP|IN|DT|NN	O|O|O|O	|||				
+112	0	fb:cell.5_april_1794	5 April 1794	5|april|1794	5|April|1794	CD|NNP|CD	DATE|DATE|DATE	1794-04-05|1794-04-05|1794-04-05	5.0	1794-04-05	1794.0	
+112	1	fb:cell.cambridge_university	Cambridge University	cambridge|university	Cambridge|University	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+112	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+112	3	fb:cell.earl_of_euston	Earl of Euston	earl|of|euston	Earl|of|Euston	NNP|IN|NNP	PERSON|PERSON|PERSON	||				Earl of Euston
+112	4	fb:cell.earl_of_euston	Earl of Euston	earl|of|euston	Earl|of|Euston	NNP|IN|NNP	PERSON|PERSON|PERSON	||				Earl of Euston
+112	5	fb:cell.chief_ranger_of_st_james_park_and_hyde_park	Chief Ranger of St. James Park and Hyde Park	chief|ranger|of|st.|james|park|and|hyde|park	chief|ranger|of|St.|James|Park|and|Hyde|Park	JJ|NN|IN|NNP|NNP|NNP|CC|NNP|NNP	O|O|O|PERSON|PERSON|PERSON|O|LOCATION|LOCATION	||||||||				
+113	0	fb:cell.11_april_1794	11 April 1794	11|april|1794	11|April|1794	CD|NNP|CD	DATE|DATE|DATE	1794-04-11|1794-04-11|1794-04-11	11.0	1794-04-11	1794.0	
+113	1	fb:cell.perthshire	Perthshire	perthshire	Perthshire	NNP	LOCATION					
+113	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+113	3	fb:cell.james_murray	James Murray	james|murray	James|Murray	NNP|NNP	PERSON|PERSON	|				James Murray
+113	4	fb:cell.thomas_graham	Thomas Graham	thomas|graham	Thomas|Graham	NNP|NNP	PERSON|PERSON	|				Thomas Graham
+113	5	fb:cell.death	Death	death	death	NN	O					
+114	0	fb:cell.1_may_1794	1 May 1794	1|may|1794	1|may|1794	CD|VBD-AUX|CD	DATE|DATE|DATE	1794-05-01|1794-05-01|1794-05-01	1.0	1794-05-01	1794.0	
+114	1	fb:cell.ross_shire	Ross-shire	ross|shire	Ross|shire	NNP|NNP	PERSON|PERSON	|				
+114	2	fb:cell.u	u	u	u	NNP	O					
+114	3	fb:cell.william_adam	William Adam	william|adam	William|Adam	NNP|NNP	PERSON|PERSON	|				William Adam
+114	4	fb:cell.francis_humberston_mackenzie	Francis Humberston Mackenzie	francis|humberston|mackenzie	Francis|Humberston|Mackenzie	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Francis Humberston Mackenzie
+114	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+115	0	fb:cell.3_may_1794	3 May 1794	3|may|1794	3|may|1794	CD|VBD-AUX|CD	DATE|DATE|DATE	1794-05-03|1794-05-03|1794-05-03	3.0	1794-05-03	1794.0	
+115	1	fb:cell.bath	Bath	bath	bath	NN	O					
+115	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+115	3	fb:cell.viscount_bayham	Viscount Bayham	viscount|bayham	Viscount|Bayham	NNP|NNP	PERSON|PERSON	|				Viscount Bayham
+115	4	fb:cell.sir_richard_pepper_arden	Sir Richard Pepper Arden	sir|richard|pepper|arden	Sir|Richard|Pepper|Arden	NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||				Sir Richard Pepper Arden
+115	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+116	0	fb:cell.9_may_1794	9 May 1794	9|may|1794	9|may|1794	CD|VBD-AUX|CD	DATE|DATE|DATE	1794-05-09|1794-05-09|1794-05-09	9.0	1794-05-09	1794.0	
+116	1	fb:cell.hastings	Hastings	hastings	Hastings	NNP	PERSON					
+116	2	fb:cell.u	u	u	u	NNP	O					
+116	3	fb:cell.sir_richard_pepper_arden	Sir Richard Pepper Arden	sir|richard|pepper|arden	Sir|Richard|Pepper|Arden	NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||				Sir Richard Pepper Arden
+116	4	fb:cell.robert_dundas	Robert Dundas	robert|dundas	Robert|Dundas	NNP|NNP	PERSON|PERSON	|				Robert Dundas
+116	5	fb:cell.resignation_to_contest_bath	Resignation to contest Bath	resignation|to|contest|bath	resignation|to|contest|bath	NN|TO|NN|NN	O|O|O|O	|||				
+117	0	fb:cell.9_may_1794	9 May 1794	9|may|1794	9|may|1794	CD|VBD-AUX|CD	DATE|DATE|DATE	1794-05-09|1794-05-09|1794-05-09	9.0	1794-05-09	1794.0	
+117	1	fb:cell.pontefract	Pontefract	pontefract	Pontefract	NNP	LOCATION					
+117	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+117	3	fb:cell.john_smyth	John Smyth	john|smyth	John|Smyth	NNP|NNP	PERSON|PERSON	|				John Smyth
+117	4	fb:cell.john_smyth	John Smyth	john|smyth	John|Smyth	NNP|NNP	PERSON|PERSON	|				John Smyth
+117	5	fb:cell.junior_lord_of_the_treasury	Junior Lord of the Treasury	junior|lord|of|the|treasury	Junior|Lord|of|the|Treasury	NNP|NNP|IN|DT|NNP	O|O|O|O|ORGANIZATION	||||				
+118	0	fb:cell.12_may_1794	12 May 1794	12|may|1794	12|may|1794	CD|VBD-AUX|CD	DATE|DATE|DATE	1794-05-12|1794-05-12|1794-05-12	12.0	1794-05-12	1794.0	
+118	1	fb:cell.rochester	Rochester	rochester	Rochester	NNP	LOCATION					
+118	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+118	3	fb:cell.nathaniel_smith	Nathaniel Smith	nathaniel|smith	Nathaniel|Smith	NNP|NNP	PERSON|PERSON	|				Nathaniel Smith
+118	4	fb:cell.sir_richard_king	Sir Richard King	sir|richard|king	Sir|Richard|King	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Richard King
+118	5	fb:cell.death	Death	death	death	NN	O					
+119	0	fb:cell.12_may_1794	12 May 1794	12|may|1794	12|may|1794	CD|VBD-AUX|CD	DATE|DATE|DATE	1794-05-12|1794-05-12|1794-05-12	12.0	1794-05-12	1794.0	
+119	1	fb:cell.tregony	Tregony	tregony	tregony	NN	PERSON					
+119	2	fb:cell.u	u	u	u	NNP	O					
+119	3	fb:cell.john_stephenson	John Stephenson	john|stephenson	John|Stephenson	NNP|NNP	PERSON|PERSON	|				John Stephenson
+119	4	fb:cell.robert_stewart	Robert Stewart	robert|stewart	Robert|Stewart	NNP|NNP	PERSON|PERSON	|				Robert Stewart
+119	5	fb:cell.death	Death	death	death	NN	O					
+120	0	fb:cell.21_may_1794	21 May 1794	21|may|1794	21|may|1794	CD|VBD-AUX|CD	DATE|DATE|DATE	1794-05-21|1794-05-21|1794-05-21	21.0	1794-05-21	1794.0	
+120	1	fb:cell.new_radnor_boroughs	New Radnor Boroughs	new|radnor|boroughs	new|Radnor|Boroughs	JJ|NNP|NNPS	O|O|O	||				
+120	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+120	3	fb:cell.david_murray	David Murray	david|murray	David|Murray	NNP|NNP	PERSON|PERSON	|				David Murray
+120	4	fb:cell.viscount_malden	Viscount Malden	viscount|malden	Viscount|Malden	NNP|NNP	PERSON|PERSON	|				Viscount Malden
+120	5	fb:cell.death	Death	death	death	NN	O					
+121	0	fb:cell.22_may_1794	22 May 1794	22|may|1794	22|may|1794	CD|VBD-AUX|CD	DATE|DATE|DATE	1794-05-22|1794-05-22|1794-05-22	22.0	1794-05-22	1794.0	
+121	1	fb:cell.derbyshire	Derbyshire	derbyshire	Derbyshire	NNP	LOCATION					
+121	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+121	3	fb:cell.lord_george_augustus_cavendish	Lord George Augustus Cavendish	lord|george|augustus|cavendish	Lord|George|Augustus|Cavendish	NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||				Lord George Augustus Cavendish
+121	4	fb:cell.lord_john_cavendish	Lord John Cavendish	lord|john|cavendish	Lord|John|Cavendish	NNP|NNP|NNP	O|PERSON|PERSON	||				Lord John Cavendish
+121	5	fb:cell.death	Death	death	death	NN	O					
+122	0	fb:cell.3_june_1794	3 June 1794	3|june|1794	3|June|1794	CD|NNP|CD	DATE|DATE|DATE	1794-06-03|1794-06-03|1794-06-03	3.0	1794-06-03	1794.0	
+122	1	fb:cell.huntingdonshire	Huntingdonshire	huntingdonshire	Huntingdonshire	NNP	LOCATION					
+122	2	fb:cell.u	u	u	u	NNP	O					
+122	3	fb:cell.lancelot_brown	Lancelot Brown	lancelot|brown	Lancelot|Brown	NNP|NNP	PERSON|PERSON	|				Lancelot Brown
+122	4	fb:cell.viscount_hinchingbrooke	Viscount Hinchingbrooke	viscount|hinchingbrooke	Viscount|Hinchingbrooke	NNP|NNP	PERSON|PERSON	|				Viscount Hinchingbrooke
+122	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+123	0	fb:cell.9_june_1794	9 June 1794	9|june|1794	9|June|1794	CD|NNP|CD	DATE|DATE|DATE	1794-06-09|1794-06-09|1794-06-09	9.0	1794-06-09	1794.0	
+123	1	fb:cell.cricklade	Cricklade	cricklade	Cricklade	NNP	O					
+123	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+123	3	fb:cell.john_walker_heneage	John Walker Heneage	john|walker|heneage	John|Walker|Heneage	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				John Walker Heneage
+123	4	fb:cell.lord_porchester	Lord Porchester	lord|porchester	Lord|Porchester	NNP|NNP	O|PERSON	|				Lord Porchester
+123	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+124	0	fb:cell.12_june_1794	12 June 1794	12|june|1794	12|June|1794	CD|NNP|CD	DATE|DATE|DATE	1794-06-12|1794-06-12|1794-06-12	12.0	1794-06-12	1794.0	
+124	1	fb:cell.ayr_burghs	Ayr Burghs	ayr|burghs	Ayr|Burghs	NNP|NNP	PERSON|PERSON	|				
+124	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+124	3	fb:cell.charles_stuart	Charles Stuart	charles|stuart	Charles|Stuart	NNP|NNP	PERSON|PERSON	|				Charles Stuart
+124	4	fb:cell.john_campbell	John Campbell	john|campbell	John|Campbell	NNP|NNP	PERSON|PERSON	|				John Campbell
+124	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+125	0	fb:cell.1_july_1794	1 July 1794	1|july|1794	1|July|1794	CD|NNP|CD	DATE|DATE|DATE	1794-07-01|1794-07-01|1794-07-01	1.0	1794-07-01	1794.0	
+125	1	fb:cell.anstruther_easter	Anstruther Easter	anstruther|easter	Anstruther|Easter	NNP|NNP	O|DATE	|EASTER				
+125	2	fb:cell.u	u	u	u	NNP	O					
+125	3	fb:cell.robert_anstruther	Robert Anstruther	robert|anstruther	Robert|Anstruther	NNP|NNP	PERSON|PERSON	|				Robert Anstruther
+125	4	fb:cell.william_dundas	William Dundas	william|dundas	William|Dundas	NNP|NNP	PERSON|PERSON	|				William Dundas
+125	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+126	0	fb:cell.7_july_1794	7 July 1794	7|july|1794	7|July|1794	CD|NNP|CD	DATE|DATE|DATE	1794-07-07|1794-07-07|1794-07-07	7.0	1794-07-07	1794.0	
+126	1	fb:cell.orford	Orford	orford	Orford	NNP	LOCATION					
+126	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+126	3	fb:cell.earl_of_yarmouth	Earl of Yarmouth	earl|of|yarmouth	Earl|of|Yarmouth	NNP|IN|NNP	PERSON|PERSON|PERSON	||				Earl of Yarmouth
+126	4	fb:cell.lord_robert_seymour	Lord Robert Seymour	lord|robert|seymour	Lord|Robert|Seymour	NNP|NNP|NNP	O|PERSON|PERSON	||				Lord Robert Seymour
+126	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+127	0	fb:cell.12_july_1794	12 July 1794	12|july|1794	12|July|1794	CD|NNP|CD	DATE|DATE|DATE	1794-07-12|1794-07-12|1794-07-12	12.0	1794-07-12	1794.0	
+127	1	fb:cell.norwich	Norwich	norwich	Norwich	NNP	PERSON					
+127	2	fb:cell.c_2	c*	c|*	c|*	NNP|SYM	O|O	|				
+127	3	fb:cell.william_windham	William Windham	william|windham	William|Windham	NNP|NNP	PERSON|PERSON	|				William Windham
+127	4	fb:cell.william_windham	William Windham	william|windham	William|Windham	NNP|NNP	PERSON|PERSON	|				William Windham
+127	5	fb:cell.resignation_pending_appointment_as_secretary_at_war	Resignation pending appointment as Secretary at War	resignation|pending|appointment|as|secretary|at|war	resignation|pend|appointment|as|secretary|at|war	NN|VBG|NN|IN|NN|IN|NN	O|O|O|O|O|O|O	||||||				
+128	0	fb:cell.14_july_1794	14 July 1794	14|july|1794	14|July|1794	CD|NNP|CD	DATE|DATE|DATE	1794-07-14|1794-07-14|1794-07-14	14.0	1794-07-14	1794.0	
+128	1	fb:cell.castle_rising	Castle Rising	castle|rising	Castle|rise	NNP|VBG	O|O	|				
+128	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+128	3	fb:cell.henry_drummond	Henry Drummond	henry|drummond	Henry|Drummond	NNP|NNP	PERSON|PERSON	|				Henry Drummond
+128	4	fb:cell.charles_bagot_chester	Charles Bagot Chester	charles|bagot|chester	Charles|Bagot|Chester	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Charles Bagot Chester
+128	5	fb:cell.death	Death	death	death	NN	O					
+129	0	fb:cell.15_july_1794	15 July 1794	15|july|1794	15|July|1794	CD|NNP|CD	DATE|DATE|DATE	1794-07-15|1794-07-15|1794-07-15	15.0	1794-07-15	1794.0	
+129	1	fb:cell.honiton	Honiton	honiton	Honiton	NNP	PERSON					
+129	2	fb:cell.u	u	u	u	NNP	O					
+129	3	fb:cell.sir_george_yonge	Sir George Yonge	sir|george|yonge	Sir|George|Yonge	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir George Yonge
+129	4	fb:cell.sir_george_yonge	Sir George Yonge	sir|george|yonge	Sir|George|Yonge	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir George Yonge
+129	5	fb:cell.master_of_the_mint	Master of the Mint	master|of|the|mint	master|of|the|mint	NN|IN|DT|NN	O|O|O|O	|||				
+130	0	fb:cell.18_july_1794	18 July 1794	18|july|1794	18|July|1794	CD|NNP|CD	DATE|DATE|DATE	1794-07-18|1794-07-18|1794-07-18	18.0	1794-07-18	1794.0	
+130	1	fb:cell.malton	Malton	malton	Malton	NNP	LOCATION					
+130	2	fb:cell.u	u	u	u	NNP	O					
+130	3	fb:cell.edmund_burke	Edmund Burke	edmund|burke	Edmund|Burke	NNP|NNP	PERSON|PERSON	|				Edmund Burke
+130	4	fb:cell.richard_burke	Richard Burke	richard|burke	Richard|Burke	NNP|NNP	PERSON|PERSON	|				Richard Burke
+130	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+131	0	fb:cell.19_july_1794	19 July 1794	19|july|1794	19|July|1794	CD|NNP|CD	DATE|DATE|DATE	1794-07-19|1794-07-19|1794-07-19	19.0	1794-07-19	1794.0	
+131	1	fb:cell.bishop_s_castle	Bishop's Castle	bishop|'s|castle	Bishop|'s|castle	NNP|POS|NN	PERSON|O|O	||				
+131	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+131	3	fb:cell.henry_strachey	Henry Strachey	henry|strachey	Henry|Strachey	NNP|NNP	PERSON|PERSON	|				Henry Strachey
+131	4	fb:cell.henry_strachey	Henry Strachey	henry|strachey	Henry|Strachey	NNP|NNP	PERSON|PERSON	|				Henry Strachey
+131	5	fb:cell.master_of_the_household	Master of the Household	master|of|the|household	master|of|the|household	NN|IN|DT|NN	O|O|O|O	|||				
+132	0	fb:cell.26_august_1794	26 August 1794	26|august|1794	26|August|1794	CD|NNP|CD	DATE|DATE|DATE	1794-08-26|1794-08-26|1794-08-26	26.0	1794-08-26	1794.0	
+132	1	fb:cell.southampton	Southampton	southampton	Southampton	NNP	ORGANIZATION					
+132	2	fb:cell.c_2	c*	c|*	c|*	NNP|SYM	O|O	|				
+132	3	fb:cell.sir_henry_martin	Sir Henry Martin	sir|henry|martin	Sir|Henry|Martin	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Henry Martin
+132	4	fb:cell.george_henry_rose	George Henry Rose	george|henry|rose	George|Henry|rise	NNP|NNP|VBD	PERSON|PERSON|PERSON	||				George Henry Rose
+132	5	fb:cell.death	Death	death	death	NN	O					
+133	0	fb:cell.9_september_1794	9 September 1794	9|september|1794	9|September|1794	CD|NNP|CD	DATE|DATE|DATE	1794-09-09|1794-09-09|1794-09-09	9.0	1794-09-09	1794.0	
+133	1	fb:cell.wenlock	Wenlock	wenlock	wenlock	NN	PERSON					
+133	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+133	3	fb:cell.sir_henry_bridgeman	Sir Henry Bridgeman	sir|henry|bridgeman	Sir|Henry|Bridgeman	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Henry Bridgeman
+133	4	fb:cell.john_simpson	John Simpson	john|simpson	John|Simpson	NNP|NNP	PERSON|PERSON	|				John Simpson
+133	5	fb:cell.elevated_to_the_peerage	Elevated to the peerage	elevated|to|the|peerage	elevated|to|the|peerage	JJ|TO|DT|NN	O|O|O|O	|||				
+134	0	fb:cell.14_september_1794	14 September 1794	14|september|1794	14|September|1794	CD|NNP|CD	DATE|DATE|DATE	1794-09-14|1794-09-14|1794-09-14	14.0	1794-09-14	1794.0	
+134	1	fb:cell.bedfordshire	Bedfordshire	bedfordshire	Bedfordshire	NNP	LOCATION					
+134	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+134	3	fb:cell.the_earl_of_upper_ossory	The Earl of Upper Ossory	the|earl|of|upper|ossory	the|Earl|of|Upper|Ossory	DT|NNP|IN|NNP|NNP	O|O|O|O|O	||||				The Earl of Upper Ossory
+134	4	fb:cell.john_osborn	John Osborn	john|osborn	John|Osborn	NNP|NNP	PERSON|PERSON	|				John Osborn
+134	5	fb:cell.became_a_british_peer	Became a British Peer	became|a|british|peer	become|a|british|peer	VBD|DT|JJ|NN	O|O|MISC|O	|||				
+135	0	fb:cell.15_september_1794	15 September 1794	15|september|1794	15|September|1794	CD|NNP|CD	DATE|DATE|DATE	1794-09-15|1794-09-15|1794-09-15	15.0	1794-09-15	1794.0	
+135	1	fb:cell.clitheroe	Clitheroe	clitheroe	Clitheroe	NNP	PERSON					
+135	2	fb:cell.u	u	u	u	NNP	O					
+135	3	fb:cell.assheton_curzon	Assheton Curzon	assheton|curzon	Assheton|Curzon	NNP|NNP	PERSON|PERSON	|				Assheton Curzon
+135	4	fb:cell.richard_erle_drax_grosvenor	Richard Erle-Drax-Grosvenor	richard|erle|drax|grosvenor	Richard|Erle|Drax|Grosvenor	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Richard Erle-Drax-Grosvenor
+135	5	fb:cell.elevated_to_the_peerage	Elevated to the peerage	elevated|to|the|peerage	elevated|to|the|peerage	JJ|TO|DT|NN	O|O|O|O	|||				
+136	0	fb:cell.16_september_1794	16 September 1794	16|september|1794	16|September|1794	CD|NNP|CD	DATE|DATE|DATE	1794-09-16|1794-09-16|1794-09-16	16.0	1794-09-16	1794.0	
+136	1	fb:cell.berkshire	Berkshire	berkshire	Berkshire	NNP	ORGANIZATION					
+136	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+136	3	fb:cell.winchcombe_henry_hartley	Winchcombe Henry Hartley	winchcombe|henry|hartley	Winchcombe|Henry|Hartley	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Winchcombe Henry Hartley
+136	4	fb:cell.charles_dundas	Charles Dundas	charles|dundas	Charles|Dundas	NNP|NNP	PERSON|PERSON	|				Charles Dundas
+136	5	fb:cell.death	Death	death	death	NN	O					
+137	0	fb:cell.18_september_1794	18 September 1794	18|september|1794	18|September|1794	CD|NNP|CD	DATE|DATE|DATE	1794-09-18|1794-09-18|1794-09-18	18.0	1794-09-18	1794.0	
+137	1	fb:cell.lincolnshire	Lincolnshire	lincolnshire	Lincolnshire	NNP	LOCATION					
+137	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+137	3	fb:cell.charles_anderson_pelham	Charles Anderson Pelham	charles|anderson|pelham	Charles|Anderson|Pelham	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Charles Anderson Pelham
+137	4	fb:cell.robert_vyner	Robert Vyner	robert|vyner	Robert|Vyner	NNP|NNP	PERSON|PERSON	|				Robert Vyner
+137	5	fb:cell.elevated_to_the_peerage	Elevated to the peerage	elevated|to|the|peerage	elevated|to|the|peerage	JJ|TO|DT|NN	O|O|O|O	|||				
+138	0	fb:cell.19_september_1794	19 September 1794	19|september|1794	19|September|1794	CD|NNP|CD	DATE|DATE|DATE	1794-09-19|1794-09-19|1794-09-19	19.0	1794-09-19	1794.0	
+138	1	fb:cell.scarborough	Scarborough	scarborough	Scarborough	NNP	PERSON					
+138	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+138	3	fb:cell.the_lord_mulgrave	The Lord Mulgrave	the|lord|mulgrave	the|Lord|Mulgrave	DT|NNP|NNP	O|O|PERSON	||				The Lord Mulgrave
+138	4	fb:cell.edmund_phipps	Edmund Phipps	edmund|phipps	Edmund|Phipps	NNP|NNP	PERSON|PERSON	|				Edmund Phipps
+138	5	fb:cell.became_a_british_peer	Became a British Peer	became|a|british|peer	become|a|british|peer	VBD|DT|JJ|NN	O|O|MISC|O	|||				
+139	0	fb:cell.20_september_1794	20 September 1794	20|september|1794	20|September|1794	CD|NNP|CD	DATE|DATE|DATE	1794-09-20|1794-09-20|1794-09-20	20.0	1794-09-20	1794.0	
+139	1	fb:cell.cirencester	Cirencester	cirencester	Cirencester	NNP	PERSON					
+139	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+139	3	fb:cell.lord_apsley	Lord Apsley	lord|apsley	Lord|Apsley	NNP|NNP	PERSON|PERSON	|				Lord Apsley
+139	4	fb:cell.michael_hicks_beach	Michael Hicks Beach	michael|hicks|beach	Michael|Hicks|Beach	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Michael Hicks Beach
+139	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+140	0	fb:cell.3_october_1794	3 October 1794	3|october|1794	3|October|1794	CD|NNP|CD	DATE|DATE|DATE	1794-10-03|1794-10-03|1794-10-03	3.0	1794-10-03	1794.0	
+140	1	fb:cell.weymouth_and_melcombe_regis	Weymouth and Melcombe Regis	weymouth|and|melcombe|regis	Weymouth|and|Melcombe|Regis	NNP|CC|NNP|NNP	LOCATION|O|PERSON|PERSON	|||				
+140	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+140	3	fb:cell.sir_james_johnstone	Sir James Johnstone	sir|james|johnstone	Sir|James|Johnstone	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir James Johnstone
+140	4	fb:cell.gabriel_tucker_steward	Gabriel Tucker Steward	gabriel|tucker|steward	Gabriel|Tucker|Steward	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Gabriel Tucker Steward
+140	5	fb:cell.death	Death	death	death	NN	O					
+141	0	fb:cell.10_october_1794	10 October 1794	10|october|1794	10|October|1794	CD|NNP|CD	DATE|DATE|DATE	1794-10-10|1794-10-10|1794-10-10	10.0	1794-10-10	1794.0	
+141	1	fb:cell.ludlow	Ludlow	ludlow	Ludlow	NNP	PERSON					
+141	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+141	3	fb:cell.the_lord_clive	The Lord Clive	the|lord|clive	the|Lord|Clive	DT|NNP|NNP	O|O|PERSON	||				The Lord Clive
+141	4	fb:cell.robert_clive	Robert Clive	robert|clive	Robert|Clive	NNP|NNP	PERSON|PERSON	|				Robert Clive
+141	5	fb:cell.became_a_british_peer	Became a British Peer	became|a|british|peer	become|a|british|peer	VBD|DT|JJ|NN	O|O|MISC|O	|||				
+142	0	fb:cell.17_october_1794	17 October 1794	17|october|1794	17|October|1794	CD|NNP|CD	DATE|DATE|DATE	1794-10-17|1794-10-17|1794-10-17	17.0	1794-10-17	1794.0	
+142	1	fb:cell.city_durham	City Durham	city|durham	City|Durham	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+142	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+142	3	fb:cell.john_tempest_jr	John Tempest, Jr.	john|tempest|,|jr.|.	John|Tempest|,|Jr.|.	NNP|NNP|,|NNP|.	PERSON|PERSON|O|O|O	||||				John Tempest|Jr.
+142	4	fb:cell.sir_henry_vane	Sir Henry Vane	sir|henry|vane	Sir|Henry|vane	NNP|NNP|NN	O|PERSON|PERSON	||				Sir Henry Vane
+142	5	fb:cell.death	Death	death	death	NN	O					
+143	0	fb:cell.20_october_1794	20 October 1794	20|october|1794	20|October|1794	CD|NNP|CD	DATE|DATE|DATE	1794-10-20|1794-10-20|1794-10-20	20.0	1794-10-20	1794.0	
+143	1	fb:cell.beaumaris	Beaumaris	beaumaris	Beaumaris	NNP	PERSON					
+143	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+143	3	fb:cell.sir_hugh_williams	Sir Hugh Williams	sir|hugh|williams	Sir|Hugh|Williams	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Hugh Williams
+143	4	fb:cell.sir_watkin_williams_wynn	Sir Watkin Williams Wynn	sir|watkin|williams|wynn	Sir|Watkin|Williams|Wynn	NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||				Sir Watkin Williams Wynn
+143	5	fb:cell.death	Death	death	death	NN	O					
+144	0	fb:cell.7_november_1794	7 November 1794	7|november|1794	7|November|1794	CD|NNP|CD	DATE|DATE|DATE	1794-11-07|1794-11-07|1794-11-07	7.0	1794-11-07	1794.0	
+144	1	fb:cell.surrey	Surrey	surrey	Surrey	NNP	ORGANIZATION					
+144	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+144	3	fb:cell.william_clement_finch	William Clement Finch	william|clement|finch	William|Clement|Finch	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				William Clement Finch
+144	4	fb:cell.sir_john_frederick	Sir John Frederick	sir|john|frederick	Sir|John|Frederick	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir John Frederick
+144	5	fb:cell.death	Death	death	death	NN	O					
+145	0	fb:cell.10_november_1794	10 November 1794	10|november|1794	10|November|1794	CD|NNP|CD	DATE|DATE|DATE	1794-11-10|1794-11-10|1794-11-10	10.0	1794-11-10	1794.0	
+145	1	fb:cell.stirlingshire	Stirlingshire	stirlingshire	stirlingshire	NN	PERSON					
+145	2	fb:cell.u	u	u	u	NNP	O					
+145	3	fb:cell.sir_thomas_dundas	Sir Thomas Dundas	sir|thomas|dundas	Sir|Thomas|Dundas	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Thomas Dundas
+145	4	fb:cell.robert_graham	Robert Graham	robert|graham	Robert|Graham	NNP|NNP	PERSON|PERSON	|				Robert Graham
+145	5	fb:cell.elevated_to_the_peerage	Elevated to the peerage	elevated|to|the|peerage	elevated|to|the|peerage	JJ|TO|DT|NN	O|O|O|O	|||				
+146	0	fb:cell.22_november_1794	22 November 1794	22|november|1794	22|November|1794	CD|NNP|CD	DATE|DATE|DATE	1794-11-22|1794-11-22|1794-11-22	22.0	1794-11-22	1794.0	
+146	1	fb:cell.anglesey	Anglesey	anglesey	Anglesey	NNP	LOCATION					
+146	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+146	3	fb:cell.william_paget	William Paget	william|paget	William|paget	NNP|NN	PERSON|PERSON	|				William Paget
+146	4	fb:cell.arthur_paget	Arthur Paget	arthur|paget	Arthur|paget	NNP|NN	PERSON|PERSON	|				Arthur Paget
+146	5	fb:cell.death	Death	death	death	NN	O					
+147	0	fb:cell.5_january_1795	5 January 1795	5|january|1795	5|January|1795	CD|NNP|CD	DATE|DATE|DATE	1795-01-05|1795-01-05|1795-01-05	5.0	1795-01-05	1795.0	
+147	1	fb:cell.hindon	Hindon	hindon	Hindon	NNP	PERSON					
+147	2	fb:cell.u	u	u	u	NNP	O					
+147	3	fb:cell.william_thomas_beckford	William Thomas Beckford	william|thomas|beckford	William|Thomas|Beckford	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				William Thomas Beckford
+147	4	fb:cell.thomas_wildman	Thomas Wildman	thomas|wildman	Thomas|Wildman	NNP|NNP	PERSON|PERSON	|				Thomas Wildman
+147	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+148	0	fb:cell.9_january_1795	9 January 1795	9|january|1795	9|January|1795	CD|NNP|CD	DATE|DATE|DATE	1795-01-09|1795-01-09|1795-01-09	9.0	1795-01-09	1795.0	
+148	1	fb:cell.launceston	Launceston	launceston	Launceston	NNP	LOCATION					
+148	2	fb:cell.c	c	c	c	NN	O					
+148	3	fb:cell.sir_henry_clinton	Sir Henry Clinton	sir|henry|clinton	Sir|Henry|Clinton	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Henry Clinton
+148	4	fb:cell.william_garthshore	William Garthshore	william|garthshore	William|Garthshore	NNP|NNP	PERSON|PERSON	|				William Garthshore
+148	5	fb:cell.resignation_governor_of_gibraltar	Resignation (Governor of Gibraltar)	resignation|-lrb-|governor|of|gibraltar|-rrb-	resignation|-lrb-|governor|of|Gibraltar|-rrb-	NN|-LRB-|NN|IN|NNP|-RRB-	O|O|O|O|LOCATION|O	|||||				
+149	0	fb:cell.10_january_1795	10 January 1795	10|january|1795	10|January|1795	CD|NNP|CD	DATE|DATE|DATE	1795-01-10|1795-01-10|1795-01-10	10.0	1795-01-10	1795.0	
+149	1	fb:cell.morpeth	Morpeth	morpeth	morpeth	NN	O					
+149	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+149	3	fb:cell.francis_gregg	Francis Gregg	francis|gregg	Francis|Gregg	NNP|NNP	PERSON|PERSON	|				Francis Gregg
+149	4	fb:cell.viscount_morpeth	Viscount Morpeth	viscount|morpeth	Viscount|Morpeth	NNP|NNP	PERSON|PERSON	|				Viscount Morpeth
+149	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+150	0	fb:cell.10_january_1795	10 January 1795	10|january|1795	10|January|1795	CD|NNP|CD	DATE|DATE|DATE	1795-01-10|1795-01-10|1795-01-10	10.0	1795-01-10	1795.0	
+150	1	fb:cell.wiltshire	Wiltshire	wiltshire	Wiltshire	NNP	LOCATION					
+150	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+150	3	fb:cell.sir_james_tylney_long	Sir James Tylney Long	sir|james|tylney|long	Sir|James|Tylney|Long	NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||				Sir James Tylney Long
+150	4	fb:cell.henry_penruddocke_wyndham	Henry Penruddocke Wyndham	henry|penruddocke|wyndham	Henry|Penruddocke|Wyndham	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Henry Penruddocke Wyndham
+150	5	fb:cell.death	Death	death	death	NN	O					
+151	0	fb:cell.12_january_1795	12 January 1795	12|january|1795	12|January|1795	CD|NNP|CD	DATE|DATE|DATE	1795-01-12|1795-01-12|1795-01-12	12.0	1795-01-12	1795.0	
+151	1	fb:cell.petersfield	Petersfield	petersfield	Petersfield	NNP	LOCATION					
+151	2	fb:cell.u	u	u	u	NNP	O					
+151	3	fb:cell.welbore_ellis	Welbore Ellis	welbore|ellis	Welbore|Ellis	NNP|NNP	PERSON|PERSON	|				Welbore Ellis
+151	4	fb:cell.charles_greville	Charles Greville	charles|greville	Charles|Greville	NNP|NNP	PERSON|PERSON	|				Charles Greville
+151	5	fb:cell.elevated_to_the_peerage	Elevated to the peerage	elevated|to|the|peerage	elevated|to|the|peerage	JJ|TO|DT|NN	O|O|O|O	|||				
+152	0	fb:cell.14_january_1795	14 January 1795	14|january|1795	14|January|1795	CD|NNP|CD	DATE|DATE|DATE	1795-01-14|1795-01-14|1795-01-14	14.0	1795-01-14	1795.0	
+152	1	fb:cell.lichfield	Lichfield	lichfield	Lichfield	NNP	PERSON					
+152	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+152	3	fb:cell.thomas_gilbert	Thomas Gilbert	thomas|gilbert	Thomas|Gilbert	NNP|NNP	PERSON|PERSON	|				Thomas Gilbert
+152	4	fb:cell.lord_granville_leveson_gower	Lord Granville Leveson Gower	lord|granville|leveson|gower	Lord|Granville|Leveson|Gower	NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||				Lord Granville Leveson Gower
+152	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+153	0	fb:cell.15_january_1795	15 January 1795	15|january|1795	15|January|1795	CD|NNP|CD	DATE|DATE|DATE	1795-01-15|1795-01-15|1795-01-15	15.0	1795-01-15	1795.0	
+153	1	fb:cell.westbury	Westbury	westbury	Westbury	NNP	LOCATION					
+153	2	fb:cell.u	u	u	u	NNP	O					
+153	3	fb:cell.ewan_law	Ewan Law	ewan|law	Ewan|Law	NNP|NNP	PERSON|PERSON	|				Ewan Law
+153	4	fb:cell.samuel_estwick_jr	Samuel Estwick, Jr.	samuel|estwick|,|jr.|.	Samuel|Estwick|,|Jr.|.	NNP|NNP|,|NNP|.	PERSON|PERSON|O|O|O	||||				Samuel Estwick|Jr.
+153	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+154	0	fb:cell.17_january_1795	17 January 1795	17|january|1795	17|January|1795	CD|NNP|CD	DATE|DATE|DATE	1795-01-17|1795-01-17|1795-01-17	17.0	1795-01-17	1795.0	
+154	1	fb:cell.midhurst	Midhurst	midhurst	Midhurst	NNP	O					
+154	2	fb:cell.u	u	u	u	NNP	O					
+154	3	fb:cell.charles_william_wyndham	Charles William Wyndham	charles|william|wyndham	Charles|William|Wyndham	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Charles William Wyndham
+154	4	fb:cell.peter_isaac_thellusson	Peter Isaac Thellusson	peter|isaac|thellusson	Peter|Isaac|Thellusson	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Peter Isaac Thellusson
+154	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+155	0	fb:cell.21_january_1795	21 January 1795	21|january|1795	21|January|1795	CD|NNP|CD	DATE|DATE|DATE	1795-01-21|1795-01-21|1795-01-21	21.0	1795-01-21	1795.0	
+155	1	fb:cell.malton	Malton	malton	Malton	NNP	LOCATION					
+155	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+155	3	fb:cell.richard_burke	Richard Burke	richard|burke	Richard|Burke	NNP|NNP	PERSON|PERSON	|				Richard Burke
+155	4	fb:cell.william_baldwin	William Baldwin	william|baldwin	William|Baldwin	NNP|NNP	PERSON|PERSON	|				William Baldwin
+155	5	fb:cell.death	Death	death	death	NN	O					
+156	0	fb:cell.4_february_1795	4 February 1795	4|february|1795	4|February|1795	CD|NNP|CD	DATE|DATE|DATE	1795-02-04|1795-02-04|1795-02-04	4.0	1795-02-04	1795.0	
+156	1	fb:cell.caernarvon_boroughs	Caernarvon Boroughs	caernarvon|boroughs	Caernarvon|Boroughs	NNP|NNPS	PERSON|O	|				
+156	2	fb:cell.u	u	u	u	NNP	O					
+156	3	fb:cell.lord_paget	Lord Paget	lord|paget	Lord|paget	NNP|NN	O|PERSON	|				Lord Paget
+156	4	fb:cell.lord_paget	Lord Paget	lord|paget	Lord|paget	NNP|NN	O|PERSON	|				Lord Paget
+156	5	fb:cell.accepted_a_commission_in_the_army	Accepted a Commission in the Army	accepted|a|commission|in|the|army	accept|a|commission|in|the|Army	VBN|DT|NN|IN|DT|NNP	O|O|O|O|O|O	|||||				
+157	0	fb:cell.7_february_1795	7 February 1795	7|february|1795	7|February|1795	CD|NNP|CD	DATE|DATE|DATE	1795-02-07|1795-02-07|1795-02-07	7.0	1795-02-07	1795.0	
+157	1	fb:cell.leicester	Leicester	leicester	Leicester	NNP	LOCATION					
+157	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+157	3	fb:cell.thomas_boothby_parkyns	Thomas Boothby Parkyns	thomas|boothby|parkyns	Thomas|Boothby|Parkyns	NNP|NNP|NNPS	PERSON|PERSON|PERSON	||				Thomas Boothby Parkyns
+157	4	fb:cell.thomas_boothby_parkyns	Thomas Boothby Parkyns	thomas|boothby|parkyns	Thomas|Boothby|Parkyns	NNP|NNP|NNPS	PERSON|PERSON|PERSON	||				Thomas Boothby Parkyns
+157	5	fb:cell.accepted_a_commission_in_the_army	Accepted a Commission in the Army	accepted|a|commission|in|the|army	accept|a|commission|in|the|Army	VBN|DT|NN|IN|DT|NNP	O|O|O|O|O|O	|||||				
+158	0	fb:cell.11_february_1795	11 February 1795	11|february|1795	11|February|1795	CD|NNP|CD	DATE|DATE|DATE	1795-02-11|1795-02-11|1795-02-11	11.0	1795-02-11	1795.0	
+158	1	fb:cell.arundel	Arundel	arundel	Arundel	NNP	PERSON					
+158	2	fb:cell.u	u	u	u	NNP	O					
+158	3	fb:cell.henry_thomas_howard	Henry Thomas Howard	henry|thomas|howard	Henry|Thomas|Howard	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Henry Thomas Howard
+158	4	fb:cell.sir_thomas_gascoigne	Sir Thomas Gascoigne	sir|thomas|gascoigne	Sir|Thomas|Gascoigne	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Thomas Gascoigne
+158	5	fb:cell.resignation_to_contest_gloucester	Resignation to contest Gloucester	resignation|to|contest|gloucester	resignation|to|contest|Gloucester	NN|TO|NN|NNP	O|O|O|LOCATION	|||				
+159	0	fb:cell.11_february_1795	11 February 1795	11|february|1795	11|February|1795	CD|NNP|CD	DATE|DATE|DATE	1795-02-11|1795-02-11|1795-02-11	11.0	1795-02-11	1795.0	
+159	1	fb:cell.gloucester	Gloucester	gloucester	Gloucester	NNP	LOCATION					
+159	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+159	3	fb:cell.john_webb	John Webb	john|webb	John|Webb	NNP|NNP	PERSON|PERSON	|				John Webb
+159	4	fb:cell.henry_thomas_howard	Henry Thomas Howard	henry|thomas|howard	Henry|Thomas|Howard	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Henry Thomas Howard
+159	5	fb:cell.death	Death	death	death	NN	O					
+160	0	fb:cell.14_february_1795	14 February 1795	14|february|1795	14|February|1795	CD|NNP|CD	DATE|DATE|DATE	1795-02-14|1795-02-14|1795-02-14	14.0	1795-02-14	1795.0	
+160	1	fb:cell.fowey	Fowey	fowey	Fowey	NNP	PERSON					
+160	2	fb:cell.u	u	u	u	NNP	O					
+160	3	fb:cell.viscount_valletort	Viscount Valletort	viscount|valletort	Viscount|Valletort	NNP|NNP	PERSON|PERSON	|				Viscount Valletort
+160	4	fb:cell.sylvester_douglas	Sylvester Douglas	sylvester|douglas	Sylvester|Douglas	NNP|NNP	PERSON|PERSON	|				Sylvester Douglas
+160	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+161	0	fb:cell.20_february_1795	20 February 1795	20|february|1795	20|February|1795	CD|NNP|CD	DATE|DATE|DATE	1795-02-20|1795-02-20|1795-02-20	20.0	1795-02-20	1795.0	
+161	1	fb:cell.chester	Chester	chester	Chester	NNP	PERSON					
+161	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+161	3	fb:cell.thomas_grosvenor	Thomas Grosvenor	thomas|grosvenor	Thomas|Grosvenor	NNP|NNP	PERSON|PERSON	|				Thomas Grosvenor
+161	4	fb:cell.thomas_grosvenor	Thomas Grosvenor	thomas|grosvenor	Thomas|Grosvenor	NNP|NNP	PERSON|PERSON	|				Thomas Grosvenor
+161	5	fb:cell.death	Death	death	death	NN	O					
+162	0	fb:cell.21_february_1795	21 February 1795	21|february|1795	21|February|1795	CD|NNP|CD	DATE|DATE|DATE	1795-02-21|1795-02-21|1795-02-21	21.0	1795-02-21	1795.0	
+162	1	fb:cell.saltash	Saltash	saltash	saltash	NN	PERSON					
+162	2	fb:cell.u	u	u	u	NNP	O					
+162	3	fb:cell.viscount_garlies	Viscount Garlies	viscount|garlies	Viscount|Garlies	NNP|NNP	PERSON|PERSON	|				Viscount Garlies
+162	4	fb:cell.william_stewart	William Stewart	william|stewart	William|Stewart	NNP|NNP	PERSON|PERSON	|				William Stewart
+162	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+163	0	fb:cell.26_february_1795	26 February 1795	26|february|1795	26|February|1795	CD|NNP|CD	DATE|DATE|DATE	1795-02-26|1795-02-26|1795-02-26	26.0	1795-02-26	1795.0	
+163	1	fb:cell.tiverton	Tiverton	tiverton	Tiverton	NNP	LOCATION					
+163	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+163	3	fb:cell.sir_john_duntze	Sir John Duntze	sir|john|duntze	Sir|John|Duntze	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir John Duntze
+163	4	fb:cell.richard_ryder	Richard Ryder	richard|ryder	Richard|Ryder	NNP|NNP	PERSON|PERSON	|				Richard Ryder
+163	5	fb:cell.death	Death	death	death	NN	O					
+164	0	fb:cell.7_march_1795	7 March 1795	7|march|1795	7|March|1795	CD|NNP|CD	DATE|DATE|DATE	1795-03-07|1795-03-07|1795-03-07	7.0	1795-03-07	1795.0	
+164	1	fb:cell.wendover	Wendover	wendover	Wendover	NNP	O					
+164	2	fb:cell.u	u	u	u	NNP	O					
+164	3	fb:cell.lord_hugh_seymour	Lord Hugh Seymour	lord|hugh|seymour	Lord|Hugh|Seymour	NNP|NNP|NNP	O|PERSON|PERSON	||				Lord Hugh Seymour
+164	4	fb:cell.lord_hugh_seymour	Lord Hugh Seymour	lord|hugh|seymour	Lord|Hugh|Seymour	NNP|NNP|NNP	O|PERSON|PERSON	||				Lord Hugh Seymour
+164	5	fb:cell.lord_of_the_admiralty	Lord of the Admiralty	lord|of|the|admiralty	Lord|of|the|admiralty	NNP|IN|DT|NN	O|O|O|O	|||				
+165	0	fb:cell.9_march_1795	9 March 1795	9|march|1795	9|March|1795	CD|NNP|CD	DATE|DATE|DATE	1795-03-09|1795-03-09|1795-03-09	9.0	1795-03-09	1795.0	
+165	1	fb:cell.dorset	Dorset	dorset	Dorset	NNP	PERSON					
+165	2	fb:cell.u	u	u	u	NNP	O					
+165	3	fb:cell.viscount_parker	Viscount Parker	viscount|parker	Viscount|Parker	NNP|NNP	PERSON|PERSON	|				Viscount Parker
+165	4	fb:cell.thomas_fownes_luttrell	Thomas Fownes Luttrell	thomas|fownes|luttrell	Thomas|Fownes|Luttrell	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Thomas Fownes Luttrell
+165	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+166	0	fb:cell.12_march_1795	12 March 1795	12|march|1795	12|March|1795	CD|NNP|CD	DATE|DATE|DATE	1795-03-12|1795-03-12|1795-03-12	12.0	1795-03-12	1795.0	
+166	1	fb:cell.city_of_london	City of London	city|of|london	city|of|London	NN|IN|NNP	O|O|LOCATION	||				
+166	2	fb:cell.c_2	c*	c|*	c|*	NNP|SYM	O|O	|				
+166	3	fb:cell.john_sawbridge	John Sawbridge	john|sawbridge	John|Sawbridge	NNP|NNP	PERSON|PERSON	|				John Sawbridge
+166	4	fb:cell.william_lushington	William Lushington	william|lushington	William|Lushington	NNP|NNP	PERSON|PERSON	|				William Lushington
+166	5	fb:cell.death	Death	death	death	NN	O					
+167	0	fb:cell.13_march_1795	13 March 1795	13|march|1795	13|March|1795	CD|NNP|CD	DATE|DATE|DATE	1795-03-13|1795-03-13|1795-03-13	13.0	1795-03-13	1795.0	
+167	1	fb:cell.bridport	Bridport	bridport	Bridport	NNP	PERSON					
+167	2	fb:cell.c_2	c*	c|*	c|*	NNP|SYM	O|O	|				
+167	3	fb:cell.james_watson	James Watson	james|watson	James|Watson	NNP|NNP	PERSON|PERSON	|				James Watson
+167	4	fb:cell.george_barclay	George Barclay	george|barclay	George|Barclay	NNP|NNP	PERSON|PERSON	|				George Barclay
+167	5	fb:cell.resignation_puisne_justice_in_bengal	Resignation (Puisne Justice in Bengal)	resignation|-lrb-|puisne|justice|in|bengal|-rrb-	resignation|-lrb-|puisne|justice|in|Bengal|-rrb-	NN|-LRB-|NN|NN|IN|NNP|-RRB-	O|O|O|O|O|LOCATION|O	||||||				
+168	0	fb:cell.23_march_1795	23 March 1795	23|march|1795	23|March|1795	CD|NNP|CD	DATE|DATE|DATE	1795-03-23|1795-03-23|1795-03-23	23.0	1795-03-23	1795.0	
+168	1	fb:cell.kirkcudbright_stewartry	Kirkcudbright Stewartry	kirkcudbright|stewartry	kirkcudbright|stewartry	NN|NN	O|O	|				
+168	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+168	3	fb:cell.alexander_stewart	Alexander Stewart	alexander|stewart	Alexander|Stewart	NNP|NNP	PERSON|PERSON	|				Alexander Stewart
+168	4	fb:cell.patrick_heron	Patrick Heron	patrick|heron	Patrick|Heron	NNP|NNP	PERSON|PERSON	|				Patrick Heron
+168	5	fb:cell.death	Death	death	death	NN	O					
+169	0	fb:cell.26_march_1795	26 March 1795	26|march|1795	26|March|1795	CD|NNP|CD	DATE|DATE|DATE	1795-03-26|1795-03-26|1795-03-26	26.0	1795-03-26	1795.0	
+169	1	fb:cell.preston	Preston	preston	Preston	NNP	PERSON					
+169	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+169	3	fb:cell.sir_henry_hoghton	Sir Henry Hoghton	sir|henry|hoghton	Sir|Henry|Hoghton	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Henry Hoghton
+169	4	fb:cell.sir_henry_philip_hoghton	Sir Henry Philip Hoghton	sir|henry|philip|hoghton	Sir|Henry|Philip|Hoghton	NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||				Sir Henry Philip Hoghton
+169	5	fb:cell.death	Death	death	death	NN	O					
+170	0	fb:cell.27_march_1795	27 March 1795	27|march|1795	27|March|1795	CD|NNP|CD	DATE|DATE|DATE	1795-03-27|1795-03-27|1795-03-27	27.0	1795-03-27	1795.0	
+170	1	fb:cell.east_looe	East Looe	east|looe	East|Looe	NNP|NNP	LOCATION|LOCATION	|				
+170	2	fb:cell.u	u	u	u	NNP	O					
+170	3	fb:cell.william_wellesley_pole	William Wellesley Pole	william|wellesley|pole	William|Wellesley|Pole	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				William Wellesley Pole
+170	4	fb:cell.charles_arbuthnot	Charles Arbuthnot	charles|arbuthnot	Charles|Arbuthnot	NNP|NNP	PERSON|PERSON	|				Charles Arbuthnot
+170	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+171	0	fb:cell.4_april_1795	4 April 1795	4|april|1795	4|April|1795	CD|NNP|CD	DATE|DATE|DATE	1795-04-04|1795-04-04|1795-04-04	4.0	1795-04-04	1795.0	
+171	1	fb:cell.montgomeryshire	Montgomeryshire	montgomeryshire	montgomeryshire	NN	PERSON					
+171	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+171	3	fb:cell.william_mostyn_owen	William Mostyn Owen	william|mostyn|owen	William|Mostyn|Owen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				William Mostyn Owen
+171	4	fb:cell.francis_lloyd	Francis Lloyd	francis|lloyd	Francis|Lloyd	NNP|NNP	PERSON|PERSON	|				Francis Lloyd
+171	5	fb:cell.death	Death	death	death	NN	O					
+172	0	fb:cell.28_april_1795	28 April 1795	28|april|1795	28|April|1795	CD|NNP|CD	DATE|DATE|DATE	1795-04-28|1795-04-28|1795-04-28	28.0	1795-04-28	1795.0	
+172	1	fb:cell.bridgnorth	Bridgnorth	bridgnorth	Bridgnorth	NNP	PERSON					
+172	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+172	3	fb:cell.thomas_whitmore	Thomas Whitmore	thomas|whitmore	Thomas|Whitmore	NNP|NNP	PERSON|PERSON	|				Thomas Whitmore
+172	4	fb:cell.john_whitmore	John Whitmore	john|whitmore	John|Whitmore	NNP|NNP	PERSON|PERSON	|				John Whitmore
+172	5	fb:cell.death	Death	death	death	NN	O					
+173	0	fb:cell.29_may_1795	29 May 1795	29|may|1795	29|may|1795	CD|VBD-AUX|CD	DATE|DATE|DATE	1795-05-29|1795-05-29|1795-05-29	29.0	1795-05-29	1795.0	
+173	1	fb:cell.great_yarmouth	Great Yarmouth	great|yarmouth	great|Yarmouth	JJ|NNP	PERSON|PERSON	|				
+173	2	fb:cell.c_2	c*	c|*	c|*	NNP|SYM	O|O	|				
+173	3	fb:cell.henry_beaufoy	Henry Beaufoy	henry|beaufoy	Henry|Beaufoy	NNP|NNP	PERSON|PERSON	|				Henry Beaufoy
+173	4	fb:cell.stephens_howe	Stephens Howe	stephens|howe	Stephens|Howe	NNP|NNP	PERSON|PERSON	|				Stephens Howe
+173	5	fb:cell.death	Death	death	death	NN	O					
+174	0	fb:cell.30_may_1795	30 May 1795	30|may|1795	30|may|1795	CD|VBD-AUX|CD	DATE|DATE|DATE	1795-05-30|1795-05-30|1795-05-30	30.0	1795-05-30	1795.0	
+174	1	fb:cell.new_shoreham	New Shoreham	new|shoreham	new|Shoreham	JJ|NNP	PERSON|PERSON	|				
+174	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+174	3	fb:cell.john_clater_aldridge	John Clater Aldridge	john|clater|aldridge	John|Clater|Aldridge	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				John Clater Aldridge
+174	4	fb:cell.charles_william_wyndham	Charles William Wyndham	charles|william|wyndham	Charles|William|Wyndham	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Charles William Wyndham
+174	5	fb:cell.death	Death	death	death	NN	O					
+175	0	fb:cell.4_june_1795	4 June 1795	4|june|1795	4|June|1795	CD|NNP|CD	DATE|DATE|DATE	1795-06-04|1795-06-04|1795-06-04	4.0	1795-06-04	1795.0	
+175	1	fb:cell.amersham	Amersham	amersham	Amersham	NNP	ORGANIZATION					
+175	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+175	3	fb:cell.william_drake	William Drake	william|drake	William|Drake	NNP|NNP	PERSON|PERSON	|				William Drake
+175	4	fb:cell.thomas_drake_tyrwhitt	Thomas Drake Tyrwhitt	thomas|drake|tyrwhitt	Thomas|Drake|Tyrwhitt	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Thomas Drake Tyrwhitt
+175	5	fb:cell.death	Death	death	death	NN	O					
+176	0	fb:cell.19_june_1795	19 June 1795	19|june|1795	19|June|1795	CD|NNP|CD	DATE|DATE|DATE	1795-06-19|1795-06-19|1795-06-19	19.0	1795-06-19	1795.0	
+176	1	fb:cell.helston	Helston	helston	Helston	NNP	PERSON					
+176	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+176	3	fb:cell.sir_gilbert_elliott	Sir Gilbert Elliott	sir|gilbert|elliott	Sir|Gilbert|Elliott	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir Gilbert Elliott
+176	4	fb:cell.charles_abbot	Charles Abbot	charles|abbot	Charles|Abbot	NNP|NNP	PERSON|PERSON	|				Charles Abbot
+176	5	fb:cell.resignation_viceroy_of_corsica	Resignation (Viceroy of Corsica)	resignation|-lrb-|viceroy|of|corsica|-rrb-	resignation|-lrb-|viceroy|of|Corsica|-rrb-	NN|-LRB-|NN|IN|NNP|-RRB-	O|O|O|O|LOCATION|O	|||||				
+177	0	fb:cell.24_july_1795	24 July 1795	24|july|1795	24|July|1795	CD|NNP|CD	DATE|DATE|DATE	1795-07-24|1795-07-24|1795-07-24	24.0	1795-07-24	1795.0	
+177	1	fb:cell.banffshire	Banffshire	banffshire	banffshire	NN	PERSON					
+177	2	fb:cell.u	u	u	u	NNP	O					
+177	3	fb:cell.sir_james_grant	Sir James Grant	sir|james|grant	Sir|James|Grant	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir James Grant
+177	4	fb:cell.david_mcdowall_grant	David McDowall Grant	david|mcdowall|grant	David|McDowall|Grant	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				David McDowall Grant
+177	5	fb:cell.resignation_cashier_of_excise_in_scotland	Resignation (Cashier of Excise in Scotland)	resignation|-lrb-|cashier|of|excise|in|scotland|-rrb-	resignation|-lrb-|cashier|of|excise|in|Scotland|-rrb-	NN|-LRB-|NN|IN|NN|IN|NNP|-RRB-	O|O|O|O|O|O|LOCATION|O	|||||||				
+178	0	fb:cell.14_august_1795	14 August 1795	14|august|1795	14|August|1795	CD|NNP|CD	DATE|DATE|DATE	1795-08-14|1795-08-14|1795-08-14	14.0	1795-08-14	1795.0	
+178	1	fb:cell.northumberland	Northumberland	northumberland	Northumberland	NNP	LOCATION					
+178	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+178	3	fb:cell.sir_william_middleton	Sir William Middleton	sir|william|middleton	Sir|William|Middleton	NNP|NNP|NNP	O|PERSON|PERSON	||				Sir William Middleton
+178	4	fb:cell.thomas_richard_beaumont	Thomas Richard Beaumont	thomas|richard|beaumont	Thomas|Richard|Beaumont	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Thomas Richard Beaumont
+178	5	fb:cell.death	Death	death	death	NN	O					
+179	0	fb:cell.21_september_1795	21 September 1795	21|september|1795	21|September|1795	CD|NNP|CD	DATE|DATE|DATE	1795-09-21|1795-09-21|1795-09-21	21.0	1795-09-21	1795.0	
+179	1	fb:cell.somerset	Somerset	somerset	Somerset	NNP	O					
+179	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+179	3	fb:cell.henry_hippisley_coxe	Henry Hippisley Coxe	henry|hippisley|coxe	Henry|Hippisley|Coxe	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Henry Hippisley Coxe
+179	4	fb:cell.william_gore_langton	William Gore Langton	william|gore|langton	William|Gore|Langton	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				William Gore Langton
+179	5	fb:cell.death	Death	death	death	NN	O					
+180	0	fb:cell.26_september_1795	26 September 1795	26|september|1795	26|September|1795	CD|NNP|CD	DATE|DATE|DATE	1795-09-26|1795-09-26|1795-09-26	26.0	1795-09-26	1795.0	
+180	1	fb:cell.rutland	Rutland	rutland	Rutland	NNP	LOCATION					
+180	2	fb:cell.u	u	u	u	NNP	O					
+180	3	fb:cell.john_heathcote	John Heathcote	john|heathcote	John|Heathcote	NNP|NNP	PERSON|PERSON	|				John Heathcote
+180	4	fb:cell.lord_sherard	Lord Sherard	lord|sherard	Lord|Sherard	NNP|NNP	O|PERSON	|				Lord Sherard
+180	5	fb:cell.death	Death	death	death	NN	O					
+181	0	fb:cell.28_september_1795	28 September 1795	28|september|1795	28|September|1795	CD|NNP|CD	DATE|DATE|DATE	1795-09-28|1795-09-28|1795-09-28	28.0	1795-09-28	1795.0	
+181	1	fb:cell.berwick_upon_tweed	Berwick-upon-Tweed	berwick|upon|tweed	Berwick|upon|Tweed	NNP|IN|NNP	ORGANIZATION|O|O	||				
+181	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+181	3	fb:cell.john_vaughan	John Vaughan	john|vaughan	John|Vaughan	NNP|NNP	PERSON|PERSON	|				John Vaughan
+181	4	fb:cell.john_callender	John Callender	john|callender	John|Callender	NNP|NNP	PERSON|PERSON	|				John Callender
+181	5	fb:cell.death	Death	death	death	NN	O					
+182	0	fb:cell.21_october_1795	21 October 1795	21|october|1795	21|October|1795	CD|NNP|CD	DATE|DATE|DATE	1795-10-21|1795-10-21|1795-10-21	21.0	1795-10-21	1795.0	
+182	1	fb:cell.new_woodstock	New Woodstock	new|woodstock	new|Woodstock	JJ|NNP	O|O	|				
+182	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+182	3	fb:cell.lord_henry_john_spencer	Lord Henry John Spencer	lord|henry|john|spencer	Lord|Henry|John|Spencer	NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||				Lord Henry John Spencer
+182	4	fb:cell.the_lord_lavington	The Lord Lavington	the|lord|lavington	the|Lord|Lavington	DT|NNP|NNP	O|O|PERSON	||				The Lord Lavington
+182	5	fb:cell.death	Death	death	death	NN	O					
+183	0	fb:cell.6_november_1795	6 November 1795	6|november|1795	6|November|1795	CD|NNP|CD	DATE|DATE|DATE	1795-11-06|1795-11-06|1795-11-06	6.0	1795-11-06	1795.0	
+183	1	fb:cell.eye	Eye	eye	eye	NN	O					
+183	2	fb:cell.u	u	u	u	NNP	O					
+183	3	fb:cell.peter_bathurst	Peter Bathurst	peter|bathurst	Peter|Bathurst	NNP|NNP	PERSON|PERSON	|				Peter Bathurst
+183	4	fb:cell.viscount_brome	Viscount Brome	viscount|brome	Viscount|Brome	NNP|NNP	PERSON|PERSON	|				Viscount Brome
+183	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+184	0	fb:cell.10_november_1795	10 November 1795	10|november|1795	10|November|1795	CD|NNP|CD	DATE|DATE|DATE	1795-11-10|1795-11-10|1795-11-10	10.0	1795-11-10	1795.0	
+184	1	fb:cell.st_mawes	St Mawes	st|mawes	st|mawe	JJ|NNS	PERSON|PERSON	|				
+184	2	fb:cell.u	u	u	u	NNP	O					
+184	3	fb:cell.thomas_calvert	Thomas Calvert	thomas|calvert	Thomas|Calvert	NNP|NNP	PERSON|PERSON	|				Thomas Calvert
+184	4	fb:cell.william_drummond	William Drummond	william|drummond	William|Drummond	NNP|NNP	PERSON|PERSON	|				William Drummond
+184	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+185	0	fb:cell.26_november_1795	26 November 1795	26|november|1795	26|November|1795	CD|NNP|CD	DATE|DATE|DATE	1795-11-26|1795-11-26|1795-11-26	26.0	1795-11-26	1795.0	
+185	1	fb:cell.haddingtonshire	Haddingtonshire	haddingtonshire	haddingtonshire	NN	O					
+185	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+185	3	fb:cell.john_hamilton	John Hamilton	john|hamilton	John|Hamilton	NNP|NNP	PERSON|PERSON	|				John Hamilton
+185	4	fb:cell.hew_hamilton_dalrymple	Hew Hamilton Dalrymple	hew|hamilton|dalrymple	Hew|Hamilton|Dalrymple	NNP|NNP|NNP	O|PERSON|PERSON	||				Hew Hamilton Dalrymple
+185	5	fb:cell.resignation_receiver_of_land_tax_in_scotland	Resignation (Receiver of Land Tax in Scotland)	resignation|-lrb-|receiver|of|land|tax|in|scotland|-rrb-	resignation|-lrb-|receiver|of|land|tax|in|Scotland|-rrb-	NN|-LRB-|NN|IN|NN|NN|IN|NNP|-RRB-	O|O|O|O|O|O|O|LOCATION|O	||||||||				
+186	0	fb:cell.27_november_1795	27 November 1795	27|november|1795	27|November|1795	CD|NNP|CD	DATE|DATE|DATE	1795-11-27|1795-11-27|1795-11-27	27.0	1795-11-27	1795.0	
+186	1	fb:cell.westbury	Westbury	westbury	Westbury	NNP	LOCATION					
+186	2	fb:cell.u	u	u	u	NNP	O					
+186	3	fb:cell.samuel_estwick	Samuel Estwick	samuel|estwick	Samuel|Estwick	NNP|NNP	PERSON|PERSON	|				Samuel Estwick
+186	4	fb:cell.edward_wilbraham_bootle	Edward Wilbraham Bootle	edward|wilbraham|bootle	Edward|Wilbraham|Bootle	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Edward Wilbraham Bootle
+186	5	fb:cell.death	Death	death	death	NN	O					
+187	0	fb:cell.6_january_1796	6 January 1796	6|january|1796	6|January|1796	CD|NNP|CD	DATE|DATE|DATE	1796-01-06|1796-01-06|1796-01-06	6.0	1796-01-06	1796.0	
+187	1	fb:cell.beaumaris	Beaumaris	beaumaris	Beaumaris	NNP	PERSON					
+187	2	fb:cell.u	u	u	u	NNP	O					
+187	3	fb:cell.sir_watkin_williams_wynn	Sir Watkin Williams Wynn	sir|watkin|williams|wynn	Sir|Watkin|Williams|Wynn	NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||				Sir Watkin Williams Wynn
+187	4	fb:cell.sir_watkin_williams_wynn	Sir Watkin Williams Wynn	sir|watkin|williams|wynn	Sir|Watkin|Williams|Wynn	NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||				Sir Watkin Williams Wynn
+187	5	fb:cell.steward_of_bromfield_and_yale	Steward of Bromfield and Yale	steward|of|bromfield|and|yale	Steward|of|Bromfield|and|Yale	NNP|IN|NNP|CC|NNP	PERSON|PERSON|PERSON|O|ORGANIZATION	||||				
+188	0	fb:cell.12_february_1796	12 February 1796	12|february|1796	12|February|1796	CD|NNP|CD	DATE|DATE|DATE	1796-02-12|1796-02-12|1796-02-12	12.0	1796-02-12	1796.0	
+188	1	fb:cell.hindon	Hindon	hindon	Hindon	NNP	PERSON					
+188	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+188	3	fb:cell.thomas_wildman	Thomas Wildman	thomas|wildman	Thomas|Wildman	NNP|NNP	PERSON|PERSON	|				Thomas Wildman
+188	4	fb:cell.james_wildman	James Wildman	james|wildman	James|Wildman	NNP|NNP	PERSON|PERSON	|				James Wildman
+188	5	fb:cell.death	Death	death	death	NN	O					
+189	0	fb:cell.19_march_1796	19 March 1796	19|march|1796	19|March|1796	CD|NNP|CD	DATE|DATE|DATE	1796-03-19|1796-03-19|1796-03-19	19.0	1796-03-19	1796.0	
+189	1	fb:cell.camelford	Camelford	camelford	Camelford	NNP	PERSON					
+189	2	fb:cell.u	u	u	u	NNP	O					
+189	3	fb:cell.james_macpherson	James Macpherson	james|macpherson	James|Macpherson	NNP|NNP	PERSON|PERSON	|				James Macpherson
+189	4	fb:cell.lord_william_bentinck	Lord William Bentinck	lord|william|bentinck	Lord|William|Bentinck	NNP|NNP|NNP	O|PERSON|PERSON	||				Lord William Bentinck
+189	5	fb:cell.death	Death	death	death	NN	O					
+190	0	fb:cell.4_april_1796	4 April 1796	4|april|1796	4|April|1796	CD|NNP|CD	DATE|DATE|DATE	1796-04-04|1796-04-04|1796-04-04	4.0	1796-04-04	1796.0	
+190	1	fb:cell.perth_burghs	Perth Burghs	perth|burghs	Perth|Burghs	NNP|NNP	PERSON|PERSON	|				
+190	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+190	3	fb:cell.george_murray	George Murray	george|murray	George|Murray	NNP|NNP	PERSON|PERSON	|				George Murray
+190	4	fb:cell.david_scott	David Scott	david|scott	David|Scott	NNP|NNP	PERSON|PERSON	|				David Scott
+190	5	fb:cell.resignation	Resignation	resignation	resignation	NN	O					
+191	0	fb:cell.16_april_1796	16 April 1796	16|april|1796	16|April|1796	CD|NNP|CD	DATE|DATE|DATE	1796-04-16|1796-04-16|1796-04-16	16.0	1796-04-16	1796.0	
+191	1	fb:cell.bossiney	Bossiney	bossiney	bossiney	NN	PERSON					
+191	2	fb:cell.u	u	u	u	NNP	O					
+191	3	fb:cell.humphrey_minchin	Humphrey Minchin	humphrey|minchin	Humphrey|Minchin	NNP|NNP	PERSON|PERSON	|				Humphrey Minchin
+191	4	fb:cell.evelyn_pierrepont	Evelyn Pierrepont	evelyn|pierrepont	Evelyn|Pierrepont	NNP|NNP	PERSON|PERSON	|				Evelyn Pierrepont
+191	5	fb:cell.death	Death	death	death	NN	O					
+192	0	fb:cell.25_april_1796	25 April 1796	25|april|1796	25|April|1796	CD|NNP|CD	DATE|DATE|DATE	1796-04-25|1796-04-25|1796-04-25	25.0	1796-04-25	1796.0	
+192	1	fb:cell.forfarshire	Forfarshire	forfarshire	forfarshire	NN	O					
+192	2	fb:cell.u	u	u	u	NNP	O					
+192	3	fb:cell.david_scott	David Scott	david|scott	David|Scott	NNP|NNP	PERSON|PERSON	|				David Scott
+192	4	fb:cell.william_maule	William Maule	william|maule	William|Maule	NNP|NNP	PERSON|PERSON	|				William Maule
+192	5	fb:cell.resignation_to_contest_perth_burghs	Resignation to contest Perth Burghs	resignation|to|contest|perth|burghs	resignation|to|contest|Perth|Burghs	NN|TO|NN|NNP|NNP	O|O|O|PERSON|PERSON	||||				
+193	0	fb:cell.9_may_1796	9 May 1796	9|may|1796	9|may|1796	CD|VBD-AUX|CD	DATE|DATE|DATE	1796-05-09|1796-05-09|1796-05-09	9.0	1796-05-09	1796.0	
+193	1	fb:cell.northampton	Northampton	northampton	Northampton	NNP	LOCATION					
+193	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+193	3	fb:cell.lord_compton	Lord Compton	lord|compton	Lord|Compton	NNP|NNP	O|PERSON	|				Lord Compton
+193	4	fb:cell.spencer_perceval	Spencer Perceval	spencer|perceval	Spencer|Perceval	NNP|NNP	PERSON|PERSON	|				Spencer Perceval
+193	5	fb:cell.succeeded_to_a_peerage	Succeeded to a peerage	succeeded|to|a|peerage	succeed|to|a|peerage	VBN|TO|DT|NN	O|O|O|O	|||				
+194	0	fb:cell.14_may_1796	14 May 1796	14|may|1796	14|may|1796	CD|VBD-AUX|CD	DATE|DATE|DATE	1796-05-14|1796-05-14|1796-05-14	14.0	1796-05-14	1796.0	
+194	1	fb:cell.lincoln	Lincoln	lincoln	Lincoln	NNP	PERSON					
+194	2	fb:cell.u_2	u*	u|*	u|*	NNP|SYM	O|O	|				
+194	3	fb:cell.john_fenton_cawthorne	John Fenton Cawthorne	john|fenton|cawthorne	John|fenton|cawthorne	NNP|NN|NN	PERSON|PERSON|PERSON	||				John Fenton Cawthorne
+194	4	fb:cell.george_rawdon	George Rawdon	george|rawdon	George|Rawdon	NNP|NNP	PERSON|PERSON	|				George Rawdon
+194	5	fb:cell.expulsion	Expulsion	expulsion	expulsion	NN	O					

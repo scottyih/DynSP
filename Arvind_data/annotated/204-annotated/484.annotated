@@ -1,0 +1,141 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.song	Song	song	song	NN	O					
+-1	1	fb:row.row.artists	Artists	artists	artist	NNS	O					
+-1	2	fb:row.row.release	Release	release	release	NN	O					
+-1	3	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	4	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell._all_of_you	"All of You"	``|all|of|you|''	``|all|of|you|''	``|DT|IN|PRP|''	O|O|O|O|O	||||				
+0	1	fb:cell.riz_mc_aruba_red_plan_b	Riz MC, Aruba Red, Plan B	riz|mc|,|aruba|red|,|plan|b	Riz|MC|,|Aruba|Red|,|plan|b	NNP|NNP|,|NNP|NNP|,|NN|NN	PERSON|PERSON|O|LOCATION|O|O|O|O	|||||||				Riz MC|Aruba Red|Plan B
+0	2	fb:cell.microscope	MICroscope	microscope	microscope	NN	O					MICroscope
+0	3	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+0	4	fb:cell.original_2011_recording_does_not_feature_plan_b	Original 2011 recording does not feature Plan B	original|2011|recording|does|not|feature|plan|b	original|2011|recording|do|not|feature|plan|b	JJ|CD|NN|VBD-AUX|RB|VB|NN|NN	O|DATE|O|O|O|O|O|O	|2011||||||	2011.0			
+1	0	fb:cell._atomic	"Atomic"	``|atomic|''	``|atomic|''	``|JJ|''	O|O|O	||				
+1	1	fb:cell.labrinth_plan_b	Labrinth, Plan B	labrinth|,|plan|b	Labrinth|,|plan|b	NNP|,|NN|NN	O|O|O|O	|||				Labrinth|Plan B
+1	2	fb:cell.atomic	Atomic	atomic	atomic	JJ	O					Atomic
+1	3	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+1	4	fb:cell.null										
+2	0	fb:cell._before_i_die_remix	"Before I Die" (remix)	``|before|i|die|''|-lrb-|remix|-rrb-	``|before|I|die|''|-lrb-|remix|-rrb-	``|IN|PRP|VBP|''|-LRB-|NN|-RRB-	O|O|O|O|O|O|O|O	|||||||				
+2	1	fb:cell.professor_green_narstie_ghetto_plan_b_example	Professor Green, Narstie, Ghetto, Plan B, Example	professor|green|,|narstie|,|ghetto|,|plan|b|,|example	professor|green|,|narstie|,|ghetto|,|plan|b|,|example	NN|NN|,|NN|,|NN|,|NN|NN|,|NN	O|PERSON|O|PERSON|O|O|O|O|O|O|O	||||||||||				Professor Green|Narstie|Ghetto|Plan B|Example
+2	2	fb:cell._before_i_die	"Before I Die"	``|before|i|die|''	``|before|I|die|''	``|IN|PRP|VBP|''	O|O|O|O|O	||||				"Before I Die"
+2	3	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+2	4	fb:cell.null										
+3	0	fb:cell._bring_it_back	"Bring It Back"	``|bring|it|back|''	``|bring|it|back|''	``|VB|PRP|RB|''	O|O|O|O|O	||||				
+3	1	fb:cell.juse_j_b_plan_b_tyna	Juse, J.B., Plan B, Tyna	juse|,|j.b.|,|plan|b|,|tyna	Juse|,|J.B.|,|plan|b|,|tyna	NNP|,|NNP|,|NN|NN|,|NN	O|O|PERSON|O|O|O|O|PERSON	|||||||				Juse|J.B.|Plan B|Tyna
+3	2	fb:cell.global_casino	Global Casino	global|casino	global|casino	JJ|NN	O|O	|				Global Casino
+3	3	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+3	4	fb:cell.null										
+4	0	fb:cell._broken_wings	"Broken Wings"	``|broken|wings|''	``|broken|wing|''	``|JJ|NNS|''	O|O|O|O	|||				
+4	1	fb:cell.mc_purple_doctor_plan_b	MC Purple, Doctor, Plan B	mc|purple|,|doctor|,|plan|b	MC|Purple|,|doctor|,|plan|b	NNP|NNP|,|NN|,|NN|NN	O|O|O|O|O|O|O	||||||				MC Purple|Doctor|Plan B
+4	2	fb:cell.eye_of_the_tiger_vol_1	Eye of the Tiger, Vol. 1	eye|of|the|tiger|,|vol|.|1	eye|of|the|Tiger|,|Vol|.|1	NN|IN|DT|NNP|,|NNP|.|CD	O|O|O|O|O|O|O|NUMBER	|||||||1.0	0.1			Eye of the Tiger|Vol. 1
+4	3	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+4	4	fb:cell.null										
+5	0	fb:cell._cap_back	"Cap Back"	``|cap|back|''	``|cap|back|''	``|NN|RB|''	O|O|O|O	|||				
+5	1	fb:cell.wonder_plan_b	Wonder, Plan B	wonder|,|plan|b	Wonder|,|plan|b	NNP|,|NN|NN	O|O|O|O	|||				Wonder|Plan B
+5	2	fb:cell.run_the_road	Run the Road	run|the|road	run|the|road	VB|DT|NN	O|O|O	||				Run the Road
+5	3	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+5	4	fb:cell.null										
+6	0	fb:cell._end_credits	"End Credits"	``|end|credits|''	``|end|credit|''	``|VB|NNS|''	O|O|O|O	|||				
+6	1	fb:cell.chase_status_plan_b	Chase & Status, Plan B	chase|&|status|,|plan|b	Chase|&|status|,|plan|b	NNP|CC|NN|,|NN|NN	O|O|O|O|O|O	|||||				Chase & Status|Plan B
+6	2	fb:cell.no_more_idols	No More Idols	no|more|idols	no|more|idol	DT|JJR|NNS	O|O|O	||				No More Idols
+6	3	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+6	4	fb:cell.null										
+7	0	fb:cell._everyday_rusher_remix	"Everyday" (Rusher remix)	``|everyday|''|-lrb-|rusher|remix|-rrb-	``|everyday|''|-lrb-|rusher|remix|-rrb-	``|JJ|''|-LRB-|NN|NN|-RRB-	O|O|O|O|O|O|O	||||||				
+7	1	fb:cell.shameless_example_plan_b	Shameless, Example, Plan B	shameless|,|example|,|plan|b	shameless|,|example|,|plan|b	JJ|,|NN|,|NN|NN	O|O|O|O|O|O	|||||				Shameless|Example|Plan B
+7	2	fb:cell._everyday_in_a_broken_dream	"Everyday (In a Broken Dream)"	``|everyday|-lrb-|in|a|broken|dream|-rrb-|''	``|everyday|-lrb-|in|a|broken|dream|-rrb-|''	``|JJ|-LRB-|IN|DT|JJ|NN|-RRB-|''	O|O|O|O|O|O|O|O|O	||||||||				"Everyday (In a Broken Dream)"
+7	3	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+7	4	fb:cell.null										
+8	0	fb:cell._fool_yourself	"Fool Yourself"	``|fool|yourself|''	``|fool|yourself|''	``|NN|PRP|''	O|O|O|O	|||				
+8	1	fb:cell.chase_status_plan_b_rage	Chase & Status, Plan B, Rage	chase|&|status|,|plan|b|,|rage	Chase|&|status|,|plan|b|,|rage	NNP|CC|NN|,|NN|NN|,|NN	O|O|O|O|O|O|O|O	|||||||				Chase & Status|Plan B|Rage
+8	2	fb:cell.no_more_idols	No More Idols	no|more|idols	no|more|idol	DT|JJR|NNS	O|O|O	||				No More Idols
+8	3	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+8	4	fb:cell.null										
+9	0	fb:cell._harry_plan_b_remix	"Harry" (Plan B remix)	``|harry|''|-lrb-|plan|b|remix|-rrb-	``|Harry|''|-lrb-|plan|b|remix|-rrb-	``|NNP|''|-LRB-|NN|NN|NN|-RRB-	O|O|O|O|O|O|O|O	|||||||				
+9	1	fb:cell.medison_skrein_plan_b	Medison, Skrein, Plan B	medison|,|skrein|,|plan|b	Medison|,|skrein|,|plan|b	NNP|,|NN|,|NN|NN	ORGANIZATION|O|O|O|O|O	|||||				Medison|Skrein|Plan B
+9	2	fb:cell._harry	"Harry"	``|harry|''	``|Harry|''	``|NNP|''	O|O|O	||				"Harry"
+9	3	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+9	4	fb:cell.null										
+10	0	fb:cell._how_s_it_feel	"How's It Feel"	``|how|'s|it|feel|''	``|how|'s|it|feel|''	``|WRB|POS|PRP|VB|''	O|O|O|O|O|O	|||||				
+10	1	fb:cell.skrein_wyt_fang_plan_b	Skrein, Wyt-Fang, Plan B	skrein|,|wyt|fang|,|plan|b	Skrein|,|Wyt|Fang|,|plan|b	NNP|,|NNP|NNP|,|NN|NN	PERSON|O|O|O|O|O|O	||||||				Skrein|Wyt-Fang|Plan B
+10	2	fb:cell.the_eat_up	The Eat Up	the|eat|up	the|eat|up	DT|VB|RP	O|O|O	||				The Eat Up
+10	3	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+10	4	fb:cell.also_appears_on_it_s_time_4_plan_b_2006	Also appears on It's Time 4 Plan B (2006)	also|appears|on|it|'s|time|4|plan|b|-lrb-|2006|-rrb-	also|appear|on|it|be|time|4|plan|b|-lrb-|2006|-rrb-	RB|VBZ|IN|PRP|VBZ|NN|CD|NN|NN|-LRB-|CD|-RRB-	O|O|O|O|O|O|NUMBER|O|O|O|DATE|O	||||||4.0||||2006|	4.0		2006.0	
+11	0	fb:cell._i_wanna_get_next_to_you_remix	"I Wanna Get Next to You" (remix)	``|i|wan|na|get|next|to|you|''|-lrb-|remix|-rrb-	``|I|wan|na|get|next|to|you|''|-lrb-|remix|-rrb-	``|PRP|VBP|TO|VB|JJ|TO|PRP|''|-LRB-|NN|-RRB-	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||				
+11	1	fb:cell.danielle_senior_plan_b_wretch_32_blemish	Danielle Senior, Plan B, Wretch 32, Blemish	danielle|senior|,|plan|b|,|wretch|32|,|blemish	Danielle|Senior|,|plan|b|,|wretch|32|,|blemish	NNP|NNP|,|NN|NN|,|NN|CD|,|NN	PERSON|PERSON|O|O|O|O|O|NUMBER|O|O	|||||||32.0||	32.0			Danielle Senior|Plan B|Wretch 32|Blemish
+11	2	fb:cell._take_you_home	"Take You Home"	``|take|you|home|''	``|take|you|home|''	``|VB|PRP|NN|''	O|O|O|O|O	||||				"Take You Home"
+11	3	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+11	4	fb:cell.null										
+12	0	fb:cell._last_dayz	"Last Dayz"	``|last|dayz|''	``|last|dayz|''	``|JJ|NN|''	O|O|O|O	|||				
+12	1	fb:cell.skreintax_plan_b	Skreintax, Plan B	skreintax|,|plan|b	Skreintax|,|plan|b	NNP|,|NN|NN	PERSON|O|O|O	|||				Skreintax|Plan B
+12	2	fb:cell._scene_stealers	"Scene Stealers"	``|scene|stealers|''	``|scene|stealer|''	``|NN|NNS|''	O|O|O|O	|||				"Scene Stealers"
+12	3	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+12	4	fb:cell.null										
+13	0	fb:cell._makin_love_2_hip_hop	"Makin' Love 2 Hip Hop"	``|makin|'|love|2|hip|hop|''	``|Makin|'|love|2|hip|hop|''	``|NNP|''|NN|CD|NN|VBP|''	O|PERSON|O|O|NUMBER|O|O|O	||||2.0|||	2.0			
+13	1	fb:cell.plan_b_skrein_shameless	Plan B, Skrein, Shameless	plan|b|,|skrein|,|shameless	plan|b|,|skrein|,|shameless	NN|NN|,|NN|,|JJ	O|O|O|O|O|O	|||||				Plan B|Skrein|Shameless
+13	2	fb:cell.sharpest_tool_in_the_box	Sharpest Tool in the Box	sharpest|tool|in|the|box	sharpest|tool|in|the|box	JJS|NN|IN|DT|NN	O|O|O|O|O	||||				Sharpest Tool in the Box
+13	3	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+13	4	fb:cell.null										
+14	0	fb:cell._maybe	"Maybe"	``|maybe|''	``|maybe|''	``|RB|''	O|O|O	||				
+14	1	fb:cell.skrein_shameless_plan_b_sem	Skrein, Shameless, Plan B, Sem	skrein|,|shameless|,|plan|b|,|sem	Skrein|,|shameless|,|plan|b|,|sem	NNP|,|JJ|,|NN|NN|,|NN	PERSON|O|O|O|O|O|O|O	|||||||				Skrein|Shameless|Plan B|Sem
+14	2	fb:cell.bless_the_mixtape	Bless: The Mixtape	bless|:|the|mixtape	bless|:|the|mixtape	VB|:|DT|NN	O|O|O|O	|||				Bless: The Mixtape
+14	3	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+14	4	fb:cell.null										
+15	0	fb:cell._more_is_enough	"More Is Enough"	``|more|is|enough|''	``|more|be|enough|''	``|JJR|VBD-AUX|JJ|''	O|O|O|O|O	||||				"More Is Enough"
+15	1	fb:cell.epic_man_plan_b	Epic Man, Plan B	epic|man|,|plan|b	epic|man|,|plan|b	NN|NN|,|NN|NN	O|O|O|O|O	||||				Epic Man|Plan B
+15	2	fb:cell._more_is_enough	"More Is Enough"	``|more|is|enough|''	``|more|be|enough|''	``|JJR|VBD-AUX|JJ|''	O|O|O|O|O	||||				"More Is Enough"
+15	3	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+15	4	fb:cell.also_appears_as_bonus_track_on_australian_release_of_who_needs_actions_when_you_got_words_2006_and_on_time_4_plan_b_ep_2007	Also appears as bonus track on Australian release of Who Needs Actions When You Got Words (2006) and on Time 4 Plan B EP (2007)	also|appears|as|bonus|track|on|australian|release|of|who|needs|actions|when|you|got|words|-lrb-|2006|-rrb-|and|on|time|4|plan|b|ep|-lrb-|2007|-rrb-	also|appear|as|bonus|track|on|australian|release|of|who|need|action|when|you|get|word|-lrb-|2006|-rrb-|and|on|time|4|plan|b|ep|-lrb-|2007|-rrb-	RB|VBZ|IN|NN|NN|IN|JJ|NN|IN|WP|VBZ|NNS|WRB|PRP|VBD|NNS|-LRB-|CD|-RRB-|CC|IN|NN|CD|NN|NN|NN|-LRB-|CD|-RRB-	O|O|O|O|O|O|MISC|O|O|O|O|O|O|O|O|O|O|DATE|O|O|O|O|NUMBER|O|O|O|O|DATE|O	|||||||||||||||||2006|||||4.0|||||2007|	2006.0		4.0	
+16	0	fb:cell._my_eyes	"My Eyes"	``|my|eyes|''	``|my|eye|''	``|PRP$|NNS|''	O|O|O|O	|||				
+16	1	fb:cell.shameless_tb_plan_b_dat	Shameless, TB, Plan B, Dat	shameless|,|tb|,|plan|b|,|dat	shameless|,|tb|,|plan|b|,|Dat	JJ|,|NN|,|NN|NN|,|NNP	O|O|O|O|O|O|O|PERSON	|||||||				Shameless|TB|Plan B|Dat
+16	2	fb:cell.bless_the_mixtape	Bless: The Mixtape	bless|:|the|mixtape	bless|:|the|mixtape	VB|:|DT|NN	O|O|O|O	|||				Bless: The Mixtape
+16	3	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+16	4	fb:cell.null										
+17	0	fb:cell._no_hats_no_trainers	"No Hats No Trainers"	``|no|hats|no|trainers|''	``|no|hat|no|trainer|''	``|DT|NNS|DT|NNS|''	O|O|O|O|O|O	|||||				
+17	1	fb:cell.shameless_plan_b	Shameless, Plan B	shameless|,|plan|b	shameless|,|plan|b	JJ|,|NN|NN	O|O|O|O	|||				Shameless|Plan B
+17	2	fb:cell.smokers_die_younger	Smokers Die Younger	smokers|die|younger	smoker|die|younger	NNS|VBP|JJR	O|O|O	||				Smokers Die Younger
+17	3	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+17	4	fb:cell.null										
+18	0	fb:cell._on_it_08	"On It 08"	``|on|it|08|''	``|on|it|08|''	``|IN|PRP|NN|''	O|O|O|NUMBER|O	|||8.0|	8.0			
+18	1	fb:cell.adam_deacon_plan_b_snakeyman_blazay_alphadecious	Adam Deacon, Plan B, Snakeyman, Blazay, Alphadecious	adam|deacon|,|plan|b|,|snakeyman|,|blazay|,|alphadecious	Adam|Deacon|,|plan|b|,|snakeyman|,|Blazay|,|Alphadecious	NNP|NNP|,|NN|NN|,|NN|,|NNP|,|NNP	PERSON|PERSON|O|O|O|O|O|O|O|O|O	||||||||||				Adam Deacon|Plan B|Snakeyman|Blazay|Alphadecious
+18	2	fb:cell.adulthood	Adulthood	adulthood	adulthood	NN	O					Adulthood
+18	3	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+18	4	fb:cell.null										
+19	0	fb:cell._past_that	"Past That"	``|past|that|''	``|past|that|''	``|IN|DT|''	O|DATE|O|O	|PAST_REF||				
+19	1	fb:cell.shameless_plan_b	Shameless, Plan B	shameless|,|plan|b	shameless|,|plan|b	JJ|,|NN|NN	O|O|O|O	|||				Shameless|Plan B
+19	2	fb:cell.above_board	Above Board	above|board	above|board	IN|NN	O|O	|				Above Board
+19	3	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+19	4	fb:cell.null										
+20	0	fb:cell._pieces	"Pieces"	``|pieces|''	``|piece|''	``|NNS|''	O|O|O	||				
+20	1	fb:cell.chase_status_plan_b	Chase & Status, Plan B	chase|&|status|,|plan|b	Chase|&|status|,|plan|b	NNP|CC|NN|,|NN|NN	O|O|O|O|O|O	|||||				Chase & Status|Plan B
+20	2	fb:cell.more_than_alot	More than Alot	more|than|alot	more|than|alot	JJR|IN|NN	O|O|O	||				More than Alot
+20	3	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+20	4	fb:cell.null										
+21	0	fb:cell._play_ur_position	"Play Ur Position"	``|play|ur|position|''	``|play|ur|position|''	``|VB|NN|NN|''	O|O|O|O|O	||||				
+21	1	fb:cell.juse_conspicuous_anecdote_shameless_plan_b_infallible_cyphanetik	Juse, Conspicuous, Anecdote, Shameless, Plan B, Infallible, Cyphanetik	juse|,|conspicuous|,|anecdote|,|shameless|,|plan|b|,|infallible|,|cyphanetik	Juse|,|conspicuous|,|anecdote|,|shameless|,|plan|b|,|infallible|,|Cyphanetik	NNP|,|JJ|,|NN|,|JJ|,|NN|NN|,|JJ|,|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|PERSON	|||||||||||||				Juse|Conspicuous|Anecdote|Shameless|Plan B|Infallible|Cyphanetik
+21	2	fb:cell.global_casino	Global Casino	global|casino	global|casino	JJ|NN	O|O	|				Global Casino
+21	3	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+21	4	fb:cell.null										
+22	0	fb:cell._polarised_nation	"Polarised Nation"	``|polarised|nation|''	``|polarised|nation|''	``|JJ|NN|''	O|O|O|O	|||				
+22	1	fb:cell.carly_bond_ripper_hitman_tigger_doctor_plan_b_riddles_doom_man_faction_g_tko_punisha	Carly Bond, Ripper, Hitman Tigger, Doctor, Plan B, Riddles, Doom-Man, Faction G, TKO Punisha	carly|bond|,|ripper|,|hitman|tigger|,|doctor|,|plan|b|,|riddles|,|doom|man|,|faction|g|,|tko|punisha	Carly|Bond|,|Ripper|,|hitman|Tigger|,|doctor|,|plan|b|,|riddle|,|doom|man|,|faction|g|,|tko|punisha	NNP|NNP|,|NNP|,|NN|NNP|,|NN|,|NN|NN|,|NNS|,|NN|NN|,|NN|NN|,|NN|NN	PERSON|PERSON|O|O|O|PERSON|PERSON|O|O|O|O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON	||||||||||||||||||||||				Carly Bond|Ripper|Hitman Tigger|Doctor|Plan B|Riddles|Doom-Man|Faction G|TKO Punisha
+22	2	fb:cell.eye_of_the_tiger_vol_1	Eye of the Tiger, Vol. 1	eye|of|the|tiger|,|vol|.|1	eye|of|the|Tiger|,|Vol|.|1	NN|IN|DT|NNP|,|NNP|.|CD	O|O|O|O|O|O|O|NUMBER	|||||||1.0	0.1			Eye of the Tiger|Vol. 1
+22	3	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+22	4	fb:cell.null										
+23	0	fb:cell._reveal_your_inner_self_plan_b_remix	"Reveal Your Inner Self" (Plan B remix)	``|reveal|your|inner|self|''|-lrb-|plan|b|remix|-rrb-	``|reveal|you|inner|self|''|-lrb-|plan|b|remix|-rrb-	``|VB|PRP$|JJ|NN|''|-LRB-|NN|NN|NN|-RRB-	O|O|O|O|O|O|O|O|O|O|O	||||||||||				
+23	1	fb:cell.killa_kela_plan_b	Killa Kela, Plan B	killa|kela|,|plan|b	Killa|Kela|,|plan|b	NNP|NNP|,|NN|NN	PERSON|PERSON|O|O|O	||||				Killa Kela|Plan B
+23	2	fb:cell._reveal_your_inner_self	"Reveal Your Inner Self"	``|reveal|your|inner|self|''	``|reveal|you|inner|self|''	``|VB|PRP$|JJ|NN|''	O|O|O|O|O|O	|||||				"Reveal Your Inner Self"
+23	3	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+23	4	fb:cell.null										
+24	0	fb:cell._shifty	"Shifty"	``|shifty|''	``|shifty|''	``|JJ|''	O|O|O	||				
+24	1	fb:cell.riz_mc_sway_plan_b	Riz MC, Sway, Plan B	riz|mc|,|sway|,|plan|b	Riz|MC|,|sway|,|plan|b	NNP|NNP|,|VB|,|NN|NN	PERSON|PERSON|O|O|O|O|O	||||||				Riz MC|Sway|Plan B
+24	2	fb:cell.shifty	Shifty	shifty	shifty	JJ	O					Shifty
+24	3	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+24	4	fb:cell.null										
+25	0	fb:cell._shots_echo	"Shots Echo"	``|shots|echo|''	``|shot|echo|''	``|NNS|VBP|''	O|O|O|O	|||				
+25	1	fb:cell.the_mitchell_brothers_plan_b_ghetto	The Mitchell Brothers, Plan B, Ghetto	the|mitchell|brothers|,|plan|b|,|ghetto	the|Mitchell|brother|,|plan|b|,|ghetto	DT|NNP|NNS|,|NN|NN|,|NN	O|ORGANIZATION|ORGANIZATION|O|O|O|O|O	|||||||				The Mitchell Brothers|Plan B|Ghetto
+25	2	fb:cell.dressed_for_the_occasion	Dressed for the Occasion	dressed|for|the|occasion	dress|for|the|occasion	VBN|IN|DT|NN	O|O|O|O	|||				Dressed for the Occasion
+25	3	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+25	4	fb:cell.null										
+26	0	fb:cell._tik_tok	"Tik Tok"	``|tik|tok|''	``|Tik|Tok|''	``|NNP|NNP|''	O|O|O|O	|||				
+26	1	fb:cell.skrein_plan_b	Skrein, Plan B	skrein|,|plan|b	Skrein|,|plan|b	NNP|,|NN|NN	PERSON|O|O|O	|||				Skrein|Plan B
+26	2	fb:cell.the_southcoast_soulshine_ep_vol_1	The Southcoast Soulshine EP, Vol. 1	the|southcoast|soulshine|ep|,|vol|.|1	the|Southcoast|Soulshine|ep|,|vol|.|1	DT|NNP|NNP|NN|,|NN|.|CD	O|ORGANIZATION|ORGANIZATION|O|O|O|O|NUMBER	|||||||1.0	0.1			The Southcoast Soulshine EP|Vol. 1
+26	3	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+26	4	fb:cell.null										

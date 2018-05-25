@@ -1,0 +1,446 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.english_title	English title	english|title	English|title	NNP|NN	MISC|O	|				
+-1	2	fb:row.row.japanese	Japanese	japanese	Japanese	NNPS	MISC					
+-1	3	fb:row.row.romanization	Romanization	romanization	romanization	NN	O					
+-1	4	fb:row.row.type	Type	type	type	NN	O					
+0	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+0	1	fb:cell._shisso_feraari_250_gto_rasuto_ran_ai_to_uragiri_no_hyaku_oku_en	(Shissō Feraari 250 GTO / Rasuto ran: Ai to uragiri no hyaku-oku en)	-lrb-|shissō|feraari|250|gto|/|rasuto|ran|:|ai|to|uragiri|no|hyaku|oku|en|-rrb-	-lrb-|shissō|feraarus|250|gto|/|rasuto|run|:|be|to|uragiri|no|hyaku|oku|en|-rrb-	-LRB-|NN|NN|CD|NN|:|NN|VBD|:|VBP|TO|VB|DT|NN|FW|FW|-RRB-	O|O|O|NUMBER|O|O|O|O|O|O|O|MISC|MISC|MISC|MISC|MISC|O	|||250.0|||||||||||||	250.0			(Shissō Feraari 250 GTO|Rasuto ran: Ai to uragiri no hyaku-oku en)
+0	2	fb:cell.250gto	疾走フェラーリ250GTO/ラスト・ラン～愛と裏切りの百億円	疾走フェラーリ250gto|/|ラスト|・|ラン|～|愛と裏切りの百億円	疾走フェラーリ250gto|/|ラスト|・|ラン|～|愛と裏切りの百億円	NN|:|NN|NN|NN|NN|NN	O|O|O|O|O|O|O	||||||	250.0			疾走フェラーリ250GTO|ラスト・ラン～愛と裏切りの百億円
+0	3	fb:cell.shisso_feraari_250_gto_rasuto_ran_ai_to_uragiri_no_hyaku_oku_en_shisso_feraari_250_gto_rasuto_ran_ai_to_uragiri_no_10_000_000_000	Shissō Feraari 250 GTO / Rasuto ran: Ai to uragiri no hyaku-oku en\nShissō Feraari 250 GTO / Rasuto ran: Ai to uragiri no ¥10 000 000 000	shissō|feraari|250|gto|/|rasuto|ran|:|ai|to|uragiri|no|hyaku|oku|en|shissō|feraari|250|gto|/|rasuto|ran|:|ai|to|uragiri|no|¥|10 000 000 000	shissō|feraarus|250|gto|/|rasuto|run|:|be|to|uragiri|no|hyaku|oku|en|shissō|feraarus|250|gto|/|rasuto|run|:|be|to|uragiri|no|¥|10 000 000 000	NN|NN|CD|NN|:|NN|VBD|:|VBP|TO|VB|DT|NN|FW|FW|NN|NN|CD|NN|:|NN|VBD|:|VBP|TO|VB|DT|NN|CD	PERSON|PERSON|NUMBER|O|O|O|O|O|O|O|MISC|MISC|MISC|MISC|MISC|MISC|MISC|NUMBER|O|O|O|O|O|O|O|O|O|MONEY|MONEY	||250.0|||||||||||||||250.0|||||||||||	250.0		250.0	Shissō Feraari 250 GTO|Rasuto ran: Ai to uragiri no hyaku-oku en|Shissō Feraari 250 GTO|Rasuto ran: Ai to uragiri no ¥10 000 000 000
+0	4	fb:cell.tv	TV	tv	tv	NN	O					
+1	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+1	1	fb:cell._toppu_minipato_tai_aikyacchi_jankushon	(Toppū! Minipato tai - Aikyacchi Jankushon)	-lrb-|toppū|!|minipato|tai|-|aikyacchi|jankushon|-rrb-	-lrb-|toppū|!|Minipato|tai|-|Aikyacchi|Jankushon|-rrb-	-LRB-|NN|.|NNP|NNP|:|NNP|NNP|-RRB-	O|O|O|PERSON|PERSON|PERSON|PERSON|PERSON|O	||||||||				(Toppū! Minipato tai - Aikyacchi Jankushon)
+1	2	fb:cell.null	突風！ ミニパト隊 アイキャッチ・ジャンクション	突風|！|ミニパト隊|アイキャッチ|・|ジャンクション	突風|！|ミニパト隊|アイキャッチ|・|ジャンクション	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||				突風！ ミニパト隊 アイキャッチ・ジャンクション
+1	3	fb:cell.toppu_minipato_tai_aikyatchi_jankushon	Toppū! Minipato tai - Aikyatchi Jankushon	toppū|!|minipato|tai|-|aikyatchi|jankushon	toppū|!|Minipato|tai|-|Aikyatchi|Jankushon	NN|.|NNP|NNP|:|NNP|NNP	O|O|PERSON|PERSON|PERSON|PERSON|PERSON	||||||				Toppū! Minipato tai - Aikyatchi Jankushon
+1	4	fb:cell.video	Video	video	video	NN	O					
+2	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+2	1	fb:cell._redi_hanta_koroshi_no_pureryuudo	(Redi hantā: Koroshi no pureryuudo)	-lrb-|redi|hantā|:|koroshi|no|pureryuudo|-rrb-	-lrb-|Redi|hantā|:|Koroshi|no|pureryuudo|-rrb-	-LRB-|NNP|NNP|:|NNP|DT|NN|-RRB-	O|O|O|O|O|O|O|O	|||||||				(Redi hantā: Koroshi no pureryuudo)
+2	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+2	3	fb:cell.redi_hanta_koroshi_no_pureryudo	Redi hantā: Koroshi no pureryūdo	redi|hantā|:|koroshi|no|pureryūdo	Redi|hantā|:|Koroshi|no|pureryūdo	NNP|NNP|:|NNP|DT|NN	MISC|MISC|MISC|MISC|MISC|MISC	|||||				Redi hantā: Koroshi no pureryūdo
+2	4	fb:cell.video	Video	video	video	NN	O					
+3	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+3	1	fb:cell.a_human_murder_weapon	A Human Murder Weapon	a|human|murder|weapon	a|human|murder|weapon	DT|JJ|NN|NN	O|O|O|O	|||				A Human Murder Weapon
+3	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+3	3	fb:cell.ningen_kyoki_ai_to_ikari_no_ringu	Ningen kyōki: Ai to ikari no ringu	ningen|kyōki|:|ai|to|ikari|no|ringu	Ningen|kyōki|:|be|to|ikari|no|ringu	NNP|NNP|:|VBP|TO|NNP|DT|NN	PERSON|PERSON|O|O|O|PERSON|O|O	|||||||				Ningen kyōki: Ai to ikari no ringu
+3	4	fb:cell.video	Video	video	video	NN	O					
+4	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+4	1	fb:cell.bodyguard_kiba	Bodyguard Kiba	bodyguard|kiba	bodyguard|kiba	NN|NN	O|PERSON	|				Bodyguard Kiba
+4	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+4	3	fb:cell.bodigado_kiba	Bodigādo Kiba	bodigādo|kiba	Bodigādo|Kiba	NNP|NNP	PERSON|PERSON	|				Bodigādo Kiba
+4	4	fb:cell.video	Video	video	video	NN	O					
+5	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+5	1	fb:cell._oretachi_wa_tenshi_ja_nai	(Oretachi wa tenshi ja nai)	-lrb-|oretachi|wa|tenshi|ja|nai|-rrb-	-lrb-|Oretachi|wa|tenshi|ja|nai|-rrb-	-LRB-|NNP|NNP|NNP|NNP|NNP|-RRB-	O|PERSON|PERSON|PERSON|PERSON|PERSON|O	||||||				(Oretachi wa tenshi ja nai)
+5	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+5	3	fb:cell.oretachi_wa_tenshi_ja_nai	Oretachi wa tenshi ja nai	oretachi|wa|tenshi|ja|nai	Oretachi|wa|tenshi|ja|nai	NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON	||||				Oretachi wa tenshi ja nai
+5	4	fb:cell.video	Video	video	video	NN	O					
+6	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+6	1	fb:cell._oretachi_wa_tenshi_ja_nai_2	(Oretachi wa tenshi ja nai 2)	-lrb-|oretachi|wa|tenshi|ja|nai|2|-rrb-	-lrb-|Oretachi|wa|tenshi|ja|nai|2|-rrb-	-LRB-|NNP|NNP|NNP|NNP|NNP|LS|-RRB-	O|PERSON|PERSON|PERSON|PERSON|PERSON|NUMBER|O	||||||2.0|	2.0			(Oretachi wa tenshi ja nai 2)
+6	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+6	3	fb:cell.oretachi_wa_tenshi_ja_nai_2	Oretachi wa tenshi ja nai 2	oretachi|wa|tenshi|ja|nai|2	Oretachi|wa|tenshi|ja|nai|2	NNP|NNP|NNP|NNP|NNP|CD	PERSON|PERSON|PERSON|PERSON|PERSON|NUMBER	|||||2.0	2.0			Oretachi wa tenshi ja nai 2
+6	4	fb:cell.video	Video	video	video	NN	O					
+7	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+7	1	fb:cell.shinjuku_outlaw	Shinjuku Outlaw	shinjuku|outlaw	Shinjuku|Outlaw	NNP|NNP	LOCATION|O	|				Shinjuku Outlaw
+7	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+7	3	fb:cell.shinjuku_autorou	Shinjuku autorou	shinjuku|autorou	Shinjuku|autorou	NNP|NNP	PERSON|PERSON	|				Shinjuku autorou
+7	4	fb:cell.video	Video	video	video	NN	O					
+8	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+8	1	fb:cell._shura_no_mokushiroku_bodigado_kiba	(Shura no mokushiroku: Bodigādo Kiba)	-lrb-|shura|no|mokushiroku|:|bodigādo|kiba|-rrb-	-lrb-|Shura|no|mokushiroku|:|Bodigādo|Kiba|-rrb-	-LRB-|NNP|DT|NN|:|NNP|NNP|-RRB-	O|MISC|MISC|MISC|O|PERSON|PERSON|O	|||||||				(Shura no mokushiroku: Bodigādo Kiba)
+8	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+8	3	fb:cell.shura_no_mokushiroku_bodigado_kiba	Shura no mokushiroku: Bodigādo Kiba	shura|no|mokushiroku|:|bodigādo|kiba	Shura|no|mokushiroku|:|Bodigādo|Kiba	NNP|DT|NN|:|NNP|NNP	MISC|MISC|MISC|O|PERSON|PERSON	|||||				Shura no mokushiroku: Bodigādo Kiba
+8	4	fb:cell.video	Video	video	video	NN	O					
+9	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+9	1	fb:cell._daisan_no_gokudo	(Daisan no gokudō)	-lrb-|daisan|no|gokudō|-rrb-	-lrb-|Daisan|no|gokudō|-rrb-	-LRB-|NNP|DT|NN|-RRB-	O|ORGANIZATION|O|O|O	||||				(Daisan no gokudō)
+9	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+9	3	fb:cell.daisan_no_gokudo	Daisan no gokudō	daisan|no|gokudō	Daisan|no|gokudō	NNP|DT|NN	PERSON|PERSON|PERSON	||				Daisan no gokudō
+9	4	fb:cell.video	Video	video	video	NN	O					
+10	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+10	1	fb:cell._shura_no_mokushiroku_2_bodigado_kiba	(Shura no mokushiroku 2: Bodigādo Kiba)	-lrb-|shura|no|mokushiroku|2|:|bodigādo|kiba|-rrb-	-lrb-|Shura|no|mokushiroku|2|:|Bodigādo|Kiba|-rrb-	-LRB-|NNP|DT|NN|CD|:|NNP|NNP|-RRB-	O|MISC|MISC|MISC|NUMBER|O|PERSON|PERSON|O	||||2.0||||	2.0			(Shura no mokushiroku 2: Bodigādo Kiba)
+10	2	fb:cell.2	修羅の黙示録2 ボディーガード牙	修羅の黙示録2|ボディーガード牙	修羅の黙示録2|ボディーガード牙	NN|NN	O|O	|	2.0			修羅の黙示録2 ボディーガード牙
+10	3	fb:cell.shura_no_mokushiroku_2_bodigado_kiba	Shura no mokushiroku 2: Bodigādo Kiba	shura|no|mokushiroku|2|:|bodigādo|kiba	Shura|no|mokushiroku|2|:|Bodigādo|Kiba	NNP|DT|NN|CD|:|NNP|NNP	O|O|O|NUMBER|O|PERSON|PERSON	|||2.0|||	2.0			Shura no mokushiroku 2: Bodigādo Kiba
+10	4	fb:cell.video	Video	video	video	NN	O					
+11	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+11	1	fb:cell.osaka_tough_guys	Osaka Tough Guys	osaka|tough|guys	Osaka|tough|guy	NNP|JJ|NNS	LOCATION|O|O	||				Osaka Tough Guys
+11	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+11	3	fb:cell.naniwa_yukyoden	Naniwa yūkyōden	naniwa|yūkyōden	Naniwa|yūkyōden	NNP|NNP	PERSON|PERSON	|				Naniwa yūkyōden
+11	4	fb:cell.video	Video	video	video	NN	O					
+12	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+12	1	fb:cell.shinjuku_triad_society	Shinjuku Triad Society	shinjuku|triad|society	Shinjuku|Triad|Society	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Shinjuku Triad Society
+12	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+12	3	fb:cell.shinjuku_kuroshakai_chaina_mafia_senso	Shinjuku kuroshakai: Chaina mafia sensō	shinjuku|kuroshakai|:|chaina|mafia|sensō	Shinjuku|kuroshakai|:|Chaina|mafia|sensō	NNP|NNP|:|NNP|NNP|NNP	LOCATION|LOCATION|O|PERSON|PERSON|PERSON	|||||				Shinjuku kuroshakai: Chaina mafia sensō
+12	4	fb:cell.film	Film	film	film	NN	O					
+13	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+13	1	fb:cell._shin_daisan_no_gokudo_boppatsu_kansai_gokudo_senso	(Shin daisan no gokudō: boppatsu Kansai gokudō sensō)	-lrb-|shin|daisan|no|gokudō|:|boppatsu|kansai|gokudō|sensō|-rrb-	-lrb-|Shin|daisan|no|gokudō|:|boppatsu|Kansai|gokudō|sensō|-rrb-	-LRB-|NNP|NNP|DT|NNP|:|NNP|NNP|NNP|NN|-RRB-	O|PERSON|PERSON|O|O|O|PERSON|PERSON|PERSON|PERSON|O	||||||||||				(Shin daisan no gokudō: boppatsu Kansai gokudō sensō)
+13	2	fb:cell.null	突風！ ミニパト隊 アイキャッチ・ジャンクション	突風|！|ミニパト隊|アイキャッチ|・|ジャンクション	突風|！|ミニパト隊|アイキャッチ|・|ジャンクション	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||				突風！ ミニパト隊 アイキャッチ・ジャンクション
+13	3	fb:cell.shin_daisan_no_gokudo_boppatsu_kansai_gokudo_senso	Shin daisan no gokudō: boppatsu Kansai gokudō sensō	shin|daisan|no|gokudō|:|boppatsu|kansai|gokudō|sensō	Shin|daisan|no|gokudō|:|boppatsu|Kansai|gokudō|sensō	NNP|NNP|DT|NNP|:|NNP|NNP|NNP|NNP	PERSON|PERSON|O|O|O|PERSON|PERSON|PERSON|PERSON	||||||||				Shin daisan no gokudō: boppatsu Kansai gokudō sensō
+13	4	fb:cell.video	Video	video	video	NN	O					
+14	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+14	1	fb:cell._shin_daisan_no_gokudo_ii	(Shin daisan no gokudō II)	-lrb-|shin|daisan|no|gokudō|ii|-rrb-	-lrb-|Shin|daisan|no|gokudō|II|-rrb-	-LRB-|NNP|NNP|DT|NNP|NNP|-RRB-	O|PERSON|PERSON|O|O|O|O	||||||				(Shin daisan no gokudō II)
+14	2	fb:cell._ii	新・第三の極道II	新|・|第三の極道ii	新|・|第三の極道II	NNP|NNP|NNP	O|O|O	||				新・第三の極道II
+14	3	fb:cell.shin_daisan_no_gokudo_ii	Shin daisan no gokudō II	shin|daisan|no|gokudō|ii	Shin|daisan|no|gokudō|II	NNP|NNP|DT|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON	||||				Shin daisan no gokudō II
+14	4	fb:cell.video	Video	video	video	NN	O					
+15	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+15	1	fb:cell._jingi_naki_yabo	(Jingi naki yabō)	-lrb-|jingi|naki|yabō|-rrb-	-lrb-|Jingi|naki|yabō|-rrb-	-LRB-|NNP|NNP|NNP|-RRB-	O|PERSON|PERSON|PERSON|O	||||				(Jingi naki yabō)
+15	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+15	3	fb:cell.jingi_naki_yabo	Jingi naki yabō	jingi|naki|yabō	Jingi|naki|yabō	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Jingi naki yabō
+15	4	fb:cell.video	Video	video	video	NN	O					
+16	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+16	1	fb:cell._piinattsu_rakkasei	(Piinattsu: Rakkasei)	-lrb-|piinattsu|:|rakkasei|-rrb-	-lrb-|Piinattsu|:|Rakkasei|-rrb-	-LRB-|NNP|:|NNP|-RRB-	O|PERSON|O|ORGANIZATION|O	||||				(Piinattsu: Rakkasei)
+16	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+16	3	fb:cell.piinattsu_rakkasei	Piinattsu: Rakkasei	piinattsu|:|rakkasei	Piinattsu|:|Rakkasei	NNP|:|NNP	PERSON|O|PERSON	||				Piinattsu: Rakkasei
+16	4	fb:cell.video	Video	video	video	NN	O					
+17	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+17	1	fb:cell.the_way_to_fight	The Way to Fight	the|way|to|fight	the|way|to|fight	DT|NN|TO|VB	O|O|O|O	|||				The Way to Fight
+17	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+17	3	fb:cell.kenka_no_hanamichi_osaka_saikyo_densetsu	Kenka no hanamichi: Ōsaka saikyō densetsu	kenka|no|hanamichi|:|ōsaka|saikyō|densetsu	Kenka|no|hanamichi|:|Ōsaka|saikyō|densetsu	NNP|DT|NNP|:|NNP|NNP|NNP	LOCATION|O|O|O|PERSON|PERSON|PERSON	||||||				Kenka no hanamichi: Ōsaka saikyō densetsu
+17	4	fb:cell.video	Video	video	video	NN	O					
+18	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+18	1	fb:cell.fudoh_the_new_generation	Fudoh: The New Generation	fudoh|:|the|new|generation	Fudoh|:|the|new|generation	NNP|:|DT|JJ|NN	O|O|O|O|O	||||				Fudoh: The New Generation
+18	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+18	3	fb:cell.gokudo_sengokushi_fudo	Gokudō sengokushi: Fudō	gokudō|sengokushi|:|fudō	Gokudō|sengokushi|:|Fudō	NNP|NNP|:|NNP	PERSON|PERSON|O|O	|||				Gokudō sengokushi: Fudō
+18	4	fb:cell.film	Film	film	film	NN	O					
+19	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+19	1	fb:cell._jingi_naki_yabo_2	(Jingi naki yabō 2)	-lrb-|jingi|naki|yabō|2|-rrb-	-lrb-|Jingi|naki|yabō|2|-rrb-	-LRB-|NNP|NNP|NNP|LS|-RRB-	O|PERSON|PERSON|PERSON|NUMBER|O	||||2.0|	2.0			(Jingi naki yabō 2)
+19	2	fb:cell.2	修羅の黙示録2 ボディーガード牙	修羅の黙示録2|ボディーガード牙	修羅の黙示録2|ボディーガード牙	NN|NN	O|O	|	2.0			修羅の黙示録2 ボディーガード牙
+19	3	fb:cell.jingi_naki_yabo_2	Jingi naki yabō 2	jingi|naki|yabō|2	Jingi|naki|yabō|2	NNP|NNP|NNP|CD	PERSON|PERSON|PERSON|NUMBER	|||2.0	2.0			Jingi naki yabō 2
+19	4	fb:cell.video	Video	video	video	NN	O					
+20	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+20	1	fb:cell.young_thugs_innocent_blood	Young Thugs: Innocent Blood	young|thugs|:|innocent|blood	young|thug|:|innocent|blood	JJ|NNS|:|JJ|NN	O|O|O|O|O	||||				Young Thugs: Innocent Blood
+20	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+20	3	fb:cell.kishiwada_shonen_gurentai_chikemuri_junjo_hen	Kishiwada shōnen gurentai: Chikemuri junjō-hen	kishiwada|shōnen|gurentai|:|chikemuri|junjō|hen	Kishiwada|shōnen|gurentai|:|Chikemuri|junjō|hen	NNP|NNP|NNP|:|NNP|NNP|NN	PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON	||||||				Kishiwada shōnen gurentai: Chikemuri junjō-hen
+20	4	fb:cell.film	Film	film	film	NN	O					
+21	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+21	1	fb:cell.rainy_dog	Rainy Dog	rainy|dog	rainy|dog	JJ|NN	PERSON|PERSON	|				Rainy Dog
+21	2	fb:cell.rainy_dog	Rainy Dog	rainy|dog	rainy|dog	JJ|NN	PERSON|PERSON	|				Rainy Dog
+21	3	fb:cell.gokudo_kuroshakai	Gokudō kuroshakai	gokudō|kuroshakai	Gokudō|kuroshakai	NNP|NNP	PERSON|PERSON	|				Gokudō kuroshakai
+21	4	fb:cell.film	Film	film	film	NN	O					
+22	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+22	1	fb:cell.full_metal_yakuza	Full Metal Yakuza	full|metal|yakuza	full|metal|yakuza	JJ|NN|NN	O|O|O	||				Full Metal Yakuza
+22	2	fb:cell.full_metal	FULL METAL 極道	full|metal|極道	full|metal|極道	JJ|NN|NN	O|O|O	||				FULL METAL 極道
+22	3	fb:cell.full_metal_gokudo	Full Metal gokudō	full|metal|gokudō	full|metal|gokudō	JJ|NN|NN	O|O|O	||				Full Metal gokudō
+22	4	fb:cell.video	Video	video	video	NN	O					
+23	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+23	1	fb:cell.the_bird_people_in_china	The Bird People in China	the|bird|people|in|china	the|bird|people|in|China	DT|NN|NNS|IN|NNP	O|O|O|O|LOCATION	||||				The Bird People in China
+23	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+23	3	fb:cell.chugoku_no_chojin	Chûgoku no chôjin	chûgoku|no|chôjin	Chûgoku|no|chôjin	NNP|DT|NN	PERSON|PERSON|PERSON	||				Chûgoku no chôjin
+23	4	fb:cell.film	Film	film	film	NN	O					
+24	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+24	1	fb:cell.andromedia	Andromedia	andromedia	Andromedia	NNP	ORGANIZATION					Andromedia
+24	2	fb:cell.andromedia	Andromedia	andromedia	Andromedia	NNP	ORGANIZATION					Andromedia
+24	3	fb:cell.andoromedia	Andoromedia	andoromedia	andoromedium	NN	O					Andoromedia
+24	4	fb:cell.film	Film	film	film	NN	O					
+25	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+25	1	fb:cell.blues_harp	Blues Harp	blues|harp	Blues|Harp	NNP|NNP	PERSON|PERSON	|				Blues Harp
+25	2	fb:cell.blues_harp	Blues Harp	blues|harp	Blues|Harp	NNP|NNP	PERSON|PERSON	|				Blues Harp
+25	3	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+25	4	fb:cell.film	Film	film	film	NN	O					
+26	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+26	1	fb:cell.young_thugs_nostalgia	Young Thugs: Nostalgia	young|thugs|:|nostalgia	young|thug|:|nostalgia	JJ|NNS|:|NN	O|O|O|O	|||				Young Thugs: Nostalgia
+26	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+26	3	fb:cell.kishiwada_shonen_gurentai_bokyo	Kishiwada shōnen gurentai: Bōkyō	kishiwada|shōnen|gurentai|:|bōkyō	Kishiwada|shōnen|gurentai|:|Bōkyō	NNP|NNP|NNP|:|NNP	PERSON|PERSON|PERSON|O|PERSON	||||				Kishiwada shōnen gurentai: Bōkyō
+26	4	fb:cell.film	Film	film	film	NN	O					
+27	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+27	1	fb:cell.man_a_natural_girl	Man, A Natural Girl	man|,|a|natural|girl	man|,|a|natural|girl	NN|,|DT|JJ|NN	O|O|O|O|O	||||				Man|A Natural Girl
+27	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+27	3	fb:cell.tennen_shojo_man	Tennen shōjo Man	tennen|shōjo|man	Tennen|shōjo|Man	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Tennen shōjo Man
+27	4	fb:cell.tv	TV	tv	tv	NN	O					
+28	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+28	1	fb:cell.ley_lines	Ley Lines	ley|lines	ley|line	NN|NNS	PERSON|PERSON	|				Ley Lines
+28	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+28	3	fb:cell.nihon_kuroshakai	Nihon kuroshakai	nihon|kuroshakai	Nihon|kuroshakai	NNP|NNP	PERSON|PERSON	|				Nihon kuroshakai
+28	4	fb:cell.film	Film	film	film	NN	O					
+29	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+29	1	fb:cell.silver	Silver	silver	silver	NN	O					Silver
+29	2	fb:cell.silver	Silver	silver	silver	NN	O					Silver
+29	3	fb:cell.silver_shiruba	Silver: shirubā	silver|:|shirubā	silver|:|shirubā	NN|:|NN	O|O|PERSON	||				Silver: shirubā
+29	4	fb:cell.video	Video	video	video	NN	O					
+30	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+30	1	fb:cell.audition	Audition	audition	audition	NN	O					Audition
+30	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+30	3	fb:cell.odishon	Ōdishon	ōdishon	Ōdishon	NNP	PERSON					Ōdishon
+30	4	fb:cell.film	Film	film	film	NN	O					
+31	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+31	1	fb:cell.dead_or_alive	Dead or Alive	dead|or|alive	dead|or|alive	JJ|CC|JJ	O|O|O	||				Dead or Alive
+31	2	fb:cell.dead_or_alive	Dead or Alive	dead|or|alive	dead|or|alive	JJ|CC|JJ	O|O|O	||				Dead or Alive
+31	3	fb:cell.dead_or_alive_hanzaisha	Dead or Alive: Hanzaisha	dead|or|alive|:|hanzaisha	dead|or|alive|:|hanzaisha	JJ|CC|JJ|:|NN	O|O|O|O|O	||||				Dead or Alive: Hanzaisha
+31	4	fb:cell.film	Film	film	film	NN	O					
+32	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+32	1	fb:cell.salaryman_kintaro_white_collar_worker_kintaro	Salaryman Kintaro\nWhite Collar Worker Kintaro	salaryman|kintaro|white|collar|worker|kintaro	Salaryman|Kintaro|White|collar|worker|kintaro	NNP|NNP|NNP|NN|NN|NN	O|O|O|O|O|PERSON	|||||				Salaryman Kintaro|White Collar Worker Kintaro
+32	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+32	3	fb:cell.sarariiman_kintaro	Sarariiman Kintarō	sarariiman|kintarō	Sarariiman|Kintarō	NNP|NNP	PERSON|PERSON	|				Sarariiman Kintarō
+32	4	fb:cell.film	Film	film	film	NN	O					
+33	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+33	1	fb:cell.man_next_natural_girl_100_nights_in_yokohama_n_girls_vs_vampire	Man, Next Natural Girl: 100 Nights In Yokohama\nN-Girls vs Vampire	man|,|next|natural|girl|:|100|nights|in|yokohama|n|girls|vs|vampire	man|,|next|natural|girl|:|100|night|in|Yokohama|N|girl|vs|vampire	NN|,|JJ|JJ|NN|:|CD|NNS|IN|NNP|NNP|NNS|CC|NN	O|O|O|O|O|O|NUMBER|TIME|O|LOCATION|O|O|O|O	||||||100.0|TNI||||||	100.0			Man|Next Natural Girl: 100 Nights In Yokohama|N-Girls vs Vampire
+33	2	fb:cell.next	天然少女萬NEXT 横浜百夜篇	天然少女萬next|横浜百夜篇	天然少女萬next|横浜百夜篇	NN|NN	O|O	|				天然少女萬NEXT 横浜百夜篇
+33	3	fb:cell.tennen_shojo_man_next_yokohama_hyaku_ya_hen	Tennen shōjo Man next: Yokohama hyaku-ya hen	tennen|shōjo|man|next|:|yokohama|hyaku|ya|hen	Tennen|shōjo|Man|next|:|Yokohama|hyaku|ya|hen	NNP|NNP|NNP|RB|:|NNP|NNP|PRP|NN	PERSON|PERSON|O|O|O|PERSON|PERSON|PERSON|PERSON	||||||||				Tennen shōjo Man next: Yokohama hyaku-ya hen
+33	4	fb:cell.tv	TV	tv	tv	NN	O					
+34	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+34	1	fb:cell.the_making_of_gemini	The Making of 'Gemini'	the|making|of|`|gemini|'	the|making|of|`|geminus|'	DT|NN|IN|``|NNS|''	O|O|O|O|O|O	|||||				The Making of 'Gemini'
+34	2	fb:cell._unknown	(unknown)	-lrb-|unknown|-rrb-	-lrb-|unknown|-rrb-	-LRB-|JJ|-RRB-	O|O|O	||				(unknown)
+34	3	fb:cell.tsukamoto_shin_ya_ga_ranpo_suru	Tsukamoto Shin'ya ga Ranpo suru	tsukamoto|shin|`|ya|ga|ranpo|suru	Tsukamoto|Shin|`|ya|ga|Ranpo|suru	NNP|NNP|``|PRP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	||||||				Tsukamoto Shin'ya ga Ranpo suru
+34	4	fb:cell.tv_documentary	TV documentary	tv|documentary	tv|documentary	NN|NN	O|O	|				
+35	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+35	1	fb:cell.mpd_psycho	MPD Psycho	mpd|psycho	MPD|Psycho	NNP|NNP	PERSON|PERSON	|				MPD Psycho
+35	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+35	3	fb:cell.taju_jinkaku_tantei_saiko_amamiya_kazuhiko_no_kikan	Tajū jinkaku tantei saiko: Amamiya Kazuhiko no kikan	tajū|jinkaku|tantei|saiko|:|amamiya|kazuhiko|no|kikan	Tajū|jinkaku|tantei|saiko|:|Amamiya|Kazuhiko|no|kikan	NNP|NNP|NNP|NNP|:|NNP|NNP|DT|NN	PERSON|PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON|PERSON	||||||||				Tajū jinkaku tantei saiko: Amamiya Kazuhiko no kikan
+35	4	fb:cell.tv_miniseries	TV miniseries	tv|miniseries	tv|miniseries	NN|NN	O|O	|				
+36	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+36	1	fb:cell.the_city_of_lost_souls_the_city_of_strangers_the_hazard_city	The City of Lost Souls\nThe City of Strangers\nThe Hazard City	the|city|of|lost|souls|the|city|of|strangers|the|hazard|city	the|city|of|lose|soul|the|city|of|stranger|the|hazard|city	DT|NN|IN|VBN|NNS|DT|NN|IN|NNS|DT|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||				The City of Lost Souls|The City of Strangers|The Hazard City
+36	2	fb:cell.the_hazard_city	漂流街 THE HAZARD CITY	漂流街|the|hazard|city	漂流街|the|hazard|city	IN|DT|NN|NN	O|O|O|O	|||				漂流街 THE HAZARD CITY
+36	3	fb:cell.hyoryu_gai	Hyōryū-gai	hyōryū|gai	hyōryū|gaus	NN|NN	PERSON|PERSON	|				Hyōryū-gai
+36	4	fb:cell.film	Film	film	film	NN	O					
+37	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+37	1	fb:cell.the_guys_from_paradise	The Guys from Paradise	the|guys|from|paradise	the|guy|from|paradise	DT|NNS|IN|NN	O|O|O|O	|||				The Guys from Paradise
+37	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+37	3	fb:cell.tengoku_kara_kita_otoko_tachi	Tengoku kara kita otoko-tachi	tengoku|kara|kita|otoko|tachi	Tengoku|kara|kita|otoko|tachi	NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON	||||				Tengoku kara kita otoko-tachi
+37	4	fb:cell.film	Film	film	film	NN	O					
+38	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+38	1	fb:cell.dead_or_alive_2_birds_dead_or_alive_2_runaway	Dead or Alive 2: Birds\nDead or Alive 2: Runaway	dead|or|alive|2|:|birds|dead|or|alive|2|:|runaway	dead|or|alive|2|:|bird|dead|or|alive|2|:|runaway	JJ|CC|JJ|CD|:|NNS|JJ|CC|JJ|CD|:|JJ	O|O|O|NUMBER|O|O|O|O|O|NUMBER|O|O	|||2.0||||||2.0||	2.0		2.0	Dead or Alive 2: Birds|Dead or Alive 2: Runaway
+38	2	fb:cell.dead_or_alive_2	DEAD OR ALIVE 2 逃亡者	dead|or|alive|2|逃亡者	dead|or|alive|2|逃亡者	JJ|CC|JJ|CD|NN	O|O|O|NUMBER|O	|||2.0|	2.0			DEAD OR ALIVE 2 逃亡者
+38	3	fb:cell.dead_or_alive_2_tobosha	Dead or Alive 2: Tōbōsha	dead|or|alive|2|:|tōbōsha	dead|or|alive|2|:|Tōbōsha	JJ|CC|JJ|CD|:|NNP	O|O|O|NUMBER|O|O	|||2.0||	2.0			Dead or Alive 2: Tōbōsha
+38	4	fb:cell.film	Film	film	film	NN	O					
+39	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+39	1	fb:cell._kikuchi_jo_monogatari_sakimori_tachi_no_uta	(Kikuchi-jō monogatari: sakimori-tachi no uta)	-lrb-|kikuchi|jō|monogatari|:|sakimori|tachi|no|uta|-rrb-	-lrb-|Kikuchi|jō|monogatari|:|sakimori|tachi|no|uta|-rrb-	-LRB-|NNP|NNP|NNP|:|NNP|NNP|DT|NN|-RRB-	O|PERSON|PERSON|PERSON|O|PERSON|PERSON|O|O|O	|||||||||				(Kikuchi-jō monogatari: sakimori-tachi no uta)
+39	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+39	3	fb:cell.kikuchi_jo_monogatari_sakimori_tachi_no_uta	Kikuchi-jō monogatari: sakimori-tachi no uta	kikuchi|jō|monogatari|:|sakimori|tachi|no|uta	Kikuchi|jō|monogatari|:|sakimori|tachi|no|uta	NNP|NNP|NNP|:|NNP|NNP|DT|NNP	PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON|PERSON	|||||||				Kikuchi-jō monogatari: sakimori-tachi no uta
+39	4	fb:cell.film	Film	film	film	NN	O					
+40	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+40	1	fb:cell._zuiketsu_genso_tonkararin_yume_densetsu	(Zuiketsu gensō: Tonkararin yume densetsu)	-lrb-|zuiketsu|gensō|:|tonkararin|yume|densetsu|-rrb-	-lrb-|zuiketsu|gensō|:|tonkararin|yume|densetsu|-rrb-	-LRB-|NN|NN|:|NN|NN|NN|-RRB-	O|PERSON|PERSON|O|PERSON|PERSON|PERSON|O	|||||||				(Zuiketsu gensō: Tonkararin yume densetsu)
+40	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+40	3	fb:cell.zuiketsu_genso_tonkararin_yume_densetsu	Zuiketsu gensō: Tonkararin yume densetsu	zuiketsu|gensō|:|tonkararin|yume|densetsu	zuiketsu|gensō|:|tonkararin|yume|densetsu	NN|NN|:|NN|NN|NN	PERSON|PERSON|O|PERSON|PERSON|PERSON	|||||				Zuiketsu gensō: Tonkararin yume densetsu
+40	4	fb:cell.film	Film	film	film	NN	O					
+41	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+41	1	fb:cell.family	Family	family	family	NN	O					Family
+41	2	fb:cell.family	Family	family	family	NN	O					Family
+41	3	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+41	4	fb:cell.film	Film	film	film	NN	O					
+42	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+42	1	fb:cell.visitor_q	Visitor Q	visitor|q	visitor|Q	NN|NNP	O|O	|				Visitor Q
+42	2	fb:cell.q	ビジターQ	ビジターq	ビジターQ	NNP	O					ビジターQ
+42	3	fb:cell.bijita_q	Bijitā Q	bijitā|q	Bijitā|Q	NNP|NNP	O|O	|				Bijitā Q
+42	4	fb:cell.video	Video	video	video	NN	O					
+43	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+43	1	fb:cell.ichi_the_killer	Ichi the Killer	ichi|the|killer	Ichi|the|killer	NNP|DT|NN	PERSON|PERSON|PERSON	||				Ichi the Killer
+43	2	fb:cell.1	殺し屋1	殺し屋1	殺し屋1	NN	O		1.0			殺し屋1
+43	3	fb:cell.koroshiya_1	Koroshiya 1	koroshiya|1	Koroshiya|1	NNP|CD	ORGANIZATION|NUMBER	|1.0	1.0			Koroshiya 1
+43	4	fb:cell.film	Film	film	film	NN	O					
+44	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+44	1	fb:cell.agitator	Agitator	agitator	agitator	NN	O					Agitator
+44	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+44	3	fb:cell.araburu_tamashii_tachi	Araburu tamashii-tachi	araburu|tamashii|tachi	Araburu|tamashii|tachi	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Araburu tamashii-tachi
+44	4	fb:cell.film	Film	film	film	NN	O					
+45	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+45	1	fb:cell.the_happiness_of_the_katakuris	The Happiness of the Katakuris	the|happiness|of|the|katakuris	the|happiness|of|the|Katakuris	DT|NN|IN|DT|NNPS	O|O|O|O|MISC	||||				The Happiness of the Katakuris
+45	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+45	3	fb:cell.katakuri_ke_no_kofuku	Katakuri-ke no kōfuku	katakuri|ke|no|kōfuku	Katakuri|ke|no|kōfuku	NNP|NNP|DT|NN	PERSON|PERSON|PERSON|PERSON	|||				Katakuri-ke no kōfuku
+45	4	fb:cell.film	Film	film	film	NN	O					
+46	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+46	1	fb:cell.dead_or_alive_final	Dead or Alive: Final	dead|or|alive|:|final	dead|or|alive|:|final	JJ|CC|JJ|:|JJ	O|O|O|O|O	||||				Dead or Alive: Final
+46	2	fb:cell.dead_or_alive_final_2	DEAD OR ALIVE FINAL	dead|or|alive|final	dead|or|alive|final	JJ|CC|JJ|JJ	O|O|O|O	|||				DEAD OR ALIVE FINAL
+46	3	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+46	4	fb:cell.film	Film	film	film	NN	O					
+47	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+47	1	fb:cell._onna_kunishu_ikki	(Onna kunishū ikki)	-lrb-|onna|kunishū|ikki|-rrb-	-lrb-|Onna|kunishū|ikki|-rrb-	-LRB-|NNP|NNP|NNP|-RRB-	O|PERSON|PERSON|PERSON|O	||||				(Onna kunishū ikki)
+47	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+47	3	fb:cell.onna_kunishu_ikki	Onna kunishū ikki	onna|kunishū|ikki	Onna|kunishū|ikki	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Onna kunishū ikki
+47	4	fb:cell._unknown	(unknown)	-lrb-|unknown|-rrb-	-lrb-|unknown|-rrb-	-LRB-|JJ|-RRB-	O|O|O	||				(unknown)
+48	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+48	1	fb:cell.sabu	Sabu	sabu	sabu	FW	PERSON					Sabu
+48	2	fb:cell.sabu	Sabu	sabu	sabu	FW	PERSON					Sabu
+48	3	fb:cell.sabu	Sabu	sabu	sabu	FW	PERSON					Sabu
+48	4	fb:cell.tv	TV	tv	tv	NN	O					
+49	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+49	1	fb:cell.graveyard_of_honor	Graveyard of Honor	graveyard|of|honor	graveyard|of|honor	NN|IN|NN	O|O|O	||				Graveyard of Honor
+49	2	fb:cell.null	突風！ ミニパト隊 アイキャッチ・ジャンクション	突風|！|ミニパト隊|アイキャッチ|・|ジャンクション	突風|！|ミニパト隊|アイキャッチ|・|ジャンクション	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||				突風！ ミニパト隊 アイキャッチ・ジャンクション
+49	3	fb:cell.shin_jingi_no_hakaba	Shin jingi no hakaba	shin|jingi|no|hakaba	Shin|jingi|no|hakaba	NNP|NNP|DT|NN	PERSON|PERSON|PERSON|PERSON	|||				Shin jingi no hakaba
+49	4	fb:cell.film	Film	film	film	NN	O					
+50	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+50	1	fb:cell.shangri_la	Shangri-La	shangri|la	Shangri|La	NNP|NNP	PERSON|PERSON	|				Shangri-La
+50	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+50	3	fb:cell.kin_yu_hametsu_nippon_togenkyo_no_hito_bito	Kin'yū hametsu Nippon: Tōgenkyō no hito-bito	kin|`|yū|hametsu|nippon|:|tōgenkyō|no|hito|bito	kin|`|yū|hametsu|Nippon|:|Tōgenkyō|no|hito|bito	FW|``|FW|FW|NNP|:|NNP|DT|NNP|NNP	O|O|MISC|MISC|MISC|O|O|O|PERSON|PERSON	|||||||||				Kin'yū hametsu Nippon: Tōgenkyō no hito-bito
+50	4	fb:cell.film	Film	film	film	NN	O					
+51	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+51	1	fb:cell.pandora	Pandōra	pandōra	pandōra	NN	PERSON					Pandōra
+51	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+51	3	fb:cell.pandora	Pandōra	pandōra	pandōra	NN	PERSON					Pandōra
+51	4	fb:cell.music_video	Music video	music|video	music|video	NN|NN	O|O	|				
+52	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+52	1	fb:cell.deadly_outlaw_rekka_violent_fire	Deadly Outlaw: Rekka\nViolent Fire	deadly|outlaw|:|rekka|violent|fire	deadly|outlaw|:|rekka|violent|fire	JJ|NN|:|NN|JJ|NN	O|O|O|O|O|O	|||||				Deadly Outlaw: Rekka|Violent Fire
+52	2	fb:cell.null	突風！ ミニパト隊 アイキャッチ・ジャンクション	突風|！|ミニパト隊|アイキャッチ|・|ジャンクション	突風|！|ミニパト隊|アイキャッチ|・|ジャンクション	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||				突風！ ミニパト隊 アイキャッチ・ジャンクション
+52	3	fb:cell.jitsuroku_ando_noboru_kyodo_den_rekka	Jitsuroku Andō Noboru kyōdō-den: Rekka	jitsuroku|andō|noboru|kyōdō|den|:|rekka	Jitsuroku|Andō|Noboru|kyōdō|den|:|Rekka	NNP|NNP|NNP|NNP|NNP|:|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|O|PERSON	||||||				Jitsuroku Andō Noboru kyōdō-den: Rekka
+52	4	fb:cell.film	Film	film	film	NN	O					
+53	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+53	1	fb:cell.pato_taimu_tantei	Pāto-taimu tantei	pāto|taimu|tantei	Pāto|taimu|tantei	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Pāto-taimu tantei
+53	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+53	3	fb:cell.pato_taimu_tantei	Pāto-taimu tantei	pāto|taimu|tantei	Pāto|taimu|tantei	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Pāto-taimu tantei
+53	4	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+54	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+54	1	fb:cell.the_man_in_white	The Man in White	the|man|in|white	the|man|in|White	DT|NN|IN|NNP	O|O|O|O	|||				The Man in White
+54	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+54	3	fb:cell.yurusarezaru_mono	Yurusarezaru mono	yurusarezaru|mono	Yurusarezaru|mono	NNP|NN	PERSON|PERSON	|				Yurusarezaru mono
+54	4	fb:cell.film	Film	film	film	NN	O					
+55	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+55	1	fb:cell.gozu	Gozu	gozu	Gozu	NNP	PERSON					Gozu
+55	2	fb:cell.gozu	Gozu	gozu	Gozu	NNP	PERSON					Gozu
+55	3	fb:cell.gokudo_kyofu_dai_gekijo_gozu	Gokudō kyōfu dai-gekijō: Gozu	gokudō|kyōfu|dai|gekijō|:|gozu	Gokudō|kyōfu|dai|gekijō|:|Gozu	NNP|NNP|NNP|NNP|:|NNP	PERSON|PERSON|PERSON|PERSON|O|PERSON	|||||				Gokudō kyōfu dai-gekijō: Gozu
+55	4	fb:cell.film	Film	film	film	NN	O					
+56	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+56	1	fb:cell.yakuza_demon	Yakuza Demon	yakuza|demon	Yakuza|demon	NNP|NN	O|O	|				Yakuza Demon
+56	2	fb:cell.kikoku	鬼哭 kikoku	鬼哭|kikoku	鬼哭|kikoku	NN|NN	PERSON|PERSON	|				鬼哭 kikoku
+56	3	fb:cell.kikoku	鬼哭 kikoku	鬼哭|kikoku	鬼哭|kikoku	NN|NN	PERSON|PERSON	|				鬼哭 kikoku
+56	4	fb:cell.video	Video	video	video	NN	O					
+57	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+57	1	fb:cell.koshonin	Kōshōnin	kōshōnin	kōshōnin	NN	PERSON					Kōshōnin
+57	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+57	3	fb:cell.koshonin	Kōshōnin	kōshōnin	kōshōnin	NN	PERSON					Kōshōnin
+57	4	fb:cell.tv	TV	tv	tv	NN	O					
+58	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+58	1	fb:cell.one_missed_call_you_ve_got_a_call	One Missed Call\nYou've Got a Call	one|missed|call|you|'ve|got|a|call	one|miss|call|you|have|get|a|call	CD|VBD|NN|PRP|VBP|VBD|DT|NN	NUMBER|O|O|O|O|O|O|O	1.0|||||||				One Missed Call|You've Got a Call
+58	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+58	3	fb:cell.chakushin_ari	Chakushin Ari	chakushin|ari	Chakushin|Ari	NNP|NNP	PERSON|PERSON	|				Chakushin Ari
+58	4	fb:cell.film	Film	film	film	NN	O					
+59	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+59	1	fb:cell.zebraman	Zebraman	zebraman	Zebraman	NNP	PERSON					Zebraman
+59	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+59	3	fb:cell.zeburaman	Zeburāman	zeburāman	Zeburāman	NNP	PERSON					Zeburāman
+59	4	fb:cell.film	Film	film	film	NN	O					
+60	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+60	1	fb:cell.pato_taimu_tantei_2	Pāto-taimu tantei 2	pāto|taimu|tantei|2	Pāto|taimu|tantei|2	NNP|NNP|NNP|CD	ORGANIZATION|ORGANIZATION|ORGANIZATION|NUMBER	|||2.0	2.0			Pāto-taimu tantei 2
+60	2	fb:cell.2	修羅の黙示録2 ボディーガード牙	修羅の黙示録2|ボディーガード牙	修羅の黙示録2|ボディーガード牙	NN|NN	O|O	|	2.0			修羅の黙示録2 ボディーガード牙
+60	3	fb:cell.pato_taimu_tantei_2	Pāto-taimu tantei 2	pāto|taimu|tantei|2	Pāto|taimu|tantei|2	NNP|NNP|NNP|CD	ORGANIZATION|ORGANIZATION|ORGANIZATION|NUMBER	|||2.0	2.0			Pāto-taimu tantei 2
+60	4	fb:cell.tv	TV	tv	tv	NN	O					
+61	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+61	1	fb:cell.box_segment_in_three_extremes	Box segment in Three... Extremes	box|segment|in|three|...|extremes	box|segment|in|three|...|extreme	NN|NN|IN|CD|:|NNS	O|O|O|NUMBER|O|O	|||3.0||				Box segment in Three... Extremes
+61	2	fb:cell.box	BOX（『美しい夜、残酷な朝』）	box|（|美しい夜|、|残酷な朝|）	box|（|美しい夜|、|残酷な朝|）	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||				BOX（『美しい夜、残酷な朝』）
+61	3	fb:cell.saam_gaang_yi	Saam gaang yi	saam|gaang|yi	Saam|gaang|yi	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Saam gaang yi
+61	4	fb:cell.segment_in_feature_film	Segment in feature film	segment|in|feature|film	segment|in|feature|film	NN|IN|NN|NN	O|O|O|O	|||				
+62	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+62	1	fb:cell.izo	Izo	izo	Izo	NNP	O					Izo
+62	2	fb:cell.izo	Izo	izo	Izo	NNP	O					Izo
+62	3	fb:cell.izo	Izo	izo	Izo	NNP	O					Izo
+62	4	fb:cell.film	Film	film	film	NN	O					
+63	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+63	1	fb:cell.ultraman_max	Ultraman Max	ultraman|max	Ultraman|Max	NNP|NNP	PERSON|PERSON	|				Ultraman Max
+63	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+63	3	fb:cell.urutoraman_makkusu	Urutoraman Makkusu	urutoraman|makkusu	urutoraman|makkusu	NN|NN	PERSON|PERSON	|				Urutoraman Makkusu
+63	4	fb:cell.episodes_15_and_16_from_tv_tokusatsu_series	Episodes 15 and 16 from TV tokusatsu series	episodes|15|and|16|from|tv|tokusatsu|series	episode|15|and|16|from|tv|tokusatsu|series	NNS|CD|CC|CD|IN|NN|NN|NN	O|NUMBER|O|NUMBER|O|O|MISC|MISC	|15.0||16.0||||	15.0		16.0	
+64	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+64	1	fb:cell.the_great_yokai_war	The Great Yokai War	the|great|yokai|war	the|great|Yokai|War	DT|JJ|NNP|NNP	O|O|MISC|MISC	|||				The Great Yokai War
+64	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+64	3	fb:cell.yokai_daisenso	Yokai Daisenso	yokai|daisenso	Yokai|Daisenso	NNP|NNP	PERSON|PERSON	|				Yokai Daisenso
+64	4	fb:cell.film	Film	film	film	NN	O					
+65	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+65	1	fb:cell.big_bang_love_juvenile_a_4_6_billion_years_of_love	Big Bang Love, Juvenile A\n4.6 Billion Years of Love	big|bang|love|,|juvenile|a|4.6|billion|years|of|love	Big|Bang|Love|,|juvenile|a|4.6|billion|year|of|love	NNP|NNP|NNP|,|JJ|DT|CD|CD|NNS|IN|NN	O|O|O|O|O|O|DURATION|DURATION|DURATION|O|O	||||||P2147483647Y|P2147483647Y|P2147483647Y||	4.6			Big Bang Love|Juvenile A|4.6 Billion Years of Love
+65	2	fb:cell.46	46億年の恋	46億年の恋	46億年の恋	NN	O		46.0			46億年の恋
+65	3	fb:cell.46_okunen_no_koi	46-okunen no koi	46|okunen|no|koi	46|okunen|no|koi	CD|NN|DT|NNP	NUMBER|PERSON|PERSON|PERSON	46.0|||	46.0			46-okunen no koi
+65	4	fb:cell.film	Film	film	film	NN	O					
+66	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+66	1	fb:cell.waru	Waru	waru	Waru	NNP	O					Waru
+66	2	fb:cell.waru	Waru	waru	Waru	NNP	O					Waru
+66	3	fb:cell.waru	Waru	waru	Waru	NNP	O					Waru
+66	4	fb:cell.film	Film	film	film	NN	O					
+67	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+67	1	fb:cell.imprint_episode_from_masters_of_horror	Imprint episode from Masters of Horror	imprint|episode|from|masters|of|horror	imprint|episode|from|master|of|horror	NN|NN|IN|NNS|IN|NN	O|O|O|O|O|O	|||||				Imprint episode from Masters of Horror
+67	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+67	3	fb:cell.inpurinto_bokke_kyote	Inpurinto ~bokke kyote~	inpurinto|~|bokke|kyote|~	Inpurinto|~|bokke|kyote|~	NNP|NNP|NNP|NNP|NNP	O|O|PERSON|PERSON|O	||||				Inpurinto ~bokke kyote~
+67	4	fb:cell.tv_episode	TV episode	tv|episode	tv|episode	NN|NN	O|O	|				
+68	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+68	1	fb:cell.waru_kanketsu_hen	Waru: kanketsu-hen	waru|:|kanketsu|hen	Waru|:|kanketsu|hen	NNP|:|NNP|NN	O|O|PERSON|PERSON	|||				Waru: kanketsu-hen
+68	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+68	3	fb:cell.waru_kanketsu_hen	Waru: kanketsu-hen	waru|:|kanketsu|hen	Waru|:|kanketsu|hen	NNP|:|NNP|NN	O|O|PERSON|PERSON	|||				Waru: kanketsu-hen
+68	4	fb:cell.video	Video	video	video	NN	O					
+69	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+69	1	fb:cell.sun_scarred	Sun Scarred	sun|scarred	Sun|scar	NNP|VBD	PERSON|PERSON	|				Sun Scarred
+69	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+69	3	fb:cell.taiyo_no_kizu	Taiyo no kizu	taiyo|no|kizu	Taiyo|no|kizu	NNP|DT|NNP	PERSON|PERSON|PERSON	||				Taiyo no kizu
+69	4	fb:cell.film	Film	film	film	NN	O					
+70	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+70	1	fb:cell.sukiyaki_western_django	Sukiyaki Western Django	sukiyaki|western|django	Sukiyaki|Western|Django	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Sukiyaki Western Django
+70	2	fb:cell.null	突風！ ミニパト隊 アイキャッチ・ジャンクション	突風|！|ミニパト隊|アイキャッチ|・|ジャンクション	突風|！|ミニパト隊|アイキャッチ|・|ジャンクション	NN|NN|NN|NN|NN|NN	O|O|O|O|O|O	|||||				突風！ ミニパト隊 アイキャッチ・ジャンクション
+70	3	fb:cell.sukiyaki_wesutan_jango	Sukiyaki wesutān jango	sukiyaki|wesutān|jango	Sukiyaki|wesutān|jango	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Sukiyaki wesutān jango
+70	4	fb:cell.film	Film	film	film	NN	O					
+71	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+71	1	fb:cell.crows_zero	Crows Zero	crows|zero	crow|zero	NNS|CD	O|NUMBER	|0.0				Crows Zero
+71	2	fb:cell.zero	クローズZERO	クローズzero	クローズzero	NN	O					クローズZERO
+71	3	fb:cell.kurozu_zero	Kurōzu Zero	kurōzu|zero	Kurōzu|Zero	NNP|NNP	PERSON|PERSON	|				Kurōzu Zero
+71	4	fb:cell.film	Film	film	film	NN	O					
+72	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+72	1	fb:cell.like_a_dragon	Like a Dragon	like|a|dragon	like|a|Dragon	IN|DT|NNP	O|O|O	||				Like a Dragon
+72	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+72	3	fb:cell.ryu_ga_gotoku_gekijoban	Ryu ga Gotoku Gekijōban	ryu|ga|gotoku|gekijōban	Ryu|ga|Gotoku|Gekijōban	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Ryu ga Gotoku Gekijōban
+72	4	fb:cell.film	Film	film	film	NN	O					
+73	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+73	1	fb:cell.zatoichi	Zatoichi	zatoichi	Zatoichi	NNP	PERSON					Zatoichi
+73	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+73	3	fb:cell.zatoichi	Zatoichi	zatoichi	Zatoichi	NNP	PERSON					Zatoichi
+73	4	fb:cell.stageplay	Stageplay	stageplay	stageplay	NN	O					
+74	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+74	1	fb:cell.detective_story	Detective Story	detective|story	detective|story	NN|NN	O|O	|				Detective Story
+74	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+74	3	fb:cell.tantei_monogatari	Tantei monogatari	tantei|monogatari	Tantei|monogatari	NNP|NNP	PERSON|PERSON	|				Tantei monogatari
+74	4	fb:cell.film	Film	film	film	NN	O					
+75	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+75	1	fb:cell.god_s_puzzle	God's Puzzle	god|'s|puzzle	God|'s|puzzle	NNP|POS|NN	O|O|O	||				God's Puzzle
+75	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+75	3	fb:cell.kamisama_no_pazuru	Kamisama no pazuru	kamisama|no|pazuru	Kamisama|no|pazuru	NNP|DT|NN	PERSON|PERSON|PERSON	||				Kamisama no pazuru
+75	4	fb:cell.film	Film	film	film	NN	O					
+76	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+76	1	fb:cell.k_tai_investigator_7	K-tai Investigator 7	k|tai|investigator|7	K|tai|investigator|7	NNP|NNP|NN|CD	O|O|O|NUMBER	|||7.0	7.0			K-tai Investigator 7
+76	2	fb:cell.7	ケータイ捜査官7	ケータイ捜査官7	ケータイ捜査官7	NN	O		7.0			ケータイ捜査官7
+76	3	fb:cell.keitai_sosakan_7	Keitai Sōsakan 7	keitai|sōsakan|7	Keitai|Sōsakan|7	NNP|NNP|CD	PERSON|PERSON|NUMBER	||7.0	7.0			Keitai Sōsakan 7
+76	4	fb:cell.tv	TV	tv	tv	NN	O					
+77	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+77	1	fb:cell.yatterman	Yatterman	yatterman	Yatterman	NNP	PERSON					Yatterman
+77	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+77	3	fb:cell.yattaaman	Yattaaman	yattaaman	Yattaaman	NNP	PERSON					Yattaaman
+77	4	fb:cell.film	Film	film	film	NN	O					
+78	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+78	1	fb:cell.crows_zero_2	Crows Zero 2	crows|zero|2	crow|zero|2	NNS|CD|CD	O|NUMBER|NUMBER	|0.0|2.0	2.0			Crows Zero 2
+78	2	fb:cell.zero_2	クローズZERO 2	クローズzero|2	クローズzero|2	NN|CD	O|NUMBER	|2.0	2.0			クローズZERO 2
+78	3	fb:cell.kurozu_zero_2	Kurōzu Zero 2	kurōzu|zero|2	Kurōzu|Zero|2	NNP|NNP|CD	ORGANIZATION|ORGANIZATION|NUMBER	||2.0	2.0			Kurōzu Zero 2
+78	4	fb:cell.film	Film	film	film	NN	O					
+79	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+79	1	fb:cell.thirteen_assassins	Thirteen Assassins	thirteen|assassins	thirteen|assassin	CD|NNS	NUMBER|O	13.0|				Thirteen Assassins
+79	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+79	3	fb:cell.jusan_nin_no_shikaku	Jûsan-nin no shikaku	jûsan|nin|no|shikaku	Jûsan|nin|no|shikaku	NNP|NNP|DT|NN	PERSON|PERSON|PERSON|PERSON	|||				Jûsan-nin no shikaku
+79	4	fb:cell.film	Film	film	film	NN	O					
+80	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+80	1	fb:cell.zebraman_2_attack_on_zebra_city	Zebraman 2: Attack on Zebra City	zebraman|2|:|attack|on|zebra|city	Zebraman|2|:|attack|on|zebra|city	NNP|CD|:|NN|IN|NN|NN	PERSON|NUMBER|O|O|O|LOCATION|LOCATION	|2.0|||||	2.0			Zebraman 2: Attack on Zebra City
+80	2	fb:cell.null_3	ゼブラーマン -ゼブラシティの逆襲	ゼブラーマン|ゼブラシティの逆襲	ゼブラーマン|ゼブラシティの逆襲	NN|NN	O|O	|				ゼブラーマン -ゼブラシティの逆襲
+80	3	fb:cell.zeburaman_zebura_shiti_no_gyakushu	Zeburāman -Zebura Shiti no Gyakushū	zeburāman|zebura|shiti|no|gyakushū	Zeburāman|Zebura|Shiti|no|gyakushū	NNP|NNP|NNP|DT|NN	PERSON|PERSON|PERSON|PERSON|PERSON	||||				Zeburāman -Zebura Shiti no Gyakushū
+80	4	fb:cell.film	Film	film	film	NN	O					
+81	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+81	1	fb:cell.ninja_kids	Ninja Kids!!!	ninja|kids|!!!	Ninja|Kids|!!!	NNP|NNP|NNP	O|O|O	||				Ninja Kids!!!
+81	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+81	3	fb:cell.nintama_rantaro	Nintama Rantarō	nintama|rantarō	Nintama|Rantarō	NNP|NNP	PERSON|PERSON	|				Nintama Rantarō
+81	4	fb:cell.film	Film	film	film	NN	O					
+82	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+82	1	fb:cell.hara_kiri_death_of_a_samurai	Hara-Kiri: Death of a Samurai	hara|kiri|:|death|of|a|samurai	Hara|Kiri|:|death|of|a|samurai	NNP|NNP|:|NN|IN|DT|FW	PERSON|PERSON|O|O|O|O|O	||||||				Hara-Kiri: Death of a Samurai
+82	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+82	3	fb:cell.ichimei	Ichimei	ichimei	ichimeus	NN	PERSON					Ichimei
+82	4	fb:cell.film	Film	film	film	NN	O					
+83	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+83	1	fb:cell.ace_attorney	Ace Attorney	ace|attorney	ace|attorney	NN|NN	O|O	|				Ace Attorney
+83	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+83	3	fb:cell.gyakuten_saiban	Gyakuten Saiban	gyakuten|saiban	gyakuten|saiban	NN|NN	PERSON|PERSON	|				Gyakuten Saiban
+83	4	fb:cell.film	Film	film	film	NN	O					
+84	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+84	1	fb:cell.for_love_s_sake	For Love's Sake	for|love|'s|sake	for|love|'s|sake	IN|NN|POS|NN	O|O|O|O	|||				For Love's Sake
+84	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+84	3	fb:cell.ai_to_makoto	Ai to makoto	ai|to|makoto	be|to|makoto	VBP|TO|NNP	O|O|PERSON	||				Ai to makoto
+84	4	fb:cell.film	Film	film	film	NN	O					
+85	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+85	1	fb:cell.lesson_of_the_evil	Lesson of the Evil	lesson|of|the|evil	lesson|of|the|evil	NN|IN|DT|NN	O|O|O|O	|||				Lesson of the Evil
+85	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+85	3	fb:cell.aku_no_kyoten	Aku no Kyōten	aku|no|kyōten	Aku|no|kyōten	NNP|DT|NN	PERSON|PERSON|PERSON	||				Aku no Kyōten
+85	4	fb:cell.film	Film	film	film	NN	O					
+86	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+86	1	fb:cell.shield_of_straw	Shield of Straw	shield|of|straw	Shield|of|Straw	NNP|IN|NNP	O|O|O	||				Shield of Straw
+86	2	fb:cell.null_2	レディハンター 殺しのプレュード	レディハンター|殺しのプレュード	レディハンター|殺しのプレュード	NN|NN	O|O	|				レディハンター 殺しのプレュード
+86	3	fb:cell.wara_no_tate	Wara no Tate	wara|no|tate	Wara|no|tate	NNP|DT|NN	MISC|MISC|MISC	||				Wara no Tate
+86	4	fb:cell.film	Film	film	film	NN	O					
+87	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+87	1	fb:cell.the_mole_song_undercover_agent_reiji	The Mole Song: Undercover Agent Reiji	the|mole|song|:|undercover|agent|reiji	the|mole|song|:|undercover|agent|Reiji	DT|NN|NN|:|JJ|NN|NNP	O|O|O|O|O|O|PERSON	||||||				The Mole Song: Undercover Agent Reiji
+87	2	fb:cell.reiji	土竜の唄　潜入捜査官 REIJI	土竜の唄|潜入捜査官|reiji	土竜の唄|潜入捜査官|REIJI	NNP|NNP|NNP	O|O|PERSON	||				土竜の唄　潜入捜査官 REIJI
+87	3	fb:cell.mogura_no_uta_sennyu_sosakan_reiji	Mogura no uta – sennyu sosakan: Reiji	mogura|no|uta|--|sennyu|sosakan|:|reiji	Mogura|no|uta|--|sennyu|sosakan|:|Reiji	NNP|DT|NNP|:|NNP|NNP|:|NNP	MISC|MISC|MISC|O|PERSON|PERSON|O|PERSON	|||||||				Mogura no uta – sennyu sosakan: Reiji
+87	4	fb:cell.film	Film	film	film	NN	O					

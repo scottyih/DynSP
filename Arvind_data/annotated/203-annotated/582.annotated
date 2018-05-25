@@ -1,0 +1,201 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.date	Date	date	date	NN	O					
+-1	1	fb:row.row.team	Team	team	team	NN	O					
+-1	2	fb:row.row.competition	Competition	competition	competition	NN	O					
+-1	3	fb:row.row.round	Round	round	round	NN	O					
+-1	4	fb:row.row.leg	Leg	leg	leg	NN	O					
+-1	5	fb:row.row.opponent	Opponent	opponent	opponent	NN	O					
+-1	6	fb:row.row.location	Location	location	location	NN	O					
+-1	7	fb:row.row.score	Score	score	score	NN	NUMBER	20.0				
+0	0	fb:cell.july_7	July 7	july|7	July|7	NNP|CD	DATE|DATE	XXXX-07-07|XXXX-07-07	7.0	xxxx-07-07		
+0	1	fb:cell.gent	Gent	gent	gent	NN	O					
+0	2	fb:cell.intertoto_cup	Intertoto Cup	intertoto|cup	Intertoto|Cup	NNP|NNP	MISC|MISC	|				
+0	3	fb:cell.round_2	Round 2	round|2	round|2	NN|CD	O|NUMBER	|2.0	2.0			
+0	4	fb:cell.leg_1_home	Leg 1, Home	leg|1|,|home	leg|1|,|home	NN|CD|,|NN	O|NUMBER|O|O	|1.0||	1.0			Leg 1|Home
+0	5	fb:cell.cliftonville	Cliftonville	cliftonville	Cliftonville	NNP	PERSON					
+0	6	fb:cell.jules_ottenstadion_ghent	Jules Ottenstadion, Ghent	jules|ottenstadion|,|ghent	Jules|Ottenstadion|,|Ghent	NNP|NNP|,|NNP	PERSON|PERSON|O|O	|||				Jules Ottenstadion|Ghent
+0	7	fb:cell.2_0	2-0	2-0	2-0	CD	NUMBER	2.0 - 0.0	2.0		0.0	
+1	0	fb:cell.july_14	July 14	july|14	July|14	NNP|CD	DATE|DATE	XXXX-07-14|XXXX-07-14	14.0	xxxx-07-14		
+1	1	fb:cell.gent	Gent	gent	gent	NN	O					
+1	2	fb:cell.intertoto_cup	Intertoto Cup	intertoto|cup	Intertoto|Cup	NNP|NNP	MISC|MISC	|				
+1	3	fb:cell.round_2	Round 2	round|2	round|2	NN|CD	O|NUMBER	|2.0	2.0			
+1	4	fb:cell.leg_2_away	Leg 2, Away	leg|2|,|away	leg|2|,|away	NN|CD|,|RB	O|NUMBER|O|O	|2.0||	2.0			Leg 2|Away
+1	5	fb:cell.cliftonville	Cliftonville	cliftonville	Cliftonville	NNP	PERSON					
+1	6	fb:cell.windsor_park_belfast	Windsor Park, Belfast	windsor|park|,|belfast	Windsor|Park|,|Belfast	NNP|NNP|,|NNP	LOCATION|LOCATION|O|LOCATION	|||				Windsor Park|Belfast
+1	7	fb:cell.4_0	4-0	4-0	4-0	JJ	O		4.0		0.0	
+2	0	fb:cell.july_21	July 21	july|21	July|21	NNP|CD	DATE|DATE	XXXX-07-21|XXXX-07-21	21.0	xxxx-07-21		
+2	1	fb:cell.gent	Gent	gent	gent	NN	O					
+2	2	fb:cell.intertoto_cup	Intertoto Cup	intertoto|cup	Intertoto|Cup	NNP|NNP	MISC|MISC	|				
+2	3	fb:cell.round_3	Round 3	round|3	Round|3	NNP|CD	O|NUMBER	|3.0	3.0			
+2	4	fb:cell.leg_1_home	Leg 1, Home	leg|1|,|home	leg|1|,|home	NN|CD|,|NN	O|NUMBER|O|O	|1.0||	1.0			Leg 1|Home
+2	5	fb:cell.aalborg	Aalborg	aalborg	Aalborg	NNP	ORGANIZATION					
+2	6	fb:cell.jules_ottenstadion_ghent	Jules Ottenstadion, Ghent	jules|ottenstadion|,|ghent	Jules|Ottenstadion|,|Ghent	NNP|NNP|,|NNP	PERSON|PERSON|O|O	|||				Jules Ottenstadion|Ghent
+2	7	fb:cell.1_1	1-1	1-1	1-1	CD	NUMBER	1.0 - 1.0	1.0		1.0	
+3	0	fb:cell.july_29	July 29	july|29	July|29	NNP|CD	DATE|DATE	XXXX-07-29|XXXX-07-29	29.0	xxxx-07-29		
+3	1	fb:cell.gent	Gent	gent	gent	NN	O					
+3	2	fb:cell.intertoto_cup	Intertoto Cup	intertoto|cup	Intertoto|Cup	NNP|NNP	MISC|MISC	|				
+3	3	fb:cell.round_3	Round 3	round|3	Round|3	NNP|CD	O|NUMBER	|3.0	3.0			
+3	4	fb:cell.leg_2_away	Leg 2, Away	leg|2|,|away	leg|2|,|away	NN|CD|,|RB	O|NUMBER|O|O	|2.0||	2.0			Leg 2|Away
+3	5	fb:cell.aalborg	Aalborg	aalborg	Aalborg	NNP	ORGANIZATION					
+3	6	fb:cell.energi_nord_arena_aalborg	Energi Nord Arena, Aalborg	energi|nord|arena|,|aalborg	Energi|Nord|arena|,|Aalborg	NNP|NNP|NN|,|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|ORGANIZATION	||||				Energi Nord Arena|Aalborg
+3	7	fb:cell.1_2	1-2	1-2	1-2	CD	NUMBER	1.0 - 2.0	1.0		2.0	
+4	0	fb:cell.july_31	July 31	july|31	July|31	NNP|CD	DATE|DATE	XXXX-07-31|XXXX-07-31	31.0	xxxx-07-31		
+4	1	fb:cell.genk	Genk	genk	genk	NN	O					
+4	2	fb:cell.champions_league	Champions League	champions|league	champion|league	NNS|NN	O|O	|				
+4	3	fb:cell.qual_round_2	Qual. Round 2	qual|.|round|2	Qual|.|round|2	NNP|.|NN|CD	O|O|O|NUMBER	|||2.0				
+4	4	fb:cell.leg_1_home	Leg 1, Home	leg|1|,|home	leg|1|,|home	NN|CD|,|NN	O|NUMBER|O|O	|1.0||	1.0			Leg 1|Home
+4	5	fb:cell.sarajevo	Sarajevo	sarajevo	Sarajevo	NNP	LOCATION					
+4	6	fb:cell.cristal_arena_genk	Cristal Arena, Genk	cristal|arena|,|genk	Cristal|arena|,|genk	NNP|NN|,|NN	O|O|O|O	|||				Cristal Arena|Genk
+4	7	fb:cell.1_2	1-2	1-2	1-2	CD	NUMBER	1.0 - 2.0	1.0		2.0	
+5	0	fb:cell.august_8	August 8	august|8	August|8	NNP|CD	DATE|DATE	XXXX-08-08|XXXX-08-08	8.0	xxxx-08-08		
+5	1	fb:cell.genk	Genk	genk	genk	NN	O					
+5	2	fb:cell.champions_league	Champions League	champions|league	champion|league	NNS|NN	O|O	|				
+5	3	fb:cell.qual_round_2	Qual. Round 2	qual|.|round|2	Qual|.|round|2	NNP|.|NN|CD	O|O|O|NUMBER	|||2.0				
+5	4	fb:cell.leg_2_away	Leg 2, Away	leg|2|,|away	leg|2|,|away	NN|CD|,|RB	O|NUMBER|O|O	|2.0||	2.0			Leg 2|Away
+5	5	fb:cell.sarajevo	Sarajevo	sarajevo	Sarajevo	NNP	LOCATION					
+5	6	fb:cell.asim_ferhatovic_hase_stadium_sarajevo	Asim Ferhatović Hase Stadium, Sarajevo	asim|ferhatović|hase|stadium|,|sarajevo	Asim|Ferhatović|Hase|Stadium|,|Sarajevo	NNP|NNP|NNP|NNP|,|NNP	PERSON|PERSON|PERSON|O|O|LOCATION	|||||				Asim Ferhatović Hase Stadium|Sarajevo
+5	7	fb:cell.1_0	1-0	1-0	1-0	CD	NUMBER	1.0 - 0.0	1.0		0.0	
+6	0	fb:cell.august_15	August 15	august|15	August|15	NNP|CD	DATE|DATE	XXXX-08-15|XXXX-08-15	15.0	xxxx-08-15		
+6	1	fb:cell.anderlecht	Anderlecht	anderlecht	Anderlecht	NNP	PERSON					
+6	2	fb:cell.champions_league	Champions League	champions|league	champion|league	NNS|NN	O|O	|				
+6	3	fb:cell.qual_round_3	Qual. Round 3	qual|.|round|3	Qual|.|Round|3	NNP|.|NNP|CD	O|O|O|NUMBER	|||3.0				
+6	4	fb:cell.leg_1_away	Leg 1, Away	leg|1|,|away	leg|1|,|away	NN|CD|,|RB	O|NUMBER|O|O	|1.0||	1.0			Leg 1|Away
+6	5	fb:cell.fenerbahce	Fenerbahçe	fenerbahçe	fenerbahçe	NN	PERSON					
+6	6	fb:cell.sukru_saracoglu_stadium_istanbul	Şükrü Saracoğlu Stadium, Istanbul	şükrü|saracoğlu|stadium|,|istanbul	Şükrü|Saracoğlu|Stadium|,|Istanbul	NNP|NNP|NNP|,|NNP	O|O|O|O|LOCATION	||||				Şükrü Saracoğlu Stadium|Istanbul
+6	7	fb:cell.0_1	0-1	0-1	0-1	CD	NUMBER	0.0 - 1.0	0.0		1.0	
+7	0	fb:cell.august_16	August 16	august|16	August|16	NNP|CD	DATE|DATE	XXXX-08-16|XXXX-08-16	16.0	xxxx-08-16		
+7	1	fb:cell.standard_liege	Standard Liège	standard|liège	standard|liège	JJ|NN	O|O	|				
+7	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+7	3	fb:cell.qual_round_2	Qual. Round 2	qual|.|round|2	Qual|.|round|2	NNP|.|NN|CD	O|O|O|NUMBER	|||2.0				
+7	4	fb:cell.leg_1_away	Leg 1, Away	leg|1|,|away	leg|1|,|away	NN|CD|,|RB	O|NUMBER|O|O	|1.0||	1.0			Leg 1|Away
+7	5	fb:cell.kaerjeng	Käerjeng	käerjeng	Käerjeng	NNP	PERSON					
+7	6	fb:cell.stade_josy_barthel_luxembourg	Stade Josy Barthel, Luxembourg	stade|josy|barthel|,|luxembourg	Stade|Josy|Barthel|,|Luxembourg	NNP|NNP|NNP|,|NNP	PERSON|PERSON|PERSON|O|LOCATION	||||				Stade Josy Barthel|Luxembourg
+7	7	fb:cell.3_0	3-0	3-0	3-0	CD	NUMBER	3.0 - 0.0	3.0		0.0	
+8	0	fb:cell.august_29	August 29	august|29	August|29	NNP|CD	DATE|DATE	XXXX-08-29|XXXX-08-29	29.0	xxxx-08-29		
+8	1	fb:cell.anderlecht	Anderlecht	anderlecht	Anderlecht	NNP	PERSON					
+8	2	fb:cell.champions_league	Champions League	champions|league	champion|league	NNS|NN	O|O	|				
+8	3	fb:cell.qual_round_3	Qual. Round 3	qual|.|round|3	Qual|.|Round|3	NNP|.|NNP|CD	O|O|O|NUMBER	|||3.0				
+8	4	fb:cell.leg_2_home	Leg 2, Home	leg|2|,|home	leg|2|,|home	NN|CD|,|NN	O|NUMBER|O|O	|2.0||	2.0			Leg 2|Home
+8	5	fb:cell.fenerbahce	Fenerbahçe	fenerbahçe	fenerbahçe	NN	PERSON					
+8	6	fb:cell.constant_vanden_stock_stadium_anderlecht	Constant Vanden Stock Stadium, Anderlecht	constant|vanden|stock|stadium|,|anderlecht	constant|Vanden|stock|stadium|,|Anderlecht	JJ|NNP|NN|NN|,|NNP	O|PERSON|O|O|O|ORGANIZATION	|||||				Constant Vanden Stock Stadium|Anderlecht
+8	7	fb:cell.0_2	0-2	0-2	0-2	CD	NUMBER	0.0 - 2.0	0.0		2.0	
+9	0	fb:cell.august_30	August 30	august|30	August|30	NNP|CD	DATE|DATE	XXXX-08-30|XXXX-08-30	30.0	xxxx-08-30		
+9	1	fb:cell.standard_liege	Standard Liège	standard|liège	standard|liège	JJ|NN	O|O	|				
+9	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+9	3	fb:cell.qual_round_2	Qual. Round 2	qual|.|round|2	Qual|.|round|2	NNP|.|NN|CD	O|O|O|NUMBER	|||2.0				
+9	4	fb:cell.leg_2_home	Leg 2, Home	leg|2|,|home	leg|2|,|home	NN|CD|,|NN	O|NUMBER|O|O	|2.0||	2.0			Leg 2|Home
+9	5	fb:cell.kaerjeng	Käerjeng	käerjeng	Käerjeng	NNP	PERSON					
+9	6	fb:cell.stade_maurice_dufrasne_liege	Stade Maurice Dufrasne, Liège	stade|maurice|dufrasne|,|liège	stade|Maurice|Dufrasne|,|Liège	VB|NNP|NNP|,|NNP	O|PERSON|PERSON|O|PERSON	||||				Stade Maurice Dufrasne|Liège
+9	7	fb:cell.1_0	1-0	1-0	1-0	CD	NUMBER	1.0 - 0.0	1.0		0.0	
+10	0	fb:cell.september_20	September 20	september|20	September|20	NNP|CD	DATE|DATE	XXXX-09-20|XXXX-09-20	20.0	xxxx-09-20		
+10	1	fb:cell.anderlecht	Anderlecht	anderlecht	Anderlecht	NNP	PERSON					
+10	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+10	3	fb:cell.round_1	Round 1	round|1	round|1	NN|CD	O|NUMBER	|1.0	1.0			
+10	4	fb:cell.leg_1_home	Leg 1, Home	leg|1|,|home	leg|1|,|home	NN|CD|,|NN	O|NUMBER|O|O	|1.0||	1.0			Leg 1|Home
+10	5	fb:cell.rapid_wien	Rapid Wien	rapid|wien	rapid|Wien	JJ|NNP	PERSON|PERSON	|				
+10	6	fb:cell.constant_vanden_stock_stadium_anderlecht	Constant Vanden Stock Stadium, Anderlecht	constant|vanden|stock|stadium|,|anderlecht	constant|Vanden|stock|stadium|,|Anderlecht	JJ|NNP|NN|NN|,|NNP	O|PERSON|O|O|O|ORGANIZATION	|||||				Constant Vanden Stock Stadium|Anderlecht
+10	7	fb:cell.1_1	1-1	1-1	1-1	CD	NUMBER	1.0 - 1.0	1.0		1.0	
+11	0	fb:cell.september_20	September 20	september|20	September|20	NNP|CD	DATE|DATE	XXXX-09-20|XXXX-09-20	20.0	xxxx-09-20		
+11	1	fb:cell.club_brugge	Club Brugge	club|brugge	Club|Brugge	NNP|NNP	PERSON|PERSON	|				
+11	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+11	3	fb:cell.round_1	Round 1	round|1	round|1	NN|CD	O|NUMBER	|1.0	1.0			
+11	4	fb:cell.leg_1_away	Leg 1, Away	leg|1|,|away	leg|1|,|away	NN|CD|,|RB	O|NUMBER|O|O	|1.0||	1.0			Leg 1|Away
+11	5	fb:cell.brann	Brann	brann	Brann	NNP	PERSON					
+11	6	fb:cell.brann_stadion_bergen	Brann Stadion, Bergen	brann|stadion|,|bergen	Brann|Stadion|,|Bergen	NNP|NNP|,|NNP	ORGANIZATION|ORGANIZATION|O|LOCATION	|||				Brann Stadion|Bergen
+11	7	fb:cell.1_0	1-0	1-0	1-0	CD	NUMBER	1.0 - 0.0	1.0		0.0	
+12	0	fb:cell.september_20	September 20	september|20	September|20	NNP|CD	DATE|DATE	XXXX-09-20|XXXX-09-20	20.0	xxxx-09-20		
+12	1	fb:cell.standard_liege	Standard Liège	standard|liège	standard|liège	JJ|NN	O|O	|				
+12	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+12	3	fb:cell.round_1	Round 1	round|1	round|1	NN|CD	O|NUMBER	|1.0	1.0			
+12	4	fb:cell.leg_1_away	Leg 1, Away	leg|1|,|away	leg|1|,|away	NN|CD|,|RB	O|NUMBER|O|O	|1.0||	1.0			Leg 1|Away
+12	5	fb:cell.zenit_st_petersburg	Zenit St. Petersburg	zenit|st.|petersburg	Zenit|St.|Petersburg	NNP|NNP|NNP	LOCATION|LOCATION|LOCATION	||				
+12	6	fb:cell.petrovsky_stadium_saint_petersburg	Petrovsky Stadium, Saint Petersburg	petrovsky|stadium|,|saint|petersburg	Petrovsky|Stadium|,|Saint|Petersburg	NNP|NNP|,|NNP|NNP	PERSON|O|O|LOCATION|LOCATION	||||				Petrovsky Stadium|Saint Petersburg
+12	7	fb:cell.0_3	0-3	0-3	0-3	CD	NUMBER	0.0 - 3.0	0.0		3.0	
+13	0	fb:cell.october_4	October 4	october|4	October|4	NNP|CD	DATE|DATE	XXXX-10-04|XXXX-10-04	4.0	xxxx-10-04		
+13	1	fb:cell.anderlecht	Anderlecht	anderlecht	Anderlecht	NNP	PERSON					
+13	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+13	3	fb:cell.round_1	Round 1	round|1	round|1	NN|CD	O|NUMBER	|1.0	1.0			
+13	4	fb:cell.leg_2_away	Leg 2, Away	leg|2|,|away	leg|2|,|away	NN|CD|,|RB	O|NUMBER|O|O	|2.0||	2.0			Leg 2|Away
+13	5	fb:cell.rapid_wien	Rapid Wien	rapid|wien	rapid|Wien	JJ|NNP	PERSON|PERSON	|				
+13	6	fb:cell.gerhard_hanappi_stadium_vienna	Gerhard Hanappi Stadium, Vienna	gerhard|hanappi|stadium|,|vienna	Gerhard|Hanappi|Stadium|,|Vienna	NNP|NNP|NNP|,|NNP	PERSON|PERSON|O|O|LOCATION	||||				Gerhard Hanappi Stadium|Vienna
+13	7	fb:cell.1_0	1-0	1-0	1-0	CD	NUMBER	1.0 - 0.0	1.0		0.0	
+14	0	fb:cell.october_4	October 4	october|4	October|4	NNP|CD	DATE|DATE	XXXX-10-04|XXXX-10-04	4.0	xxxx-10-04		
+14	1	fb:cell.club_brugge	Club Brugge	club|brugge	Club|Brugge	NNP|NNP	PERSON|PERSON	|				
+14	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+14	3	fb:cell.round_1	Round 1	round|1	round|1	NN|CD	O|NUMBER	|1.0	1.0			
+14	4	fb:cell.leg_2_home	Leg 2, Home	leg|2|,|home	leg|2|,|home	NN|CD|,|NN	O|NUMBER|O|O	|2.0||	2.0			Leg 2|Home
+14	5	fb:cell.brann	Brann	brann	Brann	NNP	PERSON					
+14	6	fb:cell.jan_breydel_stadium_bruges	Jan Breydel Stadium, Bruges	jan|breydel|stadium|,|bruges	Jan|Breydel|Stadium|,|Bruges	NNP|NNP|NNP|,|NNP	LOCATION|LOCATION|LOCATION|O|O	||||				Jan Breydel Stadium|Bruges
+14	7	fb:cell.1_2	1-2	1-2	1-2	CD	NUMBER	1.0 - 2.0	1.0		2.0	
+15	0	fb:cell.october_4	October 4	october|4	October|4	NNP|CD	DATE|DATE	XXXX-10-04|XXXX-10-04	4.0	xxxx-10-04		
+15	1	fb:cell.standard_liege	Standard Liège	standard|liège	standard|liège	JJ|NN	O|O	|				
+15	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+15	3	fb:cell.round_1	Round 1	round|1	round|1	NN|CD	O|NUMBER	|1.0	1.0			
+15	4	fb:cell.leg_2_home	Leg 2, Home	leg|2|,|home	leg|2|,|home	NN|CD|,|NN	O|NUMBER|O|O	|2.0||	2.0			Leg 2|Home
+15	5	fb:cell.zenit_st_petersburg	Zenit St. Petersburg	zenit|st.|petersburg	Zenit|St.|Petersburg	NNP|NNP|NNP	LOCATION|LOCATION|LOCATION	||				
+15	6	fb:cell.stade_maurice_dufrasne_liege	Stade Maurice Dufrasne, Liège	stade|maurice|dufrasne|,|liège	stade|Maurice|Dufrasne|,|Liège	VB|NNP|NNP|,|NNP	O|PERSON|PERSON|O|PERSON	||||				Stade Maurice Dufrasne|Liège
+15	7	fb:cell.1_1	1-1	1-1	1-1	CD	NUMBER	1.0 - 1.0	1.0		1.0	
+16	0	fb:cell.october_25	October 25	october|25	October|25	NNP|CD	DATE|DATE	XXXX-10-25|XXXX-10-25	25.0	xxxx-10-25		
+16	1	fb:cell.anderlecht	Anderlecht	anderlecht	Anderlecht	NNP	PERSON					
+16	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+16	3	fb:cell.group_stage	Group Stage	group|stage	group|stage	NN|NN	O|O	|				
+16	4	fb:cell.match_1_home	Match 1, Home	match|1|,|home	match|1|,|home	NN|CD|,|NN	O|NUMBER|O|O	|1.0||	1.0			Match 1|Home
+16	5	fb:cell.hapoel_tel_aviv	Hapoel Tel Aviv	hapoel|tel|aviv	Hapoel|Tel|Aviv	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+16	6	fb:cell.constant_vanden_stock_stadium_anderlecht	Constant Vanden Stock Stadium, Anderlecht	constant|vanden|stock|stadium|,|anderlecht	constant|Vanden|stock|stadium|,|Anderlecht	JJ|NNP|NN|NN|,|NNP	O|PERSON|O|O|O|ORGANIZATION	|||||				Constant Vanden Stock Stadium|Anderlecht
+16	7	fb:cell.2_0	2-0	2-0	2-0	CD	NUMBER	2.0 - 0.0	2.0		0.0	
+17	0	fb:cell.november_8	November 8	november|8	November|8	NNP|CD	DATE|DATE	XXXX-11-08|XXXX-11-08	8.0	xxxx-11-08		
+17	1	fb:cell.anderlecht	Anderlecht	anderlecht	Anderlecht	NNP	PERSON					
+17	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+17	3	fb:cell.group_stage	Group Stage	group|stage	group|stage	NN|NN	O|O	|				
+17	4	fb:cell.match_2_away	Match 2, Away	match|2|,|away	match|2|,|away	NN|CD|,|RB	O|NUMBER|O|O	|2.0||	2.0			Match 2|Away
+17	5	fb:cell.aalborg	Aalborg	aalborg	Aalborg	NNP	ORGANIZATION					
+17	6	fb:cell.energi_nord_arena_aalborg	Energi Nord Arena, Aalborg	energi|nord|arena|,|aalborg	Energi|Nord|arena|,|Aalborg	NNP|NNP|NN|,|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|ORGANIZATION	||||				Energi Nord Arena|Aalborg
+17	7	fb:cell.1_1	1-1	1-1	1-1	CD	NUMBER	1.0 - 1.0	1.0		1.0	
+18	0	fb:cell.december_6	December 6	december|6	December|6	NNP|CD	DATE|DATE	XXXX-12-06|XXXX-12-06	6.0	xxxx-12-06		
+18	1	fb:cell.anderlecht	Anderlecht	anderlecht	Anderlecht	NNP	PERSON					
+18	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+18	3	fb:cell.group_stage	Group Stage	group|stage	group|stage	NN|NN	O|O	|				
+18	4	fb:cell.match_3_home	Match 3, Home	match|3|,|home	Match|3|,|home	NNP|CD|,|NN	O|NUMBER|O|O	|3.0||	3.0			Match 3|Home
+18	5	fb:cell.tottenham_hotspur	Tottenham Hotspur	tottenham|hotspur	Tottenham|Hotspur	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+18	6	fb:cell.constant_vanden_stock_stadium_anderlecht	Constant Vanden Stock Stadium, Anderlecht	constant|vanden|stock|stadium|,|anderlecht	constant|Vanden|stock|stadium|,|Anderlecht	JJ|NNP|NN|NN|,|NNP	O|PERSON|O|O|O|ORGANIZATION	|||||				Constant Vanden Stock Stadium|Anderlecht
+18	7	fb:cell.1_1	1-1	1-1	1-1	CD	NUMBER	1.0 - 1.0	1.0		1.0	
+19	0	fb:cell.december_19	December 19	december|19	December|19	NNP|CD	DATE|DATE	XXXX-12-19|XXXX-12-19	19.0	xxxx-12-19		
+19	1	fb:cell.anderlecht	Anderlecht	anderlecht	Anderlecht	NNP	PERSON					
+19	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+19	3	fb:cell.group_stage	Group Stage	group|stage	group|stage	NN|NN	O|O	|				
+19	4	fb:cell.match_4_away	Match 4, Away	match|4|,|away	match|4|,|away	NN|CD|,|RB	O|NUMBER|O|O	|4.0||	4.0			Match 4|Away
+19	5	fb:cell.getafe	Getafe	getafe	Getafe	NNP	LOCATION					
+19	6	fb:cell.coliseum_alfonso_perez_getafe	Coliseum Alfonso Pérez, Getafe	coliseum|alfonso|pérez|,|getafe	coliseum|Alfonso|Pérez|,|Getafe	NN|NNP|NNP|,|NNP	O|PERSON|PERSON|O|LOCATION	||||				Coliseum Alfonso Pérez|Getafe
+19	7	fb:cell.1_2	1-2	1-2	1-2	CD	NUMBER	1.0 - 2.0	1.0		2.0	
+20	0	fb:cell.february_13	February 13	february|13	February|13	NNP|CD	DATE|DATE	XXXX-02-13|XXXX-02-13	13.0	xxxx-02-13		
+20	1	fb:cell.anderlecht	Anderlecht	anderlecht	Anderlecht	NNP	PERSON					
+20	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+20	3	fb:cell.round_of_32	Round of 32	round|of|32	round|of|32	NN|IN|CD	O|O|NUMBER	||32.0	32.0			
+20	4	fb:cell.leg_1_home	Leg 1, Home	leg|1|,|home	leg|1|,|home	NN|CD|,|NN	O|NUMBER|O|O	|1.0||	1.0			Leg 1|Home
+20	5	fb:cell.bordeaux	Bordeaux	bordeaux	Bordeaux	NNP	LOCATION					
+20	6	fb:cell.constant_vanden_stock_stadium_anderlecht	Constant Vanden Stock Stadium, Anderlecht	constant|vanden|stock|stadium|,|anderlecht	constant|Vanden|stock|stadium|,|Anderlecht	JJ|NNP|NN|NN|,|NNP	O|PERSON|O|O|O|ORGANIZATION	|||||				Constant Vanden Stock Stadium|Anderlecht
+20	7	fb:cell.2_1	2-1	2-1	2-1	CD	NUMBER	2.0 - 1.0	2.0		1.0	
+21	0	fb:cell.february_21	February 21	february|21	February|21	NNP|CD	DATE|DATE	XXXX-02-21|XXXX-02-21	21.0	xxxx-02-21		
+21	1	fb:cell.anderlecht	Anderlecht	anderlecht	Anderlecht	NNP	PERSON					
+21	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+21	3	fb:cell.round_of_32	Round of 32	round|of|32	round|of|32	NN|IN|CD	O|O|NUMBER	||32.0	32.0			
+21	4	fb:cell.leg_2_away	Leg 2, Away	leg|2|,|away	leg|2|,|away	NN|CD|,|RB	O|NUMBER|O|O	|2.0||	2.0			Leg 2|Away
+21	5	fb:cell.bordeaux	Bordeaux	bordeaux	Bordeaux	NNP	LOCATION					
+21	6	fb:cell.stade_chaban_delmas_bordeaux	Stade Chaban-Delmas, Bordeaux	stade|chaban|delmas|,|bordeaux	Stade|Chaban|Delmas|,|Bordeaux	NNP|NNP|NNP|,|NNP	PERSON|PERSON|PERSON|O|LOCATION	||||				Stade Chaban-Delmas|Bordeaux
+21	7	fb:cell.1_1	1-1	1-1	1-1	CD	NUMBER	1.0 - 1.0	1.0		1.0	
+22	0	fb:cell.march_6	March 6	march|6	March|6	NNP|CD	DATE|DATE	XXXX-03-06|XXXX-03-06	6.0	xxxx-03-06		
+22	1	fb:cell.anderlecht	Anderlecht	anderlecht	Anderlecht	NNP	PERSON					
+22	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+22	3	fb:cell.round_of_16	Round of 16	round|of|16	round|of|16	NN|IN|CD	O|O|NUMBER	||16.0	16.0			
+22	4	fb:cell.leg_1_home	Leg 1, Home	leg|1|,|home	leg|1|,|home	NN|CD|,|NN	O|NUMBER|O|O	|1.0||	1.0			Leg 1|Home
+22	5	fb:cell.bayern_munich	Bayern Munich	bayern|munich	Bayern|Munich	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+22	6	fb:cell.constant_vanden_stock_stadium_anderlecht	Constant Vanden Stock Stadium, Anderlecht	constant|vanden|stock|stadium|,|anderlecht	constant|Vanden|stock|stadium|,|Anderlecht	JJ|NNP|NN|NN|,|NNP	O|PERSON|O|O|O|ORGANIZATION	|||||				Constant Vanden Stock Stadium|Anderlecht
+22	7	fb:cell.0_5	0-5	0-5	0-5	CD	NUMBER	0.0 - 5.0	0.0		5.0	
+23	0	fb:cell.march_12	March 12	march|12	March|12	NNP|CD	DATE|DATE	XXXX-03-12|XXXX-03-12	12.0	xxxx-03-12		
+23	1	fb:cell.anderlecht	Anderlecht	anderlecht	Anderlecht	NNP	PERSON					
+23	2	fb:cell.uefa_cup	UEFA Cup	uefa|cup	UEFA|Cup	NNP|NNP	ORGANIZATION|O	|				
+23	3	fb:cell.round_of_16	Round of 16	round|of|16	round|of|16	NN|IN|CD	O|O|NUMBER	||16.0	16.0			
+23	4	fb:cell.leg_2_away	Leg 2, Away	leg|2|,|away	leg|2|,|away	NN|CD|,|RB	O|NUMBER|O|O	|2.0||	2.0			Leg 2|Away
+23	5	fb:cell.bayern_munich	Bayern Munich	bayern|munich	Bayern|Munich	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+23	6	fb:cell.allianz_arena_munich	Allianz Arena, Munich	allianz|arena|,|munich	Allianz|arena|,|Munich	NNP|NN|,|NNP	ORGANIZATION|ORGANIZATION|O|LOCATION	|||				Allianz Arena|Munich
+23	7	fb:cell.2_1	2-1	2-1	2-1	CD	NUMBER	2.0 - 1.0	2.0		1.0	

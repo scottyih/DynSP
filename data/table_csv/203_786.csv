@@ -1,0 +1,26 @@
+Color,Pin (Tip),Pin (Ring),Color
+Blue/White,26,1,Blue/White
+Orange/White,27,2,Orange/White
+Green/White,28,3,Green/White
+Brown/White,29,4,Brown/White
+Slate/White,30,5,Slate/White
+Blue/Red,31,6,Blue/Red
+Orange/Red,32,7,Orange/Red
+Green/Red,33,8,Green/Red
+Brown/Red,34,9,Brown/Red
+Slate/Red,35,10,Slate/Red
+Blue/Black,36,11,Blue/Black
+Orange/Black,37,12,Orange/Black
+Green/Black,38,13,Green/Black
+Brown/Black,39,14,Brown/Black
+Slate/Black,40,15,Slate/Black
+Blue/Yellow,41,16,Blue/Yellow
+Orange/Yellow,42,17,Orange/Yellow
+Green/Yellow,43,18,Green/Yellow
+Brown/Yellow,44,19,Brown/Yellow
+Slate/Yellow,45,20,Slate/Yellow
+Blue/Violet,46,21,Blue/Violet
+Orange/Violet,47,22,Orange/Violet
+Green/Violet,48,23,Green/Violet
+Brown/Violet,49,24,Brown/Violet
+Slate/Violet,50,25,Slate/Violet

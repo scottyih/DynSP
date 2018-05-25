@@ -1,0 +1,56 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.region	Region	region	region	NN	O					
+-1	1	fb:row.row.date	Date	date	date	NN	O					
+-1	2	fb:row.row.format	Format	format	format	NN	O					
+-1	3	fb:row.row.version_s	Version(s)	version|-lrb-|s|-rrb-	version|-lrb-|s|-rrb-	NN|-LRB-|NNS|-RRB-	O|O|O|O	|||				
+-1	4	fb:row.row.label	Label	label	label	NN	O					
+0	0	fb:cell.france	France	france	France	NNP	LOCATION					
+0	1	fb:cell.september_4_2012	September 4, 2012	september|4|,|2012	September|4|,|2012	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2012-09-04|2012-09-04|2012-09-04|2012-09-04	42012.0	2012-09-04		September 4|2012
+0	2	fb:cell.digital_download	Digital download	digital|download	Digital|download	NNP|VB	O|O	|				Digital download
+0	3	fb:cell.main_single_inferno_remix_bluelight_remix	Main single\nInferno remix\nBluelight remix	main|single|inferno|remix|bluelight|remix	main|single|inferno|remix|Bluelight|remix	JJ|JJ|NN|NN|NNP|NNP	O|O|O|O|O|O	|||||				Main single|Inferno remix|Bluelight remix
+0	4	fb:cell.sony_music	Sony Music	sony|music	Sony|music	NNP|NN	ORGANIZATION|ORGANIZATION	|				
+1	0	fb:cell.germany	Germany	germany	Germany	NNP	LOCATION					
+1	1	fb:cell.september_4_2012	September 4, 2012	september|4|,|2012	September|4|,|2012	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2012-09-04|2012-09-04|2012-09-04|2012-09-04	42012.0	2012-09-04		September 4|2012
+1	2	fb:cell.digital_download	Digital download	digital|download	Digital|download	NNP|VB	O|O	|				Digital download
+1	3	fb:cell.inferno_remix	Inferno remix	inferno|remix	inferno|remix	NN|NN	O|O	|				Inferno remix
+1	4	fb:cell.sony_music	Sony Music	sony|music	Sony|music	NNP|NN	ORGANIZATION|ORGANIZATION	|				
+2	0	fb:cell.united_states	United States	united|states	United|States	NNP|NNPS	LOCATION|LOCATION	|				
+2	1	fb:cell.september_4_2012	September 4, 2012	september|4|,|2012	September|4|,|2012	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2012-09-04|2012-09-04|2012-09-04|2012-09-04	42012.0	2012-09-04		September 4|2012
+2	2	fb:cell.digital_download	Digital download	digital|download	Digital|download	NNP|VB	O|O	|				Digital download
+2	3	fb:cell.main_single_inferno_remix_bluelight_remix	Main single\nInferno remix\nBluelight remix	main|single|inferno|remix|bluelight|remix	main|single|inferno|remix|Bluelight|remix	JJ|JJ|NN|NN|NNP|NNP	O|O|O|O|O|O	|||||				Main single|Inferno remix|Bluelight remix
+2	4	fb:cell.rca_records	RCA Records	rca|records	rca|record	NN|NNS	ORGANIZATION|ORGANIZATION	|				
+3	0	fb:cell.united_states	United States	united|states	United|States	NNP|NNPS	LOCATION|LOCATION	|				
+3	1	fb:cell.september_11_2012	September 11, 2012	september|11|,|2012	September|11|,|2012	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2012-09-11|2012-09-11|2012-09-11|2012-09-11	112012.0	2012-09-11		September 11|2012
+3	2	fb:cell.rhythmic_airplay_urban_airplay	Rhythmic airplay\nUrban airplay	rhythmic|airplay|urban|airplay	rhythmic|airplay|urban|airplay	JJ|NN|JJ|NN	O|O|O|O	|||				Rhythmic airplay|Urban airplay
+3	3	fb:cell.inferno_remix	Inferno remix	inferno|remix	inferno|remix	NN|NN	O|O	|				Inferno remix
+3	4	fb:cell.rca_records	RCA Records	rca|records	rca|record	NN|NNS	ORGANIZATION|ORGANIZATION	|				
+4	0	fb:cell.united_states	United States	united|states	United|States	NNP|NNPS	LOCATION|LOCATION	|				
+4	1	fb:cell.september_11_2012	September 11, 2012	september|11|,|2012	September|11|,|2012	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2012-09-11|2012-09-11|2012-09-11|2012-09-11	112012.0	2012-09-11		September 11|2012
+4	2	fb:cell.urban_ac_airplay	Urban AC airplay	urban|ac|airplay	urban|ac|airplay	JJ|NN|NN	O|O|O	||				Urban AC airplay
+4	3	fb:cell.bluelight_remix	Bluelight remix	bluelight|remix	Bluelight|remix	NNP|NNP	ORGANIZATION|O	|				Bluelight remix
+4	4	fb:cell.rca_records	RCA Records	rca|records	rca|record	NN|NNS	ORGANIZATION|ORGANIZATION	|				
+5	0	fb:cell.united_states	United States	united|states	United|States	NNP|NNPS	LOCATION|LOCATION	|				
+5	1	fb:cell.october_16_2012	October 16, 2012	october|16|,|2012	October|16|,|2012	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2012-10-16|2012-10-16|2012-10-16|2012-10-16	162012.0	2012-10-16		October 16|2012
+5	2	fb:cell.mainstream_airplay	Mainstream airplay	mainstream|airplay	Mainstream|airplay	NNP|NNP	O|O	|				Mainstream airplay
+5	3	fb:cell.main_single_inferno_remix	Main Single\nInferno remix	main|single|inferno|remix	main|single|inferno|remix	JJ|JJ|NN|NN	O|O|O|O	|||				Main Single|Inferno remix
+5	4	fb:cell.rca_records	RCA Records	rca|records	rca|record	NN|NNS	ORGANIZATION|ORGANIZATION	|				
+6	0	fb:cell.united_states	United States	united|states	United|States	NNP|NNPS	LOCATION|LOCATION	|				
+6	1	fb:cell.october_16_2012	October 16, 2012	october|16|,|2012	October|16|,|2012	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2012-10-16|2012-10-16|2012-10-16|2012-10-16	162012.0	2012-10-16		October 16|2012
+6	2	fb:cell.hot_adult_contemporary_airplay	Hot Adult Contemporary airplay	hot|adult|contemporary|airplay	hot|adult|contemporary|airplay	JJ|JJ|JJ|NN	O|O|O|O	|||				Hot Adult Contemporary airplay
+6	3	fb:cell.main_single	Main Single	main|single	main|single	JJ|JJ	O|O	|				Main Single
+6	4	fb:cell.rca_records	RCA Records	rca|records	rca|record	NN|NNS	ORGANIZATION|ORGANIZATION	|				
+7	0	fb:cell.germany	Germany	germany	Germany	NNP	LOCATION					
+7	1	fb:cell.november_2_2012	November 2, 2012	november|2|,|2012	November|2|,|2012	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2012-11-02|2012-11-02|2012-11-02|2012-11-02	22012.0	2012-11-02		November 2|2012
+7	2	fb:cell.cd_single	CD single	cd|single	CD|single	NNP|JJ	O|O	|				CD single
+7	3	fb:cell.main_single_inferno_remix	Main Single\nInferno remix	main|single|inferno|remix	main|single|inferno|remix	JJ|JJ|NN|NN	O|O|O|O	|||				Main Single|Inferno remix
+7	4	fb:cell.sony_music	Sony Music	sony|music	Sony|music	NNP|NN	ORGANIZATION|ORGANIZATION	|				
+8	0	fb:cell.united_kingdom	United Kingdom	united|kingdom	United|Kingdom	NNP|NNP	LOCATION|LOCATION	|				
+8	1	fb:cell.november_18_2012	November 18, 2012	november|18|,|2012	November|18|,|2012	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2012-11-18|2012-11-18|2012-11-18|2012-11-18	182012.0	2012-11-18		November 18|2012
+8	2	fb:cell.digital_ep	Digital EP	digital|ep	Digital|ep	NNP|NN	O|O	|				Digital EP
+8	3	fb:cell.main_single_bluelight_remix_inferno_remix_instrumental	Main Single\nBluelight remix\nInferno remix\nInstrumental	main|single|bluelight|remix|inferno|remix|instrumental	main|single|bluelight|remix|inferno|remix|instrumental	JJ|JJ|NN|NN|NN|NN|JJ	O|O|O|O|O|O|O	||||||				Main Single|Bluelight remix|Inferno remix|Instrumental
+8	4	fb:cell.rca_records	RCA Records	rca|records	rca|record	NN|NNS	ORGANIZATION|ORGANIZATION	|				
+9	0	fb:cell.united_states	United States	united|states	United|States	NNP|NNPS	LOCATION|LOCATION	|				
+9	1	fb:cell.march_18_2013	March 18, 2013	march|18|,|2013	March|18|,|2013	NNP|CD|,|CD	DATE|DATE|DATE|DATE	2013-03-18|2013-03-18|2013-03-18|2013-03-18	182013.0	2013-03-18		March 18|2013
+9	2	fb:cell.adult_contemporary_airplay	Adult Contemporary airplay	adult|contemporary|airplay	adult|contemporary|airplay	JJ|JJ|NN	O|O|O	||				Adult Contemporary airplay
+9	3	fb:cell.main_single	Main Single	main|single	main|single	JJ|JJ	O|O	|				Main Single
+9	4	fb:cell.rca_records	RCA Records	rca|records	rca|record	NN|NNS	ORGANIZATION|ORGANIZATION	|				

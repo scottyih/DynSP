@@ -1,0 +1,5 @@
+id	annotator	position	question	table_file	answer_coordinates	answer_text
+nt-13588	2	0	what are the names of the basketball team players?	table_csv/204_105.csv	['(0, 1)', '(1, 1)', '(2, 1)', '(3, 1)', '(4, 1)', '(5, 1)', '(6, 1)', '(7, 1)', '(8, 1)', '(9, 1)', '(10, 1)', '(11, 1)', '(12, 1)']	['Mychal Ladd', 'Jonathan Wills', 'Taylor Kelly', 'Jerry Brown, Jr.', 'Steven Shepp', 'Nedeljko Golubovic', 'Garrett Johnson', 'Greg Smith', 'Paul George', 'Justin Johnson', 'Sylvester Seay', 'Brandon Sperling', 'Brandon Webster']
+nt-13588	2	1	of these identify paul george and greg smith	table_csv/204_105.csv	['(7, 1)', '(8, 1)']	['Greg Smith', 'Paul George']
+nt-13588	2	2	what are their corresponding heights?	table_csv/204_105.csv	['(7, 2)', '(8, 2)']	"[""6'10,250"", ""6'8,210""]"
+nt-13588	2	3	to who does the larger height correspond to?	table_csv/204_105.csv	['(7, 1)']	['Greg Smith']

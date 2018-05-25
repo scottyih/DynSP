@@ -1,0 +1,121 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.week	Week #	week|#	week|#	NN|#	DURATION|O	P1W|				
+-1	1	fb:row.row.theme	Theme	theme	theme	NN	O					
+-1	2	fb:row.row.song_choice	Song Choice	song|choice	song|choice	NN|NN	O|O	|				
+-1	3	fb:row.row.original_artist	Original Artist	original|artist	original|artist	JJ|NN	O|O	|				
+-1	4	fb:row.row.order	Order #	order|#	order|#	NN|#	O|O	|				
+-1	5	fb:row.row.result	Result	result	result	NN	O					
+0	0	fb:cell.audition	Audition	audition	audition	NN	O					
+0	1	fb:cell.auditioner_s_choice	Auditioner's Choice	auditioner|'s|choice	Auditioner|'s|choice	NNP|POS|NN	O|O|O	||				Auditioner's Choice
+0	2	fb:cell._tempos_modernos	"Tempos Modernos"	``|tempos|modernos|''	``|Tempos|Modernos|''	``|NNP|NNP|''	O|O|O|O	|||				"Tempos Modernos"
+0	3	fb:cell.lulu_santos	Lulu Santos	lulu|santos	Lulu|Santos	NNP|NNP	PERSON|PERSON	|				
+0	4	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+0	5	fb:cell.advanced	Advanced	advanced	Advanced	NNP	O					
+1	0	fb:cell.theater	Theater	theater	theater	NN	O					
+1	1	fb:cell.first_solo	First Solo	first|solo	first|solo	JJ|NN	ORDINAL|O	1.0|				First Solo
+1	2	fb:cell._a_sombra_da_maldade	"A Sombra Da Maldade"	``|a|sombra|da|maldade|''	``|a|Sombra|Da|Maldade|''	``|DT|NNP|NNP|NNP|''	O|O|O|O|O|O	|||||				"A Sombra Da Maldade"
+1	3	fb:cell.cidade_negra	Cidade Negra	cidade|negra	Cidade|Negra	NNP|NNP	PERSON|PERSON	|				
+1	4	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+1	5	fb:cell.advanced	Advanced	advanced	Advanced	NNP	O					
+2	0	fb:cell.top_30	Top 30	top|30	top|30	JJ|CD	O|NUMBER	|30.0	30.0			
+2	1	fb:cell.semi_final_group_3	Semi-Final/Group 3	semi|final/group|3	Semi|Final/Group|3	NNP|NNP|CD	O|O|NUMBER	||3.0	3.0			Semi-Final|Group 3
+2	2	fb:cell._noite_do_prazer	"Noite Do Prazer"	``|noite|do|prazer|''	``|Noite|Do|Prazer|''	``|NNP|VBD-AUX|NNP|''	O|O|O|O|O	||||				"Noite Do Prazer"
+2	3	fb:cell.claudio_zoli	Cláudio Zoli	cláudio|zoli	Cláudio|Zoli	NNP|NNP	PERSON|PERSON	|				
+2	4	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			10
+2	5	fb:cell.advanced	Advanced	advanced	Advanced	NNP	O					
+3	0	fb:cell.top_10	Top 10	top|10	top|10	JJ|CD	O|NUMBER	|10.0	10.0			
+3	1	fb:cell.my_idol	My Idol	my|idol	my|idol	PRP$|NN	O|O	|				My Idol
+3	2	fb:cell._paraiso	"Paraíso"	``|paraíso|''	``|Paraíso|''	``|NNP|''	O|O|O	||				"Paraíso"
+3	3	fb:cell.claudio_zoli	Cláudio Zoli	cláudio|zoli	Cláudio|Zoli	NNP|NNP	PERSON|PERSON	|				
+3	4	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			6
+3	5	fb:cell.safe	Safe	safe	safe	JJ	O					
+4	0	fb:cell.top_9	Top 9	top|9	top|9	JJ|CD	O|NUMBER	|9.0	9.0			
+4	1	fb:cell.male_singers	Male Singers	male|singers	male|singer	JJ|NNS	O|O	|				Male Singers
+4	2	fb:cell._ultimo_romantico	"Último Romântico"	''|último|romântico|''	''|Último|Romântico|''	''|NNP|NNP|''	O|O|O|O	|||				"Último Romântico"
+4	3	fb:cell.lulu_santos	Lulu Santos	lulu|santos	Lulu|Santos	NNP|NNP	PERSON|PERSON	|				
+4	4	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			8
+4	5	fb:cell.safe	Safe	safe	safe	JJ	O					
+5	0	fb:cell.top_8	Top 8	top|8	top|8	JJ|CD	O|NUMBER	|8.0	8.0			
+5	1	fb:cell.female_singers	Female Singers	female|singers	female|singer	JJ|NNS	O|O	|				Female Singers
+5	2	fb:cell._lanterna_dos_afogados	"Lanterna dos Afogados"	``|lanterna|dos|afogados|''	``|Lanterna|dos|Afogados|''	``|NNP|NNP|NNP|''	O|O|O|O|O	||||				"Lanterna dos Afogados"
+5	3	fb:cell.cassia_eller	Cássia Eller	cássia|eller	Cássia|Eller	NNP|NNP	PERSON|PERSON	|				
+5	4	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			1
+5	5	fb:cell.safe	Safe	safe	safe	JJ	O					
+6	0	fb:cell.top_7	Top 7	top|7	top|7	JJ|CD	O|NUMBER	|7.0	7.0			
+6	1	fb:cell.birth_year_songs	Birth Year Songs	birth|year|songs	birth|year|song	NN|NN|NNS	O|DURATION|O	|P1Y|				Birth Year Songs
+6	2	fb:cell._frisson	"Frisson"	``|frisson|''	``|Frisson|''	``|NNP|''	O|O|O	||				"Frisson"
+6	3	fb:cell.tunai	Tunai	tunai	tunaus	NN	PERSON					
+6	4	fb:cell.4	4	4	4	CD	NUMBER	4.0	4.0			4
+6	5	fb:cell.safe	Safe	safe	safe	JJ	O					
+7	0	fb:cell.top_6	Top 6	top|6	top|6	JJ|CD	O|NUMBER	|6.0	6.0			
+7	1	fb:cell.jovem_pan_hits	Jovem Pan Hits	jovem|pan|hits	Jovem|Pan|hit	NNP|NNP|VBZ	O|O|O	||				Jovem Pan Hits
+7	2	fb:cell._do_seu_lado	"Do Seu Lado"	``|do|seu|lado|''	``|do|Seu|Lado|''	``|VBD-AUX|NNP|NNP|''	O|O|O|O|O	||||				"Do Seu Lado"
+7	3	fb:cell.jota_quest	Jota Quest	jota|quest	Jota|Quest	NNP|NNP	PERSON|PERSON	|				
+7	4	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			6
+7	5	fb:cell.safe	Safe	safe	safe	JJ	O					
+8	0	fb:cell.top_5	Top 5	top|5	top|5	JJ|CD	O|NUMBER	|5.0	5.0			
+8	1	fb:cell.jovem_guarda	Jovem Guarda	jovem|guarda	Jovem|Guarda	NNP|NNP	PERSON|PERSON	|				Jovem Guarda
+8	2	fb:cell._o_bom	"O Bom"	``|o|bom|''	``|o|bom|''	``|NN|NN|''	O|O|O|O	|||				"O Bom"
+8	3	fb:cell.eduardo_araujo	Eduardo Araújo	eduardo|araújo	Eduardo|Araújo	NNP|NNP	PERSON|PERSON	|				
+8	4	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			3
+8	5	fb:cell.safe	Safe	safe	safe	JJ	O					
+9	0	fb:cell.top_5	Top 5	top|5	top|5	JJ|CD	O|NUMBER	|5.0	5.0			
+9	1	fb:cell.jovem_guarda	Jovem Guarda	jovem|guarda	Jovem|Guarda	NNP|NNP	PERSON|PERSON	|				Jovem Guarda
+9	2	fb:cell._vem_me_ajudar	"Vem Me Ajudar"	``|vem|me|ajudar|''	``|Vem|Me|Ajudar|''	``|NNP|NNP|NNP|''	O|O|O|O|O	||||				"Vem Me Ajudar"
+9	3	fb:cell.the_fevers	The Fevers	the|fevers	the|fever	DT|NNS	O|O	|				
+9	4	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			8
+9	5	fb:cell.safe	Safe	safe	safe	JJ	O					
+10	0	fb:cell.top_4	Top 4	top|4	top|4	JJ|CD	O|NUMBER	|4.0	4.0			
+10	1	fb:cell.brazil_regional	Brazil Regional	brazil|regional	Brazil|Regional	NNP|NNP	LOCATION|O	|				Brazil Regional
+10	2	fb:cell._eva	"Eva"	``|eva|''	``|Eva|''	``|NNP|''	O|O|O	||				"Eva"
+10	3	fb:cell.radio_taxi	Radio Taxi	radio|taxi	radio|taxi	NN|NN	O|O	|				
+10	4	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			3
+10	5	fb:cell.safe	Safe	safe	safe	JJ	O					
+11	0	fb:cell.top_4	Top 4	top|4	top|4	JJ|CD	O|NUMBER	|4.0	4.0			
+11	1	fb:cell.brazil_regional	Brazil Regional	brazil|regional	Brazil|Regional	NNP|NNP	LOCATION|O	|				Brazil Regional
+11	2	fb:cell._admiravel_gado_novo	"Admirável Gado Novo"	``|admirável|gado|novo|''	``|Admirável|gado|novo|''	``|NNP|FW|FW|''	O|O|O|ORGANIZATION|O	||||				"Admirável Gado Novo"
+11	3	fb:cell.ze_ramalho	Zé Ramalho	zé|ramalho	Zé|Ramalho	NNP|NNP	PERSON|PERSON	|				
+11	4	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			7
+11	5	fb:cell.safe	Safe	safe	safe	JJ	O					
+12	0	fb:cell.top_3	Top 3	top|3	top|3	JJ|CD	O|NUMBER	|3.0	3.0			
+12	1	fb:cell.contestant_s_choice	Contestant's Choice	contestant|'s|choice	contestant|'s|choice	NN|POS|NN	O|O|O	||				Contestant's Choice
+12	2	fb:cell._as_sete_vampiras	"As Sete Vampiras"	``|as|sete|vampiras|''	``|as|Sete|Vampiras|''	``|IN|NNP|NNPS|''	O|O|O|O|O	||||				"As Sete Vampiras"
+12	3	fb:cell.leo_jaime	Léo Jaime	léo|jaime	Léo|Jaime	NNP|NNP	PERSON|PERSON	|				
+12	4	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			2
+12	5	fb:cell.safe	Safe	safe	safe	JJ	O					
+13	0	fb:cell.top_3	Top 3	top|3	top|3	JJ|CD	O|NUMBER	|3.0	3.0			
+13	1	fb:cell.contestant_s_choice	Contestant's Choice	contestant|'s|choice	contestant|'s|choice	NN|POS|NN	O|O|O	||				Contestant's Choice
+13	2	fb:cell._eu_me_rendo	"Eu Me Rendo"	``|eu|me|rendo|''	``|Eu|Me|Rendo|''	``|NNP|NNP|NNP|''	O|ORGANIZATION|O|O|O	||||				"Eu Me Rendo"
+13	3	fb:cell.fabio_junior	Fábio Júnior	fábio|júnior	Fábio|Júnior	NNP|NNP	PERSON|PERSON	|				
+13	4	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			5
+13	5	fb:cell.safe	Safe	safe	safe	JJ	O					
+14	0	fb:cell.top_2	Top 2	top|2	top|2	JJ|CD	O|NUMBER	|2.0	2.0			
+14	1	fb:cell.winner_s_single	Winner's Single	winner|'s|single	winner|'s|single	NN|POS|JJ	O|O|O	||				Winner's Single
+14	2	fb:cell._deixo_a_voz_me_levar	"Deixo A Voz Me Levar"	``|deixo|a|voz|me|levar|''	``|deixo|a|voz|I|Levar|''	``|FW|DT|NN|PRP|NNP|''	O|O|O|O|O|O|O	||||||				"Deixo A Voz Me Levar"
+14	3	fb:cell.leandro_lopes	Leandro Lopes	leandro|lopes	Leandro|Lopes	NNP|NNP	PERSON|PERSON	|				
+14	4	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			2
+14	5	fb:cell.winner	Winner	winner	winner	NN	O					
+15	0	fb:cell.top_2	Top 2	top|2	top|2	JJ|CD	O|NUMBER	|2.0	2.0			
+15	1	fb:cell.challenging_songs	Challenging Songs	challenging|songs	challenging|song	JJ|NNS	O|O	|				Challenging Songs
+15	2	fb:cell._queixa	"Queixa"	``|queixa|''	``|queixa|''	``|FW|''	O|O|O	||				"Queixa"
+15	3	fb:cell.caetano_veloso	Caetano Veloso	caetano|veloso	Caetano|Veloso	NNP|NNP	PERSON|PERSON	|				
+15	4	fb:cell.4	4	4	4	CD	NUMBER	4.0	4.0			4
+15	5	fb:cell.winner	Winner	winner	winner	NN	O					
+16	0	fb:cell.top_2	Top 2	top|2	top|2	JJ|CD	O|NUMBER	|2.0	2.0			
+16	1	fb:cell.judge_s_choice	Judge's Choice	judge|'s|choice	Judge|'s|choice	NNP|POS|NN	O|O|O	||				Judge's Choice
+16	2	fb:cell._quero_te_encontrar	"Quero Te Encontrar"	``|quero|te|encontrar|''	``|Quero|Te|Encontrar|''	``|NNP|NNP|NNP|''	O|O|O|O|O	||||				"Quero Te Encontrar"
+16	3	fb:cell.kid_abelha	Kid Abelha	kid|abelha	Kid|Abelha	NNP|NNP	O|PERSON	|				
+16	4	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			6
+16	5	fb:cell.winner	Winner	winner	winner	NN	O					
+17	0	fb:cell.top_2	Top 2	top|2	top|2	JJ|CD	O|NUMBER	|2.0	2.0			
+17	1	fb:cell.best_of_the_season	Best of the Season	best|of|the|season	best|of|the|season	JJS|IN|DT|NN	O|O|O|O	|||				Best of the Season
+17	2	fb:cell._paraiso	"Paraíso"	``|paraíso|''	``|Paraíso|''	``|NNP|''	O|O|O	||				"Paraíso"
+17	3	fb:cell.claudio_zoli	Cláudio Zoli	cláudio|zoli	Cláudio|Zoli	NNP|NNP	PERSON|PERSON	|				
+17	4	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			8
+17	5	fb:cell.winner	Winner	winner	winner	NN	O					
+18	0	fb:cell.top_2	Top 2	top|2	top|2	JJ|CD	O|NUMBER	|2.0	2.0			
+18	1	fb:cell.celebrity_duet	Celebrity Duet	celebrity|duet	Celebrity|duet	NNP|NN	O|O	|				Celebrity Duet
+18	2	fb:cell._admiravel_gado_novo_with_ze_ramalho	"Admirável Gado Novo"\nwith Zé Ramalho	``|admirável|gado|novo|''|with|zé|ramalho	``|Admirável|gado|novo|''|with|zé|ramalho	``|NNP|FW|FW|''|IN|NN|NN	O|O|O|ORGANIZATION|O|O|PERSON|PERSON	|||||||				"Admirável Gado Novo"|with Zé Ramalho
+18	3	fb:cell.ze_ramalho	Zé Ramalho	zé|ramalho	Zé|Ramalho	NNP|NNP	PERSON|PERSON	|				
+18	4	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			10
+18	5	fb:cell.winner	Winner	winner	winner	NN	O					

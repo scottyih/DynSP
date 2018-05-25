@@ -1,0 +1,154 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.season	Season	season	season	NN	O					
+-1	1	fb:row.row.a_technical	A\nTechnical	a|technical	a|technical	DT|JJ	O|O	|				
+-1	2	fb:row.row.b_scientific	B\nScientific	b|scientific	b|scientific	NN|JJ	O|O	|				
+-1	3	fb:row.row.c_fine_arts	C\nFine Arts	c|fine|arts	c|fine|art	NN|JJ|NNS	O|O|O	||				
+-1	4	fb:row.row.d_improvisational	D\nImprovisational	d|improvisational	D|improvisational	NNP|JJ	O|O	|				
+-1	5	fb:row.row.e_structural	E\nStructural	e|structural	E|Structural	NNP|NNP	O|O	|				
+-1	6	fb:row.row.rising_stars	Rising Stars!®	rising|stars|!|®	rise|star|!|®	VBG|NNS|.|SYM	O|O|O|O	|||				
+-1	7	fb:row.row.po_projectoutreach	pO\nprojectOUTREACH®	po|projectoutreach|®	pO|projectOUTREACH|®	NNP|NNP|NNP	O|O|O	||				
+-1	8	fb:row.row.university_level	University Level	university|level	University|level	NNP|NN	O|O	|				
+0	0	fb:cell.2014_2015	2014-2015	2014-2015	2014-2015	CD	DURATION	PT8760H	2014.0		2015.0	
+0	1	fb:cell.creature_feature	Creature Feature	creature|feature	creature|feature	NN|NN	O|O	|				Creature Feature
+0	2	fb:cell.making_waves	Making Waves	making|waves	make|wave	VBG|NNS	O|O	|				
+0	3	fb:cell.feary_tales	Feary Tales	feary|tales	feary|tale	JJ|NNS	O|O	|				
+0	4	fb:cell.the_improv_games	The Improv Games	the|improv|games	the|Improv|Games	DT|NNP|NNPS	O|O|O	||				
+0	5	fb:cell.lose_to_win	Lose to Win	lose|to|win	lose|to|win	VB|TO|VB	O|O|O	||				
+0	6	fb:cell.animal_mish_mash	Animal Mish Mash	animal|mish|mash	animal|mish|mash	NN|NN|NN	O|O|O	||				Animal Mish Mash
+0	7	fb:cell.brand_aid	Brand Aid	brand|aid	brand|aid	NN|NN	O|O	|				
+0	8	fb:cell.it_s_a_stretch	It's a Stretch	it|'s|a|stretch	it|be|a|stretch	PRP|VBZ|DT|NN	O|O|O|O	|||				
+1	0	fb:cell.2013_2014	2013-2014	2013-2014	2013-2014	CD	DURATION	PT8760H	2013.0		2014.0	
+1	1	fb:cell.dig_in	Dig In	dig|in	Dig|in	NNP|IN	O|O	|				Dig In
+1	2	fb:cell.going_to_extremes	Going to Extremes	going|to|extremes	go|to|extreme	VBG|TO|NNS	O|O|O	||				
+1	3	fb:cell.laugh_art_loud	Laugh Art Loud	laugh|art|loud	Laugh|Art|loud	NNP|NNP|JJ	O|O|O	||				
+1	4	fb:cell.pandemonium	Pandemonium!	pandemonium|!	pandemonium|!	NN|.	O|O	|				
+1	5	fb:cell.the_tension_builds	The Tension Builds	the|tension|builds	the|tension|build	DT|NN|VBZ	O|O|O	||				
+1	6	fb:cell.circus	Circus!	circus|!	circus|!	NN|.	O|O	|				Circus!
+1	7	fb:cell.pitch_and_play	Pitch and Play	pitch|and|play	pitch|and|play	NN|CC|NN	O|O|O	||				
+1	8	fb:cell.null										
+2	0	fb:cell.2012_2013	2012-2013	2012-2013	2012-2013	CD	DURATION	PT8784H	2012.0		2013.0	
+2	1	fb:cell.in_the_zone	In the Zone	in|the|zone	in|the|zone	IN|DT|NN	O|O|O	||				In the Zone
+2	2	fb:cell.windvisible	Windvisible	windvisible	windvisible	NN	O					
+2	3	fb:cell.in_disguise	In Disguise	in|disguise	in|disguise	IN|VB	O|O	|				
+2	4	fb:cell.change_in_realitee	Change in RealiTEE	change|in|realitee	change|in|realitee	NN|IN|NN	O|O|O	||				
+2	5	fb:cell.twist_o_rama	twist-o-rama	twist|o|rama	twist|o|rama	NN|NN|NNP	O|PERSON|PERSON	||				
+2	6	fb:cell.roy_g_biv	ROY G BIV	roy|g|biv	ROY|G|BIV	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				ROY G BIV
+2	7	fb:cell.real_to_reel	Real to Reel	real|to|reel	real|to|reel	JJ|TO|NN	O|O|O	||				
+2	8	fb:cell.null										
+3	0	fb:cell.2011_2012	2011-2012	2011-2012	2011-2012	CD	DURATION	PT8760H	2011.0		2012.0	
+3	1	fb:cell.assembly_required	Assembly Required	assembly|required	assembly|require	NN|VBD	O|O	|				Assembly Required
+3	2	fb:cell.the_solar_stage	The Solar Stage	the|solar|stage	the|solar|stage	DT|JJ|NN	O|O|O	||				
+3	3	fb:cell.coming_attractions	Coming Attractions	coming|attractions	come|attraction	VBG|NNS	O|O	|				
+3	4	fb:cell.news_to_me	News To Me	news|to|me	news|to|I	NN|TO|PRP	O|O|O	||				
+3	5	fb:cell.hold_it	Hold It!	hold|it|!	hold|it|!	VB|PRP|.	O|O|O	||				
+3	6	fb:cell.built_to_last	Built to Last	built|to|last	build|to|last	VBN|TO|VB	O|O|O	||				Built to Last
+3	7	fb:cell.the_world_canvas	The World Canvas	the|world|canvas	the|world|canvas	DT|NN|NN	O|O|O	||				
+3	8	fb:cell.null										
+4	0	fb:cell.2010_2011	2010-2011	2010-2011	2010-2011	CD	DURATION	PT8760H	2010.0		2011.0	
+4	1	fb:cell.unidentified_moving_object	Unidentified Moving Object	unidentified|moving|object	unidentified|move|object	JJ|VBG|NN	O|O|O	||				Unidentified Moving Object
+4	2	fb:cell.spinning_a_tale	Spinning a Tale	spinning|a|tale	spin|a|tale	VBG|DT|NN	O|O|O	||				
+4	3	fb:cell.triple_take_road_show	Triple Take Road Show	triple|take|road|show	triple|take|road|show	RB|VB|NN|NN	O|O|O|O	|||				
+4	4	fb:cell.mythology_mission	Mythology Mission	mythology|mission	mythology|mission	NN|NN	O|O	|				
+4	5	fb:cell.verses_foiled_again	Verses! Foiled Again!	verses|!|foiled|again|!	verse|!|foil|again|!	NNS|.|VBN|RB|.	O|O|O|O|O	||||				
+4	6	fb:cell.big_bug_s_bad_day	Big Bug's Bad Day	big|bug|'s|bad|day	big|bug|'s|bad|day	JJ|NN|POS|JJ|NN	O|O|O|O|DURATION	||||P1D				Big Bug's Bad Day
+4	7	fb:cell.dynamic_networks	Dynamic Networks	dynamic|networks	dynamic|network	JJ|NNS	O|O	|				
+4	8	fb:cell.null										
+5	0	fb:cell.2009_2010	2009-2010	2009-2010	2009-2010	CD	DURATION	PT8760H	2009.0		2010.0	
+5	1	fb:cell.direct_diposit	DIrect DIposit	direct|diposit	direct|diposit	JJ|NN	O|O	|				DIrect DIposit
+5	2	fb:cell.di_bot	DI-Bot	di|bot	DI|Bot	NNP|NNP	PERSON|PERSON	|				
+5	3	fb:cell.you_re_gonna_flip	You’re Gonna Flip!	you|'re|gon|na|flip|!	you|be|gon|na|flip|!	PRP|VBP|VBG|TO|VB|.	O|O|O|O|O|O	|||||				
+5	4	fb:cell.do_or_di	Do or DI	do|or|di	do|or|DI	VBD-AUX|CC|NNP	O|O|O	||				
+5	5	fb:cell.breaking_di_news	Breaking DI News	breaking|di|news	break|DI|News	VBG|NNP|NNP	O|MISC|MISC	||				
+5	6	fb:cell.weighty_news	Weighty News	weighty|news	weighty|news	JJ|NN	O|O	|				Weighty News
+5	7	fb:cell.band_together	Band Together	band|together	band|together	NN|RB	O|O	|				
+5	8	fb:cell.null										
+6	0	fb:cell.2008_2009	2008-2009	2008-2009	2008-2009	CD	DURATION	PT8784H	2008.0		2009.0	
+6	1	fb:cell.operation_cooperation	Operation Cooperation	operation|cooperation	operation|cooperation	NN|NN	O|O	|				Operation Cooperation
+6	2	fb:cell.instinct_messaging	Instinct Messaging	instinct|messaging	instinct|messaging	NN|NN	O|O	|				
+6	3	fb:cell.vidio_lit_hits	ViDIo Lit Hits	vidio|lit|hits	ViDIo|Lit|hit	NNP|NNP|VBZ	PERSON|O|O	||				
+6	4	fb:cell.private_di	Private DI	private|di	private|DI	JJ|NNP	O|O	|				
+6	5	fb:cell.a_new_angle	A New Angle!	a|new|angle|!	a|new|angle|!	DT|JJ|NN|.	O|O|O|O	|||				
+6	6	fb:cell.hidden	Hidden!	hidden|!	hide|!	VBN|.	O|O	|				Hidden!
+6	7	fb:cell.take_charge	Take Charge	take|charge	take|charge	VB|NN	O|O	|				
+6	8	fb:cell.null										
+7	0	fb:cell.2007_2008	2007-2008	2007-2008	2007-2008	CD	DURATION	PT8760H	2007.0		2008.0	
+7	1	fb:cell.obstacles_of_course	Obstacles, Of Course!	obstacles|,|of|course|!	obstacle|,|of|course|!	NNS|,|IN|NN|.	O|O|O|O|O	||||				Obstacles|Of Course!
+7	2	fb:cell.hit_or_myth	Hit or Myth	hit|or|myth	hit|or|myth	NN|CC|NN	O|O|O	||				
+7	3	fb:cell.di_ve_got_a_secret	DI've Got a Secret!	di|'ve|got|a|secret|!	DI|have|get|a|secret|!	NNP|VBP|VBD|DT|JJ|.	O|O|O|O|O|O	|||||				
+7	4	fb:cell.chorific	Chorific!	chorific|!	chorific|!	JJ|.	O|O	|				
+7	5	fb:cell.switch	SWITCH!	switch|!	switch|!	NN|.	O|O	|				
+7	6	fb:cell.twisdid_history	TwisDId History	twisdid|history	twisdid|history	NN|NN	O|O	|				TwisDId History
+7	7	fb:cell.null										
+7	8	fb:cell.null										
+8	0	fb:cell.2006_2007	2006-2007	2006-2007	2006-2007	CD	DURATION	PT8760H	2006.0		2007.0	
+8	1	fb:cell.direct_flight	DIrect Flight	direct|flight	direct|flight	JJ|NN	O|O	|				DIrect Flight
+8	2	fb:cell.csi_di	CSI-DI	csi|di	CSI|DI	NNP|NNP	PERSON|PERSON	|				
+8	3	fb:cell.round_about_courage	Round About Courage	round|about|courage	round|about|courage	NN|IN|NN	O|O|O	||				
+8	4	fb:cell.switching_traditions	Switching TraDItions	switching|traditions	switching|tradition	NN|NNS	O|O	|				
+8	5	fb:cell.card_di_ology	Card-DI-ology	card|di|ology	card|DI|ology	NN|NNP|NNP	O|O|O	||				
+8	6	fb:cell.make_it_new_it_s_up_to_you	Make It New, It's Up To You	make|it|new|,|it|'s|up|to|you	make|it|new|,|it|be|up|to|you	VB|PRP|JJ|,|PRP|VBZ|RB|TO|PRP	O|O|O|O|O|O|O|O|O	||||||||				Make It New|It's Up To You
+8	7	fb:cell.null										
+8	8	fb:cell.null										
+9	0	fb:cell.2005_2006	2005-2006	2005-2006	2005-2006	CD	DURATION	PT8760H	2005.0		2006.0	
+9	1	fb:cell.back_at_you	Back At You!	back|at|you|!	back|at|you|!	RB|IN|PRP|.	O|O|O|O	|||				Back At You!
+9	2	fb:cell.kidz_rulz	Kidz Rulz!	kidz|rulz|!	kidz|rulz|!	NN|NN|.	PERSON|PERSON|O	||				
+9	3	fb:cell.how_d_that_happen	How’d tHAT Happen?	how|'d|that|happen|?	how|would|that|happen|?	WRB|MD|WDT|VB|.	O|O|O|O|O	||||				
+9	4	fb:cell.on_safari	On Safari	on|safari	on|safari	IN|JJ	O|O	|				
+9	5	fb:cell.the_inside_dimension	The Inside DImension	the|inside|dimension	the|inside|dimension	DT|JJ|NN	O|O|O	||				
+9	6	fb:cell.1_2_change_a_roo	1-2-Change-A-ROO	1-2|change|a|roo	1-2|change|a|roo	CD|NN|DT|NN	NUMBER|O|O|O	1.0 - 2.0|||	1.0		2.0	1-2-Change-A-ROO
+9	7	fb:cell.null										
+9	8	fb:cell.null										
+10	0	fb:cell.2004_2005	2004-2005	2004-2005	2004-2005	CD	DURATION	PT8784H	2004.0		2005.0	
+10	1	fb:cell.dizzy_derby	DIzzy Derby	dizzy|derby	dizzy|derby	JJ|NN	O|O	|				DIzzy Derby
+10	2	fb:cell.sudden_serendipity	Sudden SerenDIpity	sudden|serendipity	sudden|serendipity	JJ|NN	O|O	|				
+10	3	fb:cell.live_it_s_radio_di	Live! It's RaDIo DI!	live|!|it|'s|radio|di|!	live|!|it|be|radio|DI|!	VB|.|PRP|VBZ|NN|NNP|.	O|O|O|O|O|O|O	||||||				
+10	4	fb:cell.improving_along	IMPROVing Along	improving|along	improve|along	VBG|IN	O|O	|				
+10	5	fb:cell.disigning_bridges	DIsigning Bridges	disigning|bridges	disign|bridge	VBG|NNS	O|O	|				
+10	6	fb:cell.more_to_the_story	More to the Story!	more|to|the|story|!	more|to|the|story|!	JJR|TO|DT|NN|.	O|O|O|O|O	||||				More to the Story!
+10	7	fb:cell.null										
+10	8	fb:cell.null										
+11	0	fb:cell.2003_2004	2003-2004	2003-2004	2003-2004	CD	DURATION	PT8760H	2003.0		2004.0	
+11	1	fb:cell.destinations_in_time	Destinations in Time	destinations|in|time	destination|in|time	NNS|IN|NN	O|O|O	||				Destinations in Time
+11	2	fb:cell.the_plot_and_the_pendulum	The Plot and the Pendulum	the|plot|and|the|pendulum	the|plot|and|the|pendulum	DT|NN|CC|DT|NN	O|O|O|O|O	||||				
+11	3	fb:cell.cartoon_dimensions	Cartoon DImensions	cartoon|dimensions	cartoon|dimension	NN|NNS	O|O	|				
+11	4	fb:cell.upbeat_improv	Upbeat Improv	upbeat|improv	upbeat|Improv	JJ|NNP	O|O	|				
+11	5	fb:cell.guessdimate	GuessDImate!	guessdimate|!	guessdimate|!	NN|.	O|O	|				
+11	6	fb:cell.surprise_trip	Surprise Trip!	surprise|trip|!	surprise|trip|!	NN|NN|.	O|O|O	||				Surprise Trip!
+11	7	fb:cell.null										
+11	8	fb:cell.null										
+12	0	fb:cell.2002_2003	2002-2003	2002-2003	2002-2003	CD	DURATION	PT8760H	2002.0		2003.0	
+12	1	fb:cell.change_in_direction	Change in DIrection	change|in|direction	change|in|direction	NN|IN|NN	O|O|O	||				Change in DIrection
+12	2	fb:cell.vidio_adventure	ViDIo Adventure	vidio|adventure	ViDIo|adventure	NNP|NN	O|O	|				
+12	3	fb:cell.theatre_smarts	Theatre Smarts	theatre|smarts	theatre|smart	NN|NNS	O|O	|				
+12	4	fb:cell.once_improv_a_time	Once Improv A Time	once|improv|a|time	once|Improv|a|time	RB|NNP|DT|NN	DATE|O|O|O	PAST_REF|||				
+12	5	fb:cell.connecdid	ConnecDId	connecdid	connecdid	NN	O					
+12	6	fb:cell.lost_and_found	Lost and Found	lost|and|found	lose|and|find	VBN|CC|VBN	O|O|O	||				Lost and Found
+12	7	fb:cell.null										
+12	8	fb:cell.null										
+13	0	fb:cell.2001_2002	2001-2002	2001-2002	2001-2002	CD	DURATION	PT8760H	2001.0		2002.0	
+13	1	fb:cell.it_s_your_move	It's Your Move	it|'s|your|move	it|be|you|move	PRP|VBZ|PRP$|NN	O|O|O|O	|||				It's Your Move
+13	2	fb:cell.strandid	StranDId	strandid	strandid	NN	O					
+13	3	fb:cell.on_holiday	On Holiday	on|holiday	on|holiday	IN|NN	O|O	|				
+13	4	fb:cell.the_art_of_improv	The Art of Improv	the|art|of|improv	the|art|of|Improv	DT|NN|IN|NNP	O|O|O|O	|||				
+13	5	fb:cell.dual_di_lemma	Dual DI-lemma	dual|di|lemma	dual|DI|lemma	JJ|NNP|NNP	PERSON|PERSON|PERSON	||				
+13	6	fb:cell.null										
+13	7	fb:cell.null										
+13	8	fb:cell.null										
+14	0	fb:cell.2000_2001	2000-2001	2000-2001	2000-2001	CD	DURATION	PT8784H	2000.0		2001.0	
+14	1	fb:cell.incredible_techeffects	IncreDIble TechEffects	incredible|techeffects	incredible|techeffect	JJ|NNS	O|O	|				IncreDIble TechEffects
+14	2	fb:cell.mystery_loves_company	Mystery Loves Company	mystery|loves|company	mystery|love|company	NN|VBZ|NN	O|O|O	||				
+14	3	fb:cell.anonymously_yours	Anonymously Yours	anonymously|yours	anonymously|yours	RB|PRP$	O|O	|				
+14	4	fb:cell.dinamic_improv	DInamic Improv	dinamic|improv	dinamic|improv	JJ|NN	O|O	|				
+14	5	fb:cell.triplicity	Triplicity	triplicity	triplicity	NN	O					
+14	6	fb:cell.null										
+14	7	fb:cell.null										
+14	8	fb:cell.null										
+15	0	fb:cell.1999_2000	1999-2000	1999-2000	1999-2000	CD	DURATION	PT8760H	1999.0		2000.0	
+15	1	fb:cell.fruit_roller_coaster_eggploration	Fruit Roller Coaster & Eggploration	fruit|roller|coaster|&|eggploration	fruit|roller|coaster|&|eggploration	NN|NN|NN|CC|NN	O|O|O|O|O	||||				Fruit Roller Coaster & Eggploration
+15	2	fb:cell.if_music_be_the_food_of_life_play_on	If Music Be the Food of Life... Play on!	if|music|be|the|food|of|life|...|play|on|!	if|music|be|the|food|of|life|...|play|on|!	IN|NN|VBD-AUX|DT|NN|IN|NN|:|VB|IN|.	O|O|O|O|O|O|O|O|O|O|O	||||||||||				
+15	3	fb:cell.mixing_apples_and_oranges	Mixing Apples and Oranges	mixing|apples|and|oranges	mix|apple|and|orange	VBG|NNS|CC|NNS	O|O|O|O	|||				
+15	4	fb:cell.instant_pudding_improv	Instant Pudding Improv	instant|pudding|improv	instant|pudding|improv	JJ|NN|NN	O|O|O	||				
+15	5	fb:cell.it_s_not_impastable	It's Not Impastable!	it|'s|not|impastable|!	it|be|not|impastable|!	PRP|VBZ|RB|JJ|.	O|O|O|O|O	||||				
+15	6	fb:cell.null										
+15	7	fb:cell.null										
+15	8	fb:cell.null										

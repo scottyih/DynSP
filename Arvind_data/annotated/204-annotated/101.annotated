@@ -1,0 +1,67 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.null	#	#	#	#	O					
+-1	1	fb:row.row.title	Title	title	title	NN	O					
+-1	2	fb:row.row.producer_s	Producer(s)	producer|-lrb-|s|-rrb-	producer|-lrb-|s|-rrb-	NN|-LRB-|NNS|-RRB-	O|O|O|O	|||				
+-1	3	fb:row.row.performer_s	Performer (s)	performer|-lrb-|s|-rrb-	performer|-lrb-|s|-rrb-	NN|-LRB-|NNS|-RRB-	O|O|O|O	|||				
+-1	4	fb:row.row.sample_s	Sample(s)	sample|-lrb-|s|-rrb-	sample|-lrb-|s|-rrb-	NN|-LRB-|NNS|-RRB-	O|O|O|O	|||				
+-1	5	fb:row.row.length	Length	length	length	NN	O					
+0	0	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+0	1	fb:cell._likwit	"Likwit"	``|likwit|''	``|Likwit|''	``|NNP|''	O|O|O	||				
+0	2	fb:cell.e_swift_tha_alkaholiks	E-Swift, Tha Alkaholiks	e|swift|,|tha|alkaholiks	e|swift|,|tha|alkaholik	NN|NN|,|NN|NNS	O|O|O|PERSON|PERSON	||||				E-Swift|Tha Alkaholiks
+0	3	fb:cell.tash_j_ro_king_tee	Tash, J-Ro, King Tee	tash|,|j|ro|,|king|tee	Tash|,|J|ro|,|King|tee	NNP|,|NNP|NN|,|NNP|NN	PERSON|O|PERSON|PERSON|O|O|O	||||||				Tash|J-Ro|King Tee
+0	4	fb:cell._ode_to_billy_joe_by_lou_donaldson	*"Ode To Billy Joe" by Lou Donaldson	*|``|ode|to|billy|joe|''|by|lou|donaldson	*|``|ode|to|Billy|Joe|''|by|Lou|Donaldson	SYM|``|NN|TO|NNP|NNP|''|IN|NNP|NNP	O|O|O|O|PERSON|PERSON|O|O|PERSON|PERSON	|||||||||				*"Ode To Billy Joe" by Lou Donaldson
+0	5	fb:cell.2_34	2:34	2:34	2:34	CD	TIME	T02:34	2.0		34.0	
+1	0	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+1	1	fb:cell._only_when_i_m_drunk	"Only When I'm Drunk"	``|only|when|i|'m|drunk|''	``|only|when|I|be|drunk|''	``|RB|WRB|PRP|VBP|JJ|''	O|O|O|O|O|O|O	||||||				
+1	2	fb:cell.e_swift_tha_alkaholiks	E-Swift, Tha Alkaholiks	e|swift|,|tha|alkaholiks	e|swift|,|tha|alkaholik	NN|NN|,|NN|NNS	O|O|O|PERSON|PERSON	||||				E-Swift|Tha Alkaholiks
+1	3	fb:cell.j_ro_tash_e_swift	J-Ro, Tash, E-Swift	j|ro|,|tash|,|e|swift	J|ro|,|tash|,|e|swift	NNP|NN|,|NN|,|NN|NN	PERSON|PERSON|O|PERSON|O|O|O	||||||				J-Ro|Tash|E-Swift
+1	4	fb:cell._seven_minutes_of_funk_by_tyrone_thomas_the_whole_darn_family	*"Seven Minutes of Funk" by Tyrone Thomas & The Whole Darn Family	*|``|seven|minutes|of|funk|''|by|tyrone|thomas|&|the|whole|darn|family	*|``|seven|minute|of|Funk|''|by|Tyrone|Thomas|&|the|whole|darn|family	SYM|``|CD|NNS|IN|NNP|''|IN|NNP|NNP|CC|DT|JJ|JJ|NN	O|O|DURATION|DURATION|O|O|O|O|PERSON|PERSON|O|O|O|O|O	||PT7M|PT7M|||||||||||				*"Seven Minutes of Funk" by Tyrone Thomas & The Whole Darn Family
+1	5	fb:cell.3_36	3:36	3:36	3:36	CD	TIME	T03:36	3.0		36.0	
+2	0	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+2	1	fb:cell._last_call	"Last Call"	``|last|call|''	``|last|call|''	``|JJ|NN|''	O|O|O|O	|||				
+2	2	fb:cell.e_swift_king_tee	E-Swift, King Tee	e|swift|,|king|tee	e|swift|,|King|tee	NN|NN|,|NNP|NN	O|O|O|PERSON|PERSON	||||				E-Swift|King Tee
+2	3	fb:cell.tash_j_ro_e_swift	Tash, J-Ro, E-Swift	tash|,|j|ro|,|e|swift	Tash|,|J|ro|,|e|swift	NNP|,|NNP|NN|,|NN|NN	PERSON|O|PERSON|PERSON|O|O|O	||||||				Tash|J-Ro|E-Swift
+2	4	fb:cell._the_payback_by_james_brown	*"The Payback" by James Brown	*|``|the|payback|''|by|james|brown	*|``|the|payback|''|by|James|Brown	SYM|``|DT|NN|''|IN|NNP|NNP	O|O|O|O|O|O|PERSON|PERSON	|||||||				*"The Payback" by James Brown
+2	5	fb:cell.4_37	4:37	4:37	4:37	CD	TIME	T04:37	4.0		37.0	
+3	0	fb:cell.4	4	4	4	CD	NUMBER	4.0	4.0			
+3	1	fb:cell._can_t_tell_me_shit	"Can't Tell Me Shit"	``|ca|n't|tell|me|shit|''	``|can|not|tell|I|shit|''	``|MD|RB|VB|PRP|VB|''	O|O|O|O|O|O|O	||||||				
+3	2	fb:cell.derick_d_pimp_williams_e_swift	Derick "D. Pimp" Williams, E-Swift	derick|``|d.|pimp|''|williams|,|e|swift	derick|``|D.|pimp|''|Williams|,|E|Swift	VB|``|NNP|NN|''|NNP|,|NNP|NNP	PERSON|O|O|O|O|PERSON|O|O|O	||||||||				Derick "D. Pimp" Williams|E-Swift
+3	3	fb:cell.e_swift_j_ro	E-Swift, J-Ro	e|swift|,|j|ro	e|swift|,|j|ro	NN|NN|,|NN|NN	O|O|O|PERSON|PERSON	||||				E-Swift|J-Ro
+3	4	fb:cell._think_about_it_by_lyn_collins	*"Think(About It)" by Lyn Collins	*|``|think|-lrb-|about|it|-rrb-|''|by|lyn|collins	*|``|think|-lrb-|about|it|-rrb-|''|by|Lyn|Collins	SYM|``|VB|-LRB-|IN|PRP|-RRB-|''|IN|NNP|NNP	O|O|O|O|O|O|O|O|O|PERSON|PERSON	||||||||||				*"Think(About It)" by Lyn Collins
+3	5	fb:cell.4_09	4:09	4:09	4:09	CD	TIME	T04:09	4.0		9.0	
+4	0	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+4	1	fb:cell._turn_tha_party_out	"Turn Tha Party Out"	``|turn|tha|party|out|''	``|turn|Tha|Party|out|''	``|VB|NNP|NNP|RP|''	O|O|O|O|O|O	|||||				
+4	2	fb:cell.lootpack_tha_alkaholiks	Lootpack, Tha Alkaholiks	lootpack|,|tha|alkaholiks	lootpack|,|tha|alkaholik	NN|,|NN|NNS	O|O|PERSON|PERSON	|||				Lootpack|Tha Alkaholiks
+4	3	fb:cell.lootpack_tash_j_ro_e_swift	Lootpack, Tash, J-Ro, E-Swift	lootpack|,|tash|,|j|ro|,|e|swift	Lootpack|,|Tash|,|J|ro|,|e|swift	NNP|,|NNP|,|NNP|NN|,|NN|NN	O|O|PERSON|O|PERSON|PERSON|O|O|O	||||||||				Lootpack|Tash|J-Ro|E-Swift
+4	4	fb:cell._synthetic_substitution_by_melvin_bliss	*"Synthetic Substitution" by Melvin Bliss	*|``|synthetic|substitution|''|by|melvin|bliss	*|``|synthetic|substitution|''|by|Melvin|Bliss	SYM|``|JJ|NN|''|IN|NNP|NNP	O|O|O|O|O|O|PERSON|PERSON	|||||||				*"Synthetic Substitution" by Melvin Bliss
+4	5	fb:cell.3_19	3:19	3:19	3:19	CD	TIME	T03:19	3.0		19.0	
+5	0	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+5	1	fb:cell._bullshit	"Bullshit"	``|bullshit|''	``|Bullshit|''	``|NNP|''	O|O|O	||				
+5	2	fb:cell.king_tee_e_swift_tha_alkaholiks	King Tee, E-Swift, Tha Alkaholiks	king|tee|,|e|swift|,|tha|alkaholiks	King|tee|,|e|swift|,|tha|alkaholik	NNP|NN|,|NN|NN|,|NN|NNS	O|O|O|O|O|O|PERSON|PERSON	|||||||				King Tee|E-Swift|Tha Alkaholiks
+5	3	fb:cell.j_ro_king_tee	J-Ro, King Tee	j|ro|,|king|tee	J|ro|,|King|tee	NNP|NN|,|NNP|NN	PERSON|PERSON|O|O|O	||||				J-Ro|King Tee
+5	4	fb:cell._it_s_a_new_day_by_skull_snaps	*"It's A New Day" by Skull Snaps	*|``|it|'s|a|new|day|''|by|skull|snaps	*|``|it|be|a|new|day|''|by|skull|snap	SYM|``|PRP|VBZ|DT|JJ|NN|''|IN|NN|VBZ	O|O|O|O|O|O|DURATION|O|O|O|O	||||||P1D||||				*"It's A New Day" by Skull Snaps
+5	5	fb:cell.3_27	3:27	3:27	3:27	CD	TIME	T03:27	3.0		27.0	
+6	0	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+6	1	fb:cell._soda_pop	"Soda Pop"	``|soda|pop|''	``|soda|pop|''	``|NN|NN|''	O|O|O|O	|||				
+6	2	fb:cell.e_swift_king_tee	E-Swift, King Tee	e|swift|,|king|tee	e|swift|,|King|tee	NN|NN|,|NNP|NN	O|O|O|PERSON|PERSON	||||				E-Swift|King Tee
+6	3	fb:cell.e_swift_field_trip_tash	E-Swift, Field Trip, Tash	e|swift|,|field|trip|,|tash	e|swift|,|field|trip|,|Tash	NN|NN|,|NN|NN|,|NNP	O|O|O|O|O|O|PERSON	||||||				E-Swift|Field Trip|Tash
+6	4	fb:cell._hard_times_by_baby_huey_snakin_the_grass_by_cannonball_adderley	*"Hard Times" by Baby Huey\n*"Snakin' the Grass" by Cannonball Adderley	*|``|hard|times|''|by|baby|huey|*|``|snakin|'|the|grass|''|by|cannonball|adderley	*|``|hard|time|''|by|baby|Huey|*|``|snakin|'|the|grass|''|by|Cannonball|Adderley	SYM|``|JJ|NNS|''|IN|NN|NNP|SYM|``|VBG|''|DT|NN|''|IN|NNP|NNP	O|O|O|O|O|O|PERSON|PERSON|O|O|O|O|O|O|O|O|PERSON|PERSON	|||||||||||||||||				*"Hard Times" by Baby Huey|*"Snakin' the Grass" by Cannonball Adderley
+6	5	fb:cell.2_48	2:48	2:48	2:48	CD	TIME	T02:48	2.0		48.0	
+7	0	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+7	1	fb:cell._make_room	"Make Room"	``|make|room|''	``|make|room|''	``|VB|NN|''	O|O|O|O	|||				
+7	2	fb:cell.e_swift_tha_alkaholiks	E-Swift, Tha Alkaholiks	e|swift|,|tha|alkaholiks	e|swift|,|tha|alkaholik	NN|NN|,|NN|NNS	O|O|O|PERSON|PERSON	||||				E-Swift|Tha Alkaholiks
+7	3	fb:cell.j_ro_tash	J-Ro, Tash	j|ro|,|tash	J|ro|,|Tash	NNP|NN|,|NNP	PERSON|PERSON|O|PERSON	|||				J-Ro|Tash
+7	4	fb:cell._sing_a_simple_song_by_sly_the_family_stone_blow_your_head_by_fred_wesley_the_j_b_s	*"Sing a Simple Song" by Sly & the Family Stone\n*"Blow Your Head" by Fred Wesley & The J.B.'s	*|``|sing|a|simple|song|''|by|sly|&|the|family|stone|*|``|blow|your|head|''|by|fred|wesley|&|the|j.b.|'s	*|``|sing|a|simple|song|''|by|Sly|&|the|family|stone|*|``|blow|you|head|''|by|Fred|Wesley|&|the|J.B.|'s	SYM|``|VB|DT|JJ|NN|''|IN|NNP|CC|DT|NN|NN|SYM|``|VB|PRP$|NN|''|IN|NNP|NNP|CC|DT|NNP|POS	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON|O|O|PERSON|O	|||||||||||||||||||||||||				*"Sing a Simple Song" by Sly & the Family Stone|*"Blow Your Head" by Fred Wesley & The J.B.'s
+7	5	fb:cell.3_28	3:28	3:28	3:28	CD	TIME	T03:28	3.0		28.0	
+8	0	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+8	1	fb:cell._mary_jane	"Mary Jane"	``|mary|jane|''	``|Mary|Jane|''	``|NNP|NNP|''	O|PERSON|PERSON|PERSON	|||				
+8	2	fb:cell.lootpack_tha_alkaholiks	Lootpack, Tha Alkaholiks	lootpack|,|tha|alkaholiks	lootpack|,|tha|alkaholik	NN|,|NN|NNS	O|O|PERSON|PERSON	|||				Lootpack|Tha Alkaholiks
+8	3	fb:cell.j_ro_tash	J-Ro, Tash	j|ro|,|tash	J|ro|,|Tash	NNP|NN|,|NNP	PERSON|PERSON|O|PERSON	|||				J-Ro|Tash
+8	4	fb:cell._mary_jane_by_rick_james	*"Mary Jane" by Rick James	*|``|mary|jane|''|by|rick|james	*|``|Mary|Jane|''|by|Rick|James	SYM|``|NNP|NNP|''|IN|NNP|NNP	O|O|PERSON|PERSON|O|O|PERSON|PERSON	|||||||				*"Mary Jane" by Rick James
+8	5	fb:cell.3_31	3:31	3:31	3:31	CD	TIME	T03:31	3.0		31.0	
+9	0	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			
+9	1	fb:cell._who_dem_niggas	"Who Dem Niggas"	``|who|dem|niggas|''	``|who|dem|Niggas|''	``|WP|DT|NNPS|''	O|O|MISC|MISC|O	||||				
+9	2	fb:cell.e_swift_tha_alkaholiks	E-Swift, Tha Alkaholiks	e|swift|,|tha|alkaholiks	e|swift|,|tha|alkaholik	NN|NN|,|NN|NNS	O|O|O|PERSON|PERSON	||||				E-Swift|Tha Alkaholiks
+9	3	fb:cell.threat_e_swift_j_ro_tash	Threat, E-Swift, J-Ro, Tash	threat|,|e|swift|,|j|ro|,|tash	threat|,|e|swift|,|j|ro|,|Tash	NN|,|NN|NN|,|NN|NN|,|NNP	O|O|O|O|O|PERSON|PERSON|O|PERSON	||||||||				Threat|E-Swift|J-Ro|Tash
+9	4	fb:cell._take_me_to_the_mardi_gras_by_bob_james_blind_alley_by_emotions_you_can_t_love_me_if_you_don_t_respect_me_by_lyn_collins	*"Take Me to The Mardi Gras" by Bob James\n*"Blind Alley" by Emotions\n*"You Can't Love Me if You Don't Respect Me" by Lyn Collins	*|``|take|me|to|the|mardi|gras|''|by|bob|james|*|``|blind|alley|''|by|emotions|*|``|you|ca|n't|love|me|if|you|do|n't|respect|me|''|by|lyn|collins	*|``|take|I|to|the|Mardi|Gras|''|by|Bob|James|*|``|blind|alley|''|by|emotion|*|``|you|can|not|love|I|if|you|do|not|respect|I|''|by|Lyn|Collins	SYM|``|VB|PRP|TO|DT|NNP|NNP|''|IN|NNP|NNP|SYM|``|JJ|NN|''|IN|NNS|SYM|``|PRP|MD|RB|VB|PRP|IN|PRP|VBD-AUX|RB|VB|PRP|''|IN|NNP|NNP	O|O|O|O|O|O|O|O|O|O|PERSON|PERSON|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON	|||||||||||||||||||||||||||||||||||				*"Take Me to The Mardi Gras" by Bob James|*"Blind Alley" by Emotions|*"You Can't Love Me if You Don't Respect Me" by Lyn Collins
+9	5	fb:cell.3_46	3:46	3:46	3:46	CD	TIME	T03:46	3.0		46.0	

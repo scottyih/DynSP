@@ -1,0 +1,257 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.null	#	#	#	#	O					
+-1	1	fb:row.row.temple_name	Temple name	temple|name	Temple|name	NNP|NN	ORGANIZATION|O	|				
+-1	2	fb:row.row.hangul	Hangul	hangul	hangul	NN	O					
+-1	3	fb:row.row.hanja	Hanja	hanja	Hanja	NNP	PERSON					
+-1	4	fb:row.row.period_of_reign	Period of reign	period|of|reign	period|of|reign	NN|IN|NN	O|O|O	||				
+-1	5	fb:row.row.personal_name	Personal name	personal|name	personal|name	JJ|NN	O|O	|				
+-1	6	fb:row.row.relationship	Relationship	relationship	relationship	NN	O					
+-1	7	fb:row.row.note	Note	note	note	NN	O					
+0	0	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+0	1	fb:cell.onjo	Onjo	onjo	Onjo	NNP	O					
+0	2	fb:cell.null	온조왕	온조왕	온조왕	NNP	O					
+0	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+0	4	fb:cell.18_bce_28_ce	18 BCE – 28 CE	18|bce|--|28|ce	18|BCE|--|28|ce	CD|NNP|:|CD|NN	NUMBER|O|O|NUMBER|O	18.0|||28.0|	18.0		28.0	
+0	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+0	6	fb:cell.founder	founder	founder	founder	NN	O					
+0	7	fb:cell.son_of_dongmyeongseong_of_goguryeo	son of Dongmyeongseong of Goguryeo	son|of|dongmyeongseong|of|goguryeo	son|of|dongmyeongseong|of|Goguryeo	NN|IN|NN|IN|NNP	O|O|PERSON|PERSON|PERSON	||||				son of Dongmyeongseong of Goguryeo
+1	0	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+1	1	fb:cell.daru	Daru	daru	Daru	NNP	PERSON					
+1	2	fb:cell.null_3	다루왕	다루왕	다루왕	NNP	O					
+1	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+1	4	fb:cell.28_77	28–77	28|--|77	28|--|77	CD|:|CD	NUMBER|O|NUMBER	28.0||77.0	28.0		77.0	
+1	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+1	6	fb:cell.first_son_of_onjo	first son of Onjo	first|son|of|onjo	first|son|of|Onjo	JJ|NN|IN|NNP	ORDINAL|O|O|O	1.0|||				
+1	7	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+2	0	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+2	1	fb:cell.giru	Giru	giru	giru	NN	PERSON					
+2	2	fb:cell.null_4	기루왕	기루왕	기루왕	NNP	O					
+2	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+2	4	fb:cell.77_128	77–128	77|--|128	77|--|128	CD|:|CD	NUMBER|O|NUMBER	77.0||128.0	77.0		128.0	
+2	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+2	6	fb:cell.first_son_of_daru	first son of Daru	first|son|of|daru	first|son|of|Daru	JJ|NN|IN|NNP	ORDINAL|O|O|PERSON	1.0|||				
+2	7	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+3	0	fb:cell.4	4	4	4	CD	NUMBER	4.0	4.0			
+3	1	fb:cell.gaeru	Gaeru	gaeru	Gaeru	NNP	PERSON					
+3	2	fb:cell.null_5	개루왕	개루왕	개루왕	NNP	O					
+3	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+3	4	fb:cell.128_166	128–166	128|--|166	128|--|166	CD|:|CD	NUMBER|O|NUMBER	128.0||166.0	128.0		166.0	
+3	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+3	6	fb:cell.son_of_giru	son of Giru	son|of|giru	son|of|giru	NN|IN|NN	O|O|PERSON	||				
+3	7	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+4	0	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+4	1	fb:cell.chogo	Chogo	chogo	Chogo	NNP	O					
+4	2	fb:cell.null_6	초고왕	초고왕	초고왕	NNP	O					
+4	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+4	4	fb:cell.166_214	166–214	166|--|214	166|--|214	CD|:|CD	NUMBER|O|NUMBER	166.0||214.0	166.0		214.0	
+4	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+4	6	fb:cell.son_of_gaeru	son of Gaeru	son|of|gaeru	son|of|Gaeru	NN|IN|NNP	O|O|PERSON	||				
+4	7	fb:cell.also_sogo	also Sogo (소고왕, 素古王)	also|sogo|-lrb-|소고왕|,|素古王|-rrb-	also|Sogo|-lrb-|소고왕|,|素古王|-rrb-	RB|NNP|-LRB-|NNP|,|NN|-RRB-	O|O|O|O|O|O|O	||||||				also Sogo (소고왕|素古王)
+5	0	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+5	1	fb:cell.gusu	Gusu	gusu	gusu	NN	PERSON					
+5	2	fb:cell.null_7	구수왕	구수왕	구수왕	NNP	O					
+5	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+5	4	fb:cell.214_234	214–234	214|--|234	214|--|234	CD|:|CD	NUMBER|O|NUMBER	214.0||234.0	214.0		234.0	
+5	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+5	6	fb:cell.first_son_of_chogo	first son of Chogo	first|son|of|chogo	first|son|of|Chogo	JJ|NN|IN|NNP	ORDINAL|O|O|O	1.0|||				
+5	7	fb:cell.also_guisu	also Guisu (귀수왕, 貴須王)	also|guisu|-lrb-|귀수왕|,|貴須王|-rrb-	also|guisu|-lrb-|귀수왕|,|貴須王|-rrb-	RB|NN|-LRB-|NN|,|NN|-RRB-	O|PERSON|O|O|O|O|O	||||||				also Guisu (귀수왕|貴須王)
+6	0	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+6	1	fb:cell.saban	Saban	saban	Saban	NNP	PERSON					
+6	2	fb:cell.null_8	사반왕	사반왕	사반왕	NNP	O					
+6	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+6	4	fb:cell.234	234	234	234	CD	NUMBER	234.0	234.0			
+6	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+6	6	fb:cell.first_son_of_gusu	first son of Gusu	first|son|of|gusu	first|son|of|gusu	JJ|NN|IN|NN	ORDINAL|O|O|PERSON	1.0|||				
+6	7	fb:cell.also_sai	also Sai (사이왕, 沙伊王)	also|sai|-lrb-|사이왕|,|沙伊王|-rrb-	also|saus|-lrb-|사이왕|,|沙伊王|-rrb-	RB|NN|-LRB-|NN|,|NN|-RRB-	O|O|O|O|O|O|O	||||||				also Sai (사이왕|沙伊王)
+7	0	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+7	1	fb:cell.goi	Goi	goi	Goi	NNP	O					
+7	2	fb:cell.null_9	고이왕	고이왕	고이왕	NNP	O					
+7	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+7	4	fb:cell.234_286	234–286	234|--|286	234|--|286	CD|:|CD	NUMBER|O|NUMBER	234.0||286.0	234.0		286.0	
+7	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+7	6	fb:cell.second_son_of_gaeru	second son of Gaeru	second|son|of|gaeru	second|son|of|Gaeru	JJ|NN|IN|NNP	ORDINAL|O|O|PERSON	2.0|||				
+7	7	fb:cell.also_gui	also Gui (구이군, 久爾君)	also|gui|-lrb-|구이군|,|久爾君|-rrb-	also|Gui|-lrb-|구이군|,|久爾君|-rrb-	RB|NNP|-LRB-|NNP|,|NN|-RRB-	O|PERSON|O|O|O|O|O	||||||				also Gui (구이군|久爾君)
+8	0	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+8	1	fb:cell.chaekgye	Chaekgye	chaekgye	Chaekgye	NNP	PERSON					
+8	2	fb:cell.null_10	책계왕	책계왕	책계왕	NNP	O					
+8	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+8	4	fb:cell.286_298	286–298	286|--|298	286|--|298	CD|:|CD	NUMBER|O|NUMBER	286.0||298.0	286.0		298.0	
+8	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+8	6	fb:cell.son_of_goi	son of Goi	son|of|goi	son|of|Goi	NN|IN|NNP	O|O|O	||				
+8	7	fb:cell.also_cheonggye	also Cheonggye (청계왕, 靑稽王)	also|cheonggye|-lrb-|청계왕|,|靑稽王|-rrb-	also|cheonggye|-lrb-|청계왕|,|靑稽王|-rrb-	RB|NN|-LRB-|NN|,|NN|-RRB-	O|O|O|O|O|O|O	||||||				also Cheonggye (청계왕|靑稽王)
+9	0	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			
+9	1	fb:cell.bunseo	Bunseo	bunseo	Bunseo	NNP	PERSON					
+9	2	fb:cell.null_11	분서왕	분서왕	분서왕	NNP	O					
+9	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+9	4	fb:cell.298_304	298–304	298|--|304	298|--|304	CD|:|CD	NUMBER|O|NUMBER	298.0||304.0	298.0		304.0	
+9	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+9	6	fb:cell.first_son_of_chaekgye	first son of Chaekgye	first|son|of|chaekgye	first|son|of|Chaekgye	JJ|NN|IN|NNP	ORDINAL|O|O|PERSON	1.0|||				
+9	7	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+10	0	fb:cell.11	11	11	11	CD	NUMBER	11.0	11.0			
+10	1	fb:cell.biryu	Biryu	biryu	Biryu	NNP	PERSON					
+10	2	fb:cell.null_12	비류왕	비류왕	비류왕	NNP	O					
+10	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+10	4	fb:cell.304_344	304–344	304|--|344	304|--|344	CD|:|CD	NUMBER|O|NUMBER	304.0||344.0	304.0		344.0	
+10	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+10	6	fb:cell.second_son_of_gusu	second son of Gusu	second|son|of|gusu	second|son|of|gusu	JJ|NN|IN|NN	ORDINAL|O|O|PERSON	2.0|||				
+10	7	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+11	0	fb:cell.12	12	12	12	CD	NUMBER	12.0	12.0			
+11	1	fb:cell.gye	Gye	gye	Gye	NNP	PERSON					
+11	2	fb:cell.null_13	계왕	계왕	계왕	NN	O					
+11	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+11	4	fb:cell.344_346	344–346	344|--|346	344|--|346	CD|:|CD	NUMBER|O|NUMBER	344.0||346.0	344.0		346.0	
+11	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+11	6	fb:cell.first_son_of_bunseo	first son of Bunseo	first|son|of|bunseo	first|son|of|bunseo	JJ|NN|IN|NN	ORDINAL|O|O|PERSON	1.0|||				
+11	7	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+12	0	fb:cell.13	13	13	13	CD	NUMBER	13.0	13.0			
+12	1	fb:cell.geunchogo	Geunchogo	geunchogo	Geunchogo	NNP	PERSON					
+12	2	fb:cell.null_14	근초고왕	근초고왕	근초고왕	NNP	O					
+12	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+12	4	fb:cell.346_375	346–375	346|--|375	346|--|375	CD|:|CD	NUMBER|O|NUMBER	346.0||375.0	346.0		375.0	
+12	5	fb:cell.yeogu	Yeogu	yeogu	Yeogu	NNP	PERSON					Yeogu
+12	6	fb:cell.second_son_of_biryu	second son of Biryu	second|son|of|biryu	second|son|of|Biryu	JJ|NN|IN|NNP	ORDINAL|O|O|PERSON	2.0|||				
+12	7	fb:cell.also_chogo_or_sokgo	also Chogo (초고왕, 肖古王) or Sokgo (속고왕, 速古王)	also|chogo|-lrb-|초고왕|,|肖古王|-rrb-|or|sokgo|-lrb-|속고왕|,|速古王|-rrb-	also|chogo|-lrb-|초고왕|,|肖古王|-rrb-|or|sokgo|-lrb-|속고왕|,|速古王|-rrb-	RB|NN|-LRB-|NN|,|NN|-RRB-|CC|NN|-LRB-|NN|,|NN|-RRB-	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				also Chogo (초고왕|肖古王) or Sokgo (속고왕|速古王)
+13	0	fb:cell.14	14	14	14	CD	NUMBER	14.0	14.0			
+13	1	fb:cell.geun_gusu	Geun-gusu	geun|gusu	Geun|gusu	NNP|NNP	PERSON|PERSON	|				
+13	2	fb:cell.null_15	근구수왕	근구수왕	근구수왕	NNP	O					
+13	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+13	4	fb:cell.375_384	375–384	375|--|384	375|--|384	CD|:|CD	NUMBER|O|NUMBER	375.0||384.0	375.0		384.0	
+13	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+13	6	fb:cell.son_of_geunchogo	son of Geunchogo	son|of|geunchogo	son|of|Geunchogo	NN|IN|NNP	O|O|O	||				
+13	7	fb:cell.also_guisu	also Guisu (귀수왕, 貴須王)	also|guisu|-lrb-|귀수왕|,|貴須王|-rrb-	also|guisu|-lrb-|귀수왕|,|貴須王|-rrb-	RB|NN|-LRB-|NN|,|NN|-RRB-	O|PERSON|O|O|O|O|O	||||||				also Guisu (귀수왕|貴須王)
+14	0	fb:cell.15	15	15	15	CD	NUMBER	15.0	15.0			
+14	1	fb:cell.chimnyu	Chimnyu	chimnyu	Chimnyu	NNP	PERSON					
+14	2	fb:cell.null_16	침류왕	침류왕	침류왕	NNP	O					
+14	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+14	4	fb:cell.384_385	384–385	384|--|385	384|--|385	CD|:|CD	NUMBER|O|NUMBER	384.0||385.0	384.0		385.0	
+14	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+14	6	fb:cell.first_son_of_geungusu	first son of Geungusu	first|son|of|geungusu	first|son|of|geungusu	JJ|NN|IN|NN	ORDINAL|O|O|PERSON	1.0|||				
+14	7	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+15	0	fb:cell.16	16	16	16	CD	NUMBER	16.0	16.0			
+15	1	fb:cell.jinsa	Jinsa	jinsa	Jinsa	NNP	LOCATION					
+15	2	fb:cell.null_17	진사왕	진사왕	진사왕	NNP	O					
+15	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+15	4	fb:cell.385_392	385–392	385|--|392	385|--|392	CD|:|CD	NUMBER|O|NUMBER	385.0||392.0	385.0		392.0	
+15	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+15	6	fb:cell.younger_brother_of_chimnyu	younger brother of Chimnyu	younger|brother|of|chimnyu	younger|brother|of|Chimnyu	JJR|NN|IN|NNP	O|O|O|PERSON	|||				
+15	7	fb:cell.also_buyeohui	also Buyeohui (부여휘, 扶餘暉)	also|buyeohui|-lrb-|부여휘|,|扶餘暉|-rrb-	also|Buyeohui|-lrb-|부여휘|,|扶餘暉|-rrb-	RB|NNP|-LRB-|NNP|,|NN|-RRB-	O|O|O|O|O|O|O	||||||				also Buyeohui (부여휘|扶餘暉)
+16	0	fb:cell.17	17	17	17	CD	NUMBER	17.0	17.0			
+16	1	fb:cell.asin	Asin	asin	Asin	NNP	PERSON					
+16	2	fb:cell.null_18	아신왕	아신왕	아신왕	NNP	O					
+16	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+16	4	fb:cell.392_405	392–405	392|--|405	392|--|405	CD|:|CD	NUMBER|O|NUMBER	392.0||405.0	392.0		405.0	
+16	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+16	6	fb:cell.nephew_of_jinsa_first_son_of_chimnyu	nephew of Jinsa; first son of Chimnyu	nephew|of|jinsa|;|first|son|of|chimnyu	nephew|of|Jinsa|;|first|son|of|Chimnyu	NN|IN|NNP|:|RB|NN|IN|NNP	O|O|LOCATION|O|ORDINAL|O|O|PERSON	||||1.0|||				
+16	7	fb:cell.also_aha	also Aha (아화왕, 阿華王)	also|aha|-lrb-|아화왕|,|阿華王|-rrb-	also|aha|-lrb-|아화왕|,|阿華王|-rrb-	RB|NN|-LRB-|NN|,|NN|-RRB-	O|O|O|O|O|O|O	||||||				also Aha (아화왕|阿華王)
+17	0	fb:cell.18	18	18	18	CD	NUMBER	18.0	18.0			
+17	1	fb:cell.jeonji	Jeonji	jeonji	Jeonji	NNP	PERSON					
+17	2	fb:cell.null_19	전지왕	전지왕	전지왕	NNP	O					
+17	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+17	4	fb:cell.405_420	405–420	405|--|420	405|--|420	CD|:|CD	NUMBER|O|NUMBER	405.0||420.0	405.0		420.0	
+17	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+17	6	fb:cell.first_son_of_asin	first son of Asin	first|son|of|asin	first|son|of|Asin	JJ|NN|IN|NNP	ORDINAL|O|O|PERSON	1.0|||				
+17	7	fb:cell.also_jikji_or_jinji	also Jikji (직지왕, 直支王) or Jinji (진지왕, 眞支王)	also|jikji|-lrb-|직지왕|,|直支王|-rrb-|or|jinji|-lrb-|진지왕|,|眞支王|-rrb-	also|jikjus|-lrb-|직지왕|,|直支王|-rrb-|or|jinjus|-lrb-|진지왕|,|眞支王|-rrb-	RB|NN|-LRB-|NN|,|NN|-RRB-|CC|NN|-LRB-|NN|,|NN|-RRB-	O|O|O|O|O|O|O|O|LOCATION|O|O|O|O|O	|||||||||||||				also Jikji (직지왕|直支王) or Jinji (진지왕|眞支王)
+18	0	fb:cell.19	19	19	19	CD	NUMBER	19.0	19.0			
+18	1	fb:cell.gu_isin	Gu-isin	gu|isin	Gu|isin	NNP|NNP	PERSON|PERSON	|				
+18	2	fb:cell.null_20	구이신왕	구이신왕	구이신왕	NNP	O					
+18	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+18	4	fb:cell.420_427	420–427	420|--|427	420|--|427	CD|:|CD	NUMBER|O|NUMBER	420.0||427.0	420.0		427.0	
+18	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+18	6	fb:cell.first_son_of_jeonji	first son of Jeonji	first|son|of|jeonji	first|son|of|Jeonji	JJ|NN|IN|NNP	ORDINAL|O|O|PERSON	1.0|||				
+18	7	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+19	0	fb:cell.20	20	20	20	CD	NUMBER	20.0	20.0			
+19	1	fb:cell.biyu	Biyu	biyu	Biyu	NNP	PERSON					
+19	2	fb:cell.null_21	비유왕	비유왕	비유왕	NNP	O					
+19	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+19	4	fb:cell.427_455	427–455	427|--|455	427|--|455	CD|:|CD	NUMBER|O|NUMBER	427.0||455.0	427.0		455.0	
+19	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+19	6	fb:cell.first_son_of_guisin	first son of Guisin	first|son|of|guisin	first|son|of|guisin	JJ|NN|IN|NN	ORDINAL|O|O|PERSON	1.0|||				
+19	7	fb:cell.also_yeobi	also Yeobi (여비, 餘毗)	also|yeobi|-lrb-|여비|,|餘毗|-rrb-	also|yeobus|-lrb-|여비|,|餘毗|-rrb-	RB|NN|-LRB-|NN|,|NN|-RRB-	O|PERSON|O|O|O|O|O	||||||				also Yeobi (여비|餘毗)
+20	0	fb:cell.21	21	21	21	CD	NUMBER	21.0	21.0			
+20	1	fb:cell.gaero	Gaero	gaero	Gaero	NNP	PERSON					
+20	2	fb:cell.null_22	개로왕	개로왕	개로왕	NNP	O					
+20	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+20	4	fb:cell.455_475	455–475	455|--|475	455|--|475	CD|:|CD	NUMBER|O|NUMBER	455.0||475.0	455.0		475.0	
+20	5	fb:cell.gyeongsa_or_gyeong	Gyeongsa (경사, 慶司) or Gyeong (경, 慶)	gyeongsa|-lrb-|경사|,|慶司|-rrb-|or|gyeong|-lrb-|경|,|慶|-rrb-	gyeongsa|-lrb-|경사|,|慶司|-rrb-|or|gyeong|-lrb-|경|,|慶|-rrb-	NN|-LRB-|NN|,|NN|-RRB-|CC|NN|-LRB-|NN|,|NN|-RRB-	PERSON|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||				Gyeongsa (경사|慶司) or Gyeong (경|慶)
+20	6	fb:cell.first_son_of_biyu	first son of Biyu	first|son|of|biyu	first|son|of|biyu	JJ|NN|IN|NN	ORDINAL|O|O|PERSON	1.0|||				
+20	7	fb:cell.also_yeogyeong	also Yeogyeong (여경, 餘慶)	also|yeogyeong|-lrb-|여경|,|餘慶|-rrb-	also|yeogyeong|-lrb-|여경|,|餘慶|-rrb-	RB|NN|-LRB-|NN|,|NN|-RRB-	O|O|O|O|O|O|O	||||||				also Yeogyeong (여경|餘慶)
+21	0	fb:cell.22	22	22	22	CD	NUMBER	22.0	22.0			
+21	1	fb:cell.munju	Munju	munju	munju	NN	PERSON					
+21	2	fb:cell.null_23	문주왕	문주왕	문주왕	NNP	O					
+21	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+21	4	fb:cell.475_477	475–477	475|--|477	475|--|477	CD|:|CD	NUMBER|O|NUMBER	475.0||477.0	475.0		477.0	
+21	5	fb:cell.modo_or_do	Modo (모도, 牟都) or Do (도, 都)	modo|-lrb-|모도|,|牟都|-rrb-|or|do|-lrb-|도|,|都|-rrb-	Modo|-lrb-|모도|,|牟都|-rrb-|or|do|-lrb-|도|,|都|-rrb-	NNP|-LRB-|NNP|,|NN|-RRB-|CC|VBD-AUX|-LRB-|NNP|,|NN|-RRB-	O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||				Modo (모도|牟都) or Do (도|都)
+21	6	fb:cell.son_of_gaero	son of Gaero	son|of|gaero	son|of|Gaero	NN|IN|NNP	O|O|PERSON	||				
+21	7	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+22	0	fb:cell.23	23	23	23	CD	NUMBER	23.0	23.0			
+22	1	fb:cell.samgeun	Samgeun	samgeun	Samgeun	NNP	PERSON					
+22	2	fb:cell.null_24	삼근왕	삼근왕	삼근왕	NNP	O					
+22	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+22	4	fb:cell.477_479	477–479	477|--|479	477|--|479	CD|:|CD	NUMBER|O|NUMBER	477.0||479.0	477.0		479.0	
+22	5	fb:cell.samgeun_imgeol_or_samgeol	Samgeun (삼근, 三斤), Imgeol (임걸, 壬乞) or Samgeol (삼걸, 三乞)	samgeun|-lrb-|삼근|,|三斤|-rrb-|,|imgeol|-lrb-|임걸|,|壬乞|-rrb-|or|samgeol|-lrb-|삼걸|,|三乞|-rrb-	samgeun|-lrb-|삼근|,|三斤|-rrb-|,|imgeol|-lrb-|임걸|,|壬乞|-rrb-|or|samgeol|-lrb-|삼걸|,|三乞|-rrb-	NN|-LRB-|NN|,|NN|-RRB-|,|NN|-LRB-|NN|,|NN|-RRB-|CC|NN|-LRB-|NN|,|NN|-RRB-	PERSON|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||				Samgeun (삼근|三斤)|Imgeol (임걸|壬乞) or Samgeol (삼걸|三乞)
+22	6	fb:cell.first_son_of_munju	first son of Munju	first|son|of|munju	first|son|of|munju	JJ|NN|IN|NN	ORDINAL|O|O|PERSON	1.0|||				
+22	7	fb:cell.also_mun_geun	also Mun-geun (문근왕, 文斤王)	also|mun|geun|-lrb-|문근왕|,|文斤王|-rrb-	also|Mun|geun|-lrb-|문근왕|,|文斤王|-rrb-	RB|NNP|NNP|-LRB-|NNP|,|NN|-RRB-	O|PERSON|PERSON|O|O|O|O|O	|||||||				also Mun-geun (문근왕|文斤王)
+23	0	fb:cell.24	24	24	24	CD	NUMBER	24.0	24.0			
+23	1	fb:cell.dongseong	Dongseong	dongseong	Dongseong	NNP	PERSON					
+23	2	fb:cell.null_25	동성왕	동성왕	동성왕	NNP	O					
+23	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+23	4	fb:cell.479_501	479–501	479|--|501	479|--|501	CD|:|CD	NUMBER|O|NUMBER	479.0||501.0	479.0		501.0	
+23	5	fb:cell.modae_or_mamo	Modae (모대, 牟大) or Mamo (마모, 摩牟)	modae|-lrb-|모대|,|牟大|-rrb-|or|mamo|-lrb-|마모|,|摩牟|-rrb-	Modae|-lrb-|모대|,|牟大|-rrb-|or|Mamo|-lrb-|마모|,|摩牟|-rrb-	NNP|-LRB-|NNP|,|NN|-RRB-|CC|NNP|-LRB-|NNP|,|NN|-RRB-	O|O|O|O|O|O|O|PERSON|O|O|O|O|O	||||||||||||				Modae (모대|牟大) or Mamo (마모|摩牟)
+23	6	fb:cell.cousin_of_samgeum	cousin of Samgeum	cousin|of|samgeum	cousin|of|samgeum	NN|IN|NN	O|O|PERSON	||				
+23	7	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+24	0	fb:cell.25	25	25	25	CD	NUMBER	25.0	25.0			
+24	1	fb:cell.muryeong	Muryeong	muryeong	muryeong	NN	PERSON					
+24	2	fb:cell.null_26	무령왕	무령왕	무령왕	NNP	O					
+24	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+24	4	fb:cell.501_523	501–523	501|--|523	501|--|523	CD|:|CD	NUMBER|O|NUMBER	501.0||523.0	501.0		523.0	
+24	5	fb:cell.sama_or_or_yung	Sama (사마, 斯麻 or 斯摩) or Yung (융, 隆)	sama|-lrb-|사마|,|斯麻|or|斯摩|-rrb-|or|yung|-lrb-|융|,|隆|-rrb-	sama|-lrb-|사마|,|斯麻|or|斯摩|-rrb-|or|Yung|-lrb-|융|,|隆|-rrb-	NN|-LRB-|NN|,|NN|CC|NN|-RRB-|CC|NNP|-LRB-|NNP|,|NN|-RRB-	PERSON|O|O|O|O|O|O|O|O|PERSON|O|O|O|O|O	||||||||||||||				Sama (사마|斯麻 or 斯摩) or Yung (융|隆)
+24	6	fb:cell.second_son_of_dongseong	second son of Dongseong	second|son|of|dongseong	second|son|of|dongseong	JJ|NN|IN|NN	ORDINAL|O|O|PERSON	2.0|||				
+24	7	fb:cell.also_sama_do_or_horyeong	also Sama (사마왕, 斯麻王), Do (도왕, 嶋王), or Horyeong (호령왕, 虎寧王)	also|sama|-lrb-|사마왕|,|斯麻王|-rrb-|,|do|-lrb-|도왕|,|嶋王|-rrb-|,|or|horyeong|-lrb-|호령왕|,|虎寧王|-rrb-	also|sama|-lrb-|사마왕|,|斯麻王|-rrb-|,|do|-lrb-|도왕|,|嶋王|-rrb-|,|or|horyeong|-lrb-|호령왕|,|虎寧王|-rrb-	RB|NN|-LRB-|NN|,|NN|-RRB-|,|VBD-AUX|-LRB-|NNP|,|NN|-RRB-|,|CC|NN|-LRB-|NN|,|NN|-RRB-	O|PERSON|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||||				also Sama (사마왕|斯麻王)|Do (도왕|嶋王)|or Horyeong (호령왕|虎寧王)
+25	0	fb:cell.26	26	26	26	CD	NUMBER	26.0	26.0			
+25	1	fb:cell.seong	Seong	seong	Seong	NNP	PERSON					
+25	2	fb:cell.null_27	성왕	성왕	성왕	NN	O					
+25	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+25	4	fb:cell.523_554	523–554	523|--|554	523|--|554	CD|:|CD	NUMBER|O|NUMBER	523.0||554.0	523.0		554.0	
+25	5	fb:cell.myeong	Myeong (명, 明)	myeong|-lrb-|명|,|明|-rrb-	myeong|-lrb-|명|,|明|-rrb-	NN|-LRB-|NN|,|NN|-RRB-	O|O|O|O|O|O	|||||				Myeong (명|明)
+25	6	fb:cell.son_of_muryeong	son of Muryeong	son|of|muryeong	son|of|muryeong	NN|IN|NN	O|O|PERSON	||				
+25	7	fb:cell.also_myeong_or_seongmyeong	also Myeong (명왕, 明王) or Seongmyeong (성명왕, 聖明王)	also|myeong|-lrb-|명왕|,|明王|-rrb-|or|seongmyeong|-lrb-|성명왕|,|聖明王|-rrb-	also|myeong|-lrb-|명왕|,|明王|-rrb-|or|seongmyeong|-lrb-|성명왕|,|聖明王|-rrb-	RB|NN|-LRB-|NN|,|NN|-RRB-|CC|NN|-LRB-|NN|,|NN|-RRB-	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				also Myeong (명왕|明王) or Seongmyeong (성명왕|聖明王)
+26	0	fb:cell.27	27	27	27	CD	NUMBER	27.0	27.0			
+26	1	fb:cell.wideok	Wideok	wideok	Wideok	NNP	PERSON					
+26	2	fb:cell.null_28	위덕왕	위덕왕	위덕왕	NNP	O					
+26	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+26	4	fb:cell.554_598	554–598	554|--|598	554|--|598	CD|:|CD	NUMBER|O|NUMBER	554.0||598.0	554.0		598.0	
+26	5	fb:cell.chang	Chang (창, 昌)	chang|-lrb-|창|,|昌|-rrb-	Chang|-lrb-|창|,|昌|-rrb-	NNP|-LRB-|NNP|,|NN|-RRB-	PERSON|O|O|O|O|O	|||||				Chang (창|昌)
+26	6	fb:cell.first_son_of_seong	first son of Seong	first|son|of|seong	first|son|of|Seong	JJ|NN|IN|NNP	ORDINAL|O|O|PERSON	1.0|||				
+26	7	fb:cell.also_chang	also Chang (창왕, 昌王)	also|chang|-lrb-|창왕|,|昌王|-rrb-	also|Chang|-lrb-|창왕|,|昌王|-rrb-	RB|NNP|-LRB-|NNP|,|NN|-RRB-	O|PERSON|O|O|O|O|O	||||||				also Chang (창왕|昌王)
+27	0	fb:cell.28	28	28	28	CD	NUMBER	28.0	28.0			
+27	1	fb:cell.hye	Hye	hye	hye	NN	O					
+27	2	fb:cell.null_29	혜왕	혜왕	혜왕	NN	O					
+27	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+27	4	fb:cell.598_599	598–599	598|--|599	598|--|599	CD|:|CD	NUMBER|O|NUMBER	598.0||599.0	598.0		599.0	
+27	5	fb:cell.gye_2	Gye (계, 季)	gye|-lrb-|계|,|季|-rrb-	Gye|-lrb-|계|,|季|-rrb-	NNP|-LRB-|NNP|,|NN|-RRB-	PERSON|O|O|O|O|O	|||||				Gye (계|季)
+27	6	fb:cell.younger_brother_of_wideok	younger brother of Wideok	younger|brother|of|wideok	younger|brother|of|Wideok	JJR|NN|IN|NNP	O|O|O|PERSON	|||				
+27	7	fb:cell.also_heon	also Heon (헌왕, 獻王)	also|heon|-lrb-|헌왕|,|獻王|-rrb-	also|heon|-lrb-|헌왕|,|獻王|-rrb-	RB|NN|-LRB-|NN|,|NN|-RRB-	O|O|O|O|O|O|O	||||||				also Heon (헌왕|獻王)
+28	0	fb:cell.29	29	29	29	CD	NUMBER	29.0	29.0			
+28	1	fb:cell.beop	Beop	beop	beop	NN	PERSON					
+28	2	fb:cell.null_30	법왕	법왕	법왕	NN	O					
+28	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+28	4	fb:cell.599_600	599–600	599|--|600	599|--|600	CD|:|CD	NUMBER|O|NUMBER	599.0||600.0	599.0		600.0	
+28	5	fb:cell.seon_or_hyosun	Seon (선, 宣) or Hyosun (효순, 孝順)	seon|-lrb-|선|,|宣|-rrb-|or|hyosun|-lrb-|효순|,|孝順|-rrb-	Seon|-lrb-|선|,|宣|-rrb-|or|hyosun|-lrb-|효순|,|孝順|-rrb-	NNP|-LRB-|NNP|,|NN|-RRB-|CC|NN|-LRB-|NN|,|NN|-RRB-	PERSON|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||				Seon (선|宣) or Hyosun (효순|孝順)
+28	6	fb:cell.first_son_of_hye	first son of Hye	first|son|of|hye	first|son|of|hye	JJ|NN|IN|NN	ORDINAL|O|O|PERSON	1.0|||				
+28	7	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+29	0	fb:cell.30	30	30	30	CD	NUMBER	30.0	30.0			
+29	1	fb:cell.mu	Mu	mu	mu	NN	O					
+29	2	fb:cell.null_31	무왕	무왕	무왕	NN	O					
+29	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+29	4	fb:cell.600_641	600–641	600|--|641	600|--|641	CD|:|CD	NUMBER|O|NUMBER	600.0||641.0	600.0		641.0	
+29	5	fb:cell.personal_name_jang_or_seodong	personal name Jang (장, 璋) or Seodong (서동, 薯童)	personal|name|jang|-lrb-|장|,|璋|-rrb-|or|seodong|-lrb-|서동|,|薯童|-rrb-	personal|name|Jang|-lrb-|장|,|璋|-rrb-|or|seodong|-lrb-|서동|,|薯童|-rrb-	JJ|NN|NNP|-LRB-|NNP|,|NN|-RRB-|CC|NN|-LRB-|NN|,|NN|-RRB-	O|O|PERSON|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||				personal name Jang (장|璋) or Seodong (서동|薯童)
+29	6	fb:cell.youngest_son_of_wideok	youngest son of Wideok	youngest|son|of|wideok	youngest|son|of|Wideok	JJS|NN|IN|NNP	O|O|O|O	|||				
+29	7	fb:cell.also_mugang_or_mugwang	also Mugang (무강왕, 武康王) or Mugwang (무광왕,武廣王)	also|mugang|-lrb-|무강왕|,|武康王|-rrb-|or|mugwang|-lrb-|무광왕|,|武廣王|-rrb-	also|mugang|-lrb-|무강왕|,|武康王|-rrb-|or|mugwang|-lrb-|무광왕|,|武廣王|-rrb-	RB|NN|-LRB-|NN|,|NN|-RRB-|CC|NN|-LRB-|NN|,|NN|-RRB-	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				also Mugang (무강왕|武康王) or Mugwang (무광왕,武廣王)
+30	0	fb:cell.31	31	31	31	CD	NUMBER	31.0	31.0			
+30	1	fb:cell.uija	Uija	uija	Uija	NNP	PERSON					
+30	2	fb:cell.null_32	의자왕	의자왕	의자왕	NNP	O					
+30	3	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+30	4	fb:cell.641_660	641–660	641|--|660	641|--|660	CD|:|CD	NUMBER|O|NUMBER	641.0||660.0	641.0		660.0	
+30	5	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王
+30	6	fb:cell.first_son_of_mu	first son of Mu	first|son|of|mu	first|son|of|mu	JJ|NN|IN|NN	ORDINAL|O|O|O	1.0|||				
+30	7	fb:cell.null_2	溫祚王	溫祚王	溫祚王	NNP	O					溫祚王

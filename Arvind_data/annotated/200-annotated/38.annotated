@@ -1,0 +1,67 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.new_municipality	New municipality	new|municipality	new|municipality	JJ|NN	O|O	|				
+-1	1	fb:row.row.old_municipalities	Old municipalities	old|municipalities	old|municipality	JJ|NNS	O|O	|				
+-1	2	fb:row.row.seat	Seat	seat	seat	NN	O					
+0	0	fb:cell.gortynia	Gortynia	gortynia	Gortynia	NNP	PERSON					Gortynia
+0	1	fb:cell.dimitsana	Dimitsana	dimitsana	Dimitsana	NNP	LOCATION					
+0	2	fb:cell.dimitsana	Dimitsana	dimitsana	Dimitsana	NNP	LOCATION					
+1	0	fb:cell.gortynia	Gortynia	gortynia	Gortynia	NNP	PERSON					Gortynia
+1	1	fb:cell.vytina	Vytina	vytina	Vytina	NNP	PERSON					
+1	2	fb:cell.dimitsana	Dimitsana	dimitsana	Dimitsana	NNP	LOCATION					
+2	0	fb:cell.gortynia	Gortynia	gortynia	Gortynia	NNP	PERSON					Gortynia
+2	1	fb:cell.iraia	Iraia	iraia	Iraia	NNP	PERSON					
+2	2	fb:cell.dimitsana	Dimitsana	dimitsana	Dimitsana	NNP	LOCATION					
+3	0	fb:cell.gortynia	Gortynia	gortynia	Gortynia	NNP	PERSON					Gortynia
+3	1	fb:cell.kleitor	Kleitor	kleitor	Kleitor	NNP	PERSON					
+3	2	fb:cell.dimitsana	Dimitsana	dimitsana	Dimitsana	NNP	LOCATION					
+4	0	fb:cell.gortynia	Gortynia	gortynia	Gortynia	NNP	PERSON					Gortynia
+4	1	fb:cell.kontovazaina	Kontovazaina	kontovazaina	Kontovazaina	NNP	PERSON					
+4	2	fb:cell.dimitsana	Dimitsana	dimitsana	Dimitsana	NNP	LOCATION					
+5	0	fb:cell.gortynia	Gortynia	gortynia	Gortynia	NNP	PERSON					Gortynia
+5	1	fb:cell.langadia	Langadia	langadia	Langadia	NNP	O					
+5	2	fb:cell.dimitsana	Dimitsana	dimitsana	Dimitsana	NNP	LOCATION					
+6	0	fb:cell.gortynia	Gortynia	gortynia	Gortynia	NNP	PERSON					Gortynia
+6	1	fb:cell.trikolonoi	Trikolonoi	trikolonoi	Trikolonoi	NNP	PERSON					
+6	2	fb:cell.dimitsana	Dimitsana	dimitsana	Dimitsana	NNP	LOCATION					
+7	0	fb:cell.gortynia	Gortynia	gortynia	Gortynia	NNP	PERSON					Gortynia
+7	1	fb:cell.tropaia	Tropaia	tropaia	tropaia	FW	O					
+7	2	fb:cell.dimitsana	Dimitsana	dimitsana	Dimitsana	NNP	LOCATION					
+8	0	fb:cell.megalopoli	Megalopoli	megalopoli	Megalopoli	NNP	PERSON					Megalopoli
+8	1	fb:cell.gortyna	Gortyna	gortyna	Gortyna	NNP	PERSON					
+8	2	fb:cell.megalopoli	Megalopoli	megalopoli	Megalopoli	NNP	PERSON					Megalopoli
+9	0	fb:cell.megalopoli	Megalopoli	megalopoli	Megalopoli	NNP	PERSON					Megalopoli
+9	1	fb:cell.falaisia	Falaisia	falaisia	falaisium	NN	PERSON					
+9	2	fb:cell.megalopoli	Megalopoli	megalopoli	Megalopoli	NNP	PERSON					Megalopoli
+10	0	fb:cell.north_kynouria_voreia_kynouria	North Kynouria\n(Voreia Kynouria)	north|kynouria|-lrb-|voreia|kynouria|-rrb-	North|Kynouria|-lrb-|Voreia|Kynouria|-rrb-	NNP|NNP|-LRB-|NNP|NNP|-RRB-	PERSON|PERSON|O|PERSON|PERSON|O	|||||				North Kynouria|(Voreia Kynouria)
+10	1	fb:cell.north_kynouria	North Kynouria	north|kynouria	North|Kynouria	NNP|NNP	PERSON|PERSON	|				
+10	2	fb:cell.astros	Astros	astros	Astros	NNPS	O					
+11	0	fb:cell.south_kynouria_notia_kynouria	South Kynouria\n(Notia Kynouria)	south|kynouria|-lrb-|notia|kynouria|-rrb-	South|Kynouria|-lrb-|Notia|Kynouria|-rrb-	NNP|NNP|-LRB-|NNP|NNP|-RRB-	O|O|O|LOCATION|LOCATION|O	|||||				South Kynouria|(Notia Kynouria)
+11	1	fb:cell.leonidio	Leonidio	leonidio	Leonidio	NNP	PERSON					
+11	2	fb:cell.leonidio	Leonidio	leonidio	Leonidio	NNP	PERSON					
+12	0	fb:cell.south_kynouria_notia_kynouria	South Kynouria\n(Notia Kynouria)	south|kynouria|-lrb-|notia|kynouria|-rrb-	South|Kynouria|-lrb-|Notia|Kynouria|-rrb-	NNP|NNP|-LRB-|NNP|NNP|-RRB-	O|O|O|LOCATION|LOCATION|O	|||||				South Kynouria|(Notia Kynouria)
+12	1	fb:cell.kosmas	Kosmas	kosmas	Kosmas	NNP	PERSON					
+12	2	fb:cell.leonidio	Leonidio	leonidio	Leonidio	NNP	PERSON					
+13	0	fb:cell.south_kynouria_notia_kynouria	South Kynouria\n(Notia Kynouria)	south|kynouria|-lrb-|notia|kynouria|-rrb-	South|Kynouria|-lrb-|Notia|Kynouria|-rrb-	NNP|NNP|-LRB-|NNP|NNP|-RRB-	O|O|O|LOCATION|LOCATION|O	|||||				South Kynouria|(Notia Kynouria)
+13	1	fb:cell.tyros	Tyros	tyros	tyro	NNS	O					
+13	2	fb:cell.leonidio	Leonidio	leonidio	Leonidio	NNP	PERSON					
+14	0	fb:cell.tripoli	Tripoli	tripoli	Tripoli	NNP	LOCATION					Tripoli
+14	1	fb:cell.valtetsi	Valtetsi	valtetsi	valtetsus	NN	PERSON					
+14	2	fb:cell.tripoli	Tripoli	tripoli	Tripoli	NNP	LOCATION					Tripoli
+15	0	fb:cell.tripoli	Tripoli	tripoli	Tripoli	NNP	LOCATION					Tripoli
+15	1	fb:cell.korythio	Korythio	korythio	Korythio	NNP	PERSON					
+15	2	fb:cell.tripoli	Tripoli	tripoli	Tripoli	NNP	LOCATION					Tripoli
+16	0	fb:cell.tripoli	Tripoli	tripoli	Tripoli	NNP	LOCATION					Tripoli
+16	1	fb:cell.levidi	Levidi	levidi	Levidi	NNP	PERSON					
+16	2	fb:cell.tripoli	Tripoli	tripoli	Tripoli	NNP	LOCATION					Tripoli
+17	0	fb:cell.tripoli	Tripoli	tripoli	Tripoli	NNP	LOCATION					Tripoli
+17	1	fb:cell.mantineia	Mantineia	mantineia	mantineium	NN	O					
+17	2	fb:cell.tripoli	Tripoli	tripoli	Tripoli	NNP	LOCATION					Tripoli
+18	0	fb:cell.tripoli	Tripoli	tripoli	Tripoli	NNP	LOCATION					Tripoli
+18	1	fb:cell.skyritida	Skyritida	skyritida	Skyritida	NNP	PERSON					
+18	2	fb:cell.tripoli	Tripoli	tripoli	Tripoli	NNP	LOCATION					Tripoli
+19	0	fb:cell.tripoli	Tripoli	tripoli	Tripoli	NNP	LOCATION					Tripoli
+19	1	fb:cell.tegea	Tegea	tegea	Tegea	NNP	PERSON					
+19	2	fb:cell.tripoli	Tripoli	tripoli	Tripoli	NNP	LOCATION					Tripoli
+20	0	fb:cell.tripoli	Tripoli	tripoli	Tripoli	NNP	LOCATION					Tripoli
+20	1	fb:cell.falanthos	Falanthos	falanthos	Falanthos	NNP	O					
+20	2	fb:cell.tripoli	Tripoli	tripoli	Tripoli	NNP	LOCATION					Tripoli

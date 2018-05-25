@@ -1,0 +1,157 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.genre	Genre	genre	genre	NN	O					
+-1	1	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	2	fb:row.row.title	Title	title	title	NN	O					
+-1	3	fb:row.row.role	Role	role	role	NN	O					
+-1	4	fb:row.row.episodes	Episodes	episodes	episode	NNS	O					
+-1	5	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.film	Film	film	film	NN	O					
+0	1	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+0	2	fb:cell.timepiece	Timepiece	timepiece	Timepiece	NNP	O					
+0	3	fb:cell.khris	Khris	khris	Khris	NNP	PERSON					Khris
+0	4	fb:cell.null										
+0	5	fb:cell.null										
+1	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+1	1	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+1	2	fb:cell.nash_bridges	Nash Bridges	nash|bridges	Nash|Bridges	NNP|NNP	PERSON|PERSON	|				
+1	3	fb:cell.reggie_harell	Reggie Harell	reggie|harell	Reggie|Harell	NNP|NNP	PERSON|PERSON	|				Reggie Harell
+1	4	fb:cell._dirty_tricks	"Dirty Tricks"	``|dirty|tricks|''	``|dirty|trick|''	``|JJ|NNS|''	O|O|O|O	|||				"Dirty Tricks"
+1	5	fb:cell.4_episodes_total	4 episodes total	4|episodes|total	4|episode|total	CD|NNS|VBP	NUMBER|O|O	4.0||	4.0			
+2	0	fb:cell.film	Film	film	film	NN	O					
+2	1	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+2	2	fb:cell.around_the_fire	Around the Fire	around|the|fire	around|the|fire	IN|DT|NN	O|O|O	||				
+2	3	fb:cell.trace	Trace	trace	trace	NN	O					Trace
+2	4	fb:cell.null										
+2	5	fb:cell.null										
+3	0	fb:cell.short_film	Short film	short|film	short|film	JJ|NN	O|O	|				
+3	1	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+3	2	fb:cell.king_of_the_bingo_game	King of the Bingo Game	king|of|the|bingo|game	King|of|the|Bingo|game	NNP|IN|DT|NNP|NN	O|O|O|O|O	||||				
+3	3	fb:cell.sonny	Sonny	sonny	Sonny	NNP	PERSON					Sonny
+3	4	fb:cell.null										
+3	5	fb:cell.null										
+4	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+4	1	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+4	2	fb:cell.nash_bridges	Nash Bridges	nash|bridges	Nash|Bridges	NNP|NNP	PERSON|PERSON	|				
+4	3	fb:cell.hassam_desmond_kenner	Hassam\nDesmond Kenner	hassam|desmond|kenner	Hassam|Desmond|Kenner	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Hassam|Desmond Kenner
+4	4	fb:cell._power_play_girl_trouble	"Power Play"\n"Girl Trouble"	``|power|play|''|``|girl|trouble|''	``|power|play|''|``|Girl|trouble|''	``|NN|NN|''|``|NNP|NN|''	O|O|O|O|O|O|O|O	|||||||				"Power Play"|"Girl Trouble"
+4	5	fb:cell.4_episodes_total	4 episodes total	4|episodes|total	4|episode|total	CD|NNS|VBP	NUMBER|O|O	4.0||	4.0			
+5	0	fb:cell.film	Film	film	film	NN	O					
+5	1	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+5	2	fb:cell.true_crime	True Crime	true|crime	true|crime	JJ|NN	O|O	|				
+5	3	fb:cell.wally_cartwright	Wally Cartwright	wally|cartwright	Wally|Cartwright	NNP|NNP	PERSON|PERSON	|				Wally Cartwright
+5	4	fb:cell.null										
+5	5	fb:cell.null										
+6	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+6	1	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+6	2	fb:cell.nash_bridges	Nash Bridges	nash|bridges	Nash|Bridges	NNP|NNP	PERSON|PERSON	|				
+6	3	fb:cell.trumpet_player	Trumpet Player	trumpet|player	trumpet|player	VB|NN	O|O	|				Trumpet Player
+6	4	fb:cell._skin_trade	"Skin Trade"	``|skin|trade|''	``|skin|trade|''	``|NN|NN|''	O|O|O|O	|||				"Skin Trade"
+6	5	fb:cell.4_episodes_total	4 episodes total	4|episodes|total	4|episode|total	CD|NNS|VBP	NUMBER|O|O	4.0||	4.0			
+7	0	fb:cell.film	Film	film	film	NN	O					
+7	1	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+7	2	fb:cell.desi_s_looking_for_a_new_girl	Desi's Looking for a New Girl	desi|'s|looking|for|a|new|girl	Desi|'s|look|for|a|new|girl	NNP|POS|VBG|IN|DT|JJ|NN	PERSON|O|O|O|O|O|O	||||||				
+7	3	fb:cell.mother	Mother	mother	mother	NN	O					Mother
+7	4	fb:cell.null										
+7	5	fb:cell.null										
+8	0	fb:cell.film	Film	film	film	NN	O					
+8	1	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+8	2	fb:cell.kung_phooey	Kung Phooey!	kung|phooey|!	Kung|Phooey|!	NNP|NNP|.	LOCATION|LOCATION|O	||				
+8	3	fb:cell.roy_lee	Roy Lee	roy|lee	Roy|Lee	NNP|NNP	PERSON|PERSON	|				Roy Lee
+8	4	fb:cell.null										
+8	5	fb:cell.null										
+9	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+9	1	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+9	2	fb:cell.law_order	Law & Order	law|&|order	Law|&|Order	NNP|CC|NNP	PERSON|O|O	||				
+9	3	fb:cell.ronald_gumer	Ronald Gumer	ronald|gumer	Ronald|Gumer	NNP|NNP	PERSON|PERSON	|				Ronald Gumer
+9	4	fb:cell._hands_free	"Hands Free"	``|hands|free|''	``|hand|free|''	``|NNS|JJ|''	O|O|O|O	|||				"Hands Free"
+9	5	fb:cell.2_episodes_total	2 episodes total	2|episodes|total	2|episode|total	CD|NNS|VBP	NUMBER|O|O	2.0||	2.0			
+10	0	fb:cell.film	Film	film	film	NN	O					
+10	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+10	2	fb:cell.freedomland	Freedomland	freedomland	Freedomland	NNP	O					
+10	3	fb:cell.male_patient	Male Patient	male|patient	male|patient	JJ|NN	O|O	|				Male Patient
+10	4	fb:cell.null										
+10	5	fb:cell.null										
+11	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+11	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+11	2	fb:cell.law_order_criminal_intent	Law & Order: Criminal Intent	law|&|order|:|criminal|intent	Law|&|Order|:|criminal|intent	NNP|CC|NNP|:|JJ|NN	PERSON|O|O|O|O|O	|||||				
+11	3	fb:cell.sergeant_ev_sides	Sergeant Ev Sides	sergeant|ev|sides	sergeant|ev|side	NN|NN|NNS	O|O|O	||				Sergeant Ev Sides
+11	4	fb:cell._to_the_bone	"To the Bone"	``|to|the|bone|''	``|to|the|bone|''	``|TO|DT|NN|''	O|O|O|O|O	||||				"To the Bone"
+11	5	fb:cell.2_episodes_total	2 episodes total	2|episodes|total	2|episode|total	CD|NNS|VBP	NUMBER|O|O	2.0||	2.0			
+12	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+12	1	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+12	2	fb:cell.law_order_trial_by_jury	Law & Order: Trial by Jury	law|&|order|:|trial|by|jury	Law|&|Order|:|trial|by|jury	NNP|CC|NNP|:|NN|IN|NN	PERSON|O|O|O|O|O|O	||||||				
+12	3	fb:cell.gus	Gus	gus	Gus	NNP	O					Gus
+12	4	fb:cell._eros_in_the_upper_eighties	"Eros in the Upper Eighties"	``|eros|in|the|upper|eighties|''	``|Eros|in|the|upper|eighty|''	``|NNP|IN|DT|JJ|NNS|''	O|O|O|O|O|SET|O	||||||				"Eros in the Upper Eighties"
+12	5	fb:cell.null										
+13	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+13	1	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+13	2	fb:cell.the_big_gay_sketch_show	The Big Gay Sketch Show	the|big|gay|sketch|show	the|big|gay|sketch|show	DT|JJ|JJ|NN|NN	O|O|O|O|O	||||				
+13	3	fb:cell.null										
+13	4	fb:cell.null										
+13	5	fb:cell.8_episodes_16_episodes_total	8 episodes; 16 episodes total	8|episodes|;|16|episodes|total	8|episode|;|16|episode|total	CD|NNS|:|CD|NNS|VBP	NUMBER|O|O|NUMBER|O|O	8.0|||16.0||	8.0		16.0	
+14	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+14	1	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+14	2	fb:cell.law_order	Law & Order	law|&|order	Law|&|Order	NNP|CC|NNP	PERSON|O|O	||				
+14	3	fb:cell.donnie	Donnie	donnie	Donnie	NNP	PERSON					Donnie
+14	4	fb:cell._sweetie	"Sweetie"	``|sweetie|''	``|Sweetie|''	``|NNP|''	O|O|O	||				"Sweetie"
+14	5	fb:cell.2_episodes_total	2 episodes total	2|episodes|total	2|episode|total	CD|NNS|VBP	NUMBER|O|O	2.0||	2.0			
+15	0	fb:cell.film	Film	film	film	NN	O					
+15	1	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+15	2	fb:cell.miracle_at_st_anna	Miracle at St. Anna	miracle|at|st.|anna	miracle|at|St.|Anna	NN|IN|NNP|NNP	O|O|PERSON|PERSON	|||				
+15	3	fb:cell.west_indian_postal_customer	West Indian Postal Customer	west|indian|postal|customer	West|Indian|Postal|customer	NNP|NNP|NNP|NN	O|O|O|O	|||				West Indian Postal Customer
+15	4	fb:cell.null										
+15	5	fb:cell.null										
+16	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+16	1	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+16	2	fb:cell.great_performances	Great Performances	great|performances	great|performance	JJ|NNS	O|O	|				
+16	3	fb:cell.mr_franklin_mr_venus_joop	Mr. Franklin/Mr. Venus/Joop	mr.|franklin/mr|.|venus/joop	Mr.|Franklin/Mr|.|venus/joop	NNP|NNP|.|NN	O|O|O|O	|||				Mr. Franklin|Mr. Venus|Joop
+16	4	fb:cell._passing_strange	"Passing Strange"	``|passing|strange|''	``|pass|strange|''	``|VBG|JJ|''	O|O|O|O	|||				"Passing Strange"
+16	5	fb:cell.musical_telecast	musical telecast	musical|telecast	musical|telecast	JJ|NN	O|O	|				
+17	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+17	1	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+17	2	fb:cell.the_big_gay_sketch_show	The Big Gay Sketch Show	the|big|gay|sketch|show	the|big|gay|sketch|show	DT|JJ|JJ|NN|NN	O|O|O|O|O	||||				
+17	3	fb:cell.null										
+17	4	fb:cell.null										
+17	5	fb:cell.8_episodes_16_episodes_total	8 episodes; 16 episodes total	8|episodes|;|16|episodes|total	8|episode|;|16|episode|total	CD|NNS|:|CD|NNS|VBP	NUMBER|O|O|NUMBER|O|O	8.0|||16.0||	8.0		16.0	
+18	0	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+18	1	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+18	2	fb:cell.law_order_criminal_intent	Law & Order: Criminal Intent	law|&|order|:|criminal|intent	Law|&|Order|:|criminal|intent	NNP|CC|NNP|:|JJ|NN	PERSON|O|O|O|O|O	|||||				
+18	3	fb:cell.andre_lanier	Andre Lanier	andre|lanier	Andre|Lanier	NNP|NNP	PERSON|PERSON	|				Andre Lanier
+18	4	fb:cell._love_sick	"Love Sick"	``|love|sick|''	``|love|sick|''	``|NN|JJ|''	O|O|O|O	|||				"Love Sick"
+18	5	fb:cell.2_episodes_total	2 episodes total	2|episodes|total	2|episode|total	CD|NNS|VBP	NUMBER|O|O	2.0||	2.0			
+19	0	fb:cell.film	Film	film	film	NN	O					
+19	1	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+19	2	fb:cell.lincoln	Lincoln	lincoln	Lincoln	NNP	PERSON					
+19	3	fb:cell.private_harold_green	Private Harold Green	private|harold|green	private|Harold|Green	JJ|NNP|NNP	O|PERSON|PERSON	||				Private Harold Green
+19	4	fb:cell.null										
+19	5	fb:cell.null										
+20	0	fb:cell.film	Film	film	film	NN	O					
+20	1	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+20	2	fb:cell.red_hook_summer	Red Hook Summer	red|hook|summer	red|hook|summer	JJ|NN|NN	O|O|DATE	||XXXX-SU				
+20	3	fb:cell.blessing_rowe	Blessing Rowe	blessing|rowe	blessing|Rowe	NN|NNP	O|PERSON	|				Blessing Rowe
+20	4	fb:cell.null										
+20	5	fb:cell.null										
+21	0	fb:cell.film	Film	film	film	NN	O					
+21	1	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+21	2	fb:cell.42	42	42	42	CD	NUMBER	42.0	42.0			
+21	3	fb:cell.lawson_bowman	Lawson Bowman	lawson|bowman	Lawson|Bowman	NNP|NNP	PERSON|PERSON	|				Lawson Bowman
+21	4	fb:cell.null										
+21	5	fb:cell.null										
+22	0	fb:cell.film	Film	film	film	NN	O					
+22	1	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+22	2	fb:cell.hairbrained	HairBrained	hairbrained	hairbrained	JJ	O					
+22	3	fb:cell.finals_moderator	Finals Moderator	finals|moderator	final|moderator	NNS|NN	O|O	|				Finals Moderator
+22	4	fb:cell.null										
+22	5	fb:cell.null										
+23	0	fb:cell.film	Film	film	film	NN	O					
+23	1	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+23	2	fb:cell.the_butler	The Butler	the|butler	the|Butler	DT|NNP	O|PERSON	|				
+23	3	fb:cell.freddie_fallows	Freddie Fallows	freddie|fallows	Freddie|Fallows	NNP|NNP	PERSON|PERSON	|				Freddie Fallows
+23	4	fb:cell.null										
+23	5	fb:cell.null										
+24	0	fb:cell.film	Film	film	film	NN	O					
+24	1	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+24	2	fb:cell.400_boys	400 Boys	400|boys	400|boy	CD|NNS	NUMBER|O	400.0|	400.0			
+24	3	fb:cell.talon	Talon	talon	Talon	NNP	PERSON					Talon
+24	4	fb:cell.null										
+24	5	fb:cell.null										

@@ -1,0 +1,153 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.film	Film	film	film	NN	O					
+-1	2	fb:row.row.role	Role	role	role	NN	O					
+-1	3	fb:row.row.other_notes	Other notes	other|notes	other|note	JJ|NNS	O|O	|				
+0	0	fb:cell.1985	1985	1985	1985	CD	DATE	1985	1985.0	1985-xx-xx		
+0	1	fb:cell.king_david	King David	king|david	King|David	NNP|NNP	O|PERSON	|				King David
+0	2	fb:cell.tamar	Tamar	tamar	Tamar	NNP	PERSON					Tamar
+0	3	fb:cell.null										
+1	0	fb:cell.1985	1985	1985	1985	CD	DATE	1985	1985.0	1985-xx-xx		
+1	1	fb:cell.mussolini_the_untold_story	Mussolini: The Untold Story	mussolini|:|the|untold|story	Mussolini|:|the|untold|story	NNP|:|DT|JJ|NN	PERSON|O|O|O|O	||||				Mussolini: The Untold Story
+1	2	fb:cell.gina_ruberti	Gina Ruberti	gina|ruberti	Gina|Ruberti	NNP|NNP	PERSON|PERSON	|				Gina Ruberti
+1	3	fb:cell._television_mini_series	(television mini-series)	-lrb-|television|mini|series|-rrb-	-lrb-|television|minus|series|-rrb-	-LRB-|NN|NNS|NN|-RRB-	O|O|MISC|MISC|O	||||				(television mini-series)
+2	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+2	1	fb:cell.secret_friends	Secret Friends	secret|friends	secret|friend	JJ|NNS	O|O	|				Secret Friends
+2	2	fb:cell.helen	Helen	helen	Helen	NNP	PERSON					Helen
+2	3	fb:cell.null										
+3	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+3	1	fb:cell.vsetko_co_mam_rad	Vsetko co mam rad	vsetko|co|mam|rad	Vsetko|co|mam|rad	NNP|NNP|NNP|NN	PERSON|PERSON|PERSON|PERSON	|||				Vsetko co mam rad
+3	2	fb:cell.ann	Ann	ann	Ann	NNP	PERSON					Ann
+3	3	fb:cell.null										
+4	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+4	1	fb:cell.leon_the_pig_farmer	Leon the Pig Farmer	leon|the|pig|farmer	Leon|the|pig|farmer	NNP|DT|NN|NN	PERSON|PERSON|PERSON|PERSON	|||				Leon the Pig Farmer
+4	2	fb:cell.lisa	Lisa	lisa	Lisa	NNP	PERSON					Lisa
+4	3	fb:cell.null										
+5	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+5	1	fb:cell.horse_opera	Horse Opera	horse|opera	horse|opera	NN|NN	O|O	|				Horse Opera
+5	2	fb:cell.sandra_marion	Sandra/Marion	sandra/marion	sandra/marion	NN	O					Sandra|Marion
+5	3	fb:cell.null										
+6	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+6	1	fb:cell.silent_trigger	Silent Trigger	silent|trigger	silent|trigger	JJ|NN	O|O	|				Silent Trigger
+6	2	fb:cell.clegg_spotter	Clegg (Spotter)	clegg|-lrb-|spotter|-rrb-	Clegg|-lrb-|spotter|-rrb-	NNP|-LRB-|NN|-RRB-	PERSON|O|O|O	|||				Clegg (Spotter)
+6	3	fb:cell.null										
+7	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+7	1	fb:cell.david	David	david	David	NNP	PERSON					David
+7	2	fb:cell.michal	Michal	michal	Michal	NNP	PERSON					Michal
+7	3	fb:cell._television_film	(television film)	-lrb-|television|film|-rrb-	-lrb-|television|film|-rrb-	-LRB-|NN|NN|-RRB-	O|O|O|O	|||				(television film)
+8	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+8	1	fb:cell.ted_ralph	Ted & Ralph	ted|&|ralph	Ted|&|Ralph	NNP|CC|NNP	O|O|PERSON	||				Ted & Ralph
+8	2	fb:cell.henrietta_spain	Henrietta Spain	henrietta|spain	Henrietta|Spain	NNP|NNP	PERSON|PERSON	|				Henrietta Spain
+8	3	fb:cell.null										
+9	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+9	1	fb:cell.paranoid	Paranoid	paranoid	paranoid	JJ	O					Paranoid
+9	2	fb:cell.eve	Eve	eve	Eve	NNP	O					Eve
+9	3	fb:cell.null										
+10	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+10	1	fb:cell.seven_days_to_live	Seven Days to Live	seven|days|to|live	seven|day|to|live	CD|NNS|TO|VB	DURATION|DURATION|O|O	P7D|P7D||				Seven Days to Live
+10	2	fb:cell.claudia	Claudia	claudia	Claudia	NNP	PERSON					Claudia
+10	3	fb:cell.null										
+11	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+11	1	fb:cell.subterrain	Subterrain	subterrain	subterrain	NN	O					Subterrain
+11	2	fb:cell.junkie_spirit	Junkie Spirit	junkie|spirit	junkie|spirit	NN|NN	O|O	|				Junkie Spirit
+11	3	fb:cell.null										
+12	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+12	1	fb:cell.married_unmarried	Married/Unmarried	married/unmarried	married/unmarried	VBN	O					Married|Unmarried
+12	2	fb:cell.amanda	Amanda	amanda	Amanda	NNP	PERSON					Amanda
+12	3	fb:cell.null										
+13	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+13	1	fb:cell.sitting_ducks	Sitting Ducks	sitting|ducks	sit|duck	VBG|NNS	O|O	|				Sitting Ducks
+13	2	fb:cell.christine	Christine	christine	Christine	NNP	PERSON					Christine
+13	3	fb:cell.null										
+14	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+14	1	fb:cell.zerophilia	Zerophilia	zerophilia	Zerophilia	NNP	PERSON					Zerophilia
+14	2	fb:cell.sydney	Sydney	sydney	Sydney	NNP	LOCATION					Sydney
+14	3	fb:cell.null										
+15	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+15	1	fb:cell.permanent_vacation	Permanent Vacation	permanent|vacation	permanent|vacation	JJ|NN	O|O	|				Permanent Vacation
+15	2	fb:cell.kathleen_bury	Kathleen Bury	kathleen|bury	Kathleen|bury	NNP|VB	PERSON|PERSON	|				Kathleen Bury
+15	3	fb:cell.null										
+16	0	fb:cell.year	Year	year	year	NN	DURATION	P1Y				
+16	1	fb:cell.title	Title	title	title	NN	O					Title
+16	2	fb:cell.role	Role	role	role	NN	O					Role
+16	3	fb:cell.notes	Notes	notes	note	NNS	O					Notes
+17	0	fb:cell.1982	1982	1982	1982	CD	DATE	1982	1982.0	1982-xx-xx		
+17	1	fb:cell.into_the_labyrinth	Into the Labyrinth	into|the|labyrinth	into|the|labyrinth	IN|DT|NN	O|O|O	||				Into the Labyrinth
+17	2	fb:cell.christine	Christine	christine	Christine	NNP	PERSON					Christine
+17	3	fb:cell.episode_phantom	Episode: Phantom	episode|:|phantom	episode|:|phantom	NN|:|JJ	O|O|O	||				Episode: Phantom
+18	0	fb:cell.1984	1984	1984	1984	CD	DATE	1984	1984.0	1984-xx-xx		
+18	1	fb:cell.grange_hill	Grange Hill	grange|hill	Grange|Hill	NNP|NNP	PERSON|PERSON	|				Grange Hill
+18	2	fb:cell.trudy	Trudy	trudy	Trudy	NNP	PERSON					Trudy
+18	3	fb:cell.episode_7_8_episode_7_9	Episode: 7.8\nEpisode: 7.9	episode|:|7.8|episode|:|7.9	episode|:|7.8|episode|:|7.9	NN|:|CD|NN|:|CD	O|O|NUMBER|O|O|NUMBER	||7.8|||7.9	7.8		7.9	Episode: 7.8|Episode: 7.9
+19	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+19	1	fb:cell.only_fools_and_horses	Only Fools and Horses	only|fools|and|horses	only|fool|and|horse	RB|NNS|CC|NNS	O|O|O|O	|||				Only Fools and Horses
+19	2	fb:cell.carmen	Carmen	carmen	Carmen	NNP	PERSON					Carmen
+19	3	fb:cell.episode_the_unlucky_winner_is	Episode: The Unlucky Winner Is...	episode|:|the|unlucky|winner|is|...	episode|:|the|unlucky|winner|be|...	NN|:|DT|JJ|NN|VBD-AUX|:	O|O|O|O|O|O|O	||||||				Episode: The Unlucky Winner Is...
+20	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+20	1	fb:cell.screen_two	Screen Two	screen|two	screen|two	NN|CD	O|NUMBER	|2.0				Screen Two
+20	2	fb:cell.greta	Greta	greta	Greta	NNP	PERSON					Greta
+20	3	fb:cell.episode_sitting_targets	Episode: Sitting Targets	episode|:|sitting|targets	episode|:|sit|target	NN|:|VBG|NNS	O|O|O|O	|||				Episode: Sitting Targets
+21	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+21	1	fb:cell.blackeyes	Blackeyes	blackeyes	Blackeyes	NNPS	PERSON					Blackeyes
+21	2	fb:cell.blackeyes	Blackeyes	blackeyes	Blackeyes	NNPS	PERSON					Blackeyes
+21	3	fb:cell.episode_1_1_episode_1_2_episode_1_3_episode_1_4	Episode 1.1\nEpisode 1.2\nEpisode 1.3\nEpisode 1.4	episode|1.1|episode|1.2|episode|1.3|episode|1.4	episode|1.1|episode|1.2|episode|1.3|episode|1.4	NN|CD|NN|CD|NN|CD|NN|CD	O|NUMBER|O|NUMBER|O|NUMBER|O|NUMBER	|1.1||1.2||1.3||1.4	1.1		1.2	Episode 1.1|Episode 1.2|Episode 1.3|Episode 1.4
+22	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+22	1	fb:cell.the_storyteller	The Storyteller	the|storyteller	the|storyteller	DT|NN	O|O	|				The Storyteller
+22	2	fb:cell.eurydice	Eurydice	eurydice	Eurydice	NNP	O					Eurydice
+22	3	fb:cell.episode_orpheus_and_eurydice_live_action_puppet_television_series	Episode: Orpheus and Eurydice (live-action puppet television series)	episode|:|orpheus|and|eurydice|-lrb-|live|action|puppet|television|series|-rrb-	episode|:|Orpheus|and|Eurydice|-lrb-|live|action|puppet|television|series|-rrb-	NN|:|NNP|CC|NNP|-LRB-|JJ|NN|NN|NN|NN|-RRB-	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||				Episode: Orpheus and Eurydice (live-action puppet television series)
+23	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+23	1	fb:cell.little_napoleons	Little Napoleons	little|napoleons	little|napoleon	JJ|NNS	O|O	|				Little Napoleons
+23	2	fb:cell.liz_blakemore	Liz Blakemore	liz|blakemore	Liz|Blakemore	NNP|NNP	PERSON|PERSON	|				Liz Blakemore
+23	3	fb:cell.episode_the_big_interview	Episode: The Big Interview	episode|:|the|big|interview	episode|:|the|big|interview	NN|:|DT|JJ|NN	O|O|O|O|O	||||				Episode: The Big Interview
+24	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+24	1	fb:cell.scene	Scene	scene	scene	NN	O					Scene
+24	2	fb:cell.athene_nike_trainer	Athene Nike/Trainer	athene|nike/trainer	Athene|Nike/Trainer	NNP|NNP	PERSON|PERSON	|				Athene Nike|Trainer
+24	3	fb:cell.episode_young_jung	Episode: Young Jung	episode|:|young|jung	episode|:|young|Jung	NN|:|JJ|NNP	O|O|PERSON|PERSON	|||				Episode: Young Jung
+25	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+25	1	fb:cell.sharman	Sharman	sharman	Sharman	NNP	PERSON					Sharman
+25	2	fb:cell.kiki	Kiki	kiki	Kiki	NNP	PERSON					Kiki
+25	3	fb:cell.episode_1_1	Episode 1.1	episode|1.1	episode|1.1	NN|CD	O|NUMBER	|1.1	1.1			Episode 1.1
+26	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+26	1	fb:cell.jonathan_creek	Jonathan Creek	jonathan|creek	Jonathan|Creek	NNP|NNP	PERSON|PERSON	|				Jonathan Creek
+26	2	fb:cell.samantha	Samantha	samantha	Samantha	NNP	PERSON					Samantha
+26	3	fb:cell.episode_ghost_s_forge	Episode: Ghost's Forge	episode|:|ghost|'s|forge	episode|:|ghost|'s|Forge	NN|:|NN|POS|NNP	O|O|O|O|O	||||				Episode: Ghost's Forge
+27	0	fb:cell.2000_2004	2000–2004	2000|--|2004	2000|--|2004	CD|:|CD	DATE|O|DATE	2000||2004	2000.0		2004.0	
+27	1	fb:cell.coupling	Coupling	coupling	coupling	NN	O					Coupling
+27	2	fb:cell.jane_christie	Jane Christie	jane|christie	Jane|Christie	NNP|NNP	PERSON|PERSON	|				Jane Christie
+27	3	fb:cell.28_episodes	28 episodes	28|episodes	28|episode	CD|NNS	NUMBER|O	28.0|	28.0			28 episodes
+28	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+28	1	fb:cell.waking_the_dead	Waking the Dead	waking|the|dead	wake|the|dead	VBG|DT|JJ	O|O|O	||				Waking the Dead
+28	2	fb:cell.frannie_henning	Frannie Henning	frannie|henning	Frannie|Henning	NNP|NNP	PERSON|PERSON	|				Frannie Henning
+28	3	fb:cell.episode_final_cut_part_1_episode_final_cut_part_2	Episode: Final Cut: Part 1\nEpisode: Final Cut: Part 2	episode|:|final|cut|:|part|1|episode|:|final|cut|:|part|2	episode|:|final|cut|:|part|1|episode|:|final|cut|:|part|2	NN|:|JJ|NN|:|NN|CD|NN|:|JJ|NN|:|NN|CD	O|O|O|O|O|O|NUMBER|O|O|O|O|O|O|NUMBER	||||||1.0|||||||2.0	1.0		2.0	Episode: Final Cut: Part 1|Episode: Final Cut: Part 2
+29	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+29	1	fb:cell.the_last_detective	The Last Detective	the|last|detective	the|last|detective	DT|JJ|NN	O|O|O	||				The Last Detective
+29	2	fb:cell.caroline	Caroline	caroline	Caroline	NNP	PERSON					Caroline
+29	3	fb:cell.episode_friends_reunited	Episode: Friends Reunited	episode|:|friends|reunited	episode|:|friend|reunite	NN|:|NNS|VBD	O|O|O|O	|||				Episode: Friends Reunited
+30	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+30	1	fb:cell.hotel_babylon	Hotel Babylon	hotel|babylon	hotel|babylon	NN|NN	O|O	|				Hotel Babylon
+30	2	fb:cell.marina_stoll	Marina Stoll	marina|stoll	Marina|Stoll	NNP|NNP	PERSON|PERSON	|				Marina Stoll
+30	3	fb:cell.episode_2_2_bbc_television_drama	Episode: 2.2 (BBC television drama)	episode|:|2.2|-lrb-|bbc|television|drama|-rrb-	episode|:|2.2|-lrb-|BBC|television|drama|-rrb-	NN|:|CD|-LRB-|NNP|NNP|NN|-RRB-	O|O|NUMBER|O|ORGANIZATION|O|O|O	||2.2|||||	2.2			Episode: 2.2 (BBC television drama)
+31	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+31	1	fb:cell.jekyll	Jekyll	jekyll	Jekyll	NNP	PERSON					Jekyll
+31	2	fb:cell.claire_jackman	Claire Jackman	claire|jackman	Claire|Jackman	NNP|NNP	PERSON|PERSON	|				Claire Jackman
+31	3	fb:cell.episode_1_1_episode_1_2_episode_1_3_episode_1_4_episode_1_5_episode_hyde	Episode: 1.1\nEpisode: 1.2\nEpisode: 1.3\nEpisode: 1.4\nEpisode: 1.5\nEpisode: Hyde	episode|:|1.1|episode|:|1.2|episode|:|1.3|episode|:|1.4|episode|:|1.5|episode|:|hyde	episode|:|1.1|episode|:|1.2|episode|:|1.3|episode|:|1.4|episode|:|1.5|episode|:|Hyde	NN|:|CD|NN|:|CD|NN|:|CD|NN|:|CD|NN|:|CD|NN|:|NNP	O|O|NUMBER|O|O|NUMBER|O|O|NUMBER|O|O|NUMBER|O|O|NUMBER|O|O|PERSON	||1.1|||1.2|||1.3|||1.4|||1.5|||	1.1		1.2	Episode: 1.1|Episode: 1.2|Episode: 1.3|Episode: 1.4|Episode: 1.5|Episode: Hyde
+32	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+32	1	fb:cell.nearly_famous	Nearly Famous	nearly|famous	nearly|famous	RB|JJ	O|O	|				Nearly Famous
+32	2	fb:cell.traci_reed	Traci Reed	traci|reed	Traci|Reed	NNP|NNP	PERSON|PERSON	|				Traci Reed
+32	3	fb:cell.episode_1_1_episode_1_2_episode_1_4	Episode: 1.1\nEpisode: 1.2\nEpisode: 1.4	episode|:|1.1|episode|:|1.2|episode|:|1.4	episode|:|1.1|episode|:|1.2|episode|:|1.4	NN|:|CD|NN|:|CD|NN|:|CD	O|O|NUMBER|O|O|NUMBER|O|O|NUMBER	||1.1|||1.2|||1.4	1.1		1.2	Episode: 1.1|Episode: 1.2|Episode: 1.4
+33	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+33	1	fb:cell.heroes_and_villains	Heroes and Villains	heroes|and|villains	hero|and|villain	NNS|CC|NNS	O|O|O	||				Heroes and Villains
+33	2	fb:cell.catherine_carteaux	Catherine Carteaux	catherine|carteaux	Catherine|Carteaux	NNP|NNP	PERSON|PERSON	|				Catherine Carteaux
+33	3	fb:cell.episode_napoleon_television_docudrama	Episode: Napoleon (television docudrama)	episode|:|napoleon|-lrb-|television|docudrama|-rrb-	episode|:|Napoleon|-lrb-|television|docudrama|-rrb-	NN|:|NNP|-LRB-|NN|NN|-RRB-	O|O|PERSON|O|O|O|O	||||||				Episode: Napoleon (television docudrama)
+34	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+34	1	fb:cell.the_wrong_door	The Wrong Door	the|wrong|door	the|wrong|door	DT|JJ|NN	O|O|O	||				The Wrong Door
+34	2	fb:cell.pilot_instructor_jill	Pilot Instructor/Jill	pilot|instructor/jill	pilot|instructor/jill	NN|NN	O|O	|				Pilot Instructor|Jill
+34	3	fb:cell.episode_njarnia_episode_the_smutty_aliens	Episode: Njarnia\nEpisode: The Smutty Aliens	episode|:|njarnia|episode|:|the|smutty|aliens	episode|:|Njarnia|episode|:|the|smutty|alien	NN|:|NNP|NN|:|DT|JJ|NNS	O|O|O|O|O|O|O|O	|||||||				Episode: Njarnia|Episode: The Smutty Aliens
+35	0	fb:cell.2008_2012	2008–2012	2008|--|2012	2008|--|2012	CD|:|CD	DATE|O|DATE	2008||2012	2008.0		2012.0	
+35	1	fb:cell.leverage	Leverage	leverage	leverage	NN	O					Leverage
+35	2	fb:cell.sophie_devereaux	Sophie Devereaux	sophie|devereaux	Sophie|Devereaux	NNP|NNP	PERSON|PERSON	|				Sophie Devereaux
+35	3	fb:cell.72_episodes	72 episodes	72|episodes	72|episode	CD|NNS	NUMBER|O	72.0|	72.0			72 episodes
+36	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+36	1	fb:cell.ripper_street	Ripper Street	ripper|street	Ripper|Street	NNP|NNP	O|O	|				Ripper Street
+36	2	fb:cell.jemima_swann	Jemima Swann	jemima|swann	Jemima|Swann	NNP|NNP	PERSON|PERSON	|				Jemima Swann
+36	3	fb:cell.series_2_episode_6	Series 2, episode 6	series|2|,|episode|6	Series|2|,|episode|6	NNP|CD|,|NN|CD	O|NUMBER|O|O|NUMBER	|2.0|||6.0	2.0		6.0	Series 2|episode 6

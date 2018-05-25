@@ -1,0 +1,22 @@
+Station,Type,Latitude,Longitude,El. (m),Opened,Closed,Coordinates
+"Mount Wilson, California",Solar,34o13'N,118o56'W,1737,1908,1920,34deg13'S 118deg56'W / 34.217degS 118.933degW
+"Hump Mountain, North Carolina",Solar,36o8'N,82o0'W,1500,1917,1918,36deg8'N 82deg0'W / 36.133degN 82.000degW
+"Calama, Chile",Solar,22o28'S,68o56'W,2250,1918,1920,22deg28'S 68deg56'W / 22.467degS 68.933degW
+"Mount Montezuma, Chile",Solar,22o40'S,68o56'W,2711,1920,?,22deg40'S 68deg56'W / 22.667degS 68.933degW
+"Mount Harquahala, Arizona",Solar,33o48'N,113o20'W,1721,1920,1925,33deg48'N 113deg20'W / 33.800degN 113.333degW
+"Table Mountain, California",Solar,34o22'N,117o41'W,2286,1925,1962,34deg22'N 117deg41'W / 34.367degN 117.683degW
+"Mount Brukkaros, Namibia",Solar,25o52'S,17o48'E,1586,1926,1931,25deg52'S 17deg48'E / 25.867degS 17.800degE
+"Mount Saint Catherine, Egypt",Solar,28o31'N,33o56'E,2591,1934,1937,28deg31'N 33deg56'E / 28.517degN 33.933degE
+"Burro Mountain, New Mexico",Solar,32o40'N,108o33'W,2440,1938,1946,32deg40'N 108deg33'W / 32.667degN 108.550degW
+"Organ Pass, New Mexico",Space Track,32o25'N,253o27'E,,,,32deg25'N 106deg33'W / 32.417degN 106.550degW
+"Olifantsfontein, South Africa",Space Track,25o58'S,28o15'E,,,,25deg58'S 28deg15'E / 25.967degS 28.250degE
+"Woomera, Australia",Space Track,31o06'S,136o46'E,,,,31deg06'S 136deg46'E / 31.100degS 136.767degE
+"Cadiz, Spain",Space Track,36o28'N,353o48'E,,,,36deg28'N 6deg12'W / 36.467degN 6.200degW
+"Shiraz, Iran",Space Track,29o38'N,52o31'E,,,,29deg38'N 52deg31'E / 29.633degN 52.517degE
+"Curacao, Netherlands West Indies",Space Track,12o05'N,291o10'E,,,,12deg05'N 68deg50'W / 12.083degN 68.833degW
+"Jupiter, Florida",Space Track,27o01'N,279o53'E,,,,27deg01'N 80deg07'W / 27.017degN 80.117degW
+"Haleakala, Hawaii",Space Track,20o43'N,203o45'E,,,,20deg43'N 156deg15'W / 20.717degN 156.250degW
+"Villa Dolores, Argentina",Space Track,31o57'N,294o54'E,,,,31deg57'N 65deg06'E / 31.950degN 65.100degE
+"Mitaka, Japan",Space Track,,,,,,
+"Nani Tal, India",Space Track,,,,,,
+"Arequipa, Peru","Solar, Space Track",,,,,,

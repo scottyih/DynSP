@@ -1,0 +1,56 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.name	Name	name	name	NN	O					
+-1	1	fb:row.row.japanese	Japanese	japanese	Japanese	NNPS	MISC					
+-1	2	fb:row.row.distance_km	Distance\n(km)	distance|-lrb-|km|-rrb-	distance|-lrb-|km|-rrb-	NN|-LRB-|NN|-RRB-	O|O|O|O	|||				
+-1	3	fb:row.row.connections	Connections	connections	Connections	NNP	O					
+-1	4	fb:row.row.location	Location	location	location	NN	O					
+0	0	fb:cell.okayama	Okayama	okayama	Okayama	NNP	LOCATION					
+0	1	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+0	2	fb:cell.0_0	0.0	0.0	0.0	CD	NUMBER	0.0	0.0			
+0	3	fb:cell.sanyo_shinkansen_sanyo_main_line_ako_line_hakubi_line_uno_line_seto_ohashi_line_tsuyama_line_okayama_electric_tramway_higashiyama_line_seikibashi_line	Sanyō Shinkansen, Sanyō Main Line, Akō Line, Hakubi Line, Uno Line (Seto-Ōhashi Line), Tsuyama Line\nOkayama Electric Tramway: Higashiyama Line, Seikibashi Line	sanyō|shinkansen|,|sanyō|main|line|,|akō|line|,|hakubi|line|,|uno|line|-lrb-|seto|ōhashi|line|-rrb-|,|tsuyama|line|okayama|electric|tramway|:|higashiyama|line|,|seikibashi|line	Sanyō|Shinkansen|,|Sanyō|Main|line|,|Akō|line|,|Hakubi|line|,|Uno|line|-lrb-|seto|ōhashi|line|-rrb-|,|Tsuyama|Line|Okayama|Electric|Tramway|:|Higashiyama|Line|,|Seikibashi|Line	NNP|NNP|,|NNP|NNP|NN|,|NNP|NN|,|NNP|NN|,|NNP|NN|-LRB-|NN|NN|NN|-RRB-|,|NNP|NNP|NNP|NNP|NNP|:|NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|PERSON|O|O|O|O	|||||||||||||||||||||||||||||||				Sanyō Shinkansen|Sanyō Main Line|Akō Line|Hakubi Line|Uno Line (Seto-Ōhashi Line)|Tsuyama Line|Okayama Electric Tramway: Higashiyama Line|Seikibashi Line
+0	4	fb:cell.kita_ku_okayama	Kita-ku, Okayama	kita|ku|,|okayama	Kita|ku|,|Okayama	NNP|NNP|,|NNP	PERSON|PERSON|O|LOCATION	|||				Kita-ku|Okayama
+1	0	fb:cell.bizen_mikado	Bizen-Mikado	bizen|mikado	Bizen|Mikado	NNP|NNP	PERSON|PERSON	|				
+1	1	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+1	2	fb:cell.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9			
+1	3	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+1	4	fb:cell.kita_ku_okayama	Kita-ku, Okayama	kita|ku|,|okayama	Kita|ku|,|Okayama	NNP|NNP|,|NNP	PERSON|PERSON|O|LOCATION	|||				Kita-ku|Okayama
+2	0	fb:cell.daianji	Daianji	daianji	Daianji	NNP	PERSON					
+2	1	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+2	2	fb:cell.3_3	3.3	3.3	3.3	CD	NUMBER	3.3	3.3			
+2	3	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+2	4	fb:cell.kita_ku_okayama	Kita-ku, Okayama	kita|ku|,|okayama	Kita|ku|,|Okayama	NNP|NNP|,|NNP	PERSON|PERSON|O|LOCATION	|||				Kita-ku|Okayama
+3	0	fb:cell.bizen_ichinomiya	Bizen-Ichinomiya	bizen|ichinomiya	bizen|ichinomiya	NN|NN	PERSON|PERSON	|				
+3	1	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+3	2	fb:cell.6_5	6.5	6.5	6.5	CD	NUMBER	6.5	6.5			
+3	3	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+3	4	fb:cell.kita_ku_okayama	Kita-ku, Okayama	kita|ku|,|okayama	Kita|ku|,|Okayama	NNP|NNP|,|NNP	PERSON|PERSON|O|LOCATION	|||				Kita-ku|Okayama
+4	0	fb:cell.kibitsu	Kibitsu	kibitsu	kibitsu	NN	PERSON					
+4	1	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+4	2	fb:cell.8_4	8.4	8.4	8.4	CD	NUMBER	8.4	8.4			
+4	3	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+4	4	fb:cell.kita_ku_okayama	Kita-ku, Okayama	kita|ku|,|okayama	Kita|ku|,|Okayama	NNP|NNP|,|NNP	PERSON|PERSON|O|LOCATION	|||				Kita-ku|Okayama
+5	0	fb:cell.bitchu_takamatsu	Bitchū-Takamatsu	bitchū|takamatsu	Bitchū|Takamatsu	NNP|NNP	PERSON|PERSON	|				
+5	1	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+5	2	fb:cell.11_0	11.0	11.0	11.0	CD	NUMBER	11.0	11.0			
+5	3	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+5	4	fb:cell.kita_ku_okayama	Kita-ku, Okayama	kita|ku|,|okayama	Kita|ku|,|Okayama	NNP|NNP|,|NNP	PERSON|PERSON|O|LOCATION	|||				Kita-ku|Okayama
+6	0	fb:cell.ashimori	Ashimori	ashimori	Ashimori	NNP	PERSON					
+6	1	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+6	2	fb:cell.13_4	13.4	13.4	13.4	CD	NUMBER	13.4	13.4			
+6	3	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+6	4	fb:cell.kita_ku_okayama	Kita-ku, Okayama	kita|ku|,|okayama	Kita|ku|,|Okayama	NNP|NNP|,|NNP	PERSON|PERSON|O|LOCATION	|||				Kita-ku|Okayama
+7	0	fb:cell.hattori	Hattori	hattori	Hattori	NNP	PERSON					
+7	1	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+7	2	fb:cell.16_2	16.2	16.2	16.2	CD	NUMBER	16.2	16.2			
+7	3	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+7	4	fb:cell.soja	Sōja	sōja	sōja	NN	PERSON					Sōja
+8	0	fb:cell.higashi_soja	Higashi-Sōja	higashi|sōja	Higashi|Sōja	NNP|NNP	PERSON|PERSON	|				
+8	1	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+8	2	fb:cell.18_8	18.8	18.8	18.8	CD	NUMBER	18.8	18.8			
+8	3	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+8	4	fb:cell.soja	Sōja	sōja	sōja	NN	PERSON					Sōja
+9	0	fb:cell.soja	Sōja	sōja	sōja	NN	PERSON					Sōja
+9	1	fb:cell.null	岡山	岡山	岡山	NN	O					岡山
+9	2	fb:cell.20_4	20.4	20.4	20.4	CD	NUMBER	20.4	20.4			
+9	3	fb:cell.hakubi_line_ibara_railway_ibara_line	Hakubi Line\nIbara Railway Ibara Line	hakubi|line|ibara|railway|ibara|line	Hakubi|Line|Ibara|Railway|Ibara|line	NNP|NNP|NNP|NNP|NNP|NN	LOCATION|LOCATION|LOCATION|LOCATION|LOCATION|O	|||||				Hakubi Line|Ibara Railway Ibara Line
+9	4	fb:cell.soja	Sōja	sōja	sōja	NN	PERSON					Sōja

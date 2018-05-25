@@ -1,0 +1,86 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.null	#	#	#	#	O					
+-1	1	fb:row.row.title	Title	title	title	NN	O					
+-1	2	fb:row.row.songwriters	Songwriters	songwriters	songwriter	NNS	O					
+-1	3	fb:row.row.producer_s	Producer(s)	producer|-lrb-|s|-rrb-	producer|-lrb-|s|-rrb-	NN|-LRB-|NNS|-RRB-	O|O|O|O	|||				
+-1	4	fb:row.row.performer	Performer	performer	performer	NN	O					
+0	0	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+0	1	fb:cell._shalom_a_leck	"Shalom a Leck"	``|shalom|a|leck|''	``|shalom|a|leck|''	``|FW|DT|NN|''	O|O|O|O|O	||||				
+0	2	fb:cell.p_chapman_k_def	P. Chapman, K-Def	p.|chapman|,|k|def	P.|Chapman|,|K|Def	NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|O|O	||||				P. Chapman|K-Def
+0	3	fb:cell.k_def	K-Def	k|def	K|Def	NNP|NNP	O|O	|				K-Def
+0	4	fb:cell.tragedy	Tragedy	tragedy	tragedy	NN	O					Tragedy
+1	0	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+1	1	fb:cell._hoodlum_intro	"Hoodlum Intro"	``|hoodlum|intro|''	``|hoodlum|intro|''	``|NN|NN|''	O|O|O|O	|||				
+1	2	fb:cell.null										
+1	3	fb:cell.null										
+1	4	fb:cell._interlude	*Interlude*	*|interlude|*	*|interlude|*	SYM|NN|SYM	O|O|O	||				*Interlude*
+2	0	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+2	1	fb:cell._underground	"Underground"	``|underground|''	``|underground|''	``|JJ|''	O|O|O	||				
+2	2	fb:cell.p_chapman_k_def	P. Chapman, K-Def	p.|chapman|,|k|def	P.|Chapman|,|K|Def	NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|O|O	||||				P. Chapman|K-Def
+2	3	fb:cell.k_def	K-Def	k|def	K|Def	NNP|NNP	O|O	|				K-Def
+2	4	fb:cell.tragedy	Tragedy	tragedy	tragedy	NN	O					Tragedy
+3	0	fb:cell.4	4	4	4	CD	NUMBER	4.0	4.0			
+3	1	fb:cell._funk_mode	"Funk Mode"	``|funk|mode|''	``|Funk|Mode|''	``|NNP|NNP|''	O|O|O|O	|||				
+3	2	fb:cell.p_chapman_k_def	P. Chapman, K-Def	p.|chapman|,|k|def	P.|Chapman|,|K|Def	NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|O|O	||||				P. Chapman|K-Def
+3	3	fb:cell.k_def	K-Def	k|def	K|Def	NNP|NNP	O|O	|				K-Def
+3	4	fb:cell.tragedy	Tragedy	tragedy	tragedy	NN	O					Tragedy
+4	0	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+4	1	fb:cell._grand_groove	"Grand Groove"	``|grand|groove|''	``|Grand|groove|''	``|NNP|NN|''	O|O|O|O	|||				
+4	2	fb:cell.p_chapman_k_def	P. Chapman, K-Def	p.|chapman|,|k|def	P.|Chapman|,|K|Def	NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|O|O	||||				P. Chapman|K-Def
+4	3	fb:cell.k_def	K-Def	k|def	K|Def	NNP|NNP	O|O	|				K-Def
+4	4	fb:cell.tragedy	Tragedy	tragedy	tragedy	NN	O					Tragedy
+5	0	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+5	1	fb:cell._at_large	"At Large"	``|at|large|''	``|at|large|''	``|IN|JJ|''	O|O|O|O	|||				
+5	2	fb:cell.p_chapman_k_def_m_williams	P. Chapman, K-Def, M. Williams	p.|chapman|,|k|def|,|m.|williams	P.|Chapman|,|K|Def|,|M.|Williams	NNP|NNP|,|NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|O|O|O|PERSON|PERSON	|||||||				P. Chapman|K-Def|M. Williams
+5	3	fb:cell.k_def_marley_marl	K-Def, Marley Marl	k|def|,|marley|marl	K|Def|,|Marley|Marl	NNP|NNP|,|NNP|NNP	O|O|O|PERSON|PERSON	||||				K-Def|Marley Marl
+5	4	fb:cell.tragedy	Tragedy	tragedy	tragedy	NN	O					Tragedy
+6	0	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+6	1	fb:cell._death_row	"Death Row"	``|death|row|''	``|death|row|''	``|NN|NN|''	O|O|O|O	|||				
+6	2	fb:cell.p_chapman_k_def_m_williams	P. Chapman, K-Def, M. Williams	p.|chapman|,|k|def|,|m.|williams	P.|Chapman|,|K|Def|,|M.|Williams	NNP|NNP|,|NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|O|O|O|PERSON|PERSON	|||||||				P. Chapman|K-Def|M. Williams
+6	3	fb:cell.k_def_marley_marl	K-Def, Marley Marl	k|def|,|marley|marl	K|Def|,|Marley|Marl	NNP|NNP|,|NNP|NNP	O|O|O|PERSON|PERSON	||||				K-Def|Marley Marl
+6	4	fb:cell.tragedy	Tragedy	tragedy	tragedy	NN	O					Tragedy
+7	0	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+7	1	fb:cell._speech_check_the_time	"Speech [Check The Time]"	``|speech|-lsb-|check|the|time|-rsb-|''	``|speech|-lsb-|check|the|time|-rsb-|''	``|NN|-LRB-|VB|DT|NN|-RRB-|''	O|O|O|O|O|O|O|O	|||||||				
+7	2	fb:cell.null										
+7	3	fb:cell.kool_tee	Kool Tee	kool|tee	Kool|tee	NNP|NN	PERSON|PERSON	|				Kool Tee
+7	4	fb:cell._interlude	*Interlude*	*|interlude|*	*|interlude|*	SYM|NN|SYM	O|O|O	||				*Interlude*
+8	0	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+8	1	fb:cell._mad_brothas_know_his_name	"Mad Brothas Know His Name"	``|mad|brothas|know|his|name|''	``|mad|brotha|know|he|name|''	``|JJ|NNS|VBP|PRP$|NN|''	O|O|O|O|O|O|O	||||||				
+8	2	fb:cell.p_chapman_k_def_m_williams	P. Chapman, K-Def, M. Williams	p.|chapman|,|k|def|,|m.|williams	P.|Chapman|,|K|Def|,|M.|Williams	NNP|NNP|,|NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|O|O|O|PERSON|PERSON	|||||||				P. Chapman|K-Def|M. Williams
+8	3	fb:cell.k_def_marley_marl	K-Def, Marley Marl	k|def|,|marley|marl	K|Def|,|Marley|Marl	NNP|NNP|,|NNP|NNP	O|O|O|PERSON|PERSON	||||				K-Def|Marley Marl
+8	4	fb:cell.tragedy	Tragedy	tragedy	tragedy	NN	O					Tragedy
+9	0	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			
+9	1	fb:cell._pass_the_teck	"Pass the Teck"	``|pass|the|teck|''	``|pass|the|Teck|''	``|VB|DT|NNP|''	O|O|O|O|O	||||				
+9	2	fb:cell.p_chapman_k_def	P. Chapman, K-Def	p.|chapman|,|k|def	P.|Chapman|,|K|Def	NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|O|O	||||				P. Chapman|K-Def
+9	3	fb:cell.k_def	K-Def	k|def	K|Def	NNP|NNP	O|O	|				K-Def
+9	4	fb:cell.tragedy_havoc	Tragedy, Havoc	tragedy|,|havoc	tragedy|,|havoc	NN|,|NN	O|O|O	||				Tragedy|Havoc
+10	0	fb:cell.11	11	11	11	CD	NUMBER	11.0	11.0			
+10	1	fb:cell._street_life	"Street Life"	``|street|life|''	``|Street|Life|''	``|NNP|NNP|''	O|O|O|O	|||				
+10	2	fb:cell.p_chapman_epitome_of_scratch	P. Chapman, Epitome Of Scratch	p.|chapman|,|epitome|of|scratch	P.|Chapman|,|epitome|of|scratch	NNP|NNP|,|NN|IN|NN	PERSON|PERSON|O|O|O|O	|||||				P. Chapman|Epitome Of Scratch
+10	3	fb:cell.epitome_of_scratch	Epitome Of Scratch	epitome|of|scratch	epitome|of|scratch	NN|IN|NN	O|O|O	||				Epitome Of Scratch
+10	4	fb:cell.tragedy	Tragedy	tragedy	tragedy	NN	O					Tragedy
+11	0	fb:cell.12	12	12	12	CD	NUMBER	12.0	12.0			
+11	1	fb:cell._pump_the_funk	"Pump the Funk"	``|pump|the|funk|''	``|pump|the|Funk|''	``|VB|DT|NNP|''	O|O|O|O|O	||||				
+11	2	fb:cell.p_chapman_m_williams	P. Chapman, M. Williams	p.|chapman|,|m.|williams	P.|Chapman|,|M.|Williams	NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				P. Chapman|M. Williams
+11	3	fb:cell.marley_marl	Marley Marl	marley|marl	Marley|Marl	NNP|NNP	PERSON|PERSON	|				Marley Marl
+11	4	fb:cell.tragedy	Tragedy	tragedy	tragedy	NN	O					Tragedy
+12	0	fb:cell.13	13	13	13	CD	NUMBER	13.0	13.0			
+12	1	fb:cell._role_model	"Role Model"	``|role|model|''	``|role|model|''	``|NN|NN|''	O|O|O|O	|||				
+12	2	fb:cell.p_chapman_kool_tee	P. Chapman, Kool Tee	p.|chapman|,|kool|tee	P.|Chapman|,|Kool|tee	NNP|NNP|,|NNP|NN	PERSON|PERSON|O|PERSON|PERSON	||||				P. Chapman|Kool Tee
+12	3	fb:cell.kool_tee	Kool Tee	kool|tee	Kool|tee	NNP|NN	PERSON|PERSON	|				Kool Tee
+12	4	fb:cell.tragedy	Tragedy	tragedy	tragedy	NN	O					Tragedy
+13	0	fb:cell.14	14	14	14	CD	NUMBER	14.0	14.0			
+13	1	fb:cell._the_posse_shoot_em_up	"The Posse [Shoot ’Em Up]"	``|the|posse|-lsb-|shoot|’em|up|-rsb-|''	``|the|posse|-lsb-|shoot|’em|up|-rsb-|''	``|DT|NN|-LRB-|NN|NN|IN|-RRB-|''	O|O|O|O|O|O|O|O|O	||||||||				
+13	2	fb:cell.p_chapman_mr_freaknasti	P. Chapman, Mr. Freaknasti	p.|chapman|,|mr.|freaknasti	P.|Chapman|,|Mr.|Freaknasti	NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|O|PERSON	||||				P. Chapman|Mr. Freaknasti
+13	3	fb:cell.mr_freaknasti	Mr. Freaknasti	mr.|freaknasti	Mr.|Freaknasti	NNP|NNP	O|PERSON	|				Mr. Freaknasti
+13	4	fb:cell.tragedy	Tragedy	tragedy	tragedy	NN	O					Tragedy
+14	0	fb:cell.15	15	15	15	CD	NUMBER	15.0	15.0			
+14	1	fb:cell._grand_groove_bonus_mix	"Grand Groove [Bonus Mix]"	``|grand|groove|-lsb-|bonus|mix|-rsb-|''	``|Grand|groove|-lsb-|bonus|mix|-rsb-|''	``|NNP|NN|-LRB-|NN|NN|-RRB-|''	O|MISC|MISC|O|O|O|O|O	|||||||				
+14	2	fb:cell.p_chapman_k_def	P. Chapman, K-Def	p.|chapman|,|k|def	P.|Chapman|,|K|Def	NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|O|O	||||				P. Chapman|K-Def
+14	3	fb:cell.k_def	K-Def	k|def	K|Def	NNP|NNP	O|O	|				K-Def
+14	4	fb:cell.tragedy	Tragedy	tragedy	tragedy	NN	O					Tragedy
+15	0	fb:cell.16	16	16	16	CD	NUMBER	16.0	16.0			
+15	1	fb:cell._funky_roll_outro	"Funky Roll Outro"	``|funky|roll|outro|''	``|funky|roll|outro|''	``|JJ|NN|NN|''	O|O|O|O|O	||||				
+15	2	fb:cell.null										
+15	3	fb:cell.null										
+15	4	fb:cell._interlude	*Interlude*	*|interlude|*	*|interlude|*	SYM|NN|SYM	O|O|O	||				*Interlude*

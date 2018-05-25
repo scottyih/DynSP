@@ -1,0 +1,101 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.name	Name	name	name	NN	O					
+-1	1	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	2	fb:row.row.credited_with	Credited With	credited|with	credit|with	VBN|IN	O|O	|				
+-1	3	fb:row.row.publisher	Publisher	publisher	publisher	NN	O					
+0	0	fb:cell.indiana_jones_and_the_last_crusade_the_action_game	Indiana Jones and the Last Crusade: The Action Game	indiana|jones|and|the|last|crusade|:|the|action|game	Indiana|Jones|and|the|last|crusade|:|the|action|game	NNP|NNP|CC|DT|JJ|NN|:|DT|NN|NN	PERSON|PERSON|O|O|O|O|O|O|O|O	|||||||||				
+0	1	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+0	2	fb:cell.tester	tester	tester	tester	NN	O					tester
+0	3	fb:cell.lucasarts	LucasArts	lucasarts	LucasArts	NNP	ORGANIZATION					LucasArts
+1	0	fb:cell.maniac_mansion_nes_port	Maniac Mansion (NES port)	maniac|mansion|-lrb-|nes|port|-rrb-	maniac|mansion|-lrb-|NES|port|-rrb-	NN|NN|-LRB-|NNPS|NNP|-RRB-	O|O|O|O|O|O	|||||				
+1	1	fb:cell.1990	1990	1990	1990	CD	DATE	1990	1990.0	1990-xx-xx		
+1	2	fb:cell.tools_programmer_scumm	tools programmer, SCUMM	tools|programmer|,|scumm	tool|programmer|,|scumm	NNS|NN|,|NN	O|O|O|O	|||				tools programmer|SCUMM
+1	3	fb:cell.lucasarts	LucasArts	lucasarts	LucasArts	NNP	ORGANIZATION					LucasArts
+2	0	fb:cell.the_secret_of_monkey_island	The Secret of Monkey Island	the|secret|of|monkey|island	the|secret|of|Monkey|Island	DT|NN|IN|NNP|NNP	O|O|O|LOCATION|LOCATION	||||				
+2	1	fb:cell.1990	1990	1990	1990	CD	DATE	1990	1990.0	1990-xx-xx		
+2	2	fb:cell.co_writer_programmer_additional_designer	co-writer, programmer, additional designer	co|writer|,|programmer|,|additional|designer	co|writer|,|programmer|,|additional|designer	NNP|NN|,|NN|,|JJ|NN	O|O|O|O|O|O|O	||||||				co-writer|programmer|additional designer
+2	3	fb:cell.lucasarts	LucasArts	lucasarts	LucasArts	NNP	ORGANIZATION					LucasArts
+3	0	fb:cell.monkey_island_2_lechuck_s_revenge	Monkey Island 2: LeChuck's Revenge	monkey|island|2|:|lechuck|'s|revenge	Monkey|Island|2|:|LeChuck|'s|revenge	NNP|NNP|CD|:|NNP|POS|NN	O|O|NUMBER|O|ORGANIZATION|O|O	||2.0||||	2.0			
+3	1	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+3	2	fb:cell.co_writer_programmer_additional_designer	co-writer, programmer, additional designer	co|writer|,|programmer|,|additional|designer	co|writer|,|programmer|,|additional|designer	NNP|NN|,|NN|,|JJ|NN	O|O|O|O|O|O|O	||||||				co-writer|programmer|additional designer
+3	3	fb:cell.lucasarts	LucasArts	lucasarts	LucasArts	NNP	ORGANIZATION					LucasArts
+4	0	fb:cell.maniac_mansion_day_of_the_tentacle	Maniac Mansion: Day of the Tentacle	maniac|mansion|:|day|of|the|tentacle	maniac|mansion|:|day|of|the|tentacle	NN|NN|:|NN|IN|DT|NN	O|O|O|DURATION|O|O|O	|||P1D|||				
+4	1	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+4	2	fb:cell.co_designer_co_producer_co_director_co_writer	co-designer, co-producer, co-director, co-writer	co|designer|,|co|producer|,|co|director|,|co|writer	co|designer|,|co|producer|,|co|director|,|co|writer	NNP|NN|,|NNP|NN|,|NNP|NN|,|NNP|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||				co-designer|co-producer|co-director|co-writer
+4	3	fb:cell.lucasarts	LucasArts	lucasarts	LucasArts	NNP	ORGANIZATION					LucasArts
+5	0	fb:cell.full_throttle	Full Throttle	full|throttle	full|throttle	JJ|NN	O|O	|				
+5	1	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+5	2	fb:cell.project_leader_writer_designer	project leader, writer, designer	project|leader|,|writer|,|designer	project|leader|,|writer|,|designer	NN|NN|,|NN|,|NN	O|O|O|O|O|O	|||||				project leader|writer|designer
+5	3	fb:cell.lucasarts	LucasArts	lucasarts	LucasArts	NNP	ORGANIZATION					LucasArts
+6	0	fb:cell.the_curse_of_monkey_island	The Curse of Monkey Island	the|curse|of|monkey|island	the|curse|of|Monkey|Island	DT|NN|IN|NNP|NNP	O|O|O|LOCATION|LOCATION	||||				
+6	1	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+6	2	fb:cell.additional_design	additional design	additional|design	additional|design	JJ|NN	O|O	|				additional design
+6	3	fb:cell.lucasarts	LucasArts	lucasarts	LucasArts	NNP	ORGANIZATION					LucasArts
+7	0	fb:cell.grim_fandango	Grim Fandango	grim|fandango	grim|fandango	JJ|NN	PERSON|PERSON	|				
+7	1	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+7	2	fb:cell.project_leader_writer_designer	project leader, writer, designer	project|leader|,|writer|,|designer	project|leader|,|writer|,|designer	NN|NN|,|NN|,|NN	O|O|O|O|O|O	|||||				project leader|writer|designer
+7	3	fb:cell.lucasarts	LucasArts	lucasarts	LucasArts	NNP	ORGANIZATION					LucasArts
+8	0	fb:cell.star_wars_shadows_of_the_empire	Star Wars: Shadows of the Empire	star|wars|:|shadows|of|the|empire	Star|Wars|:|shadow|of|the|empire	NNP|NNP|:|NNS|IN|DT|NN	O|O|O|O|O|O|O	||||||				
+8	1	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+8	2	fb:cell.never_actively_tried_to_sabotage_the_project	Never actively tried to sabotage the project	never|actively|tried|to|sabotage|the|project	never|actively|try|to|sabotage|the|project	RB|RB|VBD|TO|VB|DT|NN	O|O|O|O|O|O|O	||||||				Never actively tried to sabotage the project
+8	3	fb:cell.lucasarts	LucasArts	lucasarts	LucasArts	NNP	ORGANIZATION					LucasArts
+9	0	fb:cell.psychonauts	Psychonauts	psychonauts	Psychonauts	NNPS	O					
+9	1	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+9	2	fb:cell.creative_director_co_writer_designer	creative director, co-writer, designer	creative|director|,|co|writer|,|designer	creative|director|,|co|writer|,|designer	JJ|NN|,|NNP|NN|,|NN	O|O|O|O|O|O|O	||||||				creative director|co-writer|designer
+9	3	fb:cell.double_fine_majesco	Double Fine, Majesco	double|fine|,|majesco	double|fine|,|Majesco	JJ|NN|,|NNP	O|O|O|ORGANIZATION	|||				Double Fine|Majesco
+10	0	fb:cell.brutal_legend	Brütal Legend	brütal|legend	brütal|legend	JJ|NN	O|O	|				
+10	1	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+10	2	fb:cell.creative_director_writer_designer	creative director, writer, designer	creative|director|,|writer|,|designer	creative|director|,|writer|,|designer	JJ|NN|,|NN|,|NN	O|O|O|O|O|O	|||||				creative director|writer|designer
+10	3	fb:cell.double_fine_electronic_arts	Double Fine, Electronic Arts	double|fine|,|electronic|arts	double|fine|,|electronic|art	RB|JJ|,|JJ|NNS	O|O|O|O|O	||||				Double Fine|Electronic Arts
+11	0	fb:cell.costume_quest	Costume Quest	costume|quest	costume|quest	NN|NN	O|O	|				
+11	1	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+11	2	fb:cell.creative_director_writer	creative director, writer	creative|director|,|writer	creative|director|,|writer	JJ|NN|,|NN	O|O|O|O	|||				creative director|writer
+11	3	fb:cell.double_fine_thq	Double Fine, THQ	double|fine|,|thq	double|fine|,|THQ	JJ|NN|,|NNP	O|O|O|ORGANIZATION	|||				Double Fine|THQ
+12	0	fb:cell.stacking	Stacking	stacking	stack	VBG	O					
+12	1	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+12	2	fb:cell.creative_director	creative director	creative|director	creative|director	JJ|NN	O|O	|				creative director
+12	3	fb:cell.double_fine_thq	Double Fine, THQ	double|fine|,|thq	double|fine|,|THQ	JJ|NN|,|NNP	O|O|O|ORGANIZATION	|||				Double Fine|THQ
+13	0	fb:cell.iron_brigade	Iron Brigade	iron|brigade	iron|brigade	NN|NN	O|O	|				
+13	1	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+13	2	fb:cell.creative_director	creative director	creative|director	creative|director	JJ|NN	O|O	|				creative director
+13	3	fb:cell.double_fine_microsoft_studios	Double Fine, Microsoft Studios	double|fine|,|microsoft|studios	double|fine|,|Microsoft|Studios	JJ|NN|,|NNP|NNP	O|O|O|ORGANIZATION|O	||||				Double Fine|Microsoft Studios
+14	0	fb:cell.sesame_street_once_upon_a_monster	Sesame Street: Once Upon a Monster	sesame|street|:|once|upon|a|monster	Sesame|Street|:|once|upon|a|monster	NNP|NNP|:|RB|IN|DT|NN	O|O|O|DATE|O|O|O	|||PAST_REF|||				
+14	1	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+14	2	fb:cell.creative_director	creative director	creative|director	creative|director	JJ|NN	O|O	|				creative director
+14	3	fb:cell.double_fine_warner_bros_interactive_entertainment	Double Fine, Warner Bros. Interactive Entertainment	double|fine|,|warner|bros.|.|interactive|entertainment	double|fine|,|Warner|Bros.|.|interactive|entertainment	JJ|NN|,|NNP|NNP|.|JJ|NN	O|O|O|ORGANIZATION|ORGANIZATION|O|O|O	|||||||				Double Fine|Warner Bros. Interactive Entertainment
+15	0	fb:cell.haunt	Haunt	haunt	haunt	VB	O					
+15	1	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+15	2	fb:cell.voice_actor	voice actor	voice|actor	voice|actor	NNP|NN	O|O	|				voice actor
+15	3	fb:cell.nanaon_sha_zoe_mode_microsoft_studios	NanaOn-Sha, Zoë Mode, Microsoft Studios	nanaon|sha|,|zoë|mode|,|microsoft|studios	NanaOn|sha|,|Zoë|Mode|,|Microsoft|Studios	NNP|VBP|,|NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON|O|ORGANIZATION|O	|||||||				NanaOn-Sha|Zoë Mode|Microsoft Studios
+16	0	fb:cell.double_fine_happy_action_theater	Double Fine Happy Action Theater	double|fine|happy|action|theater	double|fine|happy|action|theater	RB|JJ|JJ|NN|NN	O|O|O|O|O	||||				
+16	1	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+16	2	fb:cell.director	director	director	director	NN	O					director
+16	3	fb:cell.double_fine_microsoft_studios	Double Fine, Microsoft Studios	double|fine|,|microsoft|studios	double|fine|,|Microsoft|Studios	JJ|NN|,|NNP|NNP	O|O|O|ORGANIZATION|O	||||				Double Fine|Microsoft Studios
+17	0	fb:cell.middle_manager_of_justice	Middle Manager of Justice	middle|manager|of|justice	middle|manager|of|Justice	JJ|NN|IN|NNP	O|O|O|O	|||				
+17	1	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+17	2	fb:cell.creative_director	creative director	creative|director	creative|director	JJ|NN	O|O	|				creative director
+17	3	fb:cell.double_fine_dracogen	Double Fine, Dracogen	double|fine|,|dracogen	double|fine|,|dracogen	JJ|NN|,|NN	O|O|O|PERSON	|||				Double Fine|Dracogen
+18	0	fb:cell.kinect_party	Kinect Party	kinect|party	Kinect|Party	NNP|NNP	O|O	|				
+18	1	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+18	2	fb:cell.creative_director	creative director	creative|director	creative|director	JJ|NN	O|O	|				creative director
+18	3	fb:cell.double_fine_microsoft_studios	Double Fine, Microsoft Studios	double|fine|,|microsoft|studios	double|fine|,|Microsoft|Studios	JJ|NN|,|NNP|NNP	O|O|O|ORGANIZATION|O	||||				Double Fine|Microsoft Studios
+19	0	fb:cell.the_cave	The Cave	the|cave	the|Cave	DT|NNP	O|O	|				
+19	1	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+19	2	fb:cell.studio_creative_director	studio creative director	studio|creative|director	studio|creative|director	NN|JJ|NN	O|O|O	||				studio creative director
+19	3	fb:cell.double_fine_sega	Double Fine, Sega	double|fine|,|sega	double|fine|,|Sega	JJ|NN|,|NNP	O|O|O|PERSON	|||				Double Fine|Sega
+20	0	fb:cell.dropchord	Dropchord	dropchord	dropchord	NN	PERSON					
+20	1	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+20	2	fb:cell.creative_director	creative director	creative|director	creative|director	JJ|NN	O|O	|				creative director
+20	3	fb:cell.double_fine_dracogen	Double Fine, Dracogen	double|fine|,|dracogen	double|fine|,|dracogen	JJ|NN|,|NN	O|O|O|PERSON	|||				Double Fine|Dracogen
+21	0	fb:cell.spacebase_df_9	Spacebase DF-9	spacebase|df-9	spacebase|df-9	NN|NN	O|O	|	9.0			
+21	1	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+21	2	fb:cell.creative_director	creative director	creative|director	creative|director	JJ|NN	O|O	|				creative director
+21	3	fb:cell.double_fine_indie_fund	Double Fine, Indie Fund	double|fine|,|indie|fund	double|fine|,|indie|fund	RB|JJ|,|JJ|NN	O|O|O|O|O	||||				Double Fine|Indie Fund
+22	0	fb:cell.broken_age	Broken Age	broken|age	broken|age	JJ|NN	O|O	|				
+22	1	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+22	2	fb:cell.director_writer	director, writer	director|,|writer	director|,|writer	NN|,|NN	O|O|O	||				director|writer
+22	3	fb:cell.double_fine	Double Fine	double|fine	double|fine	JJ|NN	O|O	|				Double Fine
+23	0	fb:cell.massive_chalice	Massive Chalice	massive|chalice	massive|chalice	JJ|NN	O|O	|				
+23	1	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+23	2	fb:cell.creative_director	creative director	creative|director	creative|director	JJ|NN	O|O	|				creative director
+23	3	fb:cell.double_fine	Double Fine	double|fine	double|fine	JJ|NN	O|O	|				Double Fine

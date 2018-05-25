@@ -1,0 +1,176 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.location	Location	location	location	NN	O					
+-1	2	fb:row.row.gold	Gold	gold	gold	NN	O					
+-1	3	fb:row.row.silver	Silver	silver	silver	NN	O					
+-1	4	fb:row.row.bronze	Bronze	bronze	bronze	NN	O					
+0	0	fb:cell.1950	1950	1950	1950	CD	DATE	1950	1950.0	1950-xx-xx		
+0	1	fb:cell.basel	Basel	basel	Basel	NNP	PERSON					
+0	2	fb:cell.helena_rakoczy	Helena Rakoczy	helena|rakoczy	Helena|Rakoczy	NNP|NNP	PERSON|PERSON	|				Helena Rakoczy
+0	3	fb:cell.tereza_kocis	Tereza Kočiš	tereza|kočiš	Tereza|Kočiš	NNP|NNP	PERSON|PERSON	|				Tereza Kočiš
+0	4	fb:cell.stefania_reindlova	Stefania Reindlova	stefania|reindlova	Stefania|Reindlova	NNP|NNP	PERSON|PERSON	|				Stefania Reindlova
+1	0	fb:cell.1954	1954	1954	1954	CD	DATE	1954	1954.0	1954-xx-xx		
+1	1	fb:cell.rome	Rome	rome	Rome	NNP	LOCATION					
+1	2	fb:cell.tamara_manina	Tamara Manina	tamara|manina	Tamara|Manina	NNP|NNP	PERSON|PERSON	|				Tamara Manina
+1	3	fb:cell.eva_bosakova	Eva Bosáková	eva|bosáková	Eva|Bosáková	NNP|NNP	PERSON|PERSON	|				Eva Bosáková
+1	4	fb:cell.maria_gorokovskaya	Maria Gorokovskaya	maria|gorokovskaya	Maria|Gorokovskaya	NNP|NNP	PERSON|PERSON	|				Maria Gorokovskaya
+2	0	fb:cell.1958	1958	1958	1958	CD	DATE	1958	1958.0	1958-xx-xx		
+2	1	fb:cell.moscow	Moscow	moscow	Moscow	NNP	LOCATION					
+2	2	fb:cell.eva_bosakova	Eva Bosáková	eva|bosáková	Eva|Bosáková	NNP|NNP	PERSON|PERSON	|				Eva Bosáková
+2	3	fb:cell.larisa_latynina	Larisa Latynina	larisa|latynina	Larisa|Latynina	NNP|NNP	PERSON|PERSON	|				Larisa Latynina
+2	4	fb:cell.keiko_tanaka	Keiko Tanaka	keiko|tanaka	Keiko|Tanaka	NNP|NNP	PERSON|PERSON	|				Keiko Tanaka
+3	0	fb:cell.1962	1962	1962	1962	CD	DATE	1962	1962.0	1962-xx-xx		
+3	1	fb:cell.prague	Prague	prague	Prague	NNP	LOCATION					
+3	2	fb:cell.larisa_latynina	Larisa Latynina	larisa|latynina	Larisa|Latynina	NNP|NNP	PERSON|PERSON	|				Larisa Latynina
+3	3	fb:cell.irina_pervuschina	Irina Pervuschina	irina|pervuschina	Irina|Pervuschina	NNP|NNP	PERSON|PERSON	|				Irina Pervuschina
+3	4	fb:cell.vera_caslavska	Věra Čáslavská	věra|čáslavská	Věra|Čáslavská	NNP|NNP	PERSON|PERSON	|				Věra Čáslavská
+4	0	fb:cell.1966	1966	1966	1966	CD	DATE	1966	1966.0	1966-xx-xx		
+4	1	fb:cell.dortmund	Dortmund	dortmund	dortmund	NN	PERSON					
+4	2	fb:cell.natalia_kutchinskaya	Natalia Kutchinskaya	natalia|kutchinskaya	Natalia|Kutchinskaya	NNP|NNP	PERSON|PERSON	|				Natalia Kutchinskaya
+4	3	fb:cell.vera_caslavska	Věra Čáslavská	věra|čáslavská	Věra|Čáslavská	NNP|NNP	PERSON|PERSON	|				Věra Čáslavská
+4	4	fb:cell.zinaida_drougina	Zinaida Drougina	zinaida|drougina	Zinaida|Drougina	NNP|NNP	PERSON|PERSON	|				Zinaida Drougina
+5	0	fb:cell.1970	1970	1970	1970	CD	DATE	1970	1970.0	1970-xx-xx		
+5	1	fb:cell.ljubljana	Ljubljana	ljubljana	Ljubljana	NNP	LOCATION					
+5	2	fb:cell.ludmila_turicheva	Ludmila Turicheva	ludmila|turicheva	Ludmila|Turicheva	NNP|NNP	PERSON|PERSON	|				Ludmila Turicheva
+5	3	fb:cell.olga_karaseva	Olga Karaseva	olga|karaseva	Olga|Karaseva	NNP|NNP	PERSON|PERSON	|				Olga Karaseva
+5	4	fb:cell.zinaida_voronina	Zinaida Voronina	zinaida|voronina	Zinaida|Voronina	NNP|NNP	PERSON|PERSON	|				Zinaida Voronina
+6	0	fb:cell.1974	1974	1974	1974	CD	DATE	1974	1974.0	1974-xx-xx		
+6	1	fb:cell.varna	Varna	varna	Varna	NNP	LOCATION					
+6	2	fb:cell.ludmila_turicheva	Ludmila Turicheva	ludmila|turicheva	Ludmila|Turicheva	NNP|NNP	PERSON|PERSON	|				Ludmila Turicheva
+6	3	fb:cell.olga_korbut	Olga Korbut	olga|korbut	Olga|Korbut	NNP|NNP	PERSON|PERSON	|				Olga Korbut
+6	4	fb:cell.elvira_saadi_rusudan_siharulidze	Elvira Saadi\n Rusudan Siharulidze	elvira|saadi|rusudan|siharulidze	Elvira|Saadi|Rusudan|Siharulidze	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Elvira Saadi|Rusudan Siharulidze
+7	0	fb:cell.1978	1978	1978	1978	CD	DATE	1978	1978.0	1978-xx-xx		
+7	1	fb:cell.strasbourg	Strasbourg	strasbourg	Strasbourg	NNP	LOCATION					
+7	2	fb:cell.nellie_kim_elena_mukhina	Nellie Kim\n Elena Mukhina	nellie|kim|elena|mukhina	Nellie|Kim|Elena|Mukhina	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Nellie Kim|Elena Mukhina
+7	3	fb:cell.null	-	-	-	:	O					-
+7	4	fb:cell.emilia_eberle_kathy_johnson	Emilia Eberle\n Kathy Johnson	emilia|eberle|kathy|johnson	Emilia|Eberle|Kathy|Johnson	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Emilia Eberle|Kathy Johnson
+8	0	fb:cell.1979	1979	1979	1979	CD	DATE	1979	1979.0	1979-xx-xx		
+8	1	fb:cell.fort_worth	Fort Worth	fort|worth	Fort|Worth	NNP|NNP	LOCATION|LOCATION	|				
+8	2	fb:cell.emilia_eberle	Emilia Eberle	emilia|eberle	Emilia|Eberle	NNP|NNP	PERSON|PERSON	|				Emilia Eberle
+8	3	fb:cell.nellie_kim	Nellie Kim	nellie|kim	Nellie|Kim	NNP|NNP	PERSON|PERSON	|				Nellie Kim
+8	4	fb:cell.melita_ruhn	Melita Ruhn	melita|ruhn	Melita|Ruhn	NNP|NNP	PERSON|PERSON	|				Melita Ruhn
+9	0	fb:cell.1981	1981	1981	1981	CD	DATE	1981	1981.0	1981-xx-xx		
+9	1	fb:cell.moscow	Moscow	moscow	Moscow	NNP	LOCATION					
+9	2	fb:cell.natalia_ilienko	Natalia Ilienko	natalia|ilienko	Natalia|Ilienko	NNP|NNP	PERSON|PERSON	|				Natalia Ilienko
+9	3	fb:cell.yelena_davydova	Yelena Davydova	yelena|davydova	Yelena|Davydova	NNP|NNP	PERSON|PERSON	|				Yelena Davydova
+9	4	fb:cell.zoja_grantcharova	Zoja Grantcharova	zoja|grantcharova	zoja|grantcharova	NN|NN	PERSON|PERSON	|				Zoja Grantcharova
+10	0	fb:cell.1983	1983	1983	1983	CD	DATE	1983	1983.0	1983-xx-xx		
+10	1	fb:cell.budapest	Budapest	budapest	Budapest	NNP	LOCATION					
+10	2	fb:cell.ekaterina_szabo	Ekaterina Szabo	ekaterina|szabo	Ekaterina|Szabo	NNP|NNP	PERSON|PERSON	|				Ekaterina Szabo
+10	3	fb:cell.olga_mostepanova	Olga Mostepanova	olga|mostepanova	Olga|Mostepanova	NNP|NNP	PERSON|PERSON	|				Olga Mostepanova
+10	4	fb:cell.boriana_stoyanova	Boriana Stoyanova	boriana|stoyanova	Boriana|Stoyanova	NNP|NNP	PERSON|PERSON	|				Boriana Stoyanova
+11	0	fb:cell.1985	1985	1985	1985	CD	DATE	1985	1985.0	1985-xx-xx		
+11	1	fb:cell.montreal	Montreal	montreal	Montreal	NNP	LOCATION					
+11	2	fb:cell.oksana_omelianchik	Oksana Omelianchik	oksana|omelianchik	Oksana|Omelianchik	NNP|NNP	PERSON|PERSON	|				Oksana Omelianchik
+11	3	fb:cell.elena_shushunova	Elena Shushunova	elena|shushunova	Elena|Shushunova	NNP|NNP	PERSON|PERSON	|				Elena Shushunova
+11	4	fb:cell.ulrike_klotz	Ulrike Klotz	ulrike|klotz	Ulrike|Klotz	NNP|NNP	PERSON|PERSON	|				Ulrike Klotz
+12	0	fb:cell.1987	1987	1987	1987	CD	DATE	1987	1987.0	1987-xx-xx		
+12	1	fb:cell.rotterdam	Rotterdam	rotterdam	Rotterdam	NNP	LOCATION					
+12	2	fb:cell.daniela_silivas_elena_shushunova	Daniela Silivaş\n Elena Shushunova	daniela|silivaş|elena|shushunova	Daniela|Silivaş|Elena|Shushunova	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Daniela Silivaş|Elena Shushunova
+12	3	fb:cell.null	-	-	-	:	O					-
+12	4	fb:cell.aurelia_dobre	Aurelia Dobre	aurelia|dobre	Aurelia|Dobre	NNP|NNP	PERSON|PERSON	|				Aurelia Dobre
+13	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+13	1	fb:cell.stuttgart	Stuttgart	stuttgart	Stuttgart	NNP	LOCATION					
+13	2	fb:cell.daniela_silivas_svetlana_boguinskaya	Daniela Silivaş\n Svetlana Boguinskaya	daniela|silivaş|svetlana|boguinskaya	Daniela|Silivaş|Svetlana|Boguinskaya	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Daniela Silivaş|Svetlana Boguinskaya
+13	3	fb:cell.null	-	-	-	:	O					-
+13	4	fb:cell.cristina_bontas	Cristina Bontaş	cristina|bontaş	Cristina|Bontaş	NNP|NNP	PERSON|PERSON	|				Cristina Bontaş
+14	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+14	1	fb:cell.indianapolis	Indianapolis	indianapolis	Indianapolis	NNP	LOCATION					
+14	2	fb:cell.cristina_bontas_oksana_chusovitina	Cristina Bontaş\n Oksana Chusovitina	cristina|bontaş|oksana|chusovitina	Cristina|Bontaş|Oksana|Chusovitina	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Cristina Bontaş|Oksana Chusovitina
+14	3	fb:cell.null	-	-	-	:	O					-
+14	4	fb:cell.kim_zmeskal	Kim Zmeskal	kim|zmeskal	Kim|Zmeskal	NNP|NNP	PERSON|PERSON	|				Kim Zmeskal
+15	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+15	1	fb:cell.paris	Paris	paris	Paris	NNP	LOCATION					
+15	2	fb:cell.kim_zmeskal	Kim Zmeskal	kim|zmeskal	Kim|Zmeskal	NNP|NNP	PERSON|PERSON	|				Kim Zmeskal
+15	3	fb:cell.henrietta_onodi	Henrietta Ónodi	henrietta|ónodi	Henrietta|Ónodi	NNP|NNP	PERSON|PERSON	|				Henrietta Ónodi
+15	4	fb:cell.maria_neculita_tatiana_lysenko	Maria Neculiţă\n Tatiana Lysenko	maria|neculiţă|tatiana|lysenko	Maria|Neculiţă|Tatiana|Lysenko	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Maria Neculiţă|Tatiana Lysenko
+16	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+16	1	fb:cell.birmingham	Birmingham	birmingham	Birmingham	NNP	LOCATION					
+16	2	fb:cell.shannon_miller	Shannon Miller	shannon|miller	Shannon|Miller	NNP|NNP	PERSON|PERSON	|				Shannon Miller
+16	3	fb:cell.gina_gogean	Gina Gogean	gina|gogean	Gina|Gogean	NNP|NNP	PERSON|PERSON	|				Gina Gogean
+16	4	fb:cell.natalia_bobrova	Natalia Bobrova	natalia|bobrova	Natalia|Bobrova	NNP|NNP	PERSON|PERSON	|				Natalia Bobrova
+17	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+17	1	fb:cell.brisbane	Brisbane	brisbane	Brisbane	NNP	LOCATION					
+17	2	fb:cell.dina_kochetkova	Dina Kochetkova	dina|kochetkova	Dina|Kochetkova	NNP|NNP	PERSON|PERSON	|				Dina Kochetkova
+17	3	fb:cell.lavinia_milosovici	Lavinia Miloşovici	lavinia|miloşovici	Lavinia|Miloşovici	NNP|NNP	PERSON|PERSON	|				Lavinia Miloşovici
+17	4	fb:cell.gina_gogean	Gina Gogean	gina|gogean	Gina|Gogean	NNP|NNP	PERSON|PERSON	|				Gina Gogean
+18	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+18	1	fb:cell.sabae	Sabae	sabae	Sabae	NNP	LOCATION					
+18	2	fb:cell.gina_gogean	Gina Gogean	gina|gogean	Gina|Gogean	NNP|NNP	PERSON|PERSON	|				Gina Gogean
+18	3	fb:cell.ji_liya	Ji Liya	ji|liya	Ji|Liya	NNP|NNP	PERSON|PERSON	|				Ji Liya
+18	4	fb:cell.ludivine_furnon	Ludivine Furnon	ludivine|furnon	ludivine|furnon	NN|NN	O|O	|				Ludivine Furnon
+19	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+19	1	fb:cell.san_juan	San Juan	san|juan	San|Juan	NNP|NNP	LOCATION|LOCATION	|				
+19	2	fb:cell.kui_yuan_yuan_gina_gogean	Kui Yuan-Yuan\n Gina Gogean	kui|yuan|yuan|gina|gogean	Kui|Yuan|Yuan|Gina|Gogean	NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON	||||				Kui Yuan-Yuan|Gina Gogean
+19	3	fb:cell.null	-	-	-	:	O					-
+19	4	fb:cell.liubov_sheremeta_lavinia_milosovici	Liubov Sheremeta\n Lavinia Miloşovici	liubov|sheremeta|lavinia|miloşovici	Liubov|Sheremeta|Lavinia|Miloşovici	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Liubov Sheremeta|Lavinia Miloşovici
+20	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+20	1	fb:cell.lausanne	Lausanne	lausanne	Lausanne	NNP	LOCATION					
+20	2	fb:cell.gina_gogean	Gina Gogean	gina|gogean	Gina|Gogean	NNP|NNP	PERSON|PERSON	|				Gina Gogean
+20	3	fb:cell.svetlana_khorkina	Svetlana Khorkina	svetlana|khorkina	Svetlana|Khorkina	NNP|NNP	PERSON|PERSON	|				Svetlana Khorkina
+20	4	fb:cell.elena_produnova	Elena Produnova	elena|produnova	Elena|Produnova	NNP|NNP	PERSON|PERSON	|				Elena Produnova
+21	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+21	1	fb:cell.tianjin	Tianjin	tianjin	Tianjin	NNP	LOCATION					
+21	2	fb:cell.andreea_raducan	Andreea Răducan	andreea|răducan	Andreea|Răducan	NNP|NNP	PERSON|PERSON	|				Andreea Răducan
+21	3	fb:cell.simona_amanar	Simona Amânar	simona|amânar	Simona|Amânar	NNP|NNP	PERSON|PERSON	|				Simona Amânar
+21	4	fb:cell.svetlana_khorkina	Svetlana Khorkina	svetlana|khorkina	Svetlana|Khorkina	NNP|NNP	PERSON|PERSON	|				Svetlana Khorkina
+22	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+22	1	fb:cell.ghent	Ghent	ghent	Ghent	NNP	O					
+22	2	fb:cell.andreea_raducan	Andreea Răducan	andreea|răducan	Andreea|Răducan	NNP|NNP	PERSON|PERSON	|				Andreea Răducan
+22	3	fb:cell.daniele_hypolito	Daniele Hypólito	daniele|hypólito	Daniele|Hypólito	NNP|NNP	PERSON|PERSON	|				Daniele Hypólito
+22	4	fb:cell.svetlana_khorkina	Svetlana Khorkina	svetlana|khorkina	Svetlana|Khorkina	NNP|NNP	PERSON|PERSON	|				Svetlana Khorkina
+23	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+23	1	fb:cell.debrecen	Debrecen	debrecen	Debrecen	NNP	PERSON					
+23	2	fb:cell.elena_gomez	Elena Gómez	elena|gómez	Elena|Gómez	NNP|NNP	PERSON|PERSON	|				Elena Gómez
+23	3	fb:cell.verona_van_de_leur	Verona van de Leur	verona|van|de|leur	Verona|van|de|Leur	NNP|NNP|IN|NNP	PERSON|PERSON|PERSON|PERSON	|||				Verona van de Leur
+23	4	fb:cell.samantha_sheehan	Samantha Sheehan	samantha|sheehan	Samantha|Sheehan	NNP|NNP	PERSON|PERSON	|				Samantha Sheehan
+24	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+24	1	fb:cell.anaheim	Anaheim	anaheim	Anaheim	NNP	LOCATION					
+24	2	fb:cell.daiane_dos_santos	Daiane Dos Santos	daiane|dos|santos	Daiane|Dos|Santos	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Daiane Dos Santos
+24	3	fb:cell.catalina_ponor	Cătălina Ponor	cătălina|ponor	Cătălina|Ponor	NNP|NNP	PERSON|PERSON	|				Cătălina Ponor
+24	4	fb:cell.elena_gomez	Elena Gómez	elena|gómez	Elena|Gómez	NNP|NNP	PERSON|PERSON	|				Elena Gómez
+25	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+25	1	fb:cell.melbourne	Melbourne	melbourne	Melbourne	NNP	LOCATION					
+25	2	fb:cell.alicia_sacramone	Alicia Sacramone	alicia|sacramone	Alicia|Sacramone	NNP|NNP	PERSON|PERSON	|				Alicia Sacramone
+25	3	fb:cell.anastasia_liukin	Anastasia Liukin	anastasia|liukin	Anastasia|Liukin	NNP|NNP	PERSON|PERSON	|				Anastasia Liukin
+25	4	fb:cell.suzanne_harmes	Suzanne Harmes	suzanne|harmes	Suzanne|Harmes	NNP|NNP	PERSON|PERSON	|				Suzanne Harmes
+26	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+26	1	fb:cell.aarhus	Aarhus	aarhus	Aarhus	NNP	PERSON					
+26	2	fb:cell.cheng_fei	Cheng Fei	cheng|fei	Cheng|Fei	NNP|NNP	PERSON|PERSON	|				Cheng Fei
+26	3	fb:cell.jana_bieger	Jana Bieger	jana|bieger	Jana|Bieger	NNP|NNP	PERSON|PERSON	|				Jana Bieger
+26	4	fb:cell.vanessa_ferrari	Vanessa Ferrari	vanessa|ferrari	Vanessa|Ferrari	NNP|NNP	PERSON|PERSON	|				Vanessa Ferrari
+27	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+27	1	fb:cell.stuttgart	Stuttgart	stuttgart	Stuttgart	NNP	LOCATION					
+27	2	fb:cell.shawn_johnson	Shawn Johnson	shawn|johnson	Shawn|Johnson	NNP|NNP	PERSON|PERSON	|				Shawn Johnson
+27	3	fb:cell.alicia_sacramone	Alicia Sacramone	alicia|sacramone	Alicia|Sacramone	NNP|NNP	PERSON|PERSON	|				Alicia Sacramone
+27	4	fb:cell.cassy_vericel	Cassy Vericel	cassy|vericel	Cassy|Vericel	NNP|NNP	PERSON|PERSON	|				Cassy Vericel
+28	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+28	1	fb:cell.london	London	london	London	NNP	LOCATION					
+28	2	fb:cell.elizabeth_tweddle	Elizabeth Tweddle	elizabeth|tweddle	Elizabeth|Tweddle	NNP|NNP	PERSON|PERSON	|				Elizabeth Tweddle
+28	3	fb:cell.lauren_mitchell	Lauren Mitchell	lauren|mitchell	Lauren|Mitchell	NNP|NNP	PERSON|PERSON	|				Lauren Mitchell
+28	4	fb:cell.sui_lu	Sui Lu	sui|lu	Sui|Lu	NNP|NNP	PERSON|PERSON	|				Sui Lu
+29	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+29	1	fb:cell.rotterdam	Rotterdam	rotterdam	Rotterdam	NNP	LOCATION					
+29	2	fb:cell.lauren_mitchell	Lauren Mitchell	lauren|mitchell	Lauren|Mitchell	NNP|NNP	PERSON|PERSON	|				Lauren Mitchell
+29	3	fb:cell.aliya_mustafina_diana_chelaru	Aliya Mustafina\n Diana Chelaru	aliya|mustafina|diana|chelaru	Aliya|Mustafina|Diana|Chelaru	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Aliya Mustafina|Diana Chelaru
+29	4	fb:cell.null	-	-	-	:	O					-
+30	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+30	1	fb:cell.tokyo	Tokyo	tokyo	Tokyo	NNP	LOCATION					
+30	2	fb:cell.ksenia_afanasyeva	Ksenia Afanasyeva	ksenia|afanasyeva	Ksenia|Afanasyeva	NNP|NNP	PERSON|PERSON	|				Ksenia Afanasyeva
+30	3	fb:cell.sui_lu	Sui Lu	sui|lu	Sui|Lu	NNP|NNP	PERSON|PERSON	|				Sui Lu
+30	4	fb:cell.aly_raisman	Aly Raisman	aly|raisman	Aly|Raisman	NNP|NNP	PERSON|PERSON	|				Aly Raisman
+31	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+31	1	fb:cell.antwerp	Antwerp	antwerp	Antwerp	NNP	LOCATION					
+31	2	fb:cell.simone_biles	Simone Biles	simone|biles	Simone|Biles	NNP|NNP	PERSON|PERSON	|				Simone Biles
+31	3	fb:cell.vanessa_ferrari	Vanessa Ferrari	vanessa|ferrari	Vanessa|Ferrari	NNP|NNP	PERSON|PERSON	|				Vanessa Ferrari
+31	4	fb:cell.larisa_iordache	Larisa Iordache	larisa|iordache	Larisa|Iordache	NNP|NNP	PERSON|PERSON	|				Larisa Iordache
+32	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+32	1	fb:cell.nanning	Nanning	nanning	Nanning	NNP	LOCATION					
+32	2	fb:cell.null_2										
+32	3	fb:cell.null_2										
+32	4	fb:cell.null_2										
+33	0	fb:cell.2015	2015	2015	2015	CD	DATE	2015	2015.0	2015-xx-xx		
+33	1	fb:cell.glasgow	Glasgow	glasgow	Glasgow	NNP	LOCATION					
+33	2	fb:cell.null_2										
+33	3	fb:cell.null_2										
+33	4	fb:cell.null_2										

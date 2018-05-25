@@ -1,0 +1,676 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.map_or_catalog	Map or catalog	map|or|catalog	map|or|catalog	NN|CC|NN	O|O|O	||				
+-1	1	fb:row.row.creator	Creator	creator	Creator	NNP	O					
+-1	2	fb:row.row.time_created	Time created	time|created	time|create	NN|VBD	O|O	|				
+-1	3	fb:row.row.contets	Contets	contets	Contets	NNPS	O					
+-1	4	fb:row.row.links	links	links	link	NNS	O					
+0	0	fb:cell.m45_fuxixingtu	M45 (伏羲星图Fuxixingtu)	m45|-lrb-|伏羲星图fuxixingtu|-rrb-	m45|-lrb-|伏羲星图fuxixingtu|-rrb-	NN|-LRB-|NN|-RRB-	O|O|O|O	|||	45.0			M45 (伏羲星图Fuxixingtu)
+0	1	fb:cell.null										
+0	2	fb:cell.c_4000_b_c	c. 4000 B.C.	c.|4000|b.c.	c.|4000|B.C.	NNP|CD|NNP	O|DATE|DATE	|-3999|-3999	0.4			c. 4000 B.C.
+0	3	fb:cell.found_in_a_mural_in_a_neolithic_grave_in_henan_puyang_clam_shells_arranged_in_the_shape_of_big_dipper_in_the_north_bei_dou_and_below_the_foot_tiger_in_the_west_and_azure_dragon_in_the_east_also_showing_five_stars	Found in a mural in a Neolithic Grave in Henan Puyang (河南濮陽西水坡新石器時代古墓) clam shells arranged in the shape of Big Dipper in the North (北斗Bei Dou) and below the foot, Tiger in the West and Azure Dragon in the East. Also showing Five Stars.	found|in|a|mural|in|a|neolithic|grave|in|henan|puyang|-lrb-|河南濮陽西水坡新石器時代古墓|-rrb-|clam|shells|arranged|in|the|shape|of|big|dipper|in|the|north|-lrb-|北斗bei|dou|-rrb-|and|below|the|foot|,|tiger|in|the|west|and|azure|dragon|in|the|east|.|also|showing|five|stars|.	find|in|a|mural|in|a|neolithic|grave|in|Henan|Puyang|-lrb-|河南濮陽西水坡新石器時代古墓|-rrb-|clam|shell|arrange|in|the|shape|of|big|Dipper|in|the|north|-lrb-|北斗bei|dou|-rrb-|and|below|the|foot|,|Tiger|in|the|West|and|Azure|Dragon|in|the|East|.|also|show|five|star|.	VBN|IN|DT|NN|IN|DT|JJ|NN|IN|NNP|NNP|-LRB-|NN|-RRB-|NN|NNS|VBN|IN|DT|NN|IN|JJ|NNP|IN|DT|NN|-LRB-|NN|NN|-RRB-|CC|IN|DT|NN|,|NNP|IN|DT|NNP|CC|NNP|NNP|IN|DT|NNP|.|RB|VBG|CD|NNS|.	O|O|O|O|O|O|O|O|O|LOCATION|LOCATION|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|NUMBER|O|O	||||||||||||||||||||||||||||||||||||||||||||||||5.0||				Found in a mural in a Neolithic Grave in Henan Puyang (河南濮陽西水坡新石器時代古墓) clam shells arranged in the shape of Big Dipper in the North (北斗Bei Dou) and below the foot|Tiger in the West and Azure Dragon in the East. Also showing Five Stars.
+0	4	fb:cell._citation_needed	[citation needed]	-lsb-|citation|needed|-rsb-	-lsb-|citation|need|-rsb-	-LRB-|NN|VBN|-RRB-	O|O|O|O	|||				[citation needed]
+1	0	fb:cell.wu_xian_star_map_shang_wu_jian_xing_tu	Wu Xian Star Map\n(商巫咸星圖Shang wu Jian xing Tu)	wu|xian|star|map|-lrb-|商巫咸星圖shang|wu|jian|xing|tu|-rrb-	Wu|Xian|Star|map|-lrb-|商巫咸星圖shang|wu|Jian|xing|Tu|-rrb-	NNP|NNP|NNP|NN|-LRB-|NN|NNP|NNP|NNP|NNP|-RRB-	PERSON|PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON|PERSON|PERSON|O	||||||||||				Wu Xian Star Map|(商巫咸星圖Shang wu Jian xing Tu)
+1	1	fb:cell.wu_xian	Wu Xian	wu|xian	Wu|Xian	NNP|NNP	PERSON|PERSON	|				Wu Xian
+1	2	fb:cell.c_1000_bc	c. 1000 BC	c.|1000|bc	c.|1000|BC	NNP|CD|NNP	O|DATE|DATE	|-0999|-0999	0.1			c. 1000 BC
+1	3	fb:cell.contained_44_central_and_outer_constellations_totalling_141_stars	Contained 44 Central and Outer constellations totalling 141 stars	contained|44|central|and|outer|constellations|totalling|141|stars	contain|44|central|and|outer|constellation|total|141|star	VBN|CD|JJ|CC|JJ|NNS|VBG|CD|NNS	O|NUMBER|O|O|O|O|O|NUMBER|O	|44.0||||||141.0|	44.0		141.0	Contained 44 Central and Outer constellations totalling 141 stars
+1	4	fb:cell._citation_needed	[citation needed]	-lsb-|citation|needed|-rsb-	-lsb-|citation|need|-rsb-	-LRB-|NN|VBN|-RRB-	O|O|O|O	|||				[citation needed]
+2	0	fb:cell.warring_states_period_grave_lacquer_box	Warring States Period grave lacquer box\n(戰國初年湖北隨縣擂鼓墩曾侯乙墓漆箱)	warring|states|period|grave|lacquer|box|-lrb-|戰國初年湖北隨縣擂鼓墩曾侯乙墓漆箱|-rrb-	war|state|period|grave|lacquer|box|-lrb-|戰國初年湖北隨縣擂鼓墩曾侯乙墓漆箱|-rrb-	VBG|NNS|NN|JJ|NN|NN|-LRB-|NN|-RRB-	O|O|O|O|O|O|O|O|O	||||||||				Warring States Period grave lacquer box|(戰國初年湖北隨縣擂鼓墩曾侯乙墓漆箱)
+2	1	fb:cell.null										
+2	2	fb:cell.c_5th_century_bc	c. 5th century BC	c.|5th|century|bc	c.|5th|century|bc	NNP|JJ|NN|NN	O|DATE|DATE|DATE	|-04XX|-04XX|-04XX	0.5			c. 5th century BC
+2	3	fb:cell.indicated_location_of_big_dipper_and_28_constellations_by_characters	Indicated location of Big Dipper and 28 Constellations by characters	indicated|location|of|big|dipper|and|28|constellations|by|characters	indicate|location|of|big|Dipper|and|28|constellation|by|character	VBN|NN|IN|JJ|NNP|CC|CD|NNS|IN|NNS	O|O|O|O|O|O|NUMBER|O|O|O	||||||28.0|||	28.0			Indicated location of Big Dipper and 28 Constellations by characters
+2	4	fb:cell.null										
+3	0	fb:cell.astronomic_star_observation_tian_wen_xing_zhan	Astronomic star observation\n(天文星占Tian Wen xing zhan)	astronomic|star|observation|-lrb-|天文星占tian|wen|xing|zhan|-rrb-	astronomic|star|observation|-lrb-|天文星占tian|Wen|xing|zhan|-rrb-	JJ|NN|NN|-LRB-|JJ|NNP|NNP|NNP|-RRB-	O|O|O|O|O|PERSON|PERSON|PERSON|O	||||||||				Astronomic star observation|(天文星占Tian Wen xing zhan)
+3	1	fb:cell.gan_de	Gan De (甘德)	gan|de|-lrb-|甘德|-rrb-	Gan|De|-lrb-|甘德|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-	O|O|O|O|O	||||				Gan De (甘德)
+3	2	fb:cell.475_221_b_c	475-221 B.C.	475-221|b.c.	475-221|b.c.	CD|NN	NUMBER|O	475.0 - 221.0|	475.0		221.0	475-221 B.C.
+3	3	fb:cell.contained_75_central_constellation_and_42_outer_constellations_some_said_510_stars_in_18_constellations	Contained 75 Central Constellation and 42 Outer Constellations, some said 510 stars in 18 Constellations	contained|75|central|constellation|and|42|outer|constellations|,|some|said|510|stars|in|18|constellations	contain|75|central|constellation|and|42|outer|constellation|,|some|say|510|star|in|18|constellation	VBN|CD|JJ|NN|CC|CD|JJ|NNS|,|DT|VBD|CD|NNS|IN|CD|NNS	O|NUMBER|O|O|O|NUMBER|O|O|O|O|O|NUMBER|O|O|NUMBER|O	|75.0||||42.0||||||510.0|||18.0|	75.0		42.0	Contained 75 Central Constellation and 42 Outer Constellations|some said 510 stars in 18 Constellations
+3	4	fb:cell._citation_needed	[citation needed]	-lsb-|citation|needed|-rsb-	-lsb-|citation|need|-rsb-	-LRB-|NN|VBN|-RRB-	O|O|O|O	|||				[citation needed]
+4	0	fb:cell.shi_shen_astronomy_shi_shen_tian_wen_aka_shi_shi_xing_jing	Shi Shen astronomy\n(石申天文Shi Shen Tian wen)\naka. (石氏星经 Shi Shi Xing Jing)	shi|shen|astronomy|-lrb-|石申天文shi|shen|tian|wen|-rrb-|aka|.|-lrb-|石氏星经|shi|shi|xing|jing|-rrb-	Shi|Shen|astronomy|-lrb-|石申天文Shi|Shen|Tian|wen|-rrb-|aka|.|-lrb-|石氏星经|Shi|Shi|Xing|Jing|-rrb-	NNP|NNP|NNP|-LRB-|NNP|NNP|NNP|NNP|-RRB-|NNP|.|-LRB-|NNP|NNP|NNP|NNP|NNP|-RRB-	O|O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON|PERSON|PERSON|PERSON|O	|||||||||||||||||				Shi Shen astronomy|(石申天文Shi Shen Tian wen)|aka. (石氏星经 Shi Shi Xing Jing)
+4	1	fb:cell.shi_shen	Shi Shen (石申)	shi|shen|-lrb-|石申|-rrb-	Shi|Shen|-lrb-|石申|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O	||||				Shi Shen (石申)
+4	2	fb:cell.c_350_b_c	c. 350 B.C.	c.|350|b.c.	c.|350|B.C.	NNP|CD|NNP	O|DATE|DATE	|-0349|-0349	0.35			c. 350 B.C.
+4	3	fb:cell.138_constellations_and_the_name_of_810_stars_location_of_121_stars_some_said_it_contains_the_28_lunar_ecliptic_constellations_62_central_constellations_and_30_outer_constellations	138 Constellations and the name of 810 stars, location of 121 stars, some said it contains The 28 Lunar Ecliptic Constellations, 62 Central Constellations and 30 Outer Constellations	138|constellations|and|the|name|of|810|stars|,|location|of|121|stars|,|some|said|it|contains|the|28|lunar|ecliptic|constellations|,|62|central|constellations|and|30|outer|constellations	138|constellation|and|the|name|of|810|star|,|location|of|121|star|,|some|say|it|contain|the|28|lunar|ecliptic|constellation|,|62|central|constellation|and|30|outer|constellation	CD|NNS|CC|DT|NN|IN|CD|NNS|,|NN|IN|CD|NNS|,|DT|VBD|PRP|VBZ|DT|CD|JJ|JJ|NNS|,|CD|JJ|NNS|CC|CD|JJ|NNS	NUMBER|O|O|O|O|O|NUMBER|O|O|O|O|NUMBER|O|O|O|O|O|O|O|NUMBER|O|O|O|O|NUMBER|O|O|O|NUMBER|O|O	138.0||||||810.0|||||121.0||||||||28.0|||||62.0||||30.0||	138.0		810.0	138 Constellations and the name of 810 stars|location of 121 stars|some said it contains The 28 Lunar Ecliptic Constellations|62 Central Constellations and 30 Outer Constellations
+4	4	fb:cell._citation_needed	[citation needed]	-lsb-|citation|needed|-rsb-	-lsb-|citation|need|-rsb-	-LRB-|NN|VBN|-RRB-	O|O|O|O	|||				[citation needed]
+5	0	fb:cell.han_comet_diagrams_meng_xing_tu	Han Comet Diagrams\n(湖南長沙馬王堆漢墓帛書)\n(彗星圖Meng xing Tu)	han|comet|diagrams|-lrb-|湖南長沙馬王堆漢墓帛書|-rrb-|-lrb-|彗星圖meng|xing|tu|-rrb-	Han|Comet|diagram|-lrb-|湖南長沙馬王堆漢墓帛書|-rrb-|-lrb-|彗星圖Meng|xing|Tu|-rrb-	NNP|NNP|NNS|-LRB-|NN|-RRB-|-LRB-|NNP|NNP|NNP|-RRB-	O|O|O|O|O|O|O|PERSON|PERSON|PERSON|O	||||||||||				Han Comet Diagrams|(湖南長沙馬王堆漢墓帛書)|(彗星圖Meng xing Tu)
+5	1	fb:cell.null										
+5	2	fb:cell.193_bc	193 BC	193|bc	193|bc	CD|NN	DATE|DATE	-0192|-0192	193.0			193 BC
+5	3	fb:cell.different_29_different_types_of_comets_also_record_and_prediction_of_positions_of_jupiter_saturn_and_venus_during_246_177_b_c	Different 29 different types of comets, also record and prediction of positions of Jupiter, Saturn, and Venus during 246–177 B.C.	different|29|different|types|of|comets|,|also|record|and|prediction|of|positions|of|jupiter|,|saturn|,|and|venus|during|246|--|177|b.c.	different|29|different|type|of|comet|,|also|record|and|prediction|of|position|of|Jupiter|,|Saturn|,|and|Venus|during|246|--|177|b.c.	JJ|CD|JJ|NNS|IN|NNS|,|RB|NN|CC|NN|IN|NNS|IN|NNP|,|NNP|,|CC|NNP|IN|CD|:|CD|NN	O|NUMBER|O|O|O|O|O|O|O|O|O|O|O|O|LOCATION|O|O|O|O|PERSON|O|NUMBER|O|DATE|DATE	|29.0||||||||||||||||||||246.0||-0176|-0176	29.0		246.0	Different 29 different types of comets|also record and prediction of positions of Jupiter|Saturn|and Venus during 246–177 B.C.
+5	4	fb:cell.null										
+6	0	fb:cell.five_star_prediction_device	Five Star Prediction Device\n(安徽阜陽五星候占儀)	five|star|prediction|device|-lrb-|安徽阜陽五星候占儀|-rrb-	five|star|prediction|device|-lrb-|安徽阜陽五星候占儀|-rrb-	CD|NN|NN|NN|-LRB-|NN|-RRB-	NUMBER|O|O|O|O|O|O	5.0||||||				Five Star Prediction Device|(安徽阜陽五星候占儀)
+6	1	fb:cell.null										
+6	2	fb:cell.168_bc	168 BC	168|bc	168|bc	CD|NN	DATE|DATE	-0167|-0167	168.0			168 BC
+6	3	fb:cell.also_an_equatorial_device	Also an Equatorial Device	also|an|equatorial|device	also|a|equatorial|device	RB|DT|JJ|NN	O|O|O|O	|||				Also an Equatorial Device
+6	4	fb:cell._citation_needed	[citation needed]	-lsb-|citation|needed|-rsb-	-lsb-|citation|need|-rsb-	-LRB-|NN|VBN|-RRB-	O|O|O|O	|||				[citation needed]
+7	0	fb:cell.equatorial_armillary_sphere	Equatorial Armillary Sphere\n(赤道式渾儀)	equatorial|armillary|sphere|-lrb-|赤道式渾儀|-rrb-	equatorial|armillary|sphere|-lrb-|赤道式渾儀|-rrb-	JJ|JJ|NN|-LRB-|NN|-RRB-	O|O|O|O|O|O	|||||				Equatorial Armillary Sphere|(赤道式渾儀)
+7	1	fb:cell.luo_xiahong	Luo Xiahong (落下閎)	luo|xiahong|-lrb-|落下閎|-rrb-	Luo|Xiahong|-lrb-|落下閎|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O	||||				Luo Xiahong (落下閎)
+7	2	fb:cell.104_bc	104 BC 西漢武帝時	104|bc|西漢武帝時	104|bc|西漢武帝時	CD|NN|NN	DATE|DATE|O	-0103|-0103|	104.0			104 BC 西漢武帝時
+7	3	fb:cell.lost	lost	lost	lose	VBN	O					lost
+7	4	fb:cell._citation_needed	[citation needed]	-lsb-|citation|needed|-rsb-	-lsb-|citation|need|-rsb-	-LRB-|NN|VBN|-RRB-	O|O|O|O	|||				[citation needed]
+8	0	fb:cell.celestial_globe	Celestial Globe\n(渾象)\n(圓儀)	celestial|globe|-lrb-|渾象|-rrb-|-lrb-|圓儀|-rrb-	celestial|globe|-lrb-|渾象|-rrb-|-lrb-|圓儀|-rrb-	JJ|NN|-LRB-|NN|-RRB-|-LRB-|NN|-RRB-	O|O|O|O|O|O|O|O	|||||||				Celestial Globe|(渾象)|(圓儀)
+8	1	fb:cell.geng_shouchang	Geng Shouchang (耿壽昌)	geng|shouchang|-lrb-|耿壽昌|-rrb-	Geng|Shouchang|-lrb-|耿壽昌|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O	||||				Geng Shouchang (耿壽昌)
+8	2	fb:cell.52_bc_gan_lu_er_ren	52 BC 甘露二年Gan Lu Er Ren	52|bc|甘露二年gan|lu|er|ren	52|BC|甘露二年Gan|Lu|er|ren	CD|NNP|NNP|NNP|NN|NN	DATE|DATE|PERSON|PERSON|PERSON|PERSON	-0051|-0051||||	52.0			52 BC 甘露二年Gan Lu Er Ren
+8	3	fb:cell.lost	lost	lost	lose	VBN	O					lost
+8	4	fb:cell._citation_needed	[citation needed]	-lsb-|citation|needed|-rsb-	-lsb-|citation|need|-rsb-	-LRB-|NN|VBN|-RRB-	O|O|O|O	|||				[citation needed]
+9	0	fb:cell.first_remark_of_a_constellation_in_observation_in_korean_history	First remark of a constellation in observation in Korean history	first|remark|of|a|constellation|in|observation|in|korean|history	first|remark|of|a|constellation|in|observation|in|korean|history	JJ|NN|IN|DT|NN|IN|NN|IN|JJ|NN	ORDINAL|O|O|O|O|O|O|O|MISC|O	1.0|||||||||				First remark of a constellation in observation in Korean history
+9	1	fb:cell.null										
+9	2	fb:cell.49_bc_9	49 BC 혁거세 거서간 9년	49|bc|혁거세|거서간|9년	49|bc|혁거세|거서간|9년	CD|NN|NN|NN|NN	DATE|DATE|O|O|O	-0048|-0048|||	49.0		9.0	49 BC 혁거세 거서간 9년
+9	3	fb:cell.the_star_pae_a_kind_of_comet_appeared_in_the_constellation_wang_rang	The star 'Pae'(a kind of comet) appeared in the constellation Wang Rang	the|star|`|pae|'|-lrb-|a|kind|of|comet|-rrb-|appeared|in|the|constellation|wang|rang	the|star|`|Pae|'|-lrb-|a|kind|of|comet|-rrb-|appear|in|the|constellation|Wang|ring	DT|NN|``|NNP|''|-LRB-|DT|NN|IN|NN|-RRB-|VBD|IN|DT|NN|NNP|VBD	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON	||||||||||||||||				The star 'Pae'(a kind of comet) appeared in the constellation Wang Rang
+9	4	fb:cell.samguk_sagi	Samguk Sagi	samguk|sagi	Samguk|Sagi	NNP|NNP	PERSON|PERSON	|				Samguk Sagi
+10	0	fb:cell.first_ecliptic_armillary_sphere_huang_dao_yi	First Ecliptic Armillary Sphere\n(黄道仪Huang Dao Yi)	first|ecliptic|armillary|sphere|-lrb-|黄道仪huang|dao|yi|-rrb-	first|ecliptic|armillary|sphere|-lrb-|黄道仪Huang|Dao|Yi|-rrb-	JJ|JJ|JJ|NN|-LRB-|NNP|NNP|NNP|-RRB-	ORDINAL|O|O|O|O|O|O|O|O	1.0||||||||				First Ecliptic Armillary Sphere|(黄道仪Huang Dao Yi)
+10	1	fb:cell.jia_kui	Jia Kui 贾逵	jia|kui|贾逵	Jia|Kui|贾逵	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Jia Kui 贾逵
+10	2	fb:cell.30_101_ad	30–101 AD 东汉永元十五年	30|--|101|ad|东汉永元十五年	30|--|101|ad|东汉永元十五年	CD|:|CD|NN|NN	NUMBER|O|DATE|DATE|O	30.0||+0101|+0101|	30.0		101.0	30–101 AD 东汉永元十五年
+10	3	fb:cell.null_2	-	-	-	:	O					-
+10	4	fb:cell.null_2	-	-	-	:	O					-
+11	0	fb:cell.han_grave_mural_star_chart_xing_xiang_tu	Han Grave Mural Star Chart\n(洛阳西汉墓壁画)\n(星象图Xing Xiang Tu)	han|grave|mural|star|chart|-lrb-|洛阳西汉墓壁画|-rrb-|-lrb-|星象图xing|xiang|tu|-rrb-	Han|grave|mural|star|chart|-lrb-|洛阳西汉墓壁画|-rrb-|-lrb-|星象图xing|Xiang|Tu|-rrb-	NNP|JJ|NN|NN|NN|-LRB-|NN|-RRB-|-LRB-|VBG|NNP|NNP|-RRB-	O|O|O|O|O|O|O|O|O|O|PERSON|PERSON|O	||||||||||||				Han Grave Mural Star Chart|(洛阳西汉墓壁画)|(星象图Xing Xiang Tu)
+11	1	fb:cell.null										
+11	2	fb:cell.c_1st_century	c. 1st century	c.|1st|century	c.|1st|century	NNP|JJ|NN	O|DATE|DATE	|00XX|00XX	0.1			c. 1st century
+11	3	fb:cell.sun_moon_and_ten_other_star_charts	Sun, Moon and ten other star charts	sun|,|moon|and|ten|other|star|charts	Sun|,|Moon|and|ten|other|star|chart	NNP|,|NNP|CC|CD|JJ|NN|NNS	O|O|O|O|NUMBER|O|O|O	||||>=10.0|||				Sun|Moon and ten other star charts
+11	4	fb:cell.null										
+12	0	fb:cell.han_dynasty_nanyang_stone_engraving_xing_yu_tu	Han Dynasty Nanyang Stone Engraving\n(河南南阳汉石刻画)\n(行雨图Xing Yu Tu)	han|dynasty|nanyang|stone|engraving|-lrb-|河南南阳汉石刻画|-rrb-|-lrb-|行雨图xing|yu|tu|-rrb-	Han|Dynasty|Nanyang|Stone|Engraving|-lrb-|河南南阳汉石刻画|-rrb-|-lrb-|行雨图xing|Yu|Tu|-rrb-	NNP|NNP|NNP|NNP|NNP|-LRB-|NN|-RRB-|-LRB-|VBG|NNP|NNP|-RRB-	O|O|O|O|O|O|O|O|O|O|PERSON|PERSON|O	||||||||||||				Han Dynasty Nanyang Stone Engraving|(河南南阳汉石刻画)|(行雨图Xing Yu Tu)
+12	1	fb:cell.null										
+12	2	fb:cell.c_1st_century	c. 1st century	c.|1st|century	c.|1st|century	NNP|JJ|NN	O|DATE|DATE	|00XX|00XX	0.1			c. 1st century
+12	3	fb:cell.depicted_five_stars_forming_a_cross	Depicted five stars forming a cross	depicted|five|stars|forming|a|cross	depict|five|star|form|a|cross	VBN|CD|NNS|VBG|DT|NN	O|NUMBER|O|O|O|O	|5.0||||				Depicted five stars forming a cross
+12	4	fb:cell.null										
+13	0	fb:cell.eastern_han_celestial_globe_and_star_maps	Eastern Han Celestial Globe and star maps\n(浑天仪)\n(渾天儀圖注,浑天仪图注)\n(靈憲,灵宪)	eastern|han|celestial|globe|and|star|maps|-lrb-|浑天仪|-rrb-|-lrb-|渾天儀圖注|,|浑天仪图注|-rrb-|-lrb-|靈憲|,|灵宪|-rrb-	Eastern|Han|Celestial|Globe|and|star|map|-lrb-|浑天仪|-rrb-|-lrb-|渾天儀圖注|,|浑天仪图注|-rrb-|-lrb-|靈憲|,|灵宪|-rrb-	NNP|NNP|NNP|NNP|CC|NNP|NNS|-LRB-|NN|-RRB-|-LRB-|NNP|,|NN|-RRB-|-LRB-|NNP|,|NN|-RRB-	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||||||				Eastern Han Celestial Globe and star maps|(浑天仪)|(渾天儀圖注,浑天仪图注)|(靈憲,灵宪)
+13	1	fb:cell.zhang_heng	Zhang Heng (张衡)	zhang|heng|-lrb-|张衡|-rrb-	Zhang|Heng|-lrb-|张衡|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O	||||				Zhang Heng (张衡)
+13	2	fb:cell.117_ad	117 AD	117|ad	117|ad	CD|NN	DATE|DATE	+0117|+0117	117.0			117 AD
+13	3	fb:cell.null_2	-	-	-	:	O					-
+13	4	fb:cell.null_2	-	-	-	:	O					-
+14	0	fb:cell.sky_map_and_hun_tian_yi_shuo	Sky Map\n(浑天图)\nand\nHun Tian Yi Shuo\n(浑天仪说)	sky|map|-lrb-|浑天图|-rrb-|and|hun|tian|yi|shuo|-lrb-|浑天仪说|-rrb-	Sky|map|-lrb-|浑天图|-rrb-|and|Hun|Tian|Yi|Shuo|-lrb-|浑天仪说|-rrb-	NNP|NN|-LRB-|NN|-RRB-|CC|NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-	O|O|O|O|O|O|PERSON|PERSON|PERSON|PERSON|O|O|O	||||||||||||				Sky Map|(浑天图)|and|Hun Tian Yi Shuo|(浑天仪说)
+14	1	fb:cell.lu_ji	Lu Ji (陆绩)	lu|ji|-lrb-|陆绩|-rrb-	Lu|Ji|-lrb-|陆绩|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O	||||				Lu Ji (陆绩)
+14	2	fb:cell.187_219_ad	187–219 AD 三国	187|--|219|ad|三国	187|--|219|ad|三国	CD|:|CD|NN|NN	NUMBER|O|DATE|DATE|O	187.0||+0219|+0219|	187.0		219.0	187–219 AD 三国
+14	3	fb:cell.null_2	-	-	-	:	O					-
+14	4	fb:cell.null_2	-	-	-	:	O					-
+15	0	fb:cell.reproduced_hun_tian_yi_and_wrote_hun_tian_xiang_shuo	Reproduced Hun Tian Yi\n(浑天仪)\nand wrote\nHun Tian Xiang Shuo\n(浑天象说)	reproduced|hun|tian|yi|-lrb-|浑天仪|-rrb-|and|wrote|hun|tian|xiang|shuo|-lrb-|浑天象说|-rrb-	reproduce|Hun|Tian|Yi|-lrb-|浑天仪|-rrb-|and|write|Hun|Tian|Xiang|Shuo|-lrb-|浑天象说|-rrb-	VBN|NNP|NNP|NNP|-LRB-|NNP|-RRB-|CC|VBD|NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-	O|PERSON|PERSON|PERSON|O|O|O|O|O|PERSON|PERSON|PERSON|PERSON|O|O|O	|||||||||||||||				Reproduced Hun Tian Yi|(浑天仪)|and wrote|Hun Tian Xiang Shuo|(浑天象说)
+15	1	fb:cell.wang_fan	Wang Fan 王蕃	wang|fan|王蕃	Wang|fan|王蕃	NNP|NN|NN	PERSON|PERSON|PERSON	||				Wang Fan 王蕃
+15	2	fb:cell.227_266_ad	227–266 AD 三国	227|--|266|ad|三国	227|--|266|ad|三国	CD|:|CD|NN|NN	NUMBER|O|DATE|DATE|O	227.0||+0266|+0266|	227.0		266.0	227–266 AD 三国
+15	3	fb:cell.null_2	-	-	-	:	O					-
+15	4	fb:cell.null_2	-	-	-	:	O					-
+16	0	fb:cell.whole_sky_star_maps_quan_tian_xing_tu	Whole Sky Star Maps\n(全天星圖Quan Tian Xing Tu)	whole|sky|star|maps|-lrb-|全天星圖quan|tian|xing|tu|-rrb-	whole|sky|star|map|-lrb-|全天星圖Quan|Tian|Xing|Tu|-rrb-	JJ|NN|NN|NNS|-LRB-|NNP|NNP|NNP|NNP|-RRB-	O|O|O|O|O|O|PERSON|PERSON|PERSON|O	|||||||||				Whole Sky Star Maps|(全天星圖Quan Tian Xing Tu)
+16	1	fb:cell.chen_zhuo	Chen Zhuo (陳卓)	chen|zhuo|-lrb-|陳卓|-rrb-	Chen|Zhuo|-lrb-|陳卓|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O	||||				Chen Zhuo (陳卓)
+16	2	fb:cell.c_270_ad_xi_jin_chu	c. 270 AD 西晉初Xi Jin Chu	c.|270|ad|西晉初xi|jin|chu	c.|270|ad|西晉初Xi|Jin|Chu	NNP|CD|NN|NNP|NNP|NNP	O|DATE|DATE|PERSON|PERSON|PERSON	|+0270|+0270|||	0.27			c. 270 AD 西晉初Xi Jin Chu
+16	3	fb:cell.a_unified_constellation_system_star_maps_containing_1464_stars_in_284_constellations_written_astrology_text	A Unified Constellation System. Star maps containing 1464 stars in 284 Constellations, written astrology text	a|unified|constellation|system|.|star|maps|containing|1464|stars|in|284|constellations|,|written|astrology|text	a|unified|constellation|system|.|Star|map|contain|1464|star|in|284|constellation|,|write|astrology|text	DT|JJ|NN|NN|.|NNP|NNS|VBG|CD|NNS|IN|CD|NNS|,|VBN|NN|NN	O|O|O|O|O|O|O|O|NUMBER|O|O|NUMBER|O|O|O|O|O	||||||||1464.0|||284.0|||||				A Unified Constellation System. Star maps containing 1464 stars in 284 Constellations|written astrology text
+16	4	fb:cell.null_2	-	-	-	:	O					-
+17	0	fb:cell.equatorial_armillary_sphere_hun_xi	Equatorial Armillary Sphere\n(渾儀Hun Xi)	equatorial|armillary|sphere|-lrb-|渾儀hun|xi|-rrb-	equatorial|armillary|sphere|-lrb-|渾儀hun|xi|-rrb-	JJ|JJ|NN|-LRB-|NN|NN|-RRB-	O|O|O|O|O|O|O	||||||				Equatorial Armillary Sphere|(渾儀Hun Xi)
+17	1	fb:cell.kong_ting	Kong Ting (孔挺)	kong|ting|-lrb-|孔挺|-rrb-	Kong|ting|-lrb-|孔挺|-rrb-	NNP|NN|-LRB-|NN|-RRB-	PERSON|PERSON|O|O|O	||||				Kong Ting (孔挺)
+17	2	fb:cell.323_ad	323 AD 東晉 前趙光初六年	323|ad|東晉|前趙光初六年	323|ad|東晉|前趙光初六年	CD|NN|NN|NN	DATE|DATE|O|O	+0323|+0323||	323.0			323 AD 東晉 前趙光初六年
+17	3	fb:cell.level_being_used_in_this_kind_of_device	level being used in this kind of device	level|being|used|in|this|kind|of|device	level|be|use|in|this|kind|of|device	NN|VBG|VBN|IN|DT|NN|IN|NN	O|O|O|O|O|O|O|O	|||||||				level being used in this kind of device
+17	4	fb:cell.null_2	-	-	-	:	O					-
+18	0	fb:cell.northern_wei_period_iron_armillary_sphere	Northern Wei Period Iron Armillary Sphere\n(鐵渾儀)	northern|wei|period|iron|armillary|sphere|-lrb-|鐵渾儀|-rrb-	northern|Wei|period|iron|armillary|sphere|-lrb-|鐵渾儀|-rrb-	JJ|NNP|NN|NN|JJ|NN|-LRB-|NN|-RRB-	O|O|O|O|O|O|O|O|O	||||||||				Northern Wei Period Iron Armillary Sphere|(鐵渾儀)
+18	1	fb:cell.hu_lan	Hu Lan (斛蘭)	hu|lan|-lrb-|斛蘭|-rrb-	Hu|Lan|-lrb-|斛蘭|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O	||||				Hu Lan (斛蘭)
+18	2	fb:cell.bei_wei_level_being_used_in_this_kind_of_device	Bei Wei\plevel being used in this kind of device	bei|wei|\p|level|being|used|in|this|kind|of|device	Bei|Wei|\p|level|be|use|in|this|kind|of|device	NNP|NNP|NNP|NN|VBG|VBN|IN|DT|NN|IN|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||				Bei Wei\plevel being used in this kind of device
+18	3	fb:cell.null_2	-	-	-	:	O					-
+18	4	fb:cell.null										
+19	0	fb:cell.southern_dynasties_period_whole_sky_planetarium_hun_tian_xiang	Southern Dynasties Period Whole Sky Planetarium\n(渾天象Hun Tian Xiang)	southern|dynasties|period|whole|sky|planetarium|-lrb-|渾天象hun|tian|xiang|-rrb-	southern|dynasty|period|whole|sky|planetarium|-lrb-|渾天象hun|Tian|Xiang|-rrb-	JJ|NNS|NN|JJ|NN|NN|-LRB-|NN|NNP|NNP|-RRB-	O|O|O|O|O|O|O|O|PERSON|PERSON|O	||||||||||				Southern Dynasties Period Whole Sky Planetarium|(渾天象Hun Tian Xiang)
+19	1	fb:cell.qian_lezhi	Qian Lezhi (錢樂之)	qian|lezhi|-lrb-|錢樂之|-rrb-	Qian|Lezhi|-lrb-|錢樂之|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O	||||				Qian Lezhi (錢樂之)
+19	2	fb:cell.443_ad	443 AD 南朝劉宋元嘉年間	443|ad|南朝劉宋元嘉年間	443|ad|南朝劉宋元嘉年間	CD|NN|NN	DATE|DATE|O	+0443|+0443|	443.0			443 AD 南朝劉宋元嘉年間
+19	3	fb:cell.used_red_black_and_white_to_differentiate_stars_from_different_star_maps_from_shi_shen_gan_de_and_wu_xian	used red, black and white to differentiate stars from different star maps from Shi Shen, Gan De and Wu Xian 甘, 石, 巫三家星	used|red|,|black|and|white|to|differentiate|stars|from|different|star|maps|from|shi|shen|,|gan|de|and|wu|xian|甘|,|石|,|巫三家星	use|red|,|black|and|white|to|differentiate|star|from|different|star|map|from|Shi|Shen|,|Gan|De|and|Wu|Xian|甘|,|石|,|巫三家星	VBN|JJ|,|JJ|CC|JJ|TO|VB|NNS|IN|JJ|NN|NNS|IN|NNP|NNP|,|NNP|NNP|CC|NNP|NNP|NNP|,|NNP|,|NNP	O|O|O|O|O|O|O|O|O|O|O|O|O|O|PERSON|PERSON|O|ORGANIZATION|O|O|LOCATION|LOCATION|O|O|O|O|O	||||||||||||||||||||||||||				used red|black and white to differentiate stars from different star maps from Shi Shen|Gan De and Wu Xian 甘|石|巫三家星
+19	4	fb:cell.null_2	-	-	-	:	O					-
+20	0	fb:cell.northern_wei_grave_dome_star_map	Northern Wei Grave Dome Star Map\n(河南洛陽北魏墓頂星圖)	northern|wei|grave|dome|star|map|-lrb-|河南洛陽北魏墓頂星圖|-rrb-	northern|Wei|grave|Dome|Star|map|-lrb-|河南洛陽北魏墓頂星圖|-rrb-	JJ|NNP|NN|NNP|NNP|NN|-LRB-|NN|-RRB-	O|LOCATION|LOCATION|LOCATION|O|O|O|O|O	||||||||				Northern Wei Grave Dome Star Map|(河南洛陽北魏墓頂星圖)
+20	1	fb:cell.null										
+20	2	fb:cell.526_ad	526 AD 北魏孝昌二年	526|ad|北魏孝昌二年	526|ad|北魏孝昌二年	CD|NN|NN	DATE|DATE|O	+0526|+0526|	526.0			526 AD 北魏孝昌二年
+20	3	fb:cell.about_300_stars_including_the_big_dipper_some_stars_are_linked_by_straight_lines_to_form_constellation_the_milky_way_is_also_shown	about 300 stars, including the Big Dipper, some stars are linked by straight lines to form constellation. The Milky Way is also shown.	about|300|stars|,|including|the|big|dipper|,|some|stars|are|linked|by|straight|lines|to|form|constellation|.|the|milky|way|is|also|shown|.	about|300|star|,|include|the|big|Dipper|,|some|star|be|link|by|straight|line|to|form|constellation|.|the|Milky|Way|be|also|show|.	IN|CD|NNS|,|VBG|DT|JJ|NNP|,|DT|NNS|VBD-AUX|VBN|IN|JJ|NNS|TO|VB|NN|.|DT|NNP|NNP|VBD-AUX|RB|VBN|.	O|NUMBER|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|~300.0|||||||||||||||||||||||||	300.0			about 300 stars|including the Big Dipper|some stars are linked by straight lines to form constellation. The Milky Way is also shown.
+20	4	fb:cell.null										
+21	0	fb:cell.water_powered_planetarium	Water-powered Planetarium\n(水力渾天儀)	water|powered|planetarium|-lrb-|水力渾天儀|-rrb-	water|power|planetarium|-lrb-|水力渾天儀|-rrb-	NN|VBD|NN|-LRB-|NN|-RRB-	O|O|O|O|O|O	|||||				Water-powered Planetarium|(水力渾天儀)
+21	1	fb:cell.geng_xun	Geng Xun (耿詢)	geng|xun|-lrb-|耿詢|-rrb-	Geng|Xun|-lrb-|耿詢|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O	||||				Geng Xun (耿詢)
+21	2	fb:cell.c_7th_century_sui_chu	c. 7th century 隋初Sui Chu	c.|7th|century|隋初sui|chu	c.|7th|century|隋初Sui|Chu	NNP|NNP|NNP|NNP|NNP	O|DATE|DATE|PERSON|PERSON	|06XX|06XX||	0.7			c. 7th century 隋初Sui Chu
+21	3	fb:cell.null_2	-	-	-	:	O					-
+21	4	fb:cell.null_2	-	-	-	:	O					-
+22	0	fb:cell.lingtai_miyuan	Lingtai Miyuan\n(靈台秘苑)	lingtai|miyuan|-lrb-|靈台秘苑|-rrb-	Lingtai|Miyuan|-lrb-|靈台秘苑|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O	||||				Lingtai Miyuan|(靈台秘苑)
+22	1	fb:cell.yu_jicai_and_zhou_fen	Yu Jicai (庾季才) and Zhou Fen (周墳)	yu|jicai|-lrb-|庾季才|-rrb-|and|zhou|fen|-lrb-|周墳|-rrb-	Yu|Jicai|-lrb-|庾季才|-rrb-|and|zhou|fen|-lrb-|周墳|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-|CC|NN|NN|-LRB-|NN|-RRB-	PERSON|PERSON|O|O|O|O|PERSON|PERSON|O|O|O	||||||||||				Yu Jicai (庾季才) and Zhou Fen (周墳)
+22	2	fb:cell.604_ad_sui	604 AD 隋Sui	604|ad|隋sui	604|ad|隋sui	CD|NN|NN	DATE|DATE|O	+0604|+0604|	604.0			604 AD 隋Sui
+22	3	fb:cell.incorporated_star_maps_from_different_sources	incorporated star maps from different sources	incorporated|star|maps|from|different|sources	incorporate|star|map|from|different|source	VBN|NN|NNS|IN|JJ|NNS	O|O|O|O|O|O	|||||				incorporated star maps from different sources
+22	4	fb:cell.null_2	-	-	-	:	O					-
+23	0	fb:cell.tang_dynasty_whole_sky_ecliptic_armillary_sphere	Tang Dynasty Whole Sky Ecliptic Armillary Sphere\n(渾天黃道儀)	tang|dynasty|whole|sky|ecliptic|armillary|sphere|-lrb-|渾天黃道儀|-rrb-	Tang|Dynasty|whole|sky|ecliptic|armillary|sphere|-lrb-|渾天黃道儀|-rrb-	NNP|NNP|JJ|NN|JJ|JJ|NN|-LRB-|NN|-RRB-	O|O|O|O|O|O|O|O|O|O	|||||||||				Tang Dynasty Whole Sky Ecliptic Armillary Sphere|(渾天黃道儀)
+23	1	fb:cell.li_chunfeng	Li Chunfeng 李淳風	li|chunfeng|李淳風	Li|Chunfeng|李淳風	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Li Chunfeng 李淳風
+23	2	fb:cell.667_ad	667 AD 貞觀七年	667|ad|貞觀七年	667|ad|貞觀七年	CD|NN|NN	DATE|DATE|O	+0667|+0667|	667.0			667 AD 貞觀七年
+23	3	fb:cell.including_elliptic_and_moon_orbit_in_addition_to_old_equatorial_design	including Elliptic and Moon orbit, in addition to old equatorial design	including|elliptic|and|moon|orbit|,|in|addition|to|old|equatorial|design	include|elliptic|and|moon|orbit|,|in|addition|to|old|equatorial|design	VBG|JJ|CC|NN|NN|,|IN|NN|TO|JJ|JJ|NN	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||				including Elliptic and Moon orbit|in addition to old equatorial design
+23	4	fb:cell.null_2	-	-	-	:	O					-
+24	0	fb:cell.the_dunhuang_star_map	The Dunhuang star map\n(燉煌)	the|dunhuang|star|map|-lrb-|燉煌|-rrb-	the|Dunhuang|star|map|-lrb-|燉煌|-rrb-	DT|NNP|NNP|NN|-LRB-|NN|-RRB-	O|LOCATION|O|O|O|O|O	||||||				The Dunhuang star map|(燉煌)
+24	1	fb:cell.dun_huang	Dun Huang	dun|huang	Dun|Huang	NNP|NNP	PERSON|PERSON	|				Dun Huang
+24	2	fb:cell.705_710_ad	705–710 AD	705|--|710|ad	705|--|710|ad	CD|:|CD|NN	NUMBER|O|DATE|DATE	705.0||+0710|+0710	705.0		710.0	705–710 AD
+24	3	fb:cell.1_585_stars_grouped_into_257_clusters_or_asterisms	1,585 stars grouped into 257 clusters or "asterisms"	1,585|stars|grouped|into|257|clusters|or|``|asterisms|''	1,585|star|group|into|257|cluster|or|``|asterisms|''	CD|NNS|VBD|IN|CD|NNS|CC|``|NNP|''	NUMBER|O|O|O|NUMBER|O|O|O|O|O	1585.0||||257.0|||||	1585.0		257.0	1,585 stars grouped into 257 clusters or "asterisms"
+24	4	fb:cell.null										
+25	0	fb:cell.turfan_tomb_star_mural	Turfan Tomb Star Mural\n(新疆吐鲁番阿斯塔那天文壁画)	turfan|tomb|star|mural|-lrb-|新疆吐鲁番阿斯塔那天文壁画|-rrb-	Turfan|tomb|star|mural|-lrb-|新疆吐鲁番阿斯塔那天文壁画|-rrb-	NNP|NN|NN|NN|-LRB-|NN|-RRB-	LOCATION|LOCATION|LOCATION|O|O|O|O	||||||				Turfan Tomb Star Mural|(新疆吐鲁番阿斯塔那天文壁画)
+25	1	fb:cell.null										
+25	2	fb:cell.250_799_ad	250–799 AD 唐	250|--|799|ad|唐	250|--|799|ad|唐	CD|:|CD|NN|NN	NUMBER|O|DATE|DATE|O	250.0||+0799|+0799|	250.0		799.0	250–799 AD 唐
+25	3	fb:cell.28_constellations_milkyway_and_five_stars	28 Constellations, Milkyway and Five Stars	28|constellations|,|milkyway|and|five|stars	28|constellation|,|Milkyway|and|five|star	CD|NNS|,|NNP|CC|CD|NNS	NUMBER|O|O|ORGANIZATION|O|NUMBER|O	28.0|||||5.0|	28.0			28 Constellations|Milkyway and Five Stars
+25	4	fb:cell.null										
+26	0	fb:cell.picture_of_fuxi_and_nuwa_fu_xi_nv_waxiang	Picture of Fuxi and Nüwa 新疆阿斯達那唐墓伏羲Fu Xi 女媧NV Wa像Xiang	picture|of|fuxi|and|nüwa|新疆阿斯達那唐墓伏羲fu|xi|女媧nv|wa像xiang	picture|of|fuxus|and|nüwa|新疆阿斯達那唐墓伏羲fu|xi|女媧nv|wa像xiang	NN|IN|NN|CC|NN|NN|NN|NN|NN	O|O|O|O|MISC|MISC|MISC|O|O	||||||||				Picture of Fuxi and Nüwa 新疆阿斯達那唐墓伏羲Fu Xi 女媧NV Wa像Xiang
+26	1	fb:cell.null										
+26	2	fb:cell.tang_dynasty	Tang Dynasty	tang|dynasty	Tang|Dynasty	NNP|NNP	PERSON|PERSON	|				Tang Dynasty
+26	3	fb:cell.picture_of_fuxi_and_nuwa_together_with_some_constellations	Picture of Fuxi and Nuwa together with some constellations	picture|of|fuxi|and|nuwa|together|with|some|constellations	picture|of|fuxus|and|nuwa|together|with|some|constellation	NN|IN|NN|CC|NN|RB|IN|DT|NNS	O|O|O|O|ORGANIZATION|O|O|O|O	||||||||				Picture of Fuxi and Nuwa together with some constellations
+26	4	fb:cell.image_nuva_fuxi_gif	Image:Nuva fuxi.gif	image|:|nuva|fuxi.gif	image|:|nuva|fuxi.gif	NN|:|NN|NN	O|O|O|O	|||				Image:Nuva fuxi.gif
+27	0	fb:cell.tang_dynasty_armillary_sphere_tang_dai_hun_xi_huang_dao_you_xi	Tang Dynasty Armillary Sphere\n(唐代渾儀Tang Dai Hun Xi)\n(黃道遊儀Huang dao you xi)	tang|dynasty|armillary|sphere|-lrb-|唐代渾儀tang|dai|hun|xi|-rrb-|-lrb-|黃道遊儀huang|dao|you|xi|-rrb-	Tang|Dynasty|armillary|sphere|-lrb-|唐代渾儀Tang|Dai|Hun|xi|-rrb-|-lrb-|黃道遊儀Huang|dao|you|xi|-rrb-	NNP|NNP|JJ|NN|-LRB-|NNP|NNP|NNP|NN|-RRB-|-LRB-|NNP|NNP|PRP|NN|-RRB-	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||||				Tang Dynasty Armillary Sphere|(唐代渾儀Tang Dai Hun Xi)|(黃道遊儀Huang dao you xi)
+27	1	fb:cell.yixing_monk_zhang_sui_and_liang_lingzan	Yixing Monk 一行和尚 (张遂)Zhang Sui and Liang Lingzan 梁令瓚	yixing|monk|一行和尚|-lrb-|张遂|-rrb-|zhang|sui|and|liang|lingzan|梁令瓚	yix|monk|一行和尚|-lrb-|张遂|-rrb-|Zhang|Sui|and|Liang|Lingzan|梁令瓚	VBG|NN|NN|-LRB-|NN|-RRB-|NNP|NNP|CC|NNP|NNP|NNP	LOCATION|O|O|O|O|O|PERSON|PERSON|O|PERSON|PERSON|PERSON	|||||||||||				Yixing Monk 一行和尚 (张遂)Zhang Sui and Liang Lingzan 梁令瓚
+27	2	fb:cell.683_727_ad	683–727 AD	683|--|727|ad	683|--|727|ad	CD|:|CD|NN	NUMBER|O|DATE|DATE	683.0||+0727|+0727	683.0		727.0	683–727 AD
+27	3	fb:cell.based_on_han_dynasty_celestial_globe_recalibrated_locations_of_150_stars_determined_that_stars_are_moving	based on Han Dynasty Celestial Globe, recalibrated locations of 150 stars, determined that stars are moving	based|on|han|dynasty|celestial|globe|,|recalibrated|locations|of|150|stars|,|determined|that|stars|are|moving	base|on|Han|Dynasty|celestial|globe|,|recalibrate|location|of|150|star|,|determine|that|star|be|move	VBN|IN|NNP|NNP|JJ|NN|,|VBN|NNS|IN|CD|NNS|,|VBD|IN|NNS|VBD-AUX|VBG	O|O|MISC|MISC|MISC|MISC|O|O|O|O|NUMBER|O|O|O|O|O|O|O	||||||||||150.0|||||||	150.0			based on Han Dynasty Celestial Globe|recalibrated locations of 150 stars|determined that stars are moving
+27	4	fb:cell.null										
+28	0	fb:cell.tang_dynasty_indian_horoscope_chart	Tang Dynasty Indian Horoscope Chart\n(梵天火羅九曜)	tang|dynasty|indian|horoscope|chart|-lrb-|梵天火羅九曜|-rrb-	Tang|Dynasty|Indian|horoscope|chart|-lrb-|梵天火羅九曜|-rrb-	NNP|NNP|NNP|NN|NN|-LRB-|NN|-RRB-	O|O|O|O|O|O|O|O	|||||||				Tang Dynasty Indian Horoscope Chart|(梵天火羅九曜)
+28	1	fb:cell.yixing_priest_zhang_sui_683_727_ad	Yixing Priest 一行和尚 (张遂)\pZhang Sui\p683–727 AD	yixing|priest|一行和尚|-lrb-|张遂|-rrb-|\p|zhang|sui|\p|683|--|727|ad	Yixing|priest|一行和尚|-lrb-|张遂|-rrb-|\p|Zhang|Sui|\p|683|--|727|ad	NNP|NN|NN|-LRB-|NN|-RRB-|NN|NNP|NNP|NNP|CD|:|CD|NN	LOCATION|O|O|O|O|O|O|PERSON|PERSON|O|NUMBER|O|DATE|DATE	||||||||||683.0||+0727|+0727	683.0		727.0	Yixing Priest 一行和尚 (张遂)\pZhang Sui\p683–727 AD
+28	2	fb:cell.simple_diagrams_of_the_28_constellation	simple diagrams of the 28 Constellation	simple|diagrams|of|the|28|constellation	simple|diagram|of|the|28|constellation	JJ|NNS|IN|DT|CD|NN	O|O|O|O|NUMBER|O	||||28.0|	28.0			simple diagrams of the 28 Constellation
+28	3	fb:cell.null										
+28	4	fb:cell.null										
+29	0	fb:cell.kitora_kofun_falong_si_in_japan	Kitora Kofun 法隆寺FaLong Si　キトラ古墳 in Japan	kitora|kofun|法隆寺falong|si|キトラ古墳|in|japan	Kitora|Kofun|法隆寺FaLong|Si|キトラ古墳|in|Japan	NNP|NNP|NNP|NNP|NNP|IN|NNP	PERSON|PERSON|O|O|O|O|LOCATION	||||||				Kitora Kofun 法隆寺FaLong Si　キトラ古墳 in Japan
+29	1	fb:cell.null										
+29	2	fb:cell.c_late_7th_century_early_8th_century	c. late 7th century – early 8th century	c.|late|7th|century|--|early|8th|century	c.|late|7th|century|--|early|8th|century	NNP|RB|JJ|NN|:|JJ|JJ|NN	O|DATE|DATE|DATE|O|DATE|DATE|DATE	|06XX|06XX|06XX||07XX|07XX|07XX				c. late 7th century – early 8th century
+29	3	fb:cell.detailed_whole_sky_map	Detailed whole sky map	detailed|whole|sky|map	detailed|whole|sky|map	JJ|JJ|NN|NN	O|O|O|O	|||				Detailed whole sky map
+29	4	fb:cell.null										
+30	0	fb:cell.treatise_on_astrology_of_the_kaiyuan_era_kai_yuan_zhang_jing	Treatise on Astrology of the Kaiyuan Era\n(開元占経,开元占经Kai Yuan zhang Jing)	treatise|on|astrology|of|the|kaiyuan|era|-lrb-|開元占経|,|开元占经kai|yuan|zhang|jing|-rrb-	treatise|on|astrology|of|the|Kaiyuan|era|-lrb-|開元占経|,|开元占经Kai|Yuan|zhang|Jing|-rrb-	NN|IN|NN|IN|DT|NNP|NN|-LRB-|NN|,|NNP|NNP|NNP|NNP|-RRB-	O|O|O|O|O|PERSON|O|O|O|O|PERSON|PERSON|PERSON|PERSON|O	||||||||||||||				Treatise on Astrology of the Kaiyuan Era|(開元占経,开元占经Kai Yuan zhang Jing)
+30	1	fb:cell.gautama_siddha	Gautama Siddha	gautama|siddha	Gautama|Siddha	NNP|NNP	PERSON|PERSON	|				Gautama Siddha
+30	2	fb:cell.713_ad	713 AD –	713|ad|--	713|ad|--	CD|NN|:	DATE|DATE|O	+0713|+0713|	713.0			713 AD –
+30	3	fb:cell.collection_of_the_three_old_star_charts_from_shi_shen_gan_de_and_wu_xian_one_of_the_most_renowned_collection_recognized_academically	Collection of the three old star charts from Shi Shen, Gan De and Wu Xian. One of the most renowned collection recognized academically.	collection|of|the|three|old|star|charts|from|shi|shen|,|gan|de|and|wu|xian|.|one|of|the|most|renowned|collection|recognized|academically|.	collection|of|the|three|old|star|chart|from|Shi|Shen|,|Gan|De|and|Wu|Xian|.|one|of|the|most|renowned|collection|recognize|academically|.	NN|IN|DT|CD|JJ|NN|NNS|IN|NNP|NNP|,|NNP|NNP|CC|NNP|NNP|.|CD|IN|DT|RBS|JJ|NN|VBD|RB|.	O|O|O|NUMBER|O|O|O|O|PERSON|PERSON|O|ORGANIZATION|O|O|PERSON|PERSON|O|NUMBER|O|O|O|O|O|O|O|O	|||3.0||||||||||||||1.0||||||||				Collection of the three old star charts from Shi Shen|Gan De and Wu Xian. One of the most renowned collection recognized academically.
+30	4	fb:cell.null_2	-	-	-	:	O					-
+31	0	fb:cell.big_dipper	Big Dipper\n(山東嘉祥武梁寺石刻北斗星)	big|dipper|-lrb-|山東嘉祥武梁寺石刻北斗星|-rrb-	big|Dipper|-lrb-|山東嘉祥武梁寺石刻北斗星|-rrb-	JJ|NNP|-LRB-|NN|-RRB-	O|O|O|O|O	||||				Big Dipper|(山東嘉祥武梁寺石刻北斗星)
+31	1	fb:cell.null										
+31	2	fb:cell.null_2	-	-	-	:	O					-
+31	3	fb:cell.showing_stars_in_big_dipper	showing stars in Big Dipper	showing|stars|in|big|dipper	show|star|in|big|Dipper	VBG|NNS|IN|JJ|NNP	O|O|O|O|O	||||				showing stars in Big Dipper
+31	4	fb:cell.null										
+32	0	fb:cell.prajvalonisa_vjrabhairava_padvinasa_sri_dharani_scroll_found_in_japan	Prajvalonisa Vjrabhairava Padvinasa-sri-dharani Scroll found in Japan 熾盛光佛頂大威德銷災吉祥陀羅尼經卷首扉畫	prajvalonisa|vjrabhairava|padvinasa|sri|dharani|scroll|found|in|japan|熾盛光佛頂大威德銷災吉祥陀羅尼經卷首扉畫	prajvalonisa|vjrabhairava|padvinasa|srus|dharanus|scroll|find|in|Japan|熾盛光佛頂大威德銷災吉祥陀羅尼經卷首扉畫	NN|NN|NN|NN|NNS|VBP|VBN|IN|NNP|NNP	O|O|O|O|O|O|O|O|LOCATION|O	|||||||||				Prajvalonisa Vjrabhairava Padvinasa-sri-dharani Scroll found in Japan 熾盛光佛頂大威德銷災吉祥陀羅尼經卷首扉畫
+32	1	fb:cell.null										
+32	2	fb:cell.972_ad	972 AD 北宋開寶五年	972|ad|北宋開寶五年	972|ad|北宋開寶五年	CD|NN|NN	DATE|DATE|O	+0972|+0972|	972.0			972 AD 北宋開寶五年
+32	3	fb:cell.chinese_28_constellations_and_western_zodiac	Chinese 28 Constellations and Western Zodiac	chinese|28|constellations|and|western|zodiac	chinese|28|constellation|and|western|zodiac	JJ|CD|NNS|CC|JJ|NN	MISC|NUMBER|O|O|O|O	|28.0||||	28.0			Chinese 28 Constellations and Western Zodiac
+32	4	fb:cell.null_2	-	-	-	:	O					-
+33	0	fb:cell.tangut_khara_khoto_the_black_city_star_map	Tangut Khara-Khoto (The Black City) Star Map 西夏黑水城星圖	tangut|khara|khoto|-lrb-|the|black|city|-rrb-|star|map|西夏黑水城星圖	Tangut|Khara|Khoto|-lrb-|the|black|city|-rrb-|star|map|西夏黑水城星圖	NNP|NNP|NNP|-LRB-|DT|JJ|NN|-RRB-|NN|NN|NN	PERSON|PERSON|PERSON|O|O|O|O|O|O|O|O	||||||||||				Tangut Khara-Khoto (The Black City) Star Map 西夏黑水城星圖
+33	1	fb:cell.null										
+33	2	fb:cell.940_ad	940 AD	940|ad	940|ad	CD|NN	DATE|DATE	+0940|+0940	940.0			940 AD
+33	3	fb:cell.a_typical_qian_lezhi_style_star_map	A typical Qian Lezhi Style Star Map	a|typical|qian|lezhi|style|star|map	a|typical|Qian|Lezhi|style|star|map	DT|JJ|NNP|NNP|NN|NN|NN	O|O|O|O|O|O|O	||||||				A typical Qian Lezhi Style Star Map
+33	4	fb:cell.null_2	-	-	-	:	O					-
+34	0	fb:cell.star_chart	Star Chart 五代吳越文穆王前元瓘墓石刻星象圖	star|chart|五代吳越文穆王前元瓘墓石刻星象圖	Star|chart|五代吳越文穆王前元瓘墓石刻星象圖	NNP|NN|NN	O|O|O	||				Star Chart 五代吳越文穆王前元瓘墓石刻星象圖
+34	1	fb:cell.null										
+34	2	fb:cell.941_960_ad	941–960 AD	941|--|960|ad	941|--|960|ad	CD|:|CD|NN	NUMBER|O|DATE|DATE	941.0||+0960|+0960	941.0		960.0	941–960 AD
+34	3	fb:cell.null_2	-	-	-	:	O					-
+34	4	fb:cell.null										
+35	0	fb:cell.ancient_star_map_by_chen_tuan	Ancient Star Map 先天图 by 陈抟Chen Tuan	ancient|star|map|先天图|by|陈抟chen|tuan	ancient|star|map|先天图|by|陈抟Chen|Tuan	JJ|NN|NN|NN|IN|NNP|NNP	O|O|O|O|O|PERSON|PERSON	||||||				Ancient Star Map 先天图 by 陈抟Chen Tuan
+35	1	fb:cell.null										
+35	2	fb:cell.c_11th_chen_tuan_song	c. 11th Chen Tuan 宋Song	c.|11th|chen|tuan|宋song	c.|11th|Chen|Tuan|宋Song	NNP|JJ|NNP|NNP|NNP	O|ORDINAL|PERSON|PERSON|PERSON	|11.0|||	0.11			c. 11th Chen Tuan 宋Song
+35	3	fb:cell.perhaps_based_on_studying_of_puyong_ancient_star_map	Perhaps based on studying of Puyong Ancient Star Map	perhaps|based|on|studying|of|puyong|ancient|star|map	perhaps|base|on|study|of|puyong|ancient|star|map	RB|VBN|IN|VBG|IN|JJ|JJ|NN|NN	O|O|O|O|O|O|O|O|O	||||||||				Perhaps based on studying of Puyong Ancient Star Map
+35	4	fb:cell.lost	lost	lost	lose	VBN	O					lost
+36	0	fb:cell.song_dynasty_bronze_armillary_sphere	Song Dynasty Bronze Armillary Sphere 北宋至道銅渾儀	song|dynasty|bronze|armillary|sphere|北宋至道銅渾儀	Song|Dynasty|bronze|armillary|sphere|北宋至道銅渾儀	NNP|NNP|NN|JJ|NN|NN	O|O|O|O|O|O	|||||				Song Dynasty Bronze Armillary Sphere 北宋至道銅渾儀
+36	1	fb:cell.han_xianfu	Han Xianfu 韓顯符	han|xianfu|韓顯符	Han|Xianfu|韓顯符	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Han Xianfu 韓顯符
+36	2	fb:cell.1006_ad	1006 AD 宋道元年十二月	1006|ad|宋道元年十二月	1006|ad|宋道元年十二月	CD|NN|NN	DATE|DATE|O	+1006|+1006|	1006.0			1006 AD 宋道元年十二月
+36	3	fb:cell.similar_to_the_simplified_armillary_by_kong_ting_chao_chong_hu_lan	Similar to the Simplified Armillary by Kong Ting 孔挺, 晁崇 Chao Chong, 斛蘭 Hu Lan	similar|to|the|simplified|armillary|by|kong|ting|孔挺|,|晁崇|chao|chong|,|斛蘭|hu|lan	similar|to|the|simplify|armillary|by|Kong|Ting|孔挺|,|晁崇|Chao|Chong|,|斛蘭|Hu|Lan	JJ|TO|DT|VBN|JJ|IN|NNP|NNP|NNP|,|NNP|NNP|NNP|,|NNP|NNP|NNP	O|O|O|O|O|O|PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON	||||||||||||||||				Similar to the Simplified Armillary by Kong Ting 孔挺|晁崇 Chao Chong|斛蘭 Hu Lan
+36	4	fb:cell.null_2	-	-	-	:	O					-
+37	0	fb:cell.song_dynasty_bronze_armillary_sphere	Song Dynasty Bronze Armillary Sphere 北宋至道銅渾儀	song|dynasty|bronze|armillary|sphere|北宋至道銅渾儀	Song|Dynasty|bronze|armillary|sphere|北宋至道銅渾儀	NNP|NNP|NN|JJ|NN|NN	O|O|O|O|O|O	|||||				Song Dynasty Bronze Armillary Sphere 北宋至道銅渾儀
+37	1	fb:cell.shu_yijian_yu_yuan_zhou_cong	Shu Yijian 舒易簡, Yu Yuan 于渊, Zhou Cong 周琮	shu|yijian|舒易簡|,|yu|yuan|于渊|,|zhou|cong|周琮	Shu|Yijian|舒易簡|,|Yu|Yuan|于渊|,|Zhou|Cong|周琮	NNP|NNP|NNP|,|NNP|NNP|NNP|,|NNP|NNP|NNP	PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON	||||||||||				Shu Yijian 舒易簡|Yu Yuan 于渊|Zhou Cong 周琮
+37	2	fb:cell.null										
+37	3	fb:cell.similar_to_the_armillary_by_tang_dynasty_liang_lingzan_and_yi_xing	Similar to the Armillary by Tang Dynasty Liang Lingzan 梁令瓚 and Yi Xing 一行	similar|to|the|armillary|by|tang|dynasty|liang|lingzan|梁令瓚|and|yi|xing|一行	similar|to|the|armillary|by|Tang|Dynasty|Liang|Lingzan|梁令瓚|and|Yi|Xing|一行	JJ|TO|DT|JJ|IN|NNP|NNP|NNP|NNP|NNP|CC|NNP|NNP|NNP	O|O|O|O|O|O|O|PERSON|PERSON|O|O|PERSON|PERSON|PERSON	|||||||||||||				Similar to the Armillary by Tang Dynasty Liang Lingzan 梁令瓚 and Yi Xing 一行
+37	4	fb:cell.null_2	-	-	-	:	O					-
+38	0	fb:cell.song_dynasty_armillary_sphere	Song Dynasty Armillary Sphere 北宋簡化渾儀	song|dynasty|armillary|sphere|北宋簡化渾儀	Song|Dynasty|armillary|sphere|北宋簡化渾儀	NNP|NNP|JJ|NN|NN	O|O|O|O|O	||||				Song Dynasty Armillary Sphere 北宋簡化渾儀
+38	1	fb:cell.shen_kuo_and_huangfu_yu	Shen Kuo 沈括 and Huangfu Yu 皇甫愈	shen|kuo|沈括|and|huangfu|yu|皇甫愈	Shen|Kuo|沈括|and|Huangfu|Yu|皇甫愈	NNP|NNP|NNP|CC|NNP|NNP|NNP	PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON	||||||				Shen Kuo 沈括 and Huangfu Yu 皇甫愈
+38	2	fb:cell.1089_ad	1089 AD 熙寧七年	1089|ad|熙寧七年	1089|ad|熙寧七年	CD|NN|NN	DATE|DATE|O	+1089|+1089|	1089.0			1089 AD 熙寧七年
+38	3	fb:cell.simplied_version_of_tang_dynasty_device_removed_the_rarely_used_moon_orbit	Simplied version of Tang Dynasty Device, removed the rarely used moon orbit.	simplied|version|of|tang|dynasty|device|,|removed|the|rarely|used|moon|orbit|.	simply|version|of|Tang|Dynasty|device|,|remove|the|rarely|use|moon|orbit|.	VBN|NN|IN|NNP|NNP|NN|,|VBD|DT|RB|VBN|NN|NN|.	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				Simplied version of Tang Dynasty Device|removed the rarely used moon orbit.
+38	4	fb:cell.null_2	-	-	-	:	O					-
+39	0	fb:cell.five_star_charts	Five Star Charts (新儀象法要)	five|star|charts|-lrb-|新儀象法要|-rrb-	five|star|chart|-lrb-|新儀象法要|-rrb-	CD|NN|NNS|-LRB-|NN|-RRB-	NUMBER|O|O|O|O|O	5.0|||||				Five Star Charts (新儀象法要)
+39	1	fb:cell.su_song	Su Song 蘇頌	su|song|蘇頌	Su|Song|蘇頌	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Su Song 蘇頌
+39	2	fb:cell.1094_ad	1094 AD	1094|ad	1094|ad	CD|NN	DATE|DATE	+1094|+1094	1094.0			1094 AD
+39	3	fb:cell.1464_stars_grouped_into_283_asterisms	1464 stars grouped into 283 asterisms	1464|stars|grouped|into|283|asterisms	1464|star|group|into|283|asterisms	CD|NNS|VBD|IN|CD|NNPS	NUMBER|O|O|O|NUMBER|O	1464.0||||283.0|	1464.0		283.0	1464 stars grouped into 283 asterisms
+39	4	fb:cell.image_su_song_star_map_1_jpg_image_su_song_star_map_2_jpg	Image:Su Song Star Map 1.JPG\nImage:Su Song Star Map 2.JPG	image|:|su|song|star|map|1.jpg|image|:|su|song|star|map|2|.|jpg	image|:|su|song|star|map|1.jpg|image|:|su|song|star|map|2|.|jpg	NN|:|FW|NN|NN|NN|CD|NN|:|FW|NN|NN|NN|CD|.|NN	O|O|O|O|O|O|NUMBER|O|O|O|O|O|O|NUMBER|O|O	|||||||||||||2.0||	1.0		2.0	Image:Su Song Star Map 1.JPG|Image:Su Song Star Map 2.JPG
+40	0	fb:cell.song_dynasty_water_powered_planetarium	Song Dynasty Water-powered Planetarium 宋代 水运仪象台	song|dynasty|water|powered|planetarium|宋代|水运仪象台	Song|Dynasty|Water|power|planetarium|宋代|水运仪象台	NNP|NNP|NNP|VBD|NN|NN|NN	O|O|O|O|O|O|O	||||||				Song Dynasty Water-powered Planetarium 宋代 水运仪象台
+40	1	fb:cell.su_song_and_han_gonglian	Su Song 蘇頌 and Han Gonglian 韩公廉	su|song|蘇頌|and|han|gonglian|韩公廉	Su|Song|蘇頌|and|Han|Gonglian|韩公廉	NNP|NNP|NNP|CC|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||				Su Song 蘇頌 and Han Gonglian 韩公廉
+40	2	fb:cell.c_11th_century	c. 11th century	c.|11th|century	c.|11th|century	NNP|JJ|NN	O|DATE|DATE	|10XX|10XX	0.11			c. 11th century
+40	3	fb:cell.null_2	-	-	-	:	O					-
+40	4	fb:cell.null										
+41	0	fb:cell.liao_dynasty_tomb_dome_star_map	Liao Dynasty Tomb Dome Star Map 遼宣化张世卿墓頂星圖	liao|dynasty|tomb|dome|star|map|遼宣化张世卿墓頂星圖	Liao|Dynasty|tomb|Dome|Star|map|遼宣化张世卿墓頂星圖	NNP|NNP|NN|NNP|NNP|NN|NN	LOCATION|LOCATION|LOCATION|LOCATION|O|O|O	||||||				Liao Dynasty Tomb Dome Star Map 遼宣化张世卿墓頂星圖
+41	1	fb:cell.null										
+41	2	fb:cell.1116_ad	1116 AD 遼天庆六年	1116|ad|遼天庆六年	1116|ad|遼天庆六年	CD|NN|NN	DATE|DATE|O	+1116|+1116|	1116.0			1116 AD 遼天庆六年
+41	3	fb:cell.shown_both_the_chinese_28_constellation_encircled_by_babylonian_zodiac	shown both the Chinese 28 Constellation encircled by Babylonian Zodiac	shown|both|the|chinese|28|constellation|encircled|by|babylonian|zodiac	show|both|the|chinese|28|constellation|encircle|by|babylonian|zodiac	VBN|CC|DT|JJ|CD|NN|VBN|IN|JJ|NN	O|O|O|MISC|NUMBER|O|O|O|O|O	||||28.0|||||	28.0			shown both the Chinese 28 Constellation encircled by Babylonian Zodiac
+41	4	fb:cell.null										
+42	0	fb:cell.star_map_in_a_woman_s_grave	Star Map in a woman's grave (江西德安 南宋周氏墓星相图)	star|map|in|a|woman|'s|grave|-lrb-|江西德安|南宋周氏墓星相图|-rrb-	Star|map|in|a|woman|'s|grave|-lrb-|江西德安|南宋周氏墓星相图|-rrb-	NNP|NN|IN|DT|NN|POS|NN|-LRB-|NN|NN|-RRB-	O|O|O|O|O|O|O|O|O|O|O	||||||||||				Star Map in a woman's grave (江西德安 南宋周氏墓星相图)
+42	1	fb:cell.null										
+42	2	fb:cell.1127_1279_ad	1127–1279 AD	1127|--|1279|ad	1127|--|1279|ad	CD|:|CD|NN	DATE|O|DATE|DATE	1127||+1279|+1279	1127.0		1279.0	1127–1279 AD
+42	3	fb:cell.milky_way_and_57_other_stars	Milky Way and 57 other stars.	milky|way|and|57|other|stars|.	Milky|Way|and|57|other|star|.	NNP|NNP|CC|CD|JJ|NNS|.	O|O|O|NUMBER|O|O|O	|||>=57.0|||	57.0			Milky Way and 57 other stars.
+42	4	fb:cell.null										
+43	0	fb:cell.hun_tian_yi_tong_xing_xiang_quan_tu_suzhou_star_chart	Hun Tian Yi Tong Xing Xiang Quan Tu, Suzhou Star Chart (蘇州石刻天文圖),淳祐天文図	hun|tian|yi|tong|xing|xiang|quan|tu|,|suzhou|star|chart|-lrb-|蘇州石刻天文圖|-rrb-|,|淳祐天文図	Hun|Tian|Yi|Tong|Xing|Xiang|Quan|Tu|,|Suzhou|Star|chart|-lrb-|蘇州石刻天文圖|-rrb-|,|淳祐天文図	NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|,|NNP|NNP|NN|-LRB-|NN|-RRB-|,|NN	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|O|LOCATION|O|O|O|O|O|O|O	||||||||||||||||				Hun Tian Yi Tong Xing Xiang Quan Tu|Suzhou Star Chart (蘇州石刻天文圖),淳祐天文図
+43	1	fb:cell.huang_shang	Huang Shang (黃裳)	huang|shang|-lrb-|黃裳|-rrb-	Huang|Shang|-lrb-|黃裳|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|O|O	||||				Huang Shang (黃裳)
+43	2	fb:cell.created_in_1193_etched_to_stone_in_1247_by_wang_zhi_yuan	created in 1193, etched to stone in 1247 by Wang Zhi Yuan 王致遠	created|in|1193|,|etched|to|stone|in|1247|by|wang|zhi|yuan|王致遠	create|in|1193|,|etch|to|stone|in|1247|by|Wang|Zhi|Yuan|王致遠	VBN|IN|CD|,|VBN|TO|NN|IN|CD|IN|NNP|NNP|NNP|NNP	O|O|DATE|O|O|O|O|O|DATE|O|PERSON|PERSON|PERSON|PERSON	||1193||||||1247|||||	1193.0		1247.0	created in 1193|etched to stone in 1247 by Wang Zhi Yuan 王致遠
+43	3	fb:cell.1434_stars_grouped_into_280_asterisms_in_northern_sky_map	1434 Stars grouped into 280 Asterisms in Northern Sky map	1434|stars|grouped|into|280|asterisms|in|northern|sky|map	1434|star|group|into|280|asterism|in|northern|sky|map	CD|NNS|VBD|IN|CD|NNS|IN|JJ|NN|NN	NUMBER|O|O|O|NUMBER|O|O|O|O|O	1434.0||||280.0|||||	1434.0		280.0	1434 Stars grouped into 280 Asterisms in Northern Sky map
+43	4	fb:cell.null										
+44	0	fb:cell.yuan_dynasty_simplified_armillary_sphere	Yuan Dynasty Simplified Armillary Sphere 元代簡儀	yuan|dynasty|simplified|armillary|sphere|元代簡儀	Yuan|Dynasty|simplify|armillary|sphere|元代簡儀	NNP|NNP|VBD|JJ|NN|NN	O|O|O|O|O|O	|||||				Yuan Dynasty Simplified Armillary Sphere 元代簡儀
+44	1	fb:cell.guo_shou_jing	Guo Shou Jing 郭守敬	guo|shou|jing|郭守敬	Guo|Shou|Jing|郭守敬	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Guo Shou Jing 郭守敬
+44	2	fb:cell.1276_1279	1276–1279	1276|--|1279	1276|--|1279	CD|:|CD	DATE|O|DATE	1276||1279	1276.0		1279.0	1276–1279
+44	3	fb:cell.further_simplied_version_of_song_dynasty_device	Further simplied version of Song Dynasty Device	further|simplied|version|of|song|dynasty|device	further|simply|version|of|song|dynasty|device	RB|VBN|NN|IN|NN|NN|NN	O|O|O|O|O|O|O	||||||				Further simplied version of Song Dynasty Device
+44	4	fb:cell.null										
+45	0	fb:cell.japanese_star_chart	Japanese Star Chart 格子月進図	japanese|star|chart|格子月進図	japanese|star|chart|格子月進図	JJ|NN|NN|NN	O|O|O|O	|||				Japanese Star Chart 格子月進図
+45	1	fb:cell.null										
+45	2	fb:cell.1324	1324	1324	1324	CD	DATE	1324	1324.0	1324-xx-xx		1324
+45	3	fb:cell.similar_to_su_song_star_chart_original_burned_in_air_raids_during_world_war_ii_only_pictures_left_reprinted_in_1984_by	Similar to Su Song Star Chart, original burned in air raids during World War II, only pictures left. Reprinted in 1984 by 佐佐木英治	similar|to|su|song|star|chart|,|original|burned|in|air|raids|during|world|war|ii|,|only|pictures|left|.|reprinted|in|1984|by|佐佐木英治	similar|to|su|song|star|chart|,|original|burn|in|air|raid|during|World|War|II|,|only|picture|leave|.|reprint|in|1984|by|佐佐木英治	JJ|TO|NN|NN|NN|NN|,|JJ|VBN|IN|NN|NNS|IN|NNP|NNP|NNP|,|RB|NNS|VBD|.|VBN|IN|CD|IN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|MISC|MISC|MISC|O|O|O|O|O|O|O|DATE|O|O	|||||||||||||||||||||||1984||				Similar to Su Song Star Chart|original burned in air raids during World War II|only pictures left. Reprinted in 1984 by 佐佐木英治
+45	4	fb:cell.null										
+46	0	fb:cell._cheonsang_yeolcha_bunyajido	天象列次分野之図(Cheonsang Yeolcha Bunyajido)	天象列次分野之図|-lrb-|cheonsang|yeolcha|bunyajido|-rrb-	天象列次分野之図|-lrb-|cheonsang|yeolcha|bunyajido|-rrb-	NN|-LRB-|NN|NN|NN|-RRB-	O|O|PERSON|PERSON|PERSON|O	|||||				天象列次分野之図(Cheonsang Yeolcha Bunyajido)
+46	1	fb:cell.null										
+46	2	fb:cell.1395	1395	1395	1395	CD	DATE	1395	1395.0	1395-xx-xx		1395
+46	3	fb:cell.korean_versions_of_star_map_in_stone_it_was_made_in_chosun_dynasty_and_the_constellation_names_were_written_in_chinese_letter_the_constellations_as_this_was_found_in_japanese_later_contained_1_464_stars	Korean versions of Star Map in Stone. It was made in Chosun Dynasty and the constellation names were written in Chinese letter. The constellations as this was found in Japanese later. Contained 1,464 stars.	korean|versions|of|star|map|in|stone|.|it|was|made|in|chosun|dynasty|and|the|constellation|names|were|written|in|chinese|letter|.|the|constellations|as|this|was|found|in|japanese|later|.|contained|1,464|stars|.	korean|version|of|star|map|in|stone|.|it|be|make|in|Chosun|Dynasty|and|the|constellation|name|be|write|in|chinese|letter|.|the|constellation|as|this|be|find|in|japanese|later|.|contain|1,464|star|.	JJ|NNS|IN|NN|NN|IN|NN|.|PRP|VBD-AUX|VBN|IN|NNP|NNP|CC|DT|NN|NNS|VBD-AUX|VBN|IN|JJ|NN|.|DT|NNS|IN|DT|VBD-AUX|VBN|IN|JJ|RB|.|VBN|CD|NNS|.	MISC|O|O|O|O|O|O|O|O|O|O|O|LOCATION|O|O|O|O|O|O|O|O|MISC|O|O|O|O|O|O|O|O|O|MISC|O|O|O|NUMBER|O|O	|||||||||||||||||||||||||||||||||||1464.0||				Korean versions of Star Map in Stone. It was made in Chosun Dynasty and the constellation names were written in Chinese letter. The constellations as this was found in Japanese later. Contained 1,464 stars.
+46	4	fb:cell.null										
+47	0	fb:cell.japanese_star_chart	Japanese Star Chart 格子月進図	japanese|star|chart|格子月進図	japanese|star|chart|格子月進図	JJ|NN|NN|NN	O|O|O|O	|||				Japanese Star Chart 格子月進図
+47	1	fb:cell.null										
+47	2	fb:cell.c_14th_or_15th_centuries	c. 14th or 15th centuries 室町中期以前	c.|14th|or|15th|centuries|室町中期以前	c.|14th|or|15th|century|室町中期以前	NNP|JJ|CC|JJ|NNS|VBP	O|ORDINAL|O|DATE|DATE|O	|14.0||P100Y-#15|P100Y-#15|	0.14		15.0	c. 14th or 15th centuries 室町中期以前
+47	3	fb:cell.null_2	-	-	-	:	O					-
+47	4	fb:cell.null										
+48	0	fb:cell.korean_king_sejong_s_armillary_sphere	Korean King Sejong's Armillary sphere	korean|king|sejong|'s|armillary|sphere	Korean|King|Sejong|'s|armillary|sphere	NNP|NNP|NNP|POS|JJ|NN	MISC|O|O|O|O|O	|||||				Korean King Sejong's Armillary sphere
+48	1	fb:cell.null										
+48	2	fb:cell.1433	1433	1433	1433	CD	DATE	1433	1433.0	1433-xx-xx		1433
+48	3	fb:cell.null_2	-	-	-	:	O					-
+48	4	fb:cell.null										
+49	0	fb:cell.star_chart	Star Chart 五代吳越文穆王前元瓘墓石刻星象圖	star|chart|五代吳越文穆王前元瓘墓石刻星象圖	Star|chart|五代吳越文穆王前元瓘墓石刻星象圖	NNP|NN|NN	O|O|O	||				Star Chart 五代吳越文穆王前元瓘墓石刻星象圖
+49	1	fb:cell.mao_kun	Mao Kun 茅坤	mao|kun|茅坤	Mao|Kun|茅坤	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Mao Kun 茅坤
+49	2	fb:cell.c_1422	c. 1422	c.|1422	c.|1422	NNP|CD	O|DATE	|1422	0.1422			c. 1422
+49	3	fb:cell.polaris_compared_with_southern_cross_and_alpha_centauri	Polaris compared with Southern Cross and Alpha Centauri	polaris|compared|with|southern|cross|and|alpha|centauri	Polaris|compare|with|Southern|Cross|and|Alpha|Centauri	NNP|VBN|IN|NNP|NNP|CC|NNP|NNP	ORGANIZATION|O|O|ORGANIZATION|ORGANIZATION|O|ORGANIZATION|ORGANIZATION	|||||||				Polaris compared with Southern Cross and Alpha Centauri
+49	4	fb:cell.zh	zh:郑和航海图	zh|:|郑和航海图	zh|:|郑和航海图	NN|:|NN	O|O|O	||				zh:郑和航海图
+50	0	fb:cell.korean_tomb	Korean Tomb	korean|tomb	korean|tomb	JJ|NN	MISC|O	|				Korean Tomb
+50	1	fb:cell.null										
+50	2	fb:cell.c_late_14th_century	c. late 14th century	c.|late|14th|century	c.|late|14th|century	NNP|RB|JJ|NN	O|DATE|DATE|DATE	|13XX|13XX|13XX				c. late 14th century
+50	3	fb:cell.big_dipper_2	Big Dipper	big|dipper	big|Dipper	JJ|NNP	O|O	|				Big Dipper
+50	4	fb:cell.null										
+51	0	fb:cell.ming_ancient_star_chart	Ming Ancient Star Chart 北京隆福寺(古星圖)	ming|ancient|star|chart|北京隆福寺|-lrb-|古星圖|-rrb-	ming|ancient|star|chart|北京隆福寺|-lrb-|古星圖|-rrb-	JJ|JJ|NN|NN|NN|-LRB-|NN|-RRB-	O|O|O|O|O|O|O|O	|||||||				Ming Ancient Star Chart 北京隆福寺(古星圖)
+51	1	fb:cell.null										
+51	2	fb:cell.c_1453	c. 1453 明代	c.|1453|明代	c.|1453|明代	NNP|CD|NNP	O|DATE|O	|1453|	0.1453			c. 1453 明代
+51	3	fb:cell.1420_stars_possibly_based_on_old_star_maps_from_tang_dynasty	1420 Stars, possibly based on old star maps from Tang Dynasty	1420|stars|,|possibly|based|on|old|star|maps|from|tang|dynasty	1420|star|,|possibly|base|on|old|star|map|from|Tang|Dynasty	CD|NNS|,|RB|VBN|IN|JJ|NN|NNS|IN|NNP|NNP	NUMBER|O|O|O|O|O|O|O|O|O|PERSON|PERSON	1420.0|||||||||||	1420.0			1420 Stars|possibly based on old star maps from Tang Dynasty
+51	4	fb:cell.null										
+52	0	fb:cell.chanshu_star_chart	Chanshu Star Chart (明常熟石刻天文圖)	chanshu|star|chart|-lrb-|明常熟石刻天文圖|-rrb-	Chanshu|Star|chart|-lrb-|明常熟石刻天文圖|-rrb-	NNP|NNP|NN|-LRB-|NN|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Chanshu Star Chart (明常熟石刻天文圖)
+52	1	fb:cell.null										
+52	2	fb:cell.1506	1506	1506	1506	CD	DATE	1506	1506.0	1506-xx-xx		1506
+52	3	fb:cell.based_on_suzhou_star_chart_northern_sky_observed_at_36_8_degrees_north_latitude_1466_stars_grouped_into_284_asterism	Based on Suzhou Star Chart, Northern Sky observed at 36.8 degrees North Latitude, 1466 stars grouped into 284 asterism	based|on|suzhou|star|chart|,|northern|sky|observed|at|36.8|degrees|north|latitude|,|1466|stars|grouped|into|284|asterism	base|on|Suzhou|Star|chart|,|northern|sky|observe|at|36.8|degree|north|latitude|,|1466|star|group|into|284|asterism	VBN|IN|NNP|NNP|NN|,|JJ|NN|VBN|IN|CD|NNS|JJ|NN|,|CD|NNS|VBD|IN|CD|NN	O|O|LOCATION|O|O|O|O|O|O|O|NUMBER|O|O|O|O|NUMBER|O|O|O|NUMBER|O	||||||||||36.8|||||1466.0||||284.0|	36.8		1466.0	Based on Suzhou Star Chart|Northern Sky observed at 36.8 degrees North Latitude|1466 stars grouped into 284 asterism
+52	4	fb:cell.null_2	-	-	-	:	O					-
+53	0	fb:cell.ming_dynasty_star_map	Ming Dynasty Star Map (渾蓋通憲圖說)	ming|dynasty|star|map|-lrb-|渾蓋通憲圖說|-rrb-	Ming|Dynasty|Star|map|-lrb-|渾蓋通憲圖說|-rrb-	NNP|NNP|NNP|NN|-LRB-|NN|-RRB-	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O	||||||				Ming Dynasty Star Map (渾蓋通憲圖說)
+53	1	fb:cell.matteo_ricci_li_ma_dou_recorded_by_li_zhizao	Matteo Ricci 利玛窦Li Ma Dou, recorded by Li Zhizao 李之藻	matteo|ricci|利玛窦li|ma|dou|,|recorded|by|li|zhizao|李之藻	Matteo|Ricci|利玛窦Li|Ma|Dou|,|record|by|Li|Zhizao|李之藻	NNP|NNP|NNP|NNP|NNP|,|VBN|IN|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|O|O|O|PERSON|PERSON|PERSON	||||||||||				Matteo Ricci 利玛窦Li Ma Dou|recorded by Li Zhizao 李之藻
+53	2	fb:cell.c_1550	c. 1550	c.|1550	c.|1550	NNP|CD	O|DATE	|1550	0.155			c. 1550
+53	3	fb:cell.null_2	-	-	-	:	O					-
+53	4	fb:cell.null										
+54	0	fb:cell.tian_wun_tu	Tian Wun Tu (天问图)	tian|wun|tu|-lrb-|天问图|-rrb-	Tian|Wun|Tu|-lrb-|天问图|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Tian Wun Tu (天问图)
+54	1	fb:cell.xiao_yun_cong	Xiao Yun Cong 萧云从	xiao|yun|cong|萧云从	Xiao|Yun|Cong|萧云从	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Xiao Yun Cong 萧云从
+54	2	fb:cell.c_1600	c. 1600	c.|1600	c.|1600	NNP|CD	O|DATE	|1600	0.16			c. 1600
+54	3	fb:cell.contained_mapping_of_12_constellations_and_12_animals	Contained mapping of 12 constellations and 12 animals	contained|mapping|of|12|constellations|and|12|animals	contain|mapping|of|12|constellation|and|12|animal	VBN|NN|IN|CD|NNS|CC|CD|NNS	O|O|O|NUMBER|O|O|NUMBER|O	|||12.0|||12.0|	12.0		12.0	Contained mapping of 12 constellations and 12 animals
+54	4	fb:cell.null										
+55	0	fb:cell.zhou_tian_xuan_ji_tu_and_he_he_si_xiang_tu_in_xing_ming_gui_zhi	Zhou Tian Xuan Ji Tu (周天璇玑图) and He He Si Xiang Tu (和合四象圖) in Xing Ming Gui Zhi (性命圭旨)	zhou|tian|xuan|ji|tu|-lrb-|周天璇玑图|-rrb-|and|he|he|si|xiang|tu|-lrb-|和合四象圖|-rrb-|in|xing|ming|gui|zhi|-lrb-|性命圭旨|-rrb-	Zhou|Tian|Xuan|Ji|Tu|-lrb-|周天璇玑图|-rrb-|and|he|he|Si|Xiang|Tu|-lrb-|和合四象圖|-rrb-|in|Xing|Ming|Gui|Zhi|-lrb-|性命圭旨|-rrb-	NNP|NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-|CC|PRP|PRP|NNP|NNP|NNP|-LRB-|NNP|-RRB-|IN|NNP|NNP|NNP|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|PERSON|PERSON|PERSON|O|O|O|O|O|O|O|PERSON|PERSON|O|O|O|O|PERSON|PERSON|PERSON|PERSON|O|O|O	||||||||||||||||||||||||				Zhou Tian Xuan Ji Tu (周天璇玑图) and He He Si Xiang Tu (和合四象圖) in Xing Ming Gui Zhi (性命圭旨)
+55	1	fb:cell.by_published_by	by 尹真人高第弟子 published by 余永宁	by|尹真人高第弟子|published|by|余永宁	by|尹真人高第弟子|publish|by|余永宁	IN|NN|VBN|IN|NN	O|O|O|O|O	||||				by 尹真人高第弟子 published by 余永宁
+55	2	fb:cell.1615	1615	1615	1615	CD	DATE	1615	1615.0	1615-xx-xx		1615
+55	3	fb:cell.drawings_of_armillary_sphere_and_four_chinese_celestial_animals_with_some_notes_related_to_taoism	Drawings of Armillary Sphere and four Chinese Celestial Animals with some notes. Related to Taoism.	drawings|of|armillary|sphere|and|four|chinese|celestial|animals|with|some|notes|.|related|to|taoism|.	drawing|of|armillary|sphere|and|four|chinese|celestial|animal|with|some|note|.|related|to|Taoism|.	NNS|IN|JJ|NN|CC|CD|JJ|JJ|NNS|IN|DT|NNS|.|JJ|TO|NNP|.	O|O|O|O|O|NUMBER|MISC|O|O|O|O|O|O|O|O|O|O	|||||4.0|||||||||||				Drawings of Armillary Sphere and four Chinese Celestial Animals with some notes. Related to Taoism.
+55	4	fb:cell.null										
+56	0	fb:cell.korean_astronomy_book_selected_and_systematized_astronomy_notes	Korean Astronomy Book "Selected and Systematized Astronomy Notes" 天文類抄	korean|astronomy|book|``|selected|and|systematized|astronomy|notes|''|天文類抄	korean|astronomy|book|``|select|and|systematize|astronomy|note|''|天文類抄	JJ|NN|NN|``|VBN|CC|VBN|NN|NNS|''|NN	MISC|O|O|O|O|O|O|O|O|O|O	||||||||||				Korean Astronomy Book "Selected and Systematized Astronomy Notes" 天文類抄
+56	1	fb:cell.null										
+56	2	fb:cell.1623_1649	1623~1649	1623|~|1649	1623|~|1649	CD|NNP|CD	DATE|O|DATE	1623||1649	1623.0		1649.0	1623~1649
+56	3	fb:cell.contained_some_star_maps	Contained some star maps	contained|some|star|maps	contain|some|star|map	VBN|DT|NN|NNS	O|O|O|O	|||				Contained some star maps
+56	4	fb:cell.null										
+57	0	fb:cell.ming_dynasty_general_star_map	Ming Dynasty General Star Map (赤道南北兩總星圖)	ming|dynasty|general|star|map|-lrb-|赤道南北兩總星圖|-rrb-	Ming|Dynasty|General|Star|map|-lrb-|赤道南北兩總星圖|-rrb-	NNP|NNP|NNP|NNP|NN|-LRB-|NN|-RRB-	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O	|||||||				Ming Dynasty General Star Map (赤道南北兩總星圖)
+57	1	fb:cell.xu_guang_ci_and_adam_schall_von_bell_tang_ruo_wang	Xu Guang ci 徐光啟 and Adam Schall von Bell Tang Ruo Wang湯若望	xu|guang|ci|徐光啟|and|adam|schall|von|bell|tang|ruo|wang湯若望	Xu|Guang|ci|徐光啟|and|Adam|Schall|von|Bell|Tang|Ruo|Wang湯若望	NNP|NNP|NNP|NNP|CC|NNP|NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||||||||				Xu Guang ci 徐光啟 and Adam Schall von Bell Tang Ruo Wang湯若望
+57	2	fb:cell.1634	1634	1634	1634	CD	DATE	1634	1634.0	1634-xx-xx		1634
+57	3	fb:cell.null_2	-	-	-	:	O					-
+57	4	fb:cell.null										
+58	0	fb:cell.ming_dynasty_diagrams_of_armillary_spheres_and_celestial_globes	Ming Dynasty diagrams of Armillary spheres and Celestial Globes	ming|dynasty|diagrams|of|armillary|spheres|and|celestial|globes	Ming|Dynasty|diagram|of|armillary|sphere|and|celestial|globe	NNP|NNP|NNS|IN|JJ|NNS|CC|JJ|NNS	ORGANIZATION|ORGANIZATION|O|O|O|O|O|O|O	||||||||				Ming Dynasty diagrams of Armillary spheres and Celestial Globes
+58	1	fb:cell.xu_guang_ci	Xu Guang ci 徐光啟	xu|guang|ci|徐光啟	Xu|Guang|ci|徐光啟	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Xu Guang ci 徐光啟
+58	2	fb:cell.c_1699	c. 1699	c.|1699	c.|1699	NNP|CD	O|DATE	|1699	0.1699			c. 1699
+58	3	fb:cell.null_2	-	-	-	:	O					-
+58	4	fb:cell.null										
+59	0	fb:cell.ming_dynasty_planetarium_machine_hui_xiang	Ming Dynasty Planetarium Machine (渾象 Hui Xiang)	ming|dynasty|planetarium|machine|-lrb-|渾象|hui|xiang|-rrb-	Ming|Dynasty|Planetarium|machine|-lrb-|渾象|Hui|Xiang|-rrb-	NNP|NNP|NNP|NN|-LRB-|NN|NNP|NNP|-RRB-	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|PERSON|PERSON|O	||||||||				Ming Dynasty Planetarium Machine (渾象 Hui Xiang)
+59	1	fb:cell.null										
+59	2	fb:cell.c_17th_century	c. 17th century	c.|17th|century	c.|17th|century	NNP|JJ|NN	O|DATE|DATE	|16XX|16XX	0.17			c. 17th century
+59	3	fb:cell.ecliptic_equator_and_dividers_of_28_constellation	Ecliptic, Equator, and dividers of 28 constellation	ecliptic|,|equator|,|and|dividers|of|28|constellation	Ecliptic|,|equator|,|and|divider|of|28|constellation	NNP|,|NN|,|CC|NNS|IN|CD|NN	O|O|O|O|O|O|O|NUMBER|O	|||||||28.0|	28.0			Ecliptic|Equator|and dividers of 28 constellation
+59	4	fb:cell.null										
+60	0	fb:cell.copper_plate_star_map_stored_in_korea	Copper Plate Star Map stored in Korea	copper|plate|star|map|stored|in|korea	copper|plate|star|map|store|in|Korea	NN|NN|NN|NN|VBN|IN|NNP	O|O|O|O|O|O|LOCATION	||||||				Copper Plate Star Map stored in Korea
+60	1	fb:cell.null										
+60	2	fb:cell.1652_shun_zi_jiu_nian	1652 順治九年shun zi jiu nian	1652|順治九年shun|zi|jiu|nian	1652|順治九年shun|zus|jiu|nian	CD|NNP|NN|NNP|NNP	DATE|PERSON|PERSON|PERSON|PERSON	1652||||	1652.0			1652 順治九年shun zi jiu nian
+60	3	fb:cell.null_2	-	-	-	:	O					-
+60	4	fb:cell.null										
+61	0	fb:cell.japanese_edo_period_star_chart_based_on_from_korean	Japanese Edo period Star Chart 天象列次之図 based on 天象列次分野之図 from Korean	japanese|edo|period|star|chart|天象列次之図|based|on|天象列次分野之図|from|korean	japanese|edo|period|star|chart|天象列次之図|base|on|天象列次分野之図|from|korean	JJ|NN|NN|NN|NN|NN|VBN|IN|NN|IN|JJ	MISC|O|O|O|O|O|O|O|O|O|MISC	||||||||||				Japanese Edo period Star Chart 天象列次之図 based on 天象列次分野之図 from Korean
+61	1	fb:cell.harumi_shibukawa_bu_chuan_chun_mei_bao_jing_chun_mei	Harumi Shibukawa 渋川春海Bu Chuan Chun Mei(保井春海Bao Jing Chun Mei)	harumi|shibukawa|渋川春海bu|chuan|chun|mei|-lrb-|保井春海bao|jing|chun|mei|-rrb-	Harumi|Shibukawa|渋川春海Bu|Chuan|Chun|meus|-lrb-|保井春海bao|jing|Chun|meus|-rrb-	NNP|NNP|NNP|NNP|NNP|NN|-LRB-|NN|NN|NNP|NN|-RRB-	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|O|O|PERSON|PERSON|PERSON|O	|||||||||||				Harumi Shibukawa 渋川春海Bu Chuan Chun Mei(保井春海Bao Jing Chun Mei)
+61	2	fb:cell.1670	1670 寛文十年	1670|寛文十年	1670|寛文十年	CD|NNP	DATE|O	1670|	1670.0			1670 寛文十年
+61	3	fb:cell.null_2	-	-	-	:	O					-
+61	4	fb:cell.null										
+62	0	fb:cell.the_celestial_globe	The Celestial Globe 清康熙 天體儀	the|celestial|globe|清康熙|天體儀	the|celestial|globe|清康熙|天體儀	DT|JJ|NN|NN|NN	O|O|O|O|O	||||				The Celestial Globe 清康熙 天體儀
+62	1	fb:cell.ferdinand_verbiest	Ferdinand Verbiest 南懷仁	ferdinand|verbiest|南懷仁	Ferdinand|Verbiest|南懷仁	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Ferdinand Verbiest 南懷仁
+62	2	fb:cell.1673	1673	1673	1673	CD	DATE	1673	1673.0	1673-xx-xx		1673
+62	3	fb:cell.1876_stars_grouped_into_282_asterisms	1876 stars grouped into 282 asterisms	1876|stars|grouped|into|282|asterisms	1876|star|group|into|282|asterisms	CD|NNS|VBD|IN|CD|NNPS	NUMBER|O|O|O|NUMBER|O	1876.0||||282.0|	1876.0		282.0	1876 stars grouped into 282 asterisms
+62	4	fb:cell.null										
+63	0	fb:cell.picture_depicted_song_dynasty_fictional_astronomer_wu_yong_with_a_celestial_globe	Picture depicted Song Dynasty fictional astronomer (呉用 Wu Yong) with a Celestial Globe (天體儀)	picture|depicted|song|dynasty|fictional|astronomer|-lrb-|呉用|wu|yong|-rrb-|with|a|celestial|globe|-lrb-|天體儀|-rrb-	picture|depict|song|Dynasty|fictional|astronomer|-lrb-|呉用|Wu|Yong|-rrb-|with|a|celestial|globe|-lrb-|天體儀|-rrb-	NN|VBD|NN|NNP|JJ|NN|-LRB-|NN|NNP|NNP|-RRB-|IN|DT|JJ|NN|-LRB-|NN|-RRB-	O|O|O|O|O|O|O|O|PERSON|PERSON|O|O|O|O|O|O|O|O	|||||||||||||||||				Picture depicted Song Dynasty fictional astronomer (呉用 Wu Yong) with a Celestial Globe (天體儀)
+63	1	fb:cell.japanese_painter	Japanese painter	japanese|painter	japanese|painter	JJ|NN	MISC|O	|				Japanese painter
+63	2	fb:cell.1675	1675	1675	1675	CD	DATE	1675	1675.0	1675-xx-xx		1675
+63	3	fb:cell.showing_top_portion_of_a_celestial_globe	showing top portion of a Celestial Globe	showing|top|portion|of|a|celestial|globe	show|top|portion|of|a|celestial|globe	VBG|JJ|NN|IN|DT|JJ|NN	O|O|O|O|O|O|O	||||||				showing top portion of a Celestial Globe
+63	4	fb:cell.file_chinese_astronomer_1675_jpg	File:Chinese astronomer 1675.jpg	file|:|chinese|astronomer|1675|.|jpg	file|:|chinese|astronomer|1675|.|jpg	NN|:|JJ|NN|CD|.|NN	O|O|MISC|O|DATE|O|O	||||1675||	1675.0			File:Chinese astronomer 1675.jpg
+64	0	fb:cell.japanese_edo_period_star_chart	Japanese Edo period Star Chart 天文分野之図	japanese|edo|period|star|chart|天文分野之図	japanese|edo|period|star|chart|天文分野之図	JJ|NN|NN|NN|NN|NN	MISC|O|O|O|O|O	|||||				Japanese Edo period Star Chart 天文分野之図
+64	1	fb:cell.harumi_shibukawa_bujingchun_mei_bao_jingchunmei	Harumi Shibukawa 渋川春海BuJingChun Mei (保井春海Bao JingChunMei)	harumi|shibukawa|渋川春海bujingchun|mei|-lrb-|保井春海bao|jingchunmei|-rrb-	Harumi|Shibukawa|渋川春海BuJingChun|meus|-lrb-|保井春海bao|jingchunmeus|-rrb-	NNP|NNP|NNP|NN|-LRB-|NN|NN|-RRB-	PERSON|PERSON|PERSON|PERSON|O|O|O|O	|||||||				Harumi Shibukawa 渋川春海BuJingChun Mei (保井春海Bao JingChunMei)
+64	2	fb:cell.1677	1677 延宝五年	1677|延宝五年	1677|延宝五年	CD|NNP	DATE|O	1677|	1677.0			1677 延宝五年
+64	3	fb:cell.null_2	-	-	-	:	O					-
+64	4	fb:cell.null										
+65	0	fb:cell.korean_star_map_in_stone	Korean star map in stone	korean|star|map|in|stone	korean|star|map|in|stone	JJ|NN|NN|IN|NN	MISC|O|O|O|O	||||				Korean star map in stone
+65	1	fb:cell.null										
+65	2	fb:cell.1687	1687	1687	1687	CD	DATE	1687	1687.0	1687-xx-xx		1687
+65	3	fb:cell.null_2	-	-	-	:	O					-
+65	4	fb:cell.null										
+66	0	fb:cell.japanese_edo_period_star_chart	Japanese Edo period Star Chart 天文分野之図	japanese|edo|period|star|chart|天文分野之図	japanese|edo|period|star|chart|天文分野之図	JJ|NN|NN|NN|NN|NN	MISC|O|O|O|O|O	|||||				Japanese Edo period Star Chart 天文分野之図
+66	1	fb:cell.null										
+66	2	fb:cell.1689_2	1689 元禄2年	1689|元禄2年	1689|元禄2年	CD|NN	DATE|O	1689|	1689.0		2.0	1689 元禄2年
+66	3	fb:cell.null_2	-	-	-	:	O					-
+66	4	fb:cell.null_2	-	-	-	:	O					-
+67	0	fb:cell.japanese_edo_period_star_chart	Japanese Edo period Star Chart 天文分野之図	japanese|edo|period|star|chart|天文分野之図	japanese|edo|period|star|chart|天文分野之図	JJ|NN|NN|NN|NN|NN	MISC|O|O|O|O|O	|||||				Japanese Edo period Star Chart 天文分野之図
+67	1	fb:cell.mao_chun_zhang_bo	苗村丈伯Mao Chun Zhang Bo	苗村丈伯mao|chun|zhang|bo	苗村丈伯Mao|Chun|Zhang|Bo	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				苗村丈伯Mao Chun Zhang Bo
+67	2	fb:cell.1692_5	1692 元禄5年	1692|元禄5年	1692|元禄5年	CD|NN	DATE|O	1692|	1692.0		5.0	1692 元禄5年
+67	3	fb:cell.null_2	-	-	-	:	O					-
+67	4	fb:cell.null_2	-	-	-	:	O					-
+68	0	fb:cell.japanese_star_chart	Japanese Star Chart 格子月進図	japanese|star|chart|格子月進図	japanese|star|chart|格子月進図	JJ|NN|NN|NN	O|O|O|O	|||				Japanese Star Chart 格子月進図
+68	1	fb:cell.harumi_yasui_written_in_chinese	Harumi Yasui written in Chinese	harumi|yasui|written|in|chinese	Harumi|Yasui|write|in|chinese	NNP|NNP|VBN|IN|JJ	PERSON|PERSON|O|O|MISC	||||				Harumi Yasui written in Chinese
+68	2	fb:cell.1699_ad	1699 AD	1699|ad	1699|ad	CD|NN	DATE|DATE	+1699|+1699	1699.0			1699 AD
+68	3	fb:cell.a_japanese_star_chart_of_1699_showing_lunar_stations	A Japanese star chart of 1699 showing lunar stations	a|japanese|star|chart|of|1699|showing|lunar|stations	a|japanese|star|chart|of|1699|show|lunar|station	DT|JJ|NN|NN|IN|CD|VBG|JJ|NNS	O|MISC|O|O|O|DATE|O|O|O	|||||1699|||	1699.0			A Japanese star chart of 1699 showing lunar stations
+68	4	fb:cell.null										
+69	0	fb:cell.japanese_edo_period_star_chart_tian_wen_cheng_xiang	Japanese Edo period Star Chart 天文成象Tian Wen Cheng xiang	japanese|edo|period|star|chart|天文成象tian|wen|cheng|xiang	japanese|edo|period|star|chart|天文成象Tian|Wen|Cheng|xiang	JJ|NN|NN|NN|NN|NNP|NNP|NNP|NNP	MISC|O|O|O|O|O|O|PERSON|PERSON	||||||||				Japanese Edo period Star Chart 天文成象Tian Wen Cheng xiang
+69	1	fb:cell._she_chuan_xi_yin_bao_jing_xi_yin	(渋川昔尹She Chuan Xi Yin) (保井昔尹Bao Jing Xi Yin)	-lrb-|渋川昔尹she|chuan|xi|yin|-rrb-|-lrb-|保井昔尹bao|jing|xi|yin|-rrb-	-lrb-|渋川昔尹She|Chuan|xi|yin|-rrb-|-lrb-|保井昔尹Bao|Jing|xi|yin|-rrb-	-LRB-|NNP|NNP|NN|NN|-RRB-|-LRB-|NNP|NNP|NN|NN|-RRB-	O|O|PERSON|PERSON|PERSON|O|O|PERSON|PERSON|PERSON|PERSON|O	|||||||||||				(渋川昔尹She Chuan Xi Yin) (保井昔尹Bao Jing Xi Yin)
+69	2	fb:cell.1699	1699 元禄十二年	1699|元禄十二年	1699|元禄十二年	CD|NNP	DATE|O	1699|	1699.0			1699 元禄十二年
+69	3	fb:cell.including_stars_from_wu_shien_44_constellation_144_stars_in_yellow_gan_de_118_constellations_511_stars_in_black_shi_shen_138_constellations_810_stars_in_red_and_harumi_shibukawa_61_constellations_308_stars_in_blue	including Stars from Wu Shien (44 Constellation, 144 stars) in yellow; Gan De (118 Constellations, 511 stars) in black; Shi Shen (138 Constellations, 810 stars) in red and Harumi Shibukawa (61 Constellations, 308 stars) in blue;	including|stars|from|wu|shien|-lrb-|44|constellation|,|144|stars|-rrb-|in|yellow|;|gan|de|-lrb-|118|constellations|,|511|stars|-rrb-|in|black|;|shi|shen|-lrb-|138|constellations|,|810|stars|-rrb-|in|red|and|harumi|shibukawa|-lrb-|61|constellations|,|308|stars|-rrb-|in|blue|;	include|star|from|Wu|Shien|-lrb-|44|constellation|,|144|star|-rrb-|in|yellow|;|Gan|De|-lrb-|118|constellation|,|511|star|-rrb-|in|black|;|Shi|Shen|-lrb-|138|constellation|,|810|star|-rrb-|in|red|and|Harumi|Shibukawa|-lrb-|61|constellation|,|308|star|-rrb-|in|blue|;	VBG|NNS|IN|NNP|NNP|-LRB-|CD|NN|,|CD|NNS|-RRB-|IN|NN|:|NNP|NNP|-LRB-|CD|NNS|,|CD|NNS|-RRB-|IN|JJ|:|NNP|NNP|-LRB-|CD|NNS|,|CD|NNS|-RRB-|IN|JJ|CC|NNP|NNP|-LRB-|CD|NNS|,|CD|NNS|-RRB-|IN|NN|:	O|O|O|PERSON|PERSON|O|NUMBER|O|O|NUMBER|O|O|O|O|O|O|O|O|NUMBER|O|O|NUMBER|O|O|O|O|O|PERSON|PERSON|O|NUMBER|O|O|NUMBER|O|O|O|O|O|PERSON|PERSON|O|NUMBER|O|O|NUMBER|O|O|O|O|O	||||||44.0|||144.0|||||||||118.0|||511.0|||||||||138.0|||810.0|||||||||61.0|||308.0|||||	44.0		144.0	including Stars from Wu Shien (44 Constellation|144 stars) in yellow; Gan De (118 Constellations|511 stars) in black; Shi Shen (138 Constellations|810 stars) in red and Harumi Shibukawa (61 Constellations|308 stars) in blue;
+69	4	fb:cell.null										
+70	0	fb:cell.japanese_star_chart	Japanese Star Chart 格子月進図	japanese|star|chart|格子月進図	japanese|star|chart|格子月進図	JJ|NN|NN|NN	O|O|O|O	|||				Japanese Star Chart 格子月進図
+70	1	fb:cell.null										
+70	2	fb:cell.unknown	unknown	unknown	unknown	JJ	O					unknown
+70	3	fb:cell.included_stars_from_harumi_shibukawa	Included stars from Harumi Shibukawa	included|stars|from|harumi|shibukawa	include|star|from|Harumi|Shibukawa	VBN|NNS|IN|NNP|NNP	O|O|O|PERSON|PERSON	||||				Included stars from Harumi Shibukawa
+70	4	fb:cell.null										
+71	0	fb:cell.korean_star_map_stone	Korean Star Map Stone	korean|star|map|stone	korean|star|map|stone	JJ|NN|NN|NN	MISC|O|PERSON|PERSON	|||				Korean Star Map Stone
+71	1	fb:cell.null										
+71	2	fb:cell.c_17th_century	c. 17th century	c.|17th|century	c.|17th|century	NNP|JJ|NN	O|DATE|DATE	|16XX|16XX	0.17			c. 17th century
+71	3	fb:cell.null_2	-	-	-	:	O					-
+71	4	fb:cell.null										
+72	0	fb:cell.korean_star_map	Korean Star Map	korean|star|map	korean|star|map	JJ|NN|NN	MISC|O|O	||				Korean Star Map
+72	1	fb:cell.null										
+72	2	fb:cell.c_17th_century	c. 17th century	c.|17th|century	c.|17th|century	NNP|JJ|NN	O|DATE|DATE	|16XX|16XX	0.17			c. 17th century
+72	3	fb:cell.null_2	-	-	-	:	O					-
+72	4	fb:cell.null										
+73	0	fb:cell.ceramic_ink_sink_cover	Ceramic Ink Sink Cover	ceramic|ink|sink|cover	ceramic|ink|sink|cover	JJ|NN|NN|NN	O|O|O|O	|||				Ceramic Ink Sink Cover
+73	1	fb:cell.null										
+73	2	fb:cell.c_17th_century	c. 17th century	c.|17th|century	c.|17th|century	NNP|JJ|NN	O|DATE|DATE	|16XX|16XX	0.17			c. 17th century
+73	3	fb:cell.showing_big_dipper	Showing Big Dipper	showing|big|dipper	show|big|Dipper	VBG|JJ|NNP	O|O|O	||				Showing Big Dipper
+73	4	fb:cell.null										
+74	0	fb:cell.korean_star_map_cube	Korean Star Map Cube 方星圖	korean|star|map|cube|方星圖	korean|star|map|cube|方星圖	JJ|NN|NN|NN|NN	MISC|O|O|O|O	||||				Korean Star Map Cube 方星圖
+74	1	fb:cell.italian_missionary_philippus_maria_grimardi_1639_1712	Italian Missionary Philippus Maria Grimardi 閔明我 (1639~1712)	italian|missionary|philippus|maria|grimardi|閔明我|-lrb-|1639|~|1712|-rrb-	italian|missionary|Philippus|Maria|Grimardi|閔明我|-lrb-|1639|~|1712|-rrb-	JJ|JJ|NNP|NNP|NNP|NNP|-LRB-|CD|NNP|CD|-RRB-	MISC|O|PERSON|PERSON|PERSON|PERSON|O|DATE|O|DATE|O	|||||||1639||1712|	1639.0		1712.0	Italian Missionary Philippus Maria Grimardi 閔明我 (1639~1712)
+74	2	fb:cell.c_early_18th_century	c. early 18th century	c.|early|18th|century	c.|early|18th|century	NNP|RB|JJ|NN	O|DATE|DATE|DATE	|17XX|17XX|17XX				c. early 18th century
+74	3	fb:cell.null_2	-	-	-	:	O					-
+74	4	fb:cell.null										
+75	0	fb:cell.star_chart_preserved_in_japan_based_on_a_book_from_china	Star Chart preserved in Japan based on a book from China 天経或問	star|chart|preserved|in|japan|based|on|a|book|from|china|天経或問	Star|chart|preserve|in|Japan|base|on|a|book|from|China|天経或問	NNP|NN|VBN|IN|NNP|VBN|IN|DT|NN|IN|NNP|NNP	O|O|O|O|LOCATION|O|O|O|O|O|LOCATION|O	|||||||||||				Star Chart preserved in Japan based on a book from China 天経或問
+75	1	fb:cell.you_zi_liu	You Zi liu 游子六	you|zi|liu|游子六	you|zus|liu|游子六	PRP|NN|NNP|NNP	O|PERSON|PERSON|PERSON	|||				You Zi liu 游子六
+75	2	fb:cell.1730_ad_15	1730 AD 江戸時代 享保15年	1730|ad|江戸時代|享保15年	1730|ad|江戸時代|享保15年	CD|NN|NN|NN	DATE|DATE|O|O	+1730|+1730||	1730.0		15.0	1730 AD 江戸時代 享保15年
+75	3	fb:cell.a_northern_sky_chart_in_chinese	A Northern Sky Chart in Chinese	a|northern|sky|chart|in|chinese	a|northern|sky|chart|in|Chinese	DT|JJ|NN|NN|IN|NNP	O|O|O|O|O|MISC	|||||				A Northern Sky Chart in Chinese
+75	4	fb:cell.null										
+76	0	fb:cell.star_chart_in_mongolia	Star Chart 清蒙文石刻(欽天監繪製天文圖) in Mongolia	star|chart|清蒙文石刻|-lrb-|欽天監繪製天文圖|-rrb-|in|mongolia	Star|chart|清蒙文石刻|-lrb-|欽天監繪製天文圖|-rrb-|in|Mongolia	NNP|NN|NN|-LRB-|NN|-RRB-|IN|NNP	O|O|O|O|O|O|O|LOCATION	|||||||				Star Chart 清蒙文石刻(欽天監繪製天文圖) in Mongolia
+76	1	fb:cell.null										
+76	2	fb:cell.1727_1732_ad	1727–1732 AD	1727|--|1732|ad	1727|--|1732|ad	CD|:|CD|NN	DATE|O|DATE|DATE	1727||+1732|+1732	1727.0		1732.0	1727–1732 AD
+76	3	fb:cell.1550_stars_grouped_into_270_starisms	1550 stars grouped into 270 starisms.	1550|stars|grouped|into|270|starisms|.	1550|star|group|into|270|starism|.	CD|NNS|VBD|IN|CD|NNS|.	NUMBER|O|O|O|NUMBER|O|O	1550.0||||270.0||	1550.0		270.0	1550 stars grouped into 270 starisms.
+76	4	fb:cell.null										
+77	0	fb:cell.korean_star_maps_north_and_south_to_the_eclliptic	Korean Star Maps, North and South to the Eclliptic 黃道南北恒星圖	korean|star|maps|,|north|and|south|to|the|eclliptic|黃道南北恒星圖	korean|star|map|,|North|and|South|to|the|eclliptic|黃道南北恒星圖	JJ|NN|NNS|,|NNP|CC|NNP|TO|DT|JJ|NN	MISC|O|O|O|O|O|O|O|O|O|O	||||||||||				Korean Star Maps|North and South to the Eclliptic 黃道南北恒星圖
+77	1	fb:cell.null										
+77	2	fb:cell.1742	1742	1742	1742	CD	DATE	1742	1742.0	1742-xx-xx		1742
+77	3	fb:cell.null_2	-	-	-	:	O					-
+77	4	fb:cell.null										
+78	0	fb:cell.japanese_edo_period_star_chart	Japanese Edo period Star Chart 天文分野之図	japanese|edo|period|star|chart|天文分野之図	japanese|edo|period|star|chart|天文分野之図	JJ|NN|NN|NN|NN|NN	MISC|O|O|O|O|O	|||||				Japanese Edo period Star Chart 天文分野之図
+78	1	fb:cell.ru_jiang_you_jing	入江脩敬Ru Jiang YOu Jing	入江脩敬ru|jiang|you|jing	入江脩敬Ru|Jiang|you|jing	NNP|NNP|PRP|VBP	PERSON|PERSON|PERSON|PERSON	|||				入江脩敬Ru Jiang YOu Jing
+78	2	fb:cell.1750_3	1750 寛延3年	1750|寛延3年	1750|寛延3年	CD|NN	DATE|O	1750|	1750.0		3.0	1750 寛延3年
+78	3	fb:cell.null_2	-	-	-	:	O					-
+78	4	fb:cell.null_2	-	-	-	:	O					-
+79	0	fb:cell.reproduction_of_an_ancient_device	Reproduction of an ancient device 璇璣玉衡	reproduction|of|an|ancient|device|璇璣玉衡	Reproduction|of|a|ancient|device|璇璣玉衡	NNP|IN|DT|JJ|NN|NN	O|O|O|O|O|O	|||||				Reproduction of an ancient device 璇璣玉衡
+79	1	fb:cell.dai_zhen	Dai Zhen 戴震	dai|zhen|戴震	Dai|Zhen|戴震	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Dai Zhen 戴震
+79	2	fb:cell.1723_1777_ad	1723–1777 AD	1723|--|1777|ad	1723|--|1777|ad	CD|:|CD|NN	DATE|O|DATE|DATE	1723||+1777|+1777	1723.0		1777.0	1723–1777 AD
+79	3	fb:cell.based_on_ancient_record_and_his_own_interpretation	based on ancient record and his own interpretation	based|on|ancient|record|and|his|own|interpretation	base|on|ancient|record|and|he|own|interpretation	VBN|IN|JJ|NN|CC|PRP$|JJ|NN	O|O|O|O|O|O|O|O	|||||||				based on ancient record and his own interpretation
+79	4	fb:cell.could_be_similar_to	Could be similar to	could|be|similar|to	could|be|similar|to	VBD-AUX|VBD-AUX|JJ|TO	O|O|O|O	|||				Could be similar to
+80	0	fb:cell.rock_star_chart	Rock Star Chart 清代天文石	rock|star|chart|清代天文石	Rock|Star|chart|清代天文石	NNP|NNP|NN|NN	O|O|O|O	|||				Rock Star Chart 清代天文石
+80	1	fb:cell.null										
+80	2	fb:cell.c_18th_century	c. 18th century	c.|18th|century	c.|18th|century	NNP|JJ|NN	O|DATE|DATE	|17XX|17XX	0.18			c. 18th century
+80	3	fb:cell.a_star_chart_and_general_astronomy_text	A Star Chart and general Astronomy Text	a|star|chart|and|general|astronomy|text	a|star|chart|and|general|astronomy|text	DT|NN|NN|CC|JJ|NN|NN	O|O|O|O|O|O|O	||||||				A Star Chart and general Astronomy Text
+80	4	fb:cell.null										
+81	0	fb:cell.korean_complete_star_map	Korean Complete Star Map (渾天全圖)	korean|complete|star|map|-lrb-|渾天全圖|-rrb-	korean|complete|star|map|-lrb-|渾天全圖|-rrb-	JJ|JJ|NN|NN|-LRB-|NN|-RRB-	MISC|O|O|O|O|O|O	||||||				Korean Complete Star Map (渾天全圖)
+81	1	fb:cell.null										
+81	2	fb:cell.c_18th_century	c. 18th century	c.|18th|century	c.|18th|century	NNP|JJ|NN	O|DATE|DATE	|17XX|17XX	0.18			c. 18th century
+81	3	fb:cell.null_2	-	-	-	:	O					-
+81	4	fb:cell.null										
+82	0	fb:cell.qing_dynasty_star_catalog_and_star_map	Qing Dynasty Star Catalog (儀象考成,仪象考成)恒星表 and Star Map 黄道南北両星総図	qing|dynasty|star|catalog|-lrb-|儀象考成|,|仪象考成|-rrb-|恒星表|and|star|map|黄道南北両星総図	qing|Dynasty|Star|catalog|-lrb-|儀象考成|,|仪象考成|-rrb-|恒星表|and|star|map|黄道南北両星総図	VBG|NNP|NNP|NN|-LRB-|NN|,|NN|-RRB-|NN|CC|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				Qing Dynasty Star Catalog (儀象考成,仪象考成)恒星表 and Star Map 黄道南北両星総図
+82	1	fb:cell.yun_lu_and_ignatius_kogler_dai_jin_xian_a_german	Yun Lu 允禄 and Ignatius Kogler 戴进贤Dai Jin Xian 戴進賢, a German	yun|lu|允禄|and|ignatius|kogler|戴进贤dai|jin|xian|戴進賢|,|a|german	Yun|Lu|允禄|and|Ignatius|Kogler|戴进贤Dai|Jin|Xian|戴進賢|,|a|german	NNP|NNP|NNP|CC|NNP|NNP|NNP|NNP|NNP|NNP|,|DT|JJ	PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|O|O|MISC	||||||||||||				Yun Lu 允禄 and Ignatius Kogler 戴进贤Dai Jin Xian 戴進賢|a German
+82	2	fb:cell.device_made_in_1744_book_completed_in_1757	Device made in 1744, book completed in 1757 清乾隆年间	device|made|in|1744|,|book|completed|in|1757|清乾隆年间	device|make|in|1744|,|book|complete|in|1757|清乾隆年间	NN|VBN|IN|CD|,|NN|VBN|IN|CD|NNP	O|O|O|DATE|O|O|O|O|DATE|O	|||1744|||||1757|	1744.0		1757.0	Device made in 1744|book completed in 1757 清乾隆年间
+82	3	fb:cell.300_constellations_and_3083_stars_referenced_star_catalogue_published_by_john_flamsteed	300 Constellations and 3083 Stars. Referenced Star Catalogue published by John Flamsteed	300|constellations|and|3083|stars|.|referenced|star|catalogue|published|by|john|flamsteed	300|constellation|and|3083|star|.|reference|star|catalogue|publish|by|John|Flamsteed	CD|NNS|CC|CD|NNS|.|VBN|NN|NN|VBN|IN|NNP|NNP	NUMBER|O|O|NUMBER|O|O|O|O|O|O|O|PERSON|PERSON	300.0|||3083.0|||||||||	300.0		3083.0	300 Constellations and 3083 Stars. Referenced Star Catalogue published by John Flamsteed
+82	4	fb:cell.null										
+83	0	fb:cell.jingban_tianwen_quantu_by_ma_junliang	Jingban Tianwen Quantu by Ma Junliang 马俊良	jingban|tianwen|quantu|by|ma|junliang|马俊良	Jingban|Tianwen|quantu|by|Ma|Junliang|马俊良	NNP|NNP|NN|IN|NNP|NNP|NNP	PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON	||||||				Jingban Tianwen Quantu by Ma Junliang 马俊良
+83	1	fb:cell.null										
+83	2	fb:cell.1780_90_ad	1780–90 AD	1780|--|90|ad	1780|--|90|ad	CD|:|CD|NN	DATE|O|DATE|DATE	1780||+0090|+0090	1780.0		90.0	1780–90 AD
+83	3	fb:cell.mapping_nations_to_the_sky	mapping nations to the sky	mapping|nations|to|the|sky	map|nation|to|the|sky	VBG|NNS|TO|DT|NN	O|O|O|O|O	||||				mapping nations to the sky
+83	4	fb:cell.null										
+84	0	fb:cell.japanese_edo_period_illustration_of_a_star_measuring_device	Japanese Edo period Illustration of a Star Measuring Device 平天儀図解	japanese|edo|period|illustration|of|a|star|measuring|device|平天儀図解	japanese|edo|period|illustration|of|a|star|measure|device|平天儀図解	JJ|NN|NN|NN|IN|DT|NN|VBG|NN|NN	MISC|MISC|O|O|O|O|O|O|O|O	|||||||||				Japanese Edo period Illustration of a Star Measuring Device 平天儀図解
+84	1	fb:cell.yan_qiao_shan_bing_heng	Yan Qiao Shan Bing Heng 岩橋善兵衛	yan|qiao|shan|bing|heng|岩橋善兵衛	Yan|Qiao|Shan|Bing|Heng|岩橋善兵衛	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Yan Qiao Shan Bing Heng 岩橋善兵衛
+84	2	fb:cell.1802_xiang_he_er_nian	1802 Xiang He Er Nian 享和二年	1802|xiang|he|er|nian|享和二年	1802|Xiang|he|er|Nian|享和二年	CD|NNP|PRP|NN|NNP|NNP	DATE|PERSON|O|O|MISC|O	1802|||||	1802.0			1802 Xiang He Er Nian 享和二年
+84	3	fb:cell.null_2	-	-	-	:	O					-
+84	4	fb:cell.the_device_could_be_similar_to	The device could be similar to	the|device|could|be|similar|to	the|device|could|be|similar|to	DT|NN|VBD-AUX|VBD-AUX|JJ|TO	O|O|O|O|O|O	|||||				The device could be similar to
+85	0	fb:cell.north_sky_map_huang_dao_zhong_xi_he_tu	North Sky Map 清嘉庆年间Huang Dao Zhong Xi He Tu(黄道中西合图)	north|sky|map|清嘉庆年间huang|dao|zhong|xi|he|tu|-lrb-|黄道中西合图|-rrb-	North|Sky|map|清嘉庆年间Huang|Dao|Zhong|xi|he|tu|-lrb-|黄道中西合图|-rrb-	NNP|NNP|NN|NNP|NNP|NNP|NN|PRP|FW|-LRB-|NN|-RRB-	O|O|O|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|O|O|O	|||||||||||				North Sky Map 清嘉庆年间Huang Dao Zhong Xi He Tu(黄道中西合图)
+85	1	fb:cell.xu_choujun	Xu Choujun 徐朝俊	xu|choujun|徐朝俊	Xu|Choujun|徐朝俊	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Xu Choujun 徐朝俊
+85	2	fb:cell.1807_ad	1807 AD	1807|ad	1807|ad	CD|NN	DATE|DATE	+1807|+1807	1807.0			1807 AD
+85	3	fb:cell.more_than_1000_stars_and_the_28_consellation	More than 1000 stars and the 28 consellation	more|than|1000|stars|and|the|28|consellation	more|than|1000|star|and|the|28|consellation	JJR|IN|CD|NNS|CC|DT|CD|NN	O|O|NUMBER|O|O|O|NUMBER|O	||>1000.0||||28.0|	1000.0		28.0	More than 1000 stars and the 28 consellation
+85	4	fb:cell.null										
+86	0	fb:cell.japanese_edo_period_star_chart	Japanese Edo period Star Chart 天文分野之図	japanese|edo|period|star|chart|天文分野之図	japanese|edo|period|star|chart|天文分野之図	JJ|NN|NN|NN|NN|NN	MISC|O|O|O|O|O	|||||				Japanese Edo period Star Chart 天文分野之図
+86	1	fb:cell.chao_ye_bei_shui	Chao Ye Bei Shui 朝野北水	chao|ye|bei|shui|朝野北水	Chao|ye|bei|shui|朝野北水	NNP|PRP|FW|FW|FW	PERSON|PERSON|PERSON|PERSON|PERSON	||||				Chao Ye Bei Shui 朝野北水
+86	2	fb:cell.1814	1814 文化十一年	1814|文化十一年	1814|文化十一年	CD|NNP	DATE|O	1814|	1814.0			1814 文化十一年
+86	3	fb:cell.null_2	-	-	-	:	O					-
+86	4	fb:cell.null_2	-	-	-	:	O					-
+87	0	fb:cell.japanese_edo_period_star_chart	Japanese Edo period Star Chart 天文分野之図	japanese|edo|period|star|chart|天文分野之図	japanese|edo|period|star|chart|天文分野之図	JJ|NN|NN|NN|NN|NN	MISC|O|O|O|O|O	|||||				Japanese Edo period Star Chart 天文分野之図
+87	1	fb:cell.null										
+87	2	fb:cell.1815	1815 文化十二年	1815|文化十二年	1815|文化十二年	CD|NNP	DATE|O	1815|	1815.0			1815 文化十二年
+87	3	fb:cell.null_2	-	-	-	:	O					-
+87	4	fb:cell.null_2	-	-	-	:	O					-
+88	0	fb:cell.japanese_edo_period_star_chart	Japanese Edo period Star Chart 天文分野之図	japanese|edo|period|star|chart|天文分野之図	japanese|edo|period|star|chart|天文分野之図	JJ|NN|NN|NN|NN|NN	MISC|O|O|O|O|O	|||||				Japanese Edo period Star Chart 天文分野之図
+88	1	fb:cell.null										
+88	2	fb:cell.1816	1816 文化十三年	1816|文化十三年	1816|文化十三年	CD|NNP	DATE|O	1816|	1816.0			1816 文化十三年
+88	3	fb:cell.null_2	-	-	-	:	O					-
+88	4	fb:cell.null_2	-	-	-	:	O					-
+89	0	fb:cell.chinese_star_map	Chinese Star map	chinese|star|map	Chinese|Star|map	NNP|NNP|NN	MISC|O|O	||				Chinese Star map
+89	1	fb:cell.john_reeves_esq	John Reeves esq	john|reeves|esq	John|Reeves|esq	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				John Reeves esq
+89	2	fb:cell.1819_ad	1819 AD	1819|ad	1819|ad	CD|NN	DATE|DATE	+1819|+1819	1819.0			1819 AD
+89	3	fb:cell.printed_map_showing_chinese_names_of_stars_and_constellations	Printed map showing Chinese names of stars and constellations	printed|map|showing|chinese|names|of|stars|and|constellations	print|map|show|chinese|name|of|star|and|constellation	VBN|NN|VBG|JJ|NNS|IN|NNS|CC|NNS	O|O|O|MISC|O|O|O|O|O	||||||||				Printed map showing Chinese names of stars and constellations
+89	4	fb:cell.null										
+90	0	fb:cell.japanese_edo_period_star_chart	Japanese Edo period Star Chart 天文分野之図	japanese|edo|period|star|chart|天文分野之図	japanese|edo|period|star|chart|天文分野之図	JJ|NN|NN|NN|NN|NN	MISC|O|O|O|O|O	|||||				Japanese Edo period Star Chart 天文分野之図
+90	1	fb:cell.null										
+90	2	fb:cell.1824	1824 文政七年	1824|文政七年	1824|文政七年	CD|NNP	DATE|O	1824|	1824.0			1824 文政七年
+90	3	fb:cell.null_2	-	-	-	:	O					-
+90	4	fb:cell.null_2	-	-	-	:	O					-
+91	0	fb:cell.japanese_edo_period_star_chart	Japanese Edo period Star Chart 天文分野之図	japanese|edo|period|star|chart|天文分野之図	japanese|edo|period|star|chart|天文分野之図	JJ|NN|NN|NN|NN|NN	MISC|O|O|O|O|O	|||||				Japanese Edo period Star Chart 天文分野之図
+91	1	fb:cell.and	小島好謙 and 鈴木世孝	小島好謙|and|鈴木世孝	小島好謙|and|鈴木世孝	NNP|CC|NNP	O|O|O	||				小島好謙 and 鈴木世孝
+91	2	fb:cell.1824	1824 文政七年	1824|文政七年	1824|文政七年	CD|NNP	DATE|O	1824|	1824.0			1824 文政七年
+91	3	fb:cell.null_2	-	-	-	:	O					-
+91	4	fb:cell.null_2	-	-	-	:	O					-
+92	0	fb:cell.japanese_edo_period_star_chart	Japanese Edo period Star Chart 天文分野之図	japanese|edo|period|star|chart|天文分野之図	japanese|edo|period|star|chart|天文分野之図	JJ|NN|NN|NN|NN|NN	MISC|O|O|O|O|O	|||||				Japanese Edo period Star Chart 天文分野之図
+92	1	fb:cell.null										
+92	2	fb:cell.1824	1824 文政七年	1824|文政七年	1824|文政七年	CD|NNP	DATE|O	1824|	1824.0			1824 文政七年
+92	3	fb:cell.null_2	-	-	-	:	O					-
+92	4	fb:cell.null_2	-	-	-	:	O					-
+93	0	fb:cell.japanese_edo_period_star_chart_2	Japanese Edo period Star Chart 天象管鈔 天体図 (天文星象図解)	japanese|edo|period|star|chart|天象管鈔|天体図|-lrb-|天文星象図解|-rrb-	japanese|edo|period|star|chart|天象管鈔|天体図|-lrb-|天文星象図解|-rrb-	JJ|NN|NN|NN|NN|NN|NN|-LRB-|NN|-RRB-	MISC|O|O|O|O|O|O|O|O|O	|||||||||				Japanese Edo period Star Chart 天象管鈔 天体図 (天文星象図解)
+93	1	fb:cell.null										
+93	2	fb:cell.1824	1824 文政七年	1824|文政七年	1824|文政七年	CD|NNP	DATE|O	1824|	1824.0			1824 文政七年
+93	3	fb:cell.null_2	-	-	-	:	O					-
+93	4	fb:cell.null										
+94	0	fb:cell.japanese_edo_period_star_measuring_device	Japanese Edo period Star Measuring Device 中星儀	japanese|edo|period|star|measuring|device|中星儀	japanese|edo|period|star|measure|device|中星儀	JJ|NN|NN|NN|VBG|NN|NN	MISC|O|O|O|O|O|O	||||||				Japanese Edo period Star Measuring Device 中星儀
+94	1	fb:cell.zhu_li_xin_shun	足立信順Zhu Li Xin Shun	足立信順zhu|li|xin|shun	足立信順Zhu|Li|Xin|shun	NNP|NNP|NNP|VB	PERSON|PERSON|PERSON|PERSON	|||				足立信順Zhu Li Xin Shun
+94	2	fb:cell.1824	1824 文政七年	1824|文政七年	1824|文政七年	CD|NNP	DATE|O	1824|	1824.0			1824 文政七年
+94	3	fb:cell.null_2	-	-	-	:	O					-
+94	4	fb:cell.null_2	-	-	-	:	O					-
+95	0	fb:cell.japanese_star_map_in_kanji	Japanese Star Map 天象一覧図 in Kanji	japanese|star|map|天象一覧図|in|kanji	japanese|star|map|天象一覧図|in|kanji	JJ|NN|NN|NN|IN|FW	MISC|O|O|O|O|PERSON	|||||				Japanese Star Map 天象一覧図 in Kanji
+95	1	fb:cell.null										
+95	2	fb:cell.1824_ad	1824 AD 文政７年	1824|ad|文政７年	1824|ad|文政７年	CD|NN|NN	DATE|DATE|O	+1824|+1824|	1824.0			1824 AD 文政７年
+95	3	fb:cell.printed_map_showing_chinese_names_of_stars_and_constellations	Printed map showing Chinese names of stars and constellations	printed|map|showing|chinese|names|of|stars|and|constellations	print|map|show|chinese|name|of|star|and|constellation	VBN|NN|VBG|JJ|NNS|IN|NNS|CC|NNS	O|O|O|MISC|O|O|O|O|O	||||||||				Printed map showing Chinese names of stars and constellations
+95	4	fb:cell.null										
+96	0	fb:cell.korean_star_map_in_kanji	Korean Star Map 天象列次分野之図 in Kanji	korean|star|map|天象列次分野之図|in|kanji	korean|star|map|天象列次分野之図|in|kanji	JJ|NN|NN|NN|IN|FW	MISC|O|O|O|O|PERSON	|||||				Korean Star Map 天象列次分野之図 in Kanji
+96	1	fb:cell.null										
+96	2	fb:cell.c_19th_century	c. 19th century	c.|19th|century	c.|19th|century	NNP|JJ|NN	O|DATE|DATE	|18XX|18XX	0.19			c. 19th century
+96	3	fb:cell.printed_map_showing_chinese_names_of_stars_and_constellations	Printed map showing Chinese names of stars and constellations	printed|map|showing|chinese|names|of|stars|and|constellations	print|map|show|chinese|name|of|star|and|constellation	VBN|NN|VBG|JJ|NNS|IN|NNS|CC|NNS	O|O|O|MISC|O|O|O|O|O	||||||||				Printed map showing Chinese names of stars and constellations
+96	4	fb:cell._18	[18]	-lsb-|18|-rsb-	-lsb-|18|-rsb-	-LRB-|CD|-RRB-	O|NUMBER|O	|18.0|	18.0			[18]
+97	0	fb:cell.korean_star_map	Korean Star Map	korean|star|map	korean|star|map	JJ|NN|NN	MISC|O|O	||				Korean Star Map
+97	1	fb:cell.null										
+97	2	fb:cell.c_19th_century_late_choson_period	c. 19th century, late Choson Period	c.|19th|century|,|late|choson|period	c.|19th|century|,|late|Choson|period	NNP|JJ|NN|,|JJ|NNP|NN	O|DATE|DATE|O|O|O|O	|18XX|18XX||||	0.19			c. 19th century|late Choson Period
+97	3	fb:cell.null_2	-	-	-	:	O					-
+97	4	fb:cell.null										
+98	0	fb:cell.korean_star_maps_star_map_south_to_the_ecliptic_and_star_map_south_to_the_ecliptic	Korean Star maps: Star Map South to the Ecliptic 黃道南恒星圖 and Star Map South to the Ecliptic 黃道北恒星圖	korean|star|maps|:|star|map|south|to|the|ecliptic|黃道南恒星圖|and|star|map|south|to|the|ecliptic|黃道北恒星圖	korean|star|map|:|Star|map|south|to|the|ecliptic|黃道南恒星圖|and|star|map|south|to|the|ecliptic|黃道北恒星圖	JJ|NN|NNS|:|NNP|NN|RB|TO|DT|JJ|NN|CC|NN|NN|RB|TO|DT|JJ|NN	MISC|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||				Korean Star maps: Star Map South to the Ecliptic 黃道南恒星圖 and Star Map South to the Ecliptic 黃道北恒星圖
+98	1	fb:cell.null										
+98	2	fb:cell.c_19th_century	c. 19th century	c.|19th|century	c.|19th|century	NNP|JJ|NN	O|DATE|DATE	|18XX|18XX	0.19			c. 19th century
+98	3	fb:cell.perhaps_influenced_by_adam_schall_von_bell_tang_ruo_wang_1591_1666_and_p_ignatius_koegler_1680_1748	Perhaps influenced by Adam Schall von Bell Tang Ruo wang 湯若望 (1591–1666) and P. Ignatius Koegler 戴進賢 (1680–1748)	perhaps|influenced|by|adam|schall|von|bell|tang|ruo|wang|湯若望|-lrb-|1591|--|1666|-rrb-|and|p.|ignatius|koegler|戴進賢|-lrb-|1680|--|1748|-rrb-	perhaps|influence|by|Adam|Schall|von|Bell|Tang|Ruo|wang|湯若望|-lrb-|1591|--|1666|-rrb-|and|p.|Ignatius|Koegler|戴進賢|-lrb-|1680|--|1748|-rrb-	RB|VBN|IN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|-LRB-|CD|:|CD|-RRB-|CC|NN|NNP|NNP|NNP|-LRB-|CD|:|CD|-RRB-	O|O|O|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|O|DATE|O|DATE|O|O|PERSON|PERSON|PERSON|O|O|DATE|O|DATE|O	||||||||||||1591||1666||||||||1680||1748|	1591.0		1666.0	Perhaps influenced by Adam Schall von Bell Tang Ruo wang 湯若望 (1591–1666) and P. Ignatius Koegler 戴進賢 (1680–1748)
+98	4	fb:cell.null										
+99	0	fb:cell.korean_complete_map_of_the_celestial_sphere	Korean Complete map of the celestial sphere (渾天全圖)	korean|complete|map|of|the|celestial|sphere|-lrb-|渾天全圖|-rrb-	korean|complete|map|of|the|celestial|sphere|-lrb-|渾天全圖|-rrb-	JJ|JJ|NN|IN|DT|JJ|NN|-LRB-|NN|-RRB-	MISC|O|O|O|O|O|O|O|O|O	|||||||||				Korean Complete map of the celestial sphere (渾天全圖)
+99	1	fb:cell.null										
+99	2	fb:cell.c_19th_century	c. 19th century	c.|19th|century	c.|19th|century	NNP|JJ|NN	O|DATE|DATE	|18XX|18XX	0.19			c. 19th century
+99	3	fb:cell.null_2	-	-	-	:	O					-
+99	4	fb:cell.null										
+100	0	fb:cell.korean_book_of_stars	Korean Book of Stars 經星	korean|book|of|stars|經星	Korean|Book|of|Stars|經星	NNP|NNP|IN|NNP|NNP	MISC|O|O|O|O	||||				Korean Book of Stars 經星
+100	1	fb:cell.null										
+100	2	fb:cell.c_19th_century	c. 19th century	c.|19th|century	c.|19th|century	NNP|JJ|NN	O|DATE|DATE	|18XX|18XX	0.19			c. 19th century
+100	3	fb:cell.several_star_maps	Several star maps	several|star|maps	several|star|map	JJ|NN|NNS	O|O|O	||				Several star maps
+100	4	fb:cell.null										
+101	0	fb:cell.japanese_edo_period_star_chart_and	Japanese Edo period Star Chart 方円星図,方圓星図 and 増補分度星図方図	japanese|edo|period|star|chart|方円星図|,|方圓星図|and|増補分度星図方図	japanese|edo|period|star|chart|方円星図|,|方圓星図|and|増補分度星図方図	JJ|NN|NN|NN|NN|NN|,|NN|CC|NN	MISC|O|O|O|O|O|O|O|O|O	|||||||||				Japanese Edo period Star Chart 方円星図,方圓星図 and 増補分度星図方図
+101	1	fb:cell.null										
+101	2	fb:cell.1826b9	1826b文政9年	1826b文政9年	1826b文政9年	CD	NUMBER	1.0E9	1826.0		9.0	1826b文政9年
+101	3	fb:cell.null_2	-	-	-	:	O					-
+101	4	fb:cell.null_2	-	-	-	:	O					-
+102	0	fb:cell.japanese_star_chart	Japanese Star Chart 格子月進図	japanese|star|chart|格子月進図	japanese|star|chart|格子月進図	JJ|NN|NN|NN	O|O|O|O	|||				Japanese Star Chart 格子月進図
+102	1	fb:cell.null										
+102	2	fb:cell.c_19th_century	c. 19th century	c.|19th|century	c.|19th|century	NNP|JJ|NN	O|DATE|DATE	|18XX|18XX	0.19			c. 19th century
+102	3	fb:cell.null_2	-	-	-	:	O					-
+102	4	fb:cell.null_2	-	-	-	:	O					-
+103	0	fb:cell.japanese_edo_period_star_chart	Japanese Edo period Star Chart 天文分野之図	japanese|edo|period|star|chart|天文分野之図	japanese|edo|period|star|chart|天文分野之図	JJ|NN|NN|NN|NN|NN	MISC|O|O|O|O|O	|||||				Japanese Edo period Star Chart 天文分野之図
+103	1	fb:cell.null										
+103	2	fb:cell.1835_6	1835 天保6年	1835|天保6年	1835|天保6年	NNP|NNP	DATE|O	1835|	1835.0		6.0	1835 天保6年
+103	3	fb:cell.null_2	-	-	-	:	O					-
+103	4	fb:cell.null_2	-	-	-	:	O					-
+104	0	fb:cell.qing_dynasty_star_catalog	Qing Dynasty Star Catalog (儀象考成續編)星表	qing|dynasty|star|catalog|-lrb-|儀象考成續編|-rrb-|星表	qing|Dynasty|Star|catalog|-lrb-|儀象考成續編|-rrb-|星表	VBG|NNP|NNP|NN|-LRB-|NN|-RRB-|NN	O|O|O|O|O|O|O|O	|||||||				Qing Dynasty Star Catalog (儀象考成續編)星表
+104	1	fb:cell.null										
+104	2	fb:cell.1844	1844	1844	1844	CD	DATE	1844	1844.0	1844-xx-xx		1844
+104	3	fb:cell.appendix_to_yi_xian_kao_cheng_listed_3240_stars_added_163_removed_6	Appendix to Yi Xian Kao Cheng, listed 3240 stars (added 163, removed 6)	appendix|to|yi|xian|kao|cheng|,|listed|3240|stars|-lrb-|added|163|,|removed|6|-rrb-	appendix|to|Yi|Xian|Kao|Cheng|,|list|3240|star|-lrb-|add|163|,|remove|6|-rrb-	NN|TO|NNP|NNP|NNP|NNP|,|VBN|CD|NNS|-LRB-|VBN|CD|,|VBD|CD|-RRB-	O|O|PERSON|PERSON|PERSON|PERSON|O|O|NUMBER|O|O|O|NUMBER|O|O|NUMBER|O	||||||||3240.0||||163.0|||6.0|	3240.0		163.0	Appendix to Yi Xian Kao Cheng|listed 3240 stars (added 163|removed 6)
+104	4	fb:cell.null										
+105	0	fb:cell.stars_map_stored_in_japan	Stars map (恒星赤道経緯度図)stored in Japan	stars|map|-lrb-|恒星赤道経緯度図|-rrb-|stored|in|japan	star|map|-lrb-|恒星赤道経緯度図|-rrb-|store|in|Japan	NNS|NN|-LRB-|NN|-RRB-|VBD|IN|NNP	O|O|O|O|O|O|O|LOCATION	|||||||				Stars map (恒星赤道経緯度図)stored in Japan
+105	1	fb:cell.null										
+105	2	fb:cell.1844_24_or_1848	1844 道光24年 or 1848	1844|道光24年|or|1848	1844|道光24年|or|1848	CD|NN|CC|CD	DATE|O|O|DATE	1844|||1848	1844.0		24.0	1844 道光24年 or 1848
+105	3	fb:cell.null_2	-	-	-	:	O					-
+105	4	fb:cell.null_2	-	-	-	:	O					-
+106	0	fb:cell.japanese_edo_period_star_chart	Japanese Edo period Star Chart 天文分野之図	japanese|edo|period|star|chart|天文分野之図	japanese|edo|period|star|chart|天文分野之図	JJ|NN|NN|NN|NN|NN	MISC|O|O|O|O|O	|||||				Japanese Edo period Star Chart 天文分野之図
+106	1	fb:cell.null										
+106	2	fb:cell.1845	1845 弘化２年	1845|弘化２年	1845|弘化２年	CD|NN	DATE|O	1845|	1845.0			1845 弘化２年
+106	3	fb:cell.null_2	-	-	-	:	O					-
+106	4	fb:cell.null_2	-	-	-	:	O					-
+107	0	fb:cell.japanese_edo_period_star_chart	Japanese Edo period Star Chart 天文分野之図	japanese|edo|period|star|chart|天文分野之図	japanese|edo|period|star|chart|天文分野之図	JJ|NN|NN|NN|NN|NN	MISC|O|O|O|O|O	|||||				Japanese Edo period Star Chart 天文分野之図
+107	1	fb:cell.null_3	高塚福昌, 阿部比輔, 上条景弘	高塚福昌|,|阿部比輔|,|上条景弘	高塚福昌|,|阿部比輔|,|上条景弘	NNP|,|NNP|,|NNP	O|O|O|O|O	||||				高塚福昌|阿部比輔|上条景弘
+107	2	fb:cell.1849_2	1849 嘉永2年	1849|嘉永2年	1849|嘉永2年	CD|NN	DATE|O	1849|	1849.0		2.0	1849 嘉永2年
+107	3	fb:cell.null_2	-	-	-	:	O					-
+107	4	fb:cell.null_2	-	-	-	:	O					-
+108	0	fb:cell.japanese_late_edo_period_star_chart	Japanese Late Edo period Star Chart 天文図屏風	japanese|late|edo|period|star|chart|天文図屏風	japanese|late|edo|period|star|chart|天文図屏風	JJ|JJ|NN|NN|NN|NN|NN	MISC|O|O|O|O|O|O	||||||				Japanese Late Edo period Star Chart 天文図屏風
+108	1	fb:cell.null										
+108	2	fb:cell.late_edo_period	late Edo Period 江戸時代後期	late|edo|period|江戸時代後期	late|edo|period|江戸時代後期	JJ|NN|NN|NN	O|O|O|O	|||				late Edo Period 江戸時代後期
+108	3	fb:cell.null_2	-	-	-	:	O					-
+108	4	fb:cell.null_2	-	-	-	:	O					-
+109	0	fb:cell.japanese_star_chart	Japanese Star Chart 格子月進図	japanese|star|chart|格子月進図	japanese|star|chart|格子月進図	JJ|NN|NN|NN	O|O|O|O	|||				Japanese Star Chart 格子月進図
+109	1	fb:cell.null										
+109	2	fb:cell.null_2	-	-	-	:	O					-
+109	3	fb:cell.null_2	-	-	-	:	O					-
+109	4	fb:cell.null_2	-	-	-	:	O					-
+110	0	fb:cell.japanese_star_chart	Japanese Star Chart 格子月進図	japanese|star|chart|格子月進図	japanese|star|chart|格子月進図	JJ|NN|NN|NN	O|O|O|O	|||				Japanese Star Chart 格子月進図
+110	1	fb:cell.null										
+110	2	fb:cell.null_2	-	-	-	:	O					-
+110	3	fb:cell.null_2	-	-	-	:	O					-
+110	4	fb:cell.null										
+111	0	fb:cell.korean_book_of_new_song_of_the_sky_pacer	Korean Book of New Song of the Sky Pacer 新法步天歌	korean|book|of|new|song|of|the|sky|pacer|新法步天歌	korean|book|of|new|song|of|the|sky|pacer|新法步天歌	JJ|NN|IN|JJ|NN|IN|DT|NN|NN|NN	MISC|O|O|O|O|O|O|O|O|O	|||||||||				Korean Book of New Song of the Sky Pacer 新法步天歌
+111	1	fb:cell.null										
+111	2	fb:cell.1862	1862	1862	1862	CD	DATE	1862	1862.0	1862-xx-xx		1862
+111	3	fb:cell.star_maps_and_a_revised_version_of_the_song_of_sky_pacer	Star maps and a revised version of the Song of Sky Pacer	star|maps|and|a|revised|version|of|the|song|of|sky|pacer	Star|map|and|a|revise|version|of|the|song|of|sky|pacer	NNP|NNS|CC|DT|VBN|NN|IN|DT|NN|IN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||				Star maps and a revised version of the Song of Sky Pacer
+111	4	fb:cell.null										
+112	0	fb:cell.stars_south_of_equator_stars_north_of_equator	Stars South of Equator, Stars North of Equator (赤道南恆星圖,赤道北恆星圖)	stars|south|of|equator|,|stars|north|of|equator|-lrb-|赤道南恆星圖|,|赤道北恆星圖|-rrb-	star|south|of|equator|,|star|North|of|equator|-lrb-|赤道南恆星圖|,|赤道北恆星圖|-rrb-	NNS|RB|IN|NN|,|VBZ|NNP|IN|NN|-LRB-|NN|,|NN|-RRB-	O|O|O|O|O|O|O|O|O|O|O|O|O|O	|||||||||||||				Stars South of Equator|Stars North of Equator (赤道南恆星圖,赤道北恆星圖)
+112	1	fb:cell.null										
+112	2	fb:cell.18751908	1875～1908 清末光緒年間	1875|～|1908|清末光緒年間	1875|～|1908|清末光緒年間	CD|NNP|CD|NNP	DATE|O|DATE|O	1875||1908|	1875.0		1908.0	1875～1908 清末光緒年間
+112	3	fb:cell.similar_to_ming_dynasty_general_star_map	Similar to Ming Dynasty General Star Map	similar|to|ming|dynasty|general|star|map	similar|to|ming|dynasty|general|star|map	JJ|TO|JJ|NN|JJ|NN|NN	O|O|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||||				Similar to Ming Dynasty General Star Map
+112	4	fb:cell.null										
+113	0	fb:cell.fuxi_64_gua_28_xu_wood_carving	Fuxi 64 gua 28 xu wood carving 天水市卦台山伏羲六十四卦二十八宿全图	fuxi|64|gua|28|xu|wood|carving|天水市卦台山伏羲六十四卦二十八宿全图	fuxus|64|gua|28|xu|wood|carve|天水市卦台山伏羲六十四卦二十八宿全图	NN|CD|NN|CD|NNP|NNP|VBG|NN	PERSON|NUMBER|O|NUMBER|O|O|O|O	|64.0||28.0||||	64.0		28.0	Fuxi 64 gua 28 xu wood carving 天水市卦台山伏羲六十四卦二十八宿全图
+113	1	fb:cell.null										
+113	2	fb:cell.modern	modern	modern	modern	JJ	O					modern
+113	3	fb:cell.null_2	-	-	-	:	O					-
+113	4	fb:cell.null_2	-	-	-	:	O					-
+114	0	fb:cell.korean_map_of_heaven_and_earth	Korean Map of Heaven and Earth 天地圖	korean|map|of|heaven|and|earth|天地圖	korean|map|of|Heaven|and|Earth|天地圖	JJ|NN|IN|NNP|CC|NNP|NNP	MISC|O|O|O|O|O|O	||||||				Korean Map of Heaven and Earth 天地圖
+114	1	fb:cell.null										
+114	2	fb:cell.c_19th_century	c. 19th century	c.|19th|century	c.|19th|century	NNP|JJ|NN	O|DATE|DATE	|18XX|18XX	0.19			c. 19th century
+114	3	fb:cell.28_constellations_and_geographic_map	28 Constellations and geographic map	28|constellations|and|geographic|map	28|constellation|and|geographic|map	CD|NNS|CC|JJ|NN	NUMBER|O|O|O|O	28.0||||	28.0			28 Constellations and geographic map
+114	4	fb:cell.null										
+115	0	fb:cell.korean_version_of_28_constellation	Korean version of 28 Constellation 列宿圖	korean|version|of|28|constellation|列宿圖	korean|version|of|28|constellation|列宿圖	JJ|NN|IN|CD|NN|NN	MISC|O|O|NUMBER|O|O	|||28.0||	28.0			Korean version of 28 Constellation 列宿圖
+115	1	fb:cell.null										
+115	2	fb:cell.c_19th_century	c. 19th century	c.|19th|century	c.|19th|century	NNP|JJ|NN	O|DATE|DATE	|18XX|18XX	0.19			c. 19th century
+115	3	fb:cell.28_constellations_some_named_differently_from_their_chinese_counterparts	28 Constellations, some named differently from their Chinese counterparts	28|constellations|,|some|named|differently|from|their|chinese|counterparts	28|constellation|,|some|name|differently|from|they|chinese|counterpart	CD|NNS|,|DT|VBN|RB|IN|PRP$|JJ|NNS	NUMBER|O|O|O|O|O|O|O|MISC|O	28.0|||||||||	28.0			28 Constellations|some named differently from their Chinese counterparts
+115	4	fb:cell.null										
+116	0	fb:cell.korean_star_chart	Korean Star Chart 渾天図	korean|star|chart|渾天図	korean|star|chart|渾天図	JJ|NN|NN|NN	O|O|O|O	|||				Korean Star Chart 渾天図
+116	1	fb:cell.null_4	朴?	朴|?	朴|?	NNP|.	O|O	|				朴?
+116	2	fb:cell.null_2	-	-	-	:	O					-
+116	3	fb:cell.null_2	-	-	-	:	O					-
+116	4	fb:cell.null_2	-	-	-	:	O					-
+117	0	fb:cell.star_chart_in_a_dao_temple	Star Chart in a Dao Temple 玉皇山道觀星圖	star|chart|in|a|dao|temple|玉皇山道觀星圖	Star|chart|in|a|Dao|Temple|玉皇山道觀星圖	NNP|NN|IN|DT|NNP|NNP|NNP	O|O|O|O|O|O|O	||||||				Star Chart in a Dao Temple 玉皇山道觀星圖
+117	1	fb:cell.null										
+117	2	fb:cell.1940_ad	1940 AD	1940|ad	1940|ad	CD|NN	DATE|DATE	+1940|+1940	1940.0			1940 AD
+117	3	fb:cell.null_2	-	-	-	:	O					-
+117	4	fb:cell.null_2	-	-	-	:	O					-
+118	0	fb:cell.simplified_chinese_and_western_star_map	Simplified Chinese and Western Star Map	simplified|chinese|and|western|star|map	simplify|Chinese|and|Western|Star|map	VBN|NNPS|CC|NNP|NNP|NN	O|MISC|O|O|O|O	|||||				Simplified Chinese and Western Star Map
+118	1	fb:cell.yi_shi_tong	Yi Shi Tong 伊世同	yi|shi|tong|伊世同	Yi|Shi|Tong|伊世同	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Yi Shi Tong 伊世同
+118	2	fb:cell.aug_1963	Aug. 1963	aug.|1963	Aug.|1963	NNP|CD	DATE|DATE	1963-08|1963-08	0.1963	1963-08-xx		Aug. 1963
+118	3	fb:cell.star_map_showing_chinese_xingquan_and_western_constellation_boundaries	Star Map showing Chinese Xingquan and Western Constellation boundaries	star|map|showing|chinese|xingquan|and|western|constellation|boundaries	Star|map|show|chinese|xingquan|and|western|constellation|boundary	NNP|NN|VBG|JJ|NN|CC|JJ|NN|NNS	O|O|O|MISC|PERSON|O|O|O|O	||||||||				Star Map showing Chinese Xingquan and Western Constellation boundaries
+118	4	fb:cell.null										
+119	0	fb:cell.sky_map	Sky Map	sky|map	Sky|map	NNP|NN	O|O	|				Sky Map
+119	1	fb:cell.yu_xi_dao_ren	Yu Xi Dao Ren 玉溪道人	yu|xi|dao|ren|玉溪道人	Yu|xi|Dao|Ren|玉溪道人	NNP|NN|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON	||||				Yu Xi Dao Ren 玉溪道人
+119	2	fb:cell.1987	1987	1987	1987	CD	DATE	1987	1987.0	1987-xx-xx		1987
+119	3	fb:cell.star_map_with_captions	Star Map with captions	star|map|with|captions	Star|map|with|caption	NNP|NN|IN|NNS	O|O|O|O	|||				Star Map with captions
+119	4	fb:cell.null										
+120	0	fb:cell.the_chinese_sky_during_the_han_constellating_stars_and_society	The Chinese Sky during the Han Constellating Stars and Society	the|chinese|sky|during|the|han|constellating|stars|and|society	the|chinese|sky|during|the|Han|constellate|star|and|society	DT|JJ|NN|IN|DT|NNP|VBG|NNS|CC|NN	O|MISC|O|O|O|O|O|O|O|O	|||||||||				The Chinese Sky during the Han Constellating Stars and Society
+120	1	fb:cell.sun_xiaochun_and_jacob_kistemaker	Sun Xiaochun and Jacob Kistemaker	sun|xiaochun|and|jacob|kistemaker	Sun|Xiaochun|and|Jacob|Kistemaker	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Sun Xiaochun and Jacob Kistemaker
+120	2	fb:cell.1997_ad	1997 AD	1997|ad	1997|ad	CD|NN	DATE|DATE	+1997|+1997	1997.0			1997 AD
+120	3	fb:cell.an_attempt_to_recreate_night_sky_seen_by_chinese_2000_years_ago	An attempt to recreate night sky seen by Chinese 2000 years ago	an|attempt|to|recreate|night|sky|seen|by|chinese|2000|years|ago	a|attempt|to|recreate|night|sky|see|by|chinese|2000|year|ago	DT|NN|TO|VB|NN|NN|VBN|IN|JJ|CD|NNS|IN	O|O|O|O|TIME|O|O|O|MISC|DATE|DATE|DATE	||||TNI|||||OFFSET P-2000Y|OFFSET P-2000Y|OFFSET P-2000Y	2000.0			An attempt to recreate night sky seen by Chinese 2000 years ago
+120	4	fb:cell.null										
+121	0	fb:cell.star_map	Star map	star|map	Star|map	NNP|NN	PERSON|PERSON	|				Star map
+121	1	fb:cell.null										
+121	2	fb:cell.recent	Recent	recent	recent	JJ	O					Recent
+121	3	fb:cell.an_attempt_by_a_japanese_to_reconstruct_the_night_sky_for_a_historical_event_around_235_ad	An attempt by a Japanese to reconstruct the night sky for a historical event around 235 AD 秋風五丈原	an|attempt|by|a|japanese|to|reconstruct|the|night|sky|for|a|historical|event|around|235|ad|秋風五丈原	a|attempt|by|a|japanese|to|reconstruct|the|night|sky|for|a|historical|event|around|235|ad|秋風五丈原	DT|NN|IN|DT|JJ|TO|VB|DT|NN|NN|IN|DT|JJ|NN|IN|CD|NN|NN	O|O|O|O|MISC|O|O|O|TIME|O|O|O|O|O|O|DATE|DATE|O	||||||||TNI|||||||+0235|+0235|	235.0			An attempt by a Japanese to reconstruct the night sky for a historical event around 235 AD 秋風五丈原
+121	4	fb:cell.null										
+122	0	fb:cell.star_maps	Star maps	star|maps	Star|map	NNP|NNS	O|O	|				Star maps
+122	1	fb:cell.null										
+122	2	fb:cell.recent	Recent	recent	recent	JJ	O					Recent
+122	3	fb:cell.chinese_28_constellation_with_chinese_and_japanese_captions	Chinese 28 Constellation with Chinese and Japanese captions	chinese|28|constellation|with|chinese|and|japanese|captions	chinese|28|constellation|with|chinese|and|japanese|caption	JJ|CD|NN|IN|JJ|CC|JJ|NNS	MISC|NUMBER|O|O|MISC|O|MISC|O	|28.0||||||	28.0			Chinese 28 Constellation with Chinese and Japanese captions
+122	4	fb:cell.null										
+123	0	fb:cell.sinosky_beta_2_0	SinoSky Beta 2.0	sinosky|beta|2.0	sinosky|beta|2.0	NN|NN|CD	O|O|NUMBER	||2.0	2.0			SinoSky Beta 2.0
+123	1	fb:cell.null										
+123	2	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		2002
+123	3	fb:cell.a_computer_program_capable_of_showing_chinese_xingguans_alongside_with_western_constellations_lists_about_700_stars_with_chinese_names	A computer program capable of showing Chinese Xingguans alongside with western constellations, lists about 700 stars with Chinese names.	a|computer|program|capable|of|showing|chinese|xingguans|alongside|with|western|constellations|,|lists|about|700|stars|with|chinese|names|.	a|computer|program|capable|of|show|chinese|xingguan|alongside|with|western|constellation|,|list|about|700|star|with|chinese|name|.	DT|NN|NN|JJ|IN|VBG|JJ|NNS|IN|IN|JJ|NNS|,|NNS|IN|CD|NNS|IN|JJ|NNS|.	O|O|O|O|O|O|MISC|O|O|O|O|O|O|O|O|NUMBER|O|O|MISC|MISC|O	|||||||||||||||~700.0|||||	700.0			A computer program capable of showing Chinese Xingguans alongside with western constellations|lists about 700 stars with Chinese names.
+123	4	fb:cell.null										
+124	0	fb:cell.aeea_star_maps	AEEA Star maps	aeea|star|maps	AEEA|Star|map	NNP|NNP|NNS	O|O|O	||				AEEA Star maps
+124	1	fb:cell.null										
+124	2	fb:cell.modern	modern	modern	modern	JJ	O					modern
+124	3	fb:cell.good_reconstruction_and_explanation_of_chinese_constellations	Good reconstruction and explanation of Chinese constellations	good|reconstruction|and|explanation|of|chinese|constellations	good|reconstruction|and|explanation|of|chinese|constellation	JJ|NN|CC|NN|IN|JJ|NNS	O|O|O|O|O|MISC|O	||||||				Good reconstruction and explanation of Chinese constellations
+124	4	fb:cell.null										
+125	0	fb:cell.wikipedia_star_maps	Wikipedia Star maps	wikipedia|star|maps	Wikipedia|Star|map	NNP|NNP|NNS	ORGANIZATION|O|O	||				Wikipedia Star maps
+125	1	fb:cell.null										
+125	2	fb:cell.modern	modern	modern	modern	JJ	O					modern
+125	3	fb:cell.null_2	-	-	-	:	O					-
+125	4	fb:cell.zh	zh:郑和航海图	zh|:|郑和航海图	zh|:|郑和航海图	NN|:|NN	O|O|O	||				zh:郑和航海图
+126	0	fb:cell.28_constellations_big_dipper_and_4_symbols_star_map	28 Constellations, big dipper and 4 symbols Star map	28|constellations|,|big|dipper|and|4|symbols|star|map	28|constellation|,|big|dipper|and|4|symbol|star|map	CD|NNS|,|JJ|NNP|CC|CD|NNS|JJ|NN	NUMBER|O|O|O|O|O|NUMBER|O|O|O	28.0||||||4.0|||	28.0		4.0	28 Constellations|big dipper and 4 symbols Star map
+126	1	fb:cell.null										
+126	2	fb:cell.modern	modern	modern	modern	JJ	O					modern
+126	3	fb:cell.null_2	-	-	-	:	O					-
+126	4	fb:cell.null										
+127	0	fb:cell.collection_of_printed_star_maps	Collection of printed star maps	collection|of|printed|star|maps	collection|of|printed|star|map	NN|IN|NNP|NNP|NNS	O|O|O|O|O	||||				Collection of printed star maps
+127	1	fb:cell.null										
+127	2	fb:cell.modern	modern	modern	modern	JJ	O					modern
+127	3	fb:cell.null_2	-	-	-	:	O					-
+127	4	fb:cell.null										
+128	0	fb:cell.28_xu_star_map_and_catalog	28 Xu Star map and catalog	28|xu|star|map|and|catalog	28|Xu|Star|map|and|catalog	CD|NNP|NNP|NN|CC|NN	NUMBER|PERSON|PERSON|PERSON|O|O	28.0|||||	28.0			28 Xu Star map and catalog
+128	1	fb:cell.null_2	-	-	-	:	O					-
+128	2	fb:cell.modern	modern	modern	modern	JJ	O					modern
+128	3	fb:cell.stars_around_ecliptic	Stars around ecliptic	stars|around|ecliptic	star|around|ecliptic	NNS|IN|JJ	O|O|O	||				Stars around ecliptic
+128	4	fb:cell.null										
+129	0	fb:cell.hnsky_korean_chinese_supplement	HNSKY Korean/Chinese Supplement	hnsky|korean/chinese|supplement	hnsky|korean/chinese|supplement	NN|NN|NN	MISC|MISC|O	||				HNSKY Korean|Chinese Supplement
+129	1	fb:cell.jeong_tae_min_jtm71_chuang_siau_chin	Jeong, Tae-Min(jtm71)/Chuang_Siau_Chin	jeong|,|tae|min|-lrb-|jtm71|-rrb-|/|chuang_siau_chin	Jeong|,|Tae|min|-lrb-|jtm71|-rrb-|/|chuang_siau_chin	NNP|,|NNP|NN|-LRB-|NN|-RRB-|:|NN	PERSON|O|PERSON|PERSON|O|O|O|O|O	||||||||	71.0			Jeong|Tae-Min(jtm71)|Chuang_Siau_Chin
+129	2	fb:cell.modern	modern	modern	modern	JJ	O					modern
+129	3	fb:cell.korean_supplement_is_based_on_cheonsangyeulchabunyazido_b_c_100_a_d_100	Korean supplement is based on CheonSangYeulChaBunYaZiDo (B.C.100 ~ A.D.100)	korean|supplement|is|based|on|cheonsangyeulchabunyazido|-lrb-|b.c.|100|~|a.d.|100|-rrb-	korean|supplement|be|base|on|cheonsangyeulchabunyazido|-lrb-|b.c.|100|~|A.D.|100|-rrb-	JJ|NN|VBD-AUX|VBN|IN|NN|-LRB-|NN|CD|NNP|NNP|CD|-RRB-	MISC|O|O|O|O|O|O|O|NUMBER|O|O|NUMBER|O	||||||||100.0|||100.0|				Korean supplement is based on CheonSangYeulChaBunYaZiDo (B.C.100 ~ A.D.100)
+129	4	fb:cell.null										
+130	0	fb:cell.stellarium_chinese_and_korean_sky_culture	Stellarium Chinese and Korean Sky Culture	stellarium|chinese|and|korean|sky|culture	Stellarium|Chinese|and|Korean|Sky|culture	NNP|NNP|CC|NNP|NNP|NN	MISC|MISC|O|MISC|O|O	|||||				Stellarium Chinese and Korean Sky Culture
+130	1	fb:cell.g_s_k_lee_jeong_tae_min_jtm71_yu_pu_wang_evanzxcv	G.S.K. Lee; Jeong, Tae-Min(jtm71); Yu-Pu Wang (evanzxcv)	g.s.k.|lee|;|jeong|,|tae|min|-lrb-|jtm71|-rrb-|;|yu|pu|wang|-lrb-|evanzxcv|-rrb-	G.S.K.|Lee|;|Jeong|,|Tae|min|-lrb-|jtm71|-rrb-|;|Yu|pu|Wang|-lrb-|evanzxcv|-rrb-	NNP|NNP|:|NNP|,|NNP|NN|-LRB-|NN|-RRB-|:|NNP|NN|NNP|-LRB-|NNP|-RRB-	PERSON|PERSON|O|PERSON|O|PERSON|PERSON|O|O|O|O|PERSON|PERSON|PERSON|O|O|O	||||||||||||||||				G.S.K. Lee; Jeong|Tae-Min(jtm71); Yu-Pu Wang (evanzxcv)
+130	2	fb:cell.modern	modern	modern	modern	JJ	O					modern
+130	3	fb:cell.major_xingguans_and_star_names	Major Xingguans and Star names	major|xingguans|and|star|names	major|xingguan|and|star|name	JJ|NNS|CC|NN|NNS	O|PERSON|O|O|MISC	||||				Major Xingguans and Star names
+130	4	fb:cell.null										
+131	0	fb:cell.huo_hou_tu	修真內外火侯全圖 Huo Hou Tu	修真內外火侯全圖|huo|hou|tu	修真內外火侯全圖|Huo|Hou|Tu	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				修真內外火侯全圖 Huo Hou Tu
+131	1	fb:cell.xi_chun_sheng_chong_hui_2005_redrawn_original_unknown	Xi Chun Sheng Chong Hui\p2005 redrawn, original unknown	xi|chun|sheng|chong|hui|\p|2005|redrawn|,|original|unknown	xi|Chun|Sheng|Chong|Hui|\p|2005|redrawn|,|original|unknown	NN|NNP|NNP|NNP|NNP|NNP|CD|JJ|,|JJ|JJ	PERSON|PERSON|PERSON|PERSON|PERSON|O|DATE|O|O|O|O	||||||2005||||	2005.0			Xi Chun Sheng Chong Hui\p2005 redrawn|original unknown
+131	2	fb:cell.illustrations_of_milkyway_and_star_maps_chinese_constellations_in_taoism_view	illustrations of Milkyway and star maps, Chinese constellations in Taoism view	illustrations|of|milkyway|and|star|maps|,|chinese|constellations|in|taoism|view	illustration|of|Milkyway|and|star|map|,|chinese|constellation|in|Taoism|view	NNS|IN|NNP|CC|NNP|NNS|,|JJ|NNS|IN|NNP|NNP	O|O|ORGANIZATION|O|O|O|O|MISC|O|O|LOCATION|O	|||||||||||				illustrations of Milkyway and star maps|Chinese constellations in Taoism view
+131	3	fb:cell.null										
+131	4	fb:cell.null										
+132	0	fb:cell.star_map_with_illustrations_for_xingguans	Star Map with illustrations for Xingguans	star|map|with|illustrations|for|xingguans	Star|map|with|illustration|for|Xingguans	NNP|NN|IN|NNS|IN|NNP	O|O|O|O|O|PERSON	|||||				Star Map with illustrations for Xingguans
+132	1	fb:cell._zuo_jing_guan_xing	坐井★观星Zuo Jing Guan Xing	坐井|★|观星zuo|jing|guan|xing	坐井|★|观星Zuo|Jing|Guan|Xing	NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|PERSON|PERSON|PERSON	|||||				坐井★观星Zuo Jing Guan Xing
+132	2	fb:cell.modern	modern	modern	modern	JJ	O					modern
+132	3	fb:cell.illustrations_for_cylindrical_and_circular_polar_maps	illustrations for cylindrical and circular polar maps	illustrations|for|cylindrical|and|circular|polar|maps	illustration|for|cylindrical|and|circular|polar|map	NNS|IN|JJ|CC|JJ|JJ|NNS	O|O|O|O|O|O|O	||||||				illustrations for cylindrical and circular polar maps
+132	4	fb:cell.null										
+133	0	fb:cell.sky_in_google_earth_kml	Sky in Google Earth KML	sky|in|google|earth|kml	sky|in|Google|Earth|KML	NN|IN|NNP|NNP|NNP	O|O|O|O|O	||||				Sky in Google Earth KML
+133	1	fb:cell.null										
+133	2	fb:cell.modern	modern	modern	modern	JJ	O					modern
+133	3	fb:cell.attempts_to_show_chinese_star_maps_on_google_earth	Attempts to show Chinese Star Maps on Google Earth	attempts|to|show|chinese|star|maps|on|google|earth	attempt|to|show|chinese|star|map|on|Google|Earth	NNS|TO|VB|JJ|NN|NNS|IN|NNP|NNP	O|O|O|MISC|O|O|O|ORGANIZATION|O	||||||||				Attempts to show Chinese Star Maps on Google Earth
+133	4	fb:cell.null										

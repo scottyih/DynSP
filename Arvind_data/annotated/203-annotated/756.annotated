@@ -1,0 +1,86 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.title	Title	title	title	NN	O					
+-1	2	fb:row.row.role	Role	role	role	NN	O					
+-1	3	fb:row.row.network	Network	network	network	NN	O					
+-1	4	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+0	1	fb:cell.youth_y2k_y2k	Youth Y2K\n青春@Y2K	youth|y2k|青春|@y2k	youth|y2k|青春|@y2k	NN|NN|NN|NN	O|O|O|O	|||	2.0		2.0	Youth Y2K|青春@Y2K
+0	2	fb:cell.cheng_shasha	Cheng Shasha	cheng|shasha	Cheng|Shasha	NNP|NNP	PERSON|PERSON	|				Cheng Shasha
+0	3	fb:cell.null										
+0	4	fb:cell.null										
+1	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+1	1	fb:cell.the_monkey_king_quest_for_the_sutra	The Monkey King: Quest for the Sutra\n齊天大聖孫悟空	the|monkey|king|:|quest|for|the|sutra|齊天大聖孫悟空	the|Monkey|King|:|Quest|for|the|Sutra|齊天大聖孫悟空	DT|NNP|NNP|:|NNP|IN|DT|NNP|NNP	O|O|O|O|O|O|O|PERSON|O	||||||||				The Monkey King: Quest for the Sutra|齊天大聖孫悟空
+1	2	fb:cell.purple_orchid	Purple Orchid	purple|orchid	purple|orchid	JJ|NN	O|O	|				Purple Orchid
+1	3	fb:cell.tvb	TVB	tvb	TVB	NNP	O					
+1	4	fb:cell.null										
+2	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+2	1	fb:cell.null										
+2	2	fb:cell.shek_po_yi	Shek Po-yi	shek|po|yi	Shek|Po|yi	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Shek Po-yi
+2	3	fb:cell.tvb	TVB	tvb	TVB	NNP	O					
+2	4	fb:cell.eason_chan_s_music_video	Eason Chan's music video	eason|chan|'s|music|video	Eason|Chan|'s|music|video	NNP|NNP|POS|NN|NN	PERSON|PERSON|O|O|O	||||				
+3	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+3	1	fb:cell.twins	一Twins零一夜	一twins零一夜	一twins零一夜	NN	O					一Twins零一夜
+3	2	fb:cell.ah_sa	Ah Sa	ah|sa	ah|Sa	NN|NNP	PERSON|PERSON	|				Ah Sa
+3	3	fb:cell.tvb	TVB	tvb	TVB	NNP	O					
+3	4	fb:cell.music_video	Music video	music|video	music|video	NN|NN	O|O	|				
+4	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+4	1	fb:cell.triumph_in_the_skies	Triumph in the Skies\n衝上雲霄	triumph|in|the|skies|衝上雲霄	triumph|in|the|sky|衝上雲霄	NN|IN|DT|NNS|VBP	O|O|O|O|O	||||				Triumph in the Skies|衝上雲霄
+4	2	fb:cell.charlene	Charlene	charlene	Charlene	NNP	PERSON					Charlene
+4	3	fb:cell.tvb	TVB	tvb	TVB	NNP	O					
+4	4	fb:cell.cameo	Cameo	cameo	cameo	NN	O					
+5	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+5	1	fb:cell.all_about_boy_z	All About Boy'z\n一起喝采	all|about|boy|'|z|一起喝采	all|about|boy|'|z|一起喝采	DT|IN|NN|''|NN|NN	O|O|O|O|O|O	|||||				All About Boy'z|一起喝采
+5	2	fb:cell.langlang_princess	Langlang Princess	langlang|princess	Langlang|Princess	NNP|NNP	O|O	|				Langlang Princess
+5	3	fb:cell.now_com_hk	now.com.hk	now.com.hk	now.com.hk	NNP	O					
+5	4	fb:cell.appearance_in_episode_2	Appearance in episode 2	appearance|in|episode|2	appearance|in|episode|2	NN|IN|NN|CD	O|O|O|NUMBER	|||2.0	2.0			
+6	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+6	1	fb:cell.23	2半3更之困車立	2半3更之困車立	2半3更之困車立	CD	NUMBER		2.0		3.0	2半3更之困車立
+6	2	fb:cell.ah_sa	Ah Sa	ah|sa	ah|Sa	NN|NNP	PERSON|PERSON	|				Ah Sa
+6	3	fb:cell.now_com_hk	now.com.hk	now.com.hk	now.com.hk	NNP	O					
+6	4	fb:cell.null										
+7	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+7	1	fb:cell.null										
+7	2	fb:cell.aids_patient	AIDS patient	aids|patient	AIDS|patient	NNP|NN	MISC|O	|				AIDS patient
+7	3	fb:cell.null										
+7	4	fb:cell.music_video_produced_to_support_the_global_anti_aids_campaign	Music video produced to support the global anti-AIDS campaign	music|video|produced|to|support|the|global|anti|aids|campaign	music|video|produce|to|support|the|global|anti|aid|campaign	NN|NN|VBD|TO|VB|DT|JJ|JJ|NN|NN	O|O|O|O|O|O|O|MISC|MISC|O	|||||||||				
+8	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+8	1	fb:cell.kung_fu_soccer	Kung Fu Soccer\n功夫足球	kung|fu|soccer|功夫足球	Kung|Fu|soccer|功夫足球	NNP|NNP|NN|NN	LOCATION|LOCATION|O|O	|||				Kung Fu Soccer|功夫足球
+8	2	fb:cell.null										
+8	3	fb:cell.tvb	TVB	tvb	TVB	NNP	O					
+8	4	fb:cell.guest_star	Guest star	guest|star	guest|star	NN|NN	O|O	|				
+9	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+9	1	fb:cell.sunshine_heartbeat_2	Sunshine Heartbeat\n赤沙印記@四葉草.2	sunshine|heartbeat|赤沙印記|@|四葉草|.2	Sunshine|heartbeat|赤沙印記|@|四葉草|.2	NNP|NN|NN|IN|NNP|NN	O|O|O|O|O|NUMBER	|||||0.2	0.2			Sunshine Heartbeat|赤沙印記@四葉草.2
+9	2	fb:cell.ah_sa	Ah Sa	ah|sa	ah|Sa	NN|NNP	PERSON|PERSON	|				Ah Sa
+9	3	fb:cell.tvb	TVB	tvb	TVB	NNP	O					
+9	4	fb:cell.guest_star	Guest star	guest|star	guest|star	NN|NN	O|O	|				
+10	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+10	1	fb:cell.null										
+10	2	fb:cell.ah_sa	Ah Sa	ah|sa	ah|Sa	NN|NNP	PERSON|PERSON	|				Ah Sa
+10	3	fb:cell.null										
+10	4	fb:cell.guest_star	Guest star	guest|star	guest|star	NN|NN	O|O	|				
+11	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+11	1	fb:cell.colours_of_love	Colours of Love\n森之愛情	colours|of|love|森之愛情	colour|of|love|森之愛情	NNS|IN|NN|NN	O|O|O|O	|||				Colours of Love|森之愛情
+11	2	fb:cell.wai_fong_ching_lan	Wai-fong / Ching-lan	wai|fong|/|ching|lan	Wai|fong|/|Ching|lan	NNP|NNP|:|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Wai-fong|Ching-lan
+11	3	fb:cell.tvb	TVB	tvb	TVB	NNP	O					
+11	4	fb:cell.null										
+12	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+12	1	fb:cell.life_off_stage	Life Off Stage	life|off|stage	life|off|stage	NN|IN|NN	O|O|O	||				Life Off Stage
+12	2	fb:cell.null										
+12	3	fb:cell.null										
+12	4	fb:cell.null										
+13	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+13	1	fb:cell.calling_for_love	Calling for Love!\n呼叫大明星	calling|for|love|!|呼叫大明星	call|for|love|!|呼叫大明星	VBG|IN|NN|.|NN	O|O|O|O|O	||||				Calling for Love!|呼叫大明星
+13	2	fb:cell.chen_dexin	Chen Dexin	chen|dexin	Chen|Dexin	NNP|NNP	PERSON|PERSON	|				Chen Dexin
+13	3	fb:cell.cts	CTS	cts	CTS	NNP	O					
+13	4	fb:cell.null										
+14	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+14	1	fb:cell.the_legend_of_swordman	The Legend of Swordman\n劍俠情緣	the|legend|of|swordman|劍俠情緣	the|legend|of|swordman|劍俠情緣	DT|NN|IN|NN|NN	O|O|O|O|O	||||				The Legend of Swordman|劍俠情緣
+14	2	fb:cell.tang_xiaowan_ning_xin	Tang Xiaowan / Ning Xin	tang|xiaowan|/|ning|xin	Tang|Xiaowan|/|Ning|Xin	NNP|NNP|:|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Tang Xiaowan|Ning Xin
+14	3	fb:cell.null										
+14	4	fb:cell.null										
+15	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+15	1	fb:cell.happy_marshal	Happy Marshal\n歡樂元帥	happy|marshal|歡樂元帥	happy|marshal|歡樂元帥	JJ|NN|NN	O|O|O	||				Happy Marshal|歡樂元帥
+15	2	fb:cell.little_dragon_girl_xiao_long_nu	Little Dragon Girl (Xiao Long Nu)	little|dragon|girl|-lrb-|xiao|long|nu|-rrb-	little|Dragon|Girl|-lrb-|Xiao|Long|Nu|-rrb-	JJ|NNP|NNP|-LRB-|NNP|NNP|NNP|-RRB-	O|O|O|O|PERSON|PERSON|PERSON|O	|||||||				Little Dragon Girl (Xiao Long Nu)
+15	3	fb:cell.null										
+15	4	fb:cell.null										

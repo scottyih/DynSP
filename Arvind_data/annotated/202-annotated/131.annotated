@@ -1,0 +1,344 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.team	Team	team	team	NN	O					
+-1	1	fb:row.row.car_s	Car(s)	car|-lrb-|s|-rrb-	car|-lrb-|s|-rrb-	NN|-LRB-|NNS|-RRB-	O|O|O|O	|||				
+-1	2	fb:row.row.null	#	#	#	#	O					
+-1	3	fb:row.row.driver_s	Driver(s)	driver|-lrb-|s|-rrb-	driver|-lrb-|s|-rrb-	NN|-LRB-|NNS|-RRB-	O|O|O|O	|||				
+-1	4	fb:row.row.primary_sponsor_s	Primary Sponsor(s)	primary|sponsor|-lrb-|s|-rrb-	primary|sponsor|-lrb-|s|-rrb-	JJ|NN|-LRB-|NNS|-RRB-	O|O|O|O|O	||||				
+-1	5	fb:row.row.listed_owner_s	Listed Owner(s)	listed|owner|-lrb-|s|-rrb-	list|owner|-lrb-|s|-rrb-	VBN|NN|-LRB-|NNS|-RRB-	O|O|O|O|O	||||				
+-1	6	fb:row.row.crew_chief	Crew Chief	crew|chief	crew|chief	NN|NN	O|O	|				
+0	0	fb:cell.akins_sutton_motorsports	Akins-Sutton Motorsports	akins|sutton|motorsports	Akins|Sutton|Motorsports	NNP|NNP|NNPS	PERSON|PERSON|O	||				Akins-Sutton Motorsports
+0	1	fb:cell.ford_taurus	Ford Taurus	ford|taurus	Ford|Taurus	NNP|NNP	ORGANIZATION|O	|				
+0	2	fb:cell.38	38	38	38	CD	NUMBER	38.0	38.0			
+0	3	fb:cell.glenn_allen_jr	Glenn Allen, Jr.	glenn|allen|,|jr.|.	Glenn|Allen|,|Jr.|.	NNP|NNP|,|NNP|.	PERSON|PERSON|O|O|O	||||				Glenn Allen|Jr.
+0	4	fb:cell.barbasol	Barbasol	barbasol	Barbasol	NNP	PERSON					Barbasol
+0	5	fb:cell.brad_akins	Brad Akins	brad|akins	Brad|Akins	NNP|NNP	PERSON|PERSON	|				
+0	6	fb:cell.dean_johnson	Dean Johnson	dean|johnson	Dean|Johnson	NNP|NNP	PERSON|PERSON	|				Dean Johnson
+1	0	fb:cell.akins_sutton_motorsports	Akins-Sutton Motorsports	akins|sutton|motorsports	Akins|Sutton|Motorsports	NNP|NNP|NNPS	PERSON|PERSON|O	||				Akins-Sutton Motorsports
+1	1	fb:cell.ford_taurus	Ford Taurus	ford|taurus	Ford|Taurus	NNP|NNP	ORGANIZATION|O	|				
+1	2	fb:cell.98	98	98	98	CD	NUMBER	98.0	98.0			
+1	3	fb:cell.elton_sawyer	Elton Sawyer	elton|sawyer	Elton|Sawyer	NNP|NNP	PERSON|PERSON	|				Elton Sawyer
+1	4	fb:cell.lysol	Lysol	lysol	lysol	NN	O					Lysol
+1	5	fb:cell.brad_akins	Brad Akins	brad|akins	Brad|Akins	NNP|NNP	PERSON|PERSON	|				
+1	6	fb:cell.ricky_viers	Ricky Viers	ricky|viers	Ricky|Viers	NNP|NNP	PERSON|PERSON	|				Ricky Viers
+2	0	fb:cell.allcar_racing	AllCar Racing	allcar|racing	AllCar|race	NNP|VBG	O|O	|				AllCar Racing
+2	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+2	2	fb:cell.22	22	22	22	CD	NUMBER	22.0	22.0			
+2	3	fb:cell.jimmy_kitchens	Jimmy Kitchens	jimmy|kitchens	Jimmy|Kitchens	NNP|NNP	PERSON|PERSON	|				Jimmy Kitchens
+2	4	fb:cell.air_jamaica_vacations	Air Jamaica Vacations	air|jamaica|vacations	Air|Jamaica|Vacations	NNP|NNP|NNPS	O|LOCATION|O	||				Air Jamaica Vacations
+2	5	fb:cell.dave_carroll	Dave Carroll	dave|carroll	Dave|Carroll	NNP|NNP	PERSON|PERSON	|				
+2	6	fb:cell.todd_lohse	Todd Lohse	todd|lohse	Todd|Lohse	NNP|NNP	PERSON|PERSON	|				Todd Lohse
+3	0	fb:cell.andy_petree_racing	Andy Petree Racing	andy|petree|racing	Andy|Petree|race	NNP|NNP|VBG	PERSON|PERSON|O	||				Andy Petree Racing
+3	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+3	2	fb:cell.15	15	15	15	CD	NUMBER	15.0	15.0			
+3	3	fb:cell.ken_schrader	Ken Schrader	ken|schrader	Ken|Schrader	NNP|NNP	PERSON|PERSON	|				Ken Schrader
+3	4	fb:cell.oakwood_homes	Oakwood Homes	oakwood|homes	Oakwood|Homes	NNP|NNPS	LOCATION|O	|				Oakwood Homes
+3	5	fb:cell.andy_petree	Andy Petree	andy|petree	Andy|Petree	NNP|NNP	PERSON|PERSON	|				
+3	6	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+4	0	fb:cell.bace_motorsports	BACE Motorsports	bace|motorsports	BACE|Motorsports	NNP|NNPS	PERSON|PERSON	|				BACE Motorsports
+4	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+4	2	fb:cell.33	33	33	33	CD	NUMBER	33.0	33.0			
+4	3	fb:cell.jason_jarrett	Jason Jarrett	jason|jarrett	Jason|Jarrett	NNP|NNP	PERSON|PERSON	|				Jason Jarrett
+4	4	fb:cell.bayer_alka_seltzer	Bayer/Alka-Seltzer	bayer/alka|seltzer	Bayer/Alka|Seltzer	NNP|NNP	PERSON|PERSON	|				Bayer|Alka-Seltzer
+4	5	fb:cell.barbara_baumgardner	Barbara Baumgardner	barbara|baumgardner	Barbara|Baumgardner	NNP|NNP	PERSON|PERSON	|				
+4	6	fb:cell.gary_cogswell	Gary Cogswell	gary|cogswell	Gary|Cogswell	NNP|NNP	PERSON|PERSON	|				Gary Cogswell
+5	0	fb:cell.bace_motorsports	BACE Motorsports	bace|motorsports	BACE|Motorsports	NNP|NNPS	PERSON|PERSON	|				BACE Motorsports
+5	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+5	2	fb:cell.74	74	74	74	CD	NUMBER	74.0	74.0			
+5	3	fb:cell.tony_raines_r	Tony Raines (R)	tony|raines|-lrb-|r|-rrb-	Tony|Raines|-lrb-|r|-rrb-	NNP|NNP|-LRB-|NN|-RRB-	PERSON|PERSON|O|O|O	||||				Tony Raines (R)
+5	4	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+5	5	fb:cell.bill_baumgardner	Bill Baumgardner	bill|baumgardner	Bill|Baumgardner	NNP|NNP	PERSON|PERSON	|				
+5	6	fb:cell.steve_bird	Steve Bird	steve|bird	Steve|bird	NNP|NN	PERSON|PERSON	|				Steve Bird
+6	0	fb:cell.bill_davis_racing	Bill Davis Racing	bill|davis|racing	Bill|Davis|race	NNP|NNP|VBG	PERSON|PERSON|PERSON	||				Bill Davis Racing
+6	1	fb:cell.pontiac_grand_prix	Pontiac Grand Prix	pontiac|grand|prix	Pontiac|Grand|Prix	NNP|NNP|NNP	LOCATION|O|O	||				
+6	2	fb:cell.93	93	93	93	CD	NUMBER	93.0	93.0			
+6	3	fb:cell.dave_blaney	Dave Blaney	dave|blaney	Dave|Blaney	NNP|NNP	PERSON|PERSON	|				Dave Blaney
+6	4	fb:cell.amoco	Amoco	amoco	Amoco	NNP	ORGANIZATION					Amoco
+6	5	fb:cell.gail_davis	Gail Davis	gail|davis	gail|Davis	NN|NNP	PERSON|PERSON	|				
+6	6	fb:cell.gil_martin	Gil Martin	gil|martin	Gil|Martin	NNP|NNP	PERSON|PERSON	|				Gil Martin
+7	0	fb:cell.brewco_motorsports_j_j_racing	Brewco Motorsports\nJ&J Racing	brewco|motorsports|j&j|racing	Brewco|Motorsports|J&J|race	NNP|NNP|NNP|VBG	O|O|ORGANIZATION|O	|||				Brewco Motorsports|J&J Racing
+7	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+7	2	fb:cell.27	27	27	27	CD	NUMBER	27.0	27.0			
+7	3	fb:cell.casey_atwood	Casey Atwood	casey|atwood	Casey|Atwood	NNP|NNP	PERSON|PERSON	|				Casey Atwood
+7	4	fb:cell.castrol	Castrol	castrol	Castrol	NNP	ORGANIZATION					Castrol
+7	5	fb:cell.tammy_brewer	Tammy Brewer	tammy|brewer	Tammy|brewer	NNP|NN	PERSON|PERSON	|				
+7	6	fb:cell.kip_mccord	Kip McCord	kip|mccord	Kip|McCord	NNP|NNP	PERSON|PERSON	|				Kip McCord
+8	0	fb:cell.brewco_motorsports_j_j_racing	Brewco Motorsports\nJ&J Racing	brewco|motorsports|j&j|racing	Brewco|Motorsports|J&J|race	NNP|NNP|NNP|VBG	O|O|ORGANIZATION|O	|||				Brewco Motorsports|J&J Racing
+8	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+8	2	fb:cell.37	37	37	37	CD	NUMBER	37.0	37.0			
+8	3	fb:cell.kevin_grubb	Kevin Grubb	kevin|grubb	Kevin|Grubb	NNP|NNP	PERSON|PERSON	|				Kevin Grubb
+8	4	fb:cell.timber_wolf	Timber Wolf	timber|wolf	timber|Wolf	NN|NNP	O|O	|				Timber Wolf
+8	5	fb:cell.clarence_brewer	Clarence Brewer	clarence|brewer	Clarence|brewer	NNP|NN	PERSON|PERSON	|				
+8	6	fb:cell.terry_shirley	Terry Shirley	terry|shirley	Terry|Shirley	NNP|NNP	PERSON|PERSON	|				Terry Shirley
+9	0	fb:cell.brewco_motorsports_j_j_racing	Brewco Motorsports\nJ&J Racing	brewco|motorsports|j&j|racing	Brewco|Motorsports|J&J|race	NNP|NNP|NNP|VBG	O|O|ORGANIZATION|O	|||				Brewco Motorsports|J&J Racing
+9	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+9	2	fb:cell.99	99	99	99	CD	NUMBER	99.0	99.0			
+9	3	fb:cell.kevin_lepage	Kevin Lepage	kevin|lepage	Kevin|Lepage	NNP|NNP	PERSON|PERSON	|				Kevin Lepage
+9	4	fb:cell.red_man	Red Man	red|man	red|man	JJ|NN	O|O	|				Red Man
+9	5	fb:cell.bill_papke	Bill Papke	bill|papke	Bill|Papke	NNP|NNP	PERSON|PERSON	|				
+9	6	fb:cell.dan_gibbs	Dan Gibbs	dan|gibbs	Dan|Gibbs	NNP|NNP	PERSON|PERSON	|				Dan Gibbs
+10	0	fb:cell.buckshot_racing	Buckshot Racing	buckshot|racing	buckshot|racing	NN|NN	PERSON|PERSON	|				Buckshot Racing
+10	1	fb:cell.pontiac_grand_prix	Pontiac Grand Prix	pontiac|grand|prix	Pontiac|Grand|Prix	NNP|NNP|NNP	LOCATION|O|O	||				
+10	2	fb:cell.00	00	00	00	CD	NUMBER	0.0	0.0			
+10	3	fb:cell.larry_pearson	Larry Pearson	larry|pearson	Larry|Pearson	NNP|NNP	PERSON|PERSON	|				Larry Pearson
+10	4	fb:cell.cheez_it	Cheez-It	cheez|it	Cheez|it	NNP|PRP	O|O	|				Cheez-It
+10	5	fb:cell.billy_jones	Billy Jones	billy|jones	Billy|Jones	NNP|NNP	PERSON|PERSON	|				
+10	6	fb:cell.kenneth_campbell	Kenneth Campbell	kenneth|campbell	Kenneth|Campbell	NNP|NNP	PERSON|PERSON	|				Kenneth Campbell
+11	0	fb:cell.cicci_welliver_racing	Cicci-Welliver Racing	cicci|welliver|racing	Cicci|Welliver|race	NNP|NNP|VBG	PERSON|O|O	||				Cicci-Welliver Racing
+11	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+11	2	fb:cell.34	34	34	34	CD	NUMBER	34.0	34.0			
+11	3	fb:cell.mike_mclaughlin	Mike McLaughlin	mike|mclaughlin	Mike|McLaughlin	NNP|NNP	PERSON|PERSON	|				Mike McLaughlin
+11	4	fb:cell.goulds_pumps	Goulds Pumps	goulds|pumps	Goulds|pump	NNP|NNS	O|O	|				Goulds Pumps
+11	5	fb:cell.frank_cicci	Frank Cicci	frank|cicci	Frank|Cicci	NNP|NNP	PERSON|PERSON	|				
+11	6	fb:cell.jay_smith	Jay Smith	jay|smith	Jay|Smith	NNP|NNP	PERSON|PERSON	|				Jay Smith
+12	0	fb:cell.cicci_welliver_racing	Cicci-Welliver Racing	cicci|welliver|racing	Cicci|Welliver|race	NNP|NNP|VBG	PERSON|O|O	||				Cicci-Welliver Racing
+12	1	fb:cell.pontiac_grand_prix	Pontiac Grand Prix	pontiac|grand|prix	Pontiac|Grand|Prix	NNP|NNP|NNP	LOCATION|O|O	||				
+12	2	fb:cell.36	36	36	36	CD	NUMBER	36.0	36.0			
+12	3	fb:cell.tim_fedewa	Tim Fedewa	tim|fedewa	Tim|Fedewa	NNP|NNP	PERSON|PERSON	|				Tim Fedewa
+12	4	fb:cell.stanley_tools	Stanley Tools	stanley|tools	Stanley|tool	NNP|NNS	O|O	|				Stanley Tools
+12	5	fb:cell.scott_welliver	Scott Welliver	scott|welliver	Scott|Welliver	NNP|NNP	PERSON|PERSON	|				
+12	6	fb:cell.vic_kangas	Vic Kangas	vic|kangas	Vic|Kangas	NNP|NNP	PERSON|PERSON	|				Vic Kangas
+13	0	fb:cell.cicci_welliver_racing	Cicci-Welliver Racing	cicci|welliver|racing	Cicci|Welliver|race	NNP|NNP|VBG	PERSON|O|O	||				Cicci-Welliver Racing
+13	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+13	2	fb:cell.66	66	66	66	CD	NUMBER	66.0	66.0			
+13	3	fb:cell.todd_bodine	Todd Bodine	todd|bodine	Todd|Bodine	NNP|NNP	PERSON|PERSON	|				Todd Bodine
+13	4	fb:cell.phillips_66	Phillips 66	phillips|66	Phillips|66	NNP|CD	ORGANIZATION|NUMBER	|66.0	66.0			Phillips 66
+13	5	fb:cell.jeffrey_welliver	Jeffrey Welliver	jeffrey|welliver	Jeffrey|Welliver	NNP|NNP	PERSON|PERSON	|				
+13	6	fb:cell.donnie_richeson	Donnie Richeson	donnie|richeson	Donnie|Richeson	NNP|NNP	PERSON|PERSON	|				Donnie Richeson
+14	0	fb:cell.curb_agajanian_motorsports	Curb/Agajanian Motorsports	curb/agajanian|motorsports	Curb/Agajanian|Motorsports	NNP|NNPS	MISC|O	|				Curb|Agajanian Motorsports
+14	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+14	2	fb:cell.43	43	43	43	CD	NUMBER	43.0	43.0			
+14	3	fb:cell.shane_hall	Shane Hall	shane|hall	Shane|Hall	NNP|NNP	PERSON|PERSON	|				Shane Hall
+14	4	fb:cell.central_tractor	Central Tractor	central|tractor	central|tractor	JJ|NN	O|O	|				Central Tractor
+14	5	fb:cell.don_stegall	Don Stegall	don|stegall	Don|Stegall	NNP|NNP	PERSON|PERSON	|				
+14	6	fb:cell.gene_nead	Gene Nead	gene|nead	gene|nead	NN|NN	PERSON|PERSON	|				Gene Nead
+15	0	fb:cell.dale_earnhardt_inc	Dale Earnhardt, Inc.	dale|earnhardt|,|inc.|.	Dale|Earnhardt|,|Inc.|.	NNP|NNP|,|NNP|.	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O	||||				Dale Earnhardt|Inc.
+15	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+15	2	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+15	3	fb:cell.dale_earnhardt_jr	Dale Earnhardt, Jr.	dale|earnhardt|,|jr.|.	Dale|Earnhardt|,|Jr.|.	NNP|NNP|,|NNP|.	PERSON|PERSON|O|O|O	||||				Dale Earnhardt|Jr.
+15	4	fb:cell.ac_delco	AC Delco	ac|delco	ac|Delco	NN|NNP	ORGANIZATION|ORGANIZATION	|				AC Delco
+15	5	fb:cell.dale_earnhardt	Dale Earnhardt	dale|earnhardt	Dale|Earnhardt	NNP|NNP	PERSON|PERSON	|				
+15	6	fb:cell.tony_eury_sr	Tony Eury, Sr.	tony|eury|,|sr.|.	Tony|Eury|,|Sr.|.	NNP|NNP|,|NNP|.	PERSON|PERSON|O|O|O	||||				Tony Eury|Sr.
+16	0	fb:cell.diamond_ridge_motorsports	Diamond Ridge Motorsports	diamond|ridge|motorsports	Diamond|Ridge|Motorsports	NNP|NNP|NNP	O|O|O	||				Diamond Ridge Motorsports
+16	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+16	2	fb:cell.4	4	4	4	CD	NUMBER	4.0	4.0			
+16	3	fb:cell.jeff_purvis	Jeff Purvis	jeff|purvis	Jeff|Purvis	NNP|NNP	PERSON|PERSON	|				Jeff Purvis
+16	4	fb:cell.lance_snacks	Lance Snacks	lance|snacks	Lance|Snacks	NNP|NNP	O|O	|				Lance Snacks
+16	5	fb:cell.gary_bechtel	Gary Bechtel	gary|bechtel	Gary|Bechtel	NNP|NNP	PERSON|PERSON	|				
+16	6	fb:cell.johnny_allen	Johnny Allen	johnny|allen	Johnny|Allen	NNP|NNP	PERSON|PERSON	|				Johnny Allen
+17	0	fb:cell.excel_motorsports	Excel Motorsports	excel|motorsports	Excel|Motorsports	NNP|NNP	O|O	|				Excel Motorsports
+17	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+17	2	fb:cell.56	56	56	56	CD	NUMBER	56.0	56.0			
+17	3	fb:cell.jeff_krogh	Jeff Krogh	jeff|krogh	Jeff|Krogh	NNP|NNP	PERSON|PERSON	|				Jeff Krogh
+17	4	fb:cell.clearwater_forest_industries	Clearwater Forest Industries	clearwater|forest|industries	Clearwater|Forest|Industries	NNP|NNP|NNPS	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Clearwater Forest Industries
+17	5	fb:cell.molly_krogh	Molly Krogh	molly|krogh	Molly|Krogh	NNP|NNP	PERSON|PERSON	|				
+17	6	fb:cell.sammy_speaks	Sammy Speaks	sammy|speaks	Sammy|speak	NNP|VBZ	PERSON|O	|				Sammy Speaks
+18	0	fb:cell.excel_motorsports	Excel Motorsports	excel|motorsports	Excel|Motorsports	NNP|NNP	O|O	|				Excel Motorsports
+18	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+18	2	fb:cell.80	80	80	80	CD	NUMBER	80.0	80.0			
+18	3	fb:cell.mark_krogh	Mark Krogh	mark|krogh	Mark|Krogh	NNP|NNP	PERSON|PERSON	|				Mark Krogh
+18	4	fb:cell.clearwater_forest_industries	Clearwater Forest Industries	clearwater|forest|industries	Clearwater|Forest|Industries	NNP|NNP|NNPS	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Clearwater Forest Industries
+18	5	fb:cell.robert_krogh	Robert Krogh	robert|krogh	Robert|Krogh	NNP|NNP	PERSON|PERSON	|				
+18	6	fb:cell.doug_george	Doug George	doug|george	Doug|George	NNP|NNP	PERSON|PERSON	|				Doug George
+19	0	fb:cell.grubb_motorsports	Grubb Motorsports	grubb|motorsports	Grubb|Motorsports	NNP|NNP	PERSON|PERSON	|				Grubb Motorsports
+19	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+19	2	fb:cell.83	83	83	83	CD	NUMBER	83.0	83.0			
+19	3	fb:cell.wayne_grubb	Wayne Grubb	wayne|grubb	Wayne|Grubb	NNP|NNP	PERSON|PERSON	|				Wayne Grubb
+19	4	fb:cell.link_belt	Link-Belt	link|belt	link|belt	NN|NN	O|O	|				Link-Belt
+19	5	fb:cell.william_grubb	William Grubb	william|grubb	William|Grubb	NNP|NNP	PERSON|PERSON	|				
+19	6	fb:cell.bobby_king	Bobby King	bobby|king	Bobby|King	NNP|NNP	PERSON|PERSON	|				Bobby King
+20	0	fb:cell.gts_motorsports	GTS Motorsports	gts|motorsports	GTS|Motorsports	NNP|NNPS	O|O	|				GTS Motorsports
+20	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+20	2	fb:cell.90	90	90	90	CD	NUMBER	90.0	90.0			
+20	3	fb:cell.brad_loney	Brad Loney	brad|loney	Brad|Loney	NNP|NNP	PERSON|PERSON	|				Brad Loney
+20	4	fb:cell.coyne_textile_services	Coyne Textile Services	coyne|textile|services	Coyne|Textile|Services	NNP|NNP|NNPS	PERSON|O|O	||				Coyne Textile Services
+20	5	fb:cell.frederick_maggio	Frederick Maggio	frederick|maggio	Frederick|Maggio	NNP|NNP	PERSON|PERSON	|				
+20	6	fb:cell.bob_johnson	Bob Johnson	bob|johnson	Bob|Johnson	NNP|NNP	PERSON|PERSON	|				Bob Johnson
+21	0	fb:cell.hank_parker_racing	Hank Parker Racing	hank|parker|racing	hank|Parker|race	NN|NNP|VBG	PERSON|PERSON|PERSON	||				Hank Parker Racing
+21	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+21	2	fb:cell.53	53	53	53	CD	NUMBER	53.0	53.0			
+21	3	fb:cell.hank_parker_jr_r	Hank Parker Jr. (R)	hank|parker|jr.|-lrb-|r|-rrb-	hank|Parker|Jr.|-lrb-|r|-rrb-	NN|NNP|NNP|-LRB-|NN|-RRB-	PERSON|PERSON|PERSON|O|O|O	|||||				Hank Parker Jr. (R)
+21	4	fb:cell.b_a_s_s	B.A.S.S.	b.a.s.s.	B.A.S.S.	NNP	O					B.A.S.S.
+21	5	fb:cell.hank_parker	Hank Parker	hank|parker	hank|Parker	NN|NNP	PERSON|PERSON	|				
+21	6	fb:cell.dave_mccarty	Dave McCarty	dave|mccarty	Dave|McCarty	NNP|NNP	PERSON|PERSON	|				Dave McCarty
+22	0	fb:cell.henderson_brothers_racing	Henderson Brothers Racing	henderson|brothers|racing	Henderson|Brothers|race	NNP|NNPS|VBG	PERSON|O|O	||				Henderson Brothers Racing
+22	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+22	2	fb:cell.75	75	75	75	CD	NUMBER	75.0	75.0			
+22	3	fb:cell.kelly_denton_r	Kelly Denton (R)	kelly|denton|-lrb-|r|-rrb-	Kelly|Denton|-lrb-|r|-rrb-	NNP|NNP|-LRB-|NN|-RRB-	PERSON|PERSON|O|O|O	||||				Kelly Denton (R)
+22	4	fb:cell.big_daddy_s_bbq_sauce	Big Daddy's BBQ Sauce	big|daddy|'s|bbq|sauce	big|Daddy|'s|bbq|sauce	JJ|NNP|POS|NN|NN	O|O|O|O|O	||||				Big Daddy's BBQ Sauce
+22	5	fb:cell.charlie_henderson	Charlie Henderson	charlie|henderson	Charlie|Henderson	NNP|NNP	PERSON|PERSON	|				
+22	6	fb:cell.ron_denton	Ron Denton	ron|denton	Ron|Denton	NNP|NNP	PERSON|PERSON	|				Ron Denton
+23	0	fb:cell.hillin_racing	Hillin Racing	hillin|racing	Hillin|race	NNP|VBG	PERSON|O	|				Hillin Racing
+23	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+23	2	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+23	3	fb:cell.bobby_hillin	Bobby Hillin	bobby|hillin	Bobby|Hillin	NNP|NNP	PERSON|PERSON	|				Bobby Hillin
+23	4	fb:cell.clean_shower	Clean Shower	clean|shower	clean|shower	JJ|NN	O|O	|				Clean Shower
+23	5	fb:cell.robert_hayes	Robert Hayes	robert|hayes	Robert|Hayes	NNP|NNP	PERSON|PERSON	|				
+23	6	fb:cell.steve_hibbard	Steve Hibbard	steve|hibbard	Steve|Hibbard	NNP|NNP	PERSON|PERSON	|				Steve Hibbard
+24	0	fb:cell.hvp_motorsports	HVP Motorsports	hvp|motorsports	HVP|Motorsports	NNP|NNPS	PERSON|PERSON	|				HVP Motorsports
+24	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+24	2	fb:cell.63	63	63	63	CD	NUMBER	63.0	63.0			
+24	3	fb:cell.chuck_bown	Chuck Bown	chuck|bown	Chuck|Bown	NNP|NNP	PERSON|PERSON	|				Chuck Bown
+24	4	fb:cell.exxon_superflo	Exxon Superflo	exxon|superflo	Exxon|Superflo	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Exxon Superflo
+24	5	fb:cell.hubert_hensley	Hubert Hensley	hubert|hensley	Hubert|Hensley	NNP|NNP	PERSON|PERSON	|				
+24	6	fb:cell.jeff_hensley	Jeff Hensley	jeff|hensley	Jeff|Hensley	NNP|NNP	PERSON|PERSON	|				Jeff Hensley
+25	0	fb:cell.innovative_motorsports	Innovative Motorsports	innovative|motorsports	innovative|motorsport	JJ|NNS	O|O	|				Innovative Motorsports
+25	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+25	2	fb:cell.47	47	47	47	CD	NUMBER	47.0	47.0			
+25	3	fb:cell.andy_santerre	Andy Santerre	andy|santerre	Andy|Santerre	NNP|NNP	PERSON|PERSON	|				Andy Santerre
+25	4	fb:cell.monro_muffler_brake	Monro Muffler Brake	monro|muffler|brake	Monro|muffler|Brake	NNP|NN|NNP	PERSON|PERSON|PERSON	||				Monro Muffler Brake
+25	5	fb:cell.george_debidart	George DeBidart	george|debidart	George|DeBidart	NNP|NNP	PERSON|PERSON	|				
+25	6	fb:cell.kevin_caldwell	Kevin Caldwell	kevin|caldwell	Kevin|Caldwell	NNP|NNP	PERSON|PERSON	|				Kevin Caldwell
+26	0	fb:cell.joe_gibbs_racing	Joe Gibbs Racing	joe|gibbs|racing	Joe|Gibbs|race	NNP|NNP|VBG	PERSON|PERSON|O	||				Joe Gibbs Racing
+26	1	fb:cell.pontiac_grand_prix	Pontiac Grand Prix	pontiac|grand|prix	Pontiac|Grand|Prix	NNP|NNP|NNP	LOCATION|O|O	||				
+26	2	fb:cell.18	18	18	18	CD	NUMBER	18.0	18.0			
+26	3	fb:cell.bobby_labonte	Bobby Labonte	bobby|labonte	Bobby|Labonte	NNP|NNP	PERSON|PERSON	|				Bobby Labonte
+26	4	fb:cell.mbna	MBNA	mbna	MBNA	NNP	ORGANIZATION					MBNA
+26	5	fb:cell.joe_gibbs	Joe Gibbs	joe|gibbs	Joe|Gibbs	NNP|NNP	PERSON|PERSON	|				
+26	6	fb:cell.bryant_frazier	Bryant Frazier	bryant|frazier	Bryant|Frazier	NNP|NNP	PERSON|PERSON	|				Bryant Frazier
+27	0	fb:cell.labonte_motorsports	Labonte Motorsports	labonte|motorsports	Labonte|Motorsports	NNP|NNPS	PERSON|O	|				Labonte Motorsports
+27	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+27	2	fb:cell.44	44	44	44	CD	NUMBER	44.0	44.0			
+27	3	fb:cell.terry_labonte	Terry Labonte	terry|labonte	Terry|Labonte	NNP|NNP	PERSON|PERSON	|				Terry Labonte
+27	4	fb:cell.slim_jim	Slim Jim	slim|jim	slim|Jim	JJ|NNP	PERSON|PERSON	|				Slim Jim
+27	5	fb:cell.kimberly_labonte	Kimberly Labonte	kimberly|labonte	Kimberly|Labonte	NNP|NNP	PERSON|PERSON	|				
+27	6	fb:cell.eddie_lowery	Eddie Lowery	eddie|lowery	Eddie|Lowery	NNP|NNP	PERSON|PERSON	|				Eddie Lowery
+28	0	fb:cell.northstar_motorsports	NorthStar Motorsports	northstar|motorsports	NorthStar|Motorsports	NNP|NNP	ORGANIZATION|ORGANIZATION	|				NorthStar Motorsports
+28	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+28	2	fb:cell.89	89	89	89	CD	NUMBER	89.0	89.0			
+28	3	fb:cell.jeff_fuller	Jeff Fuller	jeff|fuller	Jeff|Fuller	NNP|NNP	PERSON|PERSON	|				Jeff Fuller
+28	4	fb:cell.heritage_consumer_products	Heritage Consumer Products	heritage|consumer|products	Heritage|Consumer|Products	NNP|NNP|NNPS	O|O|O	||				Heritage Consumer Products
+28	5	fb:cell.meredith_ruark	Meredith Ruark	meredith|ruark	Meredith|Ruark	NNP|NNP	PERSON|PERSON	|				
+28	6	fb:cell.leon_fox	Leon Fox	leon|fox	Leon|Fox	NNP|NNP	PERSON|PERSON	|				Leon Fox
+29	0	fb:cell.parker_racing	Parker Racing	parker|racing	Parker|race	NNP|VBG	PERSON|PERSON	|				Parker Racing
+29	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+29	2	fb:cell.72	72	72	72	CD	NUMBER	72.0	72.0			
+29	3	fb:cell.hermie_sadler	Hermie Sadler	hermie|sadler	Hermie|Sadler	NNP|NNP	PERSON|PERSON	|				Hermie Sadler
+29	4	fb:cell.mgm_brakes	MGM Brakes	mgm|brakes	MGM|brake	NNP|NNS	ORGANIZATION|ORGANIZATION	|				MGM Brakes
+29	5	fb:cell.ron_parker	Ron Parker	ron|parker	Ron|Parker	NNP|NNP	PERSON|PERSON	|				
+29	6	fb:cell.cal_northrup	Cal Northrup	cal|northrup	Cal|Northrup	NNP|NNP	PERSON|PERSON	|				Cal Northrup
+30	0	fb:cell.pe2_motorsports	PE2 Motorsports	pe2|motorsports	pe2|motorsport	NN|NNS	O|O	|	2.0			PE2 Motorsports
+30	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+30	2	fb:cell.45	45	45	45	CD	NUMBER	45.0	45.0			
+30	3	fb:cell.adam_petty_r	Adam Petty (R)	adam|petty|-lrb-|r|-rrb-	Adam|Petty|-lrb-|r|-rrb-	NNP|NNP|-LRB-|NN|-RRB-	PERSON|PERSON|O|O|O	||||				Adam Petty (R)
+30	4	fb:cell.spree	Spree	spree	spree	NN	O					Spree
+30	5	fb:cell.kyle_petty	Kyle Petty	kyle|petty	Kyle|Petty	NNP|NNP	PERSON|PERSON	|				
+30	6	fb:cell.lance_deiters	Lance Deiters	lance|deiters	Lance|Deiters	NNP|NNP	PERSON|PERSON	|				Lance Deiters
+31	0	fb:cell.prw_racing	PRW Racing	prw|racing	prw|racing	NN|NN	O|O	|				PRW Racing
+31	1	fb:cell.ford_taurus	Ford Taurus	ford|taurus	Ford|Taurus	NNP|NNP	ORGANIZATION|O	|				
+31	2	fb:cell.77	77	77	77	CD	NUMBER	77.0	77.0			
+31	3	fb:cell.ed_berrier	Ed Berrier	ed|berrier	Ed|Berrier	NNP|NNP	PERSON|PERSON	|				Ed Berrier
+31	4	fb:cell.lear_corporation	Lear Corporation	lear|corporation	Lear|Corporation	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Lear Corporation
+31	5	fb:cell.tony_hall	Tony Hall	tony|hall	Tony|Hall	NNP|NNP	PERSON|PERSON	|				
+31	6	fb:cell.jimmy_means	Jimmy Means	jimmy|means	Jimmy|Means	NNP|NNP	PERSON|PERSON	|				Jimmy Means
+32	0	fb:cell.phil_parsons_racing	Phil Parsons Racing	phil|parsons|racing	Phil|Parsons|race	NNP|NNP|VBG	PERSON|PERSON|O	||				Phil Parsons Racing
+32	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+32	2	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			
+32	3	fb:cell.phil_parsons	Phil Parsons	phil|parsons	Phil|Parsons	NNP|NNP	PERSON|PERSON	|				Phil Parsons
+32	4	fb:cell.alltel	Alltel	alltel	Alltel	NNP	ORGANIZATION					Alltel
+32	5	fb:cell.marcia_parsons	Marcia Parsons	marcia|parsons	Marcia|Parsons	NNP|NNP	PERSON|PERSON	|				
+32	6	fb:cell.doug_taylor	Doug Taylor	doug|taylor	Doug|Taylor	NNP|NNP	PERSON|PERSON	|				Doug Taylor
+33	0	fb:cell.phoenix_racing	Phoenix Racing	phoenix|racing	Phoenix|race	NNP|VBG	O|O	|				Phoenix Racing
+33	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+33	2	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+33	3	fb:cell.randy_lajoie	Randy LaJoie	randy|lajoie	Randy|LaJoie	NNP|NNP	PERSON|PERSON	|				Randy LaJoie
+33	4	fb:cell.bob_evans_restaurants	Bob Evans Restaurants	bob|evans|restaurants	Bob|Evans|Restaurants	NNP|NNP|NNP	PERSON|PERSON|O	||				Bob Evans Restaurants
+33	5	fb:cell.james_finch	James Finch	james|finch	James|Finch	NNP|NNP	PERSON|PERSON	|				
+33	6	fb:cell.marc_reno	Marc Reno	marc|reno	Marc|Reno	NNP|NNP	PERSON|PERSON	|				Marc Reno
+34	0	fb:cell.progressive_motorsports	Progressive Motorsports	progressive|motorsports	progressive|motorsport	JJ|NNS	O|O	|				Progressive Motorsports
+34	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+34	2	fb:cell.32	32	32	32	CD	NUMBER	32.0	32.0			
+34	3	fb:cell.jeff_green	Jeff Green	jeff|green	Jeff|Green	NNP|NNP	PERSON|PERSON	|				Jeff Green
+34	4	fb:cell.kleenex	Kleenex	kleenex	Kleenex	NNP	O					Kleenex
+34	5	fb:cell.greg_pollex	Greg Pollex	greg|pollex	Greg|Pollex	NNP|NNP	PERSON|PERSON	|				
+34	6	fb:cell.harold_holly	Harold Holly	harold|holly	Harold|Holly	NNP|NNP	PERSON|PERSON	|				Harold Holly
+35	0	fb:cell.progressive_motorsports	Progressive Motorsports	progressive|motorsports	progressive|motorsport	JJ|NNS	O|O	|				Progressive Motorsports
+35	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+35	2	fb:cell.57	57	57	57	CD	NUMBER	57.0	57.0			
+35	3	fb:cell.jason_keller	Jason Keller	jason|keller	Jason|Keller	NNP|NNP	PERSON|PERSON	|				Jason Keller
+35	4	fb:cell.fleming_team_iga	Fleming Team/IGA	fleming|team/iga	Fleming|Team/IGA	NNP|NNP	PERSON|PERSON	|				Fleming Team|IGA
+35	5	fb:cell.steve_desouza	Steve DeSouza	steve|desouza	Steve|DeSouza	NNP|NNP	PERSON|PERSON	|				
+35	6	fb:cell.steve_addington	Steve Addington	steve|addington	Steve|Addington	NNP|NNP	PERSON|PERSON	|				Steve Addington
+36	0	fb:cell.reiser_enterprises	Reiser Enterprises	reiser|enterprises	Reiser|Enterprises	NNP|NNPS	PERSON|O	|				Reiser Enterprises
+36	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+36	2	fb:cell.17	17	17	17	CD	NUMBER	17.0	17.0			
+36	3	fb:cell.matt_kenseth	Matt Kenseth	matt|kenseth	Matt|Kenseth	NNP|NNP	PERSON|PERSON	|				Matt Kenseth
+36	4	fb:cell.dewalt_tools	DeWalt Tools	dewalt|tools	dewalt|tool	NN|NNS	O|O	|				DeWalt Tools
+36	5	fb:cell.robbie_reiser	Robbie Reiser	robbie|reiser	Robbie|Reiser	NNP|NNP	PERSON|PERSON	|				Robbie Reiser
+36	6	fb:cell.robbie_reiser	Robbie Reiser	robbie|reiser	Robbie|Reiser	NNP|NNP	PERSON|PERSON	|				Robbie Reiser
+37	0	fb:cell.roush_racing	Roush Racing	roush|racing	Roush|race	NNP|VBG	PERSON|PERSON	|				Roush Racing
+37	1	fb:cell.ford_taurus	Ford Taurus	ford|taurus	Ford|Taurus	NNP|NNP	ORGANIZATION|O	|				
+37	2	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+37	3	fb:cell.jeff_burton	Jeff Burton	jeff|burton	Jeff|Burton	NNP|NNP	PERSON|PERSON	|				Jeff Burton
+37	4	fb:cell.track_gear	Track Gear	track|gear	track|gear	NN|NN	O|O	|				Track Gear
+37	5	fb:cell.jack_roush	Jack Roush	jack|roush	Jack|Roush	NNP|NNP	PERSON|PERSON	|				
+37	6	fb:cell.tommy_morgan	Tommy Morgan	tommy|morgan	Tommy|Morgan	NNP|NNP	PERSON|PERSON	|				Tommy Morgan
+38	0	fb:cell.roush_racing	Roush Racing	roush|racing	Roush|race	NNP|VBG	PERSON|PERSON	|				Roush Racing
+38	1	fb:cell.ford_taurus	Ford Taurus	ford|taurus	Ford|Taurus	NNP|NNP	ORGANIZATION|O	|				
+38	2	fb:cell.60	60	60	60	CD	NUMBER	60.0	60.0			
+38	3	fb:cell.mark_martin	Mark Martin	mark|martin	Mark|Martin	NNP|NNP	PERSON|PERSON	|				Mark Martin
+38	4	fb:cell.winn_dixie	Winn-Dixie	winn|dixie	Winn|Dixie	NNP|NNP	PERSON|PERSON	|				Winn-Dixie
+38	5	fb:cell.jack_roush	Jack Roush	jack|roush	Jack|Roush	NNP|NNP	PERSON|PERSON	|				
+38	6	fb:cell.tony_lambert	Tony Lambert	tony|lambert	Tony|Lambert	NNP|NNP	PERSON|PERSON	|				Tony Lambert
+39	0	fb:cell.sadler_brothers_racing	Sadler Brothers Racing	sadler|brothers|racing	Sadler|Brothers|race	NNP|NNPS|VBG	PERSON|O|O	||				Sadler Brothers Racing
+39	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+39	2	fb:cell.95	95	95	95	CD	NUMBER	95.0	95.0			
+39	3	fb:cell.bobby_hamilton_jr_r	Bobby Hamilton, Jr. (R)	bobby|hamilton|,|jr.|-lrb-|r|-rrb-	Bobby|Hamilton|,|Jr.|-lrb-|r|-rrb-	NNP|NNP|,|NNP|-LRB-|NN|-RRB-	PERSON|PERSON|O|O|O|O|O	||||||				Bobby Hamilton|Jr. (R)
+39	4	fb:cell.shoney_s_inn	Shoney's Inn	shoney|'s|inn	Shoney|'s|Inn	NNP|POS|NNP	PERSON|O|O	||				Shoney's Inn
+39	5	fb:cell.earl_sadler	Earl Sadler	earl|sadler	Earl|Sadler	NNP|NNP	PERSON|PERSON	|				
+39	6	fb:cell.chick_sadler	Chick Sadler	chick|sadler	chick|sadler	NN|NN	PERSON|PERSON	|				Chick Sadler
+40	0	fb:cell.specialty_racing	Specialty Racing	specialty|racing	specialty|racing	NN|NN	O|O	|				Specialty Racing
+40	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+40	2	fb:cell.40	40	40	40	CD	NUMBER	40.0	40.0			
+40	3	fb:cell.kerry_earnhardt_r	Kerry Earnhardt (R)	kerry|earnhardt|-lrb-|r|-rrb-	Kerry|Earnhardt|-lrb-|r|-rrb-	NNP|NNP|-LRB-|NN|-RRB-	PERSON|PERSON|O|O|O	||||				Kerry Earnhardt (R)
+40	4	fb:cell.channellock	Channellock	channellock	channellock	NN	O					Channellock
+40	5	fb:cell.doug_taylor	Doug Taylor	doug|taylor	Doug|Taylor	NNP|NNP	PERSON|PERSON	|				Doug Taylor
+40	6	fb:cell.richard_lasater	Richard Lasater	richard|lasater	Richard|Lasater	NNP|NNP	PERSON|PERSON	|				Richard Lasater
+41	0	fb:cell.spencer_motor_ventures	Spencer Motor Ventures	spencer|motor|ventures	Spencer|Motor|Ventures	NNP|NNP|NNPS	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Spencer Motor Ventures
+41	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+41	2	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+41	3	fb:cell.dick_trickle	Dick Trickle	dick|trickle	Dick|trickle	NNP|VB	PERSON|PERSON	|				Dick Trickle
+41	4	fb:cell.schneider_national	Schneider National	schneider|national	Schneider|National	NNP|NNP	PERSON|O	|				Schneider National
+41	5	fb:cell.jimmy_spencer	Jimmy Spencer	jimmy|spencer	Jimmy|Spencer	NNP|NNP	PERSON|PERSON	|				
+41	6	fb:cell.bryan_schaffer	Bryan Schaffer	bryan|schaffer	Bryan|Schaffer	NNP|NNP	PERSON|PERSON	|				Bryan Schaffer
+42	0	fb:cell.st_motorsports	ST Motorsports	st|motorsports	st|motorsport	JJ|NNS	LOCATION|LOCATION	|				ST Motorsports
+42	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+42	2	fb:cell.59	59	59	59	CD	NUMBER	59.0	59.0			
+42	3	fb:cell.mike_dillon	Mike Dillon	mike|dillon	Mike|Dillon	NNP|NNP	PERSON|PERSON	|				Mike Dillon
+42	4	fb:cell.kingsford	Kingsford	kingsford	Kingsford	NNP	PERSON					Kingsford
+42	5	fb:cell.tad_geschickter	Tad Geschickter	tad|geschickter	Tad|Geschickter	NNP|NNP	PERSON|PERSON	|				
+42	6	fb:cell.steve_plattenberger	Steve Plattenberger	steve|plattenberger	Steve|Plattenberger	NNP|NNP	PERSON|PERSON	|				Steve Plattenberger
+43	0	fb:cell.team_amick	Team Amick	team|amick	team|amick	NN|NN	O|PERSON	|				Team Amick
+43	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+43	2	fb:cell.35	35	35	35	CD	NUMBER	35.0	35.0			
+43	3	fb:cell.lyndon_amick	Lyndon Amick	lyndon|amick	Lyndon|Amick	NNP|NNP	PERSON|PERSON	|				Lyndon Amick
+43	4	fb:cell.scana_powertel	SCANA/Powertel	scana/powertel	scana/powertel	NN	O					SCANA|Powertel
+43	5	fb:cell.bill_amick	Bill Amick	bill|amick	Bill|Amick	NNP|NNP	PERSON|PERSON	|				
+43	6	fb:cell.buddy_barnes	Buddy Barnes	buddy|barnes	Buddy|Barnes	NNP|NNP	PERSON|PERSON	|				Buddy Barnes
+44	0	fb:cell.team_rensi_motorsports	Team Rensi Motorsports	team|rensi|motorsports	team|rensus|motorsport	NN|NN|NNS	O|PERSON|PERSON	||				Team Rensi Motorsports
+44	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+44	2	fb:cell.25	25	25	25	CD	NUMBER	25.0	25.0			
+44	3	fb:cell.jeff_finley	Jeff Finley	jeff|finley	Jeff|Finley	NNP|NNP	PERSON|PERSON	|				Jeff Finley
+44	4	fb:cell.dura_lube	Dura Lube	dura|lube	Dura|Lube	NNP|NNP	PERSON|PERSON	|				Dura Lube
+44	5	fb:cell.ed_rensi	Ed Rensi	ed|rensi	Ed|Rensi	NNP|NNP	PERSON|PERSON	|				
+44	6	fb:cell.david_ifft	David Ifft	david|ifft	David|Ifft	NNP|NNP	PERSON|PERSON	|				David Ifft
+45	0	fb:cell.team_yellow_racing	Team Yellow Racing	team|yellow|racing	team|yellow|racing	NN|JJ|NN	O|O|O	||				Team Yellow Racing
+45	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+45	2	fb:cell.19	19	19	19	CD	NUMBER	19.0	19.0			
+45	3	fb:cell.mike_skinner	Mike Skinner	mike|skinner	Mike|Skinner	NNP|NNP	PERSON|PERSON	|				Mike Skinner
+45	4	fb:cell.yellow_freight	Yellow Freight	yellow|freight	yellow|freight	JJ|NN	O|O	|				Yellow Freight
+45	5	fb:cell.david_ridling	David Ridling	david|ridling	David|Ridling	NNP|NNP	PERSON|PERSON	|				
+45	6	fb:cell.c_r_miller	C. R. Miller	c.|r.|miller	C.|R.|Miller	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				C. R. Miller
+46	0	fb:cell.washington_erving_motorsports	Washington-Erving Motorsports	washington|erving|motorsports	Washington|Erving|Motorsports	NNP|NNP|NNPS	LOCATION|LOCATION|LOCATION	||				Washington-Erving Motorsports
+46	1	fb:cell.chevrolet_monte_carlo	Chevrolet Monte Carlo	chevrolet|monte|carlo	Chevrolet|Monte|Carlo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+46	2	fb:cell.50	50	50	50	CD	NUMBER	50.0	50.0			
+46	3	fb:cell.mark_green	Mark Green	mark|green	Mark|Green	NNP|NNP	PERSON|PERSON	|				Mark Green
+46	4	fb:cell.dr_pepper	Dr Pepper	dr|pepper	dr|pepper	NN|NN	PERSON|PERSON	|				Dr Pepper
+46	5	fb:cell.joe_washington	Joe Washington	joe|washington	Joe|Washington	NNP|NNP	PERSON|PERSON	|				
+46	6	fb:cell.darrell_bryant	Darrell Bryant	darrell|bryant	Darrell|Bryant	NNP|NNP	PERSON|PERSON	|				Darrell Bryant
+47	0	fb:cell.xpress_motorsports	Xpress Motorsports	xpress|motorsports	Xpress|Motorsports	NNP|NNPS	O|O	|				Xpress Motorsports
+47	1	fb:cell.pontiac_grand_prix	Pontiac Grand Prix	pontiac|grand|prix	Pontiac|Grand|Prix	NNP|NNP|NNP	LOCATION|O|O	||				
+47	2	fb:cell.61	61	61	61	CD	NUMBER	61.0	61.0			
+47	3	fb:cell.derrike_cope	Derrike Cope	derrike|cope	derrike|cope	JJ|VB	PERSON|PERSON	|				Derrike Cope
+47	4	fb:cell.iwx_motor_freight	IWX Motor Freight	iwx|motor|freight	IWX|Motor|Freight	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|O	||				IWX Motor Freight
+47	5	fb:cell.steve_coulter	Steve Coulter	steve|coulter	Steve|Coulter	NNP|NNP	PERSON|PERSON	|				
+47	6	fb:cell.dave_fuge	Dave Fuge	dave|fuge	Dave|Fuge	NNP|NNP	PERSON|PERSON	|				Dave Fuge

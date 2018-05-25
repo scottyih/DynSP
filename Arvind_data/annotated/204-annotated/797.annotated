@@ -1,0 +1,66 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.ship	Ship	ship	ship	NN	O					
+-1	1	fb:row.row.type_of_vessel	Type of Vessel	type|of|vessel	type|of|vessel	NN|IN|NN	O|O|O	||				
+-1	2	fb:row.row.lake	Lake	lake	Lake	NNP	PERSON					
+-1	3	fb:row.row.location	Location	location	location	NN	O					
+-1	4	fb:row.row.lives_lost	Lives lost	lives|lost	life|lose	NNS|VBD	O|O	|				
+0	0	fb:cell.argus	Argus	argus	Argus	NNP	PERSON					
+0	1	fb:cell.steamer	Steamer	steamer	steamer	NN	O					
+0	2	fb:cell.lake_huron	Lake Huron	lake|huron	Lake|Huron	NNP|NNP	PERSON|PERSON	|				
+0	3	fb:cell.25_miles_off_kincardine_ontario	25 miles off Kincardine, Ontario	25|miles|off|kincardine|,|ontario	25|mile|off|kincardine|,|Ontario	CD|NNS|RB|NN|,|NNP	NUMBER|O|O|O|O|LOCATION	25.0|||||	25.0			25 miles off Kincardine|Ontario
+0	4	fb:cell.25_lost	25 lost	25|lost	25|lose	CD|VBN	NUMBER|O	25.0|	25.0			
+1	0	fb:cell.james_carruthers	James Carruthers	james|carruthers	James|Carruthers	NNP|NNP	PERSON|PERSON	|				
+1	1	fb:cell.steamer	Steamer	steamer	steamer	NN	O					
+1	2	fb:cell.lake_huron	Lake Huron	lake|huron	Lake|Huron	NNP|NNP	PERSON|PERSON	|				
+1	3	fb:cell.near_kincardine	near Kincardine	near|kincardine	near|kincardine	IN|NN	O|O	|				near Kincardine
+1	4	fb:cell.18_lost	18 lost	18|lost	18|lose	CD|VBN	NUMBER|O	18.0|	18.0			
+2	0	fb:cell.hydrus	Hydrus	hydrus	hydrus	NN	O					
+2	1	fb:cell.steamer	Steamer	steamer	steamer	NN	O					
+2	2	fb:cell.lake_huron	Lake Huron	lake|huron	Lake|Huron	NNP|NNP	PERSON|PERSON	|				
+2	3	fb:cell.near_lexington_michigan	near Lexington, Michigan	near|lexington|,|michigan	near|Lexington|,|Michigan	IN|NNP|,|NNP	O|LOCATION|O|LOCATION	|||				near Lexington|Michigan
+2	4	fb:cell.28_lost	28 lost	28|lost	28|lose	CD|VBN	NUMBER|O	28.0|	28.0			
+3	0	fb:cell.leafield	Leafield	leafield	leafield	NN	PERSON					
+3	1	fb:cell.steamer	Steamer	steamer	steamer	NN	O					
+3	2	fb:cell.lake_superior	Lake Superior	lake|superior	Lake|Superior	NNP|NNP	LOCATION|LOCATION	|				
+3	3	fb:cell.null										
+3	4	fb:cell.all_hands	all hands	all|hands	all|hand	DT|NNS	O|O	|				
+4	0	fb:cell.john_a_mcgean	John A. McGean	john|a.|mcgean	John|A.|McGean	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+4	1	fb:cell.steamer	Steamer	steamer	steamer	NN	O					
+4	2	fb:cell.lake_huron	Lake Huron	lake|huron	Lake|Huron	NNP|NNP	PERSON|PERSON	|				
+4	3	fb:cell.near_goderich_ontario	near Goderich, Ontario	near|goderich|,|ontario	near|goderich|,|Ontario	IN|NN|,|NNP	O|O|O|LOCATION	|||				near Goderich|Ontario
+4	4	fb:cell.28_lost	28 lost	28|lost	28|lose	CD|VBN	NUMBER|O	28.0|	28.0			
+5	0	fb:cell.plymouth	Plymouth	plymouth	Plymouth	NNP	ORGANIZATION					
+5	1	fb:cell.barge	Barge	barge	barge	NN	O					
+5	2	fb:cell.lake_michigan	Lake Michigan	lake|michigan	Lake|Michigan	NNP|NNP	LOCATION|LOCATION	|				
+5	3	fb:cell.null										
+5	4	fb:cell.7_lost	7 lost	7|lost	7|lose	CD|VBN	NUMBER|O	7.0|	7.0			
+6	0	fb:cell.charles_s_price	Charles S. Price	charles|s.|price	Charles|S.|price	NNP|NNP|NN	PERSON|PERSON|PERSON	||				
+6	1	fb:cell.steamer	Steamer	steamer	steamer	NN	O					
+6	2	fb:cell.lake_huron	Lake Huron	lake|huron	Lake|Huron	NNP|NNP	PERSON|PERSON	|				
+6	3	fb:cell.near_port_huron_michigan	near Port Huron, Michigan	near|port|huron|,|michigan	near|Port|Huron|,|Michigan	IN|NNP|NNP|,|NNP	O|LOCATION|LOCATION|O|LOCATION	||||				near Port Huron|Michigan
+6	4	fb:cell.28_lost	28 lost	28|lost	28|lose	CD|VBN	NUMBER|O	28.0|	28.0			
+7	0	fb:cell.regina	Regina	regina	Regina	NNP	PERSON					
+7	1	fb:cell.steamer	Steamer	steamer	steamer	NN	O					
+7	2	fb:cell.lake_huron	Lake Huron	lake|huron	Lake|Huron	NNP|NNP	PERSON|PERSON	|				
+7	3	fb:cell.near_harbor_beach_michigan	near Harbor Beach, Michigan	near|harbor|beach|,|michigan	near|Harbor|Beach|,|Michigan	IN|NNP|NNP|,|NNP	O|LOCATION|LOCATION|O|LOCATION	||||				near Harbor Beach|Michigan
+7	4	fb:cell.null										
+8	0	fb:cell.issac_m_scott	Issac M. Scott	issac|m.|scott	Issac|M.|Scott	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+8	1	fb:cell.steamer	Steamer	steamer	steamer	NN	O					
+8	2	fb:cell.lake_huron	Lake Huron	lake|huron	Lake|Huron	NNP|NNP	PERSON|PERSON	|				
+8	3	fb:cell.near_port_elgin_ontario	near Port Elgin, Ontario	near|port|elgin|,|ontario	near|Port|Elgin|,|Ontario	IN|NNP|NNP|,|NNP	O|LOCATION|LOCATION|O|LOCATION	||||				near Port Elgin|Ontario
+8	4	fb:cell.28_lost	28 lost	28|lost	28|lose	CD|VBN	NUMBER|O	28.0|	28.0			
+9	0	fb:cell.henry_b_smith	Henry B. Smith	henry|b.|smith	Henry|B.|Smith	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+9	1	fb:cell.steamer	Steamer	steamer	steamer	NN	O					
+9	2	fb:cell.lake_superior	Lake Superior	lake|superior	Lake|Superior	NNP|NNP	LOCATION|LOCATION	|				
+9	3	fb:cell.null										
+9	4	fb:cell.all_hands	all hands	all|hands	all|hand	DT|NNS	O|O	|				
+10	0	fb:cell.wexford	Wexford	wexford	Wexford	NNP	LOCATION					
+10	1	fb:cell.steamer	Steamer	steamer	steamer	NN	O					
+10	2	fb:cell.lake_huron	Lake Huron	lake|huron	Lake|Huron	NNP|NNP	PERSON|PERSON	|				
+10	3	fb:cell.north_of_grand_bend_ontario	north of Grand Bend, Ontario	north|of|grand|bend|,|ontario	north|of|Grand|Bend|,|Ontario	NNP|IN|NNP|NNP|,|NNP	O|O|O|O|O|LOCATION	|||||				north of Grand Bend|Ontario
+10	4	fb:cell.all_hands	all hands	all|hands	all|hand	DT|NNS	O|O	|				
+11	0	fb:cell.lightship_no_82	Lightship No. 82	lightship|no.|82	Lightship|No.|82	NNP|NNP|CD	O|O|NUMBER	||82.0	0.82			
+11	1	fb:cell.lightship	Lightship	lightship	lightship	NN	O					
+11	2	fb:cell.lake_erie	Lake Erie	lake|erie	Lake|Erie	NNP|NNP	LOCATION|LOCATION	|				
+11	3	fb:cell.point_albino_near_buffalo	Point Albino (near Buffalo)	point|albino|-lrb-|near|buffalo|-rrb-	point|albino|-lrb-|near|Buffalo|-rrb-	NN|NN|-LRB-|IN|NNP|-RRB-	O|O|O|O|LOCATION|O	|||||				Point Albino (near Buffalo)
+11	4	fb:cell.6_lost	6 lost	6|lost	6|lose	CD|VBN	NUMBER|O	6.0|	6.0			

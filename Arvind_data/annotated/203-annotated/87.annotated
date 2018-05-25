@@ -1,0 +1,157 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.subject	Subject	subject	subject	NN	O					
+-1	1	fb:row.row.robot_s_name	Robot's Name	robot|'s|name	robot|'s|name	NN|POS|NN	O|O|O	||				
+-1	2	fb:row.row.who	Who?	who|?	who|?	WP|.	O|O	|				
+-1	3	fb:row.row.when	When?	when|?	when|?	WRB|.	O|O	|				
+-1	4	fb:row.row.where	Where?	where|?	where|?	WRB|.	O|O	|				
+-1	5	fb:row.row.occupation	Occupation	occupation	occupation	NN	O					
+0	0	fb:cell.solar_system	Solar System	solar|system	solar|system	JJ|NN	O|O	|				
+0	1	fb:cell.cosmo_bot	Cosmo-Bot	cosmo|bot	Cosmo|Bot	NNP|NNP	ORGANIZATION|O	|				
+0	2	fb:cell.copernicus	Copernicus	copernicus	Copernicus	NNP	PERSON					
+0	3	fb:cell.1531	1531	1531	1531	CD	DATE	1531	1531.0	1531-xx-xx		
+0	4	fb:cell.poland	Poland	poland	Poland	NNP	LOCATION					Poland
+0	5	fb:cell.cosmonaut	Cosmonaut	cosmonaut	cosmonaut	NN	O					Cosmonaut
+1	0	fb:cell.olympics	Olympics	olympics	Olympics	NNPS	MISC					
+1	1	fb:cell.rhonda_robot	Rhonda Robot	rhonda|robot	Rhonda|robot	NNP|NN	PERSON|PERSON	|				
+1	2	fb:cell.greeks	Greeks	greeks	Greeks	NNPS	O					
+1	3	fb:cell.776_b_c	776 B.C.	776|b.c.	776|b.c.	CD|NN	DATE|DATE	-0775|-0775	776.0			
+1	4	fb:cell.greece	Greece	greece	Greece	NNP	LOCATION					Greece
+1	5	fb:cell.beauty_queen	Beauty queen	beauty|queen	beauty|queen	NN|NN	O|O	|				Beauty queen
+2	0	fb:cell.basketball	Basketball	basketball	basketball	NN	O					
+2	1	fb:cell.danny_defrost_bot	Danny Defrost-Bot	danny|defrost|bot	Danny|Defrost|Bot	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+2	2	fb:cell.james_naismith	James Naismith	james|naismith	James|Naismith	NNP|NNP	PERSON|PERSON	|				
+2	3	fb:cell.1891	1891	1891	1891	CD	DATE	1891	1891.0	1891-xx-xx		
+2	4	fb:cell.united_states	United States	united|states	United|States	NNP|NNPS	LOCATION|LOCATION	|				United States
+2	5	fb:cell.snowman	Snowman	snowman	snowman	NN	O					Snowman
+3	0	fb:cell.nursing	Nursing	nursing	nursing	NN	O					
+3	1	fb:cell.dr_bug_bot	Dr. Bug-Bot	dr.|bug|bot	Dr.|bug|bot	NNP|NN|NN	O|O|O	||				
+3	2	fb:cell.florence_nightengale	Florence Nightengale	florence|nightengale	Florence|Nightengale	NNP|NNP	PERSON|PERSON	|				
+3	3	fb:cell.1860	1860	1860	1860	CD	DATE	1860	1860.0	1860-xx-xx		
+3	4	fb:cell.england	England	england	England	NNP	LOCATION					England
+3	5	fb:cell.doctor	Doctor	doctor	doctor	NN	O					Doctor
+4	0	fb:cell.scuba_gear	Scuba Gear	scuba|gear	Scuba|Gear	NNP|NNP	O|O	|				
+4	1	fb:cell.flip_the_high_diving_robot	Flip the High-Diving Robot	flip|the|high|diving|robot	flip|the|high|diving|robot	VB|DT|JJ|NN|NN	O|O|O|O|O	||||				
+4	2	fb:cell.jacques_cousteau	Jacques Cousteau	jacques|cousteau	Jacques|Cousteau	NNP|NNP	PERSON|PERSON	|				
+4	3	fb:cell.1946	1946	1946	1946	CD	DATE	1946	1946.0	1946-xx-xx		
+4	4	fb:cell.france	France	france	France	NNP	LOCATION					France
+4	5	fb:cell.diver	Diver	diver	diver	NN	O					Diver
+5	0	fb:cell.helicopter	Helicopter	helicopter	helicopter	NN	O					
+5	1	fb:cell.amelia_air_bot	Amelia Air-Bot	amelia|air|bot	Amelia|Air|Bot	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+5	2	fb:cell.leonardo_da_vinci	Leonardo da Vinci	leonardo|da|vinci	Leonardo|da|Vinci	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+5	3	fb:cell.1483	1483	1483	1483	CD	DATE	1483	1483.0	1483-xx-xx		
+5	4	fb:cell.italy	Italy	italy	Italy	NNP	LOCATION					Italy
+5	5	fb:cell.pilot	Pilot	pilot	pilot	NN	O					Pilot
+6	0	fb:cell.corn_flakes	Corn Flakes	corn|flakes	Corn|Flakes	NNP|NNPS	O|O	|				
+6	1	fb:cell.chef_boy_robot	Chef Boy-Robot	chef|boy|robot	Chef|Boy|robot	NNP|NNP|NN	PERSON|PERSON|PERSON	||				
+6	2	fb:cell.william_kellogg	William Kellogg	william|kellogg	William|Kellogg	NNP|NNP	PERSON|PERSON	|				
+6	3	fb:cell.1894	1894	1894	1894	CD	DATE	1894	1894.0	1894-xx-xx		
+6	4	fb:cell.battle_creek_michigan	Battle Creek, Michigan	battle|creek|,|michigan	Battle|Creek|,|Michigan	NNP|NNP|,|NNP	LOCATION|LOCATION|O|LOCATION	|||				Battle Creek|Michigan
+6	5	fb:cell.cook	Cook	cook	Cook	NNP	PERSON					Cook
+7	0	fb:cell.radium	Radium	radium	radium	NN	O					
+7	1	fb:cell.miss_battery_bot	Miss Battery-Bot	miss|battery|bot	Miss|Battery|Bot	NNP|NNP|NNP	O|O|O	||				
+7	2	fb:cell.marie_curie	Marie Curie	marie|curie	Marie|Curie	NNP|NNP	PERSON|PERSON	|				
+7	3	fb:cell.1898	1898	1898	1898	CD	DATE	1898	1898.0	1898-xx-xx		
+7	4	fb:cell.france	France	france	France	NNP	LOCATION					France
+7	5	fb:cell.battery_lady	Battery Lady	battery|lady	battery|lady	NN|NN	O|O	|				Battery Lady
+8	0	fb:cell.chewing_gum	Chewing Gum	chewing|gum	chew|gum	VBG|NN	O|O	|				
+8	1	fb:cell.bubble_bot	Bubble-Bot	bubble|bot	bubble|bot	NN|NN	O|O	|				
+8	2	fb:cell.mayans	Mayans	mayans	Mayans	NNPS	MISC					
+8	3	fb:cell.400	400	400	400	CD	NUMBER	400.0	400.0			
+8	4	fb:cell.mexico	Mexico	mexico	Mexico	NNP	LOCATION					Mexico
+8	5	fb:cell.bubble_man	Bubble Man	bubble|man	bubble|man	NN|NN	O|O	|				Bubble Man
+9	0	fb:cell.painting	Painting	painting	painting	NN	O					
+9	1	fb:cell.pierro_bot	Pierro-Bot	pierro|bot	Pierro|Bot	NNP|NNP	PERSON|PERSON	|				
+9	2	fb:cell.stone_age_humans	Stone-Age Humans	stone|age|humans	Stone|Age|human	NNP|NNP|NNS	O|O|O	||				
+9	3	fb:cell.35_000_b_c	35,000 B.C.	35,000|b.c.	35,000|B.C.	CD|NNP	NUMBER|O	35000.0|	35000.0			
+9	4	fb:cell.europe	Europe	europe	Europe	NNP	LOCATION					Europe
+9	5	fb:cell.clown_artist	Clown/Artist	clown/artist	clown/artist	NN	O					Clown|Artist
+10	0	fb:cell.phonograph	Phonograph	phonograph	phonograph	NN	O					
+10	1	fb:cell.slide_the_heavy_metal_robot	Slide the Heavy-Metal Robot	slide|the|heavy|metal|robot	slide|the|heavy|metal|robot	VB|DT|JJ|NN|NN	O|O|O|O|O	||||				
+10	2	fb:cell.thomas_edison	Thomas Edison	thomas|edison	Thomas|Edison	NNP|NNP	PERSON|PERSON	|				
+10	3	fb:cell.1877	1877	1877	1877	CD	DATE	1877	1877.0	1877-xx-xx		
+10	4	fb:cell.new_jersey	New Jersey	new|jersey	New|Jersey	NNP|NNP	LOCATION|LOCATION	|				New Jersey
+10	5	fb:cell.rock_star	Rock Star	rock|star	Rock|Star	NNP|NNP	O|O	|				Rock Star
+11	0	fb:cell.paper	Paper	paper	paper	NN	O					
+11	1	fb:cell.noshi_origami	Noshi Origami	noshi|origami	Noshi|Origami	NNP|NNP	PERSON|PERSON	|				
+11	2	fb:cell.ts_ai_lun	Ts'ai Lun	ts|`|ai|lun	t|`|be|lun	NN|``|VBP|NN	O|O|PERSON|PERSON	|||				
+11	3	fb:cell.105	105	105	105	CD	NUMBER	105.0	105.0			
+11	4	fb:cell.china	China	china	China	NNP	LOCATION					China
+11	5	fb:cell.origami_maker	Origami Maker	origami|maker	origamus|maker	NN|NN	O|O	|				Origami Maker
+12	0	fb:cell.round_earth	Round Earth	round|earth	round|earth	JJ|NN	O|O	|				
+12	1	fb:cell.vasco_da_robot	Vasco da Robot	vasco|da|robot	Vasco|da|robot	NNP|NNP|NN	PERSON|PERSON|PERSON	||				
+12	2	fb:cell.ferdinand_magellan	Ferdinand Magellan	ferdinand|magellan	Ferdinand|Magellan	NNP|NNP	PERSON|PERSON	|				
+12	3	fb:cell.1522	1522	1522	1522	CD	DATE	1522	1522.0	1522-xx-xx		
+12	4	fb:cell.spain	Spain	spain	Spain	NNP	LOCATION					Spain
+12	5	fb:cell.early_sailor	Early Sailor	early|sailor	early|sailor	JJ|NN	O|O	|				Early Sailor
+13	0	fb:cell.dynamite	Dynamite	dynamite	dynamite	NN	O					
+13	1	fb:cell.robby_robot	Robby Robot	robby|robot	Robby|robot	NNP|NN	PERSON|PERSON	|				
+13	2	fb:cell.alfred_nobel	Alfred Nobel	alfred|nobel	Alfred|Nobel	NNP|NNP	PERSON|PERSON	|				
+13	3	fb:cell.1866	1866	1866	1866	NNP	DATE	1866	1866.0	1866-xx-xx		
+13	4	fb:cell.sweden	Sweden	sweden	Sweden	NNP	LOCATION					Sweden
+13	5	fb:cell.prankster	Prankster	prankster	prankster	NN	O					Prankster
+14	0	fb:cell.microscope	Microscope	microscope	microscope	NN	O					
+14	1	fb:cell.slobot	Slobot	slobot	slobot	NN	PERSON					
+14	2	fb:cell.antonie_van_leeuwenhoek	Antonie van Leeuwenhoek	antonie|van|leeuwenhoek	Antonie|van|Leeuwenhoek	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+14	3	fb:cell.1674	1674	1674	1674	CD	DATE	1674	1674.0	1674-xx-xx		
+14	4	fb:cell.the_netherlands	The Netherlands	the|netherlands	the|Netherlands	DT|NNP	O|LOCATION	|				The Netherlands
+14	5	fb:cell.dirty_person	Dirty Person	dirty|person	dirty|person	JJ|NN	O|O	|				Dirty Person
+15	0	fb:cell.writing	Writing	writing	write	VBG	O					
+15	1	fb:cell.eraser_bot	Eraser-Bot	eraser|bot	Eraser|Bot	NNP|NNP	O|O	|				
+15	2	fb:cell.sumerians	Sumerians	sumerians	Sumerians	NNPS	MISC					
+15	3	fb:cell.3_500_b_c	3,500 B.C.	3,500|b.c.	3,500|b.c.	CD|NN	NUMBER|O	3500.0|	3500.0			
+15	4	fb:cell.middle_east	Middle East	middle|east	Middle|East	NNP|NNP	LOCATION|LOCATION	|				Middle East
+15	5	fb:cell.pencil_man	Pencil Man	pencil|man	pencil|man	NN|NN	O|O	|				Pencil Man
+16	0	fb:cell.sausage	Sausage	sausage	sausage	NN	O					
+16	1	fb:cell.sock_bot	Sock-Bot	sock|bot	sock|Bot	VB|NNP	O|O	|				
+16	2	fb:cell.babylonians	Babylonians	babylonians	Babylonians	NNPS	MISC					
+16	3	fb:cell.3_000_b_c	3,000 B.C.	3,000|b.c.	3,000|b.c.	CD|NN	NUMBER|O	3000.0|	3000.0			
+16	4	fb:cell.middle_east	Middle East	middle|east	Middle|East	NNP|NNP	LOCATION|LOCATION	|				Middle East
+16	5	fb:cell.sock_man	Sock Man	sock|man	sock|man	VB|NN	PERSON|PERSON	|				Sock Man
+17	0	fb:cell.bicycle	Bicycle	bicycle	bicycle	NN	O					
+17	1	fb:cell.booster_bot	Booster-Bot	booster|bot	booster|bot	NN|NN	O|O	|				
+17	2	fb:cell.karl_von_drais	Karl von Drais	karl|von|drais	Karl|von|Drais	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+17	3	fb:cell.1816	1816	1816	1816	CD	DATE	1816	1816.0	1816-xx-xx		
+17	4	fb:cell.germany	Germany	germany	Germany	NNP	LOCATION					Germany
+17	5	fb:cell.rocket_man	Rocket Man	rocket|man	rocket|man	NN|NN	O|O	|				Rocket Man
+18	0	fb:cell.wheel	Wheel	wheel	wheel	NN	O					
+18	1	fb:cell.rollin_road_bot	Rollin' Road-Bot	rollin|'|road|bot	Rollin|'|road|bot	NNP|POS|NN|NN	O|O|O|O	|||				
+18	2	fb:cell.sumerians	Sumerians	sumerians	Sumerians	NNPS	MISC					
+18	3	fb:cell.3_000_b_c	3,000 B.C.	3,000|b.c.	3,000|b.c.	CD|NN	NUMBER|O	3000.0|	3000.0			
+18	4	fb:cell.middle_east	Middle East	middle|east	Middle|East	NNP|NNP	LOCATION|LOCATION	|				Middle East
+18	5	fb:cell.race_starter	Race Starter	race|starter	race|starter	NN|JJ	O|O	|				Race Starter
+19	0	fb:cell.germs	Germs	germs	germ	NNS	O					
+19	1	fb:cell.roast_bot	Roast-Bot	roast|bot	roast|bot	NN|NN	O|O	|				
+19	2	fb:cell.louis_pasteur	Louis Pasteur	louis|pasteur	Louis|Pasteur	NNP|NNP	PERSON|PERSON	|				
+19	3	fb:cell.1865	1865	1865	1865	CD	DATE	1865	1865.0	1865-xx-xx		
+19	4	fb:cell.france	France	france	France	NNP	LOCATION					France
+19	5	fb:cell.firefighter	Firefighter	firefighter	firefighter	NN	O					Firefighter
+20	0	fb:cell.boomerang	Boomerang	boomerang	Boomerang	NNP	PERSON					
+20	1	fb:cell.oswald_the_mailman_robot	Oswald the Mailman Robot	oswald|the|mailman|robot	Oswald|the|Mailman|robot	NNP|DT|NNP|NN	PERSON|O|O|O	|||				
+20	2	fb:cell.aborigines	Aborigines	aborigines	Aborigines	NNPS	O					
+20	3	fb:cell.40_000_years_ago	40,000 years ago	40,000|years|ago	40,000|year|ago	CD|NNS|IN	DATE|DATE|DATE	OFFSET P-40000Y|OFFSET P-40000Y|OFFSET P-40000Y	40000.0			
+20	4	fb:cell.australia	Australia	australia	Australia	NNP	LOCATION					Australia
+20	5	fb:cell.mailman	Mailman	mailman	mailman	NN	O					Mailman
+21	0	fb:cell.coins	Coins	coins	coin	NNS	O					
+21	1	fb:cell.verna_the_vend_bot	Verna the Vend-Bot	verna|the|vend|bot	Verna|the|Vend|Bot	NNP|DT|NNP|NNP	PERSON|O|O|O	|||				
+21	2	fb:cell.lydians	Lydians	lydians	Lydians	NNPS	MISC					
+21	3	fb:cell.600_b_c	600 B.C.	600|b.c.	600|b.c.	CD|NN	DATE|DATE	-0599|-0599	600.0			
+21	4	fb:cell.turkey	Turkey	turkey	Turkey	NNP	LOCATION					Turkey
+21	5	fb:cell.vending_machine	Vending Machine	vending|machine	vend|machine	VBG|NN	O|O	|				Vending Machine
+22	0	fb:cell.tools	Tools	tools	tool	NNS	O					
+22	1	fb:cell.hank_the_handyman_robot	Hank the Handyman Robot	hank|the|handyman|robot	hank|the|handyman|robot	NN|DT|NN|NN	PERSON|PERSON|PERSON|PERSON	|||				
+22	2	fb:cell.stone_age_humans	Stone-Age Humans	stone|age|humans	Stone|Age|human	NNP|NNP|NNS	O|O|O	||				
+22	3	fb:cell.2_million_years_ago	2½ million years ago	2|1/2|million|years|ago	2|1/2|million|year|ago	CD|CD|CD|NNS|IN	NUMBER|NUMBER|DATE|DATE|DATE	2.0||OFFSET P-1000000Y|OFFSET P-1000000Y|OFFSET P-1000000Y	2.0			
+22	4	fb:cell.africa	Africa	africa	Africa	NNP	LOCATION					Africa
+22	5	fb:cell.mechanic	Mechanic	mechanic	mechanic	NN	O					Mechanic
+23	0	fb:cell.saxophone	Saxophone	saxophone	saxophone	NN	O					
+23	1	fb:cell.bongo_bot_the_six_armed_robot	Bongo-Bot the Six-Armed Robot	bongo|bot|the|six|armed|robot	Bongo|Bot|the|six|armed|robot	NNP|NNP|DT|CD|JJ|NN	PERSON|O|O|NUMBER|O|O	|||6.0||				
+23	2	fb:cell.antoine_joseph_sax	Antoine-Joseph Sax	antoine|joseph|sax	Antoine|Joseph|Sax	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+23	3	fb:cell.1846	1846	1846	1846	CD	DATE	1846	1846.0	1846-xx-xx		
+23	4	fb:cell.france	France	france	France	NNP	LOCATION					France
+23	5	fb:cell.six_armed_drum_player	Six-Armed Drum Player	six|armed|drum|player	six|armed|drum|player	CD|JJ|VB|NN	NUMBER|O|O|O	6.0|||				Six-Armed Drum Player
+24	0	fb:cell.toilet	Toilet	toilet	toilet	NN	O					
+24	1	fb:cell.brunwella_the_bombshell	Brunwella the Bombshell	brunwella|the|bombshell	brunwellum|the|bombshell	NN|DT|NN	PERSON|PERSON|PERSON	||				
+24	2	fb:cell.minoans	Minoans	minoans	Minoans	NNPS	O					
+24	3	fb:cell.2000_b_c	2000 B.C.	2000|b.c.	2000|B.C.	CD|NNP	DATE|DATE	-1999|-1999	2000.0			
+24	4	fb:cell.crete	Crete	crete	Crete	NNP	LOCATION					Crete
+24	5	fb:cell.demolisher	Demolisher	demolisher	demolisher	NN	O					Demolisher

@@ -1,0 +1,313 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.title	Title	title	title	NN	O					
+-1	2	fb:row.row.role	Role	role	role	NN	O					
+-1	3	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.1984	1984	1984	1984	CD	DATE	1984	1984.0	1984-xx-xx		
+0	1	fb:cell.no_small_affair	No Small Affair	no|small|affair	no|small|affair	DT|JJ|NN	O|O|O	||				No Small Affair
+0	2	fb:cell.mona	Mona	mona	Mona	NNP	PERSON					Mona
+0	3	fb:cell.film_debut	Film debut	film|debut	film|debut	NN|NN	O|O	|				Film debut
+1	0	fb:cell.1985	1985	1985	1985	CD	DATE	1985	1985.0	1985-xx-xx		
+1	1	fb:cell.moving_violations	Moving Violations	moving|violations	move|violation	VBG|NNS	O|O	|				Moving Violations
+1	2	fb:cell.amy_hopkins	Amy Hopkins	amy|hopkins	Amy|Hopkins	NNP|NNP	PERSON|PERSON	|				Amy Hopkins
+1	3	fb:cell.null										
+2	0	fb:cell.1987	1987	1987	1987	CD	DATE	1987	1987.0	1987-xx-xx		
+2	1	fb:cell.inside_out	Inside Out	inside|out	inside|out	IN|IN	O|O	|				Inside Out
+2	2	fb:cell.amy	Amy	amy	Amy	NNP	PERSON					Amy
+2	3	fb:cell.null										
+3	0	fb:cell.1987	1987	1987	1987	CD	DATE	1987	1987.0	1987-xx-xx		
+3	1	fb:cell.he_s_my_girl	He's My Girl	he|'s|my|girl	he|be|my|girl	PRP|VBZ|PRP$|NN	O|O|O|O	|||				He's My Girl
+3	2	fb:cell.lisa	Lisa	lisa	Lisa	NNP	PERSON					Lisa
+3	3	fb:cell.null										
+4	0	fb:cell.1988	1988	1988	1988	CD	DATE	1988	1988.0	1988-xx-xx		
+4	1	fb:cell.johnny_be_good	Johnny Be Good	johnny|be|good	Johnny|be|good	NNP|VBD-AUX|JJ	PERSON|O|O	||				Johnny Be Good
+4	2	fb:cell.connie_hisler	Connie Hisler	connie|hisler	Connie|Hisler	NNP|NNP	PERSON|PERSON	|				Connie Hisler
+4	3	fb:cell.null										
+5	0	fb:cell.1988	1988	1988	1988	CD	DATE	1988	1988.0	1988-xx-xx		
+5	1	fb:cell.remote_control	Remote Control	remote|control	remote|control	JJ|NN	O|O	|				Remote Control
+5	2	fb:cell.allegra_james	Allegra James	allegra|james	Allegra|James	NNP|NNP	PERSON|PERSON	|				Allegra James
+5	3	fb:cell.null										
+6	0	fb:cell.1988	1988	1988	1988	CD	DATE	1988	1988.0	1988-xx-xx		
+6	1	fb:cell.rented_lips	Rented Lips	rented|lips	rent|lip	VBN|NNS	O|O	|				Rented Lips
+6	2	fb:cell.mona_lisa	Mona Lisa	mona|lisa	Mona|Lisa	NNP|NNP	PERSON|PERSON	|				Mona Lisa
+6	3	fb:cell.null										
+7	0	fb:cell.1988	1988	1988	1988	CD	DATE	1988	1988.0	1988-xx-xx		
+7	1	fb:cell.high_spirits	High Spirits	high|spirits	high|spirit	JJ|NNS	O|O	|				High Spirits
+7	2	fb:cell.miranda	Miranda	miranda	Miranda	NNP	PERSON					Miranda
+7	3	fb:cell.null										
+8	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+8	1	fb:cell.far_from_home	Far from Home	far|from|home	far|from|home	RB|IN|NN	O|O|O	||				Far from Home
+8	2	fb:cell.amy	Amy	amy	Amy	NNP	PERSON					Amy
+8	3	fb:cell.null										
+9	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+9	1	fb:cell.let_it_ride	Let It Ride	let|it|ride	let|it|ride	VB|PRP|VB	O|O|O	||				Let It Ride
+9	2	fb:cell.vicki	Vicki	vicki	Vicki	NNP	PERSON					Vicki
+9	3	fb:cell.null										
+10	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+10	1	fb:cell.the_fabulous_baker_boys	The Fabulous Baker Boys	the|fabulous|baker|boys	the|Fabulous|Baker|Boys	DT|NNP|NNP|NNPS	O|O|O|O	|||				The Fabulous Baker Boys
+10	2	fb:cell.blanche_monica_moran	Blanche "Monica" Moran	blanche|``|monica|''|moran	Blanche|``|Monica|''|Moran	NNP|``|NNP|''|NNP	PERSON|O|PERSON|PERSON|PERSON	||||				Blanche "Monica" Moran
+10	3	fb:cell.null										
+11	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+11	1	fb:cell.the_doors	The Doors	the|doors	the|door	DT|NNS	O|O	|				The Doors
+11	2	fb:cell.okie_girl	Okie Girl	okie|girl	Okie|Girl	NNP|NNP	O|O	|				Okie Girl
+11	3	fb:cell.uncredited	Uncredited	uncredited	uncredited	JJ	O					Uncredited
+12	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+12	1	fb:cell.scorchers	Scorchers	scorchers	scorcher	NNS	O					Scorchers
+12	2	fb:cell.talbot	Talbot	talbot	Talbot	NNP	PERSON					Talbot
+12	3	fb:cell.null										
+13	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+13	1	fb:cell.shadow_of_the_wolf	Shadow of the Wolf	shadow|of|the|wolf	shadow|of|the|Wolf	NN|IN|DT|NNP	O|O|O|O	|||				Shadow of the Wolf
+13	2	fb:cell.igiyook	Igiyook	igiyook	igiyook	NN	PERSON					Igiyook
+13	3	fb:cell.null										
+14	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+14	1	fb:cell.made_in_america	Made in America	made|in|america	make|in|America	VBN|IN|NNP	O|O|LOCATION	||				Made in America
+14	2	fb:cell.stacy	Stacy	stacy	Stacy	NNP	PERSON					Stacy
+14	3	fb:cell.null										
+15	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+15	1	fb:cell.double_cross	Double Cross	double|cross	double|cross	JJ|NN	O|O	|				Double Cross
+15	2	fb:cell.melissa	Melissa	melissa	Melissa	NNP	PERSON					Melissa
+15	3	fb:cell.null										
+16	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+16	1	fb:cell.bullets_over_broadway	Bullets Over Broadway	bullets|over|broadway	bullet|over|Broadway	NNS|IN|NNP	O|O|LOCATION	||				Bullets Over Broadway
+16	2	fb:cell.olive_neal	Olive Neal	olive|neal	Olive|Neal	NNP|NNP	PERSON|PERSON	|				Olive Neal
+16	3	fb:cell.null										
+17	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+17	1	fb:cell.embrace_of_the_vampire	Embrace of the Vampire	embrace|of|the|vampire	embrace|of|the|vampire	VB|IN|DT|NN	O|O|O|O	|||				Embrace of the Vampire
+17	2	fb:cell.marika	Marika	marika	Marika	NNP	PERSON					Marika
+17	3	fb:cell.null										
+18	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+18	1	fb:cell.the_getaway	The Getaway	the|getaway	the|getaway	DT|NN	O|O	|				The Getaway
+18	2	fb:cell.fran_carvey	Fran Carvey	fran|carvey	Fran|Carvey	NNP|NNP	PERSON|PERSON	|				Fran Carvey
+18	3	fb:cell.null										
+19	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+19	1	fb:cell.bird_of_prey	Bird of Prey	bird|of|prey	bird|of|prey	NN|IN|NN	O|O|O	||				Bird of Prey
+19	2	fb:cell.kily_griffith	Kily Griffith	kily|griffith	Kily|Griffith	NNP|NNP	PERSON|PERSON	|				Kily Griffith
+19	3	fb:cell.null										
+20	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+20	1	fb:cell.man_with_a_gun	Man with a Gun	man|with|a|gun	man|with|a|gun	NN|IN|DT|NN	O|O|O|O	|||				Man with a Gun
+20	2	fb:cell.rena_rushton_kathy_payne	Rena Rushton/Kathy Payne	rena|rushton/kathy|payne	Rena|Rushton/Kathy|Payne	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Rena Rushton|Kathy Payne
+20	3	fb:cell.null										
+21	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+21	1	fb:cell.the_pompatus_of_love	The Pompatus of Love	the|pompatus|of|love	the|pompatus|of|love	DT|NN|IN|NN	O|O|O|O	|||				The Pompatus of Love
+21	2	fb:cell.tarzaan	Tarzaan	tarzaan	Tarzaan	NNP	PERSON					Tarzaan
+21	3	fb:cell.null										
+22	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+22	1	fb:cell.house_arrest	House Arrest	house|arrest	House|arrest	NNP|NN	O|O	|				House Arrest
+22	2	fb:cell.cindy_figler	Cindy Figler	cindy|figler	Cindy|Figler	NNP|NNP	PERSON|PERSON	|				Cindy Figler
+22	3	fb:cell.null										
+23	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+23	1	fb:cell.bound	Bound	bound	bind	VBN	O					Bound
+23	2	fb:cell.violet	Violet	violet	violet	NN	O					Violet
+23	3	fb:cell.null										
+24	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+24	1	fb:cell.american_strays	American Strays	american|strays	American|Strays	NNP|NNP	MISC|O	|				American Strays
+24	2	fb:cell.patty_mae	Patty Mae	patty|mae	Patty|Mae	NNP|NNP	PERSON|PERSON	|				Patty Mae
+24	3	fb:cell.null										
+25	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+25	1	fb:cell.liar_liar	Liar Liar	liar|liar	liar|liar	NN|NN	PERSON|PERSON	|				Liar Liar
+25	2	fb:cell.samantha_cole	Samantha Cole	samantha|cole	Samantha|Cole	NNP|NNP	PERSON|PERSON	|				Samantha Cole
+25	3	fb:cell.null										
+26	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+26	1	fb:cell.edie_pen	Edie & Pen	edie|&|pen	Edie|&|pen	NNP|CC|NN	PERSON|PERSON|PERSON	||				Edie & Pen
+26	2	fb:cell.edie_piper	Edie Piper	edie|piper	Edie|Piper	NNP|NNP	PERSON|PERSON	|				Edie Piper
+26	3	fb:cell.null										
+27	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+27	1	fb:cell.bella_mafia	Bella Mafia	bella|mafia	Bella|Mafia	NNP|NNP	PERSON|PERSON	|				Bella Mafia
+27	2	fb:cell.moyra_luciano	Moyra Luciano	moyra|luciano	Moyra|Luciano	NNP|NNP	PERSON|PERSON	|				Moyra Luciano
+27	3	fb:cell.null										
+28	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+28	1	fb:cell.the_wrong_guy	The Wrong Guy	the|wrong|guy	the|wrong|guy	DT|JJ|NN	O|O|O	||				The Wrong Guy
+28	2	fb:cell.lynn_holden	Lynn Holden	lynn|holden	Lynn|Holden	NNP|NNP	PERSON|PERSON	|				Lynn Holden
+28	3	fb:cell.null										
+29	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+29	1	fb:cell.relax_it_s_just_sex	Relax...It's Just Sex	relax|...|it|'s|just|sex	relax|...|it|be|just|sex	VB|:|PRP|VBZ|RB|NN	O|O|O|O|O|O	|||||				Relax...It's Just Sex
+29	2	fb:cell.tara_ricotto	Tara Ricotto	tara|ricotto	Tara|Ricotto	NNP|NNP	PERSON|PERSON	|				Tara Ricotto
+29	3	fb:cell.null										
+30	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+30	1	fb:cell.hoods	Hoods	hoods	hood	NNS	O					Hoods
+30	2	fb:cell.mary_crippa	Mary Crippa	mary|crippa	Mary|Crippa	NNP|NNP	PERSON|PERSON	|				Mary Crippa
+30	3	fb:cell.null										
+31	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+31	1	fb:cell.bride_of_chucky	Bride of Chucky	bride|of|chucky	bride|of|Chucky	NN|IN|NNP	O|O|PERSON	||				Bride of Chucky
+31	2	fb:cell.tiffany	Tiffany	tiffany	Tiffany	NNP	PERSON					Tiffany
+31	3	fb:cell.null										
+32	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+32	1	fb:cell.music_from_another_room	Music From Another Room	music|from|another|room	music|from|another|room	NN|IN|DT|NN	O|O|O|O	|||				Music From Another Room
+32	2	fb:cell.nina	Nina	nina	Nina	NNP	PERSON					Nina
+32	3	fb:cell.null										
+33	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+33	1	fb:cell.the_muse	The Muse	the|muse	the|muse	DT|NN	O|O	|				The Muse
+33	2	fb:cell.herself	Herself	herself	herself	PRP	O					Herself
+33	3	fb:cell.null										
+34	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+34	1	fb:cell.goosed	Goosed	goosed	goose	VBN	O					Goosed
+34	2	fb:cell.charlene	Charlene	charlene	Charlene	NNP	PERSON					Charlene
+34	3	fb:cell.null										
+35	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+35	1	fb:cell.do_not_disturb	Do Not Disturb	do|not|disturb	do|not|disturb	VBD-AUX|RB|VB	O|O|O	||				Do Not Disturb
+35	2	fb:cell.cathryn	Cathryn	cathryn	Cathryn	NNP	PERSON					Cathryn
+35	3	fb:cell.null										
+36	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+36	1	fb:cell.bartok_the_magnificent	Bartok the Magnificent	bartok|the|magnificent	Bartok|the|magnificent	NNP|DT|JJ	PERSON|PERSON|PERSON	||				Bartok the Magnificent
+36	2	fb:cell.piloff	Piloff	piloff	piloff	NN	PERSON					Piloff
+36	3	fb:cell.voice_only_direct_to_video	Voice only\nDirect-to-video	voice|only|direct|to|video	Voice|only|direct|to|video	NNP|RB|JJ|TO|NN	O|O|O|O|O	||||				Voice only|Direct-to-video
+37	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+37	1	fb:cell.stuart_little	Stuart Little	stuart|little	Stuart|Little	NNP|NNP	PERSON|PERSON	|				Stuart Little
+37	2	fb:cell.mrs_camille_stout	Mrs. Camille Stout	mrs.|camille|stout	Mrs.|Camille|Stout	NNP|NNP|NNP	O|PERSON|PERSON	||				Mrs. Camille Stout
+37	3	fb:cell.voice_only	Voice only	voice|only	Voice|only	NNP|RB	O|O	|				Voice only
+38	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+38	1	fb:cell.play_it_to_the_bone	Play It to the Bone	play|it|to|the|bone	play|it|to|the|bone	VB|PRP|TO|DT|NN	O|O|O|O|O	||||				Play It to the Bone
+38	2	fb:cell.ringside_fan	Ringside Fan	ringside|fan	ringside|fan	NN|NN	O|O	|				Ringside Fan
+38	3	fb:cell.null										
+39	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+39	1	fb:cell.cord	Cord	cord	cord	NN	O					Cord
+39	2	fb:cell.helen	Helen	helen	Helen	NNP	PERSON					Helen
+39	3	fb:cell.null										
+40	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+40	1	fb:cell.bruno	Bruno	bruno	Bruno	NNP	PERSON					Bruno
+40	2	fb:cell.dolores	Dolores	dolores	Dolores	NNP	PERSON					Dolores
+40	3	fb:cell.null										
+41	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+41	1	fb:cell.dancing_at_the_blue_iguana	Dancing at the Blue Iguana	dancing|at|the|blue|iguana	dancing|at|the|blue|iguana	NN|IN|DT|JJ|NN	O|O|O|O|O	||||				Dancing at the Blue Iguana
+41	2	fb:cell.jo	Jo	jo	Jo	NNP	PERSON					Jo
+41	3	fb:cell.null										
+42	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+42	1	fb:cell.the_crew	The Crew	the|crew	the|crew	DT|NN	O|O	|				The Crew
+42	2	fb:cell.ferris_aka_maureen_lowenstein	Ferris 'aka Maureen' Lowenstein	ferris|`|aka|maureen|'|lowenstein	ferris|`|aka|Maureen|'|lowenstein	JJ|``|FW|NNP|POS|NN	PERSON|O|O|PERSON|PERSON|PERSON	|||||				Ferris 'aka Maureen' Lowenstein
+42	3	fb:cell.null										
+43	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+43	1	fb:cell.dirt	Dirt	dirt	dirt	NN	O					Dirt
+43	2	fb:cell.hooker	Hooker	hooker	Hooker	NNP	PERSON					Hooker
+43	3	fb:cell.null										
+44	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+44	1	fb:cell.fast_sofa	Fast Sofa	fast|sofa	fast|sofa	JJ|NN	O|O	|				Fast Sofa
+44	2	fb:cell.ginger_quail	Ginger Quail	ginger|quail	ginger|quail	NN|NN	O|O	|				Ginger Quail
+44	3	fb:cell.null										
+45	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+45	1	fb:cell.monsters_inc	Monsters, Inc.	monsters|,|inc.|.	monster|,|Inc.|.	NNS|,|NNP|.	O|O|O|O	|||				Monsters|Inc.
+45	2	fb:cell.celia_mae	Celia Mae	celia|mae	Celia|Mae	NNP|NNP	PERSON|PERSON	|				Celia Mae
+45	3	fb:cell.voice_only	Voice only	voice|only	Voice|only	NNP|RB	O|O	|				Voice only
+46	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+46	1	fb:cell.ball_in_the_house	Ball in the House	ball|in|the|house	ball|in|the|House	NN|IN|DT|NNP	O|O|O|O	|||				Ball in the House
+46	2	fb:cell.dot	Dot	dot	Dot	NNP	O					Dot
+46	3	fb:cell.null										
+47	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+47	1	fb:cell.the_cat_s_meow	The Cat's Meow	the|cat|'s|meow	the|cat|'s|meow	DT|NN|POS|NN	O|O|O|O	|||				The Cat's Meow
+47	2	fb:cell.louella_parsons	Louella Parsons	louella|parsons	Louella|Parsons	NNP|NNP	PERSON|PERSON	|				Louella Parsons
+47	3	fb:cell.null										
+48	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+48	1	fb:cell.hollywood_north	Hollywood North	hollywood|north	Hollywood|North	NNP|NNP	PERSON|PERSON	|				Hollywood North
+48	2	fb:cell.gillian_stevens	Gillian Stevens	gillian|stevens	Gillian|Stevens	NNP|NNP	PERSON|PERSON	|				Gillian Stevens
+48	3	fb:cell.null										
+49	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+49	1	fb:cell.the_haunted_mansion	The Haunted Mansion	the|haunted|mansion	the|haunt|mansion	DT|VBN|NN	O|O|O	||				The Haunted Mansion
+49	2	fb:cell.madame_leota	Madame Leota	madame|leota	Madame|Leota	NNP|NNP	PERSON|PERSON	|				Madame Leota
+49	3	fb:cell.null										
+50	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+50	1	fb:cell.happy_end	Happy End	happy|end	happy|end	JJ|NN	O|O	|				Happy End
+50	2	fb:cell.edna	Edna	edna	Edna	NNP	PERSON					Edna
+50	3	fb:cell.null										
+51	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+51	1	fb:cell.jericho_mansions	Jericho Mansions	jericho|mansions	Jericho|mansion	NNP|NNS	LOCATION|O	|				Jericho Mansions
+51	2	fb:cell.donna_cherry	Donna Cherry	donna|cherry	Donna|Cherry	NNP|NNP	PERSON|PERSON	|				Donna Cherry
+51	3	fb:cell.null										
+52	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+52	1	fb:cell.second_best	Second Best	second|best	second|best	JJ|JJS	ORDINAL|O	2.0|				Second Best
+52	2	fb:cell.carole	Carole	carole	Carole	NNP	PERSON					Carole
+52	3	fb:cell.null										
+53	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+53	1	fb:cell.perfect_opposites	Perfect Opposites	perfect|opposites	perfect|opposite	JJ|NNS	O|O	|				Perfect Opposites
+53	2	fb:cell.elyse_steinberg	Elyse Steinberg	elyse|steinberg	Elyse|Steinberg	NNP|NNP	PERSON|PERSON	|				Elyse Steinberg
+53	3	fb:cell.null										
+54	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+54	1	fb:cell.home_on_the_range	Home on the Range	home|on|the|range	home|on|the|range	NN|IN|DT|NN	O|O|O|O	|||				Home on the Range
+54	2	fb:cell.grace	Grace	grace	Grace	NNP	PERSON					Grace
+54	3	fb:cell.voice_only	Voice only	voice|only	Voice|only	NNP|RB	O|O	|				Voice only
+55	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+55	1	fb:cell.el_padrino	El Padrino	el|padrino	El|Padrino	NNP|NNP	PERSON|PERSON	|				El Padrino
+55	2	fb:cell.sebeva	Sebeva	sebeva	Sebeva	NNP	PERSON					Sebeva
+55	3	fb:cell.null										
+56	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+56	1	fb:cell.saint_ralph	Saint Ralph	saint|ralph	Saint|Ralph	NNP|NNP	PERSON|PERSON	|				Saint Ralph
+56	2	fb:cell.nurse_alice	Nurse Alice	nurse|alice	nurse|Alice	NN|NNP	O|PERSON	|				Nurse Alice
+56	3	fb:cell.null										
+57	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+57	1	fb:cell.love_on_the_side	Love on the Side	love|on|the|side	love|on|the|side	NN|IN|DT|NN	O|O|O|O	|||				Love on the Side
+57	2	fb:cell.alma_kerns	Alma Kerns	alma|kerns	alma|Kerns	JJ|NNP	PERSON|PERSON	|				Alma Kerns
+57	3	fb:cell.null										
+58	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+58	1	fb:cell.seed_of_chucky	Seed of Chucky	seed|of|chucky	seed|of|Chucky	NN|IN|NNP	O|O|PERSON	||				Seed of Chucky
+58	2	fb:cell.tiffany_herself	Tiffany/Herself	tiffany/herself	tiffany/herself	NN	O					Tiffany|Herself
+58	3	fb:cell.null										
+59	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+59	1	fb:cell.bailey_s_billion	Bailey's Billion$	bailey|'s|billion|$	Bailey|'s|billion|$	NNP|POS|CD|$	PERSON|O|MONEY|MONEY	||$1.0E9|$1.0E9				Bailey's Billion$
+59	2	fb:cell.dolores_pennington	Dolores Pennington	dolores|pennington	Dolores|Pennington	NNP|NNP	PERSON|PERSON	|				Dolores Pennington
+59	3	fb:cell.null										
+60	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+60	1	fb:cell.lil_pimp	Lil' Pimp	lil|'|pimp	Lil|'|pimp	NNP|POS|NN	O|O|O	||				Lil' Pimp
+60	2	fb:cell.miss_de_la_croix	Miss De La Croix	miss|de|la|croix	Miss|de|La|Croix	NNP|FW|NNP|NNP	O|PERSON|PERSON|PERSON	|||				Miss De La Croix
+60	3	fb:cell.voice_only	Voice only	voice|only	Voice|only	NNP|RB	O|O	|				Voice only
+61	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+61	1	fb:cell.the_civilization_of_maxwell_bright	The Civilization of Maxwell Bright	the|civilization|of|maxwell|bright	the|civilization|of|Maxwell|Bright	DT|NN|IN|NNP|NNP	O|O|O|ORGANIZATION|ORGANIZATION	||||				The Civilization of Maxwell Bright
+61	2	fb:cell.dr_o_shannon	Dr. O'Shannon	dr.|o'shannon	Dr.|O'Shannon	NNP|NNP	O|PERSON	|				Dr. O'Shannon
+61	3	fb:cell.null										
+62	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+62	1	fb:cell.tideland	Tideland	tideland	Tideland	NNP	O					Tideland
+62	2	fb:cell.queen_gunhilda	Queen Gunhilda	queen|gunhilda	Queen|Gunhilda	NNP|NNP	PERSON|PERSON	|				Queen Gunhilda
+62	3	fb:cell.null										
+63	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+63	1	fb:cell.the_poker_movie	The Poker Movie	the|poker|movie	the|Poker|movie	DT|NNP|NN	O|O|O	||				The Poker Movie
+63	2	fb:cell.herself	Herself	herself	herself	PRP	O					Herself
+63	3	fb:cell.null										
+64	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+64	1	fb:cell.intervention	Intervention	intervention	intervention	NN	O					Intervention
+64	2	fb:cell.null										
+64	3	fb:cell.null										
+65	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+65	1	fb:cell.deal	Deal	deal	deal	NN	O					Deal
+65	2	fb:cell.karen_razor_jones	Karen 'Razor' Jones	karen|`|razor|'|jones	Karen|`|razor|'|Jones	NNP|``|NN|''|NNP	PERSON|PERSON|PERSON|PERSON|PERSON	||||				Karen 'Razor' Jones
+65	3	fb:cell.null										
+66	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+66	1	fb:cell.the_caretaker	The Caretaker	the|caretaker	the|caretaker	DT|NN	O|MISC	|				The Caretaker
+66	2	fb:cell.miss_perry	Miss Perry	miss|perry	Miss|Perry	NNP|NNP	O|PERSON	|				Miss Perry
+66	3	fb:cell.null										
+67	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+67	1	fb:cell.bart_got_a_room	Bart Got a Room	bart|got|a|room	Bart|get|a|room	NNP|VBD|DT|NN	ORGANIZATION|O|O|O	|||				Bart Got a Room
+67	2	fb:cell.melinda	Melinda	melinda	Melinda	NNP	PERSON					Melinda
+67	3	fb:cell.null										
+68	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+68	1	fb:cell.inconceivable	Inconceivable	inconceivable	inconceivable	JJ	O					Inconceivable
+68	2	fb:cell.salome_sally_marsh	Salome 'Sally' Marsh	salome|`|sally|'|marsh	Salome|`|Sally|'|Marsh	NNP|``|NNP|''|NNP	O|O|PERSON|O|O	||||				Salome 'Sally' Marsh
+68	3	fb:cell.null										
+69	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+69	1	fb:cell.an_american_girl_chrissa_stands_strong	An American Girl: Chrissa Stands Strong	an|american|girl|:|chrissa|stands|strong	a|american|girl|:|Chrissa|stand|strong	DT|JJ|NN|:|NNP|VBZ|JJ	O|MISC|O|O|PERSON|O|O	||||||				An American Girl: Chrissa Stands Strong
+69	2	fb:cell.mrs_rundell	Mrs. Rundell	mrs.|rundell	Mrs.|Rundell	NNP|NNP	O|PERSON	|				Mrs. Rundell
+69	3	fb:cell.null										
+70	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+70	1	fb:cell.imps	Imps	imps	Imps	NNP	O					Imps
+70	2	fb:cell.null										
+70	3	fb:cell.null										
+71	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+71	1	fb:cell.made_in_romania	Made in Romania	made|in|romania	make|in|Romania	VBN|IN|NNP	O|O|LOCATION	||				Made in Romania
+71	2	fb:cell.herself	Herself	herself	herself	PRP	O					Herself
+71	3	fb:cell.null										
+72	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+72	1	fb:cell.empire_of_silver	Empire of Silver	empire|of|silver	empire|of|silver	NN|IN|NN	O|O|O	||				Empire of Silver
+72	2	fb:cell.mrs_landdeck	Mrs. Landdeck	mrs.|landdeck	Mrs.|Landdeck	NNP|NNP	O|PERSON	|				Mrs. Landdeck
+72	3	fb:cell.null										
+73	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+73	1	fb:cell.the_making_of_plus_one	The Making of Plus One	the|making|of|plus|one	the|making|of|plus|one	DT|NN|IN|CC|CD	O|O|O|O|NUMBER	||||1.0				The Making of Plus One
+73	2	fb:cell.amber	Amber	amber	Amber	NNP	O					Amber
+73	3	fb:cell.null										
+74	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+74	1	fb:cell.the_secret_lives_of_dorks	The Secret Lives of Dorks	the|secret|lives|of|dorks	the|secret|life|of|dork	DT|JJ|NNS|IN|NNS	O|O|O|O|O	||||				The Secret Lives of Dorks
+74	2	fb:cell.ms_stewart	Ms. Stewart	ms.|stewart	Ms.|Stewart	NNP|NNP	O|PERSON	|				Ms. Stewart
+74	3	fb:cell.null										
+75	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+75	1	fb:cell.30_beats	30 Beats	30|beats	30|beat	CD|NNS	NUMBER|O	30.0|	30.0			30 Beats
+75	2	fb:cell.erika	Erika	erika	Erika	NNP	PERSON					Erika
+75	3	fb:cell.null										
+76	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+76	1	fb:cell.curse_of_chucky	Curse of Chucky	curse|of|chucky	curse|of|Chucky	NN|IN|NNP	O|O|PERSON	||				Curse of Chucky
+76	2	fb:cell.tiffany_ray	Tiffany Ray	tiffany|ray	Tiffany|Ray	NNP|NNP	PERSON|PERSON	|				Tiffany Ray
+76	3	fb:cell.cameo_direct_to_video	Cameo, Direct-to-video	cameo|,|direct|to|video	cameo|,|direct|to|video	NN|,|JJ|TO|NN	O|O|O|O|O	||||				Cameo|Direct-to-video

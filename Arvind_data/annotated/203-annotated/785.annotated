@@ -1,0 +1,93 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.title	Title	title	title	NN	O					
+-1	2	fb:row.row.role	Role	role	role	NN	O					
+-1	3	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+0	1	fb:cell.flesh_n_blood	Flesh'n Blood	flesh|'n|blood	flesh|'n|blood	NN|CC|NN	O|O|O	||				Flesh'n Blood
+0	2	fb:cell.penelope	Penelope	penelope	Penelope	NNP	PERSON					
+0	3	fb:cell.1_episode	1 episode	1|episode	1|episode	CD|NN	NUMBER|O	1.0|	1.0			1 episode
+1	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+1	1	fb:cell.true_colors	True Colors	true|colors	true|color	JJ|NNS	O|O	|				True Colors
+1	2	fb:cell.lorae	Lorae	lorae	lorae	FW	PERSON					
+1	3	fb:cell.1_episode	1 episode	1|episode	1|episode	CD|NN	NUMBER|O	1.0|	1.0			1 episode
+2	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+2	1	fb:cell.the_all_new_mickey_mouse_mmc	The All-New Mickey Mouse (MMC)	the|all|new|mickey|mouse|-lrb-|mmc|-rrb-	the|all|new|Mickey|mouse|-lrb-|mmc|-rrb-	DT|DT|JJ|NNP|NN|-LRB-|NN|-RRB-	O|O|O|PERSON|PERSON|O|O|O	|||||||				The All-New Mickey Mouse (MMC)
+2	2	fb:cell.herself	Herself	herself	herself	PRP	O					
+2	3	fb:cell.1_episode	1 episode	1|episode	1|episode	CD|NN	NUMBER|O	1.0|	1.0			1 episode
+3	0	fb:cell.1994_1999	1994–1999	1994|--|1999	1994|--|1999	CD|:|CD	DATE|O|DATE	1994||1999	1994.0		1999.0	
+3	1	fb:cell.sister_sister	Sister, Sister	sister|,|sister	sister|,|sister	NN|,|NN	O|O|O	||				Sister|Sister
+3	2	fb:cell.tamera_campbell	Tamera Campbell	tamera|campbell	Tamera|Campbell	NNP|NNP	PERSON|PERSON	|				
+3	3	fb:cell.119_episodes	119 episodes	119|episodes	119|episode	CD|NNS	NUMBER|O	119.0|	119.0			119 episodes
+4	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+4	1	fb:cell.are_you_afraid_of_the_dark	Are You Afraid of the Dark?	are|you|afraid|of|the|dark|?	be|you|afraid|of|the|dark|?	VBD-AUX|PRP|JJ|IN|DT|NN|.	O|O|O|O|O|O|O	||||||				Are You Afraid of the Dark?
+4	2	fb:cell.evil_chameleon	Evil Chameleon	evil|chameleon	evil|chameleon	JJ|NN	O|O	|				
+4	3	fb:cell.1_episode	1 episode	1|episode	1|episode	CD|NN	NUMBER|O	1.0|	1.0			1 episode
+5	0	fb:cell.1995_1996	1995–1996	1995|--|1996	1995|--|1996	CD|:|CD	DATE|O|DATE	1995||1996	1995.0		1996.0	
+5	1	fb:cell.the_adventures_of_hyperman	The Adventures of Hyperman	the|adventures|of|hyperman	the|adventure|of|hyperman	DT|NNS|IN|NN	O|O|O|O	|||				The Adventures of Hyperman
+5	2	fb:cell.emma_c_squared	Emma C. Squared	emma|c.|squared	Emma|C.|square	NNP|NNP|VBD	PERSON|PERSON|PERSON	||				
+5	3	fb:cell.8_episodes	8 episodes	8|episodes	8|episode	CD|NNS	NUMBER|O	8.0|	8.0			8 episodes
+6	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+6	1	fb:cell.all_that	All That	all|that	all|that	DT|IN	O|O	|				All That
+6	2	fb:cell.herself	Herself	herself	herself	PRP	O					
+6	3	fb:cell.null										
+7	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+7	1	fb:cell.smart_guy	Smart Guy	smart|guy	smart|guy	JJ|NN	PERSON|PERSON	|				Smart Guy
+7	2	fb:cell.roxanne	Roxanne	roxanne	Roxanne	NNP	PERSON					
+7	3	fb:cell.1_episode	1 episode	1|episode	1|episode	CD|NN	NUMBER|O	1.0|	1.0			1 episode
+8	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+8	1	fb:cell.blues_clues	Blues Clues	blues|clues	Blues|clue	NNP|NNS	O|O	|				Blues Clues
+8	2	fb:cell.herself	Herself	herself	herself	PRP	O					
+8	3	fb:cell.1_episode	1 episode	1|episode	1|episode	CD|NN	NUMBER|O	1.0|	1.0			1 episode
+9	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+9	1	fb:cell.detention	Detention	detention	detention	NN	O					Detention
+9	2	fb:cell.orangejella_labelle	Orangejella LaBelle	orangejella|labelle	Orangejella|LaBelle	NNP|NNP	PERSON|PERSON	|				
+9	3	fb:cell.13_episodes	13 episodes	13|episodes	13|episode	CD|NNS	NUMBER|O	13.0|	13.0			13 episodes
+10	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+10	1	fb:cell.how_i_loved_a_macho_boy	How I Loved a Macho Boy	how|i|loved|a|macho|boy	how|I|love|a|macho|boy	WRB|PRP|VBD|DT|JJ|NN	O|O|O|O|O|O	|||||				How I Loved a Macho Boy
+10	2	fb:cell.jamal_santos	Jamal Santos	jamal|santos	Jamal|Santos	NNP|NNP	PERSON|PERSON	|				
+10	3	fb:cell.3_episodes	3 episodes	3|episodes	3|episode	CD|NNS	NUMBER|O	3.0|	3.0			3 episodes
+11	0	fb:cell.2004_2006	2004–2006	2004|--|2006	2004|--|2006	CD|:|CD	DATE|O|DATE	2004||2006	2004.0		2006.0	
+11	1	fb:cell.strong_medicine	Strong Medicine	strong|medicine	strong|medicine	JJ|NN	O|O	|				Strong Medicine
+11	2	fb:cell.dr_kayla_thorton	Dr. Kayla Thorton	dr.|kayla|thorton	Dr.|Kayla|Thorton	NNP|NNP|NNP	O|PERSON|PERSON	||				
+11	3	fb:cell.37_episodes	37 episodes	37|episodes	37|episode	CD|NNS	NUMBER|O	37.0|	37.0			37 episodes
+12	0	fb:cell.2006_2007	2006–2007	2006|--|2007	2006|--|2007	CD|:|CD	DATE|O|DATE	2006||2007	2006.0		2007.0	
+12	1	fb:cell.family_guy	Family Guy	family|guy	family|guy	NN|NN	O|O	|				Family Guy
+12	2	fb:cell.esther	Esther	esther	Esther	NNP	PERSON					
+12	3	fb:cell.voice_3_episodes	Voice\n3 episodes	voice|3|episodes	Voice|3|episode	NNP|CD|NNS	ORGANIZATION|NUMBER|O	|3.0|	3.0			Voice|3 episodes
+13	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+13	1	fb:cell.roommates	Roommates	roommates	roommate	NNS	O					Roommates
+13	2	fb:cell.hope	Hope	hope	hope	NN	O					
+13	3	fb:cell.13_episodes	13 episodes	13|episodes	13|episode	CD|NNS	NUMBER|O	13.0|	13.0			13 episodes
+14	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+14	1	fb:cell.the_super_hero_squad_show	The Super Hero Squad Show	the|super|hero|squad|show	the|super|hero|squad|show	DT|JJ|NN|NN|NN	O|O|O|O|O	||||				The Super Hero Squad Show
+14	2	fb:cell.misty_knight	Misty Knight	misty|knight	misty|knight	JJ|NN	O|O	|				
+14	3	fb:cell.1_episode	1 episode	1|episode	1|episode	CD|NN	NUMBER|O	1.0|	1.0			1 episode
+15	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+15	1	fb:cell.things_we_do_for_love	Things We Do for Love	things|we|do|for|love	thing|we|do|for|love	NNS|PRP|VBD-AUX|IN|NN	O|O|O|O|O	||||				Things We Do for Love
+15	2	fb:cell.lourdes	Lourdes	lourdes	Lourdes	NNP	PERSON					
+15	3	fb:cell.5_episodes	5 episodes	5|episodes	5|episode	CD|NNS	NUMBER|O	5.0|	5.0			5 episodes
+16	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+16	1	fb:cell.access_hollywood_live	Access Hollywood Live	access|hollywood|live	access|Hollywood|live	NN|NNP|VB	O|LOCATION|O	||				Access Hollywood Live
+16	2	fb:cell.herself	Herself	herself	herself	PRP	O					
+16	3	fb:cell.co_host	Co-host	co|host	Co|host	NNP|NNP	O|O	|				Co-host
+17	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+17	1	fb:cell.chrisjayify	CHRISJayify	chrisjayify	CHRISJayify	NNP	PERSON					CHRISJayify
+17	2	fb:cell.herself	Herself	herself	herself	PRP	O					
+17	3	fb:cell.episode_drugs_are_bad	Episode: "Drugs Are Bad"	episode|:|``|drugs|are|bad|''	episode|:|``|drug|be|bad|''	NN|:|``|NNS|VBD-AUX|JJ|''	O|O|O|O|O|O|O	||||||				Episode: "Drugs Are Bad"
+18	0	fb:cell.2011_2013	2011–2013	2011|--|2013	2011|--|2013	CD|:|CD	DATE|O|DATE	2011||2013	2011.0		2013.0	
+18	1	fb:cell.tia_tamera	Tia & Tamera	tia|&|tamera	Tia|&|Tamera	NNP|CC|NNP	PERSON|O|PERSON	||				Tia & Tamera
+18	2	fb:cell.herself	Herself	herself	herself	PRP	O					
+18	3	fb:cell.executive_producer	Executive producer	executive|producer	executive|producer	NN|NN	O|O	|				Executive producer
+19	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+19	1	fb:cell.christmas_angel	Christmas Angel	christmas|angel	Christmas|Angel	NNP|NNP	DATE|O	XXXX-12-25|				Christmas Angel
+19	2	fb:cell.daphney	Daphney	daphney	Daphney	NNP	PERSON					
+19	3	fb:cell.null										
+20	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+20	1	fb:cell.the_real	The Real	the|real	the|real	DT|JJ	O|O	|				The Real
+20	2	fb:cell.herself	Herself	herself	herself	PRP	O					
+20	3	fb:cell.host	Host	host	host	NN	O					Host
+21	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+21	1	fb:cell.melissa_and_joey	Melissa and Joey	melissa|and|joey	Melissa|and|Joey	NNP|CC|NNP	PERSON|O|PERSON	||				Melissa and Joey
+21	2	fb:cell.gillian	Gillian	gillian	Gillian	NNP	PERSON					
+21	3	fb:cell.season_3_episode_24_to_tell_the_truth	Season 3 Episode 24 'To Tell the Truth'	season|3|episode|24|`|to|tell|the|truth|'	season|3|episode|24|`|to|tell|the|truth|'	NN|CD|NN|CD|``|TO|VB|DT|NN|''	O|NUMBER|O|NUMBER|O|O|O|O|O|O	|3.0||24.0||||||	3.0		24.0	Season 3 Episode 24 'To Tell the Truth'

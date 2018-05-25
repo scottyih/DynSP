@@ -1,0 +1,85 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.title	Title	title	title	NN	O					
+-1	2	fb:row.row.role	Role	role	role	NN	O					
+-1	3	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.1982	1982	1982	1982	CD	DATE	1982	1982.0	1982-xx-xx		
+0	1	fb:cell.murder_by_phone	Murder by Phone	murder|by|phone	murder|by|phone	NN|IN|NN	O|O|O	||				Murder by Phone
+0	2	fb:cell.teenage_girl	Teenage Girl	teenage|girl	teenage|girl	JJ|NN	O|O	|				Teenage Girl
+0	3	fb:cell.null										
+1	0	fb:cell.1985	1985	1985	1985	CD	DATE	1985	1985.0	1985-xx-xx		
+1	1	fb:cell.reckless_disregard	Reckless Disregard	reckless|disregard	reckless|disregard	JJ|NN	O|O	|				Reckless Disregard
+1	2	fb:cell.sandy	Sandy	sandy	Sandy	NNP	PERSON					Sandy
+1	3	fb:cell.tv_movie	TV movie	tv|movie	tv|movie	NN|NN	O|O	|				
+2	0	fb:cell.1985	1985	1985	1985	CD	DATE	1985	1985.0	1985-xx-xx		
+2	1	fb:cell.anne_of_green_gables	Anne of Green Gables	anne|of|green|gables	Anne|of|Green|Gables	NNP|IN|NNP|NNP	PERSON|O|LOCATION|LOCATION	|||				Anne of Green Gables
+2	2	fb:cell.alice_lawson	Alice Lawson	alice|lawson	Alice|Lawson	NNP|NNP	PERSON|PERSON	|				Alice Lawson
+2	3	fb:cell.tv_movie	TV movie	tv|movie	tv|movie	NN|NN	O|O	|				
+3	0	fb:cell.1985	1985	1985	1985	CD	DATE	1985	1985.0	1985-xx-xx		
+3	1	fb:cell.perry_mason_returns	Perry Mason Returns	perry|mason|returns	Perry|Mason|return	NNP|NNP|NNS	PERSON|PERSON|O	||				Perry Mason Returns
+3	2	fb:cell.salesgirl	Salesgirl	salesgirl	salesgirl	NN	O					Salesgirl
+3	3	fb:cell.tv_movie	TV movie	tv|movie	tv|movie	NN|NN	O|O	|				
+4	0	fb:cell.1986	1986	1986	1986	CD	DATE	1986	1986.0	1986-xx-xx		
+4	1	fb:cell.perry_mason_the_case_of_the_shooting_star	Perry Mason: The Case of the Shooting Star	perry|mason|:|the|case|of|the|shooting|star	Perry|Mason|:|the|case|of|the|shooting|star	NNP|NNP|:|DT|NN|IN|DT|NN|NN	PERSON|PERSON|O|O|O|O|O|O|O	||||||||				Perry Mason: The Case of the Shooting Star
+4	2	fb:cell.null										
+4	3	fb:cell.tv_movie	TV movie	tv|movie	tv|movie	NN|NN	O|O	|				
+5	0	fb:cell.1986	1986	1986	1986	CD	DATE	1986	1986.0	1986-xx-xx		
+5	1	fb:cell.alex_the_life_of_a_child	Alex: The Life of a Child	alex|:|the|life|of|a|child	Alex|:|the|life|of|a|child	NNP|:|DT|NN|IN|DT|NN	PERSON|O|O|O|O|O|O	||||||				Alex: The Life of a Child
+5	2	fb:cell.jane	Jane	jane	Jane	NNP	PERSON					Jane
+5	3	fb:cell.tv_movie	TV movie	tv|movie	tv|movie	NN|NN	O|O	|				
+6	0	fb:cell.1987	1987	1987	1987	CD	DATE	1987	1987.0	1987-xx-xx		
+6	1	fb:cell.smith_smith_s_comedy_mill	Smith & Smith's Comedy Mill	smith|&|smith|'s|comedy|mill	Smith|&|Smith|'s|comedy|mill	NNP|CC|NNP|POS|NN|NN	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O	|||||				Smith & Smith's Comedy Mill
+6	2	fb:cell.null										
+6	3	fb:cell.tv_series	TV series	tv|series	TV|series	NNP|NNP	O|O	|				
+7	0	fb:cell.1987	1987	1987	1987	CD	DATE	1987	1987.0	1987-xx-xx		
+7	1	fb:cell.deep_sea_conspiracy	Deep Sea Conspiracy	deep|sea|conspiracy	Deep|Sea|Conspiracy	NNP|NNP|NNP	O|O|O	||				Deep Sea Conspiracy
+7	2	fb:cell.nurse	Nurse	nurse	nurse	NN	O					Nurse
+7	3	fb:cell.null										
+8	0	fb:cell.1987	1987	1987	1987	CD	DATE	1987	1987.0	1987-xx-xx		
+8	1	fb:cell.amerika	Amerika	amerika	Amerika	NNP	PERSON					Amerika
+8	2	fb:cell.sally_vfa	Sally, VFA	sally|,|vfa	Sally|,|VFA	NNP|,|NNP	PERSON|O|ORGANIZATION	||				Sally|VFA
+8	3	fb:cell.tv_mini_series	TV mini-series	tv|mini|series	tv|minus|series	NN|NNS|NN	O|O|O	||				
+9	0	fb:cell.1987	1987	1987	1987	CD	DATE	1987	1987.0	1987-xx-xx		
+9	1	fb:cell.anne_of_avonlea	Anne of Avonlea	anne|of|avonlea	Anne|of|Avonlea	NNP|IN|NNP	PERSON|PERSON|PERSON	||				Anne of Avonlea
+9	2	fb:cell.alice_lawson	Alice Lawson	alice|lawson	Alice|Lawson	NNP|NNP	PERSON|PERSON	|				Alice Lawson
+9	3	fb:cell.tv_movie	TV movie	tv|movie	tv|movie	NN|NN	O|O	|				
+10	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+10	1	fb:cell.looking_for_miracles	Looking for Miracles	looking|for|miracles	look|for|miracle	VBG|IN|NNS	O|O|O	||				Looking for Miracles
+10	2	fb:cell.nurse_blanche	Nurse Blanche	nurse|blanche	nurse|Blanche	NN|NNP	O|PERSON	|				Nurse Blanche
+10	3	fb:cell.tv_movie	TV movie	tv|movie	tv|movie	NN|NN	O|O	|				
+11	0	fb:cell.1990_1996	1990–1996	1990|--|1996	1990|--|1996	CD|:|CD	DATE|O|DATE	1990||1996	1990.0		1996.0	
+11	1	fb:cell.road_to_avonlea	Road to Avonlea	road|to|avonlea	road|to|Avonlea	NN|TO|NNP	O|O|O	||				Road to Avonlea
+11	2	fb:cell.olivia_king_dale	Olivia King Dale	olivia|king|dale	Olivia|King|Dale	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Olivia King Dale
+11	3	fb:cell.91_episodes	91 episodes	91|episodes	91|episode	CD|NNS	NUMBER|O	91.0|	91.0			
+12	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+12	1	fb:cell.a_stranger_in_the_family	A Stranger in the Family	a|stranger|in|the|family	a|stranger|in|the|family	DT|NN|IN|DT|NN	O|O|O|O|O	||||				A Stranger in the Family
+12	2	fb:cell.mrs_kessler	Mrs. Kessler	mrs.|kessler	Mrs.|Kessler	NNP|NNP	O|PERSON	|				Mrs. Kessler
+12	3	fb:cell.tv_movie	TV movie	tv|movie	tv|movie	NN|NN	O|O	|				
+13	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+13	1	fb:cell.goosebumps	Goosebumps	goosebumps	Goosebumps	NNP	O					Goosebumps
+13	2	fb:cell.mrs_mathews	Mrs. Mathews	mrs.|mathews	Mrs.|Mathews	NNP|NNP	O|PERSON	|				Mrs. Mathews
+13	3	fb:cell.episode_attack_of_the_mutant	Episode: "Attack of the Mutant"	episode|:|``|attack|of|the|mutant|''	episode|:|``|attack|of|the|mutant|''	NN|:|``|NN|IN|DT|NN|''	O|O|O|O|O|O|O|O	|||||||				
+14	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+14	1	fb:cell.happy_christmas_miss_king	Happy Christmas, Miss King	happy|christmas|,|miss|king	happy|Christmas|,|Miss|King	JJ|NNP|,|NNP|NNP	O|DATE|O|O|O	|XXXX-12-25|||				Happy Christmas|Miss King
+14	2	fb:cell.olivia_dale	Olivia Dale	olivia|dale	Olivia|Dale	NNP|NNP	PERSON|PERSON	|				Olivia Dale
+14	3	fb:cell.tv_movie	TV movie	tv|movie	tv|movie	NN|NN	O|O	|				
+15	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+15	1	fb:cell.shadow_lake	Shadow Lake	shadow|lake	Shadow|Lake	NNP|NNP	O|O	|				Shadow Lake
+15	2	fb:cell.louise_garby	Louise Garby	louise|garby	Louise|Garby	NNP|NNP	PERSON|PERSON	|				Louise Garby
+15	3	fb:cell.tv_movie	TV movie	tv|movie	tv|movie	NN|NN	O|O	|				
+16	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+16	1	fb:cell.my_grandmother_ironed_the_king_s_shirts	My Grandmother Ironed the King's Shirts	my|grandmother|ironed|the|king|'s|shirts	my|grandmother|iron|the|king|'s|shirt	PRP$|NN|VBD|DT|NN|POS|NNS	O|O|O|O|O|O|O	||||||				My Grandmother Ironed the King's Shirts
+16	2	fb:cell.narrator_voice	Narrator (voice)	narrator|-lrb-|voice|-rrb-	narrator|-lrb-|voice|-rrb-	NN|-LRB-|NN|-RRB-	O|O|O|O	|||				Narrator (voice)
+16	3	fb:cell.animated_short	Animated short	animated|short	animated|short	JJ|JJ	O|O	|				
+17	0	fb:cell.2000_2001	2000–2001	2000|--|2001	2000|--|2001	CD|:|CD	DATE|O|DATE	2000||2001	2000.0		2001.0	
+17	1	fb:cell.timothy_goes_to_school	Timothy Goes to School	timothy|goes|to|school	Timothy|go|to|school	NNP|VBZ|TO|NN	PERSON|O|O|O	|||				Timothy Goes to School
+17	2	fb:cell.lilly_voice	Lilly (voice)	lilly|-lrb-|voice|-rrb-	Lilly|-lrb-|voice|-rrb-	NNP|-LRB-|NNP|-RRB-	PERSON|O|O|O	|||				Lilly (voice)
+17	3	fb:cell.series_regular	Series regular	series|regular	Series|regular	NNP|JJ	O|O	|				
+18	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+18	1	fb:cell.bonded_pairs	Bonded Pairs	bonded|pairs	bond|pair	VBN|NNS	O|O	|				Bonded Pairs
+18	2	fb:cell.herself	Herself	herself	herself	PRP	O					Herself
+18	3	fb:cell.short_film	Short film	short|film	short|film	JJ|NN	O|O	|				
+19	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+19	1	fb:cell.the_being_frank_show	The Being Frank Show	the|being|frank|show	the|be|Frank|Show	DT|VBG|NNP|NNP	O|O|O|O	|||				The Being Frank Show
+19	2	fb:cell.null										
+19	3	fb:cell.episode_1_11	Episode: "1.11"	episode|:|``|1.11|''	episode|:|``|1.11|''	NN|:|``|CD|''	O|O|O|NUMBER|O	|||1.11|	1.11			

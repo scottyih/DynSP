@@ -1,0 +1,115 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.host_location	Host / Location	host|/|location	host|/|location	NN|:|NN	O|O|O	||				
+-1	2	fb:row.row.division_i_overall	Division I Overall	division|i|overall	division|I|overall	NN|PRP|RB	O|O|O	||				
+-1	3	fb:row.row.division_i_undergraduate	Division I Undergraduate	division|i|undergraduate	division|I|undergraduate	NN|PRP|JJ	O|O|O	||				
+-1	4	fb:row.row.division_ii_overall	Division II Overall	division|ii|overall	division|ii|overall	NN|CD|JJ	O|NUMBER|O	|0.0|				
+-1	5	fb:row.row.division_ii_community_college	Division II Community College	division|ii|community|college	division|ii|community|college	NN|CD|NN|NN	O|NUMBER|O|O	|0.0||				
+0	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+0	1	fb:cell.penn	Penn	penn	Penn	NNP	PERSON					Penn
+0	2	fb:cell.chicago	Chicago	chicago	Chicago	NNP	LOCATION					Chicago
+0	3	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+0	4	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+0	5	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+1	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+1	1	fb:cell.vanderbilt	Vanderbilt	vanderbilt	Vanderbilt	NNP	PERSON					Vanderbilt
+1	2	fb:cell.stanford	Stanford	stanford	Stanford	NNP	ORGANIZATION					Stanford
+1	3	fb:cell.swarthmore	Swarthmore	swarthmore	Swarthmore	NNP	PERSON					Swarthmore
+1	4	fb:cell.harvard	Harvard	harvard	Harvard	NNP	ORGANIZATION					Harvard
+1	5	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+2	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+2	1	fb:cell.michigan	Michigan	michigan	Michigan	NNP	LOCATION					Michigan
+2	2	fb:cell.chicago	Chicago	chicago	Chicago	NNP	LOCATION					Chicago
+2	3	fb:cell.carleton	Carleton	carleton	Carleton	NNP	PERSON					Carleton
+2	4	fb:cell.princeton	Princeton	princeton	Princeton	NNP	PERSON					Princeton
+2	5	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+3	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+3	1	fb:cell.boston_u	Boston U	boston|u	Boston|U	NNP|NNP	LOCATION|O	|				Boston U
+3	2	fb:cell.illinois	Illinois	illinois	Illinois	NNP	LOCATION					Illinois
+3	3	fb:cell.princeton	Princeton	princeton	Princeton	NNP	PERSON					Princeton
+3	4	fb:cell.harvard	Harvard	harvard	Harvard	NNP	ORGANIZATION					Harvard
+3	5	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+4	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+4	1	fb:cell.washington_st_louis	Washington, St. Louis	washington|,|st.|louis	Washington|,|St.|Louis	NNP|,|NNP|NNP	LOCATION|O|LOCATION|LOCATION	|||				Washington|St. Louis
+4	2	fb:cell.chicago	Chicago	chicago	Chicago	NNP	LOCATION					Chicago
+4	3	fb:cell.princeton	Princeton	princeton	Princeton	NNP	PERSON					Princeton
+4	4	fb:cell.pittsburgh	Pittsburgh	pittsburgh	Pittsburgh	NNP	LOCATION					Pittsburgh
+4	5	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+5	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+5	1	fb:cell.north_carolina	North Carolina	north|carolina	North|Carolina	NNP|NNP	LOCATION|LOCATION	|				North Carolina
+5	2	fb:cell.michigan	Michigan	michigan	Michigan	NNP	LOCATION					Michigan
+5	3	fb:cell.princeton	Princeton	princeton	Princeton	NNP	PERSON					Princeton
+5	4	fb:cell.yale	Yale	yale	Yale	NNP	ORGANIZATION					Yale
+5	5	fb:cell.valencia_cc	Valencia CC	valencia|cc	Valencia|cc	NNP|NN	LOCATION|O	|				Valencia CC
+6	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+6	1	fb:cell.ucla_and_caltech	UCLA and Caltech	ucla|and|caltech	UCLA|and|Caltech	NNP|CC|NNP	ORGANIZATION|O|PERSON	||				UCLA and Caltech
+6	2	fb:cell.chicago	Chicago	chicago	Chicago	NNP	LOCATION					Chicago
+6	3	fb:cell.harvard	Harvard	harvard	Harvard	NNP	ORGANIZATION					Harvard
+6	4	fb:cell.berkeley	Berkeley	berkeley	Berkeley	NNP	LOCATION					Berkeley
+6	5	fb:cell.valencia_cc	Valencia CC	valencia|cc	Valencia|cc	NNP|NN	LOCATION|O	|				Valencia CC
+7	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+7	1	fb:cell.washington_st_louis	Washington, St. Louis	washington|,|st.|louis	Washington|,|St.|Louis	NNP|,|NNP|NNP	LOCATION|O|LOCATION|LOCATION	|||				Washington|St. Louis
+7	2	fb:cell.cal_berkeley	Cal-Berkeley	cal|berkeley	Cal|Berkeley	NNP|NNP	PERSON|PERSON	|				
+7	3	fb:cell.illinois	Illinois	illinois	Illinois	NNP	LOCATION					Illinois
+7	4	fb:cell.ucla	UCLA	ucla	UCLA	NNP	ORGANIZATION					UCLA
+7	5	fb:cell.valencia_cc	Valencia CC	valencia|cc	Valencia|cc	NNP|NN	LOCATION|O	|				Valencia CC
+8	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+8	1	fb:cell.tulane	Tulane	tulane	Tulane	NNP	PERSON					Tulane
+8	2	fb:cell.michigan	Michigan	michigan	Michigan	NNP	LOCATION					Michigan
+8	3	fb:cell.va_commonwealth	VA Commonwealth	va|commonwealth	VA|Commonwealth	NNP|NNP	ORGANIZATION|ORGANIZATION	|				VA Commonwealth
+8	4	fb:cell.chicago	Chicago	chicago	Chicago	NNP	LOCATION					Chicago
+8	5	fb:cell.faulkner_st_cc	Faulkner St CC	faulkner|st|cc	Faulkner|St|cc	NNP|NNP|NN	PERSON|O|O	||				Faulkner St CC
+9	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+9	1	fb:cell.maryland	Maryland	maryland	Maryland	NNP	LOCATION					Maryland
+9	2	fb:cell.cal_berkeley	Cal-Berkeley	cal|berkeley	Cal|Berkeley	NNP|NNP	PERSON|PERSON	|				
+9	3	fb:cell.williams_college	Williams College	williams|college	Williams|College	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Williams College
+9	4	fb:cell.stanford	Stanford	stanford	Stanford	NNP	ORGANIZATION					Stanford
+9	5	fb:cell.broward_cc	Broward CC	broward|cc	Broward|cc	NNP|NN	PERSON|PERSON	|				Broward CC
+10	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+10	1	fb:cell.minnesota	Minnesota	minnesota	Minnesota	NNP	LOCATION					Minnesota
+10	2	fb:cell.chicago	Chicago	chicago	Chicago	NNP	LOCATION					Chicago
+10	3	fb:cell.carleton	Carleton	carleton	Carleton	NNP	PERSON					Carleton
+10	4	fb:cell.maryland	Maryland	maryland	Maryland	NNP	LOCATION					Maryland
+10	5	fb:cell.valencia_cc	Valencia CC	valencia|cc	Valencia|cc	NNP|NN	LOCATION|O	|				Valencia CC
+11	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+11	1	fb:cell.washington_st_louis	Washington, St. Louis	washington|,|st.|louis	Washington|,|St.|Louis	NNP|,|NNP|NNP	LOCATION|O|LOCATION|LOCATION	|||				Washington|St. Louis
+11	2	fb:cell.maryland	Maryland	maryland	Maryland	NNP	LOCATION					Maryland
+11	3	fb:cell.harvard	Harvard	harvard	Harvard	NNP	ORGANIZATION					Harvard
+11	4	fb:cell.carleton	Carleton	carleton	Carleton	NNP	PERSON					Carleton
+11	5	fb:cell.valencia_cc	Valencia CC	valencia|cc	Valencia|cc	NNP|NN	LOCATION|O	|				Valencia CC
+12	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+12	1	fb:cell.dallas_texas	Dallas, Texas	dallas|,|texas	Dallas|,|Texas	NNP|,|NNP	LOCATION|O|LOCATION	||				Dallas|Texas
+12	2	fb:cell.chicago	Chicago	chicago	Chicago	NNP	LOCATION					Chicago
+12	3	fb:cell.minnesota	Minnesota	minnesota	Minnesota	NNP	LOCATION					Minnesota
+12	4	fb:cell.chicago	Chicago	chicago	Chicago	NNP	LOCATION					Chicago
+12	5	fb:cell.northeast_alabama_cc	Northeast Alabama CC	northeast|alabama|cc	Northeast|Alabama|cc	NNP|NNP|NN	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Northeast Alabama CC
+13	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+13	1	fb:cell.chicago_illinois	Chicago, Illinois	chicago|,|illinois	Chicago|,|Illinois	NNP|,|NNP	LOCATION|O|LOCATION	||				Chicago|Illinois
+13	2	fb:cell.chicago	Chicago	chicago	Chicago	NNP	LOCATION					Chicago
+13	3	fb:cell.minnesota	Minnesota	minnesota	Minnesota	NNP	LOCATION					Minnesota
+13	4	fb:cell.brown	Brown	brown	Brown	NNP	PERSON					Brown
+13	5	fb:cell.st_charles_cc	St. Charles CC	st.|charles|cc	St.|Charles|cc	NNP|NNP|NN	PERSON|PERSON|PERSON	||				St. Charles CC
+14	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+14	1	fb:cell.chicago_illinois	Chicago, Illinois	chicago|,|illinois	Chicago|,|Illinois	NNP|,|NNP	LOCATION|O|LOCATION	||				Chicago|Illinois
+14	2	fb:cell.minnesota	Minnesota	minnesota	Minnesota	NNP	LOCATION					Minnesota
+14	3	fb:cell.vcu	VCU	vcu	VCU	NNP	PERSON					VCU
+14	4	fb:cell.yale	Yale	yale	Yale	NNP	ORGANIZATION					Yale
+14	5	fb:cell.chipola	Chipola	chipola	Chipola	NNP	LOCATION					Chipola
+15	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+15	1	fb:cell.chicago_illinois	Chicago, Illinois	chicago|,|illinois	Chicago|,|Illinois	NNP|,|NNP	LOCATION|O|LOCATION	||				Chicago|Illinois
+15	2	fb:cell.virginia	Virginia	virginia	Virginia	NNP	LOCATION					
+15	3	fb:cell.ohio_state	Ohio State	ohio|state	Ohio|State	NNP|NNP	LOCATION|O	|				Ohio State
+15	4	fb:cell.harvard	Harvard	harvard	Harvard	NNP	ORGANIZATION					Harvard
+15	5	fb:cell.chipola	Chipola	chipola	Chipola	NNP	LOCATION					Chipola
+16	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+16	1	fb:cell.chicago_illinois	Chicago, Illinois	chicago|,|illinois	Chicago|,|Illinois	NNP|,|NNP	LOCATION|O|LOCATION	||				Chicago|Illinois
+16	2	fb:cell.yale	Yale	yale	Yale	NNP	ORGANIZATION					Yale
+16	3	fb:cell.ohio_state	Ohio State	ohio|state	Ohio|State	NNP|NNP	LOCATION|O	|				Ohio State
+16	4	fb:cell.stanford	Stanford	stanford	Stanford	NNP	ORGANIZATION					Stanford
+16	5	fb:cell.chipola	Chipola	chipola	Chipola	NNP	LOCATION					Chipola
+17	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+17	1	fb:cell.chicago_illinois	Chicago, Illinois	chicago|,|illinois	Chicago|,|Illinois	NNP|,|NNP	LOCATION|O|LOCATION	||				Chicago|Illinois
+17	2	fb:cell.virginia	Virginia	virginia	Virginia	NNP	LOCATION					
+17	3	fb:cell.yale	Yale	yale	Yale	NNP	ORGANIZATION					Yale
+17	4	fb:cell.harvard	Harvard	harvard	Harvard	NNP	ORGANIZATION					Harvard
+17	5	fb:cell.valencia	Valencia	valencia	Valencia	NNP	LOCATION					Valencia

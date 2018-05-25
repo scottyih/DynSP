@@ -1,0 +1,129 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.lower_mississippi_periods	Lower Mississippi Periods	lower|mississippi|periods	lower|Mississippi|period	JJR|NNP|NNS	O|LOCATION|O	||				
+-1	1	fb:row.row.lower_yazoo_phases	Lower Yazoo Phases	lower|yazoo|phases	lower|Yazoo|phase	JJR|NNP|NNS	O|O|O	||				
+-1	2	fb:row.row.lower_yazoo_dates	Lower Yazoo\nDates	lower|yazoo|dates	lower|yazoo|date	JJR|NN|NNS	O|LOCATION|O	||				
+-1	3	fb:row.row.tensas_natchez_phases	Tensas/Natchez Phases	tensas/natchez|phases	Tensas/Natchez|phase	NNP|NNS	O|O	|				
+-1	4	fb:row.row.cahokia_phases	Cahokia Phases	cahokia|phases	Cahokia|phase	NNP|NNS	LOCATION|O	|				
+-1	5	fb:row.row.cahokia_dates	Cahokia Dates	cahokia|dates	Cahokia|date	NNP|NNS	LOCATION|O	|				
+-1	6	fb:row.row.ohio_miss_river_confluence_phases	Ohio/Miss. River\nConfluence Phases	ohio/miss|.|river|confluence|phases	Ohio/Miss|.|River|confluence|phase	NNP|.|NNP|NN|NNS	O|O|O|O|O	||||				
+-1	7	fb:row.row.ohio_miss_dates	Ohio/Miss. Dates	ohio/miss|.|dates	Ohio/Miss|.|date	NNP|.|NNS	O|O|O	||				
+0	0	fb:cell.historic	Historic	historic	historic	JJ	O					Historic
+0	1	fb:cell.russell	Russell	russell	Russell	NNP	PERSON					Russell
+0	2	fb:cell.1650_1750_ce	1650–1750 CE	1650|--|1750|ce	1650|--|1750|CE	CD|:|CD|NNP	DATE|O|DATE|O	1650||1750|	1650.0		1750.0	
+0	3	fb:cell.tensas_natchez	Tensas / Natchez	tensas|/|natchez	Tensas|/|Natchez	NNP|:|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Tensas|Natchez
+0	4	fb:cell.vacant_quarter	Vacant\nQuarter	vacant|quarter	vacant|quarter	JJ|NN	O|O	|				Vacant|Quarter
+0	5	fb:cell.1350_ce_european_contact	1350 CE -\nEuropean Contact	1350|ce|-|european|contact	1350|ce|-|european|contact	CD|SYM|:|JJ|NN	DATE|O|O|MISC|O	1350||||	1350.0			1350 CE -|European Contact
+0	6	fb:cell.jackson	Jackson	jackson	Jackson	NNP	PERSON					Jackson
+0	7	fb:cell.1500_1650_ce	1500-1650 CE	1500-1650|ce	1500-1650|ce	CD|NN	DURATION|O	PT1314888H|	1500.0		1650.0	1500-1650 CE
+1	0	fb:cell.plaquemine_mississippian_culture_late_plaquemine_mississippian_middle_plaquemine_mississippian_early_plaquemine_mississippian	Plaquemine Mississippian culture\nLate Plaquemine/Mississippian\nMiddle Plaquemine/Mississippian\nEarly Plaquemine/Mississippian	plaquemine|mississippian|culture|late|plaquemine/mississippian|middle|plaquemine/mississippian|early|plaquemine/mississippian	Plaquemine|Mississippian|culture|late|plaquemine/mississippian|middle|plaquemine/mississippian|early|plaquemine/mississippian	NNP|NNP|NN|RB|JJ|JJ|JJ|JJ|NN	LOCATION|O|O|O|O|O|O|O|O	||||||||				Plaquemine Mississippian culture|Late Plaquemine|Mississippian|Middle Plaquemine|Mississippian|Early Plaquemine|Mississippian
+1	1	fb:cell.wasp_lake	Wasp Lake	wasp|lake	Wasp|Lake	NNP|NNP	PERSON|PERSON	|				Wasp Lake
+1	2	fb:cell.1400_1650_ce	1400-1650 CE	1400-1650|ce	1400-1650|ce	CD|NN	DURATION|O	PT2191464H|	1400.0		1650.0	
+1	3	fb:cell.transylvania_emerald	Transylvania / Emerald	transylvania|/|emerald	Transylvania|/|Emerald	NNP|:|NNP	LOCATION|O|O	||				Transylvania|Emerald
+1	4	fb:cell.vacant_quarter	Vacant\nQuarter	vacant|quarter	vacant|quarter	JJ|NN	O|O	|				Vacant|Quarter
+1	5	fb:cell.1350_ce_european_contact	1350 CE -\nEuropean Contact	1350|ce|-|european|contact	1350|ce|-|european|contact	CD|SYM|:|JJ|NN	DATE|O|O|MISC|O	1350||||	1350.0			1350 CE -|European Contact
+1	6	fb:cell.jackson	Jackson	jackson	Jackson	NNP	PERSON					Jackson
+1	7	fb:cell.1500_1650_ce	1500-1650 CE	1500-1650|ce	1500-1650|ce	CD|NN	DURATION|O	PT1314888H|	1500.0		1650.0	1500-1650 CE
+2	0	fb:cell.plaquemine_mississippian_culture_late_plaquemine_mississippian_middle_plaquemine_mississippian_early_plaquemine_mississippian	Plaquemine Mississippian culture\nLate Plaquemine/Mississippian\nMiddle Plaquemine/Mississippian\nEarly Plaquemine/Mississippian	plaquemine|mississippian|culture|late|plaquemine/mississippian|middle|plaquemine/mississippian|early|plaquemine/mississippian	Plaquemine|Mississippian|culture|late|plaquemine/mississippian|middle|plaquemine/mississippian|early|plaquemine/mississippian	NNP|NNP|NN|RB|JJ|JJ|JJ|JJ|NN	LOCATION|O|O|O|O|O|O|O|O	||||||||				Plaquemine Mississippian culture|Late Plaquemine|Mississippian|Middle Plaquemine|Mississippian|Early Plaquemine|Mississippian
+2	1	fb:cell.lake_george	Lake George	lake|george	Lake|George	NNP|NNP	PERSON|PERSON	|				Lake George
+2	2	fb:cell.1300_1400_ce	1300-1400 CE	1300-1400|ce	1300-1400|ce	CD|NN	DURATION|O	PT876576H|	1300.0		1400.0	
+2	3	fb:cell.fitzhugh_foster	Fitzhugh / Foster	fitzhugh|/|foster	Fitzhugh|/|Foster	NNP|:|NNP	PERSON|O|O	||				Fitzhugh|Foster
+2	4	fb:cell.sand_prairie	Sand Prairie	sand|prairie	sand|Prairie	NN|NNP	O|O	|				Sand Prairie
+2	5	fb:cell.1275_1350_ce	1275-1350 CE	1275-1350|ce	1275-1350|ce	CD|NN	DURATION|O	PT657432H|	1275.0		1350.0	1275-1350 CE
+2	6	fb:cell.medley_phase	Medley Phase	medley|phase	medley|phase	JJ|NN	O|O	|				Medley Phase
+2	7	fb:cell.1300_1500_ce	1300-1500 CE	1300-1500|ce	1300-1500|ce	CD|NN	DURATION|O	PT1753152H|	1300.0		1500.0	1300-1500 CE
+3	0	fb:cell.plaquemine_mississippian_culture_late_plaquemine_mississippian_middle_plaquemine_mississippian_early_plaquemine_mississippian	Plaquemine Mississippian culture\nLate Plaquemine/Mississippian\nMiddle Plaquemine/Mississippian\nEarly Plaquemine/Mississippian	plaquemine|mississippian|culture|late|plaquemine/mississippian|middle|plaquemine/mississippian|early|plaquemine/mississippian	Plaquemine|Mississippian|culture|late|plaquemine/mississippian|middle|plaquemine/mississippian|early|plaquemine/mississippian	NNP|NNP|NN|RB|JJ|JJ|JJ|JJ|NN	LOCATION|O|O|O|O|O|O|O|O	||||||||				Plaquemine Mississippian culture|Late Plaquemine|Mississippian|Middle Plaquemine|Mississippian|Early Plaquemine|Mississippian
+3	1	fb:cell.winterville	Winterville	winterville	Winterville	NNP	LOCATION					Winterville
+3	2	fb:cell.1200_1300_ce	1200-1300 CE	1200-1300|ce	1200-1300|ce	CD|NN	DURATION|O	PT876600H|	1200.0		1300.0	
+3	3	fb:cell.routh_anna	Routh / Anna	routh|/|anna	Routh|/|Anna	NNP|:|NNP	PERSON|O|PERSON	||				Routh|Anna
+3	4	fb:cell.moorehead	Moorehead	moorehead	Moorehead	NNP	PERSON					Moorehead
+3	5	fb:cell.1200_1275_ce	1200-1275 CE	1200-1275|ce	1200-1275|ce	CD|NN	DURATION|O	PT657456H|	1200.0		1275.0	1200-1275 CE
+3	6	fb:cell.dorena	Dorena	dorena	Dorena	NNP	PERSON					Dorena
+3	7	fb:cell.1100_1300_ce	1100-1300 CE	1100-1300|ce	1100-1300|ce	CD|NN	DURATION|O	PT1753176H|	1100.0		1300.0	1100-1300 CE
+4	0	fb:cell.transitional_coles_creek	Transitional Coles Creek	transitional|coles|creek	transitional|Coles|Creek	JJ|NNP|NNP	O|PERSON|PERSON	||				Transitional Coles Creek
+4	1	fb:cell.crippen_point	Crippen Point	crippen|point	Crippen|Point	NNP|NNP	PERSON|O	|				Crippen Point
+4	2	fb:cell.1050_1200_ce	1050-1200 CE	1050-1200|ce	1050-1200|ce	CD|NN	DURATION|O	PT1314864H|	1050.0		1200.0	
+4	3	fb:cell.preston_gordon	Preston / Gordon	preston|/|gordon	Preston|/|Gordon	NNP|:|NNP	PERSON|O|PERSON	||				Preston|Gordon
+4	4	fb:cell.lohmann_sterling	Lohmann\nSterling	lohmann|sterling	Lohmann|Sterling	NNP|NNP	PERSON|PERSON	|				Lohmann|Sterling
+4	5	fb:cell.1050_1200_ce	1050-1200 CE	1050-1200|ce	1050-1200|ce	CD|NN	DURATION|O	PT1314864H|	1050.0		1200.0	
+4	6	fb:cell.dorena	Dorena	dorena	Dorena	NNP	PERSON					Dorena
+4	7	fb:cell.1100_1300_ce	1100-1300 CE	1100-1300|ce	1100-1300|ce	CD|NN	DURATION|O	PT1753176H|	1100.0		1300.0	1100-1300 CE
+5	0	fb:cell.coles_creek_culture_late_coles_creek_middle_coles_creek_early_coles_creek	Coles Creek culture\nLate Coles Creek\nMiddle Coles Creek\nEarly Coles Creek	coles|creek|culture|late|coles|creek|middle|coles|creek|early|coles|creek	Coles|Creek|culture|late|Coles|Creek|Middle|Coles|Creek|early|Coles|Creek	NNP|NNP|NN|JJ|NNP|NNP|NNP|NNP|NNP|RB|NNP|NNP	LOCATION|LOCATION|O|O|LOCATION|LOCATION|LOCATION|LOCATION|LOCATION|O|LOCATION|LOCATION	|||||||||||				Coles Creek culture|Late Coles Creek|Middle Coles Creek|Early Coles Creek
+5	1	fb:cell.kings_crossing	Kings Crossing	kings|crossing	Kings|cross	NNPS|VBG	O|O	|				Kings Crossing
+5	2	fb:cell.950_1050_ce	950-1050 CE	950-1050|ce	950-1050|ce	CD|NN	NUMBER|O	950.0 - 1050.0|	950.0		1050.0	
+5	3	fb:cell.balmoral	Balmoral	balmoral	Balmoral	NNP	LOCATION					Balmoral
+5	4	fb:cell.terminal_late_woodland	Terminal Late\nWoodland	terminal|late|woodland	terminal|late|Woodland	JJ|JJ|NNP	O|O|O	||				Terminal Late|Woodland
+5	5	fb:cell.900_1050_ce	900–1050 CE	900|--|1050|ce	900|--|1050|CE	CD|:|CD|NNP	NUMBER|O|DATE|O	900.0||1050|	900.0		1050.0	900–1050 CE
+5	6	fb:cell.james_bayou	James Bayou	james|bayou	James|Bayou	NNP|NNP	PERSON|PERSON	|				James Bayou
+5	7	fb:cell.900_1100_ce	900-1100 CE	900-1100|ce	900-1100|ce	CD|NN	NUMBER|O	900.0 - 1100.0|	900.0		1100.0	900-1100 CE
+6	0	fb:cell.coles_creek_culture_late_coles_creek_middle_coles_creek_early_coles_creek	Coles Creek culture\nLate Coles Creek\nMiddle Coles Creek\nEarly Coles Creek	coles|creek|culture|late|coles|creek|middle|coles|creek|early|coles|creek	Coles|Creek|culture|late|Coles|Creek|Middle|Coles|Creek|early|Coles|Creek	NNP|NNP|NN|JJ|NNP|NNP|NNP|NNP|NNP|RB|NNP|NNP	LOCATION|LOCATION|O|O|LOCATION|LOCATION|LOCATION|LOCATION|LOCATION|O|LOCATION|LOCATION	|||||||||||				Coles Creek culture|Late Coles Creek|Middle Coles Creek|Early Coles Creek
+6	1	fb:cell.aden	Aden	aden	Aden	NNP	LOCATION					Aden
+6	2	fb:cell.800_950_ce	800-950 CE	800-950|ce	800-950|ce	CD|NN	NUMBER|O	800.0 - 950.0|	800.0		950.0	
+6	3	fb:cell.ballina	Ballina	ballina	Ballina	NNP	LOCATION					Ballina
+6	4	fb:cell.terminal_late_woodland	Terminal Late\nWoodland	terminal|late|woodland	terminal|late|Woodland	JJ|JJ|NNP	O|O|O	||				Terminal Late|Woodland
+6	5	fb:cell.900_1050_ce	900–1050 CE	900|--|1050|ce	900|--|1050|CE	CD|:|CD|NNP	NUMBER|O|DATE|O	900.0||1050|	900.0		1050.0	900–1050 CE
+6	6	fb:cell.james_bayou	James Bayou	james|bayou	James|Bayou	NNP|NNP	PERSON|PERSON	|				James Bayou
+6	7	fb:cell.900_1100_ce	900-1100 CE	900-1100|ce	900-1100|ce	CD|NN	NUMBER|O	900.0 - 1100.0|	900.0		1100.0	900-1100 CE
+7	0	fb:cell.coles_creek_culture_late_coles_creek_middle_coles_creek_early_coles_creek	Coles Creek culture\nLate Coles Creek\nMiddle Coles Creek\nEarly Coles Creek	coles|creek|culture|late|coles|creek|middle|coles|creek|early|coles|creek	Coles|Creek|culture|late|Coles|Creek|Middle|Coles|Creek|early|Coles|Creek	NNP|NNP|NN|JJ|NNP|NNP|NNP|NNP|NNP|RB|NNP|NNP	LOCATION|LOCATION|O|O|LOCATION|LOCATION|LOCATION|LOCATION|LOCATION|O|LOCATION|LOCATION	|||||||||||				Coles Creek culture|Late Coles Creek|Middle Coles Creek|Early Coles Creek
+7	1	fb:cell.bayland	Bayland	bayland	Bayland	NNP	PERSON					Bayland
+7	2	fb:cell.600_800_ce	600-800 CE	600-800|ce	600-800|ce	CD|NN	NUMBER|O	600.0 - 800.0|	600.0		800.0	
+7	3	fb:cell.sundown	Sundown	sundown	Sundown	NNP	O					Sundown
+7	4	fb:cell.late_woodland	Late\nWoodland	late|woodland	late|Woodland	JJ|NNP	O|O	|				Late|Woodland
+7	5	fb:cell.400_900_ce	400–900 CE	400|--|900|ce	400|--|900|ce	CD|:|CD|NN	NUMBER|O|NUMBER|O	400.0||900.0|	400.0		900.0	400–900 CE
+7	6	fb:cell.cane_hills_berkley	Cane Hills\nBerkley	cane|hills|berkley	Cane|Hills|Berkley	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Cane Hills|Berkley
+7	7	fb:cell.600_900_ce_400_600_ce	600–900 CE\n400–600 CE	600|--|900|ce|400|--|600|ce	600|--|900|ce|400|--|600|ce	CD|:|CD|NN|CD|:|CD|NN	NUMBER|O|NUMBER|O|NUMBER|O|NUMBER|O	600.0||900.0||400.0||600.0|	600.0		900.0	600–900 CE|400–600 CE
+8	0	fb:cell.baytown_troyville_baytown_2_baytown_1	Baytown/Troyville\nBaytown 2\nBaytown 1	baytown/troyville|baytown|2|baytown|1	Baytown/Troyville|Baytown|2|Baytown|1	NNP|NNP|CD|NNP|CD	ORGANIZATION|ORGANIZATION|NUMBER|ORGANIZATION|NUMBER	||2.0||1.0	2.0		1.0	Baytown|Troyville|Baytown 2|Baytown 1
+8	1	fb:cell.deasonville	Deasonville	deasonville	Deasonville	NNP	PERSON					Deasonville
+8	2	fb:cell.500_600_ce	500-600 CE	500-600|ce	500-600|ce	CD|NN	NUMBER|O	500.0 - 600.0|	500.0		600.0	
+8	3	fb:cell.marsden	Marsden	marsden	Marsden	NNP	PERSON					Marsden
+8	4	fb:cell.late_woodland	Late\nWoodland	late|woodland	late|Woodland	JJ|NNP	O|O	|				Late|Woodland
+8	5	fb:cell.400_900_ce	400–900 CE	400|--|900|ce	400|--|900|ce	CD|:|CD|NN	NUMBER|O|NUMBER|O	400.0||900.0|	400.0		900.0	400–900 CE
+8	6	fb:cell.cane_hills_berkley	Cane Hills\nBerkley	cane|hills|berkley	Cane|Hills|Berkley	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Cane Hills|Berkley
+8	7	fb:cell.600_900_ce_400_600_ce	600–900 CE\n400–600 CE	600|--|900|ce|400|--|600|ce	600|--|900|ce|400|--|600|ce	CD|:|CD|NN|CD|:|CD|NN	NUMBER|O|NUMBER|O|NUMBER|O|NUMBER|O	600.0||900.0||400.0||600.0|	600.0		900.0	600–900 CE|400–600 CE
+9	0	fb:cell.baytown_troyville_baytown_2_baytown_1	Baytown/Troyville\nBaytown 2\nBaytown 1	baytown/troyville|baytown|2|baytown|1	Baytown/Troyville|Baytown|2|Baytown|1	NNP|NNP|CD|NNP|CD	ORGANIZATION|ORGANIZATION|NUMBER|ORGANIZATION|NUMBER	||2.0||1.0	2.0		1.0	Baytown|Troyville|Baytown 2|Baytown 1
+9	1	fb:cell.little_sunflower	Little Sunflower	little|sunflower	little|sunflower	JJ|NN	O|O	|				Little Sunflower
+9	2	fb:cell.400_500_ce	400-500 CE	400-500|ce	400-500|ce	CD|NN	NUMBER|O	400.0 - 500.0|	400.0		500.0	
+9	3	fb:cell.indian_bayou	Indian Bayou	indian|bayou	indian|bayou	JJ|NN	O|O	|				Indian Bayou
+9	4	fb:cell.late_woodland	Late\nWoodland	late|woodland	late|Woodland	JJ|NNP	O|O	|				Late|Woodland
+9	5	fb:cell.400_900_ce	400–900 CE	400|--|900|ce	400|--|900|ce	CD|:|CD|NN	NUMBER|O|NUMBER|O	400.0||900.0|	400.0		900.0	400–900 CE
+9	6	fb:cell.cane_hills_berkley	Cane Hills\nBerkley	cane|hills|berkley	Cane|Hills|Berkley	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Cane Hills|Berkley
+9	7	fb:cell.600_900_ce_400_600_ce	600–900 CE\n400–600 CE	600|--|900|ce|400|--|600|ce	600|--|900|ce|400|--|600|ce	CD|:|CD|NN|CD|:|CD|NN	NUMBER|O|NUMBER|O|NUMBER|O|NUMBER|O	600.0||900.0||400.0||600.0|	600.0		900.0	600–900 CE|400–600 CE
+10	0	fb:cell.marksville_culture_late_marksville_early_marksville	Marksville culture\nLate Marksville\nEarly Marksville	marksville|culture|late|marksville|early|marksville	Marksville|culture|late|Marksville|early|Marksville	NNP|NNP|JJ|NNP|JJ|NNP	LOCATION|O|O|LOCATION|O|LOCATION	|||||				Marksville culture|Late Marksville|Early Marksville
+10	1	fb:cell.issaquena	Issaquena	issaquena	Issaquena	NNP	PERSON					Issaquena
+10	2	fb:cell.200_400_ce	200-400 CE	200-400|ce	200-400|ce	CD|NN	NUMBER|O	200.0 - 400.0|	200.0		400.0	
+10	3	fb:cell.issaquena	Issaquena	issaquena	Issaquena	NNP	PERSON					Issaquena
+10	4	fb:cell.middle_woodland	Middle\nWoodland	middle|woodland	middle|Woodland	JJ|NNP	LOCATION|LOCATION	|				Middle|Woodland
+10	5	fb:cell.200_bce_400_ce	200 BCE - 400 CE	200|bce|-|400|ce	200|BCE|-|400|ce	CD|NNP|:|CD|NN	NUMBER|O|O|NUMBER|O	200.0|||400.0|	200.0		400.0	200 BCE - 400 CE
+10	6	fb:cell.la_plant_burkett	La Plant\nBurkett	la|plant|burkett	La|Plant|Burkett	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				La Plant|Burkett
+10	7	fb:cell.100_bce_400_ce_550_100_bce	100 BCE-400 CE\n550-100 BCE	100|bce-400|ce|550-100|bce	100|bce-400|ce|550-100|BCE	CD|NN|NN|CD|NNP	NUMBER|O|O|NUMBER|O	100.0|||550.0 - 100.0|	100.0		400.0	100 BCE-400 CE|550-100 BCE
+11	0	fb:cell.marksville_culture_late_marksville_early_marksville	Marksville culture\nLate Marksville\nEarly Marksville	marksville|culture|late|marksville|early|marksville	Marksville|culture|late|Marksville|early|Marksville	NNP|NNP|JJ|NNP|JJ|NNP	LOCATION|O|O|LOCATION|O|LOCATION	|||||				Marksville culture|Late Marksville|Early Marksville
+11	1	fb:cell.anderson_landing	Anderson\nLanding	anderson|landing	Anderson|landing	NNP|NN	PERSON|O	|				Anderson|Landing
+11	2	fb:cell.0_200_ce	0-200 CE	0-200|ce	0-200|ce	CD|NN	NUMBER|O	0.0 - 200.0|	0.0		200.0	
+11	3	fb:cell.point_lake_grand_gulf	Point Lake/\nGrand Gulf	point|lake|/|grand|gulf	Point|Lake|/|Grand|Gulf	NNP|NNP|:|NNP|NNP	O|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				Point Lake|Grand Gulf
+11	4	fb:cell.middle_woodland	Middle\nWoodland	middle|woodland	middle|Woodland	JJ|NNP	LOCATION|LOCATION	|				Middle|Woodland
+11	5	fb:cell.200_bce_400_ce	200 BCE - 400 CE	200|bce|-|400|ce	200|BCE|-|400|ce	CD|NNP|:|CD|NN	NUMBER|O|O|NUMBER|O	200.0|||400.0|	200.0		400.0	200 BCE - 400 CE
+11	6	fb:cell.la_plant_burkett	La Plant\nBurkett	la|plant|burkett	La|Plant|Burkett	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				La Plant|Burkett
+11	7	fb:cell.100_bce_400_ce_550_100_bce	100 BCE-400 CE\n550-100 BCE	100|bce-400|ce|550-100|bce	100|bce-400|ce|550-100|BCE	CD|NN|NN|CD|NNP	NUMBER|O|O|NUMBER|O	100.0|||550.0 - 100.0|	100.0		400.0	100 BCE-400 CE|550-100 BCE
+12	0	fb:cell.tchefuncte_culture	Tchefuncte culture	tchefuncte|culture	tchefuncte|culture	JJ|NN	MISC|MISC	|				Tchefuncte culture
+12	1	fb:cell.tuscola	Tuscola	tuscola	Tuscola	NNP	PERSON					Tuscola
+12	2	fb:cell.400_bce_0_ce	400 BCE-0 CE	400|bce-0|ce	400|bce-0|ce	CD|NN|NN	NUMBER|O|O	400.0||	400.0		0.0	
+12	3	fb:cell.panther_lake	Panther Lake	panther|lake	panther|lake	NN|NN	PERSON|PERSON	|				Panther Lake
+12	4	fb:cell.middle_woodland	Middle\nWoodland	middle|woodland	middle|Woodland	JJ|NNP	LOCATION|LOCATION	|				Middle|Woodland
+12	5	fb:cell.200_bce_400_ce	200 BCE - 400 CE	200|bce|-|400|ce	200|BCE|-|400|ce	CD|NNP|:|CD|NN	NUMBER|O|O|NUMBER|O	200.0|||400.0|	200.0		400.0	200 BCE - 400 CE
+12	6	fb:cell.la_plant_burkett	La Plant\nBurkett	la|plant|burkett	La|Plant|Burkett	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				La Plant|Burkett
+12	7	fb:cell.100_bce_400_ce_550_100_bce	100 BCE-400 CE\n550-100 BCE	100|bce-400|ce|550-100|bce	100|bce-400|ce|550-100|BCE	CD|NN|NN|CD|NNP	NUMBER|O|O|NUMBER|O	100.0|||550.0 - 100.0|	100.0		400.0	100 BCE-400 CE|550-100 BCE
+13	0	fb:cell.jaketown	Jaketown	jaketown	Jaketown	NNP	PERSON					Jaketown
+13	1	fb:cell.poverty_point	Poverty Point	poverty|point	poverty|point	NN|NN	O|O	|				Poverty Point
+13	2	fb:cell.700_400_bce	700- 400 BCE	700|-|400|bce	700|-|400|BCE	CD|:|CD|NNP	NUMBER|O|NUMBER|O	700.0||400.0|	700.0		400.0	
+13	3	fb:cell.frasier	Frasier	frasier	Frasier	NNP	O					Frasier
+13	4	fb:cell.early_woodland	Early Woodland	early|woodland	early|Woodland	JJ|NNP	O|O	|				Early Woodland
+13	5	fb:cell.700_200_bce	700-200 BCE	700-200|bce	700-200|BCE	CD|NNP	NUMBER|O	700.0 - 200.0|	700.0		200.0	700-200 BCE
+13	6	fb:cell.o_bryan_ridge	O'Bryan Ridge	o'bryan|ridge	O'Bryan|Ridge	NNP|NNP	PERSON|PERSON	|				O'Bryan Ridge
+13	7	fb:cell.700_550_bce	700-550 BCE	700-550|bce	700-550|BCE	CD|NNP	NUMBER|O	700.0 - 550.0|	700.0		550.0	700-550 BCE
+14	0	fb:cell.null	-	-	-	:	O					-
+14	1	fb:cell.poverty_point	Poverty Point	poverty|point	poverty|point	NN|NN	O|O	|				Poverty Point
+14	2	fb:cell.1000_700_bce	1000-700 BCE	1000-700|bce	1000-700|BCE	CD|NNP	NUMBER|O	1000.0 - 700.0|	1000.0		700.0	
+14	3	fb:cell.null	-	-	-	:	O					-
+14	4	fb:cell.late_archaic	Late Archaic	late|archaic	late|archaic	JJ|JJ	O|O	|				Late Archaic
+14	5	fb:cell.1000_200_bce	1000 - 200 BCE	1000|-|200|bce	1000|-|200|BCE	CD|:|CD|NNP	DATE|O|NUMBER|O	1000||200.0|	1000.0		200.0	1000 - 200 BCE
+14	6	fb:cell.o_bryan_ridge	O'Bryan Ridge	o'bryan|ridge	O'Bryan|Ridge	NNP|NNP	PERSON|PERSON	|				O'Bryan Ridge
+14	7	fb:cell.700_550_bce	700-550 BCE	700-550|bce	700-550|BCE	CD|NNP	NUMBER|O	700.0 - 550.0|	700.0		550.0	700-550 BCE

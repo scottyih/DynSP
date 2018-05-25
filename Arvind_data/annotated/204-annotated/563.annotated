@@ -1,0 +1,393 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.abbreviation	Abbreviation	abbreviation	abbreviation	NN	O					
+-1	1	fb:row.row.settlement	Settlement	settlement	settlement	NN	O					
+-1	2	fb:row.row.district	District	district	district	NN	O					
+-1	3	fb:row.row.official_name	Official Name	official|name	official|name	JJ|NN	O|O	|				
+-1	4	fb:row.row.division	Division	division	division	NN	O					
+-1	5	fb:row.row.cup	Cup	cup	Cup	NNP	O					
+-1	6	fb:row.row.other_information	Other information	other|information	other|information	JJ|NN	O|O	|				
+0	0	fb:cell.taaja	TaaJä	taajä	TaaJä	NNP	PERSON					TaaJä
+0	1	fb:cell.taalintehdas	Taalintehdas	taalintehdas	Taalintehdas	NNPS	PERSON					Taalintehdas
+0	2	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+0	3	fb:cell.taalintehtaan_janteva	Taalintehtaan Jäntevä	taalintehtaan|jäntevä	Taalintehtaan|Jäntevä	NNP|NNP	PERSON|PERSON	|				Taalintehtaan Jäntevä
+0	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+0	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+0	6	fb:cell.null_2										
+1	0	fb:cell.tampere_united	Tampere United	tampere|united	Tampere|United	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Tampere United
+1	1	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+1	2	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+1	3	fb:cell.tampere_united	Tampere United	tampere|united	Tampere|United	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Tampere United
+1	4	fb:cell.veikkausliiga	Veikkausliiga	veikkausliiga	Veikkausliiga	NNP	PERSON					
+1	5	fb:cell.null_3	* * *	*|*|*	*|*|*	SYM|SYM|SYM	O|O|O	||				
+1	6	fb:cell.null_2										
+2	0	fb:cell.tamu_k	TamU-K	tamu|k	TamU|K	NNP|NNP	PERSON|PERSON	|				TamU-K
+2	1	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+2	2	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+2	3	fb:cell.tampere_unitedin_kannattajat	Tampere Unitedin kannattajat	tampere|unitedin|kannattajat	Tampere|Unitedin|kannattajat	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Tampere Unitedin kannattajat
+2	4	fb:cell.nelonen	Nelonen	nelonen	nelonen	NN	PERSON					
+2	5	fb:cell.null_3	* * *	*|*|*	*|*|*	SYM|SYM|SYM	O|O|O	||				
+2	6	fb:cell.null_2										
+3	0	fb:cell.tapa	TaPa	tapa	tapa	NN	PERSON					TaPa
+3	1	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+3	2	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+3	3	fb:cell.tampereen_palloilijat	Tampereen Palloilijat	tampereen|palloilijat	tampereen|palloilijat	JJ|NN	O|O	|				Tampereen Palloilijat
+3	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+3	5	fb:cell.null_4	*	*	*	SYM	O					
+3	6	fb:cell.null_2										
+4	0	fb:cell.tapa_2	TaPa 2	tapa|2	tapa|2	NN|CD	ORGANIZATION|NUMBER	|2.0	2.0			TaPa 2
+4	1	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+4	2	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+4	3	fb:cell.tampereen_palloilijat_2	Tampereen Palloilijat / 2	tampereen|palloilijat|/|2	tampereen|palloilijat|/|2	JJ|NN|:|CD	O|O|O|NUMBER	|||2.0	2.0			Tampereen Palloilijat|2
+4	4	fb:cell.kutonen	Kutonen	kutonen	Kutonen	NNP	PERSON					
+4	5	fb:cell.null_4	*	*	*	SYM	O					
+4	6	fb:cell.null_2										
+5	0	fb:cell.tarmo	Tarmo	tarmo	Tarmo	NNP	PERSON					Tarmo
+5	1	fb:cell.kalvia_kokkola	Kälviä, Kokkola	kälviä|,|kokkola	Kälviä|,|Kokkola	NNP|,|NNP	PERSON|O|PERSON	||				Kälviä|Kokkola
+5	2	fb:cell.keski_pohjanmaa	Keski-Pohjanmaa	keski|pohjanmaa	Keski|Pohjanmaa	NNP|NNP	PERSON|PERSON	|				
+5	3	fb:cell.kalvian_tarmo	Kälviän Tarmo	kälviän|tarmo	Kälviän|Tarmo	NNP|NNP	PERSON|PERSON	|				Kälviän Tarmo
+5	4	fb:cell.kutonen	Kutonen	kutonen	Kutonen	NNP	PERSON					
+5	5	fb:cell.null_4	*	*	*	SYM	O					
+5	6	fb:cell.null_2										
+6	0	fb:cell.tavastia	Tavastia	tavastia	Tavastia	NNP	PERSON					Tavastia
+6	1	fb:cell.helsinki	Helsinki	helsinki	Helsinki	NNP	LOCATION					Helsinki
+6	2	fb:cell.helsinki	Helsinki	helsinki	Helsinki	NNP	LOCATION					Helsinki
+6	3	fb:cell.fc_tavastia	FC Tavastia	fc|tavastia	fc|tavastium	NN|NN	ORGANIZATION|ORGANIZATION	|				FC Tavastia
+6	4	fb:cell.nelonen	Nelonen	nelonen	nelonen	NN	PERSON					
+6	5	fb:cell.null_4	*	*	*	SYM	O					
+6	6	fb:cell.null_2										
+7	0	fb:cell.tavastia_fc_mojo	Tavastia/FC Mojo	tavastia/fc|mojo	Tavastia/FC|Mojo	NNP|NNP	O|O	|				Tavastia|FC Mojo
+7	1	fb:cell.helsinki	Helsinki	helsinki	Helsinki	NNP	LOCATION					Helsinki
+7	2	fb:cell.helsinki	Helsinki	helsinki	Helsinki	NNP	LOCATION					Helsinki
+7	3	fb:cell.fc_tavastia_fc_mojo	FC Tavastia / FC Mojo	fc|tavastia|/|fc|mojo	fc|tavastium|/|fc|mojo	NN|NN|:|NN|NN	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				FC Tavastia|FC Mojo
+7	4	fb:cell.kutonen	Kutonen	kutonen	Kutonen	NNP	PERSON					
+7	5	fb:cell.null_4	*	*	*	SYM	O					
+7	6	fb:cell.null_2										
+8	0	fb:cell.team_nik	Team NIK	team|nik	team|nik	NN|NN	PERSON|PERSON	|				Team NIK
+8	1	fb:cell.nykarleby_uusikaarlepyy	Nykarleby (Uusikaarlepyy)	nykarleby|-lrb-|uusikaarlepyy|-rrb-	nykarleby|-lrb-|uusikaarlepyy|-rrb-	NN|-LRB-|NN|-RRB-	LOCATION|O|O|O	|||				Nykarleby (Uusikaarlepyy)
+8	2	fb:cell.keski_pohjanmaa	Keski-Pohjanmaa	keski|pohjanmaa	Keski|Pohjanmaa	NNP|NNP	PERSON|PERSON	|				
+8	3	fb:cell.nykarleby_idrottsklubb	Nykarleby Idrottsklubb	nykarleby|idrottsklubb	nykarleby|idrottsklubb	JJ|NN	PERSON|PERSON	|				Nykarleby Idrottsklubb
+8	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+8	5	fb:cell.null_4	*	*	*	SYM	O					
+8	6	fb:cell.null_2										
+9	0	fb:cell.team_vanpa	Team Vanpa	team|vanpa	team|vanpa	NN|NN	O|O	|				Team Vanpa
+9	1	fb:cell.vantaa	Vantaa	vantaa	Vantaa	NNP	LOCATION					Vantaa
+9	2	fb:cell.uusimaa	Uusimaa	uusimaa	Uusimaa	NNP	PERSON					
+9	3	fb:cell.team_vanpa	Team Vanpa	team|vanpa	team|vanpa	NN|NN	O|O	|				Team Vanpa
+9	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+9	5	fb:cell.null_4	*	*	*	SYM	O					
+9	6	fb:cell.null_2										
+10	0	fb:cell.tervarit	Tervarit	tervarit	tervarit	NN	O					Tervarit
+10	1	fb:cell.oulu	Oulu	oulu	Oulu	NNP	LOCATION					Oulu
+10	2	fb:cell.pohjois_suomi	Pohjois-Suomi	pohjois|suomi	Pohjois|Suomi	NNP|NNP	PERSON|PERSON	|				
+10	3	fb:cell.tervarit	Tervarit	tervarit	tervarit	NN	O					Tervarit
+10	4	fb:cell.kolmonen	Kolmonen	kolmonen	Kolmonen	NNP	PERSON					
+10	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+10	6	fb:cell.null_2										
+11	0	fb:cell.tete	TeTe	tete	TeTe	NNP	O					TeTe
+11	1	fb:cell.tervalaakso_vaasa	Tervalaakso, Vaasa	tervalaakso|,|vaasa	Tervalaakso|,|Vaasa	NNP|,|NNP	O|O|PERSON	||				Tervalaakso|Vaasa
+11	2	fb:cell.vaasa	Vaasa	vaasa	Vaasa	NNP	PERSON					
+11	3	fb:cell.tervalaakson_teras	Tervalaakson Teräs	tervalaakson|teräs	tervalaakson|teräs	NN|NNS	PERSON|PERSON	|				Tervalaakson Teräs
+11	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+11	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+11	6	fb:cell.null_2										
+12	0	fb:cell.tgrani	TGrani	tgrani	TGrani	NNP	PERSON					TGrani
+12	1	fb:cell.kauniainen	Kauniainen	kauniainen	Kauniainen	NNP	PERSON					Kauniainen
+12	2	fb:cell.uusimaa	Uusimaa	uusimaa	Uusimaa	NNP	PERSON					
+12	3	fb:cell.team_grani	Team Grani	team|grani	team|granus	NN|NN	O|O	|				Team Grani
+12	4	fb:cell.nelonen	Nelonen	nelonen	nelonen	NN	PERSON					
+12	5	fb:cell.null_4	*	*	*	SYM	O					
+12	6	fb:cell.null_2										
+13	0	fb:cell.tikka	Tikka	tikka	Tikka	NNP	PERSON					Tikka
+13	1	fb:cell.espoo	Espoo	espoo	Espoo	NNP	PERSON					Espoo
+13	2	fb:cell.uusimaa	Uusimaa	uusimaa	Uusimaa	NNP	PERSON					
+13	3	fb:cell.espoon_tikka	Espoon Tikka	espoon|tikka	espoon|Tikka	VB|NNP	PERSON|PERSON	|				Espoon Tikka
+13	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+13	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+13	6	fb:cell.null_2										
+14	0	fb:cell.tikka_88	Tikka -88	tikka|-88	Tikka|-88	NNP|CD	O|NUMBER	|-88.0	88.0			Tikka -88
+14	1	fb:cell.espoo	Espoo	espoo	Espoo	NNP	PERSON					Espoo
+14	2	fb:cell.uusimaa	Uusimaa	uusimaa	Uusimaa	NNP	PERSON					
+14	3	fb:cell.espoon_tikka_88	Espoon Tikka / -88	espoon|tikka|/|-88	espoon|tikka|/|-88	VB|NN|:|CD	O|O|O|NUMBER	|||-88.0	88.0			Espoon Tikka|-88
+14	4	fb:cell.kutonen	Kutonen	kutonen	Kutonen	NNP	PERSON					
+14	5	fb:cell.null_4	*	*	*	SYM	O					
+14	6	fb:cell.null_2										
+15	0	fb:cell.tips	TiPS	tips	tip	NNS	O					TiPS
+15	1	fb:cell.tikkurila_vantaa	Tikkurila, Vantaa	tikkurila|,|vantaa	Tikkurila|,|Vantaa	NNP|,|NNP	ORGANIZATION|O|LOCATION	||				Tikkurila|Vantaa
+15	2	fb:cell.uusimaa	Uusimaa	uusimaa	Uusimaa	NNP	PERSON					
+15	3	fb:cell.tikkurilan_palloseura	Tikkurilan Palloseura	tikkurilan|palloseura	Tikkurilan|Palloseura	NNP|NNP	LOCATION|LOCATION	|				Tikkurilan Palloseura
+15	4	fb:cell.kolmonen	Kolmonen	kolmonen	Kolmonen	NNP	PERSON					
+15	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+15	6	fb:cell.null_2										
+16	0	fb:cell.tips_m2	TiPS M2	tips|m2	tip|m2	NNS|NN	O|O	|	2.0			TiPS M2
+16	1	fb:cell.tikkurila	Tikkurila	tikkurila	Tikkurila	NNP	ORGANIZATION					Tikkurila
+16	2	fb:cell.uusimaa	Uusimaa	uusimaa	Uusimaa	NNP	PERSON					
+16	3	fb:cell.tikkurilan_palloseura_m2	Tikkurilan Palloseura / M2	tikkurilan|palloseura|/|m2	Tikkurilan|Palloseura|/|m2	NNP|NNP|:|NN	LOCATION|LOCATION|O|O	|||	2.0			Tikkurilan Palloseura|M2
+16	4	fb:cell.kutonen	Kutonen	kutonen	Kutonen	NNP	PERSON					
+16	5	fb:cell.null_4	*	*	*	SYM	O					
+16	6	fb:cell.null_2										
+17	0	fb:cell.tjk_liepo	TJK LiePo	tjk|liepo	tjk|liepo	NN|NN	PERSON|PERSON	|				TJK LiePo
+17	1	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+17	2	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+17	3	fb:cell.tampereen_jalkapalloklubi_liepo	Tampereen Jalkapalloklubi / LiePo	tampereen|jalkapalloklubi|/|liepo	tampereen|jalkapalloklubus|/|liepo	JJ|NN|:|NN	PERSON|PERSON|O|O	|||				Tampereen Jalkapalloklubi|LiePo
+17	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+17	5	fb:cell.null_4	*	*	*	SYM	O					
+17	6	fb:cell.null_2										
+18	0	fb:cell.tkt	TKT	tkt	TKT	NNP	O					TKT
+18	1	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+18	2	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+18	3	fb:cell.tampereen_kisatoverit	Tampereen Kisatoverit	tampereen|kisatoverit	tampereen|kisatoverit	JJ|NN	PERSON|PERSON	|				Tampereen Kisatoverit
+18	4	fb:cell.kolmonen	Kolmonen	kolmonen	Kolmonen	NNP	PERSON					
+18	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+18	6	fb:cell.null_2										
+19	0	fb:cell.tkt_kootee	TKT KooTee	tkt|kootee	TKT|KooTee	NNP|NNP	PERSON|PERSON	|				TKT KooTee
+19	1	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+19	2	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+19	3	fb:cell.tampereen_kisatoverit_kootee	Tampereen Kisatoverit / KooTee	tampereen|kisatoverit|/|kootee	Tampereen|Kisatoverit|/|KooTee	NNP|NNP|:|NNP	O|O|O|O	|||				Tampereen Kisatoverit|KooTee
+19	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+19	5	fb:cell.null_4	*	*	*	SYM	O					
+19	6	fb:cell.null_2										
+20	0	fb:cell.tops_90	ToPS-90	tops-90	tops-90	NN	O		90.0			ToPS-90
+20	1	fb:cell.tohmajarvi	Tohmajärvi	tohmajärvi	Tohmajärvi	NNP	PERSON					Tohmajärvi
+20	2	fb:cell.ita_suomi	Itä-Suomi	itä|suomi	Itä|Suomi	NNP|NNP	PERSON|PERSON	|				
+20	3	fb:cell.tohmajarven_palloseura_90	Tohmajärven Palloseura-90	tohmajärven|palloseura-90	tohmajärven|palloseura-90	NN|NN	O|O	|	90.0			Tohmajärven Palloseura-90
+20	4	fb:cell.nelonen	Nelonen	nelonen	nelonen	NN	PERSON					
+20	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+20	6	fb:cell.null_2										
+21	0	fb:cell.torre_calcio	Torre Calcio	torre|calcio	Torre|Calcio	NNP|NNP	PERSON|PERSON	|				Torre Calcio
+21	1	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+21	2	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+21	3	fb:cell.torre_calcio	Torre Calcio	torre|calcio	Torre|Calcio	NNP|NNP	PERSON|PERSON	|				Torre Calcio
+21	4	fb:cell.kutonen	Kutonen	kutonen	Kutonen	NNP	PERSON					
+21	5	fb:cell.null_4	*	*	*	SYM	O					
+21	6	fb:cell.null_2										
+22	0	fb:cell.tota	ToTa	tota	ToTa	NNP	PERSON					ToTa
+22	1	fb:cell.tornio	Tornio	tornio	Tornio	NNP	LOCATION					Tornio
+22	2	fb:cell.pohjois_suomi	Pohjois-Suomi	pohjois|suomi	Pohjois|Suomi	NNP|NNP	PERSON|PERSON	|				
+22	3	fb:cell.tornion_tarmo	Tornion Tarmo	tornion|tarmo	Tornion|Tarmo	NNP|NNP	PERSON|PERSON	|				Tornion Tarmo
+22	4	fb:cell.kolmonen	Kolmonen	kolmonen	Kolmonen	NNP	PERSON					
+22	5	fb:cell.null_4	*	*	*	SYM	O					
+22	6	fb:cell.null_2										
+23	0	fb:cell.tote_ap	ToTe/AP	tote/ap	tote/ap	NN	O					ToTe|AP
+23	1	fb:cell.toukola	Toukola	toukola	Toukola	NNP	PERSON					Toukola
+23	2	fb:cell.helsinki	Helsinki	helsinki	Helsinki	NNP	LOCATION					Helsinki
+23	3	fb:cell.toukolan_teras_avauspotku	Toukolan Teräs / Avauspotku	toukolan|teräs|/|avauspotku	Toukolan|Teräs|/|Avauspotku	NNP|NNP|:|NNP	O|O|O|O	|||				Toukolan Teräs|Avauspotku
+23	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+23	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+23	6	fb:cell.null_2										
+24	0	fb:cell.tou	ToU	tou	ToU	NNP	O					ToU
+24	1	fb:cell.toivala_siilinjarvi	Toivala, Siilinjärvi	toivala|,|siilinjärvi	Toivala|,|Siilinjärvi	NNP|,|NNP	PERSON|O|PERSON	||				Toivala|Siilinjärvi
+24	2	fb:cell.ita_suomi	Itä-Suomi	itä|suomi	Itä|Suomi	NNP|NNP	PERSON|PERSON	|				
+24	3	fb:cell.toivalan_urheilijat	Toivalan Urheilijat	toivalan|urheilijat	toivalan|urheilijat	NN|NN	PERSON|PERSON	|				Toivalan Urheilijat
+24	4	fb:cell.nelonen	Nelonen	nelonen	nelonen	NN	PERSON					
+24	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+24	6	fb:cell.null_2										
+25	0	fb:cell.tou_2	ToU/2	tou/2	tou/2	NN	O		2.0			ToU|2
+25	1	fb:cell.toivala_siilinjarvi	Toivala, Siilinjärvi	toivala|,|siilinjärvi	Toivala|,|Siilinjärvi	NNP|,|NNP	PERSON|O|PERSON	||				Toivala|Siilinjärvi
+25	2	fb:cell.ita_suomi	Itä-Suomi	itä|suomi	Itä|Suomi	NNP|NNP	PERSON|PERSON	|				
+25	3	fb:cell.toivalan_urheilijat_2	Toivalan Urheilijat / 2	toivalan|urheilijat|/|2	toivalan|urheilijat|/|2	NN|NN|:|CD	O|O|O|NUMBER	|||2.0	2.0			Toivalan Urheilijat|2
+25	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+25	5	fb:cell.null_4	*	*	*	SYM	O					
+25	6	fb:cell.null_2										
+26	0	fb:cell.tove	TOVE	tove	TOVE	NNP	PERSON					TOVE
+26	1	fb:cell.pori	Pori	pori	Pori	NNP	LOCATION					Pori
+26	2	fb:cell.satakunta	Satakunta	satakunta	Satakunta	NNP	PERSON					
+26	3	fb:cell.toejoen_veikot	Toejoen Veikot	toejoen|veikot	toejoen|veikot	NN|NN	PERSON|PERSON	|				Toejoen Veikot
+26	4	fb:cell.kolmonen	Kolmonen	kolmonen	Kolmonen	NNP	PERSON					
+26	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+26	6	fb:cell.null_2										
+27	0	fb:cell.tove2	TOVE2	tove2	tove2	NN	O		2.0			TOVE2
+27	1	fb:cell.pori	Pori	pori	Pori	NNP	LOCATION					Pori
+27	2	fb:cell.satakunta	Satakunta	satakunta	Satakunta	NNP	PERSON					
+27	3	fb:cell.toejoen_veikot_2	Toejoen Veikot / 2	toejoen|veikot|/|2	toejoen|veikot|/|2	NN|NN|:|CD	O|O|O|NUMBER	|||2.0	2.0			Toejoen Veikot|2
+27	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+27	5	fb:cell.null_4	*	*	*	SYM	O					
+27	6	fb:cell.null_2										
+28	0	fb:cell.tp_47	TP-47	tp-47	tp-47	NN	O		47.0			TP-47
+28	1	fb:cell.tornio	Tornio	tornio	Tornio	NNP	LOCATION					Tornio
+28	2	fb:cell.pohjois_suomi	Pohjois-Suomi	pohjois|suomi	Pohjois|Suomi	NNP|NNP	PERSON|PERSON	|				
+28	3	fb:cell.tornion_pallo_47	Tornion Pallo-47	tornion|pallo-47	Tornion|pallo-47	NNP|NN	O|O	|	47.0			Tornion Pallo-47
+28	4	fb:cell.kakkonen	Kakkonen	kakkonen	Kakkonen	NNP	PERSON					
+28	5	fb:cell.null_3	* * *	*|*|*	*|*|*	SYM|SYM|SYM	O|O|O	||				
+28	6	fb:cell.null_2										
+29	0	fb:cell.tp_49	TP-49	tp-49	tp-49	NN	O		49.0			TP-49
+29	1	fb:cell.toijala_akaa	Toijala, Akaa	toijala|,|akaa	Toijala|,|Akaa	NNP|,|NNP	PERSON|O|PERSON	||				Toijala|Akaa
+29	2	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+29	3	fb:cell.toijalan_pallo_49	Toijalan Pallo-49	toijalan|pallo-49	Toijalan|pallo-49	NNP|NN	O|O	|	49.0			Toijalan Pallo-49
+29	4	fb:cell.nelonen	Nelonen	nelonen	nelonen	NN	PERSON					
+29	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+29	6	fb:cell.also_abbreviated_as_toip_49	Also abbreviated as ToiP -49.	also|abbreviated|as|toip|-49|.	also|abbreviate|as|toip|-49|.	RB|VBN|IN|NN|CD|.	O|O|O|O|NUMBER|O	||||-49.0|	49.0			
+30	0	fb:cell.tp_seinajoki	TP-Seinäjoki	tp|seinäjoki	tp|seinäjoki	NN|NN	PERSON|PERSON	|				TP-Seinäjoki
+30	1	fb:cell.seinajoki	Seinäjoki	seinäjoki	Seinäjoki	NNP	PERSON					Seinäjoki
+30	2	fb:cell.vaasa	Vaasa	vaasa	Vaasa	NNP	PERSON					
+30	3	fb:cell.tp_seinajoki_tornavan_pallo	TP-Seinäjoki (Törnävän Pallo)	tp|seinäjoki|-lrb-|törnävän|pallo|-rrb-	tp|seinäjoki|-lrb-|törnävän|pallo|-rrb-	NN|NN|-LRB-|NN|NN|-RRB-	PERSON|PERSON|O|PERSON|PERSON|O	|||||				TP-Seinäjoki (Törnävän Pallo)
+30	4	fb:cell.nelonen	Nelonen	nelonen	nelonen	NN	PERSON					
+30	5	fb:cell.null_4	*	*	*	SYM	O					
+30	6	fb:cell.null_2										
+31	0	fb:cell.tp_t	TP-T	tp|t	tp|t	NN|NN	O|O	|				TP-T
+31	1	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+31	2	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+31	3	fb:cell.tampereen_peli_toverit	Tampereen Peli-Toverit	tampereen|peli|toverit	Tampereen|Peli|Toverit	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Tampereen Peli-Toverit
+31	4	fb:cell.kolmonen	Kolmonen	kolmonen	Kolmonen	NNP	PERSON					
+31	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+31	6	fb:cell.null_2										
+32	0	fb:cell.tpk	TPK	tpk	tpk	NN	O					TPK
+32	1	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+32	2	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+32	3	fb:cell.turun_pallokerho	Turun Pallokerho	turun|pallokerho	Turun|Pallokerho	NNP|NNP	O|O	|				Turun Pallokerho
+32	4	fb:cell.kolmonen	Kolmonen	kolmonen	Kolmonen	NNP	PERSON					
+32	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+32	6	fb:cell.null_2										
+33	0	fb:cell.tpk_2	TPK 2	tpk|2	tpk|2	NN|CD	O|NUMBER	|2.0	2.0			TPK 2
+33	1	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+33	2	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+33	3	fb:cell.turun_pallokerho_2	Turun Pallokerho / 2	turun|pallokerho|/|2	Turun|Pallokerho|/|2	NNP|NNP|:|CD	O|O|O|NUMBER	|||2.0	2.0			Turun Pallokerho|2
+33	4	fb:cell.nelonen	Nelonen	nelonen	nelonen	NN	PERSON					
+33	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+33	6	fb:cell.null_2										
+34	0	fb:cell.tps	TPS	tps	tp	NN	O					TPS
+34	1	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+34	2	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+34	3	fb:cell.turun_palloseura	Turun Palloseura	turun|palloseura	Turun|Palloseura	NNP|NNP	PERSON|PERSON	|				Turun Palloseura
+34	4	fb:cell.veikkausliiga	Veikkausliiga	veikkausliiga	Veikkausliiga	NNP	PERSON					
+34	5	fb:cell.null_3	* * *	*|*|*	*|*|*	SYM|SYM|SYM	O|O|O	||				
+34	6	fb:cell.null_2										
+35	0	fb:cell.tpv	TPV	tpv	tpv	NN	O					TPV
+35	1	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+35	2	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+35	3	fb:cell.tampereen_palloveikot	Tampereen Palloveikot	tampereen|palloveikot	tampereen|palloveikot	JJ|NN	O|O	|				Tampereen Palloveikot
+35	4	fb:cell.ykkonen	Ykkönen	ykkönen	ykkönen	NN	PERSON					
+35	5	fb:cell.null_3	* * *	*|*|*	*|*|*	SYM|SYM|SYM	O|O|O	||				
+35	6	fb:cell.null_2										
+36	0	fb:cell.tpv_2	TPV 2	tpv|2	tpv|2	NN|CD	O|NUMBER	|2.0	2.0			TPV 2
+36	1	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+36	2	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+36	3	fb:cell.tampereen_pallo_veikot_2	Tampereen Pallo-Veikot / 2	tampereen|pallo|veikot|/|2	Tampereen|Pallo|Veikot|/|2	NNP|NNP|NNP|:|CD	O|PERSON|PERSON|O|NUMBER	||||2.0	2.0			Tampereen Pallo-Veikot|2
+36	4	fb:cell.kolmonen	Kolmonen	kolmonen	Kolmonen	NNP	PERSON					
+36	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+36	6	fb:cell.null_2										
+37	0	fb:cell.trikiinit	Trikiinit	trikiinit	trikiinit	NN	O					Trikiinit
+37	1	fb:cell.helsinki	Helsinki	helsinki	Helsinki	NNP	LOCATION					Helsinki
+37	2	fb:cell.helsinki	Helsinki	helsinki	Helsinki	NNP	LOCATION					Helsinki
+37	3	fb:cell.trikiinit	Trikiinit	trikiinit	trikiinit	NN	O					Trikiinit
+37	4	fb:cell.kutonen	Kutonen	kutonen	Kutonen	NNP	PERSON					
+37	5	fb:cell.null_4	*	*	*	SYM	O					
+37	6	fb:cell.null_2										
+38	0	fb:cell.trafk	Träfk	träfk	träfk	NN	PERSON					Träfk
+38	1	fb:cell.jarvenpaa	Järvenpää	järvenpää	Järvenpää	NNP	PERSON					Järvenpää
+38	2	fb:cell.uusimaa	Uusimaa	uusimaa	Uusimaa	NNP	PERSON					
+38	3	fb:cell.traskanda_fotboll_klub	Träskända Fotboll Klub	träskända|fotboll|klub	Träskända|Fotboll|Klub	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Träskända Fotboll Klub
+38	4	fb:cell.kutonen	Kutonen	kutonen	Kutonen	NNP	PERSON					
+38	5	fb:cell.null_4	*	*	*	SYM	O					
+38	6	fb:cell.null_2										
+39	0	fb:cell.tsv	TsV	tsv	TsV	NNP	O					TsV
+39	1	fb:cell.taipalsaari	Taipalsaari	taipalsaari	Taipalsaari	NNP	PERSON					Taipalsaari
+39	2	fb:cell.kaakkois_suomi	Kaakkois-Suomi	kaakkois|suomi	Kaakkois|Suomi	NNP|NNP	PERSON|PERSON	|				
+39	3	fb:cell.taipalsaaren_veikot	Taipalsaaren Veikot	taipalsaaren|veikot	Taipalsaaren|Veikot	NNP|NNP	PERSON|PERSON	|				Taipalsaaren Veikot
+39	4	fb:cell.nelonen	Nelonen	nelonen	nelonen	NN	PERSON					
+39	5	fb:cell.null_4	*	*	*	SYM	O					
+39	6	fb:cell.null_2										
+40	0	fb:cell.tuha	TuHa	tuha	tuha	NN	PERSON					TuHa
+40	1	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+40	2	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+40	3	fb:cell.turun_haka	Turun Haka	turun|haka	Turun|Haka	NNP|NNP	PERSON|PERSON	|				Turun Haka
+40	4	fb:cell.kutonen	Kutonen	kutonen	Kutonen	NNP	PERSON					
+40	5	fb:cell.null_4	*	*	*	SYM	O					
+40	6	fb:cell.null_2										
+41	0	fb:cell.tuisku_daltonit	Tuisku Daltonit	tuisku|daltonit	Tuisku|Daltonit	NNP|NNP	PERSON|PERSON	|				Tuisku Daltonit
+41	1	fb:cell.orivesi	Orivesi	orivesi	Orivesi	NNP	PERSON					Orivesi
+41	2	fb:cell.tampere	Tampere	tampere	Tampere	NNP	LOCATION					Tampere
+41	3	fb:cell.oriveden_tuisku_daltonit	Oriveden Tuisku / Daltonit	oriveden|tuisku|/|daltonit	oriveden|tuisku|/|daltonit	JJ|NN|:|NN	PERSON|PERSON|O|O	|||				Oriveden Tuisku|Daltonit
+41	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+41	5	fb:cell.null_4	*	*	*	SYM	O					
+41	6	fb:cell.null_2										
+42	0	fb:cell.tukv	TuKV	tukv	tukv	NN	PERSON					TuKV
+42	1	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+42	2	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+42	3	fb:cell.turun_kisa_veikot	Turun Kisa-Veikot	turun|kisa|veikot	Turun|Kisa|Veikot	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Turun Kisa-Veikot
+42	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+42	5	fb:cell.null_4	*	*	*	SYM	O					
+42	6	fb:cell.null_2										
+43	0	fb:cell.tups	TuPS	tups	tup	NNS	O					TuPS
+43	1	fb:cell.tuusula	Tuusula	tuusula	Tuusula	NNP	PERSON					Tuusula
+43	2	fb:cell.uusimaa	Uusimaa	uusimaa	Uusimaa	NNP	PERSON					
+43	3	fb:cell.tuusulan_palloseura	Tuusulan Palloseura	tuusulan|palloseura	Tuusulan|Palloseura	NNP|NNP	LOCATION|LOCATION	|				Tuusulan Palloseura
+43	4	fb:cell.kolmonen	Kolmonen	kolmonen	Kolmonen	NNP	PERSON					
+43	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+43	6	fb:cell.null_2										
+44	0	fb:cell.tups_2	TuPS 2	tups|2	tup|2	NNS|CD	O|NUMBER	|2.0	2.0			TuPS 2
+44	1	fb:cell.tuusula	Tuusula	tuusula	Tuusula	NNP	PERSON					Tuusula
+44	2	fb:cell.uusimaa	Uusimaa	uusimaa	Uusimaa	NNP	PERSON					
+44	3	fb:cell.tuusulan_palloseura_2	Tuusulan Palloseura / 2	tuusulan|palloseura|/|2	Tuusulan|Palloseura|/|2	NNP|NNP|:|CD	LOCATION|LOCATION|O|NUMBER	|||2.0	2.0			Tuusulan Palloseura|2
+44	4	fb:cell.kutonen	Kutonen	kutonen	Kutonen	NNP	PERSON					
+44	5	fb:cell.null_4	*	*	*	SYM	O					
+44	6	fb:cell.null_2										
+45	0	fb:cell.tupv	TuPV	tupv	tupv	NN	PERSON					TuPV
+45	1	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+45	2	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+45	3	fb:cell.turun_pallo_veikot	Turun Pallo-Veikot	turun|pallo|veikot	Turun|Pallo|Veikot	NNP|NNP|NNP	O|PERSON|PERSON	||				Turun Pallo-Veikot
+45	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+45	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+45	6	fb:cell.null_2										
+46	0	fb:cell.tus	TUS	tus	TUS	NNP	O					TUS
+46	1	fb:cell.terjarv_kronoby_kruunupyy	Terjärv, Kronoby (Kruunupyy)	terjärv|,|kronoby|-lrb-|kruunupyy|-rrb-	Terjärv|,|Kronoby|-lrb-|Kruunupyy|-rrb-	NNP|,|NNP|-LRB-|NNP|-RRB-	O|O|PERSON|O|PERSON|O	|||||				Terjärv|Kronoby (Kruunupyy)
+46	2	fb:cell.keski_pohjanmaa	Keski-Pohjanmaa	keski|pohjanmaa	Keski|Pohjanmaa	NNP|NNP	PERSON|PERSON	|				
+46	3	fb:cell.terjarv_ungdoms_sportklubb	Terjärv Ungdoms Sportklubb	terjärv|ungdoms|sportklubb	Terjärv|Ungdoms|Sportklubb	NNP|NNP|NNP	O|O|O	||				Terjärv Ungdoms Sportklubb
+46	4	fb:cell.nelonen	Nelonen	nelonen	nelonen	NN	PERSON					
+46	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+46	6	fb:cell.null_2										
+47	0	fb:cell.tus_ii	TUS II	tus|ii	TUS|II	NNP|NNP	O|O	|				TUS II
+47	1	fb:cell.terjarv_kronoby_kruunupyy	Terjärv, Kronoby (Kruunupyy)	terjärv|,|kronoby|-lrb-|kruunupyy|-rrb-	Terjärv|,|Kronoby|-lrb-|Kruunupyy|-rrb-	NNP|,|NNP|-LRB-|NNP|-RRB-	O|O|PERSON|O|PERSON|O	|||||				Terjärv|Kronoby (Kruunupyy)
+47	2	fb:cell.keski_pohjanmaa	Keski-Pohjanmaa	keski|pohjanmaa	Keski|Pohjanmaa	NNP|NNP	PERSON|PERSON	|				
+47	3	fb:cell.terjarv_ungdoms_sportklubb_ii	Terjärv Ungdoms Sportklubb / II	terjärv|ungdoms|sportklubb|/|ii	Terjärv|Ungdoms|Sportklubb|/|II	NNP|NNP|NNP|:|NNP	O|O|O|O|O	||||				Terjärv Ungdoms Sportklubb|II
+47	4	fb:cell.vitonen	Vitonen	vitonen	vitonen	NN	PERSON					
+47	5	fb:cell.null_4	*	*	*	SYM	O					
+47	6	fb:cell.null_2										
+48	0	fb:cell.tuto	TuTo	tuto	TuTo	NNP	O					TuTo
+48	1	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+48	2	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+48	3	fb:cell.turun_toverit	Turun Toverit	turun|toverit	Turun|Toverit	NNP|NNP	PERSON|PERSON	|				Turun Toverit
+48	4	fb:cell.kolmonen	Kolmonen	kolmonen	Kolmonen	NNP	PERSON					
+48	5	fb:cell.null_4	*	*	*	SYM	O					
+48	6	fb:cell.null_2										
+49	0	fb:cell.tuto_2	TuTo 2	tuto|2	TuTo|2	NNP|CD	O|NUMBER	|2.0	2.0			TuTo 2
+49	1	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+49	2	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+49	3	fb:cell.turun_toverit_2	Turun Toverit / 2	turun|toverit|/|2	Turun|Toverit|/|2	NNP|NNP|:|CD	O|O|O|NUMBER	|||2.0	2.0			Turun Toverit|2
+49	4	fb:cell.kutonen	Kutonen	kutonen	Kutonen	NNP	PERSON					
+49	5	fb:cell.null_4	*	*	*	SYM	O					
+49	6	fb:cell.null_2										
+50	0	fb:cell.tuwe	TuWe	tuwe	tuwe	NN	PERSON					TuWe
+50	1	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+50	2	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+50	3	fb:cell.turun_weikot	Turun Weikot	turun|weikot	Turun|Weikot	NNP|NNP	PERSON|PERSON	|				Turun Weikot
+50	4	fb:cell.nelonen	Nelonen	nelonen	nelonen	NN	PERSON					
+50	5	fb:cell.null_4	*	*	*	SYM	O					
+50	6	fb:cell.null_2										
+51	0	fb:cell.tuwe_2	TuWe 2	tuwe|2	tuwe|2	NN|CD	ORGANIZATION|NUMBER	|2.0	2.0			TuWe 2
+51	1	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+51	2	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+51	3	fb:cell.turun_weikot_2	Turun Weikot / 2	turun|weikot|/|2	Turun|Weikot|/|2	NNP|NNP|:|CD	O|O|O|NUMBER	|||2.0	2.0			Turun Weikot|2
+51	4	fb:cell.kutonen	Kutonen	kutonen	Kutonen	NNP	PERSON					
+51	5	fb:cell.null_4	*	*	*	SYM	O					
+51	6	fb:cell.null_2										
+52	0	fb:cell.tuwe_3	TuWe 3	tuwe|3	TuWe|3	NNP|CD	ORGANIZATION|NUMBER	|3.0	3.0			TuWe 3
+52	1	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+52	2	fb:cell.turku	Turku	turku	Turku	NNP	LOCATION					Turku
+52	3	fb:cell.turun_weikot_3	Turun Weikot / 3	turun|weikot|/|3	Turun|Weikot|/|3	NNP|NNP|:|CD	O|O|O|NUMBER	|||3.0	3.0			Turun Weikot|3
+52	4	fb:cell.kutonen	Kutonen	kutonen	Kutonen	NNP	PERSON					
+52	5	fb:cell.null_4	*	*	*	SYM	O					
+52	6	fb:cell.null_2										
+53	0	fb:cell.tojby_fc	Töjby FC	töjby|fc	Töjby|fc	NNP|NN	O|O	|				Töjby FC
+53	1	fb:cell.tojby_narpes	Töjby, Närpes	töjby|,|närpes	Töjby|,|Närpes	NNP|,|NNP	O|O|O	||				Töjby|Närpes
+53	2	fb:cell.vaasa	Vaasa	vaasa	Vaasa	NNP	PERSON					
+53	3	fb:cell.tojby_fc	Töjby FC	töjby|fc	Töjby|fc	NNP|NN	O|O	|				Töjby FC
+53	4	fb:cell.kutonen	Kutonen	kutonen	Kutonen	NNP	PERSON					
+53	5	fb:cell.null_4	*	*	*	SYM	O					
+53	6	fb:cell.null_2										
+54	0	fb:cell.toolon_taisto	Töölön Taisto	töölön|taisto	Töölön|Taisto	NNP|NNP	PERSON|PERSON	|				Töölön Taisto
+54	1	fb:cell.toolo	Töölö	töölö	Töölö	NNP	PERSON					Töölö
+54	2	fb:cell.helsinki	Helsinki	helsinki	Helsinki	NNP	LOCATION					Helsinki
+54	3	fb:cell.toolon_taisto	Töölön Taisto	töölön|taisto	Töölön|Taisto	NNP|NNP	PERSON|PERSON	|				Töölön Taisto
+54	4	fb:cell.nelonen	Nelonen	nelonen	nelonen	NN	PERSON					
+54	5	fb:cell.null	* *	*|*	*|*	SYM|SYM	O|O	|				
+54	6	fb:cell.null_2										

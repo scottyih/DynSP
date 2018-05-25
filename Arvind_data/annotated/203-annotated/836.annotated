@@ -1,0 +1,55 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.title	Title	title	title	NN	O					
+-1	1	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	2	fb:row.row.platforms	Platforms	platforms	platform	NNS	O					
+-1	3	fb:row.row.developer	Developer	developer	developer	NN	O					
+-1	4	fb:row.row.publisher	Publisher	publisher	publisher	NN	O					
+-1	5	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.american_mcgee_s_grimm	American McGee's Grimm	american|mcgee|'s|grimm	American|McGee|'s|Grimm	NNP|NNP|POS|NNP	MISC|PERSON|O|O	|||				
+0	1	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+0	2	fb:cell.pc	PC	pc	pc	NN	O					PC
+0	3	fb:cell.spicy_horse	Spicy Horse	spicy|horse	spicy|horse	JJ|NN	O|O	|				
+0	4	fb:cell.gametap	GameTap	gametap	GameTap	NNP	PERSON					
+0	5	fb:cell.episodic_mcgee_takes_on_various_grimm_tales	Episodic McGee takes on various Grimm tales.	episodic|mcgee|takes|on|various|grimm|tales|.	episodic|McGee|take|on|various|Grimm|tale|.	JJ|NNP|VBZ|RP|JJ|NNP|NNS|.	PERSON|PERSON|O|O|O|O|O|O	|||||||				Episodic McGee takes on various Grimm tales.
+1	0	fb:cell.dexiq	DexIQ	dexiq	dexiq	NN	PERSON					
+1	1	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+1	2	fb:cell.ipad_iphone_ipod	iPad, iPhone, iPod	ipad|,|iphone|,|ipod	iPad|,|iPhone|,|ipod	NNP|,|NNP|,|NN	O|O|O|O|O	||||				iPad|iPhone|iPod
+1	3	fb:cell.spicy_pony	Spicy Pony	spicy|pony	Spicy|Pony	NNP|NNP	O|O	|				
+1	4	fb:cell.null										
+1	5	fb:cell.puzzle_game	Puzzle game	puzzle|game	puzzle|game	NN|NN	O|O	|				Puzzle game
+2	0	fb:cell.american_mcgee_presents_akaneiro	American McGee Presents Akaneiro	american|mcgee|presents|akaneiro	American|McGee|present|Akaneiro	NNP|NNP|VBZ|NNP	MISC|PERSON|O|PERSON	|||				
+2	1	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+2	2	fb:cell.ipad	iPad	ipad	iPad	NNP	O					iPad
+2	3	fb:cell.spicy_pony	Spicy Pony	spicy|pony	Spicy|Pony	NNP|NNP	O|O	|				
+2	4	fb:cell.null										
+2	5	fb:cell.little_red_riding_hood_in_japan	Little Red Riding Hood in Japan	little|red|riding|hood|in|japan	little|red|ride|hood|in|Japan	JJ|JJ|VBG|NN|IN|NNP	O|O|O|O|O|LOCATION	|||||				Little Red Riding Hood in Japan
+3	0	fb:cell.american_mcgee_s_crooked_house	American McGee's Crooked House	american|mcgee|'s|crooked|house	American|McGee|'s|crooked|house	NNP|NNP|POS|JJ|NN	MISC|PERSON|O|O|O	||||				
+3	1	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+3	2	fb:cell.ipad_iphone_ipod	iPad, iPhone, iPod	ipad|,|iphone|,|ipod	iPad|,|iPhone|,|ipod	NNP|,|NNP|,|NN	O|O|O|O|O	||||				iPad|iPhone|iPod
+3	3	fb:cell.spicy_pony	Spicy Pony	spicy|pony	Spicy|Pony	NNP|NNP	O|O	|				
+3	4	fb:cell.null										
+3	5	fb:cell.puzzle_game	Puzzle game	puzzle|game	puzzle|game	NN|NN	O|O	|				Puzzle game
+4	0	fb:cell.alice_madness_returns	Alice: Madness Returns	alice|:|madness|returns	Alice|:|madness|return	NNP|:|NN|NNS	PERSON|O|O|O	|||				
+4	1	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+4	2	fb:cell.playstation_3_xbox_360_pc	PlayStation 3, Xbox 360, PC	playstation|3|,|xbox|360|,|pc	PlayStation|3|,|Xbox|360|,|pc	NNP|CD|,|NNP|CD|,|NN	O|NUMBER|O|O|NUMBER|O|O	|3.0|||360.0||	3.0		360.0	PlayStation 3|Xbox 360|PC
+4	3	fb:cell.spicy_horse	Spicy Horse	spicy|horse	spicy|horse	JJ|NN	O|O	|				
+4	4	fb:cell.electronic_arts	Electronic Arts	electronic|arts	electronic|art	JJ|NNS	O|O	|				
+4	5	fb:cell.sequel_to_american_mcgee_s_alice	Sequel to American McGee's Alice	sequel|to|american|mcgee|'s|alice	sequel|to|american|McGee|'s|Alice	NN|TO|JJ|NNP|POS|NNP	O|O|MISC|PERSON|O|PERSON	|||||				Sequel to American McGee's Alice
+5	0	fb:cell.bighead_bash	BigHead Bash	bighead|bash	BigHead|bash	NNP|NN	PERSON|PERSON	|				
+5	1	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+5	2	fb:cell.tba	TBA	tba	tba	NN	O					TBA
+5	3	fb:cell.spicy_horse	Spicy Horse	spicy|horse	spicy|horse	JJ|NN	O|O	|				
+5	4	fb:cell.tba	TBA	tba	tba	NN	O					TBA
+5	5	fb:cell.side_scrolling_battle_multiplayer_unreleased	Side scrolling/battle multiplayer. (Unreleased)	side|scrolling/battle|multiplayer|.|-lrb-|unreleased|-rrb-	side|scrolling/battle|multiplayer|.|-lrb-|unreleased|-rrb-	NN|NN|NN|.|-LRB-|JJ|-RRB-	O|O|O|O|O|O|O	||||||				Side scrolling|battle multiplayer. (Unreleased)
+6	0	fb:cell.crazy_fairies	Crazy Fairies	crazy|fairies	crazy|fairy	JJ|NNS	O|O	|				
+6	1	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+6	2	fb:cell.mobile_facebook	Mobile, Facebook	mobile|,|facebook	mobile|,|Facebook	JJ|,|NNP	O|O|ORGANIZATION	||				Mobile|Facebook
+6	3	fb:cell.spicy_horse	Spicy Horse	spicy|horse	spicy|horse	JJ|NN	O|O	|				
+6	4	fb:cell.tba	TBA	tba	tba	NN	O					TBA
+6	5	fb:cell.currently_in_the_closed_beta_stage_unreleased	Currently in the Closed Beta Stage. (Unreleased)	currently|in|the|closed|beta|stage|.|-lrb-|unreleased|-rrb-	currently|in|the|closed|beta|stage|.|-lrb-|unreleased|-rrb-	RB|IN|DT|JJ|NN|NN|.|-LRB-|JJ|-RRB-	DATE|O|O|O|O|O|O|O|O|O	PRESENT_REF|||||||||				Currently in the Closed Beta Stage. (Unreleased)
+7	0	fb:cell.akaneiro_demon_hunters	Akaneiro: Demon Hunters	akaneiro|:|demon|hunters	Akaneiro|:|demon|hunter	NNP|:|NN|NNS	PERSON|O|O|O	|||				
+7	1	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+7	2	fb:cell.browsers_tegra_powered_tablets	Browsers, Tegra-powered tablets	browsers|,|tegra|powered|tablets	browser|,|Tegra|power|tablet	NNS|,|NNP|VBD|NNS	O|O|PERSON|O|O	||||				Browsers|Tegra-powered tablets
+7	3	fb:cell.spicy_horse	Spicy Horse	spicy|horse	spicy|horse	JJ|NN	O|O	|				
+7	4	fb:cell.spicy_horse	Spicy Horse	spicy|horse	spicy|horse	JJ|NN	O|O	|				
+7	5	fb:cell.a_japanese_mcgee_take_on_little_red_riding_hood	A Japanese/McGee take on Little Red Riding Hood.	a|japanese/mcgee|take|on|little|red|riding|hood|.	a|japanese/mcgee|take|on|little|red|ride|hood|.	DT|NN|VB|RP|JJ|JJ|VBG|NN|.	O|O|O|O|O|O|O|O|O	||||||||				A Japanese|McGee take on Little Red Riding Hood.

@@ -1,0 +1,46 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.title	Title	title	title	NN	O					
+-1	1	fb:row.row.release	Release	release	release	NN	O					
+-1	2	fb:row.row.6th_gen	6th Gen	6th|gen	6th|gen	JJ|NN	ORDINAL|O	6.0|				
+-1	3	fb:row.row.handheld	Handheld	handheld	handheld	JJ	O					
+-1	4	fb:row.row.note	Note	note	note	NN	O					
+0	0	fb:cell.buggy_grand_prix_kattobi_dai_sakusen	Buggy Grand Prix: Kattobi! Dai-Sakusen	buggy|grand|prix|:|kattobi|!|dai|sakusen	buggy|Grand|Prix|:|Kattobi|!|Dai|Sakusen	NN|NNP|NNP|:|NNP|.|NNP|NNP	MISC|MISC|MISC|O|PERSON|O|PERSON|PERSON	|||||||				Buggy Grand Prix: Kattobi! Dai-Sakusen
+0	1	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+0	2	fb:cell.playstation_2	PlayStation 2	playstation|2	PlayStation|2	NNP|CD	O|NUMBER	|2.0	2.0			PlayStation 2
+0	3	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+0	4	fb:cell.null										
+1	0	fb:cell.gunbird_special_edition_gunbird_1_2	Gunbird Special Edition / Gunbird 1&2	gunbird|special|edition|/|gunbird|1|&|2	Gunbird|special|edition|/|Gunbird|1|&|2	NNP|JJ|NN|:|NNP|CD|CC|CD	O|O|O|O|O|NUMBER|O|NUMBER	|||||1.0||2.0	1.0		2.0	Gunbird Special Edition|Gunbird 1&2
+1	1	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+1	2	fb:cell.playstation_2	PlayStation 2	playstation|2	PlayStation|2	NNP|CD	O|NUMBER	|2.0	2.0			PlayStation 2
+1	3	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+1	4	fb:cell.null										
+2	0	fb:cell.psikyo_shooting_collection_vol_1_strikers_1945_i_ii	Psikyo Shooting Collection Vol. 1: Strikers 1945 I & II	psikyo|shooting|collection|vol|.|1|:|strikers|1945|i|&|ii	Psikyo|shooting|collection|vol|.|1|:|striker|1945|I|&|II	NNP|NN|NN|NN|.|CD|:|NNS|CD|NNP|CC|NNP	O|O|O|O|O|NUMBER|O|O|DATE|O|O|O	|||||1.0|||1945|||	0.1		1945.0	Psikyo Shooting Collection Vol. 1: Strikers 1945 I & II
+2	1	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+2	2	fb:cell.playstation_2	PlayStation 2	playstation|2	PlayStation|2	NNP|CD	O|NUMBER	|2.0	2.0			PlayStation 2
+2	3	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+2	4	fb:cell.released_and_published_in_europe_by_play_it_as_1945_i_ii_the_arcade_games	Released and published in Europe by Play It as 1945 I & II: The Arcade Games.	released|and|published|in|europe|by|play|it|as|1945|i|&|ii|:|the|arcade|games|.	release|and|publish|in|Europe|by|play|it|as|1945|I|&|II|:|the|Arcade|Games|.	VBN|CC|VBN|IN|NNP|IN|VB|PRP|IN|CD|NNP|CC|NNP|:|DT|NNP|NNPS|.	O|O|O|O|LOCATION|O|O|O|O|DATE|O|O|O|O|O|O|O|O	|||||||||1945||||||||	1945.0			
+3	0	fb:cell.psikyo_shooting_collection_vol_2_sengoku_ace_sengoku_blade	Psikyo Shooting Collection Vol. 2: Sengoku Ace & Sengoku Blade	psikyo|shooting|collection|vol|.|2|:|sengoku|ace|&|sengoku|blade	Psikyo|shooting|collection|vol|.|2|:|Sengoku|ace|&|Sengoku|Blade	NNP|NN|NN|NN|.|CD|:|NNP|NN|CC|NNP|NNP	O|O|O|O|O|NUMBER|O|PERSON|O|O|PERSON|PERSON	|||||2.0||||||	0.2			Psikyo Shooting Collection Vol. 2: Sengoku Ace & Sengoku Blade
+3	1	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+3	2	fb:cell.playstation_2	PlayStation 2	playstation|2	PlayStation|2	NNP|CD	O|NUMBER	|2.0	2.0			PlayStation 2
+3	3	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+3	4	fb:cell.null										
+4	0	fb:cell.psikyo_shooting_collection_vol_3_sol_divide_dragon_blaze	Psikyo Shooting Collection Vol. 3: Sol Divide & Dragon Blaze	psikyo|shooting|collection|vol|.|3|:|sol|divide|&|dragon|blaze	Psikyo|shooting|collection|vol|.|3|:|Sol|divide|&|Dragon|blaze	NNP|NN|NN|NN|.|CD|:|NNP|NN|CC|NNP|VBP	O|O|O|O|O|NUMBER|O|O|O|O|O|O	|||||3.0||||||	0.3			Psikyo Shooting Collection Vol. 3: Sol Divide & Dragon Blaze
+4	1	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+4	2	fb:cell.playstation_2	PlayStation 2	playstation|2	PlayStation|2	NNP|CD	O|NUMBER	|2.0	2.0			PlayStation 2
+4	3	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+4	4	fb:cell.null										
+5	0	fb:cell.taisen_hot_gimmick_cosplay_mahjong	Taisen Hot Gimmick: Cosplay Mahjong	taisen|hot|gimmick|:|cosplay|mahjong	Taisen|Hot|gimmick|:|Cosplay|Mahjong	NNP|NNP|NN|:|NNP|NNP	PERSON|O|O|O|O|O	|||||				Taisen Hot Gimmick: Cosplay Mahjong
+5	1	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+5	2	fb:cell.playstation_2	PlayStation 2	playstation|2	PlayStation|2	NNP|CD	O|NUMBER	|2.0	2.0			PlayStation 2
+5	3	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+5	4	fb:cell.null										
+6	0	fb:cell.sengoku_cannon	Sengoku Cannon	sengoku|cannon	Sengoku|Cannon	NNP|NNP	PERSON|PERSON	|				Sengoku Cannon
+6	1	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+6	2	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+6	3	fb:cell.psp	PSP	psp	PSP	NNP	O					PSP
+6	4	fb:cell.null										
+7	0	fb:cell.taisen_hot_gimmick_axes_jong	Taisen Hot Gimmick: Axes-Jong	taisen|hot|gimmick|:|axes|jong	Taisen|Hot|gimmick|:|axis|jong	NNP|NNP|NN|:|NNS|FW	PERSON|O|O|O|O|O	|||||				Taisen Hot Gimmick: Axes-Jong
+7	1	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+7	2	fb:cell.playstation_2	PlayStation 2	playstation|2	PlayStation|2	NNP|CD	O|NUMBER	|2.0	2.0			PlayStation 2
+7	3	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+7	4	fb:cell.null										

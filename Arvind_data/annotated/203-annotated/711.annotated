@@ -1,0 +1,79 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.name	Name	name	name	NN	O					
+-1	1	fb:row.row.age	Age	age	age	NN	O					
+-1	2	fb:row.row.hometown	Hometown	hometown	hometown	NN	O					
+-1	3	fb:row.row.occupation	Occupation	occupation	occupation	NN	O					
+-1	4	fb:row.row.culinary_p_o_v	Culinary P.O.V.	culinary|p.o.v.	culinary|p.o.v.	JJ|NN	O|O	|				
+-1	5	fb:row.row.eliminated	Eliminated	eliminated	eliminate	VBN	O					
+0	0	fb:cell.damaris_phillips	Damaris Phillips	damaris|phillips	Damaris|Phillips	NNP|NNP	PERSON|PERSON	|				
+0	1	fb:cell.31	31	31	31	CD	NUMBER	31.0	31.0			
+0	2	fb:cell.louisville_ky	Louisville, KY	louisville|,|ky	Louisville|,|KY	NNP|,|NNP	LOCATION|O|PERSON	||				Louisville|KY
+0	3	fb:cell.culinary_teacher	Culinary Teacher	culinary|teacher	culinary|teacher	JJ|NN	O|O	|				Culinary Teacher
+0	4	fb:cell._modern_southern_food	"Modern Southern Food"	``|modern|southern|food|''	``|modern|southern|food|''	``|JJ|JJ|NN|''	O|O|O|O|O	||||				"Modern Southern Food"
+0	5	fb:cell.winner	Winner	winner	winner	NN	O					
+1	0	fb:cell.rodney_henry	Rodney Henry	rodney|henry	Rodney|Henry	NNP|NNP	PERSON|PERSON	|				
+1	1	fb:cell.47	47	47	47	CD	NUMBER	47.0	47.0			
+1	2	fb:cell.baltimore_md	Baltimore, MD	baltimore|,|md	Baltimore|,|MD	NNP|,|NNP	LOCATION|O|O	||				Baltimore|MD
+1	3	fb:cell.pie_shop_owner	Pie Shop Owner	pie|shop|owner	pie|shop|owner	NN|NN|NN	O|O|O	||				Pie Shop Owner
+1	4	fb:cell._pie_style	"Pie Style"	``|pie|style|''	``|Pie|style|''	``|NNP|NN|''	O|O|O|O	|||				"Pie Style"
+1	5	fb:cell.second_place	Second Place	second|place	second|place	JJ|NN	ORDINAL|O	2.0|				
+2	0	fb:cell.russell_jackson	Russell Jackson	russell|jackson	Russell|Jackson	NNP|NNP	PERSON|PERSON	|				
+2	1	fb:cell.49	49	49	49	CD	NUMBER	49.0	49.0			
+2	2	fb:cell.san_francisco_ca	San Francisco, CA	san|francisco|,|ca	San|Francisco|,|CA	NNP|NNP|,|NNP	LOCATION|LOCATION|O|O	|||				San Francisco|CA
+2	3	fb:cell.underground_chef	Underground Chef	underground|chef	underground|chef	JJ|NN	O|O	|				Underground Chef
+2	4	fb:cell._seven_culinary_sins	"Seven Culinary Sins"	``|seven|culinary|sins|''	``|seven|culinary|sin|''	``|CD|JJ|NNS|''	O|NUMBER|O|O|O	|7.0|||				"Seven Culinary Sins"
+2	5	fb:cell.third_place	Third Place	third|place	third|place	JJ|NN	ORDINAL|O	3.0|				
+3	0	fb:cell.stacey_poon_kinney	Stacey Poon-Kinney	stacey|poon|kinney	Stacey|Poon|Kinney	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+3	1	fb:cell.34	34	34	34	CD	NUMBER	34.0	34.0			
+3	2	fb:cell.san_diego_ca	San Diego, CA	san|diego|,|ca	San|Diego|,|CA	NNP|NNP|,|NNP	LOCATION|LOCATION|O|O	|||				San Diego|CA
+3	3	fb:cell.restaurant_owner	Restaurant Owner	restaurant|owner	restaurant|owner	NN|NN	O|O	|				Restaurant Owner
+3	4	fb:cell._vintage_with_a_modern_twist	"Vintage with a Modern Twist"	``|vintage|with|a|modern|twist|''	``|vintage|with|a|modern|twist|''	``|NN|IN|DT|JJ|NN|''	O|O|O|O|O|O|O	||||||				"Vintage with a Modern Twist"
+3	5	fb:cell.week_10	Week 10	week|10	week|10	NN|CD	DURATION|NUMBER	P1W|10.0	10.0			
+4	0	fb:cell.nikki_dinki	Nikki Dinki	nikki|dinki	Nikki|Dinki	NNP|NNP	PERSON|PERSON	|				
+4	1	fb:cell.29	29	29	29	CD	NUMBER	29.0	29.0			
+4	2	fb:cell.new_york_ny	New York, NY	new|york|,|ny	New|York|,|NY	NNP|NNP|,|NNP	LOCATION|LOCATION|O|O	|||				New York|NY
+4	3	fb:cell.food_blogger_online_host	Food Blogger/Online Host	food|blogger/online|host	Food|Blogger/Online|host	NNP|NNP|NN	O|O|O	||				Food Blogger|Online Host
+4	4	fb:cell._semi_vegetarian_meat_on_the_side	"Semi-Vegetarian" / "Meat on the Side"	``|semi|vegetarian|''|/|``|meat|on|the|side|''	``|Semi|Vegetarian|''|/|``|meat|on|the|side|''	``|NNP|NNP|''|:|``|NN|IN|DT|NN|''	O|O|O|O|O|O|O|O|O|O|O	||||||||||				"Semi-Vegetarian"|"Meat on the Side"
+4	5	fb:cell.week_9	Week 9	week|9	week|9	NN|CD	DURATION|NUMBER	P1W|9.0	9.0			
+5	0	fb:cell.chad_rosenthal	Chad Rosenthal	chad|rosenthal	Chad|Rosenthal	NNP|NNP	PERSON|PERSON	|				
+5	1	fb:cell.37	37	37	37	CD	NUMBER	37.0	37.0			
+5	2	fb:cell.ambler_pa	Ambler, PA	ambler|,|pa	Ambler|,|PA	NNP|,|NNP	PERSON|O|O	||				Ambler|PA
+5	3	fb:cell.restaurant_owner	Restaurant Owner	restaurant|owner	restaurant|owner	NN|NN	O|O	|				Restaurant Owner
+5	4	fb:cell._jewish_bbq_guy	"Jewish BBQ Guy"	``|jewish|bbq|guy|''	``|jewish|bbq|guy|''	``|JJ|NN|NN|''	O|MISC|O|O|O	||||				"Jewish BBQ Guy"
+5	5	fb:cell.week_7	Week 7	week|7	week|7	NN|CD	DURATION|NUMBER	P1W|7.0	7.0			
+6	0	fb:cell.chris_hodgson	Chris Hodgson	chris|hodgson	Chris|Hodgson	NNP|NNP	PERSON|PERSON	|				
+6	1	fb:cell.26	26	26	26	CD	NUMBER	26.0	26.0			
+6	2	fb:cell.cleveland_oh	Cleveland, OH	cleveland|,|oh	Cleveland|,|oh	NNP|,|UH	LOCATION|O|O	||				Cleveland|OH
+6	3	fb:cell.chef_restaurateur	Chef/Restaurateur	chef/restaurateur	chef/restaurateur	NN	O					Chef|Restaurateur
+6	4	fb:cell._compassion_for_food	"Compassion for Food"	``|compassion|for|food|''	``|compassion|for|food|''	``|NN|IN|NN|''	O|O|O|O|O	||||				"Compassion for Food"
+6	5	fb:cell.week_6	Week 6	week|6	week|6	NN|CD	DURATION|NUMBER	P1W|6.0	6.0			
+7	0	fb:cell.viet_pham	Viet Pham	viet|pham	Viet|Pham	NNP|NNP	PERSON|PERSON	|				
+7	1	fb:cell.33	33	33	33	CD	NUMBER	33.0	33.0			
+7	2	fb:cell.salt_lake_city_ut	Salt Lake City, UT	salt|lake|city|,|ut	Salt|Lake|City|,|UT	NNP|NNP|NNP|,|NNP	LOCATION|LOCATION|LOCATION|O|O	||||				Salt Lake City|UT
+7	3	fb:cell.chef_restaurant_owner	Chef/Restaurant Owner	chef/restaurant|owner	chef/restaurant|owner	NN|NN	O|O	|				Chef|Restaurant Owner
+7	4	fb:cell._the_american_dream	"The American Dream"	``|the|american|dream|''	``|the|American|dream|''	``|DT|NNP|NN|''	O|O|O|O|O	||||				"The American Dream"
+7	5	fb:cell.week_5	Week 5	week|5	week|5	NN|CD	DURATION|NUMBER	P1W|5.0	5.0			
+8	0	fb:cell.connie_lovely_jackson	Connie "Lovely" Jackson	connie|``|lovely|''|jackson	Connie|``|lovely|''|Jackson	NNP|``|JJ|''|NNP	O|O|O|O|PERSON	||||				
+8	1	fb:cell.27	27	27	27	CD	NUMBER	27.0	27.0			
+8	2	fb:cell.los_angeles_ca	Los Angeles, CA	los|angeles|,|ca	Los|Angeles|,|CA	NNP|NNP|,|NNP	LOCATION|LOCATION|O|O	|||				Los Angeles|CA
+8	3	fb:cell.caterer	Caterer	caterer	caterer	NN	O					Caterer
+8	4	fb:cell._party_on_a_plate	"Party on a Plate"	``|party|on|a|plate|''	``|party|on|a|plate|''	``|NN|IN|DT|NN|''	O|O|O|O|O|O	|||||				"Party on a Plate"
+8	5	fb:cell.week_4_week_8_winner_of_star_salvation	Week 4 & Week 8(Winner of Star Salvation)	week|4|&|week|8|-lrb-|winner|of|star|salvation|-rrb-	week|4|&|week|8|-lrb-|winner|of|star|salvation|-rrb-	NN|CD|CC|NN|CD|-LRB-|NN|IN|NN|NN|-RRB-	DURATION|NUMBER|O|DURATION|NUMBER|O|O|O|O|O|O	P1W|4.0||P1W|8.0||||||	4.0		8.0	
+9	0	fb:cell.danushka_lysek	Danushka Lysek	danushka|lysek	Danushka|Lysek	NNP|NNP	PERSON|PERSON	|				
+9	1	fb:cell.37	37	37	37	CD	NUMBER	37.0	37.0			
+9	2	fb:cell.new_york_ny	New York, NY	new|york|,|ny	New|York|,|NY	NNP|NNP|,|NNP	LOCATION|LOCATION|O|O	|||				New York|NY
+9	3	fb:cell.private_chef_model	Private Chef/Model	private|chef/model	private|chef/model	JJ|NN	O|O	|				Private Chef|Model
+9	4	fb:cell._your_private_chef	"Your Private Chef"	``|your|private|chef|''	``|you|private|chef|''	``|PRP$|JJ|NN|''	O|O|O|O|O	||||				"Your Private Chef"
+9	5	fb:cell.week_3	Week 3	week|3	week|3	NN|CD	DURATION|NUMBER	P1W|3.0	3.0			
+10	0	fb:cell.andres_guillama	Andres Guillama	andres|guillama	Andres|Guillama	NNP|NNP	PERSON|PERSON	|				
+10	1	fb:cell.26	26	26	26	CD	NUMBER	26.0	26.0			
+10	2	fb:cell.waynesville_nc	Waynesville, NC	waynesville|,|nc	Waynesville|,|NC	NNP|,|NNP	LOCATION|O|O	||				Waynesville|NC
+10	3	fb:cell.childhood_obesity_prevention_coach	Childhood Obesity Prevention Coach	childhood|obesity|prevention|coach	childhood|obesity|prevention|coach	NN|NN|NN|NN	O|O|O|O	|||				Childhood Obesity Prevention Coach
+10	4	fb:cell._teaching_men_to_cook	"Teaching Men to Cook"	``|teaching|men|to|cook|''	``|teaching|man|to|cook|''	``|NN|NNS|TO|VB|''	O|O|O|O|O|O	|||||				"Teaching Men to Cook"
+10	5	fb:cell.week_2	Week 2	week|2	week|2	NN|CD	DURATION|NUMBER	P1W|2.0	2.0			
+11	0	fb:cell.daniela_perez_reyes	Daniela Perez-Reyes	daniela|perez|reyes	Daniela|Perez|Reyes	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+11	1	fb:cell.28	28	28	28	CD	NUMBER	28.0	28.0			
+11	2	fb:cell.haleiwa_hi	Haleiwa, HI	haleiwa|,|hi	Haleiwa|,|hi	NNP|,|UH	LOCATION|O|O	||				Haleiwa|HI
+11	3	fb:cell.bartender_caterer	Bartender/Caterer	bartender/caterer	bartender/caterer	NN	O					Bartender|Caterer
+11	4	fb:cell._peruvian_princess	"Peruvian Princess"	``|peruvian|princess|''	``|peruvian|Princess|''	``|JJ|NNP|''	O|MISC|O|O	|||				"Peruvian Princess"
+11	5	fb:cell.week_1	Week 1	week|1	week|1	NN|CD	DURATION|NUMBER	P1W|1.0	1.0			

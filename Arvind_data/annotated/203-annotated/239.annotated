@@ -1,0 +1,231 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.title	Title	title	title	NN	O					
+-1	2	fb:row.row.chinese_title	Chinese title	chinese|title	Chinese|title	NNP|NNP	MISC|O	|				
+-1	3	fb:row.row.role	Role	role	role	NN	O					
+-1	4	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+0	1	fb:cell.to_miss_with_love	To Miss with Love	to|miss|with|love	to|miss|with|love	TO|VB|IN|NN	O|O|O|O	|||				To Miss with Love
+0	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+0	3	fb:cell.lai_man_si	Lai Man-si	lai|man|si	Lai|Man|si	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Lai Man-si
+0	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+1	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+1	1	fb:cell.super_lady_cop	Super Lady Cop	super|lady|cop	Super|Lady|cop	NNP|NNP|NN	O|O|O	||				Super Lady Cop
+1	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+1	3	fb:cell.yoki	Yoki	yoki	Yoki	NNP	PERSON					Yoki
+1	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+2	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+2	1	fb:cell.fight_back_to_school_ii	Fight Back to School II	fight|back|to|school|ii	fight|back|to|school|ii	VB|RB|TO|NN|CD	O|O|O|O|NUMBER	||||0.0				Fight Back to School II
+2	2	fb:cell.2	逃學威龍2	逃學威龍2	逃學威龍2	NN	O		2.0			
+2	3	fb:cell.sandy	Sandy	sandy	Sandy	NNP	PERSON					Sandy
+2	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+3	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+3	1	fb:cell.once_a_cop	Once a Cop	once|a|cop	once|a|cop	RB|DT|NN	DATE|O|O	PAST_REF||				Once a Cop
+3	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+3	3	fb:cell.annie_lee	Annie Lee	annie|lee	Annie|Lee	NNP|NNP	PERSON|PERSON	|				Annie Lee
+3	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+4	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+4	1	fb:cell.taxi_hunter	Taxi Hunter	taxi|hunter	taxi|hunter	NN|NN	O|O	|				Taxi Hunter
+4	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+4	3	fb:cell.yan	Yan	yan	Yan	NNP	O					Yan
+4	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+5	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+5	1	fb:cell.tom_dick_and_hairy	Tom, Dick And Hairy	tom|,|dick|and|hairy	Tom|,|Dick|and|hairy	NNP|,|NNP|CC|JJ	PERSON|O|PERSON|O|O	||||				Tom|Dick And Hairy
+5	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+5	3	fb:cell.pearl_chan	Pearl Chan	pearl|chan	Pearl|Chan	NNP|NNP	PERSON|PERSON	|				Pearl Chan
+5	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+6	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+6	1	fb:cell.vampire_family	Vampire Family	vampire|family	Vampire|Family	NNP|NNP	O|O	|				Vampire Family
+6	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+6	3	fb:cell.chu_lee_mei	Chu Lee-mei	chu|lee|mei	Chu|Lee|meus	NNP|NNP|NN	PERSON|PERSON|PERSON	||				Chu Lee-mei
+6	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+7	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+7	1	fb:cell.lantern	Lantern	lantern	Lantern	NNP	O					Lantern
+7	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+7	3	fb:cell.fong	Fong	fong	Fong	NNP	PERSON					Fong
+7	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+8	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+8	1	fb:cell.easy_money	Easy Money	easy|money	easy|money	JJ|NN	O|O	|				Easy Money
+8	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+8	3	fb:cell.sisi_li	Sisi Li	sisi|li	Sisi|Li	NNP|NNP	PERSON|PERSON	|				Sisi Li
+8	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+9	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+9	1	fb:cell.shaolin_kung_fu_kids	Shaolin Kung Fu Kids	shaolin|kung|fu|kids	Shaolin|Kung|Fu|Kids	NNP|NNP|NNP|NNP	LOCATION|LOCATION|LOCATION|O	|||				Shaolin Kung Fu Kids
+9	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+9	3	fb:cell.sister_lam	Sister Lam	sister|lam	sister|lam	NN|NN	O|PERSON	|				Sister Lam
+9	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+10	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+10	1	fb:cell.trouble_maker	Trouble Maker	trouble|maker	trouble|maker	NN|NN	O|O	|				Trouble Maker
+10	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+10	3	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+10	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+11	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+11	1	fb:cell.remember_m_remember_e	Remember M, Remember E	remember|m|,|remember|e	remember|m|,|remember|e	VB|NN|,|VB|NN	O|O|O|O|O	||||				Remember M|Remember E
+11	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+11	3	fb:cell.chui_ching	Chui Ching	chui|ching	Chui|Ching	NNP|NNP	PERSON|PERSON	|				Chui Ching
+11	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+12	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+12	1	fb:cell.cupid_love	Cupid Love	cupid|love	Cupid|Love	NNP|NNP	O|O	|				Cupid Love
+12	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+12	3	fb:cell.ching_ching	Ching-ching	ching|ching	Ching|ching	NNP|NNP	PERSON|PERSON	|				Ching-ching
+12	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+13	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+13	1	fb:cell.a_chinese_odyssey_part_one_pandora_s_box	A Chinese Odyssey Part One: Pandora's Box	a|chinese|odyssey|part|one|:|pandora|'s|box	a|chinese|odyssey|part|one|:|Pandora|'s|box	DT|JJ|NN|NN|CD|:|NNP|POS|NN	O|MISC|O|O|NUMBER|O|PERSON|O|O	||||1.0||||				A Chinese Odyssey Part One: Pandora's Box
+13	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+13	3	fb:cell.purple_lin_zixia	Purple / Lin Zixia	purple|/|lin|zixia	purple|/|Lin|Zixia	JJ|:|NNP|NNP	O|O|PERSON|PERSON	|||				Purple|Lin Zixia
+13	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+14	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+14	1	fb:cell.a_chinese_odyssey_part_two_cinderella	A Chinese Odyssey Part Two: Cinderella	a|chinese|odyssey|part|two|:|cinderella	a|chinese|odyssey|part|two|:|Cinderella	DT|JJ|NN|NN|CD|:|NNP	O|MISC|O|O|NUMBER|O|PERSON	||||2.0||				A Chinese Odyssey Part Two: Cinderella
+14	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+14	3	fb:cell.lin_zixia	Lin Zixia	lin|zixia	Lin|Zixia	NNP|NNP	PERSON|PERSON	|				Lin Zixia
+14	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+15	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+15	1	fb:cell.the_feeling_of_love	The Feeling of Love	the|feeling|of|love	the|feeling|of|love	DT|NN|IN|NN	O|O|O|O	|||				The Feeling of Love
+15	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+15	3	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+15	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+16	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+16	1	fb:cell.hero_of_swallow	Hero of Swallow	hero|of|swallow	hero|of|swallow	NN|IN|VB	O|O|O	||				Hero of Swallow
+16	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+16	3	fb:cell.chinny	Chinny	chinny	Chinny	NNP	O					Chinny
+16	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+17	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+17	1	fb:cell.ah_fai_the_dumb	Ah Fai the Dumb	ah|fai|the|dumb	ah|Fai|the|dumb	NN|NNP|DT|JJ	O|ORGANIZATION|O|O	|||				Ah Fai the Dumb
+17	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+17	3	fb:cell.man_man	Man-man	man|man	man|man	NN|NN	PERSON|PERSON	|				Man-man
+17	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+18	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+18	1	fb:cell.temptress_of_a_thousand_face	Temptress of a Thousand Face	temptress|of|a|thousand|face	temptress|of|a|thousand|face	NN|IN|DT|CD|NN	O|O|O|NUMBER|O	|||1000.0|				Temptress of a Thousand Face
+18	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+18	3	fb:cell.sherry_wong	Sherry Wong	sherry|wong	Sherry|Wong	NNP|NNP	PERSON|PERSON	|				Sherry Wong
+18	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+19	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+19	1	fb:cell.tricky_king	Tricky King	tricky|king	tricky|king	JJ|NN	O|O	|				Tricky King
+19	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+19	3	fb:cell.dkny_yandy	DKNY / Yandy	dkny|/|yandy	dkny|/|yandy	NN|:|NN	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				DKNY|Yandy
+19	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+20	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+20	1	fb:cell.step_into_the_dark	Step into the Dark	step|into|the|dark	step|into|the|dark	VB|IN|DT|JJ	O|O|O|O	|||				Step into the Dark
+20	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+20	3	fb:cell.faith_ching	Faith Ching	faith|ching	faith|ching	NN|NN	PERSON|PERSON	|				Faith Ching
+20	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+21	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+21	1	fb:cell.shanghai_affairs	Shanghai Affairs	shanghai|affairs	Shanghai|Affairs	NNP|NNPS	ORGANIZATION|ORGANIZATION	|				Shanghai Affairs
+21	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+21	3	fb:cell.sin	Sin	sin	Sin	NNP	O					Sin
+21	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+22	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+22	1	fb:cell.the_love_and_sex_of_the_eastern_hollywood	The Love and Sex of the Eastern Hollywood	the|love|and|sex|of|the|eastern|hollywood	the|love|and|sex|of|the|Eastern|Hollywood	DT|NN|CC|NN|IN|DT|NNP|NNP	O|O|O|O|O|O|O|LOCATION	|||||||				The Love and Sex of the Eastern Hollywood
+22	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+22	3	fb:cell.yue	Yue	yue	Yue	NNP	O					Yue
+22	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+23	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+23	1	fb:cell.take_five	Take Five	take|five	take|five	VB|CD	O|NUMBER	|5.0				Take Five
+23	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+23	3	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+23	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+24	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+24	1	fb:cell.raped_by_an_angel_2_the_uniform_fan	Raped by an Angel 2: The Uniform Fan	raped|by|an|angel|2|:|the|uniform|fan	rape|by|a|Angel|2|:|the|uniform|fan	VBN|IN|DT|NNP|CD|:|DT|JJ|NN	O|O|O|O|NUMBER|O|O|O|O	||||2.0||||	2.0			Raped by an Angel 2: The Uniform Fan
+24	2	fb:cell.2	逃學威龍2	逃學威龍2	逃學威龍2	NN	O		2.0			
+24	3	fb:cell.po_man	Po-man	po|man	Po|man	NNP|NNP	PERSON|PERSON	|				Po-man
+24	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+25	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+25	1	fb:cell.the_conman	The Conman	the|conman	the|conman	DT|NN	O|O	|				The Conman
+25	2	fb:cell.1999	賭俠1999	賭俠1999	賭俠1999	NN	O		1999.0			
+25	3	fb:cell.ching	Ching	ching	Ching	NNP	PERSON					Ching
+25	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+26	0	fb:cell.1999	賭俠1999	賭俠1999	賭俠1999	NN	O		1999.0			
+26	1	fb:cell.the_h_k_triad	The H.K. Triad	the|h.k.|triad	the|H.K.|Triad	DT|NNP|NNP	O|LOCATION|O	||				The H.K. Triad
+26	2	fb:cell.o	O記三合會檔案	o記三合會檔案	o記三合會檔案	NN	O					
+26	3	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+26	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+27	0	fb:cell.1999	賭俠1999	賭俠1999	賭俠1999	NN	O		1999.0			
+27	1	fb:cell.the_boss_up_there	The Boss Up There	the|boss|up|there	the|boss|up|there	DT|NN|IN|EX	O|O|O|O	|||				The Boss Up There
+27	2	fb:cell.fit	生命楂Fit人	生命楂fit人	生命楂fit人	NN	O					
+27	3	fb:cell.fong_hei_tung	Fong Hei-tung	fong|hei|tung	Fong|Hei|tung	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Fong Hei-tung
+27	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+28	0	fb:cell.1999	賭俠1999	賭俠1999	賭俠1999	NN	O		1999.0			
+28	1	fb:cell.raped_by_an_angel_4_the_raper_s_union	Raped by an Angel 4: The Raper's Union	raped|by|an|angel|4|:|the|raper|'s|union	rape|by|a|Angel|4|:|the|Raper|'s|union	VBN|IN|DT|NNP|CD|:|DT|NNP|POS|NN	O|O|O|O|NUMBER|O|O|PERSON|O|O	||||4.0|||||	4.0			Raped by an Angel 4: The Raper's Union
+28	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+28	3	fb:cell.po_man	Po-man	po|man	Po|man	NNP|NNP	PERSON|PERSON	|				Po-man
+28	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+29	0	fb:cell.1999	賭俠1999	賭俠1999	賭俠1999	NN	O		1999.0			
+29	1	fb:cell.horoscope_1_the_voice_from_hell	Horoscope 1: The Voice from Hell	horoscope|1|:|the|voice|from|hell	horoscope|1|:|the|voice|from|hell	NN|CD|:|DT|NN|IN|NN	O|NUMBER|O|O|O|O|O	|1.0|||||	1.0			Horoscope 1: The Voice from Hell
+29	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+29	3	fb:cell.jojo	Jojo	jojo	Jojo	NNP	PERSON					Jojo
+29	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+30	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+30	1	fb:cell.love_correction	Love Correction	love|correction	love|correction	NN|NN	O|O	|				Love Correction
+30	2	fb:cell.take_2	緣份有Take 2	緣份有take|2	緣份有take|2	NN|CD	O|NUMBER	|2.0	2.0			
+30	3	fb:cell.emma_lau	Emma Lau	emma|lau	Emma|Lau	NNP|NNP	PERSON|PERSON	|				Emma Lau
+30	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+31	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+31	1	fb:cell.conman_in_tokyo	Conman in Tokyo	conman|in|tokyo	conman|in|Tokyo	NN|IN|NNP	O|O|LOCATION	||				Conman in Tokyo
+31	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+31	3	fb:cell.karen	Karen	karen	Karen	NNP	PERSON					Karen
+31	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+32	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+32	1	fb:cell.stowaway	Stowaway	stowaway	stowaway	NN	O					Stowaway
+32	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+32	3	fb:cell.kam_lan	Kam Lan	kam|lan	Kam|Lan	NNP|NNP	PERSON|PERSON	|				Kam Lan
+32	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+33	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+33	1	fb:cell.never_say_goodbye	Never Say Goodbye	never|say|goodbye	never|say|Goodbye	RB|VBP|NNP	O|O|O	||				Never Say Goodbye
+33	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+33	3	fb:cell.jean	Jean	jean	Jean	NNP	PERSON					Jean
+33	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+34	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+34	1	fb:cell.chinese_odyssey_2002	Chinese Odyssey 2002	chinese|odyssey|2002	chinese|odyssey|2002	JJ|NN|CD	MISC|O|DATE	||2002	2002.0			Chinese Odyssey 2002
+34	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+34	3	fb:cell.amour_amour	Amour Amour	amour|amour	Amour|Amour	NNP|NNP	O|O	|				Amour Amour
+34	4	fb:cell.guest_star	guest star	guest|star	guest|star	NN|NN	O|O	|				
+35	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+35	1	fb:cell.time_4_hope	Time 4 Hope	time|4|hope	time|4|hope	NN|CD|NN	O|NUMBER|O	|4.0|	4.0			Time 4 Hope
+35	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+35	3	fb:cell.cindy	Cindy	cindy	Cindy	NNP	PERSON					Cindy
+35	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+36	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+36	1	fb:cell.shiver	Shiver	shiver	shiver	VB	O					Shiver
+36	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+36	3	fb:cell.sammi_mok_sum_yi	Sammi Mok Sum-yi	sammi|mok|sum|yi	Sammi|Mok|sum|yus	NNP|NNP|NN|NN	ORGANIZATION|O|O|O	|||				Sammi Mok Sum-yi
+36	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+37	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+37	1	fb:cell.dack_night_wolf	Dack Night Wolf	dack|night|wolf	Dack|Night|Wolf	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Dack Night Wolf
+37	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+37	3	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+37	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+38	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+38	1	fb:cell.sex_and_the_beauties	Sex and the Beauties	sex|and|the|beauties	sex|and|the|beauty	NN|CC|DT|NNS	O|O|O|O	|||				Sex and the Beauties
+38	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+38	3	fb:cell.kwan_tak_han	Kwan Tak-han	kwan|tak|han	Kwan|Tak|han	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Kwan Tak-han
+38	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+39	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+39	1	fb:cell.love_is_a_many_stupid_thing	Love is a Many Stupid Thing	love|is|a|many|stupid|thing	love|be|a|many|stupid|thing	NN|VBD-AUX|DT|JJ|JJ|NN	O|O|O|O|O|O	|||||				Love is a Many Stupid Thing
+39	2	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+39	3	fb:cell.chu_yan	Chu Yan	chu|yan	Chu|Yan	NNP|NNP	PERSON|PERSON	|				Chu Yan
+39	4	fb:cell.guest_star	guest star	guest|star	guest|star	NN|NN	O|O	|				
+40	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+40	1	fb:cell.whispers_and_moans	Whispers and Moans	whispers|and|moans	whisper|and|moan	NNS|CC|VBZ	O|O|O	||				Whispers and Moans
+40	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+40	3	fb:cell.coco	Coco	coco	Coco	NNP	PERSON					Coco
+40	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+41	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+41	1	fb:cell.just_another_pandora_s_box	Just Another Pandora's Box	just|another|pandora|'s|box	just|another|Pandora|'s|box	RB|DT|NNP|POS|NN	O|O|PERSON|O|O	||||				Just Another Pandora's Box
+41	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+41	3	fb:cell.purple_cloud	Purple Cloud	purple|cloud	purple|cloud	JJ|NN	O|O	|				Purple Cloud
+41	4	fb:cell.guest_star	guest star	guest|star	guest|star	NN|NN	O|O	|				
+42	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+42	1	fb:cell.the_aroma_city	The Aroma City	the|aroma|city	the|aroma|city	DT|NN|NN	O|O|O	||				The Aroma City
+42	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+42	3	fb:cell.so_ling_fong	So Ling-fong	so|ling|fong	so|Ling|fong	RB|NNP|NNP	O|PERSON|PERSON	||				So Ling-fong
+42	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+43	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+43	1	fb:cell.let_love_come_back	Let Love Come Back	let|love|come|back	let|Love|come|back	VB|NNP|VB|RB	O|O|O|O	|||				Let Love Come Back
+43	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+43	3	fb:cell.ng_fan	Ng Fan	ng|fan	ng|fan	NN|NN	PERSON|PERSON	|				Ng Fan
+43	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+44	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+44	1	fb:cell.scary_market	Scary Market	scary|market	scary|market	JJ|NN	O|O	|				Scary Market
+44	2	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+44	3	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳
+44	4	fb:cell.null	逃學外傳	逃學外傳	逃學外傳	NNP	O					逃學外傳

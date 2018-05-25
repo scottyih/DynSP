@@ -1,0 +1,129 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.title	Title	title	title	NN	O					
+-1	2	fb:row.row.role	Role	role	role	NN	O					
+-1	3	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.1986	1986	1986	1986	CD	DATE	1986	1986.0	1986-xx-xx		
+0	1	fb:cell.street_legal	Street Legal	street|legal	Street|Legal	NNP|NNP	O|O	|				Street Legal
+0	2	fb:cell.angela	Angela	angela	Angela	NNP	PERSON					
+0	3	fb:cell.null										
+1	0	fb:cell.1986	1986	1986	1986	CD	DATE	1986	1986.0	1986-xx-xx		
+1	1	fb:cell.desiree_s_wish	Desiree's Wish	desiree|'s|wish	Desiree|'s|wish	NNP|POS|NN	PERSON|O|O	||				Desiree's Wish
+1	2	fb:cell.waitress	Waitress	waitress	waitress	NN	O					
+1	3	fb:cell.null										
+2	0	fb:cell.1988	1988	1988	1988	CD	DATE	1988	1988.0	1988-xx-xx		
+2	1	fb:cell.t_and_t	T. and T.	t.|and|t.	T.|and|T.	NNP|CC|NNP	O|O|O	||				T. and T.
+2	2	fb:cell.sydney	Sydney	sydney	Sydney	NNP	LOCATION					
+2	3	fb:cell.null										
+3	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+3	1	fb:cell.mosquito_lake	Mosquito Lake	mosquito|lake	mosquito|lake	NN|NN	PERSON|PERSON	|				Mosquito Lake
+3	2	fb:cell.tara_harrison	Tara Harrison	tara|harrison	Tara|Harrison	NNP|NNP	PERSON|PERSON	|				
+3	3	fb:cell.null										
+4	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+4	1	fb:cell.married_to_it	Married to It	married|to|it	marry|to|it	VBN|TO|PRP	O|O|O	||				Married to It
+4	2	fb:cell.student_in_pageant	Student in Pageant	student|in|pageant	student|in|pageant	NN|IN|NN	O|O|O	||				
+4	3	fb:cell.null										
+5	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+5	1	fb:cell.a_town_torn_apart	A Town Torn Apart	a|town|torn|apart	a|town|tear|apart	DT|NN|VBN|RB	O|O|O|O	|||				A Town Torn Apart
+5	2	fb:cell.null										
+5	3	fb:cell.null										
+6	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+6	1	fb:cell.the_judge	The Judge	the|judge	the|judge	DT|NN	O|O	|				The Judge
+6	2	fb:cell.millie_waters	Millie Waters	millie|waters	Millie|Waters	NNP|NNP	PERSON|PERSON	|				
+6	3	fb:cell.null										
+7	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+7	1	fb:cell.forever_knight	Forever Knight	forever|knight	forever|knight	RB|NN	O|O	|				Forever Knight
+7	2	fb:cell.null										
+7	3	fb:cell.null										
+8	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+8	1	fb:cell.family_pictures	Family Pictures	family|pictures	family|picture	NN|NNS	O|O	|				Family Pictures
+8	2	fb:cell.null										
+8	3	fb:cell.null										
+9	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+9	1	fb:cell.kung_fu_the_legend_continues	Kung Fu: The Legend Continues	kung|fu|:|the|legend|continues	Kung|Fu|:|the|legend|continue	NNP|NNP|:|DT|NN|VBZ	PERSON|PERSON|O|O|O|O	|||||				Kung Fu: The Legend Continues
+9	2	fb:cell.elizabeth	Elizabeth	elizabeth	Elizabeth	NNP	PERSON					
+9	3	fb:cell.null										
+10	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+10	1	fb:cell.ready_or_not	Ready or Not	ready|or|not	ready|or|not	JJ|CC|RB	O|O|O	||				Ready or Not
+10	2	fb:cell.null										
+10	3	fb:cell.null										
+11	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+11	1	fb:cell.reform_school_girl	Reform School Girl	reform|school|girl	Reform|School|Girl	NNP|NNP|NNP	O|O|O	||				Reform School Girl
+11	2	fb:cell.lucille	Lucille	lucille	Lucille	NNP	PERSON					
+11	3	fb:cell.null										
+12	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+12	1	fb:cell.thicker_than_blood_the_larry_mclinden_story	Thicker Than Blood: The Larry McLinden Story	thicker|than|blood|:|the|larry|mclinden|story	thicker|than|blood|:|the|Larry|McLinden|Story	JJR|IN|NN|:|DT|NNP|NNP|NNP	O|O|O|O|O|PERSON|PERSON|O	|||||||				Thicker Than Blood: The Larry McLinden Story
+12	2	fb:cell.terra_age_16	Terra (age 16)	terra|-lrb-|age|16|-rrb-	terra|-lrb-|age|16|-rrb-	NN|-LRB-|NN|CD|-RRB-	O|O|O|NUMBER|O	|||16.0|	16.0			
+12	3	fb:cell.null										
+13	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+13	1	fb:cell.skin_deep	Skin Deep	skin|deep	skin|deep	NN|JJ	O|O	|				Skin Deep
+13	2	fb:cell.tina	Tina	tina	Tina	NNP	PERSON					
+13	3	fb:cell.null										
+14	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+14	1	fb:cell.party_of_five	Party of Five	party|of|five	party|of|five	NN|IN|CD	O|O|NUMBER	||5.0				Party of Five
+14	2	fb:cell.lorna	Lorna	lorna	Lorna	NNP	PERSON					
+14	3	fb:cell.null										
+15	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+15	1	fb:cell.3rd_rock_from_the_sun	3rd Rock from the Sun	3rd|rock|from|the|sun	3rd|Rock|from|the|Sun	NNP|NNP|IN|DT|NNP	ORDINAL|O|O|O|O	3.0||||	3.0			3rd Rock from the Sun
+15	2	fb:cell.yoga_lady	Yoga Lady	yoga|lady	yoga|lady	NN|NN	O|O	|				
+15	3	fb:cell.episode_my_mother_the_alien	Episode: "My Mother the Alien"	episode|:|``|my|mother|the|alien|''	episode|:|``|my|mother|the|alien|''	NN|:|``|PRP$|NN|DT|NN|''	O|O|O|O|O|O|O|O	|||||||				Episode: "My Mother the Alien"
+16	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+16	1	fb:cell.sabrina_goes_to_rome	Sabrina Goes to Rome	sabrina|goes|to|rome	Sabrina|go|to|Rome	NNP|VBZ|TO|NNP	PERSON|O|O|LOCATION	|||				Sabrina Goes to Rome
+16	2	fb:cell.gwen	Gwen	gwen	Gwen	NNP	PERSON					
+16	3	fb:cell.null										
+17	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+17	1	fb:cell.sabrina_down_under	Sabrina, Down Under	sabrina|,|down|under	Sabrina|,|down|under	NNP|,|RB|IN	PERSON|O|O|O	|||				Sabrina|Down Under
+17	2	fb:cell.gwen	Gwen	gwen	Gwen	NNP	PERSON					
+17	3	fb:cell.null										
+18	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+18	1	fb:cell.touched_by_an_angel	Touched by an Angel	touched|by|an|angel	touch|by|a|Angel	VBN|IN|DT|NNP	O|O|O|O	|||				Touched by an Angel
+18	2	fb:cell.null										
+18	3	fb:cell.null										
+19	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+19	1	fb:cell.black_mask	Black Mask	black|mask	black|mask	JJ|NN	PERSON|PERSON	|				Black Mask
+19	2	fb:cell.additional_voices	Additional Voices	additional|voices	additional|voice	JJ|NNS	O|O	|				
+19	3	fb:cell.null										
+20	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+20	1	fb:cell.candid_camera	Candid Camera	candid|camera	candid|camera	JJ|NN	O|O	|				Candid Camera
+20	2	fb:cell.null										
+20	3	fb:cell.null										
+21	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+21	1	fb:cell.1997_kids_choice_awards	1997 Kids' Choice Awards	1997|kids|'|choice|awards	1997|kid|'|choice|award	CD|NNS|POS|NN|NNS	NUMBER|O|O|O|O	1997.0||||	1997.0			1997 Kids' Choice Awards
+21	2	fb:cell.herself	Herself	herself	herself	PRP	O					
+21	3	fb:cell.winner_with_the_cast_of_rugrats_for_favorite_cartoon	Winner (with the cast of Rugrats) for Favorite Cartoon	winner|-lrb-|with|the|cast|of|rugrats|-rrb-|for|favorite|cartoon	winner|-lrb-|with|the|cast|of|rugrat|-rrb-|for|favorite|cartoon	NN|-LRB-|IN|DT|NN|IN|NNS|-RRB-|IN|JJ|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||				Winner (with the cast of Rugrats) for Favorite Cartoon
+22	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+22	1	fb:cell.1998_kids_choice_awards	1998 Kids' Choice Awards	1998|kids|'|choice|awards	1998|kid|'|choice|award	CD|NNS|POS|NN|NNS	NUMBER|O|O|O|O	1998.0||||	1998.0			1998 Kids' Choice Awards
+22	2	fb:cell.herself	Herself	herself	herself	PRP	O					
+22	3	fb:cell.winner_with_the_cast_of_rugrats_for_favorite_cartoon	Winner (with the cast of Rugrats) for Favorite Cartoon	winner|-lrb-|with|the|cast|of|rugrats|-rrb-|for|favorite|cartoon	winner|-lrb-|with|the|cast|of|rugrat|-rrb-|for|favorite|cartoon	NN|-LRB-|IN|DT|NN|IN|NNS|-RRB-|IN|JJ|NN	O|O|O|O|O|O|O|O|O|O|O	||||||||||				Winner (with the cast of Rugrats) for Favorite Cartoon
+23	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+23	1	fb:cell.1999_kids_choice_awards	1999 Kids' Choice Awards	1999|kids|'|choice|awards	1999|kid|'|choice|award	CD|NNS|POS|NN|NNS	NUMBER|O|O|O|O	1999.0||||	1999.0			1999 Kids' Choice Awards
+23	2	fb:cell.herself	Herself	herself	herself	PRP	O					
+23	3	fb:cell.presenter_winner_with_the_cast_of_rugrats_for_favorite_cartoon_winner_with_the_cast_of_the_rugrats_movie_for_favorite_movie	Presenter, Winner (with the cast of Rugrats) for Favorite Cartoon, Winner (with the cast of The Rugrats Movie) for Favorite Movie	presenter|,|winner|-lrb-|with|the|cast|of|rugrats|-rrb-|for|favorite|cartoon|,|winner|-lrb-|with|the|cast|of|the|rugrats|movie|-rrb-|for|favorite|movie	presenter|,|winner|-lrb-|with|the|cast|of|rugrat|-rrb-|for|favorite|cartoon|,|winner|-lrb-|with|the|cast|of|the|Rugrats|movie|-rrb-|for|favorite|movie	NN|,|NN|-LRB-|IN|DT|NN|IN|NNS|-RRB-|IN|JJ|NN|,|NN|-LRB-|IN|DT|NN|IN|DT|NNP|NN|-RRB-|IN|JJ|NN	O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	||||||||||||||||||||||||||				Presenter|Winner (with the cast of Rugrats) for Favorite Cartoon|Winner (with the cast of The Rugrats Movie) for Favorite Movie
+24	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+24	1	fb:cell.comic_book_the_movie	Comic Book: The Movie	comic|book|:|the|movie	comic|book|:|the|movie	JJ|NN|:|DT|NN	O|O|O|O|O	||||				Comic Book: The Movie
+24	2	fb:cell.null										
+24	3	fb:cell.null										
+25	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+25	1	fb:cell.take_home_chef	Take Home Chef	take|home|chef	take|home|chef	VB|NN|NN	O|O|O	||				Take Home Chef
+25	2	fb:cell.herself	Herself	herself	herself	PRP	O					
+25	3	fb:cell.null										
+26	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+26	1	fb:cell.the_bad_girls_club	The Bad Girls Club	the|bad|girls|club	the|bad|girl|club	DT|JJ|NNS|NN	O|O|O|O	|||				The Bad Girls Club
+26	2	fb:cell.season_2_narrator	Season 2 Narrator	season|2|narrator	season|2|narrator	NN|CD|NN	O|NUMBER|O	|2.0|	2.0			
+26	3	fb:cell.null										
+27	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+27	1	fb:cell.according_to_jim	According to Jim	according|to|jim	accord|to|Jim	VBG|TO|NNP	O|O|PERSON	||				According to Jim
+27	2	fb:cell.kayla	Kayla	kayla	Kayla	NNP	PERSON					
+27	3	fb:cell.null										
+28	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+28	1	fb:cell.big_time_rush	Big Time Rush	big|time|rush	big|time|rush	JJ|NN|NN	O|O|O	||				Big Time Rush
+28	2	fb:cell.miss_collins	Miss Collins	miss|collins	Miss|Collins	NNP|NNP	O|PERSON	|				
+28	3	fb:cell.recurring_role	Recurring Role	recurring|role	recur|role	VBG|NN	O|O	|				Recurring Role
+29	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+29	1	fb:cell.super_fun_night	Super Fun Night	super|fun|night	Super|fun|night	NNP|NN|NN	O|O|TIME	||TNI				Super Fun Night
+29	2	fb:cell.young_pamela	Young Pamela	young|pamela	young|Pamela	JJ|NNP	O|PERSON	|				
+29	3	fb:cell.null										
+30	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+30	1	fb:cell.arrow	Arrow	arrow	arrow	NN	O					Arrow
+30	2	fb:cell.deranged_squad_female_voice	Deranged Squad Female (voice)	deranged|squad|female|-lrb-|voice|-rrb-	deranged|squad|female|-lrb-|voice|-rrb-	JJ|NN|NN|-LRB-|NN|-RRB-	O|O|O|O|O|O	|||||				
+30	3	fb:cell.episode_suicide_squad	Episode: "Suicide Squad"	episode|:|``|suicide|squad|''	episode|:|``|suicide|squad|''	NN|:|``|NN|NN|''	O|O|O|O|O|O	|||||				Episode: "Suicide Squad"

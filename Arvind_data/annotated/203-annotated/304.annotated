@@ -1,0 +1,101 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.mvp	MVP	mvp	mvp	NN	O					
+-1	2	fb:row.row.defensive_player_of_the_year	Defensive Player of the Year	defensive|player|of|the|year	defensive|player|of|the|year	JJ|NN|IN|DT|NN	O|O|O|DATE|DATE	|||THIS P1Y|THIS P1Y				
+-1	3	fb:row.row.unsung_hero	Unsung Hero	unsung|hero	unsung|hero	JJ|NN	O|O	|				
+-1	4	fb:row.row.newcomer_of_the_year	Newcomer of the Year	newcomer|of|the|year	newcomer|of|the|year	NN|IN|DT|NN	O|O|DATE|DATE	||THIS P1Y|THIS P1Y				
+0	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+0	1	fb:cell.patrice_ferri	Patrice Ferri	patrice|ferri	Patrice|Ferri	NNP|NNP	PERSON|PERSON	|				Patrice Ferri
+0	2	fb:cell.null	–	--	--	:	O					–
+0	3	fb:cell.null	–	--	--	:	O					–
+0	4	fb:cell.null	–	--	--	:	O					–
+1	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+1	1	fb:cell.jean_harbor	Jean Harbor	jean|harbor	Jean|Harbor	NNP|NNP	PERSON|PERSON	|				Jean Harbor
+1	2	fb:cell.null	–	--	--	:	O					–
+1	3	fb:cell.null	–	--	--	:	O					–
+1	4	fb:cell.null	–	--	--	:	O					–
+2	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+2	1	fb:cell.lloyd_barker	Lloyd Barker	lloyd|barker	Lloyd|Barker	NNP|NNP	PERSON|PERSON	|				Lloyd Barker
+2	2	fb:cell.null	–	--	--	:	O					–
+2	3	fb:cell.null	–	--	--	:	O					–
+2	4	fb:cell.null	–	--	--	:	O					–
+3	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+3	1	fb:cell.paolo_ceccarelli	Paolo Ceccarelli	paolo|ceccarelli	Paolo|Ceccarelli	NNP|NNP	PERSON|PERSON	|				Paolo Ceccarelli
+3	2	fb:cell.null	–	--	--	:	O					–
+3	3	fb:cell.null	–	--	--	:	O					–
+3	4	fb:cell.null	–	--	--	:	O					–
+4	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+4	1	fb:cell.mauro_biello	Mauro Biello	mauro|biello	Mauro|Biello	NNP|NNP	PERSON|PERSON	|				Mauro Biello
+4	2	fb:cell.null	–	--	--	:	O					–
+4	3	fb:cell.null	–	--	--	:	O					–
+4	4	fb:cell.null	–	--	--	:	O					–
+5	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+5	1	fb:cell.mauro_biello	Mauro Biello	mauro|biello	Mauro|Biello	NNP|NNP	PERSON|PERSON	|				Mauro Biello
+5	2	fb:cell.null	–	--	--	:	O					–
+5	3	fb:cell.null	–	--	--	:	O					–
+5	4	fb:cell.null	–	--	--	:	O					–
+6	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+6	1	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+6	2	fb:cell.null	–	--	--	:	O					–
+6	3	fb:cell.null	–	--	--	:	O					–
+6	4	fb:cell.null	–	--	--	:	O					–
+7	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+7	1	fb:cell.jim_larkin	Jim Larkin	jim|larkin	Jim|Larkin	NNP|NNP	PERSON|PERSON	|				Jim Larkin
+7	2	fb:cell.null	–	--	--	:	O					–
+7	3	fb:cell.null	–	--	--	:	O					–
+7	4	fb:cell.null	–	--	--	:	O					–
+8	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+8	1	fb:cell.mauro_biello	Mauro Biello	mauro|biello	Mauro|Biello	NNP|NNP	PERSON|PERSON	|				Mauro Biello
+8	2	fb:cell.null	–	--	--	:	O					–
+8	3	fb:cell.null	–	--	--	:	O					–
+8	4	fb:cell.null	–	--	--	:	O					–
+9	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+9	1	fb:cell.eduardo_sebrango	Eduardo Sebrango	eduardo|sebrango	Eduardo|Sebrango	NNP|NNP	PERSON|PERSON	|				Eduardo Sebrango
+9	2	fb:cell.gabriel_gervais	Gabriel Gervais	gabriel|gervais	Gabriel|Gervais	NNP|NNP	PERSON|PERSON	|				Gabriel Gervais
+9	3	fb:cell.jason_ditullio	Jason DiTullio	jason|ditullio	Jason|DiTullio	NNP|NNP	PERSON|PERSON	|				
+9	4	fb:cell.ze_roberto	Zé Roberto	zé|roberto	zé|Roberto	NN|NNP	PERSON|PERSON	|				Zé Roberto
+10	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+10	1	fb:cell.greg_sutton	Greg Sutton	greg|sutton	Greg|Sutton	NNP|NNP	PERSON|PERSON	|				Greg Sutton
+10	2	fb:cell.gabriel_gervais	Gabriel Gervais	gabriel|gervais	Gabriel|Gervais	NNP|NNP	PERSON|PERSON	|				Gabriel Gervais
+10	3	fb:cell.david_fronimadis	David Fronimadis	david|fronimadis	David|Fronimadis	NNP|NNP	PERSON|PERSON	|				
+10	4	fb:cell.martin_nash	Martin Nash	martin|nash	Martin|Nash	NNP|NNP	PERSON|PERSON	|				Martin Nash
+11	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+11	1	fb:cell.gabriel_gervais	Gabriel Gervais	gabriel|gervais	Gabriel|Gervais	NNP|NNP	PERSON|PERSON	|				Gabriel Gervais
+11	2	fb:cell.greg_sutton	Greg Sutton	greg|sutton	Greg|Sutton	NNP|NNP	PERSON|PERSON	|				Greg Sutton
+11	3	fb:cell.ze_roberto	Zé Roberto	zé|roberto	zé|Roberto	NN|NNP	PERSON|PERSON	|				Zé Roberto
+11	4	fb:cell.sandro_grande	Sandro Grande	sandro|grande	Sandro|Grande	NNP|NNP	PERSON|PERSON	|				Sandro Grande
+12	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+12	1	fb:cell.mauro_biello	Mauro Biello	mauro|biello	Mauro|Biello	NNP|NNP	PERSON|PERSON	|				Mauro Biello
+12	2	fb:cell.nevio_pizzolitto	Nevio Pizzolitto	nevio|pizzolitto	Nevio|Pizzolitto	NNP|NNP	PERSON|PERSON	|				
+12	3	fb:cell.mauricio_vincello	Mauricio Vincello	mauricio|vincello	Mauricio|Vincello	NNP|NNP	PERSON|PERSON	|				Mauricio Vincello
+12	4	fb:cell.masahiro_fukazawa	Masahiro Fukazawa	masahiro|fukazawa	Masahiro|Fukazawa	NNP|NNP	PERSON|PERSON	|				Masahiro Fukazawa
+13	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+13	1	fb:cell.mauricio_vincello	Mauricio Vincello	mauricio|vincello	Mauricio|Vincello	NNP|NNP	PERSON|PERSON	|				Mauricio Vincello
+13	2	fb:cell.gabriel_gervais	Gabriel Gervais	gabriel|gervais	Gabriel|Gervais	NNP|NNP	PERSON|PERSON	|				Gabriel Gervais
+13	3	fb:cell.andrew_weber	Andrew Weber	andrew|weber	Andrew|Weber	NNP|NNP	PERSON|PERSON	|				
+13	4	fb:cell.leonardo_di_lorenzo	Leonardo Di Lorenzo	leonardo|di|lorenzo	Leonardo|Di|Lorenzo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Leonardo Di Lorenzo
+14	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+14	1	fb:cell.leonardo_di_lorenzo	Leonardo Di Lorenzo	leonardo|di|lorenzo	Leonardo|Di|Lorenzo	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Leonardo Di Lorenzo
+14	2	fb:cell.mauricio_vincello	Mauricio Vincello	mauricio|vincello	Mauricio|Vincello	NNP|NNP	PERSON|PERSON	|				Mauricio Vincello
+14	3	fb:cell.simon_gatti	Simon Gatti	simon|gatti	Simon|Gatti	NNP|NNP	PERSON|PERSON	|				
+14	4	fb:cell.matt_jordan	Matt Jordan	matt|jordan	Matt|Jordan	NNP|NNP	PERSON|PERSON	|				Matt Jordan
+15	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+15	1	fb:cell.matt_jordan	Matt Jordan	matt|jordan	Matt|Jordan	NNP|NNP	PERSON|PERSON	|				Matt Jordan
+15	2	fb:cell.nevio_pizzolitto	Nevio Pizzolitto	nevio|pizzolitto	Nevio|Pizzolitto	NNP|NNP	PERSON|PERSON	|				
+15	3	fb:cell.joey_gjertsen	Joey Gjertsen	joey|gjertsen	Joey|Gjertsen	NNP|NNP	PERSON|PERSON	|				
+15	4	fb:cell.stefano_pesoli	Stefano Pesoli	stefano|pesoli	Stefano|Pesoli	NNP|NNP	PERSON|PERSON	|				Stefano Pesoli
+16	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+16	1	fb:cell.david_testo	David Testo	david|testo	David|Testo	NNP|NNP	PERSON|PERSON	|				David Testo
+16	2	fb:cell.nevio_pizzolitto	Nevio Pizzolitto	nevio|pizzolitto	Nevio|Pizzolitto	NNP|NNP	PERSON|PERSON	|				
+16	3	fb:cell.adam_braz	Adam Braz	adam|braz	Adam|Braz	NNP|NNP	PERSON|PERSON	|				
+16	4	fb:cell.stephen_deroux	Stephen deRoux	stephen|deroux	Stephen|deRoux	NNP|NNP	PERSON|PERSON	|				Stephen deRoux
+17	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+17	1	fb:cell.philippe_billy	Philippe Billy	philippe|billy	Philippe|Billy	NNP|NNP	PERSON|PERSON	|				Philippe Billy
+17	2	fb:cell.philippe_billy	Philippe Billy	philippe|billy	Philippe|Billy	NNP|NNP	PERSON|PERSON	|				Philippe Billy
+17	3	fb:cell.tony_donatelli	Tony Donatelli	tony|donatelli	Tony|Donatelli	NNP|NNP	PERSON|PERSON	|				
+17	4	fb:cell.ali_gerba	Ali Gerba	ali|gerba	Ali|Gerba	NNP|NNP	PERSON|PERSON	|				Ali Gerba
+18	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+18	1	fb:cell.hassoun_camara	Hassoun Camara	hassoun|camara	Hassoun|Camara	NNP|NNP	PERSON|PERSON	|				Hassoun Camara
+18	2	fb:cell.evan_bush	Evan Bush	evan|bush	Evan|Bush	NNP|NNP	PERSON|PERSON	|				
+18	3	fb:cell.simon_gatti	Simon Gatti	simon|gatti	Simon|Gatti	NNP|NNP	PERSON|PERSON	|				
+18	4	fb:cell.ian_westlake_sinisa_ubiparipovic	Ian Westlake /  Sinisa Ubiparipovic	ian|westlake|/|sinisa|ubiparipovic	Ian|Westlake|/|Sinisa|Ubiparipovic	NNP|NNP|:|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Ian Westlake|Sinisa Ubiparipovic

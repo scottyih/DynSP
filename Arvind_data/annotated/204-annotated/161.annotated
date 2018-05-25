@@ -1,0 +1,1255 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.name	Name	name	name	NN	O					
+-1	1	fb:row.row.1968_cf_designator	1968 CF\ndesignator	1968|cf|designator	1968|cf|designator	CD|NN|NN	DATE|O|O	1968||				
+-1	2	fb:row.row.place_of_manufacture	Place of\nmanufacture	place|of|manufacture	place|of|manufacture	NN|IN|NN	O|O|O	||				
+-1	3	fb:row.row.primary_role_s	Primary\nrole(s)	primary|role|-lrb-|s|-rrb-	primary|role|-lrb-|s|-rrb-	JJ|NN|-LRB-|NNS|-RRB-	O|O|O|O|O	||||				
+-1	4	fb:row.row.service_period	Service\nperiod	service|period	service|period	NN|NN	O|O	|				
+-1	5	fb:row.row._used	#\nused	#|used	#|use	#|VBN	O|O	|				
+0	0	fb:cell.agustawestland_ch_149_cormorant	AgustaWestland CH-149 Cormorant	agustawestland|ch-149|cormorant	AgustaWestland|CH-149|Cormorant	NNP|NNP|NNP	ORGANIZATION|O|O	||	149.0			AgustaWestland CH-149 Cormorant
+0	1	fb:cell.ch_149	CH-149	ch-149	ch-149	NN	O		149.0			CH-149
+0	2	fb:cell.uk_italy	UK/Italy	uk/italy	uk/italy	RB	O					UK|Italy
+0	3	fb:cell.search_and_rescue_helicopter	Search and Rescue helicopter	search|and|rescue|helicopter	search|and|rescue|helicopter	NN|CC|NN|NN	O|O|O|O	|||				Search and Rescue helicopter
+0	4	fb:cell.2000_current	2000–current	2000|--|current	2000|--|current	CD|:|JJ	DATE|O|DATE	2000||PRESENT_REF	2000.0			
+0	5	fb:cell.15	15	15	15	CD	NUMBER	15.0	15.0			
+1	0	fb:cell.airbus_polaris	Airbus Polaris	airbus|polaris	Airbus|Polaris	NNP|NNP	ORGANIZATION|O	|				Airbus Polaris
+1	1	fb:cell.cc_150	CC-150	cc-150	cc-150	NN	O		150.0			CC-150
+1	2	fb:cell.france	France	france	France	NNP	LOCATION					France
+1	3	fb:cell.transport_tanker	transport/tanker	transport/tanker	transport/tanker	NN	O					transport|tanker
+1	4	fb:cell.1992_current	1992–current	1992|--|current	1992|--|current	CD|:|JJ	DATE|O|DATE	1992||PRESENT_REF	1992.0			
+1	5	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+2	0	fb:cell.airco_dh_4	Airco DH.4	airco|dh|.4	Airco|DH|.4	NNP|NNP|NNP	ORGANIZATION|O|NUMBER	||0.4	0.4			Airco DH.4
+2	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+2	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+2	3	fb:cell.bomber	bomber	bomber	bomber	NN	O					bomber
+2	4	fb:cell.1920_1928	1920–1928	1920|--|1928	1920|--|1928	CD|:|CD	DATE|O|DATE	1920||1928	1920.0		1928.0	
+2	5	fb:cell.12	12	12	12	CD	NUMBER	12.0	12.0			
+3	0	fb:cell.airco_dh_9a	Airco DH.9A	airco|dh|.9|a	Airco|DH|.9|a	NNP|NNP|VBD|DT	ORGANIZATION|O|NUMBER|O	||0.9|	0.9			Airco DH.9A
+3	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+3	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+3	3	fb:cell.bomber	bomber	bomber	bomber	NN	O					bomber
+3	4	fb:cell.1920_1929	1920–1929	1920|--|1929	1920|--|1929	CD|:|CD	DATE|O|DATE	1920||1929	1920.0		1929.0	
+3	5	fb:cell.12	12	12	12	CD	NUMBER	12.0	12.0			
+4	0	fb:cell.airspeed_horsa	Airspeed Horsa	airspeed|horsa	airspeed|horsa	NN|NN	O|O	|				Airspeed Horsa
+4	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+4	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+4	3	fb:cell.glider_troop_transport	glider troop transport	glider|troop|transport	glider|troop|transport	NN|NN|NN	O|O|O	||				glider troop transport
+4	4	fb:cell.1948_1950	1948–1950	1948|--|1950	1948|--|1950	CD|:|CD	DATE|O|DATE	1948||1950	1948.0		1950.0	
+4	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+5	0	fb:cell.airspeed_oxford	Airspeed Oxford	airspeed|oxford	airspeed|Oxford	NN|NNP	O|O	|				Airspeed Oxford
+5	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+5	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+5	3	fb:cell.trainer_navigation_bombing_radio	trainer (navigation, bombing & radio)	trainer|-lrb-|navigation|,|bombing|&|radio|-rrb-	trainer|-lrb-|navigation|,|bombing|&|radio|-rrb-	NN|-LRB-|NN|,|NN|CC|NN|-RRB-	O|O|O|O|O|O|O|O	|||||||				trainer (navigation|bombing & radio)
+5	4	fb:cell.1939_1947	1939–1947	1939|--|1947	1939|--|1947	CD|:|CD	DATE|O|DATE	1939||1947	1939.0		1947.0	
+5	5	fb:cell.819	819	819	819	CD	NUMBER	819.0	819.0			
+6	0	fb:cell.armstrong_whitworth_atlas	Armstrong Whitworth Atlas	armstrong|whitworth|atlas	Armstrong|Whitworth|Atlas	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Armstrong Whitworth Atlas
+6	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+6	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+6	3	fb:cell.army_co_operation	army co-operation	army|co|operation	army|co|operation	NNP|NNP|NN	ORGANIZATION|ORGANIZATION|O	||				army co-operation
+6	4	fb:cell.1927_1942	1927–1942	1927|--|1942	1927|--|1942	CD|:|CD	DATE|O|DATE	1927||1942	1927.0		1942.0	
+6	5	fb:cell.16	16	16	16	CD	NUMBER	16.0	16.0			
+7	0	fb:cell.armstrong_whitworth_siskin	Armstrong Whitworth Siskin	armstrong|whitworth|siskin	Armstrong|Whitworth|Siskin	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Armstrong Whitworth Siskin
+7	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+7	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+7	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+7	4	fb:cell.1926_1940	1926–1940	1926|--|1940	1926|--|1940	CD|:|CD	DATE|O|DATE	1926||1940	1926.0		1940.0	
+7	5	fb:cell.12	12	12	12	CD	NUMBER	12.0	12.0			
+8	0	fb:cell.auster_aop6_t7	Auster AOP6 & T7	auster|aop6|&|t7	Auster|AOP6|&|T7	NNP|NNP|CC|NNP	PERSON|O|O|O	|||	6.0		7.0	Auster AOP6 & T7
+8	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+8	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+8	3	fb:cell.air_observation_post	air observation post	air|observation|post	air|observation|post	NNP|NN|IN	O|O|O	||				air observation post
+8	4	fb:cell.1948_1958	1948–1958	1948|--|1958	1948|--|1958	CD|:|CD	DATE|O|DATE	1948||1958	1948.0		1958.0	
+8	5	fb:cell.42	42	42	42	CD	NUMBER	42.0	42.0			
+9	0	fb:cell.avro_504	Avro 504	avro|504	Avro|504	NNP|CD	O|NUMBER	|504.0	504.0			Avro 504
+9	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+9	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+9	3	fb:cell.trainer	trainer	trainer	trainer	NN	O					trainer
+9	4	fb:cell.1920_1934	1920–1934	1920|--|1934	1920|--|1934	CD|:|CD	DATE|O|DATE	1920||1934	1920.0		1934.0	
+9	5	fb:cell.97	97	97	97	CD	NUMBER	97.0	97.0			
+10	0	fb:cell.avro_552_viper	Avro 552 Viper	avro|552|viper	Avro|552|viper	NNP|CD|NN	O|NUMBER|O	|552.0|	552.0			Avro 552 Viper
+10	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+10	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+10	3	fb:cell.forestry_patrol	forestry patrol	forestry|patrol	forestry|patrol	NN|NN	O|O	|				forestry patrol
+10	4	fb:cell.1924_1928	1924–1928	1924|--|1928	1924|--|1928	CD|:|CD	DATE|O|DATE	1924||1928	1924.0		1928.0	
+10	5	fb:cell.14	14	14	14	CD	NUMBER	14.0	14.0			
+11	0	fb:cell.avro_avian_mk_ivm	Avro Avian Mk.IVM	avro|avian|mk.ivm	Avro|avian|mk.ivm	NNP|JJ|NN	PERSON|PERSON|PERSON	||				Avro Avian Mk.IVM
+11	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+11	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+11	3	fb:cell.utility_trainer	utility/trainer	utility/trainer	utility/trainer	NN	O					utility|trainer
+11	4	fb:cell.1929_1936	1929–1936	1929|--|1936	1929|--|1936	CD|:|CD	DATE|O|DATE	1929||1936	1929.0		1936.0	
+11	5	fb:cell.29	29	29	29	CD	NUMBER	29.0	29.0			
+12	0	fb:cell.avro_tutor_avro_621	Avro Tutor (Avro 621)	avro|tutor|-lrb-|avro|621|-rrb-	Avro|tutor|-lrb-|avro|621|-rrb-	NNP|NN|-LRB-|NN|CD|-RRB-	PERSON|PERSON|O|O|NUMBER|O	||||621.0|	621.0			Avro Tutor (Avro 621)
+12	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+12	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+12	3	fb:cell.trainer	trainer	trainer	trainer	NN	O					trainer
+12	4	fb:cell.1931_1945	1931–1945	1931|--|1945	1931|--|1945	CD|:|CD	DATE|O|DATE	1931||1945	1931.0		1945.0	
+12	5	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+13	0	fb:cell.avro_prefect_avro_626	Avro Prefect (Avro 626)	avro|prefect|-lrb-|avro|626|-rrb-	Avro|Prefect|-lrb-|Avro|626|-rrb-	NNP|NNP|-LRB-|NNP|CD|-RRB-	O|O|O|O|NUMBER|O	||||626.0|	626.0			Avro Prefect (Avro 626)
+13	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+13	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+13	3	fb:cell.trainer	trainer	trainer	trainer	NN	O					trainer
+13	4	fb:cell.1937_1945	1937–1945	1937|--|1945	1937|--|1945	CD|:|CD	DATE|O|DATE	1937||1945	1937.0		1945.0	
+13	5	fb:cell.12	12	12	12	CD	NUMBER	12.0	12.0			
+14	0	fb:cell.avro_anson	Avro Anson	avro|anson	Avro|Anson	NNP|NNP	PERSON|PERSON	|				Avro Anson
+14	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+14	2	fb:cell.uk_canada	UK/Canada	uk/canada	UK/Canada	NNP	O					UK|Canada
+14	3	fb:cell.medium_bomber_trainer	medium bomber/trainer	medium|bomber/trainer	medium|bomber/trainer	NN|NN	O|O	|				medium bomber|trainer
+14	4	fb:cell.1940_1947	1940–1947	1940|--|1947	1940|--|1947	CD|:|CD	DATE|O|DATE	1940||1947	1940.0		1947.0	
+14	5	fb:cell.4413	4413	4413	4413	CD	NUMBER	4413.0	4413.0			
+15	0	fb:cell.avro_lancaster	Avro Lancaster	avro|lancaster	Avro|Lancaster	NNP|NNP	PERSON|PERSON	|				Avro Lancaster
+15	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+15	2	fb:cell.uk_canada	UK/Canada	uk/canada	UK/Canada	NNP	O					UK|Canada
+15	3	fb:cell.heavy_bomber	heavy bomber	heavy|bomber	heavy|bomber	JJ|NN	O|O	|				heavy bomber
+15	4	fb:cell.1944_1965	1944–1965	1944|--|1965	1944|--|1965	CD|:|CD	DATE|O|DATE	1944||1965	1944.0		1965.0	
+15	5	fb:cell.229	229	229	229	CD	NUMBER	229.0	229.0			
+16	0	fb:cell.avro_lincoln	Avro Lincoln	avro|lincoln	Avro|Lincoln	NNP|NNP	PERSON|PERSON	|				Avro Lincoln
+16	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+16	2	fb:cell.uk_canada	UK/Canada	uk/canada	UK/Canada	NNP	O					UK|Canada
+16	3	fb:cell.heavy_bomber	heavy bomber	heavy|bomber	heavy|bomber	JJ|NN	O|O	|				heavy bomber
+16	4	fb:cell.1946_1947	1946–1947	1946|--|1947	1946|--|1947	CD|:|CD	DATE|O|DATE	1946||1947	1946.0		1947.0	
+16	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+17	0	fb:cell.avro_wright	Avro Wright	avro|wright	Avro|Wright	NNP|NNP	PERSON|PERSON	|				Avro Wright
+17	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+17	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+17	3	fb:cell.forestry_patrol	forestry patrol	forestry|patrol	forestry|patrol	NN|NN	O|O	|				forestry patrol
+17	4	fb:cell.1925_1930	1925–1930	1925|--|1930	1925|--|1930	CD|:|CD	DATE|O|DATE	1925||1930	1925.0		1930.0	
+17	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+18	0	fb:cell.avro_canada_cf_105_arrow	Avro Canada CF-105 Arrow	avro|canada|cf-105|arrow	Avro|Canada|CF-105|arrow	NNP|NNP|NNP|NN	ORGANIZATION|ORGANIZATION|O|O	|||	105.0			Avro Canada CF-105 Arrow
+18	1	fb:cell.cf_105	CF-105	cf-105	cf-105	NN	O		105.0			CF-105
+18	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+18	3	fb:cell.interceptor	interceptor	interceptor	interceptor	NNP	O					interceptor
+18	4	fb:cell.1958_1959	1958–1959	1958|--|1959	1958|--|1959	CD|:|CD	DATE|O|DATE	1958||1959	1958.0		1959.0	
+18	5	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+19	0	fb:cell.avro_canada_cf_100_canuck	Avro Canada CF-100 Canuck	avro|canada|cf-100|canuck	Avro|Canada|CF-100|Canuck	NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|O|O	|||	100.0			Avro Canada CF-100 Canuck
+19	1	fb:cell.cf_100	CF-100	cf-100	cf-100	NN	O		100.0			CF-100
+19	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+19	3	fb:cell.interceptor	interceptor	interceptor	interceptor	NNP	O					interceptor
+19	4	fb:cell.1951_1984	1951–1984	1951|--|1984	1951|--|1984	CD|:|CD	DATE|O|DATE	1951||1984	1951.0		1984.0	
+19	5	fb:cell.692	692	692	692	CD	NUMBER	692.0	692.0			
+20	0	fb:cell.bae_systems_advanced_ceramics_research_silver_fox	BAE Systems/Advanced Ceramics Research Silver Fox	bae|systems/advanced|ceramics|research|silver|fox	BAE|systems/advanced|ceramic|research|silver|Fox	NNP|VBD|NNS|NN|NN|NNP	O|O|O|O|O|O	|||||				BAE Systems|Advanced Ceramics Research Silver Fox
+20	1	fb:cell.cu_167	CU-167	cu-167	cu-167	NN	O		167.0			CU-167
+20	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+20	3	fb:cell.uav	UAV	uav	UAV	NNP	O					UAV
+20	4	fb:cell.null	?–?	?|--|?	?|--|?	.|:|.	O|O|O	||				
+20	5	fb:cell.4	4+	4|+	4|+	CD|CC	NUMBER|O	4.0|	4.0			
+21	0	fb:cell.bae_systems_hawk	BAE Systems Hawk	bae|systems|hawk	BAE|Systems|hawk	NNP|NNPS|NN	ORGANIZATION|O|O	||				BAE Systems Hawk
+21	1	fb:cell.ct_155	CT-155	ct-155	ct-155	NN	O		155.0			CT-155
+21	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+21	3	fb:cell.advanced_trainer	advanced trainer	advanced|trainer	advanced|trainer	JJ|NN	O|O	|				advanced trainer
+21	4	fb:cell.2000_current	2000–current	2000|--|current	2000|--|current	CD|:|JJ	DATE|O|DATE	2000||PRESENT_REF	2000.0			
+21	5	fb:cell.22	22	22	22	CD	NUMBER	22.0	22.0			
+22	0	fb:cell.barkley_grow_t8p_1	Barkley-Grow T8P-1	barkley|grow|t8p-1	Barkley|grow|t8p-1	NNP|VB|NN	PERSON|O|O	||	8.0		1.0	Barkley-Grow T8P-1
+22	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+22	2	fb:cell.us	US	us	we	PRP	O					US
+22	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+22	4	fb:cell.1939_1941	1939–1941	1939|--|1941	1939|--|1941	CD|:|CD	DATE|O|DATE	1939||1941	1939.0		1941.0	
+22	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+23	0	fb:cell.beechcraft_expeditor	Beechcraft Expeditor	beechcraft|expeditor	Beechcraft|Expeditor	NNP|NNP	O|O	|				Beechcraft Expeditor
+23	1	fb:cell.ct_128	CT-128	ct-128	ct-128	NN	O		128.0			CT-128
+23	2	fb:cell.us	US	us	we	PRP	O					US
+23	3	fb:cell.utility_trainer	utility/trainer	utility/trainer	utility/trainer	NN	O					utility|trainer
+23	4	fb:cell.1941_1972	1941–1972	1941|--|1972	1941|--|1972	CD|:|CD	DATE|O|DATE	1941||1972	1941.0		1972.0	
+23	5	fb:cell.394	394	394	394	CD	NUMBER	394.0	394.0			
+24	0	fb:cell.beechcraft_harvard_ii	Beechcraft Harvard II	beechcraft|harvard|ii	Beechcraft|Harvard|II	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Beechcraft Harvard II
+24	1	fb:cell.ct_156	CT-156	ct-156	ct-156	NN	O		156.0			CT-156
+24	2	fb:cell.us	US	us	we	PRP	O					US
+24	3	fb:cell.elementary_trainer	elementary trainer	elementary|trainer	elementary|trainer	JJ|NN	O|O	|				elementary trainer
+24	4	fb:cell.2000_current	2000–current	2000|--|current	2000|--|current	CD|:|JJ	DATE|O|DATE	2000||PRESENT_REF	2000.0			
+24	5	fb:cell.26	26	26	26	CD	NUMBER	26.0	26.0			
+25	0	fb:cell.beechcraft_king_air	Beechcraft King Air	beechcraft|king|air	Beechcraft|King|Air	NNP|NNP|NNP	O|O|O	||				Beechcraft King Air
+25	1	fb:cell.ct_145	CT-145	ct-145	ct-145	NN	O		145.0			CT-145
+25	2	fb:cell.us	US	us	we	PRP	O					US
+25	3	fb:cell.transport_trainer	transport/trainer	transport/trainer	transport/trainer	NN	O					transport|trainer
+25	4	fb:cell.1992_current	1992–current	1992|--|current	1992|--|current	CD|:|JJ	DATE|O|DATE	1992||PRESENT_REF	1992.0			
+25	5	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+26	0	fb:cell.beechcraft_mentor	Beechcraft Mentor	beechcraft|mentor	Beechcraft|Mentor	NNP|NNP	O|O	|				Beechcraft Mentor
+26	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+26	2	fb:cell.us	US	us	we	PRP	O					US
+26	3	fb:cell.elementary_trainer	elementary trainer	elementary|trainer	elementary|trainer	JJ|NN	O|O	|				elementary trainer
+26	4	fb:cell.1954_1956	1954–1956	1954|--|1956	1954|--|1956	CD|:|CD	DATE|O|DATE	1954||1956	1954.0		1956.0	
+26	5	fb:cell.25	25	25	25	CD	NUMBER	25.0	25.0			
+27	0	fb:cell.beechcraft_musketeer	Beechcraft Musketeer	beechcraft|musketeer	Beechcraft|Musketeer	NNP|NNP	O|O	|				Beechcraft Musketeer
+27	1	fb:cell.ct_134	CT-134	ct-134	ct-134	NN	O		134.0			CT-134
+27	2	fb:cell.us	US	us	we	PRP	O					US
+27	3	fb:cell.elementary_trainer	elementary trainer	elementary|trainer	elementary|trainer	JJ|NN	O|O	|				elementary trainer
+27	4	fb:cell.1971_1992	1971–1992	1971|--|1992	1971|--|1992	CD|:|CD	DATE|O|DATE	1971||1992	1971.0		1992.0	
+27	5	fb:cell.46	46	46	46	CD	NUMBER	46.0	46.0			
+28	0	fb:cell.bell_47d_g	Bell 47D & G	bell|47d|&|g	Bell|47D|&|G	NNP|NNP|CC|NNP	PERSON|O|O|O	|||	47.0			Bell 47D & G
+28	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+28	2	fb:cell.us	US	us	we	PRP	O					US
+28	3	fb:cell.utility_helicopter	utility helicopter	utility|helicopter	utility|helicopter	NN|NN	O|O	|				utility helicopter
+28	4	fb:cell.1948_1965	1948–1965	1948|--|1965	1948|--|1965	CD|:|CD	DATE|O|DATE	1948||1965	1948.0		1965.0	
+28	5	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+29	0	fb:cell.bell_griffon	Bell Griffon	bell|griffon	Bell|Griffon	NNP|NNP	PERSON|PERSON	|				Bell Griffon
+29	1	fb:cell.ch_146	CH-146	ch-146	ch-146	NN	O		146.0			CH-146
+29	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+29	3	fb:cell.utility_helicopter	utility helicopter	utility|helicopter	utility|helicopter	NN|NN	O|O	|				utility helicopter
+29	4	fb:cell.1994_current	1994–current	1994|--|current	1994|--|current	CD|:|JJ	DATE|O|DATE	1994||PRESENT_REF	1994.0			
+29	5	fb:cell.100	100	100	100	CD	NUMBER	100.0	100.0			
+30	0	fb:cell.bell_iroquois	Bell Iroquois	bell|iroquois	Bell|Iroquois	NNP|NNP	PERSON|PERSON	|				Bell Iroquois
+30	1	fb:cell.ch_118	CH-118	ch-118	ch-118	NN	O		118.0			CH-118
+30	2	fb:cell.us_canada	US/Canada	us/canada	US/Canada	NNP	O					US|Canada
+30	3	fb:cell.utility_helicopter	utility helicopter	utility|helicopter	utility|helicopter	NN|NN	O|O	|				utility helicopter
+30	4	fb:cell.1968_current	1968–current	1968|--|current	1968|--|current	CD|:|JJ	DATE|O|DATE	1968||PRESENT_REF	1968.0			
+30	5	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			
+31	0	fb:cell.bell_jet_ranger	Bell Jet Ranger	bell|jet|ranger	Bell|Jet|Ranger	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Bell Jet Ranger
+31	1	fb:cell.ch_139	CH-139	ch-139	ch-139	NN	O		139.0			CH-139
+31	2	fb:cell.us	US	us	we	PRP	O					US
+31	3	fb:cell.utility_helicopter	utility helicopter	utility|helicopter	utility|helicopter	NN|NN	O|O	|				utility helicopter
+31	4	fb:cell.1981_1993	1981–1993	1981|--|1993	1981|--|1993	CD|:|CD	DATE|O|DATE	1981||1993	1981.0		1993.0	
+31	5	fb:cell.14	14	14	14	CD	NUMBER	14.0	14.0			
+32	0	fb:cell.bell_kiowa	Bell Kiowa	bell|kiowa	Bell|Kiowa	NNP|NNP	PERSON|PERSON	|				Bell Kiowa
+32	1	fb:cell.ch_136	CH-136	ch-136	ch-136	NN	O		136.0			CH-136
+32	2	fb:cell.us	US	us	we	PRP	O					US
+32	3	fb:cell.utility_helicopter	utility helicopter	utility|helicopter	utility|helicopter	NN|NN	O|O	|				utility helicopter
+32	4	fb:cell.1971_1997	1971–1997	1971|--|1997	1971|--|1997	CD|:|CD	DATE|O|DATE	1971||1997	1971.0		1997.0	
+32	5	fb:cell.74	74	74	74	CD	NUMBER	74.0	74.0			
+33	0	fb:cell.bell_twin_huey	Bell Twin Huey	bell|twin|huey	Bell|Twin|Huey	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Bell Twin Huey
+33	1	fb:cell.ch_135	CH-135	ch-135	ch-135	NN	O		135.0			CH-135
+33	2	fb:cell.us	US	us	we	PRP	O					US
+33	3	fb:cell.utility_helicopter	utility helicopter	utility|helicopter	utility|helicopter	NN|NN	O|O	|				utility helicopter
+33	4	fb:cell.1971_1999	1971–1999	1971|--|1999	1971|--|1999	CD|:|CD	DATE|O|DATE	1971||1999	1971.0		1999.0	
+33	5	fb:cell.50	50	50	50	CD	NUMBER	50.0	50.0			
+34	0	fb:cell.bellanca_ch_300_pacemaker	Bellanca CH-300 Pacemaker	bellanca|ch-300|pacemaker	Bellanca|CH-300|pacemaker	NNP|NNP|NN	ORGANIZATION|MISC|O	||	300.0			Bellanca CH-300 Pacemaker
+34	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+34	2	fb:cell.us	US	us	we	PRP	O					US
+34	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+34	4	fb:cell.1929_1944	1929–1944	1929|--|1944	1929|--|1944	CD|:|CD	DATE|O|DATE	1929||1944	1929.0		1944.0	
+34	5	fb:cell.13	13	13	13	CD	NUMBER	13.0	13.0			
+35	0	fb:cell.blackburn_shark_mk_ii_iii	Blackburn Shark Mk.II & III	blackburn|shark|mk.ii|&|iii	Blackburn|shark|Mk.II|&|III	NNP|NN|NNP|CC|NNP	ORGANIZATION|O|O|O|O	||||				Blackburn Shark Mk.II & III
+35	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+35	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+35	3	fb:cell.torpedo_bomber	torpedo bomber	torpedo|bomber	torpedo|bomber	VB|NN	O|O	|				torpedo bomber
+35	4	fb:cell.1936_1944	1936–1944	1936|--|1944	1936|--|1944	CD|:|CD	DATE|O|DATE	1936||1944	1936.0		1944.0	
+35	5	fb:cell.26	26	26	26	CD	NUMBER	26.0	26.0			
+36	0	fb:cell.boeing_247d	Boeing 247D	boeing|247d	Boeing|247D	NNP|NNP	ORGANIZATION|O	|	247.0			Boeing 247D
+36	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+36	2	fb:cell.us	US	us	we	PRP	O					US
+36	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+36	4	fb:cell.1940_1942	1940–1942	1940|--|1942	1940|--|1942	CD|:|CD	DATE|O|DATE	1940||1942	1940.0		1942.0	
+36	5	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+37	0	fb:cell.boeing_cc_137	Boeing CC-137	boeing|cc-137	Boeing|CC-137	NNP|NNP	ORGANIZATION|O	|	137.0			Boeing CC-137
+37	1	fb:cell.cc_137	CC-137	cc-137	cc-137	NN	O		137.0			CC-137
+37	2	fb:cell.us	US	us	we	PRP	O					US
+37	3	fb:cell.transport_tanker	transport/tanker	transport/tanker	transport/tanker	NN	O					transport|tanker
+37	4	fb:cell.1970_1997	1970–1997	1970|--|1997	1970|--|1997	CD|:|CD	DATE|O|DATE	1970||1997	1970.0		1997.0	
+37	5	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+38	0	fb:cell.boeing_fortress_mk_ii	Boeing Fortress Mk.II	boeing|fortress|mk.ii	Boeing|Fortress|Mk.II	NNP|NNP|NNP	ORGANIZATION|O|O	||				Boeing Fortress Mk.II
+38	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+38	2	fb:cell.us	US	us	we	PRP	O					US
+38	3	fb:cell.long_range_patrol_bomber	long-range patrol bomber	long|range|patrol|bomber	long|range|patrol|bomber	JJ|NN|NN|NN	O|O|O|O	|||				long-range patrol bomber
+38	4	fb:cell.1943_1946	1943–1946	1943|--|1946	1943|--|1946	CD|:|CD	DATE|O|DATE	1943||1946	1943.0		1946.0	
+38	5	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+39	0	fb:cell.boeing_globemaster_iii	Boeing Globemaster III	boeing|globemaster|iii	Boeing|Globemaster|III	NNP|NNP|NNP	ORGANIZATION|O|O	||				Boeing Globemaster III
+39	1	fb:cell.cc_177	CC-177	cc-177	cc-177	NN	O		177.0			CC-177
+39	2	fb:cell.us	US	us	we	PRP	O					US
+39	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+39	4	fb:cell.2007_current	2007–current	2007|--|current	2007|--|current	CD|:|JJ	DATE|O|DATE	2007||PRESENT_REF	2007.0			
+39	5	fb:cell.4_2	4	4	4	CD	NUMBER	4.0	4.0			
+40	0	fb:cell.boeing_insitu_scaneagle	Boeing Insitu ScanEagle	boeing|insitu|scaneagle	Boeing|Insitu|ScanEagle	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Boeing Insitu ScanEagle
+40	1	fb:cell.cu_169	CU-169	cu-169	cu-169	NN	O		169.0			CU-169
+40	2	fb:cell.us	US	us	we	PRP	O					US
+40	3	fb:cell.uav	UAV	uav	UAV	NNP	O					UAV
+40	4	fb:cell.2008_current	2008–current	2008|--|current	2008|--|current	CD|:|JJ	DATE|O|DATE	2008||PRESENT_REF	2008.0			
+40	5	fb:cell.null_2	?	?	?	.	O					
+41	0	fb:cell.boeing_stratojet	Boeing Stratojet	boeing|stratojet	Boeing|Stratojet	NNP|NNP	ORGANIZATION|O	|				Boeing Stratojet
+41	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+41	2	fb:cell.us	US	us	we	PRP	O					US
+41	3	fb:cell.bomber_used_as_engine_testbed	bomber used as engine testbed	bomber|used|as|engine|testbed	bomber|use|as|engine|testb	NN|VBD|IN|NN|VBD	O|O|O|O|O	||||				bomber used as engine testbed
+41	4	fb:cell.1956_1959	1956–1959	1956|--|1959	1956|--|1959	CD|:|CD	DATE|O|DATE	1956||1959	1956.0		1959.0	
+41	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+42	0	fb:cell.boeing_vertol_chinook	Boeing-Vertol Chinook	boeing|vertol|chinook	Boeing|Vertol|Chinook	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Boeing-Vertol Chinook
+42	1	fb:cell.ch_147	CH-147	ch-147	ch-147	NN	O		147.0			CH-147
+42	2	fb:cell.us	US	us	we	PRP	O					US
+42	3	fb:cell.transport_helicopter	transport helicopter	transport|helicopter	transport|helicopter	NN|NN	O|O	|				transport helicopter
+42	4	fb:cell.1974_1992	1974–1992	1974|--|1992	1974|--|1992	CD|:|CD	DATE|O|DATE	1974||1992	1974.0		1992.0	
+42	5	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+43	0	fb:cell.boeing_vertol_labrador_voyageur	Boeing-Vertol Labrador & Voyageur	boeing|vertol|labrador|&|voyageur	Boeing|Vertol|Labrador|&|Voyageur	NNP|NNP|NNP|CC|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				Boeing-Vertol Labrador & Voyageur
+43	1	fb:cell.ch_113	CH-113	ch-113	ch-113	NN	O		113.0			CH-113
+43	2	fb:cell.us	US	us	we	PRP	O					US
+43	3	fb:cell.search_and_rescue_helicopter	Search and Rescue helicopter	search|and|rescue|helicopter	search|and|rescue|helicopter	NN|CC|NN|NN	O|O|O|O	|||				Search and Rescue helicopter
+43	4	fb:cell.1963_2004	1963–2004	1963|--|2004	1963|--|2004	CD|:|CD	DATE|O|DATE	1963||2004	1963.0		2004.0	
+43	5	fb:cell.18	18	18	18	CD	NUMBER	18.0	18.0			
+44	0	fb:cell.brewster_bermuda	Brewster Bermuda	brewster|bermuda	Brewster|Bermuda	NNP|NNP	PERSON|PERSON	|				Brewster Bermuda
+44	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+44	2	fb:cell.us	US	us	we	PRP	O					US
+44	3	fb:cell.dive_bomber	dive bomber	dive|bomber	dive|bomber	NN|NN	O|O	|				dive bomber
+44	4	fb:cell.1943_1946	1943–1946	1943|--|1946	1943|--|1946	CD|:|CD	DATE|O|DATE	1943||1946	1943.0		1946.0	
+44	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+45	0	fb:cell.bristol_beaufort	Bristol Beaufort	bristol|beaufort	Bristol|Beaufort	NNP|NNP	LOCATION|LOCATION	|				Bristol Beaufort
+45	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+45	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+45	3	fb:cell.torpedo_bomber_strike_minelayer	torpedo bomber/strike/minelayer	torpedo|bomber/strike/minelayer	torpedo|bomber/strike/minelayer	VB|NN	O|O	|				torpedo bomber|strike|minelayer
+45	4	fb:cell.1941_1944	1941–1944	1941|--|1944	1941|--|1944	CD|:|CD	DATE|O|DATE	1941||1944	1941.0		1944.0	
+45	5	fb:cell.15	15	15	15	CD	NUMBER	15.0	15.0			
+46	0	fb:cell.bristol_blenheim_mk_iv	Bristol Blenheim Mk.IV	bristol|blenheim|mk.iv	Bristol|Blenheim|Mk.IV	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|O	||				Bristol Blenheim Mk.IV
+46	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+46	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+46	3	fb:cell.medium_bomber_gunnery_trainer	medium bomber/gunnery trainer	medium|bomber/gunnery|trainer	medium|bomber/gunnery|trainer	NN|NN|NN	O|O|O	||				medium bomber|gunnery trainer
+46	4	fb:cell.1941_1945	1941–1945	1941|--|1945	1941|--|1945	CD|:|CD	DATE|O|DATE	1941||1945	1941.0		1945.0	
+46	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+47	0	fb:cell.bristol_f_2b_fighter	Bristol F.2B Fighter	bristol|f.|2b|fighter	Bristol|F.|2b|fighter	NNP|NNP|NN|NN	LOCATION|O|O|O	|||	0.2			Bristol F.2B Fighter
+47	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+47	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+47	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+47	4	fb:cell.1920_1922	1920–1922	1920|--|1922	1920|--|1922	CD|:|CD	DATE|O|DATE	1920||1922	1920.0		1922.0	
+47	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+48	0	fb:cell.bristol_fairchild_bolingbroke	Bristol Fairchild Bolingbroke	bristol|fairchild|bolingbroke	Bristol|Fairchild|Bolingbroke	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Bristol Fairchild Bolingbroke
+48	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+48	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+48	3	fb:cell.bomber_trainer	bomber/trainer	bomber/trainer	bomber/trainer	NN	O					bomber|trainer
+48	4	fb:cell.1939_1947	1939–1947	1939|--|1947	1939|--|1947	CD|:|CD	DATE|O|DATE	1939||1947	1939.0		1947.0	
+48	5	fb:cell.626	626	626	626	CD	NUMBER	626.0	626.0			
+49	0	fb:cell.bristol_freighter	Bristol Freighter	bristol|freighter	Bristol|Freighter	NNP|NNP	LOCATION|O	|				Bristol Freighter
+49	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+49	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+49	3	fb:cell.cargo	cargo	cargo	cargo	NN	O					cargo
+49	4	fb:cell.1952_1967	1952–1967	1952|--|1967	1952|--|1967	CD|:|CD	DATE|O|DATE	1952||1967	1952.0		1967.0	
+49	5	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+50	0	fb:cell.burgess_dunne	Burgess-Dunne	burgess|dunne	Burgess|Dunne	NNP|NNP	PERSON|PERSON	|				Burgess-Dunne
+50	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+50	2	fb:cell.us	US	us	we	PRP	O					US
+50	3	fb:cell.reconnaissance	reconnaissance	reconnaissance	reconnaissance	NNP	O					reconnaissance
+50	4	fb:cell.1914_1914	1914–1914	1914|--|1914	1914|--|1914	CD|:|CD	DATE|O|DATE	1914||1914	1914.0		1914.0	
+50	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+51	0	fb:cell.canadair_argus	Canadair Argus	canadair|argus	Canadair|Argus	NNP|NNP	PERSON|PERSON	|				Canadair Argus
+51	1	fb:cell.cp_107	CP-107	cp-107	cp-107	NN	O		107.0			CP-107
+51	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+51	3	fb:cell.maritime_patrol	maritime patrol	maritime|patrol	maritime|patrol	NNP|NNP	O|O	|				maritime patrol
+51	4	fb:cell.1957_1988	1957–1988	1957|--|1988	1957|--|1988	CD|:|CD	DATE|O|DATE	1957||1988	1957.0		1988.0	
+51	5	fb:cell.33	33	33	33	CD	NUMBER	33.0	33.0			
+52	0	fb:cell.canadair_c_5_north_star	Canadair C-5 North Star	canadair|c-5|north|star	Canadair|C-5|North|Star	NNP|NNP|NNP|NNP	O|O|O|O	|||	5.0			Canadair C-5 North Star
+52	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+52	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+52	3	fb:cell.vip_transport	VIP transport	vip|transport	vip|transport	NN|NN	O|O	|				VIP transport
+52	4	fb:cell.1950_1967	1950–1967	1950|--|1967	1950|--|1967	CD|:|CD	DATE|O|DATE	1950||1967	1950.0		1967.0	
+52	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+53	0	fb:cell.canadair_cf_5_freedom_fighter	Canadair CF-5 Freedom Fighter	canadair|cf-5|freedom|fighter	Canadair|CF-5|Freedom|Fighter	NNP|NNP|NNP|NNP	ORGANIZATION|O|O|O	|||	5.0			Canadair CF-5 Freedom Fighter
+53	1	fb:cell.cf_116	CF-116	cf-116	cf-116	NN	O		116.0			CF-116
+53	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+53	3	fb:cell.fighter_ground_attack	fighter/ground attack	fighter/ground|attack	fighter/ground|attack	JJ|NN	O|O	|				fighter|ground attack
+53	4	fb:cell.1968_current	1968–current	1968|--|current	1968|--|current	CD|:|JJ	DATE|O|DATE	1968||PRESENT_REF	1968.0			
+53	5	fb:cell.133	133	133	133	CD	NUMBER	133.0	133.0			
+54	0	fb:cell.canadair_challenger	Canadair Challenger	canadair|challenger	Canadair|Challenger	NNP|NNP	O|O	|				Canadair Challenger
+54	1	fb:cell.cc_144	CC-144	cc-144	cc-144	NN	O		144.0			CC-144
+54	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+54	3	fb:cell.vip_transport_ew_trainer_maritime_patrol	VIP transport/EW trainer/maritime patrol	vip|transport/ew|trainer/maritime|patrol	vip|transport/ew|trainer/maritime|patrol	NN|NN|NN|NN	O|O|O|O	|||				VIP transport|EW trainer|maritime patrol
+54	4	fb:cell.1983_current	1983–current	1983|--|current	1983|--|current	CD|:|JJ	DATE|O|DATE	1983||PRESENT_REF	1983.0			
+54	5	fb:cell.18	18	18	18	CD	NUMBER	18.0	18.0			
+55	0	fb:cell.canadair_cosmopolitan	Canadair Cosmopolitan	canadair|cosmopolitan	Canadair|Cosmopolitan	NNP|NNP	O|O	|				Canadair Cosmopolitan
+55	1	fb:cell.cc_109	CC-109	cc-109	cc-109	NN	O		109.0			CC-109
+55	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+55	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+55	4	fb:cell.1960_1994	1960–1994	1960|--|1994	1960|--|1994	CD|:|CD	DATE|O|DATE	1960||1994	1960.0		1994.0	
+55	5	fb:cell.13	13	13	13	CD	NUMBER	13.0	13.0			
+56	0	fb:cell.canadair_dynavert	Canadair Dynavert	canadair|dynavert	Canadair|Dynavert	NNP|NNP	PERSON|PERSON	|				Canadair Dynavert
+56	1	fb:cell.cx_131	CX-131	cx-131	cx-131	NN	O		131.0			CX-131
+56	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+56	3	fb:cell.experimental_vtol_tilt_wing	experimental VTOL tilt-wing	experimental|vtol|tilt|wing	experimental|vtol|tilt|wing	JJ|NN|NN|NN	O|O|O|O	|||				experimental VTOL tilt-wing
+56	4	fb:cell.1969_1975	1969–1975	1969|--|1975	1969|--|1975	CD|:|CD	DATE|O|DATE	1969||1975	1969.0		1975.0	
+56	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+57	0	fb:cell.canadair_north_star	Canadair North Star	canadair|north|star	Canadair|North|Star	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Canadair North Star
+57	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+57	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+57	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+57	4	fb:cell.1947_1966	1947–1966	1947|--|1966	1947|--|1966	CD|:|CD	DATE|O|DATE	1947||1966	1947.0		1966.0	
+57	5	fb:cell.24	24	24	24	CD	NUMBER	24.0	24.0			
+58	0	fb:cell.canadair_sabre	Canadair Sabre	canadair|sabre	Canadair|Sabre	NNP|NNP	PERSON|PERSON	|				Canadair Sabre
+58	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+58	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+58	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+58	4	fb:cell.1950_1977	1950–1977	1950|--|1977	1950|--|1977	CD|:|CD	DATE|O|DATE	1950||1977	1950.0		1977.0	
+58	5	fb:cell.1184	1184	1184	1184	CD	DATE	1184	1184.0	1184-xx-xx		
+59	0	fb:cell.canadair_silver_star	Canadair Silver Star	canadair|silver|star	Canadair|Silver|Star	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Canadair Silver Star
+59	1	fb:cell.ct_133	CT-133	ct-133	ct-133	NN	O		133.0			CT-133
+59	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+59	3	fb:cell.trainer_ew	trainer/EW	trainer/ew	trainer/ew	NN	O					trainer|EW
+59	4	fb:cell.1953_current	1953–current	1953|--|current	1953|--|current	CD|:|JJ	DATE|O|DATE	1953||PRESENT_REF	1953.0			
+59	5	fb:cell.656	656	656	656	CD	NUMBER	656.0	656.0			
+60	0	fb:cell.canadair_starfighter	Canadair Starfighter	canadair|starfighter	Canadair|Starfighter	NNP|NNP	O|O	|				Canadair Starfighter
+60	1	fb:cell.cf_104	CF-104	cf-104	cf-104	NN	O		104.0			CF-104
+60	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+60	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+60	4	fb:cell.1961_1988	1961–1988	1961|--|1988	1961|--|1988	CD|:|CD	DATE|O|DATE	1961||1988	1961.0		1988.0	
+60	5	fb:cell.200	200	200	200	CD	NUMBER	200.0	200.0			
+61	0	fb:cell.canadair_tutor	Canadair Tutor	canadair|tutor	Canadair|tutor	NNP|NN	O|O	|				Canadair Tutor
+61	1	fb:cell.ct_114	CT-114	ct-114	ct-114	NN	O		114.0			CT-114
+61	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+61	3	fb:cell.trainer	trainer	trainer	trainer	NN	O					trainer
+61	4	fb:cell.1963_2000	1963–2000	1963|--|2000	1963|--|2000	CD|:|CD	DATE|O|DATE	1963||2000	1963.0		2000.0	
+61	5	fb:cell.190	190	190	190	CD	NUMBER	190.0	190.0			
+62	0	fb:cell.canadair_yukon	Canadair Yukon	canadair|yukon	Canadair|Yukon	NNP|NNP	PERSON|PERSON	|				Canadair Yukon
+62	1	fb:cell.cc_106	CC-106	cc-106	cc-106	NN	O		106.0			CC-106
+62	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+62	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+62	4	fb:cell.1959_1971	1959–1971	1959|--|1971	1959|--|1971	CD|:|CD	DATE|O|DATE	1959||1971	1959.0		1971.0	
+62	5	fb:cell.12	12	12	12	CD	NUMBER	12.0	12.0			
+63	0	fb:cell.canadian_vickers_vancouver	Canadian Vickers Vancouver	canadian|vickers|vancouver	canadian|Vickers|Vancouver	JJ|NNP|NNP	MISC|ORGANIZATION|ORGANIZATION	||				Canadian Vickers Vancouver
+63	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+63	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+63	3	fb:cell.patrol_flying_boat	patrol flying boat	patrol|flying|boat	patrol|fly|boat	NN|VBG|NN	O|O|O	||				patrol flying boat
+63	4	fb:cell.1929_1940	1929–1940	1929|--|1940	1929|--|1940	CD|:|CD	DATE|O|DATE	1929||1940	1929.0		1940.0	
+63	5	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+64	0	fb:cell.canadian_vickers_vanessa	Canadian Vickers Vanessa	canadian|vickers|vanessa	canadian|Vickers|Vanessa	JJ|NNP|NNP	MISC|ORGANIZATION|ORGANIZATION	||				Canadian Vickers Vanessa
+64	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+64	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+64	3	fb:cell.utility_transport	utility/transport	utility/transport	utility/transport	NN	O					utility|transport
+64	4	fb:cell.1927_1927	1927–1927	1927|--|1927	1927|--|1927	CD|:|CD	DATE|O|DATE	1927||1927	1927.0		1927.0	
+64	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+65	0	fb:cell.canadian_vickers_varuna	Canadian Vickers Varuna	canadian|vickers|varuna	canadian|Vickers|Varuna	JJ|NNP|NNP	MISC|ORGANIZATION|ORGANIZATION	||				Canadian Vickers Varuna
+65	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+65	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+65	3	fb:cell.patrol_flying_boat	patrol flying boat	patrol|flying|boat	patrol|fly|boat	NN|VBG|NN	O|O|O	||				patrol flying boat
+65	4	fb:cell.1926_1930	1926–1930	1926|--|1930	1926|--|1930	CD|:|CD	DATE|O|DATE	1926||1930	1926.0		1930.0	
+65	5	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+66	0	fb:cell.canadian_vickers_vedette	Canadian Vickers Vedette	canadian|vickers|vedette	canadian|Vickers|Vedette	JJ|NNP|NNP	MISC|O|O	||				Canadian Vickers Vedette
+66	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+66	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+66	3	fb:cell.patrol_flying_boat	patrol flying boat	patrol|flying|boat	patrol|fly|boat	NN|VBG|NN	O|O|O	||				patrol flying boat
+66	4	fb:cell.1925_1941	1925–1941	1925|--|1941	1925|--|1941	CD|:|CD	DATE|O|DATE	1925||1941	1925.0		1941.0	
+66	5	fb:cell.44	44	44	44	CD	NUMBER	44.0	44.0			
+67	0	fb:cell.canadian_vickers_velos	Canadian Vickers Velos	canadian|vickers|velos	canadian|Vickers|Velos	JJ|NNP|NNPS	MISC|ORGANIZATION|ORGANIZATION	||				Canadian Vickers Velos
+67	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+67	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+67	3	fb:cell.patrol_floatplane	patrol floatplane	patrol|floatplane	patrol|floatplane	NNP|NNP	O|O	|				patrol floatplane
+67	4	fb:cell.1927_1928	1927–1928	1927|--|1928	1927|--|1928	CD|:|CD	DATE|O|DATE	1927||1928	1927.0		1928.0	
+67	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+68	0	fb:cell.canadian_vickers_vigil	Canadian Vickers Vigil	canadian|vickers|vigil	canadian|Vickers|vigil	JJ|NNP|NN	MISC|ORGANIZATION|ORGANIZATION	||				Canadian Vickers Vigil
+68	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+68	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+68	3	fb:cell.training_utility	training/utility	training/utility	training/utility	NN	O					training|utility
+68	4	fb:cell.1928_1930	1928–1930	1928|--|1930	1928|--|1930	CD|:|CD	DATE|O|DATE	1928||1930	1928.0		1930.0	
+68	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+69	0	fb:cell.canadian_vickers_vista	Canadian Vickers Vista	canadian|vickers|vista	canadian|Vickers|Vista	JJ|NNP|NNP	MISC|ORGANIZATION|ORGANIZATION	||				Canadian Vickers Vista
+69	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+69	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+69	3	fb:cell.patrol_flying_boat	patrol flying boat	patrol|flying|boat	patrol|fly|boat	NN|VBG|NN	O|O|O	||				patrol flying boat
+69	4	fb:cell.1927_1931	1927–1931	1927|--|1931	1927|--|1931	CD|:|CD	DATE|O|DATE	1927||1931	1927.0		1931.0	
+69	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+70	0	fb:cell.cessna_182_l_182	Cessna 182/L-182	cessna|182/l|-182	Cessna|182/L|-182	NNP|NNP|CD	ORGANIZATION|O|NUMBER	||-182.0	182.0		182.0	Cessna 182|L-182
+70	1	fb:cell.co_119	CO-119	co-119	co-119	NN	O		119.0			CO-119
+70	2	fb:cell.us	US	us	we	PRP	O					US
+70	3	fb:cell.utility	utility	utility	utility	NN	O					utility
+70	4	fb:cell.1961_1973	1961–1973	1961|--|1973	1961|--|1973	CD|:|CD	DATE|O|DATE	1961||1973	1961.0		1973.0	
+70	5	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			
+71	0	fb:cell.cessna_bird_dog_l_19	Cessna Bird Dog/L-19	cessna|bird|dog/l|-19	Cessna|bird|dog/l|-19	NNP|NN|NN|CD	ORGANIZATION|O|O|NUMBER	|||-19.0	19.0			Cessna Bird Dog|L-19
+71	1	fb:cell.co_119	CO-119	co-119	co-119	NN	O		119.0			CO-119
+71	2	fb:cell.us	US	us	we	PRP	O					US
+71	3	fb:cell.utility_liaison	utility/liaison	utility/liaison	utility/liaison	NN	O					utility|liaison
+71	4	fb:cell.1954_1983	1954–1983	1954|--|1983	1954|--|1983	CD|:|CD	DATE|O|DATE	1954||1983	1954.0		1983.0	
+71	5	fb:cell.25	25	25	25	CD	NUMBER	25.0	25.0			
+72	0	fb:cell.cessna_crane	Cessna Crane	cessna|crane	Cessna|Crane	NNP|NNP	PERSON|PERSON	|				Cessna Crane
+72	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+72	2	fb:cell.us	US	us	we	PRP	O					US
+72	3	fb:cell.trainer	trainer	trainer	trainer	NN	O					trainer
+72	4	fb:cell.1941_1949	1941–1949	1941|--|1949	1941|--|1949	CD|:|CD	DATE|O|DATE	1941||1949	1941.0		1949.0	
+72	5	fb:cell.826	826	826	826	CD	NUMBER	826.0	826.0			
+73	0	fb:cell.consolidated_catalina_canso	Consolidated Catalina/Canso	consolidated|catalina/canso	Consolidated|Catalina/Canso	NNP|NNP	O|O	|				Consolidated Catalina|Canso
+73	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+73	2	fb:cell.us_canada	US/Canada	us/canada	US/Canada	NNP	O					US|Canada
+73	3	fb:cell.maritime_patrol_seaplane	maritime patrol seaplane	maritime|patrol|seaplane	maritime|patrol|seaplane	NNP|NNP|NNP	O|O|O	||				maritime patrol seaplane
+73	4	fb:cell.1941_1962	1941–1962	1941|--|1962	1941|--|1962	CD|:|CD	DATE|O|DATE	1941||1962	1941.0		1962.0	
+73	5	fb:cell.254	254	254	254	CD	NUMBER	254.0	254.0			
+74	0	fb:cell.consolidated_courier	Consolidated Courier	consolidated|courier	Consolidated|courier	NNP|NN	O|O	|				Consolidated Courier
+74	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+74	2	fb:cell.us	US	us	we	PRP	O					US
+74	3	fb:cell.utility	utility	utility	utility	NN	O					utility
+74	4	fb:cell.1928_1941	1928–1941	1928|--|1941	1928|--|1941	CD|:|CD	DATE|O|DATE	1928||1941	1928.0		1941.0	
+74	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+75	0	fb:cell.consolidated_liberator	Consolidated Liberator	consolidated|liberator	Consolidated|Liberator	NNP|NNP	O|O	|				Consolidated Liberator
+75	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+75	2	fb:cell.us	US	us	we	PRP	O					US
+75	3	fb:cell.maritime_patrol	maritime patrol	maritime|patrol	maritime|patrol	NNP|NNP	O|O	|				maritime patrol
+75	4	fb:cell.1943_1948	1943–1948	1943|--|1948	1943|--|1948	CD|:|CD	DATE|O|DATE	1943||1948	1943.0		1948.0	
+75	5	fb:cell.148	148	148	148	CD	NUMBER	148.0	148.0			
+76	0	fb:cell.consolidated_privateer	Consolidated Privateer	consolidated|privateer	Consolidated|Privateer	NNP|NNP	O|O	|				Consolidated Privateer
+76	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+76	2	fb:cell.us	US	us	we	PRP	O					US
+76	3	fb:cell.maritime_patrol	maritime patrol	maritime|patrol	maritime|patrol	NNP|NNP	O|O	|				maritime patrol
+76	4	fb:cell.1946_1949	1946–1949	1946|--|1949	1946|--|1949	CD|:|CD	DATE|O|DATE	1946||1949	1946.0		1949.0	
+76	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+77	0	fb:cell.curtiss_canuck	Curtiss Canuck	curtiss|canuck	Curtiss|Canuck	NNP|NNP	PERSON|PERSON	|				Curtiss Canuck
+77	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+77	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+77	3	fb:cell.trainer	trainer	trainer	trainer	NN	O					trainer
+77	4	fb:cell.1920_1923	1920–1923	1920|--|1923	1920|--|1923	CD|:|CD	DATE|O|DATE	1920||1923	1920.0		1923.0	
+77	5	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			
+78	0	fb:cell.curtiss_h_16	Curtiss H-16	curtiss|h-16	Curtiss|H-16	NNP|NNP	PERSON|O	|	16.0			Curtiss H-16
+78	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+78	2	fb:cell.us	US	us	we	PRP	O					US
+78	3	fb:cell.patrol_flying_boat	patrol flying boat	patrol|flying|boat	patrol|fly|boat	NN|VBG|NN	O|O|O	||				patrol flying boat
+78	4	fb:cell.1922_1924	1922–1924	1922|--|1924	1922|--|1924	CD|:|CD	DATE|O|DATE	1922||1924	1922.0		1924.0	
+78	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+79	0	fb:cell.curtiss_hs_2l	Curtiss HS-2L	curtiss|hs-2l	Curtiss|HS-2L	NNP|NNP	PERSON|PERSON	|	2.0			Curtiss HS-2L
+79	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+79	2	fb:cell.us	US	us	we	PRP	O					US
+79	3	fb:cell.patrol_flying_boat	patrol flying boat	patrol|flying|boat	patrol|fly|boat	NN|VBG|NN	O|O|O	||				patrol flying boat
+79	4	fb:cell.1920_1928	1920–1928	1920|--|1928	1920|--|1928	CD|:|CD	DATE|O|DATE	1920||1928	1920.0		1928.0	
+79	5	fb:cell.30	30	30	30	CD	NUMBER	30.0	30.0			
+80	0	fb:cell.curtiss_kittyhawk	Curtiss Kittyhawk	curtiss|kittyhawk	Curtiss|Kittyhawk	NNP|NNP	PERSON|PERSON	|				Curtiss Kittyhawk
+80	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+80	2	fb:cell.us	US	us	we	PRP	O					US
+80	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+80	4	fb:cell.1941_1946	1941–1946	1941|--|1946	1941|--|1946	CD|:|CD	DATE|O|DATE	1941||1946	1941.0		1946.0	
+80	5	fb:cell.134	134	134	134	CD	NUMBER	134.0	134.0			
+81	0	fb:cell.curtiss_seamew	Curtiss Seamew	curtiss|seamew	Curtiss|Seamew	NNP|NNP	PERSON|PERSON	|				Curtiss Seamew
+81	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+81	2	fb:cell.us	US	us	we	PRP	O					US
+81	3	fb:cell.utility_floatplane	utility floatplane	utility|floatplane	utility|floatplane	NN|NN	O|O	|				utility floatplane
+81	4	fb:cell.1943_1944	1943–1944	1943|--|1944	1943|--|1944	CD|:|CD	DATE|O|DATE	1943||1944	1943.0		1944.0	
+81	5	fb:cell.82	82	82	82	CD	NUMBER	82.0	82.0			
+82	0	fb:cell.curtiss_tomahawk	Curtiss Tomahawk	curtiss|tomahawk	Curtiss|Tomahawk	NNP|NNP	PERSON|PERSON	|				Curtiss Tomahawk
+82	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+82	2	fb:cell.us	US	us	we	PRP	O					US
+82	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+82	4	fb:cell.1943_1946	1943–1946	1943|--|1946	1943|--|1946	CD|:|CD	DATE|O|DATE	1943||1946	1943.0		1946.0	
+82	5	fb:cell.4_2	4	4	4	CD	NUMBER	4.0	4.0			
+83	0	fb:cell.curtiss_warhawk	Curtiss Warhawk	curtiss|warhawk	Curtiss|Warhawk	NNP|NNP	PERSON|PERSON	|				Curtiss Warhawk
+83	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+83	2	fb:cell.us	US	us	we	PRP	O					US
+83	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+83	4	fb:cell.1942_1943	1942–1943	1942|--|1943	1942|--|1943	CD|:|CD	DATE|O|DATE	1942||1943	1942.0		1943.0	
+83	5	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+84	0	fb:cell.curtiss_reid_rambler	Curtiss-Reid Rambler	curtiss|reid|rambler	Curtiss|Reid|Rambler	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Curtiss-Reid Rambler
+84	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+84	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+84	3	fb:cell.trainer_utility	trainer/utility	trainer/utility	trainer/utility	NN	O					trainer|utility
+84	4	fb:cell.1929_1954	1929–1954	1929|--|1954	1929|--|1954	CD|:|CD	DATE|O|DATE	1929||1954	1929.0		1954.0	
+84	5	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+85	0	fb:cell.dassault_falcon	Dassault Falcon	dassault|falcon	Dassault|Falcon	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Dassault Falcon
+85	1	fb:cell.cc_117	CC-117	cc-117	cc-117	NN	O		117.0			CC-117
+85	2	fb:cell.france	France	france	France	NNP	LOCATION					France
+85	3	fb:cell.vip_transport	VIP transport	vip|transport	vip|transport	NN|NN	O|O	|				VIP transport
+85	4	fb:cell.1967_1989	1967–1989	1967|--|1989	1967|--|1989	CD|:|CD	DATE|O|DATE	1967||1989	1967.0		1989.0	
+85	5	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+86	0	fb:cell.de_havilland_comet	de Havilland Comet	de|havilland|comet	de|Havilland|Comet	IN|NNP|NNP	O|O|O	||				de Havilland Comet
+86	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+86	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+86	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+86	4	fb:cell.1953_1965	1953–1965	1953|--|1965	1953|--|1965	CD|:|CD	DATE|O|DATE	1953||1965	1953.0		1965.0	
+86	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+87	0	fb:cell.de_havilland_dragonfly	de Havilland Dragonfly	de|havilland|dragonfly	de|Havilland|Dragonfly	IN|NNP|NNP	O|O|O	||				de Havilland Dragonfly
+87	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+87	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+87	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+87	4	fb:cell.1940_1945	1940–1945	1940|--|1945	1940|--|1945	CD|:|CD	DATE|O|DATE	1940||1945	1940.0		1945.0	
+87	5	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+88	0	fb:cell.de_havilland_fox_moth	de Havilland Fox Moth	de|havilland|fox|moth	de|Havilland|Fox|moth	IN|NNP|NNP|NN	PERSON|PERSON|PERSON|PERSON	|||				de Havilland Fox Moth
+88	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+88	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+88	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+88	4	fb:cell.1941_1945	1941–1945	1941|--|1945	1941|--|1945	CD|:|CD	DATE|O|DATE	1941||1945	1941.0		1945.0	
+88	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+89	0	fb:cell.de_havilland_genet_moth	de Havilland Genet Moth	de|havilland|genet|moth	de|Havilland|Genet|Moth	IN|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				de Havilland Genet Moth
+89	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+89	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+89	3	fb:cell.role	role	role	role	NN	O					role
+89	4	fb:cell.1928_1932	1928–1932	1928|--|1932	1928|--|1932	CD|:|CD	DATE|O|DATE	1928||1932	1928.0		1932.0	
+89	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+90	0	fb:cell.de_havilland_hawk_moth	de Havilland Hawk Moth	de|havilland|hawk|moth	de|Havilland|hawk|moth	IN|NNP|NN|NN	PERSON|PERSON|PERSON|PERSON	|||				de Havilland Hawk Moth
+90	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+90	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+90	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+90	4	fb:cell.1929_1935	1929–1935	1929|--|1935	1929|--|1935	CD|:|CD	DATE|O|DATE	1929||1935	1929.0		1935.0	
+90	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+91	0	fb:cell.de_havilland_menasco_moth	de Havilland Menasco Moth	de|havilland|menasco|moth	de|Havilland|Menasco|Moth	IN|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				de Havilland Menasco Moth
+91	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+91	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+91	3	fb:cell.trainer	trainer	trainer	trainer	NN	O					trainer
+91	4	fb:cell.1941_1947	1941–1947	1941|--|1947	1941|--|1947	CD|:|CD	DATE|O|DATE	1941||1947	1941.0		1947.0	
+91	5	fb:cell.136	136	136	136	CD	NUMBER	136.0	136.0			
+92	0	fb:cell.de_havilland_mosquito	de Havilland Mosquito	de|havilland|mosquito	de|Havilland|mosquito	IN|NNP|NN	PERSON|PERSON|PERSON	||				de Havilland Mosquito
+92	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+92	2	fb:cell.uk_canada	UK/Canada	uk/canada	UK/Canada	NNP	O					UK|Canada
+92	3	fb:cell.bomber_fighter_bomber	bomber/fighter-bomber	bomber/fighter|bomber	bomber/fighter|bomber	NNP|NN	O|O	|				bomber|fighter-bomber
+92	4	fb:cell.1943_1951	1943–1951	1943|--|1951	1943|--|1951	CD|:|CD	DATE|O|DATE	1943||1951	1943.0		1951.0	
+92	5	fb:cell.444	444	444	444	CD	NUMBER	444.0	444.0			
+93	0	fb:cell.de_havilland_moth	De Havilland Moth	de|havilland|moth	de|Havilland|Moth	IN|NNP|NNP	PERSON|PERSON|PERSON	||				De Havilland Moth
+93	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+93	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+93	3	fb:cell.trainer	trainer	trainer	trainer	NN	O					trainer
+93	4	fb:cell.1928_1948	1928–1948	1928|--|1948	1928|--|1948	CD|:|CD	DATE|O|DATE	1928||1948	1928.0		1948.0	
+93	5	fb:cell.89	89	89	89	CD	NUMBER	89.0	89.0			
+94	0	fb:cell.de_havilland_puss_moth	de Havilland Puss Moth	de|havilland|puss|moth	de|Havilland|Puss|Moth	IN|NNP|NNP|NNP	O|O|O|O	|||				de Havilland Puss Moth
+94	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+94	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+94	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+94	4	fb:cell.1931_1944	1931–1944	1931|--|1944	1931|--|1944	CD|:|CD	DATE|O|DATE	1931||1944	1931.0		1944.0	
+94	5	fb:cell.19	19	19	19	CD	NUMBER	19.0	19.0			
+95	0	fb:cell.de_havilland_sea_hornet	de Havilland Sea Hornet	de|havilland|sea|hornet	de|Havilland|Sea|Hornet	IN|NNP|NNP|NNP	LOCATION|LOCATION|LOCATION|LOCATION	|||				de Havilland Sea Hornet
+95	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+95	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+95	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+95	4	fb:cell.1948_1948	1948–1948	1948|--|1948	1948|--|1948	CD|:|CD	DATE|O|DATE	1948||1948	1948.0		1948.0	
+95	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+96	0	fb:cell.de_havilland_dh_82c_tiger_moth	de Havilland DH.82C Tiger Moth	de|havilland|dh|.82|c|tiger|moth	de|Havilland|DH|.82|C|Tiger|Moth	IN|NNP|NNP|NNP|NNP|NNP|NNP	O|O|O|NUMBER|O|PERSON|PERSON	|||0.82|||	0.82			de Havilland DH.82C Tiger Moth
+96	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+96	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+96	3	fb:cell.trainer	trainer	trainer	trainer	NN	O					trainer
+96	4	fb:cell.1938_1948	1938–1948	1938|--|1948	1938|--|1948	CD|:|CD	DATE|O|DATE	1938||1948	1938.0		1948.0	
+96	5	fb:cell.1410	1410	1410	1410	CD	DATE	1410	1410.0	1410-xx-xx		
+97	0	fb:cell.de_havilland_vampire	de Havilland Vampire	de|havilland|vampire	de|Havilland|Vampire	IN|NNP|NNP	O|O|O	||				de Havilland Vampire
+97	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+97	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+97	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+97	4	fb:cell.1946_1958	1946–1958	1946|--|1958	1946|--|1958	CD|:|CD	DATE|O|DATE	1946||1958	1946.0		1958.0	
+97	5	fb:cell.86	86	86	86	CD	NUMBER	86.0	86.0			
+98	0	fb:cell.de_havilland_canada_buffalo	de Havilland Canada Buffalo	de|havilland|canada|buffalo	de|Havilland|Canada|Buffalo	IN|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				de Havilland Canada Buffalo
+98	1	fb:cell.cc_115	CC-115	cc-115	cc-115	NN	O		115.0			CC-115
+98	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+98	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+98	4	fb:cell.1967_current	1967–current	1967|--|current	1967|--|current	CD|:|JJ	DATE|O|DATE	1967||PRESENT_REF	1967.0			
+98	5	fb:cell.15	15	15	15	CD	NUMBER	15.0	15.0			
+99	0	fb:cell.de_havilland_canada_caribou	de Havilland Canada Caribou	de|havilland|canada|caribou	de|Havilland|Canada|caribou	IN|NNP|NNP|NN	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				de Havilland Canada Caribou
+99	1	fb:cell.cc_108	CC-108	cc-108	cc-108	NN	O		108.0			CC-108
+99	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+99	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+99	4	fb:cell.1960_1971	1960–1971	1960|--|1971	1960|--|1971	CD|:|CD	DATE|O|DATE	1960||1971	1960.0		1971.0	
+99	5	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+100	0	fb:cell.de_havilland_canada_chipmunk	de Havilland Canada Chipmunk	de|havilland|canada|chipmunk	de|Havilland|Canada|Chipmunk	IN|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				de Havilland Canada Chipmunk
+100	1	fb:cell.ct_120	CT-120	ct-120	ct-120	NN	O		120.0			CT-120
+100	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+100	3	fb:cell.elementary_trainer	elementary trainer	elementary|trainer	elementary|trainer	JJ|NN	O|O	|				elementary trainer
+100	4	fb:cell.1948_1972	1948–1972	1948|--|1972	1948|--|1972	CD|:|CD	DATE|O|DATE	1948||1972	1948.0		1972.0	
+100	5	fb:cell.100	100	100	100	CD	NUMBER	100.0	100.0			
+101	0	fb:cell.de_havilland_canada_dash_7	de Havilland Canada Dash 7	de|havilland|canada|dash|7	de|Havilland|Canada|dash|7	IN|NNP|NNP|VB|CD	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|NUMBER	||||7.0	7.0			de Havilland Canada Dash 7
+101	1	fb:cell.cc_132	CC-132	cc-132	cc-132	NN	O		132.0			CC-132
+101	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+101	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+101	4	fb:cell.1979_1987	1979–1987	1979|--|1987	1979|--|1987	CD|:|CD	DATE|O|DATE	1979||1987	1979.0		1987.0	
+101	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+102	0	fb:cell.de_havilland_canada_dash_8	De Havilland Canada Dash-8	de|havilland|canada|dash-8	de|Havilland|Canada|Dash-8	IN|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O	|||	8.0			De Havilland Canada Dash-8
+102	1	fb:cell.ct_142	CT-142	ct-142	ct-142	NN	O		142.0			CT-142
+102	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+102	3	fb:cell.transport_trainer	transport/trainer	transport/trainer	transport/trainer	NN	O					transport|trainer
+102	4	fb:cell.1989_current	1989–current	1989|--|current	1989|--|current	CD|:|JJ	DATE|O|DATE	1989||PRESENT_REF	1989.0			
+102	5	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+103	0	fb:cell.de_havilland_canada_otter	de Havilland Canada Otter	de|havilland|canada|otter	de|Havilland|Canada|Otter	IN|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				de Havilland Canada Otter
+103	1	fb:cell.csr_123	CSR-123	csr-123	csr-123	NN	O		123.0			CSR-123
+103	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+103	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+103	4	fb:cell.1953_1984	1953–1984	1953|--|1984	1953|--|1984	CD|:|CD	DATE|O|DATE	1953||1984	1953.0		1984.0	
+103	5	fb:cell.69	69	69	69	CD	NUMBER	69.0	69.0			
+104	0	fb:cell.de_havilland_canada_twin_otter	de Havilland Canada Twin Otter	de|havilland|canada|twin|otter	de|Havilland|Canada|Twin|Otter	IN|NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				de Havilland Canada Twin Otter
+104	1	fb:cell.cc_138	CC-138	cc-138	cc-138	NN	O		138.0			CC-138
+104	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+104	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+104	4	fb:cell.1971_current	1971–current	1971|--|current	1971|--|current	CD|:|JJ	DATE|O|DATE	1971||PRESENT_REF	1971.0			
+104	5	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+105	0	fb:cell.douglas_boston	Douglas Boston	douglas|boston	Douglas|Boston	NNP|NNP	PERSON|PERSON	|				Douglas Boston
+105	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+105	2	fb:cell.us	US	us	we	PRP	O					US
+105	3	fb:cell.bomber	bomber	bomber	bomber	NN	O					bomber
+105	4	fb:cell.1941_1945	1941–1945	1941|--|1945	1941|--|1945	CD|:|CD	DATE|O|DATE	1941||1945	1941.0		1945.0	
+105	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+106	0	fb:cell.douglas_dakota	Douglas Dakota	douglas|dakota	Douglas|Dakota	NNP|NNP	PERSON|PERSON	|				Douglas Dakota
+106	1	fb:cell.cc_129	CC-129	cc-129	cc-129	NN	O		129.0			CC-129
+106	2	fb:cell.us	US	us	we	PRP	O					US
+106	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+106	4	fb:cell.1943_1990	1943–1990	1943|--|1990	1943|--|1990	CD|:|CD	DATE|O|DATE	1943||1990	1943.0		1990.0	
+106	5	fb:cell.169	169	169	169	CD	NUMBER	169.0	169.0			
+107	0	fb:cell.douglas_digby	Douglas Digby	douglas|digby	Douglas|Digby	NNP|NNP	PERSON|PERSON	|				Douglas Digby
+107	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+107	2	fb:cell.us	US	us	we	PRP	O					US
+107	3	fb:cell.bomber	bomber	bomber	bomber	NN	O					bomber
+107	4	fb:cell.1939_1946	1939–1946	1939|--|1946	1939|--|1946	CD|:|CD	DATE|O|DATE	1939||1946	1939.0		1946.0	
+107	5	fb:cell.20	20	20	20	CD	NUMBER	20.0	20.0			
+108	0	fb:cell.douglas_mo_2b	Douglas MO-2B	douglas|mo-2b	Douglas|MO-2B	NNP|NNP	PERSON|PERSON	|	2.0			Douglas MO-2B
+108	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+108	2	fb:cell.us	US	us	we	PRP	O					US
+108	3	fb:cell.utility_patrol	utility/patrol	utility/patrol	utility/patrol	NN	O					utility|patrol
+108	4	fb:cell.1927_1930	1927–1930	1927|--|1930	1927|--|1930	CD|:|CD	DATE|O|DATE	1927||1930	1927.0		1930.0	
+108	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+109	0	fb:cell.eads_eagle_1	EADS Eagle 1	eads|eagle|1	EADS|Eagle|1	NNP|NNP|CD	ORGANIZATION|ORGANIZATION|NUMBER	||1.0	1.0			EADS Eagle 1
+109	1	fb:cell.cu_160	CU-160	cu-160	cu-160	NN	O		160.0			CU-160
+109	2	fb:cell.netherlands	Netherlands	netherlands	Netherlands	NNP	LOCATION					Netherlands
+109	3	fb:cell.uav	UAV	uav	UAV	NNP	O					UAV
+109	4	fb:cell.2003_2003	2003–2003	2003|--|2003	2003|--|2003	CD|:|CD	DATE|O|DATE	2003||2003	2003.0		2003.0	
+109	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+110	0	fb:cell.elbit_skylark	ELBIT Skylark	elbit|skylark	ELBIT|Skylark	NNP|NNP	ORGANIZATION|ORGANIZATION	|				ELBIT Skylark
+110	1	fb:cell.cu_168	CU-168	cu-168	cu-168	NN	O		168.0			CU-168
+110	2	fb:cell.israel	Israel	israel	Israel	NNP	LOCATION					Israel
+110	3	fb:cell.uav	UAV	uav	UAV	NNP	O					UAV
+110	4	fb:cell.2006_current	2006–current	2006|--|current	2006|--|current	CD|:|JJ	DATE|O|DATE	2006||PRESENT_REF	2006.0			
+110	5	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+111	0	fb:cell.fairchild_51_51a	Fairchild 51 & 51A	fairchild|51|&|51a	Fairchild|51|&|51a	NNP|CD|CC|NN	O|NUMBER|O|O	|51.0||	51.0		51.0	Fairchild 51 & 51A
+111	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+111	2	fb:cell.us_canada	US/Canada	us/canada	US/Canada	NNP	O					US|Canada
+111	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+111	4	fb:cell.1930_1946	1930–1946	1930|--|1946	1930|--|1946	CD|:|CD	DATE|O|DATE	1930||1946	1930.0		1946.0	
+111	5	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+112	0	fb:cell.fairchild_71_71b_71c	Fairchild 71, 71B & 71C	fairchild|71|,|71b|&|71c	Fairchild|71|,|71B|&|71C	NNP|CD|,|NNP|CC|NNP	O|NUMBER|O|O|O|O	|71.0||||	7171.0		71.0	Fairchild 71|71B & 71C
+112	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+112	2	fb:cell.us_canada	US/Canada	us/canada	US/Canada	NNP	O					US|Canada
+112	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+112	4	fb:cell.1929_1942	1929–1942	1929|--|1942	1929|--|1942	CD|:|CD	DATE|O|DATE	1929||1942	1929.0		1942.0	
+112	5	fb:cell.23	23	23	23	CD	NUMBER	23.0	23.0			
+113	0	fb:cell.fairchild_argus	Fairchild Argus	fairchild|argus	Fairchild|Argus	NNP|NNP	O|O	|				Fairchild Argus
+113	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+113	2	fb:cell.us	US	us	we	PRP	O					US
+113	3	fb:cell.utility	utility	utility	utility	NN	O					utility
+113	4	fb:cell.1940_1945	1940–1945	1940|--|1945	1940|--|1945	CD|:|CD	DATE|O|DATE	1940||1945	1940.0		1945.0	
+113	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+114	0	fb:cell.fairchild_cornell	Fairchild Cornell	fairchild|cornell	fairchild|Cornell	NN|NNP	PERSON|PERSON	|				Fairchild Cornell
+114	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+114	2	fb:cell.us	US	us	we	PRP	O					US
+114	3	fb:cell.elementary_trainer	elementary trainer	elementary|trainer	elementary|trainer	JJ|NN	O|O	|				elementary trainer
+114	4	fb:cell.1942_1948	1942–1948	1942|--|1948	1942|--|1948	CD|:|CD	DATE|O|DATE	1942||1948	1942.0		1948.0	
+114	5	fb:cell.1555	1555	1555	1555	CD	DATE	1555	1555.0	1555-xx-xx		
+115	0	fb:cell.fairchild_fc_2_2l_2w	Fairchild FC-2, 2L & 2W	fairchild|fc-2|,|2l|&|2w	Fairchild|FC-2|,|2L|&|2W	NNP|NNP|,|NNP|CC|NNP	O|O|O|O|O|O	|||||	22.0		2.0	Fairchild FC-2|2L & 2W
+115	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+115	2	fb:cell.us_canada	US/Canada	us/canada	US/Canada	NNP	O					US|Canada
+115	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+115	4	fb:cell.1927_1938	1927–1938	1927|--|1938	1927|--|1938	CD|:|CD	DATE|O|DATE	1927||1938	1927.0		1938.0	
+115	5	fb:cell.27	27	27	27	CD	NUMBER	27.0	27.0			
+116	0	fb:cell.fairchild_kr_34	Fairchild KR-34	fairchild|kr-34	Fairchild|KR-34	NNP|NNP	O|O	|	34.0			Fairchild KR-34
+116	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+116	2	fb:cell.us	US	us	we	PRP	O					US
+116	3	fb:cell.utility	utility	utility	utility	NN	O					utility
+116	4	fb:cell.1930_1936	1930–1936	1930|--|1936	1930|--|1936	CD|:|CD	DATE|O|DATE	1930||1936	1930.0		1936.0	
+116	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+117	0	fb:cell.fairchild_super_71	Fairchild Super 71	fairchild|super|71	Fairchild|Super|71	NNP|NNP|CD	O|O|NUMBER	||71.0	71.0			Fairchild Super 71
+117	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+117	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+117	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+117	4	fb:cell.1936_1940	1936–1940	1936|--|1940	1936|--|1940	CD|:|CD	DATE|O|DATE	1936||1940	1936.0		1940.0	
+117	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+118	0	fb:cell.fairchild_flying_boxcar	Fairchild Flying Boxcar	fairchild|flying|boxcar	Fairchild|Flying|boxcar	NNP|NNP|NN	O|O|O	||				Fairchild Flying Boxcar
+118	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+118	2	fb:cell.us	US	us	we	PRP	O					US
+118	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+118	4	fb:cell.1952_1967	1952–1967	1952|--|1967	1952|--|1967	CD|:|CD	DATE|O|DATE	1952||1967	1952.0		1967.0	
+118	5	fb:cell.35	35	35	35	CD	NUMBER	35.0	35.0			
+119	0	fb:cell.fairey_iiic_iiif	Fairey IIIC & IIIF	fairey|iiic|&|iiif	Fairey|IIIC|&|IIIF	NNP|NNP|CC|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				Fairey IIIC & IIIF
+119	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+119	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+119	3	fb:cell.bomber	bomber	bomber	bomber	NN	O					bomber
+119	4	fb:cell.1920_1930	1920–1930	1920|--|1930	1920|--|1930	CD|:|CD	DATE|O|DATE	1920||1930	1920.0		1930.0	
+119	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+120	0	fb:cell.fairey_albacore	Fairey Albacore	fairey|albacore	Fairey|Albacore	NNP|NNP	ORGANIZATION|O	|				Fairey Albacore
+120	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+120	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+120	3	fb:cell.torpedo_bomber	torpedo bomber	torpedo|bomber	torpedo|bomber	VB|NN	O|O	|				torpedo bomber
+120	4	fb:cell.1943_1949	1943–1949	1943|--|1949	1943|--|1949	CD|:|CD	DATE|O|DATE	1943||1949	1943.0		1949.0	
+120	5	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+121	0	fb:cell.fairey_battle	Fairey Battle	fairey|battle	Fairey|Battle	NNP|NNP	ORGANIZATION|O	|				Fairey Battle
+121	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+121	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+121	3	fb:cell.bomber_trainer_target_tug	bomber/trainer/target tug	bomber/trainer/target|tug	bomber/trainer/target|tug	NN|NN	O|O	|				bomber|trainer|target tug
+121	4	fb:cell.1939_1946	1939–1946	1939|--|1946	1939|--|1946	CD|:|CD	DATE|O|DATE	1939||1946	1939.0		1946.0	
+121	5	fb:cell.740	740	740	740	CD	NUMBER	740.0	740.0			
+122	0	fb:cell.fairey_swordfish_mk_ii_iii	Fairey Swordfish Mk.II & III	fairey|swordfish|mk.ii|&|iii	Fairey|Swordfish|Mk.II|&|III	NNP|NNP|NNP|CC|NNP	ORGANIZATION|O|O|O|O	||||				Fairey Swordfish Mk.II & III
+122	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+122	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+122	3	fb:cell.torpedo_bomber	torpedo bomber	torpedo|bomber	torpedo|bomber	VB|NN	O|O	|				torpedo bomber
+122	4	fb:cell.1943_1947	1943–1947	1943|--|1947	1943|--|1947	CD|:|CD	DATE|O|DATE	1943||1947	1943.0		1947.0	
+122	5	fb:cell.105	105	105	105	CD	NUMBER	105.0	105.0			
+123	0	fb:cell.felixstowe_f_3	Felixstowe F.3	felixstowe|f.|3	Felixstowe|F.|3	NNP|NNP|CD	LOCATION|O|NUMBER	||3.0	0.3			Felixstowe F.3
+123	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+123	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+123	3	fb:cell.patrol_flying_boat	patrol flying boat	patrol|flying|boat	patrol|fly|boat	NN|VBG|NN	O|O|O	||				patrol flying boat
+123	4	fb:cell.1921_1923	1921–1923	1921|--|1923	1921|--|1923	CD|:|CD	DATE|O|DATE	1921||1923	1921.0		1923.0	
+123	5	fb:cell.11	11	11	11	CD	NUMBER	11.0	11.0			
+124	0	fb:cell.fleet_fawn	Fleet Fawn	fleet|fawn	fleet|Fawn	NN|NNP	O|O	|				Fleet Fawn
+124	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+124	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+124	3	fb:cell.elementary_trainer	elementary trainer	elementary|trainer	elementary|trainer	JJ|NN	O|O	|				elementary trainer
+124	4	fb:cell.1931_1947	1931–1947	1931|--|1947	1931|--|1947	CD|:|CD	DATE|O|DATE	1931||1947	1931.0		1947.0	
+124	5	fb:cell.51	51	51	51	CD	NUMBER	51.0	51.0			
+125	0	fb:cell.fleet_finch	Fleet Finch	fleet|finch	fleet|finch	NN|NN	PERSON|PERSON	|				Fleet Finch
+125	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+125	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+125	3	fb:cell.elementary_trainer	elementary trainer	elementary|trainer	elementary|trainer	JJ|NN	O|O	|				elementary trainer
+125	4	fb:cell.1939_1947	1939–1947	1939|--|1947	1939|--|1947	CD|:|CD	DATE|O|DATE	1939||1947	1939.0		1947.0	
+125	5	fb:cell.431	431	431	431	CD	NUMBER	431.0	431.0			
+126	0	fb:cell.fleet_fort	Fleet Fort	fleet|fort	fleet|Fort	NN|NNP	O|O	|				Fleet Fort
+126	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+126	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+126	3	fb:cell.intermediate_radio_trainer	intermediate/radio trainer	intermediate/radio|trainer	intermediate/radio|trainer	NNP|NN	O|O	|				intermediate|radio trainer
+126	4	fb:cell.1941_1945	1941–1945	1941|--|1945	1941|--|1945	CD|:|CD	DATE|O|DATE	1941||1945	1941.0		1945.0	
+126	5	fb:cell.101	101	101	101	CD	NUMBER	101.0	101.0			
+127	0	fb:cell.fleet_freighter	Fleet Freighter	fleet|freighter	fleet|freighter	NN|NN	O|O	|				Fleet Freighter
+127	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+127	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+127	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+127	4	fb:cell.1942_1944	1942–1944	1942|--|1944	1942|--|1944	CD|:|CD	DATE|O|DATE	1942||1944	1942.0		1944.0	
+127	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+128	0	fb:cell.fokker_super_universal	Fokker Super Universal	fokker|super|universal	Fokker|Super|Universal	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Fokker Super Universal
+128	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+128	2	fb:cell.us	US	us	we	PRP	O					US
+128	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+128	4	fb:cell.1929_1929	1929–1929	1929|--|1929	1929|--|1929	CD|:|CD	DATE|O|DATE	1929||1929	1929.0		1929.0	
+128	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+129	0	fb:cell.ford_6_at_trimotor	Ford 6-AT Trimotor	ford|6|at|trimotor	Ford|6|at|trimotor	NNP|CD|IN|NN	ORGANIZATION|NUMBER|O|O	|6.0||	6.0			Ford 6-AT Trimotor
+129	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+129	2	fb:cell.us	US	us	we	PRP	O					US
+129	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+129	4	fb:cell.1929_1937	1929–1937	1929|--|1937	1929|--|1937	CD|:|CD	DATE|O|DATE	1929||1937	1929.0		1937.0	
+129	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+130	0	fb:cell.general_aircraft_hotspur_mk_ii	General Aircraft Hotspur Mk.II	general|aircraft|hotspur|mk.ii	general|aircraft|hotspur|mk.ii	JJ|NN|NN|NN	O|O|O|O	|||				General Aircraft Hotspur Mk.II
+130	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+130	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+130	3	fb:cell.training_glider	training glider	training|glider	training|glider	NN|NN	O|O	|				training glider
+130	4	fb:cell.1942_1945	1942–1945	1942|--|1945	1942|--|1945	CD|:|CD	DATE|O|DATE	1942||1945	1942.0		1945.0	
+130	5	fb:cell.22	22	22	22	CD	NUMBER	22.0	22.0			
+131	0	fb:cell.general_atomics_altair	General Atomics Altair	general|atomics|altair	general|atomic|Altair	JJ|NNS|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				General Atomics Altair
+131	1	fb:cell.cu_163	CU-163	cu-163	cu-163	NN	O		163.0			CU-163
+131	2	fb:cell.us	US	us	we	PRP	O					US
+131	3	fb:cell.uav	UAV	uav	UAV	NNP	O					UAV
+131	4	fb:cell.2004_2004	2004–2004	2004|--|2004	2004|--|2004	CD|:|CD	DATE|O|DATE	2004||2004	2004.0		2004.0	
+131	5	fb:cell.1_2	1?	1|?	1|?	CD|.	NUMBER|O	1.0|	1.0			
+132	0	fb:cell.gloster_meteor	Gloster Meteor	gloster|meteor	Gloster|Meteor	NNP|NNP	O|O	|				Gloster Meteor
+132	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+132	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+132	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+132	4	fb:cell.1945_1955	1945–1955	1945|--|1955	1945|--|1955	CD|:|CD	DATE|O|DATE	1945||1955	1945.0		1955.0	
+132	5	fb:cell.4_2	4	4	4	CD	NUMBER	4.0	4.0			
+133	0	fb:cell.grumman_albatross	Grumman Albatross	grumman|albatross	Grumman|Albatross	NNP|NNP	ORGANIZATION|O	|				Grumman Albatross
+133	1	fb:cell.csr_110	CSR-110	csr-110	csr-110	NN	O		110.0			CSR-110
+133	2	fb:cell.us	US	us	we	PRP	O					US
+133	3	fb:cell.search_and_rescue_amphibian	Search and Rescue amphibian	search|and|rescue|amphibian	search|and|rescue|amphibian	NN|CC|NN|NN	O|O|O|O	|||				Search and Rescue amphibian
+133	4	fb:cell.1960_1971	1960–1971	1960|--|1971	1960|--|1971	CD|:|CD	DATE|O|DATE	1960||1971	1960.0		1971.0	
+133	5	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			
+134	0	fb:cell.grumman_goblin	Grumman Goblin	grumman|goblin	Grumman|Goblin	NNP|NNP	PERSON|PERSON	|				Grumman Goblin
+134	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+134	2	fb:cell.us_canada	US/Canada	us/canada	US/Canada	NNP	O					US|Canada
+134	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+134	4	fb:cell.1940_1942	1940–1942	1940|--|1942	1940|--|1942	CD|:|CD	DATE|O|DATE	1940||1942	1940.0		1942.0	
+134	5	fb:cell.15	15	15	15	CD	NUMBER	15.0	15.0			
+135	0	fb:cell.grumman_goose	Grumman Goose	grumman|goose	Grumman|goose	NNP|NN	ORGANIZATION|O	|				Grumman Goose
+135	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+135	2	fb:cell.us	US	us	we	PRP	O					US
+135	3	fb:cell.utility_amphibian	utility amphibian	utility|amphibian	utility|amphibian	NN|NNP	O|O	|				utility amphibian
+135	4	fb:cell.1938_1956	1938–1956	1938|--|1956	1938|--|1956	CD|:|CD	DATE|O|DATE	1938||1956	1938.0		1956.0	
+135	5	fb:cell.31	31	31	31	CD	NUMBER	31.0	31.0			
+136	0	fb:cell.grumman_tracker	Grumman Tracker	grumman|tracker	Grumman|Tracker	NNP|NNP	ORGANIZATION|O	|				Grumman Tracker
+136	1	fb:cell.cp_121	CP-121	cp-121	cp-121	NN	O		121.0			CP-121
+136	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+136	3	fb:cell.carrier_borne_asw	carrier-borne ASW	carrier|borne|asw	carrier|bear|ASW	NN|VBD|NNP	O|O|O	||				carrier-borne ASW
+136	4	fb:cell.1968_1994	1968–1994	1968|--|1994	1968|--|1994	CD|:|CD	DATE|O|DATE	1968||1994	1968.0		1994.0	
+136	5	fb:cell.72	72	72	72	CD	NUMBER	72.0	72.0			
+137	0	fb:cell.handley_page_hampden	Handley Page Hampden	handley|page|hampden	Handley|Page|Hampden	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Handley Page Hampden
+137	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+137	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+137	3	fb:cell.bomber	bomber	bomber	bomber	NN	O					bomber
+137	4	fb:cell.1941_1944	1941–1944	1941|--|1944	1941|--|1944	CD|:|CD	DATE|O|DATE	1941||1944	1941.0		1944.0	
+137	5	fb:cell.96	96	96	96	CD	NUMBER	96.0	96.0			
+138	0	fb:cell.handley_page_harrow	Handley Page Harrow	handley|page|harrow	Handley|Page|Harrow	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Handley Page Harrow
+138	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+138	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+138	3	fb:cell.bomber_transport	bomber/transport	bomber/transport	bomber/transport	NN	O					bomber|transport
+138	4	fb:cell.1940_1941	1940–1941	1940|--|1941	1940|--|1941	CD|:|CD	DATE|O|DATE	1940||1941	1940.0		1941.0	
+138	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+139	0	fb:cell.handley_page_halifax	Handley Page Halifax	handley|page|halifax	Handley|Page|Halifax	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Handley Page Halifax
+139	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+139	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+139	3	fb:cell.heavy_bomber	heavy bomber	heavy|bomber	heavy|bomber	JJ|NN	O|O	|				heavy bomber
+139	4	fb:cell.1944_1947	1944–1947	1944|--|1947	1944|--|1947	CD|:|CD	DATE|O|DATE	1944||1947	1944.0		1947.0	
+139	5	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+140	0	fb:cell.hawker_audax	Hawker Audax	hawker|audax	Hawker|Audax	NNP|NNP	PERSON|PERSON	|				Hawker Audax
+140	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+140	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+140	3	fb:cell.army_cooperation	army cooperation	army|cooperation	army|cooperation	NNP|NNP	ORGANIZATION|O	|				army cooperation
+140	4	fb:cell.1933_1943	1933–1943	1933|--|1943	1933|--|1943	CD|:|CD	DATE|O|DATE	1933||1943	1933.0		1943.0	
+140	5	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+141	0	fb:cell.hawker_hart	Hawker Hart	hawker|hart	Hawker|Hart	NNP|NNP	PERSON|PERSON	|				Hawker Hart
+141	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+141	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+141	3	fb:cell.bomber	bomber	bomber	bomber	NN	O					bomber
+141	4	fb:cell.1937_1943	1937–1943	1937|--|1943	1937|--|1943	CD|:|CD	DATE|O|DATE	1937||1943	1937.0		1943.0	
+141	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+142	0	fb:cell.hawker_hind	Hawker Hind	hawker|hind	Hawker|Hind	NNP|NNP	PERSON|PERSON	|				Hawker Hind
+142	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+142	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+142	3	fb:cell.instructional_airframe	instructional airframe	instructional|airframe	instructional|airframe	JJ|NN	O|O	|				instructional airframe
+142	4	fb:cell.1942_1943	1942–1943	1942|--|1943	1942|--|1943	CD|:|CD	DATE|O|DATE	1942||1943	1942.0		1943.0	
+142	5	fb:cell.4_2	4	4	4	CD	NUMBER	4.0	4.0			
+143	0	fb:cell.hawker_hurricane	Hawker Hurricane	hawker|hurricane	Hawker|Hurricane	NNP|NNP	PERSON|PERSON	|				Hawker Hurricane
+143	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+143	2	fb:cell.uk_canada	UK/Canada	uk/canada	UK/Canada	NNP	O					UK|Canada
+143	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+143	4	fb:cell.1939_1948	1939–1948	1939|--|1948	1939|--|1948	CD|:|CD	DATE|O|DATE	1939||1948	1939.0		1948.0	
+143	5	fb:cell.502	502	502	502	CD	NUMBER	502.0	502.0			
+144	0	fb:cell.hawker_sea_hurricane	Hawker Sea Hurricane	hawker|sea|hurricane	Hawker|Sea|Hurricane	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Hawker Sea Hurricane
+144	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+144	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+144	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+144	4	fb:cell.1942_1943	1942–1943	1942|--|1943	1942|--|1943	CD|:|CD	DATE|O|DATE	1942||1943	1942.0		1943.0	
+144	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+145	0	fb:cell.hawker_tempest_mk_vi	Hawker Tempest Mk.VI	hawker|tempest|mk.vi	hawker|tempest|mk.vi	NN|NN|NN	O|O|O	||				Hawker Tempest Mk.VI
+145	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+145	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+145	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+145	4	fb:cell.1946_1947	1946–1947	1946|--|1947	1946|--|1947	CD|:|CD	DATE|O|DATE	1946||1947	1946.0		1947.0	
+145	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+146	0	fb:cell.hawker_tomtit	Hawker Tomtit	hawker|tomtit	hawker|tomtit	NN|NN	PERSON|PERSON	|				Hawker Tomtit
+146	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+146	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+146	3	fb:cell.trainer	trainer	trainer	trainer	NN	O					trainer
+146	4	fb:cell.1930_1943	1930–1943	1930|--|1943	1930|--|1943	CD|:|CD	DATE|O|DATE	1930||1943	1930.0		1943.0	
+146	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+147	0	fb:cell.hiller_nomad	Hiller Nomad	hiller|nomad	Hiller|Nomad	NNP|NNP	PERSON|PERSON	|				Hiller Nomad
+147	1	fb:cell.ch_112	CH-112	ch-112	ch-112	NN	O		112.0			CH-112
+147	2	fb:cell.us	US	us	we	PRP	O					US
+147	3	fb:cell.utility_helicopter	utility helicopter	utility|helicopter	utility|helicopter	NN|NN	O|O	|				utility helicopter
+147	4	fb:cell.1961_1973	1961–1973	1961|--|1973	1961|--|1973	CD|:|CD	DATE|O|DATE	1961||1973	1961.0		1973.0	
+147	5	fb:cell.27	27	27	27	CD	NUMBER	27.0	27.0			
+148	0	fb:cell.iai_heron	IAI Heron	iai|heron	IAI|Heron	NNP|NNP	PERSON|PERSON	|				IAI Heron
+148	1	fb:cell.cu_170	CU-170	cu-170	cu-170	NN	O		170.0			CU-170
+148	2	fb:cell.israel	Israel	israel	Israel	NNP	LOCATION					Israel
+148	3	fb:cell.uav	UAV	uav	UAV	NNP	O					UAV
+148	4	fb:cell.2008_current	2008–current	2008|--|current	2008|--|current	CD|:|JJ	DATE|O|DATE	2008||PRESENT_REF	2008.0			
+148	5	fb:cell.2_2	2+	2|+	2|+	CD|CC	NUMBER|O	2.0|	2.0			
+149	0	fb:cell.keystone_puffer	Keystone Puffer	keystone|puffer	keystone|puffer	NN|NN	PERSON|PERSON	|				Keystone Puffer
+149	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+149	2	fb:cell.us	US	us	we	PRP	O					US
+149	3	fb:cell.crop_duster_utility	crop duster/utility	crop|duster/utility	crop|duster/utility	NN|NN	O|O	|				crop duster|utility
+149	4	fb:cell.1927_1934	1927–1934	1927|--|1934	1927|--|1934	CD|:|CD	DATE|O|DATE	1927||1934	1927.0		1934.0	
+149	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+150	0	fb:cell.lockheed_arcturus	Lockheed Arcturus	lockheed|arcturus	Lockheed|Arcturus	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Lockheed Arcturus
+150	1	fb:cell.cp_140a	CP-140A	cp-140a	cp-140a	NN	O		140.0			CP-140A
+150	2	fb:cell.us	US	us	we	PRP	O					US
+150	3	fb:cell.training_reconnaissance	training/reconnaissance	training/reconnaissance	training/reconnaissance	NN	O					training|reconnaissance
+150	4	fb:cell.1992_current	1992–current	1992|--|current	1992|--|current	CD|:|JJ	DATE|O|DATE	1992||PRESENT_REF	1992.0			
+150	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+151	0	fb:cell.lockheed_aurora	Lockheed Aurora	lockheed|aurora	Lockheed|Aurora	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Lockheed Aurora
+151	1	fb:cell.cp_140	CP-140	cp-140	cp-140	NN	O		140.0			CP-140
+151	2	fb:cell.us	US	us	we	PRP	O					US
+151	3	fb:cell.maritime_patrol	maritime patrol	maritime|patrol	maritime|patrol	NNP|NNP	O|O	|				maritime patrol
+151	4	fb:cell.1980_current	1980–current	1980|--|current	1980|--|current	CD|:|JJ	DATE|O|DATE	1980||PRESENT_REF	1980.0			
+151	5	fb:cell.18	18	18	18	CD	NUMBER	18.0	18.0			
+152	0	fb:cell.lockheed_electra	Lockheed Electra	lockheed|electra	Lockheed|Electra	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Lockheed Electra
+152	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+152	2	fb:cell.us	US	us	we	PRP	O					US
+152	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+152	4	fb:cell.1939_1946	1939–1946	1939|--|1946	1939|--|1946	CD|:|CD	DATE|O|DATE	1939||1946	1939.0		1946.0	
+152	5	fb:cell.15	15	15	15	CD	NUMBER	15.0	15.0			
+153	0	fb:cell.lockheed_electra_junior	Lockheed Electra Junior	lockheed|electra|junior	Lockheed|Electra|Junior	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Lockheed Electra Junior
+153	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+153	2	fb:cell.us	US	us	we	PRP	O					US
+153	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+153	4	fb:cell.1940_1945	1940–1945	1940|--|1945	1940|--|1945	CD|:|CD	DATE|O|DATE	1940||1945	1940.0		1945.0	
+153	5	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			
+154	0	fb:cell.lockheed_hercules	Lockheed Hercules	lockheed|hercules	Lockheed|Hercules	NNP|NNP	PERSON|PERSON	|				Lockheed Hercules
+154	1	fb:cell.cc_130	CC-130	cc-130	cc-130	NN	O		130.0			CC-130
+154	2	fb:cell.us	US	us	we	PRP	O					US
+154	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+154	4	fb:cell.1960_current	1960–current	1960|--|current	1960|--|current	CD|:|JJ	DATE|O|DATE	1960||PRESENT_REF	1960.0			
+154	5	fb:cell.61	61	61	61	CD	NUMBER	61.0	61.0			
+155	0	fb:cell.lockheed_hudson	Lockheed Hudson	lockheed|hudson	Lockheed|Hudson	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Lockheed Hudson
+155	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+155	2	fb:cell.us	US	us	we	PRP	O					US
+155	3	fb:cell.bomber	bomber	bomber	bomber	NN	O					bomber
+155	4	fb:cell.1939_1948	1939–1948	1939|--|1948	1939|--|1948	CD|:|CD	DATE|O|DATE	1939||1948	1939.0		1948.0	
+155	5	fb:cell.247	247	247	247	CD	NUMBER	247.0	247.0			
+156	0	fb:cell.lockheed_lodestar	Lockheed Lodestar	lockheed|lodestar	Lockheed|Lodestar	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Lockheed Lodestar
+156	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+156	2	fb:cell.us	US	us	we	PRP	O					US
+156	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+156	4	fb:cell.1943_1948	1943–1948	1943|--|1948	1943|--|1948	CD|:|CD	DATE|O|DATE	1943||1948	1943.0		1948.0	
+156	5	fb:cell.18	18	18	18	CD	NUMBER	18.0	18.0			
+157	0	fb:cell.lockheed_model_212	Lockheed Model 212	lockheed|model|212	Lockheed|Model|212	NNP|NNP|CD	ORGANIZATION|O|NUMBER	||212.0	212.0			Lockheed Model 212
+157	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+157	2	fb:cell.us	US	us	we	PRP	O					US
+157	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+157	4	fb:cell.1940_1946	1940–1946	1940|--|1946	1940|--|1946	CD|:|CD	DATE|O|DATE	1940||1946	1940.0		1946.0	
+157	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+158	0	fb:cell.lockheed_neptune	Lockheed Neptune	lockheed|neptune	Lockheed|Neptune	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Lockheed Neptune
+158	1	fb:cell.cp_122	CP-122	cp-122	cp-122	NN	O		122.0			CP-122
+158	2	fb:cell.us	US	us	we	PRP	O					US
+158	3	fb:cell.maritime_patrol	maritime patrol	maritime|patrol	maritime|patrol	NNP|NNP	O|O	|				maritime patrol
+158	4	fb:cell.1955_1970	1955–1970	1955|--|1970	1955|--|1970	CD|:|CD	DATE|O|DATE	1955||1970	1955.0		1970.0	
+158	5	fb:cell.25	25	25	25	CD	NUMBER	25.0	25.0			
+159	0	fb:cell.lockheed_shooting_star_silver_star	Lockheed Shooting Star/Silver Star	lockheed|shooting|star/silver|star	Lockheed|shooting|star/silver|star	NNP|NN|NN|NN	ORGANIZATION|O|O|O	|||				Lockheed Shooting Star|Silver Star
+159	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+159	2	fb:cell.us	US	us	we	PRP	O					US
+159	3	fb:cell.trainer	trainer	trainer	trainer	NN	O					trainer
+159	4	fb:cell.1951_1955	1951–1955	1951|--|1955	1951|--|1955	CD|:|CD	DATE|O|DATE	1951||1955	1951.0		1955.0	
+159	5	fb:cell.31	31	31	31	CD	NUMBER	31.0	31.0			
+160	0	fb:cell.lockheed_starfighter	Lockheed Starfighter	lockheed|starfighter	Lockheed|Starfighter	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Lockheed Starfighter
+160	1	fb:cell.cf_104	CF-104	cf-104	cf-104	NN	O		104.0			CF-104
+160	2	fb:cell.us	US	us	we	PRP	O					US
+160	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+160	4	fb:cell.1962_1986	1962–1986	1962|--|1986	1962|--|1986	CD|:|CD	DATE|O|DATE	1962||1986	1962.0		1986.0	
+160	5	fb:cell.39	39	39	39	CD	NUMBER	39.0	39.0			
+161	0	fb:cell.lockheed_starlifter	Lockheed Starlifter	lockheed|starlifter	Lockheed|Starlifter	NNP|NNP	ORGANIZATION|O	|				Lockheed Starlifter
+161	1	fb:cell.cc_141	CC-141	cc-141	cc-141	NN	O		141.0			CC-141
+161	2	fb:cell.us	US	us	we	PRP	O					US
+161	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+161	4	fb:cell.cancelled	cancelled	cancelled	cancel	VBN	O					
+161	5	fb:cell.0	0	0	0	CD	NUMBER	0.0	0.0			
+162	0	fb:cell.lockheed_ventura	Lockheed Ventura	lockheed|ventura	Lockheed|Ventura	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Lockheed Ventura
+162	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+162	2	fb:cell.us	US	us	we	PRP	O					US
+162	3	fb:cell.maritime_patrol_target_tug	maritime patrol/target tug	maritime|patrol/target|tug	maritime|patrol/target|tug	NN|NN|NN	O|O|O	||				maritime patrol|target tug
+162	4	fb:cell.1942_1947	1942–1947	1942|--|1947	1942|--|1947	CD|:|CD	DATE|O|DATE	1942||1947	1942.0		1947.0	
+162	5	fb:cell.286	286	286	286	CD	NUMBER	286.0	286.0			
+163	0	fb:cell.martin_baltimore	Martin Baltimore	martin|baltimore	Martin|Baltimore	NNP|NNP	PERSON|PERSON	|				Martin Baltimore
+163	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+163	2	fb:cell.us	US	us	we	PRP	O					US
+163	3	fb:cell.bomber	bomber	bomber	bomber	NN	O					bomber
+163	4	fb:cell.1942_1942	1942–1942	1942|--|1942	1942|--|1942	CD|:|CD	DATE|O|DATE	1942||1942	1942.0		1942.0	
+163	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+164	0	fb:cell.martinsyde_f6	Martinsyde F6	martinsyde|f6	Martinsyde|F6	NNP|NNP	O|O	|	6.0			Martinsyde F6
+164	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+164	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+164	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+164	4	fb:cell.1922_1925	1922–1925	1922|--|1925	1922|--|1925	CD|:|CD	DATE|O|DATE	1922||1925	1922.0		1925.0	
+164	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+165	0	fb:cell.mbb_kawasaki_bk_117	MBB/Kawasaki BK 117	mbb/kawasaki|bk|117	MBB/Kawasaki|BK|117	NNP|NNP|CD	O|O|NUMBER	||117.0	117.0			MBB|Kawasaki BK 117
+165	1	fb:cell.ch_143	CH-143	ch-143	ch-143	NN	O		143.0			CH-143
+165	2	fb:cell.germany_japan	Germany/Japan	germany/japan	germany/japan	NN	O					Germany|Japan
+165	3	fb:cell.utility_helicopter	utility helicopter	utility|helicopter	utility|helicopter	NN|NN	O|O	|				utility helicopter
+165	4	fb:cell.1989_1990	1989–1990	1989|--|1990	1989|--|1990	CD|:|CD	DATE|O|DATE	1989||1990	1989.0		1990.0	
+165	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+166	0	fb:cell.mcdonnell_douglas_cf_18_hornet	McDonnell Douglas CF-18 Hornet	mcdonnell|douglas|cf-18|hornet	McDonnell|Douglas|CF-18|Hornet	NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|O|O	|||	18.0			McDonnell Douglas CF-18 Hornet
+166	1	fb:cell.cf_188	CF-188	cf-188	cf-188	NN	O		188.0			CF-188
+166	2	fb:cell.us	US	us	we	PRP	O					US
+166	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+166	4	fb:cell.1982_current	1982–current	1982|--|current	1982|--|current	CD|:|JJ	DATE|O|DATE	1982||PRESENT_REF	1982.0			
+166	5	fb:cell.138	138	138	138	CD	NUMBER	138.0	138.0			
+167	0	fb:cell.mcdonnell_voodoo	McDonnell Voodoo	mcdonnell|voodoo	McDonnell|Voodoo	NNP|NNP	ORGANIZATION|ORGANIZATION	|				McDonnell Voodoo
+167	1	fb:cell.cf_101	CF-101	cf-101	cf-101	NN	O		101.0			CF-101
+167	2	fb:cell.us	US	us	we	PRP	O					US
+167	3	fb:cell.interceptor	interceptor	interceptor	interceptor	NNP	O					interceptor
+167	4	fb:cell.1963_1990	1963–1990	1963|--|1990	1963|--|1990	CD|:|CD	DATE|O|DATE	1963||1990	1963.0		1990.0	
+167	5	fb:cell.66	66	66	66	CD	NUMBER	66.0	66.0			
+168	0	fb:cell.meggitt_vindicator_ii	Meggitt Vindicator II	meggitt|vindicator|ii	Meggitt|Vindicator|II	NNP|NNP|NNP	ORGANIZATION|O|O	||				Meggitt Vindicator II
+168	1	fb:cell.cu_162	CU-162	cu-162	cu-162	NN	O		162.0			CU-162
+168	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+168	3	fb:cell.uav	UAV	uav	UAV	NNP	O					UAV
+168	4	fb:cell.null	?–?	?|--|?	?|--|?	.|:|.	O|O|O	||				
+168	5	fb:cell.null_2	?	?	?	.	O					
+169	0	fb:cell.mil_mi_17	Mil Mi-17	mil|mi-17	Mil|Mi-17	NNP|NNP	O|O	|	17.0			Mil Mi-17
+169	1	fb:cell.ch_178	CH-178	ch-178	ch-178	NN	O		178.0			CH-178
+169	2	fb:cell.russia	Russia	russia	Russia	NNP	LOCATION					Russia
+169	3	fb:cell.transport_helicopter	transport helicopter	transport|helicopter	transport|helicopter	NN|NN	O|O	|				transport helicopter
+169	4	fb:cell.2010_current	2010–current	2010|--|current	2010|--|current	CD|:|JJ	DATE|O|DATE	2010||PRESENT_REF	2010.0			
+169	5	fb:cell.4_2	4	4	4	CD	NUMBER	4.0	4.0			
+170	0	fb:cell.noorduyn_norseman	Noorduyn Norseman	noorduyn|norseman	Noorduyn|Norseman	NNP|NNP	O|O	|				Noorduyn Norseman
+170	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+170	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+170	3	fb:cell.utility_transport_2	utility transport	utility|transport	utility|transport	NN|NN	O|O	|				utility transport
+170	4	fb:cell.1940_1957	1940–1957	1940|--|1957	1940|--|1957	CD|:|CD	DATE|O|DATE	1940||1957	1940.0		1957.0	
+170	5	fb:cell.100	100	100	100	CD	NUMBER	100.0	100.0			
+171	0	fb:cell.north_american_at_6d_texan	North American AT-6D Texan	north|american|at-6d|texan	North|American|AT-6D|Texan	NNP|NNP|NNP|NNP	MISC|MISC|MISC|MISC	|||	6.0			North American AT-6D Texan
+171	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+171	2	fb:cell.us	US	us	we	PRP	O					US
+171	3	fb:cell.advanced_trainer	advanced trainer	advanced|trainer	advanced|trainer	JJ|NN	O|O	|				advanced trainer
+171	4	fb:cell.1951_1954	1951–1954	1951|--|1954	1951|--|1954	CD|:|CD	DATE|O|DATE	1951||1954	1951.0		1954.0	
+171	5	fb:cell.100	100	100	100	CD	NUMBER	100.0	100.0			
+172	0	fb:cell.north_american_harvard	North American Harvard	north|american|harvard	North|American|Harvard	NNP|NNP|NNP	O|O|ORGANIZATION	||				North American Harvard
+172	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+172	2	fb:cell.us_canada	US/Canada	us/canada	US/Canada	NNP	O					US|Canada
+172	3	fb:cell.advanced_trainer	advanced trainer	advanced|trainer	advanced|trainer	JJ|NN	O|O	|				advanced trainer
+172	4	fb:cell.1939_1968	1939–1968	1939|--|1968	1939|--|1968	CD|:|CD	DATE|O|DATE	1939||1968	1939.0		1968.0	
+172	5	fb:cell.2156	2156	2156	2156	CD	DATE	2156	2156.0	2156-xx-xx		
+173	0	fb:cell.north_american_mitchell	North American Mitchell	north|american|mitchell	North|American|Mitchell	NNP|NNP|NNP	MISC|MISC|PERSON	||				North American Mitchell
+173	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+173	2	fb:cell.us	US	us	we	PRP	O					US
+173	3	fb:cell.bomber	bomber	bomber	bomber	NN	O					bomber
+173	4	fb:cell.1942_1963	1942–1963	1942|--|1963	1942|--|1963	CD|:|CD	DATE|O|DATE	1942||1963	1942.0		1963.0	
+173	5	fb:cell.164	164	164	164	CD	NUMBER	164.0	164.0			
+174	0	fb:cell.north_american_mustang_mk_iv	North American Mustang Mk.IV	north|american|mustang|mk.iv	North|American|Mustang|Mk.IV	NNP|NNP|NNP|NNP	MISC|MISC|O|O	|||				North American Mustang Mk.IV
+174	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+174	2	fb:cell.us	US	us	we	PRP	O					US
+174	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+174	4	fb:cell.1947_1961	1947–1961	1947|--|1961	1947|--|1961	CD|:|CD	DATE|O|DATE	1947||1961	1947.0		1961.0	
+174	5	fb:cell.130	130	130	130	CD	NUMBER	130.0	130.0			
+175	0	fb:cell.north_american_na_26	North American NA-26	north|american|na-26	North|American|NA-26	NNP|NNP|NNP	MISC|MISC|MISC	||	26.0			North American NA-26
+175	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+175	2	fb:cell.us	US	us	we	PRP	O					US
+175	3	fb:cell.trainer	trainer	trainer	trainer	NN	O					trainer
+175	4	fb:cell.1940_1942	1940–1942	1940|--|1942	1940|--|1942	CD|:|CD	DATE|O|DATE	1940||1942	1940.0		1942.0	
+175	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+176	0	fb:cell.north_american_na_44	North American NA-44	north|american|na-44	North|American|NA-44	NNP|NNP|NNP	MISC|MISC|MISC	||	44.0			North American NA-44
+176	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+176	2	fb:cell.us	US	us	we	PRP	O					US
+176	3	fb:cell.fighter_utility	fighter/utility	fighter/utility	fighter/utility	NN	O					fighter|utility
+176	4	fb:cell.1940_1944	1940–1944	1940|--|1944	1940|--|1944	CD|:|CD	DATE|O|DATE	1940||1944	1940.0		1944.0	
+176	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+177	0	fb:cell.north_american_sabre	North American Sabre	north|american|sabre	North|American|Sabre	NNP|NNP|NNP	O|O|O	||				North American Sabre
+177	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+177	2	fb:cell.us	US	us	we	PRP	O					US
+177	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+177	4	fb:cell.1951_1953	1951–1953	1951|--|1953	1951|--|1953	CD|:|CD	DATE|O|DATE	1951||1953	1951.0		1953.0	
+177	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+178	0	fb:cell.north_american_yale	North American Yale	north|american|yale	North|American|Yale	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				North American Yale
+178	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+178	2	fb:cell.us	US	us	we	PRP	O					US
+178	3	fb:cell.intermediate_radio_trainer	intermediate/radio trainer	intermediate/radio|trainer	intermediate/radio|trainer	NNP|NN	O|O	|				intermediate|radio trainer
+178	4	fb:cell.1940_1946	1940–1946	1940|--|1946	1940|--|1946	CD|:|CD	DATE|O|DATE	1940||1946	1940.0		1946.0	
+178	5	fb:cell.119	119	119	119	CD	NUMBER	119.0	119.0			
+179	0	fb:cell.northrop_delta	Northrop Delta	northrop|delta	Northrop|Delta	NNP|NNP	ORGANIZATION|O	|				Northrop Delta
+179	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+179	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+179	3	fb:cell.transport_patrol	transport/patrol	transport/patrol	transport/patrol	NN	O					transport|patrol
+179	4	fb:cell.1936_1945	1936–1945	1936|--|1945	1936|--|1945	CD|:|CD	DATE|O|DATE	1936||1945	1936.0		1945.0	
+179	5	fb:cell.20	20	20	20	CD	NUMBER	20.0	20.0			
+180	0	fb:cell.northrop_nomad	Northrop Nomad	northrop|nomad	Northrop|Nomad	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Northrop Nomad
+180	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+180	2	fb:cell.us	US	us	we	PRP	O					US
+180	3	fb:cell.light_bomber	light bomber	light|bomber	light|bomber	JJ|NN	O|O	|				light bomber
+180	4	fb:cell.1940_1945	1940–1945	1940|--|1945	1940|--|1945	CD|:|CD	DATE|O|DATE	1940||1945	1940.0		1945.0	
+180	5	fb:cell.32	32	32	32	CD	NUMBER	32.0	32.0			
+181	0	fb:cell.percival_prentice	Percival Prentice	percival|prentice	Percival|Prentice	NNP|NNP	PERSON|PERSON	|				Percival Prentice
+181	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+181	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+181	3	fb:cell.trainer	trainer	trainer	trainer	NN	O					trainer
+181	4	fb:cell.1948_1948	1948–1948	1948|--|1948	1948|--|1948	CD|:|CD	DATE|O|DATE	1948||1948	1948.0		1948.0	
+181	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+182	0	fb:cell.piasecki_h_21a	Piasecki H-21A	piasecki|h-21a	Piasecki|H-21A	NNP|NNP	PERSON|PERSON	|	21.0			Piasecki H-21A
+182	1	fb:cell.ch_125	CH-125	ch-125	ch-125	NN	O		125.0			CH-125
+182	2	fb:cell.us	US	us	we	PRP	O					US
+182	3	fb:cell.utility_rescue_helicopter	utility/rescue helicopter	utility/rescue|helicopter	utility/rescue|helicopter	NNP|NN	O|O	|				utility|rescue helicopter
+182	4	fb:cell.1954_1973	1954–1973	1954|--|1973	1954|--|1973	CD|:|CD	DATE|O|DATE	1954||1973	1954.0		1973.0	
+182	5	fb:cell.18	18	18	18	CD	NUMBER	18.0	18.0			
+183	0	fb:cell.piasecki_model_44a	Piasecki Model 44A	piasecki|model|44a	Piasecki|Model|44A	NNP|NNP|NNP	PERSON|O|O	||	44.0			Piasecki Model 44A
+183	1	fb:cell.ch_127	CH-127	ch-127	ch-127	NN	O		127.0			CH-127
+183	2	fb:cell.us	US	us	we	PRP	O					US
+183	3	fb:cell.utility_rescue_helicopter	utility/rescue helicopter	utility/rescue|helicopter	utility/rescue|helicopter	NNP|NN	O|O	|				utility|rescue helicopter
+183	4	fb:cell.1960_1972	1960–1972	1960|--|1972	1960|--|1972	CD|:|CD	DATE|O|DATE	1960||1972	1960.0		1972.0	
+183	5	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+184	0	fb:cell.pitcairn_mailwing	Pitcairn Mailwing	pitcairn|mailwing	Pitcairn|Mailwing	NNP|NNP	PERSON|PERSON	|				Pitcairn Mailwing
+184	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+184	2	fb:cell.us	US	us	we	PRP	O					US
+184	3	fb:cell.utility	utility	utility	utility	NN	O					utility
+184	4	fb:cell.1928_1932	1928–1932	1928|--|1932	1928|--|1932	CD|:|CD	DATE|O|DATE	1928||1932	1928.0		1932.0	
+184	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+185	0	fb:cell.royal_aircraft_factory_s_e_5a	Royal Aircraft Factory S.E.5a	royal|aircraft|factory|s.e.|5a	Royal|Aircraft|Factory|S.E.|5a	NNP|NNP|NNP|NNP|NN	O|O|O|O|O	||||				Royal Aircraft Factory S.E.5a
+185	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+185	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+185	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+185	4	fb:cell.1920_1929	1920–1929	1920|--|1929	1920|--|1929	CD|:|CD	DATE|O|DATE	1920||1929	1920.0		1929.0	
+185	5	fb:cell.12	12	12	12	CD	NUMBER	12.0	12.0			
+186	0	fb:cell.sagem_sperwer	SAGEM Sperwer	sagem|sperwer	SAGEM|Sperwer	NNP|NNP	ORGANIZATION|O	|				SAGEM Sperwer
+186	1	fb:cell.cu_161	CU-161	cu-161	cu-161	NN	O		161.0			CU-161
+186	2	fb:cell.france	France	france	France	NNP	LOCATION					France
+186	3	fb:cell.uav	UAV	uav	UAV	NNP	O					UAV
+186	4	fb:cell.2003_current	2003–current	2003|--|current	2003|--|current	CD|:|JJ	DATE|O|DATE	2003||PRESENT_REF	2003.0			
+186	5	fb:cell.31	31	31	31	CD	NUMBER	31.0	31.0			
+187	0	fb:cell.schweizer_2_12	Schweizer 2-12	schweizer|2-12	Schweizer|2-12	NNP|CD	PERSON|NUMBER	|2.0 - 12.0	2.0		12.0	Schweizer 2-12
+187	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+187	2	fb:cell.us	US	us	we	PRP	O					US
+187	3	fb:cell.training_glider	training glider	training|glider	training|glider	NN|NN	O|O	|				training glider
+187	4	fb:cell.1946_1949	1946–1949	1946|--|1949	1946|--|1949	CD|:|CD	DATE|O|DATE	1946||1949	1946.0		1949.0	
+187	5	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+188	0	fb:cell.sikorsky_cyclone_s_92	Sikorsky Cyclone (S-92)	sikorsky|cyclone|-lrb-|s-92|-rrb-	Sikorsky|cyclone|-lrb-|s-92|-rrb-	NNP|NN|-LRB-|NN|-RRB-	PERSON|PERSON|O|O|O	||||	92.0			Sikorsky Cyclone (S-92)
+188	1	fb:cell.ch_148	CH-148	ch-148	ch-148	NN	O		148.0			CH-148
+188	2	fb:cell.us	US	us	we	PRP	O					US
+188	3	fb:cell.anti_submarine_warfare_helicopter	anti-submarine warfare helicopter	anti|submarine|warfare|helicopter	anti|submarine|warfare|helicopter	JJ|NN|NN|NN	O|O|O|O	|||				anti-submarine warfare helicopter
+188	4	fb:cell.not_delivered	not delivered	not|delivered	not|deliver	RB|VBN	O|O	|				
+188	5	fb:cell.0	0	0	0	CD	NUMBER	0.0	0.0			
+189	0	fb:cell.sikorsky_h_5_s_51	Sikorsky H-5 (S-51)	sikorsky|h-5|-lrb-|s-51|-rrb-	Sikorsky|h-5|-lrb-|s-51|-rrb-	NNP|NN|-LRB-|NN|-RRB-	O|O|O|O|O	||||	5.0		51.0	Sikorsky H-5 (S-51)
+189	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+189	2	fb:cell.us	US	us	we	PRP	O					US
+189	3	fb:cell.utility_rescue_helicopter	utility/rescue helicopter	utility/rescue|helicopter	utility/rescue|helicopter	NNP|NN	O|O	|				utility|rescue helicopter
+189	4	fb:cell.1947_1965	1947–1965	1947|--|1965	1947|--|1965	CD|:|CD	DATE|O|DATE	1947||1965	1947.0		1965.0	
+189	5	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+190	0	fb:cell.sikorsky_h_19_s_55	Sikorsky H-19 (S-55)	sikorsky|h-19|-lrb-|s-55|-rrb-	Sikorsky|H-19|-lrb-|S-55|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-	O|O|O|O|O	||||	19.0		55.0	Sikorsky H-19 (S-55)
+190	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+190	2	fb:cell.us	US	us	we	PRP	O					US
+190	3	fb:cell.utility_transport_helicopter	utility/transport helicopter	utility/transport|helicopter	utility/transport|helicopter	NNP|NN	O|O	|				utility|transport helicopter
+190	4	fb:cell.1954_1985	1954–1985	1954|--|1985	1954|--|1985	CD|:|CD	DATE|O|DATE	1954||1985	1954.0		1985.0	
+190	5	fb:cell.15	15	15	15	CD	NUMBER	15.0	15.0			
+191	0	fb:cell.sikorsky_h_34_s_58	Sikorsky H-34 (S-58)	sikorsky|h-34|-lrb-|s-58|-rrb-	Sikorsky|H-34|-lrb-|S-58|-rrb-	NNP|NNP|-LRB-|NNP|-RRB-	O|O|O|O|O	||||	34.0		58.0	Sikorsky H-34 (S-58)
+191	1	fb:cell.ch_126	CH-126	ch-126	ch-126	NN	O		126.0			CH-126
+191	2	fb:cell.us	US	us	we	PRP	O					US
+191	3	fb:cell.utility_transport_helicopter	utility/transport helicopter	utility/transport|helicopter	utility/transport|helicopter	NNP|NN	O|O	|				utility|transport helicopter
+191	4	fb:cell.1955_1973	1955–1973	1955|--|1973	1955|--|1973	CD|:|CD	DATE|O|DATE	1955||1973	1955.0		1973.0	
+191	5	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+192	0	fb:cell.sikorsky_sea_king_s_61	Sikorsky Sea King (S-61)	sikorsky|sea|king|-lrb-|s-61|-rrb-	Sikorsky|Sea|King|-lrb-|s-61|-rrb-	NNP|NNP|NNP|-LRB-|NN|-RRB-	O|O|O|O|O|O	|||||	61.0			Sikorsky Sea King (S-61)
+192	1	fb:cell.ch_124	CH-124	ch-124	ch-124	NN	O		124.0			CH-124
+192	2	fb:cell.us	US	us	we	PRP	O					US
+192	3	fb:cell.anti_submarine_helicopter	Anti-submarine helicopter	anti|submarine|helicopter	anti|submarine|helicopter	JJ|NN|NN	O|O|O	||				Anti-submarine helicopter
+192	4	fb:cell.1968_current	1968–current	1968|--|current	1968|--|current	CD|:|JJ	DATE|O|DATE	1968||PRESENT_REF	1968.0			
+192	5	fb:cell.40	40	40	40	CD	NUMBER	40.0	40.0			
+193	0	fb:cell.slingsby_firefly	Slingsby Firefly	slingsby|firefly	Slingsby|Firefly	NNP|NNP	O|O	|				Slingsby Firefly
+193	1	fb:cell.ct_111	CT-111	ct-111	ct-111	NN	O		111.0			CT-111
+193	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+193	3	fb:cell.trainer	trainer	trainer	trainer	NN	O					trainer
+193	4	fb:cell.1992_current	1992–current	1992|--|current	1992|--|current	CD|:|JJ	DATE|O|DATE	1992||PRESENT_REF	1992.0			
+193	5	fb:cell.12	12	12	12	CD	NUMBER	12.0	12.0			
+194	0	fb:cell.sopwith_camel	Sopwith Camel	sopwith|camel	Sopwith|Camel	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Sopwith Camel
+194	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+194	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+194	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+194	4	fb:cell.1924_1929	1924–1929	1924|--|1929	1924|--|1929	CD|:|CD	DATE|O|DATE	1924||1929	1924.0		1929.0	
+194	5	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			
+195	0	fb:cell.sopwith_snipe	Sopwith Snipe	sopwith|snipe	Sopwith|Snipe	NNP|NNP	O|O	|				Sopwith Snipe
+195	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+195	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+195	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+195	4	fb:cell.1919_1923	1919–1923	1919|--|1923	1919|--|1923	CD|:|CD	DATE|O|DATE	1919||1923	1919.0		1923.0	
+195	5	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+196	0	fb:cell.stearman_kaydet_model_75	Stearman Kaydet (Model 75)	stearman|kaydet|-lrb-|model|75|-rrb-	Stearman|Kaydet|-lrb-|Model|75|-rrb-	NNP|NNP|-LRB-|NNP|CD|-RRB-	PERSON|PERSON|O|O|NUMBER|O	||||75.0|	75.0			Stearman Kaydet (Model 75)
+196	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+196	2	fb:cell.us	US	us	we	PRP	O					US
+196	3	fb:cell.elementary_trainer	elementary trainer	elementary|trainer	elementary|trainer	JJ|NN	O|O	|				elementary trainer
+196	4	fb:cell.1942_1943	1942–1943	1942|--|1943	1942|--|1943	CD|:|CD	DATE|O|DATE	1942||1943	1942.0		1943.0	
+196	5	fb:cell.301	301	301	301	CD	NUMBER	301.0	301.0			
+197	0	fb:cell.stinson_voyager_model_105	Stinson Voyager (Model 105)	stinson|voyager|-lrb-|model|105|-rrb-	Stinson|Voyager|-lrb-|Model|105|-rrb-	NNP|NNP|-LRB-|NNP|CD|-RRB-	PERSON|PERSON|O|O|NUMBER|O	||||105.0|	105.0			Stinson Voyager (Model 105)
+197	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+197	2	fb:cell.us	US	us	we	PRP	O					US
+197	3	fb:cell.utility	utility	utility	utility	NN	O					utility
+197	4	fb:cell.1940_1946	1940–1946	1940|--|1946	1940|--|1946	CD|:|CD	DATE|O|DATE	1940||1946	1940.0		1946.0	
+197	5	fb:cell.25	25	25	25	CD	NUMBER	25.0	25.0			
+198	0	fb:cell.supermarine_spitfire	Supermarine Spitfire	supermarine|spitfire	supermarine|spitfire	JJ|NN	O|O	|				Supermarine Spitfire
+198	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+198	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+198	3	fb:cell.fighter	fighter	fighter	fighter	NN	O					fighter
+198	4	fb:cell.1940_1950	1940–1950	1940|--|1950	1940|--|1950	CD|:|CD	DATE|O|DATE	1940||1950	1940.0		1950.0	
+198	5	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+199	0	fb:cell.supermarine_stranraer	Supermarine Stranraer	supermarine|stranraer	supermarine|stranraer	JJ|NN	O|O	|				Supermarine Stranraer
+199	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+199	2	fb:cell.canada	Canada	canada	Canada	NNP	LOCATION					Canada
+199	3	fb:cell.patrol_seaplane	patrol seaplane	patrol|seaplane	patrol|seaplane	NNP|NNP	O|O	|				patrol seaplane
+199	4	fb:cell.1938_1946	1938–1946	1938|--|1946	1938|--|1946	CD|:|CD	DATE|O|DATE	1938||1946	1938.0		1946.0	
+199	5	fb:cell.40	40	40	40	CD	NUMBER	40.0	40.0			
+200	0	fb:cell.supermarine_walrus	Supermarine Walrus	supermarine|walrus	supermarine|walrus	JJ|NN	O|O	|				Supermarine Walrus
+200	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+200	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+200	3	fb:cell.fleet_spotter_utility_amphibian	fleet spotter/utility amphibian	fleet|spotter/utility|amphibian	fleet|spotter/utility|amphibian	NN|NN|NN	O|O|O	||				fleet spotter|utility amphibian
+200	4	fb:cell.1943_1947	1943–1947	1943|--|1947	1943|--|1947	CD|:|CD	DATE|O|DATE	1943||1947	1943.0		1947.0	
+200	5	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+201	0	fb:cell.vickers_viking_mk_iv	Vickers Viking Mk.IV	vickers|viking|mk.iv	Vickers|viking|mk.iv	NNP|JJ|NN	ORGANIZATION|O|O	||				Vickers Viking Mk.IV
+201	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+201	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+201	3	fb:cell.patrol_amphibian	patrol amphibian	patrol|amphibian	patrol|amphibian	NNP|NNP	O|O	|				patrol amphibian
+201	4	fb:cell.1923_1931	1923–1931	1923|--|1931	1923|--|1931	CD|:|CD	DATE|O|DATE	1923||1931	1923.0		1931.0	
+201	5	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+202	0	fb:cell.waco_aqc_6	Waco AQC-6	waco|aqc-6	Waco|AQC-6	NNP|NNP	O|O	|	6.0			Waco AQC-6
+202	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+202	2	fb:cell.us	US	us	we	PRP	O					US
+202	3	fb:cell.utility	utility	utility	utility	NN	O					utility
+202	4	fb:cell.1942_1942	1942–1942	1942|--|1942	1942|--|1942	CD|:|CD	DATE|O|DATE	1942||1942	1942.0		1942.0	
+202	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+203	0	fb:cell.waco_cg_15a	Waco CG-15A	waco|cg-15a	Waco|CG-15A	NNP|NNP	O|O	|	15.0			Waco CG-15A
+203	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+203	2	fb:cell.us	US	us	we	PRP	O					US
+203	3	fb:cell.transport_glider	transport glider	transport|glider	transport|glider	NN|NN	O|O	|				transport glider
+203	4	fb:cell.1946_1950	1946–1950	1946|--|1950	1946|--|1950	CD|:|CD	DATE|O|DATE	1946||1950	1946.0		1950.0	
+203	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+204	0	fb:cell.waco_hadrian_mk_ii	Waco Hadrian Mk.II	waco|hadrian|mk.ii	Waco|Hadrian|Mk.II	NNP|NNP|NNP	PERSON|PERSON|O	||				Waco Hadrian Mk.II
+204	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+204	2	fb:cell.us	US	us	we	PRP	O					US
+204	3	fb:cell.transport_glider	transport glider	transport|glider	transport|glider	NN|NN	O|O	|				transport glider
+204	4	fb:cell.1944_1949	1944–1949	1944|--|1949	1944|--|1949	CD|:|CD	DATE|O|DATE	1944||1949	1944.0		1949.0	
+204	5	fb:cell.32	32	32	32	CD	NUMBER	32.0	32.0			
+205	0	fb:cell.waco_pg_2a	Waco PG-2A	waco|pg-2a	Waco|PG-2A	NNP|NNP	O|O	|	2.0			Waco PG-2A
+205	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+205	2	fb:cell.us	US	us	we	PRP	O					US
+205	3	fb:cell.transport	transport	transport	transport	NN	O					transport
+205	4	fb:cell.1946_1947	1946–1947	1946|--|1947	1946|--|1947	CD|:|CD	DATE|O|DATE	1946||1947	1946.0		1947.0	
+205	5	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+206	0	fb:cell.westland_lysander	Westland Lysander	westland|lysander	Westland|Lysander	NNP|NNP	PERSON|PERSON	|				Westland Lysander
+206	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+206	2	fb:cell.uk_canada	UK/Canada	uk/canada	UK/Canada	NNP	O					UK|Canada
+206	3	fb:cell.army_co_operation_target_tug	army co-operation/target tug	army|co|operation/target|tug	army|co|operation/target|tug	NNP|NNP|NNP|NN	ORGANIZATION|ORGANIZATION|O|O	|||				army co-operation|target tug
+206	4	fb:cell.1939_1946	1939–1946	1939|--|1946	1939|--|1946	CD|:|CD	DATE|O|DATE	1939||1946	1939.0		1946.0	
+206	5	fb:cell.329	329	329	329	CD	NUMBER	329.0	329.0			
+207	0	fb:cell.westland_wapiti	Westland Wapiti	westland|wapiti	Westland|Wapiti	NNP|NNP	PERSON|PERSON	|				Westland Wapiti
+207	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+207	2	fb:cell.uk	UK	uk	UK	NNP	LOCATION					UK
+207	3	fb:cell.army_co_operation	army co-operation	army|co|operation	army|co|operation	NNP|NNP|NN	ORGANIZATION|ORGANIZATION|O	||				army co-operation
+207	4	fb:cell.1930_1944	1930–1944	1930|--|1944	1930|--|1944	CD|:|CD	DATE|O|DATE	1930||1944	1930.0		1944.0	
+207	5	fb:cell.25	25	25	25	CD	NUMBER	25.0	25.0			

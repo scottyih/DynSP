@@ -1,0 +1,105 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.color	Color	color	color	NN	O					
+-1	1	fb:row.row.pin_tip	Pin (Tip)	pin|-lrb-|tip|-rrb-	pin|-lrb-|tip|-rrb-	NN|-LRB-|NN|-RRB-	O|O|O|O	|||				
+-1	2	fb:row.row.pin_ring	Pin (Ring)	pin|-lrb-|ring|-rrb-	pin|-lrb-|ring|-rrb-	NN|-LRB-|NN|-RRB-	O|O|O|O	|||				
+-1	3	fb:row.row.color_2	Color	color	color	NN	O					
+0	0	fb:cell.white_blue	White/Blue	white/blue	white/blue	NN	O					White|Blue
+0	1	fb:cell.26	26	26	26	CD	NUMBER	26.0	26.0			
+0	2	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			
+0	3	fb:cell.blue_white	Blue/White	blue/white	Blue/White	NNP	O					Blue|White
+1	0	fb:cell.white_orange	White/Orange	white/orange	white/orange	NN	O					White|Orange
+1	1	fb:cell.27	27	27	27	CD	NUMBER	27.0	27.0			
+1	2	fb:cell.2	2	2	2	CD	NUMBER	2.0	2.0			
+1	3	fb:cell.orange_white	Orange/White	orange/white	orange/white	NN	O					Orange|White
+2	0	fb:cell.white_green	White/Green	white/green	white/green	NN	O					White|Green
+2	1	fb:cell.28	28	28	28	CD	NUMBER	28.0	28.0			
+2	2	fb:cell.3	3	3	3	CD	NUMBER	3.0	3.0			
+2	3	fb:cell.green_white	Green/White	green/white	green/white	NN	O					Green|White
+3	0	fb:cell.white_brown	White/Brown	white/brown	White/Brown	NNP	O					White|Brown
+3	1	fb:cell.29	29	29	29	CD	NUMBER	29.0	29.0			
+3	2	fb:cell.4	4	4	4	CD	NUMBER	4.0	4.0			
+3	3	fb:cell.brown_white	Brown/White	brown/white	brown/white	NN	O					Brown|White
+4	0	fb:cell.white_slate	White/Slate	white/slate	white/slate	NN	O					White|Slate
+4	1	fb:cell.30	30	30	30	CD	NUMBER	30.0	30.0			
+4	2	fb:cell.5	5	5	5	CD	NUMBER	5.0	5.0			
+4	3	fb:cell.slate_white	Slate/White	slate/white	slate/white	NN	O					Slate|White
+5	0	fb:cell.red_blue	Red/Blue	red/blue	red/blue	NN	O					Red|Blue
+5	1	fb:cell.31	31	31	31	CD	NUMBER	31.0	31.0			
+5	2	fb:cell.6	6	6	6	CD	NUMBER	6.0	6.0			
+5	3	fb:cell.blue_red	Blue/Red	blue/red	blue/red	VBN	O					Blue|Red
+6	0	fb:cell.red_orange	Red/Orange	red/orange	red/orange	NN	O					Red|Orange
+6	1	fb:cell.32	32	32	32	CD	NUMBER	32.0	32.0			
+6	2	fb:cell.7	7	7	7	CD	NUMBER	7.0	7.0			
+6	3	fb:cell.orange_red	Orange/Red	orange/red	orange/red	VBN	O					Orange|Red
+7	0	fb:cell.red_green	Red/Green	red/green	red/green	NN	O					Red|Green
+7	1	fb:cell.33	33	33	33	CD	NUMBER	33.0	33.0			
+7	2	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			
+7	3	fb:cell.green_red	Green/Red	green/red	green/red	VBN	O					Green|Red
+8	0	fb:cell.red_brown	Red/Brown	red/brown	Red/Brown	NNP	O					Red|Brown
+8	1	fb:cell.34	34	34	34	CD	NUMBER	34.0	34.0			
+8	2	fb:cell.9	9	9	9	CD	NUMBER	9.0	9.0			
+8	3	fb:cell.brown_red	Brown/Red	brown/red	brown/red	VBN	O					Brown|Red
+9	0	fb:cell.red_slate	Red/Slate	red/slate	red/slate	NN	O					Red|Slate
+9	1	fb:cell.35	35	35	35	CD	NUMBER	35.0	35.0			
+9	2	fb:cell.10	10	10	10	CD	NUMBER	10.0	10.0			
+9	3	fb:cell.slate_red	Slate/Red	slate/red	slate/red	VBN	O					Slate|Red
+10	0	fb:cell.black_blue	Black/Blue	black/blue	Black/Blue	NNP	O					Black|Blue
+10	1	fb:cell.36	36	36	36	CD	NUMBER	36.0	36.0			
+10	2	fb:cell.11	11	11	11	CD	NUMBER	11.0	11.0			
+10	3	fb:cell.blue_black	Blue/Black	blue/black	blue/black	NN	O					Blue|Black
+11	0	fb:cell.black_orange	Black/Orange	black/orange	Black/Orange	NNP	O					Black|Orange
+11	1	fb:cell.37	37	37	37	CD	NUMBER	37.0	37.0			
+11	2	fb:cell.12	12	12	12	CD	NUMBER	12.0	12.0			
+11	3	fb:cell.orange_black	Orange/Black	orange/black	orange/black	NN	O					Orange|Black
+12	0	fb:cell.black_green	Black/Green	black/green	Black/Green	NNP	O					Black|Green
+12	1	fb:cell.38	38	38	38	CD	NUMBER	38.0	38.0			
+12	2	fb:cell.13	13	13	13	CD	NUMBER	13.0	13.0			
+12	3	fb:cell.green_black	Green/Black	green/black	green/black	NN	O					Green|Black
+13	0	fb:cell.black_brown	Black/Brown	black/brown	Black/Brown	NNP	O					Black|Brown
+13	1	fb:cell.39	39	39	39	CD	NUMBER	39.0	39.0			
+13	2	fb:cell.14	14	14	14	CD	NUMBER	14.0	14.0			
+13	3	fb:cell.brown_black	Brown/Black	brown/black	brown/black	NN	O					Brown|Black
+14	0	fb:cell.black_slate	Black/Slate	black/slate	black/slate	VB	O					Black|Slate
+14	1	fb:cell.40	40	40	40	CD	NUMBER	40.0	40.0			
+14	2	fb:cell.15	15	15	15	CD	NUMBER	15.0	15.0			
+14	3	fb:cell.slate_black	Slate/Black	slate/black	slate/black	NN	O					Slate|Black
+15	0	fb:cell.yellow_blue	Yellow/Blue	yellow/blue	Yellow/Blue	NNP	O					Yellow|Blue
+15	1	fb:cell.41	41	41	41	CD	NUMBER	41.0	41.0			
+15	2	fb:cell.16	16	16	16	CD	NUMBER	16.0	16.0			
+15	3	fb:cell.blue_yellow	Blue/Yellow	blue/yellow	blue/yellow	NN	O					Blue|Yellow
+16	0	fb:cell.yellow_orange	Yellow/Orange	yellow/orange	Yellow/Orange	NNP	O					Yellow|Orange
+16	1	fb:cell.42	42	42	42	CD	NUMBER	42.0	42.0			
+16	2	fb:cell.17	17	17	17	CD	NUMBER	17.0	17.0			
+16	3	fb:cell.orange_yellow	Orange/Yellow	orange/yellow	orange/yellow	NN	O					Orange|Yellow
+17	0	fb:cell.yellow_green	Yellow/Green	yellow/green	Yellow/Green	NNP	O					Yellow|Green
+17	1	fb:cell.43	43	43	43	CD	NUMBER	43.0	43.0			
+17	2	fb:cell.18	18	18	18	CD	NUMBER	18.0	18.0			
+17	3	fb:cell.green_yellow	Green/Yellow	green/yellow	green/yellow	NN	O					Green|Yellow
+18	0	fb:cell.yellow_brown	Yellow/Brown	yellow/brown	Yellow/Brown	NNP	O					Yellow|Brown
+18	1	fb:cell.44	44	44	44	CD	NUMBER	44.0	44.0			
+18	2	fb:cell.19	19	19	19	CD	NUMBER	19.0	19.0			
+18	3	fb:cell.brown_yellow	Brown/Yellow	brown/yellow	brown/yellow	NN	O					Brown|Yellow
+19	0	fb:cell.yellow_slate	Yellow/Slate	yellow/slate	Yellow/Slate	NNP	O					Yellow|Slate
+19	1	fb:cell.45	45	45	45	CD	NUMBER	45.0	45.0			
+19	2	fb:cell.20	20	20	20	CD	NUMBER	20.0	20.0			
+19	3	fb:cell.slate_yellow	Slate/Yellow	slate/yellow	slate/yellow	NN	O					Slate|Yellow
+20	0	fb:cell.violet_blue	Violet/Blue	violet/blue	violet/blue	NN	O					Violet|Blue
+20	1	fb:cell.46	46	46	46	CD	NUMBER	46.0	46.0			
+20	2	fb:cell.21	21	21	21	CD	NUMBER	21.0	21.0			
+20	3	fb:cell.blue_violet	Blue/Violet	blue/violet	Blue/Violet	NNP	O					Blue|Violet
+21	0	fb:cell.violet_orange	Violet/Orange	violet/orange	violet/orange	NN	O					Violet|Orange
+21	1	fb:cell.47	47	47	47	CD	NUMBER	47.0	47.0			
+21	2	fb:cell.22	22	22	22	CD	NUMBER	22.0	22.0			
+21	3	fb:cell.orange_violet	Orange/Violet	orange/violet	orange/violet	NN	O					Orange|Violet
+22	0	fb:cell.violet_green	Violet/Green	violet/green	violet/green	NN	O					Violet|Green
+22	1	fb:cell.48	48	48	48	CD	NUMBER	48.0	48.0			
+22	2	fb:cell.23	23	23	23	CD	NUMBER	23.0	23.0			
+22	3	fb:cell.green_violet	Green/Violet	green/violet	green/violet	NN	O					Green|Violet
+23	0	fb:cell.violet_brown	Violet/Brown	violet/brown	Violet/Brown	NNP	O					Violet|Brown
+23	1	fb:cell.49	49	49	49	CD	NUMBER	49.0	49.0			
+23	2	fb:cell.24	24	24	24	CD	NUMBER	24.0	24.0			
+23	3	fb:cell.brown_violet	Brown/Violet	brown/violet	brown/violet	NN	O					Brown|Violet
+24	0	fb:cell.violet_slate	Violet/Slate	violet/slate	violet/slate	NN	O					Violet|Slate
+24	1	fb:cell.50	50	50	50	CD	NUMBER	50.0	50.0			
+24	2	fb:cell.25	25	25	25	CD	NUMBER	25.0	25.0			
+24	3	fb:cell.slate_violet	Slate/Violet	slate/violet	slate/violet	NN	O					Slate|Violet

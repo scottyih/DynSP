@@ -1,0 +1,397 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.name	Name	name	name	NN	O					
+-1	1	fb:row.row.developer	Developer	developer	developer	NN	O					
+-1	2	fb:row.row.release	Release	release	release	NN	O					
+-1	3	fb:row.row.type	Type	type	type	NN	O					
+-1	4	fb:row.row.game_flow	Game flow	game|flow	game|flow	NN|NN	O|O	|				
+-1	5	fb:row.row.setting	Setting	setting	set	VBG	O					
+0	0	fb:cell.8realms	8Realms	8realms	8Realms	NNPS	O		8.0			
+0	1	fb:cell.jagex	Jagex	jagex	Jagex	NNP	PERSON					Jagex
+0	2	fb:cell.2011_now_closed	2011 (now closed)	2011|-lrb-|now|closed|-rrb-	2011|-lrb-|now|close|-rrb-	CD|-LRB-|RB|VBN|-RRB-	DATE|O|DATE|O|O	2011||PRESENT_REF||	2011.0			
+0	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+0	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+0	5	fb:cell.empire_building	Empire building	empire|building	Empire|building	NNP|NNP	O|O	|				Empire building
+1	0	fb:cell.adventure_quest_worlds	Adventure Quest Worlds	adventure|quest|worlds	adventure|quest|world	NN|NN|NNS	O|O|O	||				
+1	1	fb:cell.artix_entertainment	Artix Entertainment	artix|entertainment	Artix|Entertainment	NNP|NNP	O|O	|				Artix Entertainment
+1	2	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+1	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+1	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+1	5	fb:cell.rpg	RPG	rpg	RPG	NNP	O					RPG
+2	0	fb:cell.blood_wars	Blood Wars	blood|wars	blood|war	NN|NNS	O|O	|				
+2	1	fb:cell.bw_team	BW Team	bw|team	bw|team	NN|NN	O|O	|				BW Team
+2	2	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+2	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+2	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+2	5	fb:cell.post_apocalyptic_world	Post-apocalyptic world	post|apocalyptic|world	post|apocalyptic|world	NN|JJ|NN	O|O|O	||				Post-apocalyptic world
+3	0	fb:cell.business_tycoon_online	Business Tycoon Online	business|tycoon|online	business|tycoon|online	NN|NN|NN	O|O|O	||				
+3	1	fb:cell.dovogame_llc	Dovogame LLC	dovogame|llc	Dovogame|LLC	NNP|NNP	PERSON|PERSON	|				Dovogame LLC
+3	2	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+3	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+3	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+3	5	fb:cell.fantasy_business_simulation	Fantasy/Business Simulation	fantasy/business|simulation	fantasy/business|simulation	NN|NN	O|O	|				Fantasy|Business Simulation
+4	0	fb:cell.castle_marrach	Castle Marrach	castle|marrach	Castle|Marrach	NNP|NNP	PERSON|PERSON	|				
+4	1	fb:cell.skotos	Skotos	skotos	skoto	NNS	O					Skotos
+4	2	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+4	3	fb:cell.role_playing	role-playing	role|playing	role|playing	NN|NN	O|O	|				role-playing
+4	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+4	5	fb:cell.fantasy_storytelling	Fantasy/storytelling	fantasy/storytelling	fantasy/storytelling	NN	O					Fantasy|storytelling
+5	0	fb:cell.castle_of_heroes	Castle of Heroes	castle|of|heroes	castle|of|hero	NN|IN|NNS	O|O|O	||				
+5	1	fb:cell.snail_game	SNAIL Game	snail|game	snail|game	NN|NN	O|O	|				SNAIL Game
+5	2	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+5	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+5	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+5	5	fb:cell.fantasy_empire_building	Fantasy/empire building	fantasy/empire|building	fantasy/empire|building	NN|NN	O|O	|				Fantasy|empire building
+6	0	fb:cell.club_penguin	Club Penguin	club|penguin	Club|Penguin	NNP|NNP	O|O	|				
+6	1	fb:cell.new_horizon_entertainment_disney	New Horizon Entertainment/Disney	new|horizon|entertainment/disney	new|horizon|entertainment/disney	JJ|NN|NN	O|O|O	||				New Horizon Entertainment|Disney
+6	2	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+6	3	fb:cell.social_networking	Social networking	social|networking	Social|network	NNP|VBG	O|O	|				Social networking
+6	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+6	5	fb:cell.antarctica	Antarctica	antarctica	Antarctica	NNP	LOCATION					Antarctica
+7	0	fb:cell.cyber_nations	Cyber Nations	cyber|nations	Cyber|Nations	NNP|NNPS	O|O	|				
+7	1	fb:cell.kevin_marks	Kevin Marks	kevin|marks	Kevin|Marks	NNP|NNP	PERSON|PERSON	|				Kevin Marks
+7	2	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+7	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+7	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+7	5	fb:cell.contemporary_country_building	Contemporary/country building	contemporary/country|building	contemporary/country|building	JJ|NN	O|O	|				Contemporary|country building
+8	0	fb:cell.dead_frontier	Dead Frontier	dead|frontier	dead|frontier	JJ|NN	O|O	|				
+8	1	fb:cell.neil_yates	Neil Yates	neil|yates	Neil|Yates	NNP|NNP	PERSON|PERSON	|				Neil Yates
+8	2	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+8	3	fb:cell.mmorpg_third_person_shooter	MMORPG, Third-person shooter	mmorpg|,|third|person|shooter	MMORPG|,|third|person|shooter	NNP|,|JJ|NN|NN	O|O|ORDINAL|O|O	||3.0||				MMORPG|Third-person shooter
+8	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+8	5	fb:cell.post_apocalyptic_world	Post-apocalyptic world	post|apocalyptic|world	post|apocalyptic|world	NN|JJ|NN	O|O|O	||				Post-apocalyptic world
+9	0	fb:cell.domain_of_heroes	Domain of Heroes	domain|of|heroes	domain|of|hero	NN|IN|NNS	O|O|O	||				
+9	1	fb:cell.tandem_games	Tandem Games	tandem|games	Tandem|Games	NNP|NNPS	O|O	|				Tandem Games
+9	2	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+9	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+9	4	fb:cell.text_based_rpg	Text-based RPG	text|based|rpg	text|base|rpg	NN|VBN|NN	O|O|O	||				
+9	5	fb:cell.fantasy	Fantasy	fantasy	Fantasy	NNP	O					Fantasy
+10	0	fb:cell.doomlord	Doomlord	doomlord	doomlord	NN	PERSON					
+10	1	fb:cell.beholder_kft	Beholder Kft	beholder|kft	Beholder|Kft	NNP|NNP	O|O	|				Beholder Kft
+10	2	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+10	3	fb:cell.rpg	RPG	rpg	RPG	NNP	O					RPG
+10	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+10	5	fb:cell.fantasy	Fantasy	fantasy	Fantasy	NNP	O					Fantasy
+11	0	fb:cell.earth_eternal	Earth Eternal	earth|eternal	Earth|eternal	NNP|JJ	O|O	|				
+11	1	fb:cell.sparkplay_media	Sparkplay Media	sparkplay|media	Sparkplay|Media	NNP|NNP	O|O	|				Sparkplay Media
+11	2	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+11	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+11	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+11	5	fb:cell.fantasy	Fantasy	fantasy	Fantasy	NNP	O					Fantasy
+12	0	fb:cell.echo_bazaar	Echo Bazaar!	echo|bazaar|!	Echo|Bazaar|!	NNP|NNP|.	O|O|O	||				
+12	1	fb:cell.failbetter_games	Failbetter Games	failbetter|games	Failbetter|Games	NNP|NNPS	O|O	|				Failbetter Games
+12	2	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+12	3	fb:cell.rpg	RPG	rpg	RPG	NNP	O					RPG
+12	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+12	5	fb:cell.gothic_fantasy_steampunk	Gothic Fantasy/Steampunk	gothic|fantasy/steampunk	gothic|fantasy/steampunk	JJ|NN	O|O	|				Gothic Fantasy|Steampunk
+13	0	fb:cell.empire_state	Empire & State	empire|&|state	Empire|&|State	NNP|CC|NNP	O|O|O	||				
+13	1	fb:cell.novel_inc	Novel, Inc.	novel|,|inc.|.	novel|,|Inc.|.	JJ|,|NNP|.	O|O|O|O	|||				Novel|Inc.
+13	2	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+13	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+13	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+13	5	fb:cell.science_fiction	Science Fiction	science|fiction	Science|fiction	NNP|NN	O|O	|				Science Fiction
+14	0	fb:cell.erepublik	eRepublik	erepublik	eRepublik	NNP	PERSON					
+14	1	fb:cell.erepublik_labs	eRepublik Labs	erepublik|labs	eRepublik|Labs	NNP|NNPS	O|O	|				eRepublik Labs
+14	2	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+14	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+14	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+14	5	fb:cell.contemporary_country_building	Contemporary/country building	contemporary/country|building	contemporary/country|building	JJ|NN	O|O	|				Contemporary|country building
+15	0	fb:cell.evony	Evony	evony	Evony	NNP	PERSON					Evony
+15	1	fb:cell.evony	Evony	evony	Evony	NNP	PERSON					Evony
+15	2	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+15	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+15	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+15	5	fb:cell.fantasy_empire_building	Fantasy/empire building	fantasy/empire|building	fantasy/empire|building	NN|NN	O|O	|				Fantasy|empire building
+16	0	fb:cell.forumwarz	Forumwarz	forumwarz	forumwarz	NN	PERSON					
+16	1	fb:cell.crotch_zombie_productions	Crotch Zombie Productions	crotch|zombie|productions	crotch|Zombie|Productions	NN|NNP|NNP	O|O|O	||				Crotch Zombie Productions
+16	2	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+16	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+16	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+16	5	fb:cell.contemporary_internet_forum	Contemporary/Internet forum	contemporary/internet|forum	Contemporary/Internet|forum	NNP|NNP	O|O	|				Contemporary|Internet forum
+17	0	fb:cell.freeciv_net	Freeciv.net	freeciv.net	Freeciv.net	NNP	O					
+17	1	fb:cell.the_freeciv_project	The Freeciv Project	the|freeciv|project	the|freeciv|project	DT|NN|NN	O|O|O	||				The Freeciv Project
+17	2	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+17	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+17	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+17	5	fb:cell.empire_building_game	Empire building game	empire|building|game	empire|building|game	NN|NN|NN	O|O|O	||				Empire building game
+18	0	fb:cell.fusionfall	FusionFall	fusionfall	fusionfall	NN	PERSON					
+18	1	fb:cell.cartoon_network_grigon_entertainment	Cartoon Network/Grigon Entertainment	cartoon|network/grigon|entertainment	cartoon|Network/Grigon|Entertainment	NN|NNP|NNP	O|O|O	||				Cartoon Network|Grigon Entertainment
+18	2	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+18	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+18	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+18	5	fb:cell.science_fiction	Science Fiction	science|fiction	Science|fiction	NNP|NN	O|O	|				Science Fiction
+19	0	fb:cell.grendel_s_cave	Grendel's Cave	grendel|'s|cave	Grendel|'s|Cave	NNP|POS|NNP	PERSON|O|O	||				
+19	1	fb:cell.grendel_enterprises_l_l_c	Grendel Enterprises, L.L.C.	grendel|enterprises|,|l.l.c.	Grendel|Enterprises|,|L.L.C.	NNP|NNP|,|NNP	O|O|O|O	|||				Grendel Enterprises|L.L.C.
+19	2	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+19	3	fb:cell.adventure	Adventure	adventure	adventure	NN	O					Adventure
+19	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+19	5	fb:cell.literary_beowulf	Literary (Beowulf)	literary|-lrb-|beowulf|-rrb-	literary|-lrb-|beowulf|-rrb-	JJ|-LRB-|NN|-RRB-	O|O|O|O	|||				Literary (Beowulf)
+20	0	fb:cell.habbo_hotel	Habbo Hotel	habbo|hotel	Habbo|Hotel	NNP|NNP	PERSON|PERSON	|				
+20	1	fb:cell.sulake_inc	Sulake Inc.	sulake|inc.|.	Sulake|Inc.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Sulake Inc.
+20	2	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+20	3	fb:cell.social_networking	Social networking	social|networking	Social|network	NNP|VBG	O|O	|				Social networking
+20	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+20	5	fb:cell.contemporary_teenagers	Contemporary/teenagers	contemporary/teenagers	contemporary/teenagers	NNS	O					Contemporary|teenagers
+21	0	fb:cell.hattrick	Hattrick	hattrick	hattrick	NN	O					
+21	1	fb:cell.extralives	ExtraLives	extralives	extralive	NNS	O					ExtraLives
+21	2	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+21	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+21	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+21	5	fb:cell.contemporary_soccer_team	Contemporary/soccer team	contemporary/soccer|team	Contemporary/soccer|team	NNP|NNP	O|O	|				Contemporary|soccer team
+22	0	fb:cell.heroes_of_might_and_magic_kingdoms	Heroes Of Might and Magic Kingdoms	heroes|of|might|and|magic|kingdoms	hero|of|might|and|magic|kingdom	NNS|IN|VBD-AUX|CC|JJ|NNS	O|O|O|O|O|O	|||||				
+22	1	fb:cell.ubisoft	Ubisoft	ubisoft	Ubisoft	NNP	ORGANIZATION					Ubisoft
+22	2	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+22	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+22	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+22	5	fb:cell.empire_building	Empire building	empire|building	Empire|building	NNP|NNP	O|O	|				Empire building
+23	0	fb:cell.ikariam	Ikariam	ikariam	Ikariam	NNP	PERSON					
+23	1	fb:cell.gameforge	Gameforge	gameforge	gameforge	NN	PERSON					Gameforge
+23	2	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+23	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+23	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+23	5	fb:cell.ancient_greece_empire_building	Ancient Greece/empire building	ancient|greece/empire|building	ancient|greece/empire|building	JJ|NN|NN	O|O|O	||				Ancient Greece|empire building
+24	0	fb:cell.illyriad	Illyriad	illyriad	Illyriad	NNP	PERSON					
+24	1	fb:cell.illyriad_games_ltd	Illyriad Games Ltd	illyriad|games|ltd	Illyriad|Games|Ltd	NNP|NNPS|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Illyriad Games Ltd
+24	2	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+24	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+24	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+24	5	fb:cell.fantasy_empire_building	Fantasy/empire building	fantasy/empire|building	fantasy/empire|building	NN|NN	O|O	|				Fantasy|empire building
+25	0	fb:cell.kantai_collection	Kantai Collection	kantai|collection	Kantai|collection	NNP|NN	PERSON|O	|				
+25	1	fb:cell.kadokawa_games	Kadokawa Games	kadokawa|games	Kadokawa|Games	NNP|NNPS	PERSON|PERSON	|				Kadokawa Games
+25	2	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+25	3	fb:cell.card_battle_game	card battle game	card|battle|game	card|battle|game	NN|NN|NN	O|O|O	||				card battle game
+25	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+25	5	fb:cell.world_war_ii	World War II	world|war|ii	World|War|II	NNP|NNP|NNP	MISC|MISC|MISC	||				World War II
+26	0	fb:cell.kdice	kdice	kdice	kdice	NNP	PERSON					
+26	1	fb:cell.ryan_dewsbury	Ryan Dewsbury	ryan|dewsbury	Ryan|Dewsbury	NNP|NNP	PERSON|PERSON	|				Ryan Dewsbury
+26	2	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+26	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+26	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+26	5	fb:cell.abstract_war_game	Abstract war game	abstract|war|game	abstract|war|game	JJ|NN|NN	O|O|O	||				Abstract war game
+27	0	fb:cell.kingdom_of_loathing	Kingdom of Loathing	kingdom|of|loathing	Kingdom|of|loathing	NNP|IN|NN	O|O|O	||				
+27	1	fb:cell.asymmetric_publications	Asymmetric Publications	asymmetric|publications	asymmetric|publication	JJ|NNS	O|O	|				Asymmetric Publications
+27	2	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+27	3	fb:cell.role_playing	role-playing	role|playing	role|playing	NN|NN	O|O	|				role-playing
+27	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+27	5	fb:cell.fantasy_humorous	Fantasy/humorous	fantasy/humorous	fantasy/humorous	JJ	O					Fantasy|humorous
+28	0	fb:cell.legends_of_zork	Legends of Zork	legends|of|zork	legend|of|zork	NNS|IN|NN	O|O|O	||				
+28	1	fb:cell.jolt_online_gaming	Jolt Online Gaming	jolt|online|gaming	jolt|online|gaming	NN|NN|NN	O|O|O	||				Jolt Online Gaming
+28	2	fb:cell.2009_2011_now_closed	2009-2011 (now closed)	2009-2011|-lrb-|now|closed|-rrb-	2009-2011|-lrb-|now|close|-rrb-	CD|-LRB-|RB|VBN|-RRB-	DURATION|O|DATE|O|O	PT17520H||PRESENT_REF||	2009.0		2011.0	
+28	3	fb:cell.role_playing	role-playing	role|playing	role|playing	NN|NN	O|O	|				role-playing
+28	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+28	5	fb:cell.fantasy_humorous	Fantasy/humorous	fantasy/humorous	fantasy/humorous	JJ	O					Fantasy|humorous
+29	0	fb:cell.little_space_heroes	Little Space Heroes	little|space|heroes	little|space|hero	JJ|NN|NNS	O|O|O	||				
+29	1	fb:cell.bubble_gum_interactive	Bubble Gum Interactive	bubble|gum|interactive	bubble|gum|interactive	NN|NN|JJ	O|O|O	||				Bubble Gum Interactive
+29	2	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+29	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+29	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+29	5	fb:cell.kids	Kids	kids	kid	NNS	O					Kids
+30	0	fb:cell.lord_of_ultima	Lord of Ultima	lord|of|ultima	Lord|of|Ultima	NNP|IN|NNP	O|O|O	||				
+30	1	fb:cell.electronic_arts	Electronic Arts	electronic|arts	electronic|art	JJ|NNS	O|O	|				Electronic Arts
+30	2	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+30	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+30	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+30	5	fb:cell.fantasy	Fantasy	fantasy	Fantasy	NNP	O					Fantasy
+31	0	fb:cell.miniconomy	Miniconomy	miniconomy	miniconomy	NN	O					
+31	1	fb:cell.trade_games_international_bv	Trade Games International BV	trade|games|international|bv	Trade|Games|International|bv	NNP|NNPS|NNP|NN	O|O|O|O	|||				Trade Games International BV
+31	2	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+31	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+31	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+31	5	fb:cell.contemporary_country_building	Contemporary/country building	contemporary/country|building	contemporary/country|building	JJ|NN	O|O	|				Contemporary|country building
+32	0	fb:cell.monopoly_city_streets	Monopoly City Streets	monopoly|city|streets	Monopoly|City|Streets	NNP|NNP|NNPS	O|O|O	||				
+32	1	fb:cell.tribal_ddb_hasbro	Tribal DDB, Hasbro	tribal|ddb|,|hasbro	tribal|DDB|,|Hasbro	JJ|NNP|,|NNP	O|O|O|ORGANIZATION	|||				Tribal DDB|Hasbro
+32	2	fb:cell.2009_now_closed	2009 (now closed)	2009|-lrb-|now|closed|-rrb-	2009|-lrb-|now|close|-rrb-	CD|-LRB-|RB|VBN|-RRB-	DATE|O|DATE|O|O	2009||PRESENT_REF||	2009.0			
+32	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+32	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+32	5	fb:cell.board_game	Board game	board|game	board|game	NN|NN	O|O	|				Board game
+33	0	fb:cell.nadirim	Nadirim	nadirim	Nadirim	NNP	PERSON					
+33	1	fb:cell.twisted_tribe	Twisted Tribe	twisted|tribe	twisted|tribe	JJ|NN	O|O	|				Twisted Tribe
+33	2	fb:cell.2011_now_closed	2011 (now closed)	2011|-lrb-|now|closed|-rrb-	2011|-lrb-|now|close|-rrb-	CD|-LRB-|RB|VBN|-RRB-	DATE|O|DATE|O|O	2011||PRESENT_REF||	2011.0			
+33	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+33	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+33	5	fb:cell.arabian_fantasy	Arabian fantasy	arabian|fantasy	Arabian|fantasy	NNP|NNP	MISC|O	|				Arabian fantasy
+34	0	fb:cell.nationstates	NationStates	nationstates	NationStates	NNPS	O					
+34	1	fb:cell.max_barry	Max Barry	max|barry	Max|Barry	NNP|NNP	PERSON|PERSON	|				Max Barry
+34	2	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+34	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+34	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+34	5	fb:cell.contemporary_country_building	Contemporary/country building	contemporary/country|building	contemporary/country|building	JJ|NN	O|O	|				Contemporary|country building
+35	0	fb:cell.neopets	Neopets	neopets	Neopets	NNP	O					
+35	1	fb:cell.viacom	Viacom	viacom	Viacom	NNP	ORGANIZATION					Viacom
+35	2	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+35	3	fb:cell.strategy_simulation	Strategy, Simulation	strategy|,|simulation	strategy|,|simulation	NN|,|NN	O|O|O	||				Strategy|Simulation
+35	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+35	5	fb:cell.virtual_pet_site	Virtual Pet Site	virtual|pet|site	virtual|pet|site	JJ|NN|NN	O|O|O	||				Virtual Pet Site
+36	0	fb:cell.nile_online	Nile Online	nile|online	Nile|online	NNP|NN	O|O	|				
+36	1	fb:cell.tilted_mill_entertainment	Tilted Mill Entertainment	tilted|mill|entertainment	tilted|mill|entertainment	JJ|NN|NN	O|O|O	||				Tilted Mill Entertainment
+36	2	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+36	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+36	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+36	5	fb:cell.ancient_egypt_empire_building	Ancient Egypt/empire building	ancient|egypt/empire|building	ancient|egypt/empire|building	JJ|NN|NN	O|O|O	||				Ancient Egypt|empire building
+37	0	fb:cell.nukezone	NukeZone	nukezone	nukezone	NN	O					
+37	1	fb:cell.stefan_karlstrom	Stefan Karlstrom	stefan|karlstrom	Stefan|Karlstrom	NNP|NNP	PERSON|PERSON	|				Stefan Karlstrom
+37	2	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+37	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+37	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+37	5	fb:cell.contemporary_war	Contemporary/war	contemporary/war	contemporary/war	NN	O					Contemporary|war
+38	0	fb:cell.omerta_video_game	Omerta (video game)	omerta|-lrb-|video|game|-rrb-	Omerta|-lrb-|video|game|-rrb-	NNP|-LRB-|JJ|NN|-RRB-	O|O|O|O|O	||||				
+38	1	fb:cell.omerta_game_limited	Omerta Game Limited	omerta|game|limited	Omerta|Game|Limited	NNP|NNP|NNP	O|O|O	||				Omerta Game Limited
+38	2	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+38	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+38	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+38	5	fb:cell.mafia	Mafia	mafia	Mafia	NNP	ORGANIZATION					Mafia
+39	0	fb:cell.ogame	OGame	ogame	OGame	NNP	O					
+39	1	fb:cell.gameforge_ag	Gameforge AG	gameforge|ag	Gameforge|AG	NNP|NNP	PERSON|PERSON	|				Gameforge AG
+39	2	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+39	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+39	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+39	5	fb:cell.science_fiction	Science Fiction	science|fiction	Science|fiction	NNP|NN	O|O	|				Science Fiction
+40	0	fb:cell.pardus	Pardus	pardus	Pardus	NNP	PERSON					
+40	1	fb:cell.bayer_szell_oeg	Bayer&Szell OEG	bayer|&|szell|oeg	Bayer|&|Szell|OEG	NNP|CC|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				Bayer&Szell OEG
+40	2	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+40	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+40	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+40	5	fb:cell.science_fiction	Science Fiction	science|fiction	Science|fiction	NNP|NN	O|O	|				Science Fiction
+41	0	fb:cell.pirate_galaxy	Pirate Galaxy	pirate|galaxy	Pirate|galaxy	NNP|NN	O|O	|				
+41	1	fb:cell.splitscreen_studios	Splitscreen Studios	splitscreen|studios	splitscreen|studio	NN|NNS	O|O	|				Splitscreen Studios
+41	2	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+41	3	fb:cell.role_playing	role-playing	role|playing	role|playing	NN|NN	O|O	|				role-playing
+41	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+41	5	fb:cell.science_fiction	Science Fiction	science|fiction	Science|fiction	NNP|NN	O|O	|				Science Fiction
+42	0	fb:cell.planetarion	Planetarion	planetarion	planetarion	NN	O					
+42	1	fb:cell.fubra	FUBRA	fubra	FUBRA	NNP	PERSON					FUBRA
+42	2	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+42	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+42	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+42	5	fb:cell.science_fiction	Science Fiction	science|fiction	Science|fiction	NNP|NN	O|O	|				Science Fiction
+43	0	fb:cell.quake_live	Quake Live	quake|live	quake|live	NN|VBP	O|O	|				
+43	1	fb:cell.id_software	id Software	id|software	id|software	NN|NN	O|O	|				id Software
+43	2	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+43	3	fb:cell.first_person_shooter	First-person shooter	first|person|shooter	first|person|shooter	JJ|NN|NN	ORDINAL|O|O	1.0||				First-person shooter
+43	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+43	5	fb:cell.science_fiction	Science Fiction	science|fiction	Science|fiction	NNP|NN	O|O	|				Science Fiction
+44	0	fb:cell.quick_hit_football	Quick Hit Football	quick|hit|football	quick|hit|football	JJ|NN|NN	O|O|O	||				
+44	1	fb:cell.play_hard_sports	Play Hard Sports	play|hard|sports	play|hard|sport	VB|JJ|NNS	O|O|O	||				Play Hard Sports
+44	2	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+44	3	fb:cell.sports_game	Sports game	sports|game	sport|game	NNS|NN	O|O	|				Sports game
+44	4	fb:cell.null										
+44	5	fb:cell.sports_american_football	Sports/American football	sports/american|football	Sports/American|football	NNP|NNP	MISC|O	|				Sports|American football
+45	0	fb:cell.raceconflicts	RaceConflicts	raceconflicts	raceconflict	NNS	O					RaceConflicts
+45	1	fb:cell.raceconflicts	RaceConflicts	raceconflicts	raceconflict	NNS	O					RaceConflicts
+45	2	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+45	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+45	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+45	5	fb:cell.fantasy	Fantasy	fantasy	Fantasy	NNP	O					Fantasy
+46	0	fb:cell.realm_of_the_mad_god	Realm of the Mad God	realm|of|the|mad|god	realm|of|the|mad|God	NN|IN|DT|JJ|NNP	O|O|O|O|O	||||				
+46	1	fb:cell.wildshadow	Wildshadow	wildshadow	wildshadow	NN	PERSON					Wildshadow
+46	2	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+46	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+46	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+46	5	fb:cell.fantasy	Fantasy	fantasy	Fantasy	NNP	O					Fantasy
+47	0	fb:cell.runescape	RuneScape	runescape	runescape	NN	O					
+47	1	fb:cell.jagex	Jagex	jagex	Jagex	NNP	PERSON					Jagex
+47	2	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+47	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+47	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+47	5	fb:cell.fantasy	Fantasy	fantasy	Fantasy	NNP	O					Fantasy
+48	0	fb:cell.samurai_taisen	Samurai Taisen	samurai|taisen	Samurai|Taisen	NNP|NNP	PERSON|PERSON	|				
+48	1	fb:cell.pst_team	PST Team	pst|team	PST|Team	NNP|NNP	PERSON|PERSON	|				PST Team
+48	2	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+48	3	fb:cell.mmorts_visual_novel	MMORTS, Visual Novel	mmorts|,|visual|novel	MMORTS|,|visual|novel	NNP|,|JJ|NN	O|O|O|O	|||				MMORTS|Visual Novel
+48	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+48	5	fb:cell.sengoku_period	Sengoku period	sengoku|period	Sengoku|period	NNP|NN	PERSON|O	|				Sengoku period
+49	0	fb:cell.sentou_gakuen	Sentou Gakuen	sentou|gakuen	sentou|gakuen	NN|NN	PERSON|PERSON	|				
+49	1	fb:cell.pst_team	PST Team	pst|team	PST|Team	NNP|NNP	PERSON|PERSON	|				PST Team
+49	2	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+49	3	fb:cell.mmorpg_visual_novel	MMORPG, Visual Novel	mmorpg|,|visual|novel	MMORPG|,|visual|novel	NNP|,|JJ|NN	O|O|O|O	|||				MMORPG|Visual Novel
+49	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+49	5	fb:cell.school_life	School Life	school|life	School|Life	NNP|NNP	O|O	|				School Life
+50	0	fb:cell.tanki_online	Tanki Online	tanki|online	Tanki|online	NNP|NN	O|O	|				
+50	1	fb:cell.alternativaplatform	AlternativaPlatform	alternativaplatform	alternativaplatform	NN	O					AlternativaPlatform
+50	2	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+50	3	fb:cell.3d_mmo_shooter	3D MMO-Shooter	3d|mmo|shooter	3d|mmo|shooter	NN|NN|NN	O|O|O	||	3.0			3D MMO-Shooter
+50	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+50	5	fb:cell.post_apocalyptic_world	Post-apocalyptic world	post|apocalyptic|world	post|apocalyptic|world	NN|JJ|NN	O|O|O	||				Post-apocalyptic world
+51	0	fb:cell.terra_est_quaestuosa	Terra Est Quaestuosa	terra|est|quaestuosa	terra|est|quaestuosa	NN|NN|NN	PERSON|PERSON|PERSON	||				
+51	1	fb:cell.schoot_digital_productions	Schoot Digital Productions	schoot|digital|productions	Schoot|Digital|Productions	NNP|NNP|NNP	O|O|O	||				Schoot Digital Productions
+51	2	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+51	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+51	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+51	5	fb:cell.contemporary_country_building	Contemporary/country building	contemporary/country|building	contemporary/country|building	JJ|NN	O|O	|				Contemporary|country building
+52	0	fb:cell.terra_militaris	Terra Militaris	terra|militaris	Terra|Militaris	NNP|NNP	PERSON|PERSON	|				
+52	1	fb:cell.snail_game	SNAIL Game	snail|game	snail|game	NN|NN	O|O	|				SNAIL Game
+52	2	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+52	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+52	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+52	5	fb:cell.historical_empire_building	Historical/empire building	historical/empire|building	Historical/empire|building	NNP|NNP	O|O	|				Historical|empire building
+53	0	fb:cell.threechess	ThreeChess	threechess	threechess	NN	O					
+53	1	fb:cell.rs_consult_bg_ltd	RS Consult BG Ltd.	rs|consult|bg|ltd.|.	r|consult|BG|Ltd.|.	NN|VB|NNP|NNP|.	O|O|ORGANIZATION|ORGANIZATION|O	||||				RS Consult BG Ltd.
+53	2	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+53	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+53	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+53	5	fb:cell.chess_variant	Chess variant	chess|variant	chess|variant	NN|NN	O|O	|				Chess variant
+54	0	fb:cell.trade_wars	Trade Wars	trade|wars	trade|war	NN|NNS	O|O	|				
+54	1	fb:cell.sylien_games	Sylien Games	sylien|games	Sylien|Games	NNP|NNPS	O|O	|				Sylien Games
+54	2	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+54	3	fb:cell.space_trade_and_combat	Space trade and combat	space|trade|and|combat	space|trade|and|combat	NN|NN|CC|NN	O|O|O|O	|||				Space trade and combat
+54	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+54	5	fb:cell.fantasy	Fantasy	fantasy	Fantasy	NNP	O					Fantasy
+55	0	fb:cell.transformice	Transformice	transformice	transformice	NN	O					
+55	1	fb:cell.tigrounette_melibellule	Tigrounette, Melibellule	tigrounette|,|melibellule	Tigrounette|,|Melibellule	NNP|,|NNP	PERSON|O|O	||				Tigrounette|Melibellule
+55	2	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+55	3	fb:cell.platform_game	Platform game	platform|game	platform|game	NN|NN	O|O	|				Platform game
+55	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+55	5	fb:cell.mmog	MMOG	mmog	mmog	NN	O					MMOG
+56	0	fb:cell.travian	Travian	travian	Travian	NNP	PERSON					
+56	1	fb:cell.travian_games	Travian Games	travian|games	Travian|Games	NNP|NNPS	PERSON|PERSON	|				Travian Games
+56	2	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+56	3	fb:cell.mmorts_strategy	MMORTS, Strategy	mmorts|,|strategy	MMORTS|,|strategy	NNP|,|NN	O|O|O	||				MMORTS|Strategy
+56	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+56	5	fb:cell.antiquity_empire_building	Antiquity/empire building	antiquity/empire|building	antiquity/empire|building	JJ|NN	O|O	|				Antiquity|empire building
+57	0	fb:cell.twilight_heroes	Twilight Heroes	twilight|heroes	Twilight|hero	NNP|NNS	TIME|O	TEV|				
+57	1	fb:cell.quirkz_media	Quirkz Media	quirkz|media	Quirkz|Media	NNP|NNP	O|O	|				Quirkz Media
+57	2	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+57	3	fb:cell.role_playing	role-playing	role|playing	role|playing	NN|NN	O|O	|				role-playing
+57	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+57	5	fb:cell.contemporary_superheroes	Contemporary/superheroes	contemporary/superheroes	contemporary/superheroes	NNS	O					Contemporary|superheroes
+58	0	fb:cell.urban_dead	Urban Dead	urban|dead	Urban|Dead	NNP|NNP	O|O	|				
+58	1	fb:cell.kevan_davis	Kevan Davis	kevan|davis	Kevan|Davis	NNP|NNP	PERSON|PERSON	|				Kevan Davis
+58	2	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+58	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+58	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+58	5	fb:cell.contemporary_zombies	Contemporary/zombies	contemporary/zombies	Contemporary/zombies	NNPS	O					Contemporary|zombies
+59	0	fb:cell.urban_rivals	Urban Rivals	urban|rivals	urban|rival	JJ|NNS	O|O	|				
+59	1	fb:cell.boostr	Boostr	boostr	boostr	NN	PERSON					Boostr
+59	2	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+59	3	fb:cell.collectible_card_game	Collectible card game	collectible|card|game	collectible|card|game	JJ|NN|NN	O|O|O	||				Collectible card game
+59	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+59	5	fb:cell.board_game	Board game	board|game	board|game	NN|NN	O|O	|				Board game
+60	0	fb:cell.tribal_wars	Tribal wars	tribal|wars	tribal|war	JJ|NNS	O|O	|				
+60	1	fb:cell.inno_games	Inno Games	inno|games	Inno|Games	NNP|NNPS	O|O	|				Inno Games
+60	2	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+60	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+60	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+60	5	fb:cell.empire_building	Empire building	empire|building	Empire|building	NNP|NNP	O|O	|				Empire building
+61	0	fb:cell.virtonomics	Virtonomics	virtonomics	virtonomic	NNS	O					
+61	1	fb:cell.gamerflot_ltd	Gamerflot Ltd.	gamerflot|ltd.|.	Gamerflot|Ltd.|.	NNP|NNP|.	ORGANIZATION|ORGANIZATION|O	||				Gamerflot Ltd.
+61	2	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+61	3	fb:cell.business_game	Business game	business|game	business|game	NN|NN	O|O	|				Business game
+61	4	fb:cell.turn_based	Turn-based	turn|based	turn|base	VB|VBN	O|O	|				
+61	5	fb:cell.modern_business	Modern/business	modern/business	modern/business	NN	O					Modern|business
+62	0	fb:cell.war_of_legends	War of Legends	war|of|legends	war|of|legend	NN|IN|NNS	O|O|O	||				
+62	1	fb:cell.ultizen	Ultizen	ultizen	Ultizen	NNP	PERSON					Ultizen
+62	2	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+62	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+62	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+62	5	fb:cell.chinese_fantasy	Chinese fantasy	chinese|fantasy	chinese|fantasy	JJ|NN	MISC|O	|				Chinese fantasy
+63	0	fb:cell.world_of_the_living_dead_resurrection	World of the Living Dead: Resurrection	world|of|the|living|dead|:|resurrection	world|of|the|living|dead|:|resurrection	NN|IN|DT|NN|JJ|:|NN	O|O|O|O|O|O|O	||||||				
+63	1	fb:cell.ballardia	Ballardia	ballardia	ballardium	NN	PERSON					Ballardia
+63	2	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+63	3	fb:cell.mmorpg	MMORPG	mmorpg	MMORPG	NNP	O					MMORPG
+63	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+63	5	fb:cell.zombie_survival_strategy	Zombie Survival Strategy	zombie|survival|strategy	Zombie|survival|strategy	NNP|NN|NN	O|O|O	||				Zombie Survival Strategy
+64	0	fb:cell.x_wars	X-Wars	x|wars	x|war	NN|NNS	O|O	|				
+64	1	fb:cell.sebastian_lagemann_nils_mitoussis_mediatainment_gmbh	Sebastian Lagemann, Nils Mitoussis, Mediatainment GmbH	sebastian|lagemann|,|nils|mitoussis|,|mediatainment|gmbh	Sebastian|Lagemann|,|Nils|Mitoussis|,|Mediatainment|GmbH	NNP|NNP|,|NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON|O|ORGANIZATION|ORGANIZATION	|||||||				Sebastian Lagemann|Nils Mitoussis|Mediatainment GmbH
+64	2	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+64	3	fb:cell.strategy	Strategy	strategy	strategy	NN	O					Strategy
+64	4	fb:cell.real_time	Real-time	real|time	real|time	JJ|NN	O|O	|				
+64	5	fb:cell.science_fiction	Science Fiction	science|fiction	Science|fiction	NNP|NN	O|O	|				Science Fiction

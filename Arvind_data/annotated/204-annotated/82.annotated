@@ -1,0 +1,61 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.site	Site	site	site	NN	O					
+-1	1	fb:row.row.municipality	Municipality	municipality	municipality	NN	O					
+-1	2	fb:row.row.comments	Comments	comments	comment	NNS	O					
+-1	3	fb:row.row.coordinates	Coordinates	coordinates	coordinate	VBZ	O					
+-1	4	fb:row.row.type	Type	type	type	NN	O					
+-1	5	fb:row.row.ref	Ref.	ref|.	ref|.	NN|.	O|O	|				
+0	0	fb:cell.kikkawa_motoharu_fortified_residence_gardens_kikkawa_motoharu_yakata_ato_teien	Kikkawa Motoharu Fortified Residence Gardens\n吉川元春館跡庭園\nKikkawa Motoharu yakata ato teien	kikkawa|motoharu|fortified|residence|gardens|吉川元春館跡庭園|kikkawa|motoharu|yakata|ato|teien	Kikkawa|Motoharu|fortify|residence|garden|吉川元春館跡庭園|kikkawa|Motoharu|yakata|ato|teien	NNP|NNP|VBD|NN|NNS|NN|NN|NNP|NNP|NNP|NNP	PERSON|PERSON|O|O|O|O|PERSON|PERSON|PERSON|PERSON|PERSON	||||||||||				Kikkawa Motoharu Fortified Residence Gardens|吉川元春館跡庭園|Kikkawa Motoharu yakata ato teien
+0	1	fb:cell.kitahiroshima	Kitahiroshima	kitahiroshima	Kitahiroshima	NNP	PERSON					Kitahiroshima
+0	2	fb:cell.null										
+0	3	fb:cell.34_43_01_n_132_27_58_e_34_71697004_n_132_46599393_e	34°43′01″N 132°27′58″E﻿ / ﻿34.71697004°N 132.46599393°E	34|°|43|′|01|″|n|132|°|27|′|58|″|e|/|34.71697004|°|n|132.46599393|°|e	34|°|43|′|01|″|n|132|°|27|′|58|″|e|/|34.71697004|°|n|132.46599393|°|e	CD|NN|CD|NN|NN|NN|NN|CD|NN|CD|NN|CD|NN|NN|:|CD|NN|NN|CD|NN|NN	NUMBER|O|NUMBER|O|NUMBER|O|O|NUMBER|O|NUMBER|O|NUMBER|O|O|O|NUMBER|O|O|NUMBER|O|O	34.0||43.0||1.0|||132.0||27.0||58.0||||34.71697004|||132.46599393||	34.0		43.0	34°43′01″N 132°27′58″E﻿|﻿34.71697004°N 132.46599393°E
+0	4	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			1
+0	5	fb:cell._1	[1]	-lsb-|1|-rsb-	-lsb-|1|-rsb-	-LRB-|LS|-RRB-	O|NUMBER|O	|1.0|	1.0			
+1	0	fb:cell.former_mantoku_in_gardens_kyu_mantokuin_teien	Former Mantoku-in Gardens\n旧万徳院庭園\nkyū-Mantokuin teien	former|mantoku|in|gardens|旧万徳院庭園|kyū|mantokuin|teien	former|mantoku|in|garden|旧万徳院庭園|kyū|mantokuin|teien	JJ|NN|IN|NNS|NN|NN|NN|NN	O|O|O|O|O|O|O|O	|||||||				Former Mantoku-in Gardens|旧万徳院庭園|kyū-Mantokuin teien
+1	1	fb:cell.kitahiroshima	Kitahiroshima	kitahiroshima	Kitahiroshima	NNP	PERSON					Kitahiroshima
+1	2	fb:cell.null										
+1	3	fb:cell.34_43_27_n_132_28_22_e_34_72423174_n_132_47265069_e	34°43′27″N 132°28′22″E﻿ / ﻿34.72423174°N 132.47265069°E	34|°|43|′|27|″|n|132|°|28|′|22|″|e|/|34.72423174|°|n|132.47265069|°|e	34|°|43|′|27|″|n|132|°|28|′|22|″|e|/|34.72423174|°|n|132.47265069|°|e	CD|NN|CD|NN|CD|NN|NN|CD|NN|CD|NN|CD|NN|NN|:|CD|NN|NN|CD|NN|NN	NUMBER|O|NUMBER|O|NUMBER|O|O|NUMBER|O|NUMBER|O|NUMBER|O|O|O|NUMBER|O|O|NUMBER|O|O	34.0||43.0||27.0|||132.0||28.0||22.0||||34.72423174|||132.47265069||	34.0		43.0	34°43′27″N 132°28′22″E﻿|﻿34.72423174°N 132.47265069°E
+1	4	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			1
+1	5	fb:cell._2	[2]	-lsb-|2|-rsb-	-lsb-|2|-rsb-	-LRB-|LS|-RRB-	O|NUMBER|O	|2.0|	2.0			
+2	0	fb:cell._itsukushima_itsukushima	*Itsukushima\n厳島\nItsukushima	*|itsukushima|厳島|itsukushima	*|itsukushima|厳島|itsukushima	SYM|FW|FW|FW	O|MISC|MISC|MISC	|||				*Itsukushima|厳島|Itsukushima
+2	1	fb:cell.hatsukaichi	Hatsukaichi	hatsukaichi	Hatsukaichi	NNP	PERSON					Hatsukaichi
+2	2	fb:cell.also_a_special_historic_site_itsukushima_jinja_is_inscribed_on_the_unesco_world_heritage_list	also a Special Historic Site; Itsukushima Jinja is inscribed on the UNESCO World Heritage List	also|a|special|historic|site|;|itsukushima|jinja|is|inscribed|on|the|unesco|world|heritage|list	also|a|special|historic|site|;|Itsukushima|Jinja|be|inscribe|on|the|UNESCO|World|Heritage|list	RB|DT|JJ|JJ|NN|:|NNP|NNP|VBD-AUX|VBN|IN|DT|NNP|NNP|NNP|NN	O|O|O|O|O|O|LOCATION|LOCATION|O|O|O|O|ORGANIZATION|O|O|O	|||||||||||||||				
+2	3	fb:cell.34_16_16_n_132_18_22_e_34_27116774_n_132_30612348_e	34°16′16″N 132°18′22″E﻿ / ﻿34.27116774°N 132.30612348°E	34|°|16|′|16|″|n|132|°|18|′|22|″|e|/|34.27116774|°|n|132.30612348|°|e	34|°|16|′|16|″|n|132|°|18|′|22|″|e|/|34.27116774|°|n|132.30612348|°|e	CD|NN|CD|NN|CD|NN|NN|CD|NN|CD|NN|CD|NN|NN|:|CD|NN|NN|CD|NN|NN	NUMBER|O|NUMBER|O|NUMBER|O|O|NUMBER|O|NUMBER|O|NUMBER|O|O|O|NUMBER|O|O|NUMBER|O|O	34.0||16.0||16.0|||132.0||18.0||22.0||||34.27116774|||132.30612348||	34.0		16.0	34°16′16″N 132°18′22″E﻿|﻿34.27116774°N 132.30612348°E
+2	4	fb:cell.8	8	8	8	CD	NUMBER	8.0	8.0			8
+2	5	fb:cell._3	[3]	-lsb-|3|-rsb-	-lsb-|3|-rsb-	-LRB-|LS|-RRB-	O|NUMBER|O	|3.0|	3.0			
+3	0	fb:cell._sandan_kyo_sandan_kyo	*Sandan-kyō\n三段峡\nSandan-kyō	*|sandan|kyō|三段峡|sandan|kyō	*|sandan|kyō|三段峡|sandan|kyō	SYM|FW|FW|FW|FW|FW	O|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				*Sandan-kyō|三段峡|Sandan-kyō
+3	1	fb:cell.akiota_kitahiroshima	Akiōta/Kitahiroshima	akiōta|/|kitahiroshima	Akiōta|/|Kitahiroshima	NNP|:|NNP	LOCATION|O|O	||				Akiōta|Kitahiroshima
+3	2	fb:cell.null										
+3	3	fb:cell.34_36_57_n_132_11_44_e_34_61573328_n_132_19561853_e	34°36′57″N 132°11′44″E﻿ / ﻿34.61573328°N 132.19561853°E	34|°|36|′|57|″|n|132|°|11|′|44|″|e|/|34.61573328|°|n|132.19561853|°|e	34|°|36|′|57|″|n|132|°|11|′|44|″|e|/|34.61573328|°|n|132.19561853|°|e	CD|NN|CD|NN|CD|NN|NN|CD|NN|CD|NN|CD|NN|NN|:|CD|NN|NN|CD|NN|NN	NUMBER|O|NUMBER|O|NUMBER|O|O|NUMBER|O|NUMBER|O|NUMBER|O|O|O|NUMBER|O|O|NUMBER|O|O	34.0||36.0||57.0|||132.0||11.0||44.0||||34.61573328|||132.19561853||	34.0		36.0	34°36′57″N 132°11′44″E﻿|﻿34.61573328°N 132.19561853°E
+3	4	fb:cell.3_5_6	3, 5, 6	3|,|5|,|6	3|,|5|,|6	CD|,|CD|,|CD	NUMBER|O|NUMBER|O|NUMBER	3.0||5.0||6.0	356.0			3|5|6
+3	5	fb:cell._4	[4]	-lsb-|4|-rsb-	-lsb-|4|-rsb-	-LRB-|LS|-RRB-	O|NUMBER|O	|4.0|	4.0			
+4	0	fb:cell.shukkei_en_shukukei_en	Shukkei-en\n縮景園\nShukukei-en	shukkei|en|縮景園|shukukei|en	shukkei|en|縮景園|shukukei|en	FW|FW|FW|FW|FW	MISC|MISC|MISC|MISC|MISC	||||				Shukkei-en|縮景園|Shukukei-en
+4	1	fb:cell.hiroshima	Hiroshima	hiroshima	Hiroshima	NNP	PERSON					Hiroshima
+4	2	fb:cell.null										
+4	3	fb:cell.34_24_02_n_132_28_04_e_34_40050182_n_132_46770735_e	34°24′02″N 132°28′04″E﻿ / ﻿34.40050182°N 132.46770735°E	34|°|24|′|02|″|n|132|°|28|′|04|″|e|/|34.40050182|°|n|132.46770735|°|e	34|°|24|′|02|″|n|132|°|28|′|04|″|e|/|34.40050182|°|n|132.46770735|°|e	CD|NN|CD|NN|NN|NN|NN|CD|NN|CD|NN|NN|NN|NN|:|CD|NN|NN|CD|NN|NN	NUMBER|O|NUMBER|O|NUMBER|O|O|NUMBER|O|NUMBER|O|NUMBER|O|O|O|NUMBER|O|O|NUMBER|O|O	34.0||24.0||2.0|||132.0||28.0||4.0||||34.40050182|||132.46770735||	34.0		24.0	34°24′02″N 132°28′04″E﻿|﻿34.40050182°N 132.46770735°E
+4	4	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			1
+4	5	fb:cell._5	[5]	-lsb-|5|-rsb-	-lsb-|5|-rsb-	-LRB-|CD|-RRB-	O|NUMBER|O	|5.0|	5.0			
+5	0	fb:cell.jodo_ji_gardens_jodoji_teien	Jōdo-ji Gardens\n浄土寺庭園\nJōdoji teien	jōdo|ji|gardens|浄土寺庭園|jōdoji|teien	Jōdo|ji|Gardens|浄土寺庭園|jōdoji|teien	NNP|NNP|NNP|NN|NN|NN	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Jōdo-ji Gardens|浄土寺庭園|Jōdoji teien
+5	1	fb:cell.onomichi	Onomichi	onomichi	Onomichi	NNP	O					Onomichi
+5	2	fb:cell.null										
+5	3	fb:cell.34_24_44_n_133_12_36_e_34_41222952_n_133_21012266_e	34°24′44″N 133°12′36″E﻿ / ﻿34.41222952°N 133.21012266°E	34|°|24|′|44|″|n|133|°|12|′|36|″|e|/|34.41222952|°|n|133.21012266|°|e	34|°|24|′|44|″|n|133|°|12|′|36|″|e|/|34.41222952|°|n|133.21012266|°|e	CD|NN|CD|NN|CD|NN|NN|CD|NN|CD|NN|CD|NN|NN|:|CD|NN|NN|CD|NN|NN	NUMBER|O|NUMBER|O|NUMBER|O|O|NUMBER|O|NUMBER|O|NUMBER|O|O|O|NUMBER|O|O|NUMBER|O|O	34.0||24.0||44.0|||133.0||12.0||36.0||||34.41222952|||133.21012266||	34.0		24.0	34°24′44″N 133°12′36″E﻿|﻿34.41222952°N 133.21012266°E
+5	4	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			1
+5	5	fb:cell._6	[6]	-lsb-|6|-rsb-	-lsb-|6|-rsb-	-LRB-|CD|-RRB-	O|NUMBER|O	|6.0|	6.0			
+6	0	fb:cell.taishaku_kyo_taishaku_gawa_no_tani_taishaku_kyo	Taishaku-kyō\n帝釈川の谷 (帝釈峡)\nTaishaku-gawa no tani (Taishaku-kyō)	taishaku|kyō|帝釈川の谷|-lrb-|帝釈峡|-rrb-|taishaku|gawa|no|tani|-lrb-|taishaku|kyō|-rrb-	Taishaku|kyō|帝釈川の谷|-lrb-|帝釈峡|-rrb-|Taishaku|gawa|no|tani|-lrb-|Taishaku|kyō|-rrb-	NNP|NNP|NNP|-LRB-|NNP|-RRB-|NNP|NNP|DT|NNP|-LRB-|NNP|NNP|-RRB-	O|O|O|O|O|O|PERSON|PERSON|PERSON|PERSON|O|PERSON|PERSON|O	|||||||||||||				Taishaku-kyō|帝釈川の谷 (帝釈峡)|Taishaku-gawa no tani (Taishaku-kyō)
+6	1	fb:cell.shobara_jinsekikogen	Shōbara/Jinsekikōgen	shōbara|/|jinsekikōgen	shōbara|/|jinsekikōgen	NN|:|NN	LOCATION|O|LOCATION	||				Shōbara|Jinsekikōgen
+6	2	fb:cell.null										
+6	3	fb:cell.34_50_58_n_133_13_23_e_34_8493628_n_133_2231609_e	34°50′58″N 133°13′23″E﻿ / ﻿34.8493628°N 133.2231609°E	34|°|50|′|58|″|n|133|°|13|′|23|″|e|/|34.8493628|°|n|133.2231609|°|e	34|°|50|′|58|″|n|133|°|13|′|23|″|e|/|34.8493628|°|n|133.2231609|°|e	CD|NN|CD|NN|CD|NN|NN|CD|NN|CD|NN|CD|NN|NN|:|CD|NN|NN|CD|NN|NN	NUMBER|O|NUMBER|O|NUMBER|O|O|NUMBER|O|NUMBER|O|NUMBER|O|O|O|NUMBER|O|O|NUMBER|O|O	34.0||50.0||58.0|||133.0||13.0||23.0||||34.8493628|||133.2231609||	34.0		50.0	34°50′58″N 133°13′23″E﻿|﻿34.8493628°N 133.2231609°E
+6	4	fb:cell.5_6	5, 6	5|,|6	5|,|6	CD|,|CD	NUMBER|O|NUMBER	5.0||6.0	56.0			5|6
+6	5	fb:cell._7	[7]	-lsb-|7|-rsb-	-lsb-|7|-rsb-	-LRB-|CD|-RRB-	O|NUMBER|O	|7.0|	7.0			
+7	0	fb:cell.peace_memorial_park_heiwa_kinen_koen	Peace Memorial Park\n平和記念公園\nHeiwa kinen kōen	peace|memorial|park|平和記念公園|heiwa|kinen|kōen	peace|memorial|park|平和記念公園|Heiwa|kinen|kōen	NN|NN|NN|NN|NNP|NNP|NNP	O|O|O|O|PERSON|PERSON|PERSON	||||||				Peace Memorial Park|平和記念公園|Heiwa kinen kōen
+7	1	fb:cell.hiroshima	Hiroshima	hiroshima	Hiroshima	NNP	PERSON					Hiroshima
+7	2	fb:cell.the_hiroshima_peace_memorial_genbaku_dome_is_inscribed_on_the_unesco_world_heritage_list	the Hiroshima Peace Memorial (Genbaku Dome) is inscribed on the UNESCO World Heritage List	the|hiroshima|peace|memorial|-lrb-|genbaku|dome|-rrb-|is|inscribed|on|the|unesco|world|heritage|list	the|Hiroshima|peace|memorial|-lrb-|genbaku|dome|-rrb-|be|inscribe|on|the|UNESCO|World|Heritage|list	DT|NNP|NN|NN|-LRB-|NN|NN|-RRB-|VBD-AUX|VBN|IN|DT|NNP|NNP|NNP|NN	O|LOCATION|O|O|O|LOCATION|LOCATION|O|O|O|O|O|O|O|O|O	|||||||||||||||				
+7	3	fb:cell.34_23_34_n_132_27_09_e_34_39284707_n_132_45251203_e	34°23′34″N 132°27′09″E﻿ / ﻿34.39284707°N 132.45251203°E	34|°|23|′|34|″|n|132|°|27|′|09|″|e|/|34.39284707|°|n|132.45251203|°|e	34|°|23|′|34|″|n|132|°|27|′|09|″|e|/|34.39284707|°|n|132.45251203|°|e	CD|NN|CD|NN|CD|NN|NN|CD|NN|CD|NN|NN|NN|NN|:|CD|NN|NN|CD|NN|NN	NUMBER|O|NUMBER|O|NUMBER|O|O|NUMBER|O|NUMBER|O|NUMBER|O|O|O|NUMBER|O|O|NUMBER|O|O	34.0||23.0||34.0|||132.0||27.0||9.0||||34.39284707|||132.45251203||	34.0		23.0	34°23′34″N 132°27′09″E﻿|﻿34.39284707°N 132.45251203°E
+7	4	fb:cell.1	1	1	1	CD	NUMBER	1.0	1.0			1
+7	5	fb:cell._8	[8]	-lsb-|8|-rsb-	-lsb-|8|-rsb-	-LRB-|CD|-RRB-	O|NUMBER|O	|8.0|	8.0			
+8	0	fb:cell.tomo_park_tomo_koen	Tomo Park\n鞆公園\nTomo kōen	tomo|park|鞆公園|tomo|kōen	Tomo|Park|鞆公園|Tomo|kōen	NNP|NNP|NNP|NNP|NNP	O|O|O|O|O	||||				Tomo Park|鞆公園|Tomo kōen
+8	1	fb:cell.fukuyama	Fukuyama	fukuyama	Fukuyama	NNP	PERSON					Fukuyama
+8	2	fb:cell.null										
+8	3	fb:cell.34_23_01_n_133_23_48_e_34_3835209_n_133_39662133_e	34°23′01″N 133°23′48″E﻿ / ﻿34.3835209°N 133.39662133°E	34|°|23|′|01|″|n|133|°|23|′|48|″|e|/|34.3835209|°|n|133.39662133|°|e	34|°|23|′|01|″|n|133|°|23|′|48|″|e|/|34.3835209|°|n|133.39662133|°|e	CD|NN|CD|NN|NN|NN|NN|CD|NN|CD|NN|CD|NN|NN|:|CD|NN|NN|CD|NN|NN	NUMBER|O|NUMBER|O|NUMBER|O|O|NUMBER|O|NUMBER|O|NUMBER|O|O|O|NUMBER|O|O|NUMBER|O|O	34.0||23.0||1.0|||133.0||23.0||48.0||||34.3835209|||133.39662133||	34.0		23.0	34°23′01″N 133°23′48″E﻿|﻿34.3835209°N 133.39662133°E
+8	4	fb:cell.1_8	1, 8	1|,|8	1|,|8	CD|,|CD	NUMBER|O|NUMBER	1.0||8.0	18.0			1|8
+8	5	fb:cell._9	[9]	-lsb-|9|-rsb-	-lsb-|9|-rsb-	-LRB-|CD|-RRB-	O|NUMBER|O	|9.0|	9.0			

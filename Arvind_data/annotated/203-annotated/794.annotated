@@ -1,0 +1,254 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.location	Location	location	location	NN	O					
+-1	2	fb:row.row.attendance	Attendance	attendance	attendance	NN	O					
+-1	3	fb:row.row.theme_phrase	Theme phrase	theme|phrase	theme|phrase	NN|NN	O|O	|				
+-1	4	fb:row.row.top_messages	Top messages	top|messages	top|message	JJ|NNS	O|O	|				
+-1	5	fb:row.row.host	Host	host	host	NN	O					
+-1	6	fb:row.row.opening_general_session_guest_s	Opening General Session guest(s)	opening|general|session|guest|-lrb-|s|-rrb-	open|general|session|guest|-lrb-|s|-rrb-	VBG|JJ|NN|NN|-LRB-|NNS|-RRB-	O|O|O|O|O|O|O	||||||				
+-1	7	fb:row.row.closing_general_session_guest_s	Closing General Session guest(s)	closing|general|session|guest|-lrb-|s|-rrb-	close|general|session|guest|-lrb-|s|-rrb-	VBG|JJ|NN|NN|-LRB-|NNS|-RRB-	O|O|O|O|O|O|O	||||||				
+-1	8	fb:row.row.sunday_night_reception	Sunday night reception	sunday|night|reception	Sunday|night|reception	NNP|NNP|NN	TIME|TIME|O	XXXX-WXX-7TNI|XXXX-WXX-7TNI|				
+-1	9	fb:row.row.wednesday_night_party	Wednesday night party	wednesday|night|party	Wednesday|night|party	NNP|NNP|NNP	TIME|TIME|O	XXXX-WXX-3TNI|XXXX-WXX-3TNI|				
+-1	10	fb:row.row.cult_shirt	CULT shirt	cult|shirt	CULT|shirt	NNP|NN	O|O	|				
+0	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+0	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+0	2	fb:cell.2300	2300	2300	2300	CD	DATE	2300	2300.0	2300-xx-xx		
+0	3	fb:cell.working_together	Working Together	working|together	work|together	VBG|RB	O|O	|				Working Together
+0	4	fb:cell.null										
+0	5	fb:cell.don_bulens	Don Bulens	don|bulens	Don|Bulens	NNP|NNP	PERSON|PERSON	|				
+0	6	fb:cell.geoffrey_moore	Geoffrey Moore	geoffrey|moore	Geoffrey|Moore	NNP|NNP	PERSON|PERSON	|				Geoffrey Moore
+0	7	fb:cell.null										
+0	8	fb:cell.null										
+0	9	fb:cell.disney_mgm	Disney-MGM	disney|mgm	Disney|MGM	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Disney-MGM
+0	10	fb:cell.null										
+1	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+1	1	fb:cell.no_event	No Event	no|event	no|event	DT|NN	O|O	|				No Event
+1	2	fb:cell.null										
+1	3	fb:cell.null										
+1	4	fb:cell.null										
+1	5	fb:cell.null										
+1	6	fb:cell.null										
+1	7	fb:cell.null										
+1	8	fb:cell.null										
+1	9	fb:cell.null										
+1	10	fb:cell.null										
+2	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+2	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+2	2	fb:cell.null										
+2	3	fb:cell.the_right_event_the_right_solutions_right_now	The Right Event. The Right Solutions. Right Now.	the|right|event|.|the|right|solutions|.|right|now|.	the|right|event|.|the|right|solution|.|right|now|.	DT|JJ|NN|.|DT|JJ|NNS|.|RB|RB|.	O|O|O|O|O|O|O|O|DATE|DATE|O	||||||||PRESENT_REF|PRESENT_REF|				The Right Event. The Right Solutions. Right Now.
+2	4	fb:cell.null										
+2	5	fb:cell.null										
+2	6	fb:cell.null										
+2	7	fb:cell.null										
+2	8	fb:cell.null										
+2	9	fb:cell.disney_mgm	Disney-MGM	disney|mgm	Disney|MGM	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Disney-MGM
+2	10	fb:cell.null										
+3	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+3	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+3	2	fb:cell.null										
+3	3	fb:cell.release_the_power	Release The Power	release|the|power	release|the|power	VB|DT|NN	O|O|O	||				Release The Power
+3	4	fb:cell.notes_r4_work_the_web	Notes R4\nWork the Web	notes|r4|work|the|web	note|r4|work|the|web	NNS|CD|NN|DT|NN	O|NUMBER|O|O|O	|4.0|||	4.0			Notes R4|Work the Web
+3	5	fb:cell.null										
+3	6	fb:cell.none	None	none	none	NN	O					None
+3	7	fb:cell.cirque_du_soleil	Cirque du Soleil	cirque|du|soleil	Cirque|du|Soleil	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Cirque du Soleil
+3	8	fb:cell.null										
+3	9	fb:cell.universal_studios_florida_the_neville_brothers	Universal Studios Florida\nThe Neville Brothers	universal|studios|florida|the|neville|brothers	universal|studio|Florida|the|Neville|Brothers	JJ|NNS|NNP|DT|NNP|NNPS	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|PERSON|PERSON	|||||				Universal Studios Florida|The Neville Brothers
+3	10	fb:cell.null										
+4	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+4	1	fb:cell.nice_france	Nice, France	nice|,|france	nice|,|France	JJ|,|NNP	O|O|LOCATION	||				Nice|France
+4	2	fb:cell.null										
+4	3	fb:cell.pool_of_knowledge	Pool of Knowledge	pool|of|knowledge	pool|of|knowledge	NN|IN|NN	O|O|O	||				Pool of Knowledge
+4	4	fb:cell.don_t_compete_with_embrace_the_web_inotes_web_publisher_domino	Don't compete with, embrace the Web.\niNotes Web Publisher\nDomino	do|n't|compete|with|,|embrace|the|web|.|inotes|web|publisher|domino	do|not|compete|with|,|embrace|the|web|.|iNotes|web|publisher|domino	VBD-AUX|RB|VB|IN|,|VB|DT|NN|.|NNP|NN|NN|NN	O|O|O|O|O|O|O|O|O|O|O|O|PERSON	||||||||||||				Don't compete with|embrace the Web.|iNotes Web Publisher|Domino
+4	5	fb:cell.ray_ozzie	Ray Ozzie	ray|ozzie	Ray|Ozzie	NNP|NNP	PERSON|PERSON	|				
+4	6	fb:cell.avery_brooks	Avery Brooks	avery|brooks	Avery|Brooks	NNP|NNP	PERSON|PERSON	|				Avery Brooks
+4	7	fb:cell.null										
+4	8	fb:cell.null										
+4	9	fb:cell.magic_kingdom_the_doobie_brothers	Magic Kingdom\nThe Doobie Brothers	magic|kingdom|the|doobie|brothers	Magic|Kingdom|the|Doobie|Brothers	NNP|NNP|DT|NNP|NNPS	O|O|O|O|O	||||				Magic Kingdom|The Doobie Brothers
+4	10	fb:cell.null										
+5	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+5	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+5	2	fb:cell.null										
+5	3	fb:cell.cultivate_your_senses	Cultivate Your Senses	cultivate|your|senses	cultivate|you|sens	VB|PRP$|NNS	O|O|O	||				Cultivate Your Senses
+5	4	fb:cell.notes_r5	Notes R5	notes|r5	note|r5	NNS|NN	O|O	|	5.0			Notes R5
+5	5	fb:cell.steve_beckhardt	Steve Beckhardt (?)	steve|beckhardt|-lrb-|?|-rrb-	Steve|Beckhardt|-lrb-|?|-rrb-	NNP|NNP|-LRB-|.|-RRB-	PERSON|PERSON|O|O|O	||||				
+5	6	fb:cell.jamie_clark_alan_hobson	Jamie Clark\nAlan Hobson	jamie|clark|alan|hobson	Jamie|Clark|Alan|Hobson	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jamie Clark|Alan Hobson
+5	7	fb:cell.bill_nye	Bill Nye	bill|nye	Bill|Nye	NNP|NNP	PERSON|PERSON	|				Bill Nye
+5	8	fb:cell.null										
+5	9	fb:cell.disney_mgm_earth_wind_fire	Disney-MGM\nEarth, Wind & Fire	disney|mgm|earth|,|wind|&|fire	Disney|MGM|Earth|,|wind|&|fire	NNP|NNP|NNP|,|NN|CC|NN	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O|O	||||||				Disney-MGM|Earth|Wind & Fire
+5	10	fb:cell.null										
+6	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+6	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+6	2	fb:cell.null										
+6	3	fb:cell.lotus_a_part_of_every_solution	LOTUS: A Part of Every Solution	lotus|:|a|part|of|every|solution	LOTUS|:|a|part|of|every|solution	NNP|:|DT|NN|IN|DT|NN	O|O|O|O|O|O|O	||||||				LOTUS: A Part of Every Solution
+6	4	fb:cell.notes_r5_knowledge_management	Notes R5\nKnowledge Management	notes|r5|knowledge|management	note|r5|knowledge|management	NNS|NN|NN|NN	O|O|O|O	|||	5.0			Notes R5|Knowledge Management
+6	5	fb:cell.jeff_papows	Jeff Papows	jeff|papows	Jeff|Papows	NNP|NNP	PERSON|PERSON	|				
+6	6	fb:cell.jim_lovell_gene_krantz	Jim Lovell\nGene Krantz	jim|lovell|gene|krantz	Jim|Lovell|Gene|Krantz	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Jim Lovell|Gene Krantz
+6	7	fb:cell.marc_salem	Marc Salem	marc|salem	Marc|Salem	NNP|NNP	PERSON|PERSON	|				Marc Salem
+6	8	fb:cell.null										
+6	9	fb:cell.seaworld_the_pointer_sisters	SeaWorld\nThe Pointer Sisters	seaworld|the|pointer|sisters	SeaWorld|the|pointer|sister	NNP|DT|NN|NNS	O|O|O|O	|||				SeaWorld|The Pointer Sisters
+6	10	fb:cell.null										
+7	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+7	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+7	2	fb:cell.10000	10000	10000	10000	CD	NUMBER	10000.0	10000.0			
+7	3	fb:cell.looking_forward_forward_looking	Looking Forward/Forward Looking	looking|forward/forward|looking	look|forward/forward|look	VBG|JJ|VBG	O|O|O	||				Looking Forward|Forward Looking
+7	4	fb:cell.raven_domino_access_for_microsoft_outlook	Raven\nDomino Access for Microsoft Outlook	raven|domino|access|for|microsoft|outlook	raven|domino|access|for|Microsoft|outlook	NN|NN|NN|IN|NNP|NN	O|O|O|O|ORGANIZATION|O	|||||				Raven|Domino Access for Microsoft Outlook
+7	5	fb:cell.jeff_papows_al_zollar	Jeff Papows > Al Zollar	jeff|papows|>|al|zollar	Jeff|Papows|>|Al|Zollar	NNP|NNP|JJR|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON	||||				
+7	6	fb:cell.walter_cronkite	Walter Cronkite	walter|cronkite	Walter|Cronkite	NNP|NNP	PERSON|PERSON	|				Walter Cronkite
+7	7	fb:cell.the_raspyni_brothers	The Raspyni Brothers	the|raspyni|brothers	the|Raspyni|Brothers	DT|NNP|NNPS	O|O|O	||				The Raspyni Brothers
+7	8	fb:cell.null										
+7	9	fb:cell.universal_s_islands_of_adventure_chicago	Universal's Islands of Adventure\nChicago	universal|'s|islands|of|adventure|chicago	Universal|'s|island|of|adventure|Chicago	NNP|POS|NNS|IN|NN|NNP	O|O|O|O|O|LOCATION	|||||				Universal's Islands of Adventure|Chicago
+7	10	fb:cell.notes_world_order	Notes World Order	notes|world|order	note|world|order	NNS|NN|NN	O|O|O	||				
+8	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+8	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+8	2	fb:cell.10000	10000	10000	10000	CD	NUMBER	10000.0	10000.0			
+8	3	fb:cell.in_the_know	In The Know	in|the|know	in|the|Know	IN|DT|NNP	O|O|O	||				In The Know
+8	4	fb:cell.lotus_k_station_lotus_discovery_server	Lotus K-Station\nLotus Discovery Server	lotus|k|station|lotus|discovery|server	Lotus|K|Station|Lotus|Discovery|server	NNP|NNP|NNP|NNP|NNP|NN	ORGANIZATION|O|O|O|O|O	|||||				Lotus K-Station|Lotus Discovery Server
+8	5	fb:cell.al_zollar	Al Zollar	al|zollar	Al|Zollar	NNP|NNP	PERSON|PERSON	|				
+8	6	fb:cell.al_franken_francis_ford_coppola	Al Franken\nFrancis Ford Coppola	al|franken|francis|ford|coppola	Al|Franken|Francis|Ford|Coppola	NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON	||||				Al Franken|Francis Ford Coppola
+8	7	fb:cell.umbilical_brothers	Umbilical Brothers	umbilical|brothers	umbilical|brother	JJ|NNS	O|O	|				Umbilical Brothers
+8	8	fb:cell.null										
+8	9	fb:cell.disney_s_wide_world_of_sports_complex_brian_setzer_orchestra	Disney's Wide World of Sports Complex\nBrian Setzer Orchestra	disney|'s|wide|world|of|sports|complex|brian|setzer|orchestra	Disney|'s|wide|world|of|sport|complex|Brian|Setzer|Orchestra	NNP|POS|JJ|NN|IN|NNS|NN|NNP|NNP|NNP	ORGANIZATION|O|O|O|O|O|O|PERSON|PERSON|PERSON	|||||||||				Disney's Wide World of Sports Complex|Brian Setzer Orchestra
+8	10	fb:cell.domino_survivor	Domino Survivor	domino|survivor	domino|survivor	NN|NN	O|O	|				
+9	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+9	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+9	2	fb:cell.6000	6000	6000	6000	CD	NUMBER	6000.0	6000.0			
+9	3	fb:cell.proof_positive	Proof Positive	proof|positive	proof|positive	NN|JJ	O|O	|				Proof Positive
+9	4	fb:cell.notes_domino_6_lotus_software_brand_j2ee_two_lane_highway	Notes/Domino 6\n"Lotus Software" brand\nJ2EE\n"two-lane highway"	notes/domino|6|``|lotus|software|''|brand|j2ee|``|two|lane|highway|''	notes/domino|6|``|Lotus|Software|''|brand|j2ee|``|two|lane|highway|''	NN|CD|``|NNP|NNP|''|NN|NN|``|CD|NNP|NN|''	O|NUMBER|O|O|O|O|O|O|O|NUMBER|O|O|O	|6.0||||||||2.0|||	6.0		2.0	Notes|Domino 6|"Lotus Software" brand|J2EE|"two-lane highway"
+9	5	fb:cell.al_zollar	Al Zollar	al|zollar	Al|Zollar	NNP|NNP	PERSON|PERSON	|				
+9	6	fb:cell.ben_stein	Ben Stein	ben|stein	Ben|Stein	NNP|NNP	PERSON|PERSON	|				Ben Stein
+9	7	fb:cell.kevin_nealon	Kevin Nealon	kevin|nealon	Kevin|Nealon	NNP|NNP	PERSON|PERSON	|				Kevin Nealon
+9	8	fb:cell.null										
+9	9	fb:cell.disney_mgm	Disney-MGM	disney|mgm	Disney|MGM	NNP|NNP	ORGANIZATION|ORGANIZATION	|				Disney-MGM
+9	10	fb:cell.fellowship_of_the_domino_ring	Fellowship of the Domino Ring	fellowship|of|the|domino|ring	Fellowship|of|the|domino|ring	NNP|IN|DT|NN|NN	O|O|O|O|O	||||				
+10	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+10	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+10	2	fb:cell.null										
+10	3	fb:cell.the_essential_human_element	The Essential Human Element	the|essential|human|element	the|essential|human|element	DT|JJ|JJ|NN	O|O|O|O	|||				The Essential Human Element
+10	4	fb:cell.nextgen_db2	NextGen\nDB2	nextgen|db2	nextgen|db2	NN|NN	MISC|MISC	|	2.0			NextGen|DB2
+10	5	fb:cell.al_zollar_ambuj_goyal	Al Zollar > Ambuj Goyal	al|zollar|>|ambuj|goyal	Al|Zollar|>|ambuj|goyal	NNP|NNP|JJR|NN|NN	PERSON|PERSON|PERSON|PERSON|PERSON	||||				
+10	6	fb:cell.rudy_giuliani_bounce_dancers	Rudy Giuliani\nBounce (dancers)	rudy|giuliani|bounce|-lrb-|dancers|-rrb-	Rudy|Giuliani|bounce|-lrb-|dancer|-rrb-	NNP|NNP|NN|-LRB-|NNS|-RRB-	PERSON|PERSON|O|O|O|O	|||||				Rudy Giuliani|Bounce (dancers)
+10	7	fb:cell.dr_ronan_tynan	Dr. Ronan Tynan	dr.|ronan|tynan	Dr.|Ronan|Tynan	NNP|NNP|NNP	O|PERSON|PERSON	||				Dr. Ronan Tynan
+10	8	fb:cell.null										
+10	9	fb:cell.magic_kingdom	Magic Kingdom	magic|kingdom	Magic|Kingdom	NNP|NNP	O|O	|				Magic Kingdom
+10	10	fb:cell.just_us_league_collaboration_league	Just-Us League & Collaboration League	just|us|league|&|collaboration|league	just|we|League|&|collaboration|league	RB|PRP|NNP|CC|NN|NN	O|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||||				
+11	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+11	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+11	2	fb:cell.5273	5273	5273	5273	CD	NUMBER	5273.0	5273.0			
+11	3	fb:cell.the_workplace_for_innovation	The Workplace For Innovation	the|workplace|for|innovation	the|workplace|for|innovation	DT|NN|IN|NN	O|O|O|O	|||				The Workplace For Innovation
+11	4	fb:cell.null										
+11	5	fb:cell.ambuj_goyal	Ambuj Goyal	ambuj|goyal	Ambuj|Goyal	NNP|NNP	PERSON|PERSON	|				
+11	6	fb:cell.patrick_stewart	Patrick Stewart	patrick|stewart	Patrick|Stewart	NNP|NNP	PERSON|PERSON	|				Patrick Stewart
+11	7	fb:cell.richard_jeni	Richard Jeni	richard|jeni	Richard|Jeni	NNP|NNP	PERSON|PERSON	|				Richard Jeni
+11	8	fb:cell.null										
+11	9	fb:cell.universal_studios_florida	Universal Studios Florida	universal|studios|florida	universal|studio|Florida	JJ|NNS|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Universal Studios Florida
+11	10	fb:cell.cult_shirt_on_human	CULT SHIRT ON HUMAN	cult|shirt|on|human	CULT|shirt|on|human	NNP|NN|IN|JJ	O|O|O|O	|||				
+12	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+12	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+12	2	fb:cell.5800	5800	5800	5800	CD	NUMBER	5800.0	5800.0			
+12	3	fb:cell.envision_decisions	Envision Decisions	envision|decisions	envision|decision	VB|NNS	O|O	|				Envision Decisions
+12	4	fb:cell.notes_and_workplace_convergence	Notes and Workplace convergence	notes|and|workplace|convergence	note|and|workplace|convergence	NNS|CC|NN|NN	O|O|O|O	|||				Notes and Workplace convergence
+12	5	fb:cell.ambuj_goyal	Ambuj Goyal	ambuj|goyal	Ambuj|Goyal	NNP|NNP	PERSON|PERSON	|				
+12	6	fb:cell.john_cleese_ray_ozzie	John Cleese\nRay Ozzie	john|cleese|ray|ozzie	John|Cleese|Ray|Ozzie	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				John Cleese|Ray Ozzie
+12	7	fb:cell.steven_wright	Steven Wright	steven|wright	Steven|Wright	NNP|NNP	PERSON|PERSON	|				Steven Wright
+12	8	fb:cell.country_western	Country/Western	country/western	country/western	NN	O					Country|Western
+12	9	fb:cell.universal_s_islands_of_adventure	Universal's Islands of Adventure	universal|'s|islands|of|adventure	Universal|'s|island|of|adventure	NNP|POS|NNS|IN|NN	O|O|O|O|O	||||				Universal's Islands of Adventure
+12	10	fb:cell.zen_of_collaboration	Zen of Collaboration	zen|of|collaboration	zen|of|collaboration	NN|IN|NN	O|O|O	||				
+13	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+13	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+13	2	fb:cell.6000	6000	6000	6000	CD	NUMBER	6000.0	6000.0			
+13	3	fb:cell.futureinsight	FutureInSight	futureinsight	futureinsight	NN	O					FutureInSight
+13	4	fb:cell.workplace_activities_sametime_7_5	Workplace\nActivities\nSametime 7.5	workplace|activities|sametime|7.5	workplace|activity|sametime|7.5	NN|NNS|VBP|CD	O|O|O|NUMBER	|||7.5	7.5			Workplace|Activities|Sametime 7.5
+13	5	fb:cell.mike_rhodin	Mike Rhodin	mike|rhodin	Mike|Rhodin	NNP|NNP	PERSON|PERSON	|				
+13	6	fb:cell.jason_alexander	Jason Alexander	jason|alexander	Jason|Alexander	NNP|NNP	PERSON|PERSON	|				Jason Alexander
+13	7	fb:cell.jim_gaffigan	Jim Gaffigan	jim|gaffigan	Jim|Gaffigan	NNP|NNP	PERSON|PERSON	|				Jim Gaffigan
+13	8	fb:cell.poker_tables	Poker tables	poker|tables	Poker|table	NNP|NNS	O|O	|				Poker tables
+13	9	fb:cell.seaworld	SeaWorld	seaworld	SeaWorld	NNP	O					SeaWorld
+13	10	fb:cell.cult_man_group	CULT Man Group	cult|man|group	CULT|Man|Group	NNP|NNP|NNP	O|O|O	||				
+14	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+14	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+14	2	fb:cell.7000	7000	7000	7000	CD	NUMBER	7000.0	7000.0			
+14	3	fb:cell.it_revolves_around_you	IT Revolves Around You	it|revolves|around|you	it|revolve|around|you	PRP|VBZ|IN|PRP	O|O|O|O	|||				IT Revolves Around You
+14	4	fb:cell.notes_domino_8_notes_moving_to_eclipse_quickr_connections_save_the_notes_client_save_the_world	Notes/Domino 8\nNotes moving to Eclipse\nQuickr\nConnections\nSave The Notes Client, Save The World	notes/domino|8|notes|moving|to|eclipse|quickr|connections|save|the|notes|client|,|save|the|world	notes/domino|8|note|move|to|eclipse|quickr|connection|save|the|note|client|,|save|the|world	NN|CD|NNS|VBG|TO|VB|NN|NNS|VBP|DT|NNS|NN|,|VB|DT|NN	O|NUMBER|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|8.0||||||||||||||	8.0			Notes|Domino 8|Notes moving to Eclipse|Quickr|Connections|Save The Notes Client|Save The World
+14	5	fb:cell.mike_rhodin	Mike Rhodin	mike|rhodin	Mike|Rhodin	NNP|NNP	PERSON|PERSON	|				
+14	6	fb:cell.neil_armstrong_ultrasonic_rock_orchestra	Neil Armstrong\nUltrasonic Rock Orchestra	neil|armstrong|ultrasonic|rock|orchestra	Neil|Armstrong|ultrasonic|rock|orchestra	NNP|NNP|JJ|NN|NN	PERSON|PERSON|LOCATION|LOCATION|LOCATION	||||				Neil Armstrong|Ultrasonic Rock Orchestra
+14	7	fb:cell.dr_neil_degrasse_tyson	Dr. Neil deGrasse Tyson	dr.|neil|degrasse|tyson	Dr.|Neil|deGrasse|Tyson	NNP|NNP|NNP|NNP	O|PERSON|PERSON|PERSON	|||				Dr. Neil deGrasse Tyson
+14	8	fb:cell.null										
+14	9	fb:cell.disney_s_animal_kingdom	Disney's Animal Kingdom	disney|'s|animal|kingdom	Disney|'s|animal|kingdom	NNP|POS|NN|NN	ORGANIZATION|O|O|O	|||				Disney's Animal Kingdom
+14	10	fb:cell.i_am	I AM _____	i|am|_____	I|be|_____	PRP|VBD-AUX|NN	O|O|O	||				
+15	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+15	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+15	2	fb:cell.7000_2	7000+	7000|+	7000|+	CD|CC	NUMBER|O	7000.0|	7000.0			
+15	3	fb:cell.emergence	Emergence	emergence	emergence	NN	O					Emergence
+15	4	fb:cell.notes_domino_8_01_8_5_domino_designer_in_eclipse_lotus_mashups_lotus_foundations_lotus_bluehouse_lotus_symphony	Notes/Domino 8.01, 8.5\nDomino Designer in Eclipse\nLotus Mashups\nLotus Foundations\nLotus "Bluehouse"\nLotus Symphony	notes/domino|8.01|,|8.5|domino|designer|in|eclipse|lotus|mashups|lotus|foundations|lotus|``|bluehouse|''|lotus|symphony	notes/domino|8.01|,|8.5|domino|designer|in|Eclipse|Lotus|Mashups|Lotus|foundation|Lotus|``|Bluehouse|''|Lotus|Symphony	NN|CD|,|CD|NN|NN|IN|NNP|NNP|NNP|NNP|NNS|NNP|``|NNP|''|NNP|NNP	O|NUMBER|O|NUMBER|O|O|O|O|O|O|O|O|O|O|O|O|O|O	|8.01||8.5||||||||||||||	8.01		8.5	Notes|Domino 8.01|8.5|Domino Designer in Eclipse|Lotus Mashups|Lotus Foundations|Lotus "Bluehouse"|Lotus Symphony
+15	5	fb:cell.mike_rhodin	Mike Rhodin	mike|rhodin	Mike|Rhodin	NNP|NNP	PERSON|PERSON	|				
+15	6	fb:cell.bob_costas_orlando_symphony_orchestra	Bob Costas\nOrlando Symphony Orchestra	bob|costas|orlando|symphony|orchestra	Bob|Costas|Orlando|Symphony|Orchestra	NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON	||||				Bob Costas|Orlando Symphony Orchestra
+15	7	fb:cell.alton_brown	Alton Brown	alton|brown	Alton|Brown	NNP|NNP	PERSON|PERSON	|				Alton Brown
+15	8	fb:cell.beach_party	Beach Party	beach|party	Beach|Party	NNP|NNP	O|O	|				Beach Party
+15	9	fb:cell.universal_s_islands_of_adventure	Universal's Islands of Adventure	universal|'s|islands|of|adventure	Universal|'s|island|of|adventure	NNP|POS|NNS|IN|NN	O|O|O|O|O	||||				Universal's Islands of Adventure
+15	10	fb:cell.pirates_of_collaboration	Pirates of Collaboration	pirates|of|collaboration	pirate|of|collaboration	NNS|IN|NN	O|O|O	||				
+16	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+16	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+16	2	fb:cell.null										
+16	3	fb:cell.resonance	Resonance	resonance	resonance	NN	O					Resonance
+16	4	fb:cell.lotuslive_lotus_notes_8_5_for_mac_alloy_sap_lotus_notes_xpages_daos_id_vault	LotusLive\nLotus Notes 8.5 for Mac\nAlloy (SAP + Lotus Notes)\nxPages\nDAOS\nID-vault	lotuslive|lotus|notes|8.5|for|mac|alloy|-lrb-|sap|+|lotus|notes|-rrb-|xpages|daos|id|vault	LotusLive|Lotus|note|8.5|for|Mac|alloy|-lrb-|sap|+|Lotus|note|-rrb-|xpage|dao|id|vault	NNP|NNP|VBZ|CD|IN|NNP|NN|-LRB-|NN|CC|NNP|NNS|-RRB-|VBZ|NNS|NN|NN	O|O|O|NUMBER|O|ORGANIZATION|ORGANIZATION|O|ORGANIZATION|O|O|O|O|O|O|O|O	|||8.5|||||||||||||	8.5			LotusLive|Lotus Notes 8.5 for Mac|Alloy (SAP + Lotus Notes)|xPages|DAOS|ID-vault
+16	5	fb:cell.bob_picciano	Bob Picciano	bob|picciano	Bob|Picciano	NNP|NNP	PERSON|PERSON	|				
+16	6	fb:cell.dan_aykroyd_blue_man_group	Dan Aykroyd\nBlue Man Group	dan|aykroyd|blue|man|group	Dan|Aykroyd|Blue|Man|Group	NNP|NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				Dan Aykroyd|Blue Man Group
+16	7	fb:cell.benjamin_zander	Benjamin Zander	benjamin|zander	Benjamin|Zander	NNP|NNP	PERSON|PERSON	|				Benjamin Zander
+16	8	fb:cell.null										
+16	9	fb:cell.universal_studios	Universal Studios	universal|studios	universal|studio	JJ|NNS	ORGANIZATION|ORGANIZATION	|				Universal Studios
+16	10	fb:cell.null										
+17	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+17	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+17	2	fb:cell.null										
+17	3	fb:cell.lotus_knows_why_lotus_knows_how	Lotus knows why. Lotus knows how.	lotus|knows|why|.|lotus|knows|how|.	Lotus|know|why|.|Lotus|know|how|.	NNP|VBZ|WRB|.|NNP|VBZ|WRB|.	ORGANIZATION|O|O|O|ORGANIZATION|O|O|O	|||||||				Lotus knows why. Lotus knows how.
+17	4	fb:cell.null										
+17	5	fb:cell.bob_picciano_alistair_rennie	Bob Picciano > Alistair Rennie	bob|picciano|>|alistair|rennie	Bob|Picciano|>|Alistair|Rennie	NNP|NNP|JJR|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				
+17	6	fb:cell.william_shatner_nuttin_but_stringz	William Shatner\nNuttin' But Stringz	william|shatner|nuttin|'|but|stringz	William|Shatner|Nuttin|'|but|Stringz	NNP|NNP|NNP|POS|CC|NNP	PERSON|PERSON|PERSON|O|O|PERSON	|||||				William Shatner|Nuttin' But Stringz
+17	7	fb:cell.brian_cox_physicist	Brian Cox (physicist)	brian|cox|-lrb-|physicist|-rrb-	Brian|Cox|-lrb-|physicist|-rrb-	NNP|NNP|-LRB-|NN|-RRB-	PERSON|PERSON|O|O|O	||||				Brian Cox (physicist)
+17	8	fb:cell.null										
+17	9	fb:cell.hollywood_studios	Hollywood Studios	hollywood|studios	Hollywood|Studios	NNP|NNPS	LOCATION|O	|				Hollywood Studios
+17	10	fb:cell.null										
+18	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+18	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+18	2	fb:cell.null										
+18	3	fb:cell.get_social_do_business	Get Social. Do Business.	get|social|.|do|business|.	get|Social|.|do|business|.	VB|NNP|.|VBD-AUX|NN|.	O|O|O|O|O|O	|||||				Get Social. Do Business.
+18	4	fb:cell.null										
+18	5	fb:cell.alistair_rennie	Alistair Rennie	alistair|rennie	Alistair|Rennie	NNP|NNP	PERSON|PERSON	|				
+18	6	fb:cell.kevin_spacey_mass_ensemble	Kevin Spacey\nMass Ensemble	kevin|spacey|mass|ensemble	Kevin|Spacey|Mass|ensemble	NNP|NNP|NNP|NN	PERSON|PERSON|O|O	|||				Kevin Spacey|Mass Ensemble
+18	7	fb:cell.watson	Watson	watson	Watson	NNP	PERSON					Watson
+18	8	fb:cell.null										
+18	9	fb:cell.wizarding_world_of_harry_potter_islands_of_adventure	Wizarding World of Harry Potter, Islands of Adventure	wizarding|world|of|harry|potter|,|islands|of|adventure	wizard|world|of|Harry|Potter|,|Islands|of|adventure	VBG|NN|IN|NNP|NNP|,|NNP|IN|NN	O|O|O|PERSON|PERSON|O|O|O|O	||||||||				Wizarding World of Harry Potter|Islands of Adventure
+18	10	fb:cell.null										
+19	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+19	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+19	2	fb:cell.null										
+19	3	fb:cell.business_made_social	Business. Made Social.	business|.|made|social|.	business|.|make|social|.	NN|.|VBN|JJ|.	O|O|O|O|O	||||				Business. Made Social.
+19	4	fb:cell.null										
+19	5	fb:cell.alistair_rennie	Alistair Rennie	alistair|rennie	Alistair|Rennie	NNP|NNP	PERSON|PERSON	|				
+19	6	fb:cell.michael_j_fox_ok_go	Michael J. Fox\nOK Go	michael|j.|fox|ok|go	Michael|J.|Fox|ok|go	NNP|NNP|NNP|JJ|NN	PERSON|PERSON|PERSON|O|O	||||				Michael J. Fox|OK Go
+19	7	fb:cell.andrew_zimmern	Andrew Zimmern	andrew|zimmern	Andrew|Zimmern	NNP|NNP	PERSON|PERSON	|				Andrew Zimmern
+19	8	fb:cell.null										
+19	9	fb:cell.seaworld	SeaWorld	seaworld	SeaWorld	NNP	O					SeaWorld
+19	10	fb:cell.no_cult_shirt	No CULT Shirt	no|cult|shirt	no|cult|shirt	DT|NN|NN	O|O|O	||				
+20	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+20	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+20	2	fb:cell.null										
+20	3	fb:cell.get_social_do_business	Get Social. Do Business.	get|social|.|do|business|.	get|Social|.|do|business|.	VB|NNP|.|VBD-AUX|NN|.	O|O|O|O|O|O	|||||				Get Social. Do Business.
+20	4	fb:cell.null										
+20	5	fb:cell.alistair_rennie	Alistair Rennie	alistair|rennie	Alistair|Rennie	NNP|NNP	PERSON|PERSON	|				
+20	6	fb:cell.joe_gordon_levitt_they_might_be_giants	Joe Gordon-Levitt\nThey Might Be Giants	joe|gordon|levitt|they|might|be|giants	Joe|Gordon|Levitt|they|might|be|Giants	NNP|NNP|NNP|PRP|VBD-AUX|VBD-AUX|NNPS	PERSON|PERSON|PERSON|O|O|O|O	||||||				Joe Gordon-Levitt|They Might Be Giants
+20	7	fb:cell.steven_strogatz_john_hodgman	Steven Strogatz\nJohn Hodgman	steven|strogatz|john|hodgman	Steven|Strogatz|John|Hodgman	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Steven Strogatz|John Hodgman
+20	8	fb:cell.null										
+20	9	fb:cell.universal_studios_florida	Universal Studios Florida	universal|studios|florida	universal|studio|Florida	JJ|NNS|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Universal Studios Florida
+20	10	fb:cell.no_cult_shirt	No CULT Shirt	no|cult|shirt	no|cult|shirt	DT|NN|NN	O|O|O	||				
+21	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+21	1	fb:cell.orlando	Orlando	orlando	Orlando	NNP	LOCATION					Orlando
+21	2	fb:cell.null										
+21	3	fb:cell.energizing_life_s_work	Energizing Life's work.	energizing|life|'s|work|.	energize|life|'s|work|.	VBG|NN|POS|NN|.	O|O|O|O|O	||||				Energizing Life's work.
+21	4	fb:cell.null										
+21	5	fb:cell.craig_hayman	Craig Hayman	craig|hayman	Craig|Hayman	NNP|NNP	PERSON|PERSON	|				
+21	6	fb:cell.seth_meyers_american_authors	Seth Meyers\nAmerican Authors	seth|meyers|american|authors	Seth|Meyers|American|author	NNP|NNP|NNP|NNS	PERSON|PERSON|O|O	|||				Seth Meyers|American Authors
+21	7	fb:cell.dave_lavery	Dave Lavery	dave|lavery	Dave|Lavery	NNP|NNP	PERSON|PERSON	|				Dave Lavery
+21	8	fb:cell.null										
+21	9	fb:cell.hollywood_studios	Hollywood Studios	hollywood|studios	Hollywood|Studios	NNP|NNPS	LOCATION|O	|				Hollywood Studios
+21	10	fb:cell.no_cult_shirt	No CULT Shirt	no|cult|shirt	no|cult|shirt	DT|NN|NN	O|O|O	||				

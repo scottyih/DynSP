@@ -1,0 +1,96 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.award	Award	award	award	NN	O					
+-1	2	fb:row.row.category	Category	category	category	NN	O					
+-1	3	fb:row.row.nominated_work	Nominated work	nominated|work	nominate|work	VBN|NN	O|O	|				
+-1	4	fb:row.row.result	Result	result	result	NN	O					
+0	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+0	1	fb:cell.mbc_drama_awards	MBC Drama Awards	mbc|drama|awards	mbc|drama|award	NN|NN|NNS	ORGANIZATION|O|O	||				
+0	2	fb:cell.best_new_actor	Best New Actor	best|new|actor	best|new|actor	JJS|JJ|NN	O|O|O	||				Best New Actor
+0	3	fb:cell.be_strong_geum_soon	Be Strong, Geum-soon!	be|strong|,|geum|soon|!	be|strong|,|geum|soon|!	VBD-AUX|JJ|,|NN|RB|.	O|O|O|O|O|O	|||||				Be Strong|Geum-soon!
+0	4	fb:cell.won	Won	won	Won	NNP	O					
+1	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+1	1	fb:cell.mbc_drama_awards	MBC Drama Awards	mbc|drama|awards	mbc|drama|award	NN|NN|NNS	ORGANIZATION|O|O	||				
+1	2	fb:cell.excellence_award_actor	Excellence Award, Actor	excellence|award|,|actor	excellence|award|,|actor	NN|NN|,|NN	O|O|O|O	|||				Excellence Award|Actor
+1	3	fb:cell.be_strong_geum_soon	Be Strong, Geum-soon!	be|strong|,|geum|soon|!	be|strong|,|geum|soon|!	VBD-AUX|JJ|,|NN|RB|.	O|O|O|O|O|O	|||||				Be Strong|Geum-soon!
+1	4	fb:cell.won	Won	won	Won	NNP	O					
+2	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+2	1	fb:cell.kbs_drama_awards	KBS Drama Awards	kbs|drama|awards	KBS|drama|award	NNP|NN|NNS	ORGANIZATION|O|O	||				
+2	2	fb:cell.best_couple_award_with_han_ji_min	Best Couple Award with Han Ji-min	best|couple|award|with|han|ji|min	best|couple|award|with|Han|Ji|min	JJS|NN|NN|IN|NNP|NNP|NN	O|O|O|O|PERSON|PERSON|PERSON	||||||				Best Couple Award with Han Ji-min
+2	3	fb:cell.capital_scandal	Capital Scandal	capital|scandal	capital|scandal	NN|NN	O|O	|				Capital Scandal
+2	4	fb:cell.won	Won	won	Won	NNP	O					
+3	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+3	1	fb:cell.kbs_drama_awards	KBS Drama Awards	kbs|drama|awards	KBS|drama|award	NNP|NN|NNS	ORGANIZATION|O|O	||				
+3	2	fb:cell.excellence_award_actor_in_a_miniseries	Excellence Award, Actor in a Miniseries	excellence|award|,|actor|in|a|miniseries	excellence|award|,|actor|in|a|miniseries	NN|NN|,|NN|IN|DT|NN	O|O|O|O|O|O|O	||||||				Excellence Award|Actor in a Miniseries
+3	3	fb:cell.capital_scandal	Capital Scandal	capital|scandal	capital|scandal	NN|NN	O|O	|				Capital Scandal
+3	4	fb:cell.won	Won	won	Won	NNP	O					
+4	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+4	1	fb:cell.44th_baeksang_arts_awards	44th Baeksang Arts Awards	44th|baeksang|arts|awards	44th|baeksang|art|award	JJ|NN|NNS|NNS	ORDINAL|O|O|O	44.0|||	44.0			
+4	2	fb:cell.popularity_award	Popularity Award	popularity|award	popularity|award	NN|NN	O|O	|				Popularity Award
+4	3	fb:cell.hong_gil_dong	Hong Gil-dong	hong|gil|dong	Hong|Gil|dong	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Hong Gil-dong
+4	4	fb:cell.won	Won	won	Won	NNP	O					
+5	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+5	1	fb:cell.28th_korean_association_of_film_critics_awards	28th Korean Association of Film Critics Awards	28th|korean|association|of|film|critics|awards	28th|korean|association|of|film|critic|award	JJ|JJ|NN|IN|NN|NNS|NNS	ORDINAL|MISC|O|O|O|O|O	28.0||||||	28.0			
+5	2	fb:cell.best_new_actor	Best New Actor	best|new|actor	best|new|actor	JJS|JJ|NN	O|O|O	||				Best New Actor
+5	3	fb:cell.rough_cut	Rough Cut	rough|cut	rough|cut	JJ|NN	O|O	|				Rough Cut
+5	4	fb:cell.won	Won	won	Won	NNP	O					
+6	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+6	1	fb:cell.29th_blue_dragon_film_awards	29th Blue Dragon Film Awards	29th|blue|dragon|film|awards	29th|blue|Dragon|film|award	JJ|JJ|NNP|NN|NNS	ORDINAL|O|O|O|O	29.0||||	29.0			
+6	2	fb:cell.best_new_actor	Best New Actor	best|new|actor	best|new|actor	JJS|JJ|NN	O|O|O	||				Best New Actor
+6	3	fb:cell.rough_cut	Rough Cut	rough|cut	rough|cut	JJ|NN	O|O	|				Rough Cut
+6	4	fb:cell.won	Won	won	Won	NNP	O					
+7	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+7	1	fb:cell.7th_korean_film_awards	7th Korean Film Awards	7th|korean|film|awards	7th|korean|film|award	JJ|JJ|NN|NNS	ORDINAL|ORGANIZATION|ORGANIZATION|ORGANIZATION	7.0|||	7.0			
+7	2	fb:cell.best_new_actor	Best New Actor	best|new|actor	best|new|actor	JJS|JJ|NN	O|O|O	||				Best New Actor
+7	3	fb:cell.rough_cut	Rough Cut	rough|cut	rough|cut	JJ|NN	O|O	|				Rough Cut
+7	4	fb:cell.won	Won	won	Won	NNP	O					
+8	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+8	1	fb:cell.kbs_drama_awards	KBS Drama Awards	kbs|drama|awards	KBS|drama|award	NNP|NN|NNS	ORGANIZATION|O|O	||				
+8	2	fb:cell.best_couple_award_with_sung_yu_ri	Best Couple Award with Sung Yu-ri	best|couple|award|with|sung|yu|ri	best|couple|award|with|Sung|Yu|rus	JJS|NN|NN|IN|NNP|NNP|NN	O|O|O|O|PERSON|PERSON|PERSON	||||||				Best Couple Award with Sung Yu-ri
+8	3	fb:cell.hong_gil_dong	Hong Gil-dong	hong|gil|dong	Hong|Gil|dong	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Hong Gil-dong
+8	4	fb:cell.won	Won	won	Won	NNP	O					
+9	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+9	1	fb:cell.kbs_drama_awards	KBS Drama Awards	kbs|drama|awards	KBS|drama|award	NNP|NN|NNS	ORGANIZATION|O|O	||				
+9	2	fb:cell.netizen_award	Netizen Award	netizen|award	Netizen|award	NNP|NN	O|O	|				Netizen Award
+9	3	fb:cell.hong_gil_dong	Hong Gil-dong	hong|gil|dong	Hong|Gil|dong	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Hong Gil-dong
+9	4	fb:cell.won	Won	won	Won	NNP	O					
+10	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+10	1	fb:cell.45th_baeksang_arts_awards	45th Baeksang Arts Awards	45th|baeksang|arts|awards	45th|baeksang|art|award	JJ|NN|NNS|NNS	ORDINAL|O|O|O	45.0|||	45.0			
+10	2	fb:cell.best_new_actor	Best New Actor	best|new|actor	best|new|actor	JJS|JJ|NN	O|O|O	||				Best New Actor
+10	3	fb:cell.rough_cut	Rough Cut	rough|cut	rough|cut	JJ|NN	O|O	|				Rough Cut
+10	4	fb:cell.won	Won	won	Won	NNP	O					
+11	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+11	1	fb:cell.10th_pusan_film_critics_awards	10th Pusan Film Critics Awards	10th|pusan|film|critics|awards	10th|Pusan|film|critic|award	JJ|NNP|NN|NNS|NNS	ORDINAL|O|O|O|O	10.0||||	10.0			
+11	2	fb:cell.best_new_actor	Best New Actor	best|new|actor	best|new|actor	JJS|JJ|NN	O|O|O	||				Best New Actor
+11	3	fb:cell.rough_cut	Rough Cut	rough|cut	rough|cut	JJ|NN	O|O	|				Rough Cut
+11	4	fb:cell.won	Won	won	Won	NNP	O					
+12	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+12	1	fb:cell.46th_grand_bell_awards	46th Grand Bell Awards	46th|grand|bell|awards	46th|Grand|Bell|award	JJ|NNP|NNP|NNS	ORDINAL|O|O|O	46.0|||	46.0			
+12	2	fb:cell.best_new_actor	Best New Actor	best|new|actor	best|new|actor	JJS|JJ|NN	O|O|O	||				Best New Actor
+12	3	fb:cell.my_girlfriend_is_an_agent	My Girlfriend Is an Agent	my|girlfriend|is|an|agent	my|girlfriend|be|a|agent	PRP$|NN|VBD-AUX|DT|NN	O|O|O|O|O	||||				My Girlfriend Is an Agent
+12	4	fb:cell.won	Won	won	Won	NNP	O					
+13	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+13	1	fb:cell.5th_university_film_festival_of_korea	5th University Film Festival of Korea	5th|university|film|festival|of|korea	5th|university|film|festival|of|Korea	JJ|NN|NN|NN|IN|NNP	ORDINAL|O|O|O|O|LOCATION	5.0|||||	5.0			
+13	2	fb:cell.best_new_actor	Best New Actor	best|new|actor	best|new|actor	JJS|JJ|NN	O|O|O	||				Best New Actor
+13	3	fb:cell.my_girlfriend_is_an_agent	My Girlfriend Is an Agent	my|girlfriend|is|an|agent	my|girlfriend|be|a|agent	PRP$|NN|VBD-AUX|DT|NN	O|O|O|O|O	||||				My Girlfriend Is an Agent
+13	4	fb:cell.won	Won	won	Won	NNP	O					
+14	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+14	1	fb:cell.6th_seoul_international_drama_awards	6th Seoul International Drama Awards	6th|seoul|international|drama|awards	6th|Seoul|International|drama|award	JJ|NNP|NNP|NN|NNS	ORDINAL|O|O|O|O	6.0||||	6.0			
+14	2	fb:cell.outstanding_korean_actor	Outstanding Korean Actor	outstanding|korean|actor	outstanding|korean|actor	JJ|JJ|NN	O|MISC|O	||				Outstanding Korean Actor
+14	3	fb:cell.coffee_house	Coffee House	coffee|house	Coffee|House	NNP|NNP	O|O	|				Coffee House
+14	4	fb:cell.nominated	Nominated	nominated	nominate	VBN	O					
+15	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+15	1	fb:cell.sbs_drama_awards	SBS Drama Awards	sbs|drama|awards	SBS|drama|award	NNP|NN|NNS	ORGANIZATION|O|O	||				
+15	2	fb:cell.excellence_award_actor_in_a_special_planning_drama	Excellence Award, Actor in a Special Planning Drama	excellence|award|,|actor|in|a|special|planning|drama	excellence|award|,|actor|in|a|special|planning|drama	NN|NN|,|NN|IN|DT|JJ|NN|NN	O|O|O|O|O|O|O|O|O	||||||||				Excellence Award|Actor in a Special Planning Drama
+15	3	fb:cell.lie_to_me	Lie to Me	lie|to|me	lie|to|I	VB|TO|PRP	O|O|O	||				Lie to Me
+15	4	fb:cell.nominated	Nominated	nominated	nominate	VBN	O					
+16	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+16	1	fb:cell.sbs_drama_awards	SBS Drama Awards	sbs|drama|awards	SBS|drama|award	NNP|NN|NNS	ORGANIZATION|O|O	||				
+16	2	fb:cell.top_excellence_award_actor_in_a_drama_special	Top Excellence Award, Actor in a Drama Special	top|excellence|award|,|actor|in|a|drama|special	top|excellence|award|,|actor|in|a|drama|special	JJ|NN|NN|,|NN|IN|DT|NN|JJ	O|O|O|O|O|O|O|O|O	||||||||				Top Excellence Award|Actor in a Drama Special
+16	3	fb:cell.incarnation_of_money	Incarnation of Money	incarnation|of|money	incarnation|of|money	NN|IN|NN	O|O|O	||				Incarnation of Money
+16	4	fb:cell.nominated	Nominated	nominated	nominate	VBN	O					
+17	0	fb:cell.2014	2014	2014	2014	CD	DATE	2014	2014.0	2014-xx-xx		
+17	1	fb:cell.9th_asia_model_festival_awards	9th Asia Model Festival Awards	9th|asia|model|festival|awards	9th|Asia|Model|Festival|award	JJ|NNP|NNP|NNP|NNS	ORDINAL|O|O|O|O	9.0||||	9.0			
+17	2	fb:cell.asia_star_award	Asia Star Award	asia|star|award	Asia|Star|award	NNP|NNP|NN	LOCATION|O|O	||				Asia Star Award
+17	3	fb:cell.n_a	N/A	n/a	N/A	NNP	O					N|A
+17	4	fb:cell.won	Won	won	Won	NNP	O					

@@ -1,0 +1,196 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.medal	Medal	medal	medal	NN	O					
+-1	1	fb:row.row.name	Name	name	name	NN	O					
+-1	2	fb:row.row.sport	Sport	sport	sport	NN	O					
+-1	3	fb:row.row.event	Event	event	event	NN	O					
+-1	4	fb:row.row.date	Date	date	date	NN	O					
+0	0	fb:cell.gold	Gold	gold	gold	NN	O					
+0	1	fb:cell.brahim_asloum	Brahim Asloum	brahim|asloum	Brahim|Asloum	NNP|NNP	PERSON|PERSON	|				Brahim Asloum
+0	2	fb:cell.boxing	Boxing	boxing	Boxing	NNP	O					
+0	3	fb:cell.light_flyweight	Light Flyweight	light|flyweight	light|flyweight	JJ|NN	O|O	|				
+0	4	fb:cell.september_30	September 30	september|30	September|30	NNP|CD	DATE|DATE	XXXX-09-30|XXXX-09-30	30.0	xxxx-09-30		
+1	0	fb:cell.gold	Gold	gold	gold	NN	O					
+1	1	fb:cell.tony_estanguet	Tony Estanguet	tony|estanguet	Tony|Estanguet	NNP|NNP	PERSON|PERSON	|				Tony Estanguet
+1	2	fb:cell.canoeing	Canoeing	canoeing	canoeing	NN	O					
+1	3	fb:cell.men_s_slalom_c_1	Men's slalom C-1	men|'s|slalom|c-1	man|'s|slalom|c-1	NNS|POS|NN|NN	O|O|O|O	|||	1.0			
+1	4	fb:cell.september_18	September 18	september|18	September|18	NNP|CD	DATE|DATE	XXXX-09-18|XXXX-09-18	18.0	xxxx-09-18		
+2	0	fb:cell.gold	Gold	gold	gold	NN	O					
+2	1	fb:cell.florian_rousseau	Florian Rousseau	florian|rousseau	Florian|Rousseau	NNP|NNP	PERSON|PERSON	|				Florian Rousseau
+2	2	fb:cell.cycling	Cycling	cycling	cycling	NN	O					
+2	3	fb:cell.men_s_keirin	Men's Keirin	men|'s|keirin	man|'s|keirin	NNS|POS|NN	O|O|O	||				
+2	4	fb:cell.september_21	September 21	september|21	September|21	NNP|CD	DATE|DATE	XXXX-09-21|XXXX-09-21	21.0	xxxx-09-21		
+3	0	fb:cell.gold	Gold	gold	gold	NN	O					
+3	1	fb:cell.florian_rousseau_laurent_gane_arnaud_tournant	Florian Rousseau, Laurent Gané, Arnaud Tournant	florian|rousseau|,|laurent|gané|,|arnaud|tournant	Florian|Rousseau|,|Laurent|Gané|,|Arnaud|Tournant	NNP|NNP|,|NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON|O|PERSON|PERSON	|||||||				Florian Rousseau|Laurent Gané|Arnaud Tournant
+3	2	fb:cell.cycling	Cycling	cycling	cycling	NN	O					
+3	3	fb:cell.men_s_team_sprint	Men's team sprint	men|'s|team|sprint	man|'s|team|sprint	NNS|POS|NN|NNP	O|O|O|O	|||				
+3	4	fb:cell.september_17	September 17	september|17	September|17	NNP|CD	DATE|DATE	XXXX-09-17|XXXX-09-17	17.0	xxxx-09-17		
+4	0	fb:cell.gold	Gold	gold	gold	NN	O					
+4	1	fb:cell.felicia_ballanger	Félicia Ballanger	félicia|ballanger	Félicia|Ballanger	NNP|NNP	PERSON|PERSON	|				Félicia Ballanger
+4	2	fb:cell.cycling	Cycling	cycling	cycling	NN	O					
+4	3	fb:cell.women_s_track_time_trial	Women's track time trial	women|'s|track|time|trial	woman|'s|track|time|trial	NNS|POS|NN|NN|NN	O|O|O|O|O	||||				
+4	4	fb:cell.september_16	September 16	september|16	September|16	NNP|CD	DATE|DATE	XXXX-09-16|XXXX-09-16	16.0	xxxx-09-16		
+5	0	fb:cell.gold	Gold	gold	gold	NN	O					
+5	1	fb:cell.felicia_ballanger	Félicia Ballanger	félicia|ballanger	Félicia|Ballanger	NNP|NNP	PERSON|PERSON	|				Félicia Ballanger
+5	2	fb:cell.cycling	Cycling	cycling	cycling	NN	O					
+5	3	fb:cell.women_s_sprint	Women's sprint	women|'s|sprint	woman|'s|sprint	NNS|POS|NNP	O|O|O	||				
+5	4	fb:cell.september_17	September 17	september|17	September|17	NNP|CD	DATE|DATE	XXXX-09-17|XXXX-09-17	17.0	xxxx-09-17		
+6	0	fb:cell.gold	Gold	gold	gold	NN	O					
+6	1	fb:cell.miguel_martinez	Miguel Martinez	miguel|martinez	Miguel|Martinez	NNP|NNP	PERSON|PERSON	|				Miguel Martinez
+6	2	fb:cell.cycling	Cycling	cycling	cycling	NN	O					
+6	3	fb:cell.men_s_cross_country	Men's cross-country	men|'s|cross|country	man|'s|cross|country	NNS|POS|NN|NN	O|O|O|O	|||				
+6	4	fb:cell.september_24	September 24	september|24	September|24	NNP|CD	DATE|DATE	XXXX-09-24|XXXX-09-24	24.0	xxxx-09-24		
+7	0	fb:cell.gold	Gold	gold	gold	NN	O					
+7	1	fb:cell.jean_noel_ferrari_brice_guyart_patrice_lhotellier_lionel_plumenail	Jean-Noël Ferrari, Brice Guyart,\nPatrice Lhotellier, Lionel Plumenail	jean|noël|ferrari|,|brice|guyart|,|patrice|lhotellier|,|lionel|plumenail	Jean|Noël|Ferrari|,|Brice|Guyart|,|Patrice|Lhotellier|,|Lionel|Plumenail	NNP|NNP|NNP|,|NNP|NNP|,|NNP|NNP|,|NNP|NNP	PERSON|PERSON|PERSON|O|PERSON|PERSON|O|PERSON|PERSON|O|PERSON|PERSON	|||||||||||				Jean-Noël Ferrari|Brice Guyart|Patrice Lhotellier|Lionel Plumenail
+7	2	fb:cell.fencing	Fencing	fencing	fencing	NN	O					
+7	3	fb:cell.men_s_team_foil	Men's team foil	men|'s|team|foil	man|'s|team|foil	NNS|POS|NN|NN	O|O|O|O	|||				
+7	4	fb:cell.september_22	September 22	september|22	September|22	NNP|CD	DATE|DATE	XXXX-09-22|XXXX-09-22	22.0	xxxx-09-22		
+8	0	fb:cell.gold	Gold	gold	gold	NN	O					
+8	1	fb:cell.david_douillet	David Douillet	david|douillet	David|Douillet	NNP|NNP	PERSON|PERSON	|				David Douillet
+8	2	fb:cell.judo	Judo	judo	Judo	NNP	O					
+8	3	fb:cell.men_s_100_kg	Men's +100 kg	men|'s|+100|kg	man|'s|+100|kg	NNS|POS|CD|NN	O|O|NUMBER|O	||100.0|	100.0			
+8	4	fb:cell.september_22	September 22	september|22	September|22	NNP|CD	DATE|DATE	XXXX-09-22|XXXX-09-22	22.0	xxxx-09-22		
+9	0	fb:cell.gold	Gold	gold	gold	NN	O					
+9	1	fb:cell.severine_vandenhende	Séverine Vandenhende	séverine|vandenhende	séverine|vandenhende	JJ|NN	PERSON|PERSON	|				Séverine Vandenhende
+9	2	fb:cell.judo	Judo	judo	Judo	NNP	O					
+9	3	fb:cell.women_s_63_kg	Women's 63 kg	women|'s|63|kg	woman|'s|63|kg	NNS|POS|CD|NN	O|O|NUMBER|O	||63.0|	63.0			
+9	4	fb:cell.september_18	September 18	september|18	September|18	NNP|CD	DATE|DATE	XXXX-09-18|XXXX-09-18	18.0	xxxx-09-18		
+10	0	fb:cell.gold	Gold	gold	gold	NN	O					
+10	1	fb:cell.franck_dumoulin	Franck Dumoulin	franck|dumoulin	Franck|Dumoulin	NNP|NNP	PERSON|PERSON	|				Franck Dumoulin
+10	2	fb:cell.shooting	Shooting	shooting	shooting	NN	O					
+10	3	fb:cell.men_s_10_m_air_pistol	Men's 10 m air pistol	men|'s|10|m|air|pistol	man|'s|10|m|air|pistol	NNS|POS|CD|NN|NN|NN	O|O|NUMBER|O|O|O	||10.0|||	10.0			
+10	4	fb:cell.september_16	September 16	september|16	September|16	NNP|CD	DATE|DATE	XXXX-09-16|XXXX-09-16	16.0	xxxx-09-16		
+11	0	fb:cell.gold	Gold	gold	gold	NN	O					
+11	1	fb:cell.michel_andrieux_jean_christophe_rolland	Michel Andrieux, Jean-Christophe Rolland	michel|andrieux|,|jean|christophe|rolland	Michel|Andrieux|,|Jean|Christophe|Rolland	NNP|NNP|,|NNP|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON|PERSON	|||||				Michel Andrieux|Jean-Christophe Rolland
+11	2	fb:cell.rowing	Rowing	rowing	rowing	NN	O					
+11	3	fb:cell.men_s_coxless_pair	Men's coxless pair	men|'s|coxless|pair	man|'s|coxless|pair	NNS|POS|JJ|NN	O|O|O|O	|||				
+11	4	fb:cell.september_23	September 23	september|23	September|23	NNP|CD	DATE|DATE	XXXX-09-23|XXXX-09-23	23.0	xxxx-09-23		
+12	0	fb:cell.gold	Gold	gold	gold	NN	O					
+12	1	fb:cell.jean_christophe_bette_xavier_dorfman_yves_hocde_laurent_porchier	Jean-Christophe Bette, Xavier Dorfman,\nYves Hocdé, Laurent Porchier	jean|christophe|bette|,|xavier|dorfman|,|yves|hocdé|,|laurent|porchier	Jean|Christophe|Bette|,|Xavier|Dorfman|,|Yves|Hocdé|,|Laurent|Porchier	NNP|NNP|NNP|,|NNP|NNP|,|NNP|NNP|,|NNP|NNP	PERSON|PERSON|PERSON|O|PERSON|PERSON|O|PERSON|PERSON|O|PERSON|PERSON	|||||||||||				Jean-Christophe Bette|Xavier Dorfman|Yves Hocdé|Laurent Porchier
+12	2	fb:cell.rowing	Rowing	rowing	rowing	NN	O					
+12	3	fb:cell.men_s_coxless_four	Men's coxless four	men|'s|coxless|four	man|'s|coxless|four	NNS|POS|NNP|CD	O|O|O|NUMBER	|||4.0				
+12	4	fb:cell.september_24	September 24	september|24	September|24	NNP|CD	DATE|DATE	XXXX-09-24|XXXX-09-24	24.0	xxxx-09-24		
+13	0	fb:cell.silver	Silver	silver	silver	NN	O					
+13	1	fb:cell.france_national_basketball_team_jim_bilba_crawford_palmer_yann_bonato_antoine_rigaudeau_makan_dioumassi_stephane_risacher_laurent_foirest_laurent_sciarra_thierry_gadou_moustapha_sonko_cyril_julian_frederic_weis	France national basketball team\n\n\nJim Bilba\n \nCrawford Palmer\n\n\n\n\nYann Bonato\n \nAntoine Rigaudeau\n\n\n\n\nMakan Dioumassi\n \nStéphane Risacher\n\n\n\n\nLaurent Foirest\n \nLaurent Sciarra\n\n\n\n\nThierry Gadou\n \nMoustapha Sonko\n\n\n\n\nCyril Julian\n \nFrédéric Weis	france|national|basketball|team|jim|bilba|crawford|palmer|yann|bonato|antoine|rigaudeau|makan|dioumassi|stéphane|risacher|laurent|foirest|laurent|sciarra|thierry|gadou|moustapha|sonko|cyril|julian|frédéric|weis	France|national|basketball|team|Jim|Bilba|Crawford|Palmer|Yann|Bonato|Antoine|Rigaudeau|Makan|Dioumassi|Stéphane|Risacher|Laurent|Foirest|Laurent|Sciarra|Thierry|Gadou|Moustapha|Sonko|Cyril|Julian|Frédéric|Weis	NNP|NNP|NNP|NN|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP|NNP	LOCATION|O|O|O|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||||||||||||||||||||||||				France national basketball team|Jim Bilba|Crawford Palmer|Yann Bonato|Antoine Rigaudeau|Makan Dioumassi|Stéphane Risacher|Laurent Foirest|Laurent Sciarra|Thierry Gadou|Moustapha Sonko|Cyril Julian|Frédéric Weis
+13	2	fb:cell.basketball	Basketball	basketball	basketball	NN	O					
+13	3	fb:cell.men_s_competition	Men's competition	men|'s|competition	man|'s|competition	NNS|POS|NN	O|O|O	||				
+13	4	fb:cell.october_1	October 1	october|1	October|1	NNP|CD	DATE|DATE	XXXX-10-01|XXXX-10-01	1.0	xxxx-10-01		
+14	0	fb:cell.silver	Silver	silver	silver	NN	O					
+14	1	fb:cell.brigitte_guibal	Brigitte Guibal	brigitte|guibal	Brigitte|Guibal	NNP|NNP	PERSON|PERSON	|				Brigitte Guibal
+14	2	fb:cell.canoeing	Canoeing	canoeing	canoeing	NN	O					
+14	3	fb:cell.women_s_slalom_k_1	Women's slalom K-1	women|'s|slalom|k-1	woman|'s|slalom|k-1	NNS|POS|NN|NN	O|O|O|O	|||	1.0			
+14	4	fb:cell.september_18	September 18	september|18	September|18	NNP|CD	DATE|DATE	XXXX-09-18|XXXX-09-18	18.0	xxxx-09-18		
+15	0	fb:cell.silver	Silver	silver	silver	NN	O					
+15	1	fb:cell.florian_rousseau	Florian Rousseau	florian|rousseau	Florian|Rousseau	NNP|NNP	PERSON|PERSON	|				Florian Rousseau
+15	2	fb:cell.cycling	Cycling	cycling	cycling	NN	O					
+15	3	fb:cell.men_s_sprint	Men's sprint	men|'s|sprint	man|'s|sprint	NNS|POS|NNP	O|O|O	||				
+15	4	fb:cell.september_20	September 20	september|20	September|20	NNP|CD	DATE|DATE	XXXX-09-20|XXXX-09-20	20.0	xxxx-09-20		
+16	0	fb:cell.silver	Silver	silver	silver	NN	O					
+16	1	fb:cell.marion_clignet	Marion Clignet	marion|clignet	Marion|Clignet	NNP|NNP	PERSON|PERSON	|				Marion Clignet
+16	2	fb:cell.cycling	Cycling	cycling	cycling	NN	O					
+16	3	fb:cell.women_s_individual_pursuit	Women's individual pursuit	women|'s|individual|pursuit	woman|'s|individual|pursuit	NNS|POS|JJ|NN	O|O|O|O	|||				
+16	4	fb:cell.september_18	September 18	september|18	September|18	NNP|CD	DATE|DATE	XXXX-09-18|XXXX-09-18	18.0	xxxx-09-18		
+17	0	fb:cell.silver	Silver	silver	silver	NN	O					
+17	1	fb:cell.hugues_obry	Hugues Obry	hugues|obry	Hugues|Obry	NNP|NNP	PERSON|PERSON	|				Hugues Obry
+17	2	fb:cell.fencing	Fencing	fencing	fencing	NN	O					
+17	3	fb:cell.men_s_epee	Men's épée	men|'s|épée	man|'s|épée	NNS|POS|NN	O|O|O	||				
+17	4	fb:cell.september_16	September 16	september|16	September|16	NNP|CD	DATE|DATE	XXXX-09-16|XXXX-09-16	16.0	xxxx-09-16		
+18	0	fb:cell.silver	Silver	silver	silver	NN	O					
+18	1	fb:cell.jean_francois_di_martino_hugues_obry_eric_srecki	Jean-François Di Martino, Hugues Obry, Éric Srecki	jean|françois|di|martino|,|hugues|obry|,|éric|srecki	Jean|François|Di|Martino|,|Hugues|Obry|,|Éric|Srecki	NNP|NNP|NNP|NNP|,|NNP|NNP|,|NNP|NNP	PERSON|PERSON|PERSON|PERSON|O|PERSON|PERSON|O|PERSON|PERSON	|||||||||				Jean-François Di Martino|Hugues Obry|Éric Srecki
+18	2	fb:cell.fencing	Fencing	fencing	fencing	NN	O					
+18	3	fb:cell.men_s_team_epee	Men's team épée	men|'s|team|épée	man|'s|team|épée	NNS|POS|NN|NN	O|O|O|O	|||				
+18	4	fb:cell.september_18	September 18	september|18	September|18	NNP|CD	DATE|DATE	XXXX-09-18|XXXX-09-18	18.0	xxxx-09-18		
+19	0	fb:cell.silver	Silver	silver	silver	NN	O					
+19	1	fb:cell.mathieu_gourdain	Mathieu Gourdain	mathieu|gourdain	Mathieu|Gourdain	NNP|NNP	PERSON|PERSON	|				Mathieu Gourdain
+19	2	fb:cell.fencing	Fencing	fencing	fencing	NN	O					
+19	3	fb:cell.men_s_sabre	Men's sabre	men|'s|sabre	man|'s|sabre	NNS|POS|NNP	O|O|O	||				
+19	4	fb:cell.september_21	September 21	september|21	September|21	NNP|CD	DATE|DATE	XXXX-09-21|XXXX-09-21	21.0	xxxx-09-21		
+20	0	fb:cell.silver	Silver	silver	silver	NN	O					
+20	1	fb:cell.mathieu_gourdain_julien_pillet_cedric_seguin_damien_touya	Mathieu Gourdain, Julien Pillet,\nCédric Séguin, Damien Touya	mathieu|gourdain|,|julien|pillet|,|cédric|séguin|,|damien|touya	Mathieu|Gourdain|,|Julien|Pillet|,|cédric|séguin|,|Damien|Touya	NNP|NNP|,|NNP|NNP|,|JJ|NN|,|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON|O|PERSON|PERSON|O|PERSON|PERSON	||||||||||				Mathieu Gourdain|Julien Pillet|Cédric Séguin|Damien Touya
+20	2	fb:cell.fencing	Fencing	fencing	fencing	NN	O					
+20	3	fb:cell.men_s_team_sabre	Men's team sabre	men|'s|team|sabre	man|'s|team|sabre	NNS|POS|NN|NNP	O|O|O|ORGANIZATION	|||				
+20	4	fb:cell.september_24	September 24	september|24	September|24	NNP|CD	DATE|DATE	XXXX-09-24|XXXX-09-24	24.0	xxxx-09-24		
+21	0	fb:cell.silver	Silver	silver	silver	NN	O					
+21	1	fb:cell.eric_poujade	Éric Poujade	éric|poujade	Éric|Poujade	NNP|NNP	PERSON|PERSON	|				Éric Poujade
+21	2	fb:cell.gymnastics	Gymnastics	gymnastics	gymnastics	NNS	O					
+21	3	fb:cell.men_s_pommel_horse	Men's pommel horse	men|'s|pommel|horse	man|'s|pommel|horse	NNS|POS|JJ|NN	O|O|O|O	|||				
+21	4	fb:cell.september_24	September 24	september|24	September|24	NNP|CD	DATE|DATE	XXXX-09-24|XXXX-09-24	24.0	xxxx-09-24		
+22	0	fb:cell.silver	Silver	silver	silver	NN	O					
+22	1	fb:cell.benjamin_varonian	Benjamin Varonian	benjamin|varonian	Benjamin|Varonian	NNP|NNP	PERSON|PERSON	|				Benjamin Varonian
+22	2	fb:cell.gymnastics	Gymnastics	gymnastics	gymnastics	NNS	O					
+22	3	fb:cell.men_s_horizontal_bar	Men's horizontal bar	men|'s|horizontal|bar	man|'s|horizontal|bar	NNS|POS|JJ|NN	O|O|O|O	|||				
+22	4	fb:cell.september_25	September 25	september|25	September|25	NNP|CD	DATE|DATE	XXXX-09-25|XXXX-09-25	25.0	xxxx-09-25		
+23	0	fb:cell.silver	Silver	silver	silver	NN	O					
+23	1	fb:cell.larbi_benboudaoud	Larbi Benboudaoud	larbi|benboudaoud	Larbi|Benboudaoud	NNP|NNP	PERSON|PERSON	|				Larbi Benboudaoud
+23	2	fb:cell.judo	Judo	judo	Judo	NNP	O					
+23	3	fb:cell.men_s_66_kg	Men's 66 kg	men|'s|66|kg	man|'s|66|kg	NNS|POS|CD|NN	O|O|NUMBER|O	||66.0|	66.0			
+23	4	fb:cell.september_16	September 16	september|16	September|16	NNP|CD	DATE|DATE	XXXX-09-16|XXXX-09-16	16.0	xxxx-09-16		
+24	0	fb:cell.silver	Silver	silver	silver	NN	O					
+24	1	fb:cell.celine_lebrun	Céline Lebrun	céline|lebrun	Céline|Lebrun	NNP|NNP	PERSON|PERSON	|				Céline Lebrun
+24	2	fb:cell.judo	Judo	judo	Judo	NNP	O					
+24	3	fb:cell.women_s_78_kg	Women's 78 kg	women|'s|78|kg	woman|'s|78|kg	NNS|POS|CD|NN	O|O|NUMBER|O	||78.0|	78.0			
+24	4	fb:cell.september_21	September 21	september|21	September|21	NNP|CD	DATE|DATE	XXXX-09-21|XXXX-09-21	21.0	xxxx-09-21		
+25	0	fb:cell.silver	Silver	silver	silver	NN	O					
+25	1	fb:cell.delphine_racinet	Delphine Racinet	delphine|racinet	Delphine|Racinet	NNP|NNP	PERSON|PERSON	|				Delphine Racinet
+25	2	fb:cell.shooting	Shooting	shooting	shooting	NN	O					
+25	3	fb:cell.women_s_trap	Women's trap	women|'s|trap	woman|'s|trap	NNS|POS|NN	O|O|O	||				
+25	4	fb:cell.september_18	September 18	september|18	September|18	NNP|CD	DATE|DATE	XXXX-09-18|XXXX-09-18	18.0	xxxx-09-18		
+26	0	fb:cell.silver	Silver	silver	silver	NN	O					
+26	1	fb:cell.roxana_maracineanu	Roxana Maracineanu	roxana|maracineanu	Roxana|Maracineanu	NNP|NNP	PERSON|PERSON	|				Roxana Maracineanu
+26	2	fb:cell.swimming	Swimming	swimming	swimming	NN	O					
+26	3	fb:cell.women_s_200_m_backstroke	Women's 200 m backstroke	women|'s|200|m|backstroke	woman|'s|200|m|backstroke	NNS|POS|CD|NN|NN	O|O|NUMBER|O|O	||200.0||	200.0			
+26	4	fb:cell.september_22	September 22	september|22	September|22	NNP|CD	DATE|DATE	XXXX-09-22|XXXX-09-22	22.0	xxxx-09-22		
+27	0	fb:cell.bronze	Bronze	bronze	bronze	NN	O					
+27	1	fb:cell.jerome_thomas	Jérôme Thomas	jérôme|thomas	Jérôme|Thomas	NNP|NNP	PERSON|PERSON	|				Jérôme Thomas
+27	2	fb:cell.boxing	Boxing	boxing	Boxing	NNP	O					
+27	3	fb:cell.flyweight	Flyweight	flyweight	flyweight	NN	O					
+27	4	fb:cell.october_1	October 1	october|1	October|1	NNP|CD	DATE|DATE	XXXX-10-01|XXXX-10-01	1.0	xxxx-10-01		
+28	0	fb:cell.bronze	Bronze	bronze	bronze	NN	O					
+28	1	fb:cell.anne_lise_bardet	Anne-Lise Bardet	anne|lise|bardet	Anne|Lise|Bardet	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Anne-Lise Bardet
+28	2	fb:cell.canoeing	Canoeing	canoeing	canoeing	NN	O					
+28	3	fb:cell.women_s_slalom_k_1	Women's slalom K-1	women|'s|slalom|k-1	woman|'s|slalom|k-1	NNS|POS|NN|NN	O|O|O|O	|||	1.0			
+28	4	fb:cell.september_18	September 18	september|18	September|18	NNP|CD	DATE|DATE	XXXX-09-18|XXXX-09-18	18.0	xxxx-09-18		
+29	0	fb:cell.bronze	Bronze	bronze	bronze	NN	O					
+29	1	fb:cell.jeannie_longo	Jeannie Longo	jeannie|longo	Jeannie|Longo	NNP|NNP	PERSON|PERSON	|				Jeannie Longo
+29	2	fb:cell.cycling	Cycling	cycling	cycling	NN	O					
+29	3	fb:cell.women_s_road_time_trial	Women's road time trial	women|'s|road|time|trial	woman|'s|road|time|trial	NNS|POS|NN|NN|NN	O|O|O|O|O	||||				
+29	4	fb:cell.september_30	September 30	september|30	September|30	NNP|CD	DATE|DATE	XXXX-09-30|XXXX-09-30	30.0	xxxx-09-30		
+30	0	fb:cell.bronze	Bronze	bronze	bronze	NN	O					
+30	1	fb:cell.laura_flessel_colovic	Laura Flessel-Colovic	laura|flessel|colovic	Laura|Flessel|Colovic	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Laura Flessel-Colovic
+30	2	fb:cell.fencing	Fencing	fencing	fencing	NN	O					
+30	3	fb:cell.women_s_epee	Women's épée	women|'s|épée	woman|'s|épée	NNS|POS|NN	O|O|O	||				
+30	4	fb:cell.september_17	September 17	september|17	September|17	NNP|CD	DATE|DATE	XXXX-09-17|XXXX-09-17	17.0	xxxx-09-17		
+31	0	fb:cell.bronze	Bronze	bronze	bronze	NN	O					
+31	1	fb:cell.frederic_demontfaucon	Frédéric Demontfaucon	frédéric|demontfaucon	frédéric|demontfaucon	JJ|NN	O|O	|				Frédéric Demontfaucon
+31	2	fb:cell.judo	Judo	judo	Judo	NNP	O					
+31	3	fb:cell.men_s_90_kg	Men's 90 kg	men|'s|90|kg	man|'s|90|kg	NNS|POS|CD|NN	O|O|NUMBER|O	||90.0|	90.0			
+31	4	fb:cell.september_20	September 20	september|20	September|20	NNP|CD	DATE|DATE	XXXX-09-20|XXXX-09-20	20.0	xxxx-09-20		
+32	0	fb:cell.bronze	Bronze	bronze	bronze	NN	O					
+32	1	fb:cell.stephane_traineau	Stéphane Traineau	stéphane|traineau	Stéphane|Traineau	NNP|NNP	PERSON|PERSON	|				Stéphane Traineau
+32	2	fb:cell.judo	Judo	judo	Judo	NNP	O					
+32	3	fb:cell.men_s_100_kg_2	Men's 100 kg	men|'s|100|kg	man|'s|100|kg	NNS|POS|CD|NN	O|O|NUMBER|O	||100.0|	100.0			
+32	4	fb:cell.september_21	September 21	september|21	September|21	NNP|CD	DATE|DATE	XXXX-09-21|XXXX-09-21	21.0	xxxx-09-21		
+33	0	fb:cell.bronze	Bronze	bronze	bronze	NN	O					
+33	1	fb:cell.thibaud_chapelle_pascal_touron	Thibaud Chapelle, Pascal Touron	thibaud|chapelle|,|pascal|touron	Thibaud|Chapelle|,|Pascal|Touron	NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Thibaud Chapelle|Pascal Touron
+33	2	fb:cell.rowing	Rowing	rowing	rowing	NN	O					
+33	3	fb:cell.men_s_lightweight_double_sculls	Men's lightweight double sculls	men|'s|lightweight|double|sculls	man|'s|lightweight|double|scull	NNS|POS|JJ|JJ|NNS	O|O|O|O|O	||||				
+33	4	fb:cell.september_24	September 24	september|24	September|24	NNP|CD	DATE|DATE	XXXX-09-24|XXXX-09-24	24.0	xxxx-09-24		
+34	0	fb:cell.bronze	Bronze	bronze	bronze	NN	O					
+34	1	fb:cell.virginie_dedieu_myriam_lignot	Virginie Dedieu, Myriam Lignot	virginie|dedieu|,|myriam|lignot	Virginie|Dedieu|,|Myriam|Lignot	NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Virginie Dedieu|Myriam Lignot
+34	2	fb:cell.synchronized_swimming	Synchronized swimming	synchronized|swimming	synchronize|swimming	VBN|NN	O|O	|				
+34	3	fb:cell.women_s_duet	Women's duet	women|'s|duet	woman|'s|duet	NNS|POS|NN	O|O|O	||				
+34	4	fb:cell.september_26	September 26	september|26	September|26	NNP|CD	DATE|DATE	XXXX-09-26|XXXX-09-26	26.0	xxxx-09-26		
+35	0	fb:cell.bronze	Bronze	bronze	bronze	NN	O					
+35	1	fb:cell.patrick_chila_jean_philippe_gatien	Patrick Chila, Jean-Philippe Gatien	patrick|chila|,|jean|philippe|gatien	Patrick|Chila|,|Jean|Philippe|Gatien	NNP|NNP|,|NNP|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON|PERSON	|||||				Patrick Chila|Jean-Philippe Gatien
+35	2	fb:cell.table_tennis	Table tennis	table|tennis	table|tennis	NN|NN	O|O	|				
+35	3	fb:cell.men_s_doubles	Men's doubles	men|'s|doubles	man|'s|doubles	NNS|POS|NNP	O|O|O	||				
+35	4	fb:cell.september_23	September 23	september|23	September|23	NNP|CD	DATE|DATE	XXXX-09-23|XXXX-09-23	23.0	xxxx-09-23		
+36	0	fb:cell.bronze	Bronze	bronze	bronze	NN	O					
+36	1	fb:cell.arnaud_di_pasquale	Arnaud Di Pasquale	arnaud|di|pasquale	Arnaud|Di|Pasquale	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Arnaud Di Pasquale
+36	2	fb:cell.tennis	Tennis	tennis	tennis	NN	O					
+36	3	fb:cell.men_s_singles	Men's singles	men|'s|singles	man|'s|singles	NNS|POS|NNS	O|O|O	||				
+36	4	fb:cell.september_28	September 28	september|28	September|28	NNP|CD	DATE|DATE	XXXX-09-28|XXXX-09-28	28.0	xxxx-09-28		
+37	0	fb:cell.bronze	Bronze	bronze	bronze	NN	O					
+37	1	fb:cell.pascal_gentil	Pascal Gentil	pascal|gentil	Pascal|Gentil	NNP|NNP	PERSON|PERSON	|				Pascal Gentil
+37	2	fb:cell.taekwondo	Taekwondo	taekwondo	Taekwondo	NNP	PERSON					
+37	3	fb:cell.men_s_80_kg	Men's +80 kg	men|'s|+80|kg	man|'s|+80|kg	NNS|POS|CD|NN	O|O|NUMBER|O	||80.0|	80.0			
+37	4	fb:cell.september_30	September 30	september|30	September|30	NNP|CD	DATE|DATE	XXXX-09-30|XXXX-09-30	30.0	xxxx-09-30		

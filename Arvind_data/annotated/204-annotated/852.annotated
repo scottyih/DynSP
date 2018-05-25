@@ -1,0 +1,673 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.film	Film	film	film	NN	O					
+-1	2	fb:row.row.language	Language	language	language	NN	O					
+-1	3	fb:row.row.character	Character	character	character	NN	O					
+-1	4	fb:row.row.co_star	Co-Star	co|star	Co|Star	NNP|NNP	PERSON|PERSON	|				
+-1	5	fb:row.row.music	Music	music	music	NN	O					
+-1	6	fb:row.row.banner	Banner	banner	banner	NN	O					
+0	0	fb:cell.1939	1939	1939	1939	CD	DATE	1939	1939.0	1939-xx-xx		
+0	1	fb:cell.vara_vikrayam	Vara Vikrayam	vara|vikrayam	Vara|Vikrayam	NNP|NNP	PERSON|PERSON	|				
+0	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+0	3	fb:cell.kalindi	Kalindi	kalindi	Kalindi	NNP	MISC					Kalindi
+0	4	fb:cell.chittor_v_nagaiah	Chittor V. Nagaiah	chittor|v.|nagaiah	Chittor|V.|Nagaiah	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Chittor V. Nagaiah
+0	5	fb:cell.prabhala_satyanarayana	Prabhala Satyanarayana	prabhala|satyanarayana	Prabhala|Satyanarayana	NNP|NNP	PERSON|PERSON	|				Prabhala Satyanarayana
+0	6	fb:cell.east_india_film_company	East India Film Company	east|india|film|company	East|India|film|company	NNP|NNP|NN|NN	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				
+1	0	fb:cell.1940	1940	1940	1940	CD	DATE	1940	1940.0	1940-xx-xx		
+1	1	fb:cell.malathi_madhavam	Malathi Madhavam	malathi|madhavam	Malathi|Madhavam	NNP|NNP	PERSON|PERSON	|				
+1	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+1	3	fb:cell.null										
+1	4	fb:cell.null										
+1	5	fb:cell.null										
+1	6	fb:cell.east_india_film_company	East India Film Company	east|india|film|company	East|India|film|company	NNP|NNP|NN|NN	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				
+2	0	fb:cell.1941	1941	1941	1941	CD	DATE	1941	1941.0	1941-xx-xx		
+2	1	fb:cell.bhaktimala	Bhaktimala	bhaktimala	Bhaktimala	NNP	PERSON					
+2	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+2	3	fb:cell.radha	Radha	radha	Radha	NNP	PERSON					Radha
+2	4	fb:cell.null										
+2	5	fb:cell.null										
+2	6	fb:cell.bhaskar_films	Bhaskar Films	bhaskar|films	Bhaskar|film	NNP|NNS	PERSON|O	|				
+3	0	fb:cell.1941	1941	1941	1941	CD	DATE	1941	1941.0	1941-xx-xx		
+3	1	fb:cell.dharmapatni	Dharmapatni	dharmapatni	Dharmapatni	NNP	PERSON					
+3	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+3	3	fb:cell.null										
+3	4	fb:cell.null										
+3	5	fb:cell.null										
+3	6	fb:cell.famous_films	Famous Films	famous|films	famous|film	JJ|NNS	O|O	|				
+4	0	fb:cell.1941	1941	1941	1941	CD	DATE	1941	1941.0	1941-xx-xx		
+4	1	fb:cell.dharmapatni	Dharmapatni	dharmapatni	Dharmapatni	NNP	PERSON					
+4	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+4	3	fb:cell.null										
+4	4	fb:cell.null										
+4	5	fb:cell.null										
+4	6	fb:cell.famous_films	Famous Films	famous|films	famous|film	JJ|NNS	O|O	|				
+5	0	fb:cell.1943	1943	1943	1943	CD	DATE	1943	1943.0	1943-xx-xx		
+5	1	fb:cell.garuda_garvabhangam	Garuda Garvabhangam	garuda|garvabhangam	Garuda|Garvabhangam	NNP|NNP	PERSON|PERSON	|				
+5	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+5	3	fb:cell.null										
+5	4	fb:cell.null										
+5	5	fb:cell.null										
+5	6	fb:cell.pratiba	Pratiba	pratiba	Pratiba	NNP	PERSON					
+6	0	fb:cell.1943	1943	1943	1943	CD	DATE	1943	1943.0	1943-xx-xx		
+6	1	fb:cell.krishna_prema	Krishna Prema	krishna|prema	Krishna|Prema	NNP|NNP	PERSON|PERSON	|				
+6	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+6	3	fb:cell.chandravali	Chandravali	chandravali	Chandravali	NNP	PERSON					Chandravali
+6	4	fb:cell.null										
+6	5	fb:cell.galipenchala_narasimha_rao	Galipenchala Narasimha Rao	galipenchala|narasimha|rao	Galipenchala|Narasimha|Rao	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Galipenchala Narasimha Rao
+6	6	fb:cell.famous_films_star_combines	Famous Films & Star Combines	famous|films|&|star|combines	famous|film|&|Star|combine	JJ|NNS|CC|NNP|NNS	O|O|O|O|O	||||				
+7	0	fb:cell.1944	1944	1944	1944	CD	DATE	1944	1944.0	1944-xx-xx		
+7	1	fb:cell.tahsildar	Tahsildar	tahsildar	tahsildar	NN	PERSON					
+7	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+7	3	fb:cell.kamala	Kamala	kamala	Kamala	NNP	PERSON					Kamala
+7	4	fb:cell.null										
+7	5	fb:cell.null										
+7	6	fb:cell.null										
+8	0	fb:cell.1945	1945	1945	1945	CD	DATE	1945	1945.0	1945-xx-xx		
+8	1	fb:cell.swargaseema	Swargaseema	swargaseema	swargaseema	NN	PERSON					
+8	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+8	3	fb:cell.subbi_sujatha_devi	Subbi/Sujatha Devi	subbi/sujatha|devi	Subbi/Sujatha|Devi	NNP|NNP	PERSON|PERSON	|				Subbi|Sujatha Devi
+8	4	fb:cell.chittor_v_nagaiah	Chittor V. Nagaiah	chittor|v.|nagaiah	Chittor|V.|Nagaiah	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Chittor V. Nagaiah
+8	5	fb:cell.chittor_v_nagaiah	Chittor V. Nagaiah	chittor|v.|nagaiah	Chittor|V.|Nagaiah	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Chittor V. Nagaiah
+8	6	fb:cell.vijaya_studios	Vijaya Studios	vijaya|studios	Vijaya|Studios	NNP|NNP	PERSON|PERSON	|				
+9	0	fb:cell.1946	1946	1946	1946	CD	DATE	1946	1946.0	1946-xx-xx		
+9	1	fb:cell.gruhapravesam	Gruhapravesam	gruhapravesam	Gruhapravesam	NNP	PERSON					
+9	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+9	3	fb:cell.janaki	Janaki	janaki	Janaki	NNP	PERSON					Janaki
+9	4	fb:cell.null										
+9	5	fb:cell.null										
+9	6	fb:cell.sarati_films	Sarati Films	sarati|films	Sarati|film	NNP|NNS	O|O	|				
+10	0	fb:cell.1947	1947	1947	1947	CD	DATE	1947	1947.0	1947-xx-xx		
+10	1	fb:cell.ratnamala	Ratnamala	ratnamala	Ratnamala	NNP	PERSON					Ratnamala
+10	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+10	3	fb:cell.ratnamala	Ratnamala	ratnamala	Ratnamala	NNP	PERSON					Ratnamala
+10	4	fb:cell.c_s_r_anjaneyulu	C. S. R. Anjaneyulu	c.|s.|r.|anjaneyulu	C.|S.|R.|Anjaneyulu	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				C. S. R. Anjaneyulu
+10	5	fb:cell.c_r_subburaman	C. R. Subburaman	c.|r.|subburaman	C.|R.|Subburaman	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				C. R. Subburaman
+10	6	fb:cell.bharani_pictures	Bharani Pictures	bharani|pictures	Bharani|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+11	0	fb:cell.1948	1948	1948	1948	CD	DATE	1948	1948.0	1948-xx-xx		
+11	1	fb:cell.raja_mukthi	Raja Mukthi	raja|mukthi	Raja|Mukthi	NNP|NNP	PERSON|PERSON	|				
+11	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+11	3	fb:cell.kannika	Kannika	kannika	Kannika	NNP	PERSON					Kannika
+11	4	fb:cell.m_k_thyagaraja_bhagavathar	M. K. Thyagaraja Bhagavathar	m.|k.|thyagaraja|bhagavathar	M.|K.|Thyagaraja|Bhagavathar	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				M. K. Thyagaraja Bhagavathar
+11	5	fb:cell.c_r_subburaman	C. R. Subburaman	c.|r.|subburaman	C.|R.|Subburaman	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				C. R. Subburaman
+11	6	fb:cell.narendra_pictures	Narendra Pictures	narendra|pictures	Narendra|Pictures	NNP|NNP	PERSON|PERSON	|				
+12	0	fb:cell.1949	1949	1949	1949	CD	DATE	1949	1949.0	1949-xx-xx		
+12	1	fb:cell.laila_majnu	Laila Majnu	laila|majnu	Laila|Majnu	NNP|NNP	PERSON|PERSON	|				
+12	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+12	3	fb:cell.laila	Laila	laila	Laila	NNP	PERSON					Laila
+12	4	fb:cell.a_nageswara_rao	A. Nageswara Rao	a.|nageswara|rao	a.|Nageswara|Rao	NN|NNP|NNP	PERSON|PERSON|PERSON	||				A. Nageswara Rao
+12	5	fb:cell.c_r_subburaman	C. R. Subburaman	c.|r.|subburaman	C.|R.|Subburaman	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				C. R. Subburaman
+12	6	fb:cell.bharani_pictures	Bharani Pictures	bharani|pictures	Bharani|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+13	0	fb:cell.1949	1949	1949	1949	CD	DATE	1949	1949.0	1949-xx-xx		
+13	1	fb:cell.laila_majnu	Laila Majnu	laila|majnu	Laila|Majnu	NNP|NNP	PERSON|PERSON	|				
+13	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+13	3	fb:cell.laila	Laila	laila	Laila	NNP	PERSON					Laila
+13	4	fb:cell.a_nageswara_rao	A. Nageswara Rao	a.|nageswara|rao	a.|Nageswara|Rao	NN|NNP|NNP	PERSON|PERSON|PERSON	||				A. Nageswara Rao
+13	5	fb:cell.c_r_subburaman	C. R. Subburaman	c.|r.|subburaman	C.|R.|Subburaman	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				C. R. Subburaman
+13	6	fb:cell.bharani_pictures	Bharani Pictures	bharani|pictures	Bharani|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+14	0	fb:cell.1949	1949	1949	1949	CD	DATE	1949	1949.0	1949-xx-xx		
+14	1	fb:cell.nallathambi	Nallathambi	nallathambi	Nallathambi	NNP	PERSON					
+14	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+14	3	fb:cell.pushpa	Pushpa	pushpa	pushpa	NN	PERSON					Pushpa
+14	4	fb:cell.n_s_krishnan	N. S. Krishnan	n.|s.|krishnan	N.|S.|Krishnan	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				N. S. Krishnan
+14	5	fb:cell.c_r_subburaman	C. R. Subburaman	c.|r.|subburaman	C.|R.|Subburaman	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				C. R. Subburaman
+14	6	fb:cell.nsk_films_uma_pictures	NSK Films & Uma Pictures	nsk|films|&|uma|pictures	NSK|film|&|Uma|Pictures	NNP|NNS|CC|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	||||				
+15	0	fb:cell.1949	1949	1949	1949	CD	DATE	1949	1949.0	1949-xx-xx		
+15	1	fb:cell.raksharekha	Raksharekha	raksharekha	raksharekha	NN	PERSON					
+15	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+15	3	fb:cell.princess_kalavathi	Princess Kalavathi	princess|kalavathi	Princess|Kalavathi	NNP|NNP	O|PERSON	|				Princess Kalavathi
+15	4	fb:cell.a_nageswara_rao	A. Nageswara Rao	a.|nageswara|rao	a.|Nageswara|Rao	NN|NNP|NNP	PERSON|PERSON|PERSON	||				A. Nageswara Rao
+15	5	fb:cell.ogirala_ramachandra_rao_h_r_padmanabha_sastri	Ogirala Ramachandra Rao & H. R. Padmanabha Sastri	ogirala|ramachandra|rao|&|h.|r.|padmanabha|sastri	Ogirala|Ramachandra|Rao|&|H.|R.|Padmanabha|Sastri	NNP|NNP|NNP|CC|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON|PERSON	|||||||				Ogirala Ramachandra Rao & H. R. Padmanabha Sastri
+15	6	fb:cell.null										
+16	0	fb:cell.1949	1949	1949	1949	CD	DATE	1949	1949.0	1949-xx-xx		
+16	1	fb:cell.devamanohari	Devamanohari	devamanohari	devamanoharus	NN	PERSON					Devamanohari
+16	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+16	3	fb:cell.devamanohari	Devamanohari	devamanohari	devamanoharus	NN	PERSON					Devamanohari
+16	4	fb:cell.c_honnappa_bhagavathar	C. Honnappa Bhagavathar	c.|honnappa|bhagavathar	C.|Honnappa|Bhagavathar	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				C. Honnappa Bhagavathar
+16	5	fb:cell.g_ramanathan	G. Ramanathan	g.|ramanathan	G.|Ramanathan	NNP|NNP	PERSON|PERSON	|				G. Ramanathan
+16	6	fb:cell.arkays_pictures	Arkays Pictures	arkays|pictures	Arkays|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+17	0	fb:cell.1949	1949	1949	1949	CD	DATE	1949	1949.0	1949-xx-xx		
+17	1	fb:cell.apoorva_sagodharargal	Apoorva Sagodharargal	apoorva|sagodharargal	Apoorva|Sagodharargal	NNP|NNP	PERSON|PERSON	|				
+17	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+17	3	fb:cell.kanchana	Kanchana	kanchana	Kanchana	NNP	PERSON					Kanchana
+17	4	fb:cell.m_k_radha	M. K. Radha	m.|k.|radha	M.|K.|Radha	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				M. K. Radha
+17	5	fb:cell.s_rajeswara_rao	S. Rajeswara Rao	s.|rajeswara|rao	S.|Rajeswara|Rao	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				S. Rajeswara Rao
+17	6	fb:cell.gemini_studios	Gemini Studios	gemini|studios	Gemini|Studios	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+18	0	fb:cell.1949	1949	1949	1949	CD	DATE	1949	1949.0	1949-xx-xx		
+18	1	fb:cell.apoorva_sahodaralu	Apoorva Sahodaralu	apoorva|sahodaralu	Apoorva|Sahodaralu	NNP|NNP	PERSON|PERSON	|				
+18	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+18	3	fb:cell.ranjana	Ranjana	ranjana	Ranjana	NNP	PERSON					Ranjana
+18	4	fb:cell.m_k_radha	M. K. Radha	m.|k.|radha	M.|K.|Radha	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				M. K. Radha
+18	5	fb:cell.s_rajeswara_rao	S. Rajeswara Rao	s.|rajeswara|rao	S.|Rajeswara|Rao	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				S. Rajeswara Rao
+18	6	fb:cell.gemini_studios	Gemini Studios	gemini|studios	Gemini|Studios	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+19	0	fb:cell.1949	1949	1949	1949	CD	DATE	1949	1949.0	1949-xx-xx		
+19	1	fb:cell.nishaan	Nishaan	nishaan	Nishaan	NNP	PERSON					
+19	2	fb:cell.hindi	Hindi	hindi	Hindi	NNP	O					
+19	3	fb:cell.kanchana	Kanchana	kanchana	Kanchana	NNP	PERSON					Kanchana
+19	4	fb:cell.m_k_radha	M. K. Radha	m.|k.|radha	M.|K.|Radha	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				M. K. Radha
+19	5	fb:cell.s_rajeswara_rao	S. Rajeswara Rao	s.|rajeswara|rao	S.|Rajeswara|Rao	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				S. Rajeswara Rao
+19	6	fb:cell.gemini_studios	Gemini Studios	gemini|studios	Gemini|Studios	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+20	0	fb:cell.1949	1949	1949	1949	CD	DATE	1949	1949.0	1949-xx-xx		
+20	1	fb:cell.rathnakumar	Rathnakumar	rathnakumar	rathnakumar	NN	PERSON					
+20	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+20	3	fb:cell.null										
+20	4	fb:cell.p_u_chinnappa_bhagavathar	P. U. Chinnappa Bhagavathar	p.|u.|chinnappa|bhagavathar	P.|U.|Chinnappa|Bhagavathar	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				P. U. Chinnappa Bhagavathar
+20	5	fb:cell.g_ramanathan_c_r_subburaman	G. Ramanathan & C. R. Subburaman	g.|ramanathan|&|c.|r.|subburaman	G.|Ramanathan|&|C.|R.|Subburaman	NNP|NNP|CC|NNP|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON|PERSON	|||||				G. Ramanathan & C. R. Subburaman
+20	6	fb:cell.murugan_talkies	Murugan Talkies	murugan|talkies	Murugan|Talkies	NNP|NNPS	PERSON|O	|				
+21	0	fb:cell.1950	1950	1950	1950	CD	DATE	1950	1950.0	1950-xx-xx		
+21	1	fb:cell.maya_rambha	Maya Rambha	maya|rambha	maya|rambha	JJ|NN	PERSON|PERSON	|				
+21	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+21	3	fb:cell.null										
+21	4	fb:cell.null										
+21	5	fb:cell.null										
+21	6	fb:cell.null										
+22	0	fb:cell.1951	1951	1951	1951	CD	DATE	1951	1951.0	1951-xx-xx		
+22	1	fb:cell.malleeswari	Malleeswari	malleeswari	Malleeswari	NNP	PERSON					Malleeswari
+22	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+22	3	fb:cell.malleeswari	Malleeswari	malleeswari	Malleeswari	NNP	PERSON					Malleeswari
+22	4	fb:cell.n_t_rama_rao	N. T. Rama Rao	n.|t.|rama|rao	N.|T.|Rama|Rao	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				N. T. Rama Rao
+22	5	fb:cell.adepalli_rama_rao_s_rajeswara_rao	Adepalli Rama Rao & S. Rajeswara Rao	adepalli|rama|rao|&|s.|rajeswara|rao	Adepalli|Rama|Rao|&|S.|Rajeswara|Rao	NNP|NNP|NNP|CC|NNP|NNP|NNP	PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON	||||||				Adepalli Rama Rao & S. Rajeswara Rao
+22	6	fb:cell.vijaya_studios	Vijaya Studios	vijaya|studios	Vijaya|Studios	NNP|NNP	PERSON|PERSON	|				
+23	0	fb:cell.1951	1951	1951	1951	CD	DATE	1951	1951.0	1951-xx-xx		
+23	1	fb:cell.mangala	Mangala	mangala	Mangala	NNP	PERSON					Mangala
+23	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+23	3	fb:cell.mangala	Mangala	mangala	Mangala	NNP	PERSON					Mangala
+23	4	fb:cell.null										
+23	5	fb:cell.null										
+23	6	fb:cell.gemini_studios	Gemini Studios	gemini|studios	Gemini|Studios	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+24	0	fb:cell.1951	1951	1951	1951	CD	DATE	1951	1951.0	1951-xx-xx		
+24	1	fb:cell.mangala	Mangala	mangala	Mangala	NNP	PERSON					Mangala
+24	2	fb:cell.hindi	Hindi	hindi	Hindi	NNP	O					
+24	3	fb:cell.mangala	Mangala	mangala	Mangala	NNP	PERSON					Mangala
+24	4	fb:cell.null										
+24	5	fb:cell.null										
+24	6	fb:cell.gemini_studios	Gemini Studios	gemini|studios	Gemini|Studios	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+25	0	fb:cell.1952	1952	1952	1952	CD	DATE	1952	1952.0	1952-xx-xx		
+25	1	fb:cell.prema	Prema	prema	Prema	NNP	PERSON					
+25	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+25	3	fb:cell.mothi	Mothi	mothi	Mothi	NNP	PERSON					Mothi
+25	4	fb:cell.a_nageswara_rao	A. Nageswara Rao	a.|nageswara|rao	a.|Nageswara|Rao	NN|NNP|NNP	PERSON|PERSON|PERSON	||				A. Nageswara Rao
+25	5	fb:cell.c_r_subburaman	C. R. Subburaman	c.|r.|subburaman	C.|R.|Subburaman	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				C. R. Subburaman
+25	6	fb:cell.bharani_pictures	Bharani Pictures	bharani|pictures	Bharani|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+26	0	fb:cell.1952	1952	1952	1952	CD	DATE	1952	1952.0	1952-xx-xx		
+26	1	fb:cell.kadhal	Kadhal	kadhal	Kadhal	NNP	PERSON					
+26	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+26	3	fb:cell.mothi	Mothi	mothi	Mothi	NNP	PERSON					Mothi
+26	4	fb:cell.a_nageswara_rao	A. Nageswara Rao	a.|nageswara|rao	a.|Nageswara|Rao	NN|NNP|NNP	PERSON|PERSON|PERSON	||				A. Nageswara Rao
+26	5	fb:cell.c_r_subburaman	C. R. Subburaman	c.|r.|subburaman	C.|R.|Subburaman	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				C. R. Subburaman
+26	6	fb:cell.bharani_pictures	Bharani Pictures	bharani|pictures	Bharani|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+27	0	fb:cell.1952	1952	1952	1952	CD	DATE	1952	1952.0	1952-xx-xx		
+27	1	fb:cell.rani	Rani	rani	Rani	NNP	PERSON					
+27	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+27	3	fb:cell.null										
+27	4	fb:cell.s_balachander	S. Balachander	s.|balachander	S.|Balachander	NNP|NNP	PERSON|PERSON	|				S. Balachander
+27	5	fb:cell.c_r_subburaman	C. R. Subburaman	c.|r.|subburaman	C.|R.|Subburaman	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				C. R. Subburaman
+27	6	fb:cell.jupiter_pictures	Jupiter Pictures	jupiter|pictures	Jupiter|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+28	0	fb:cell.1952	1952	1952	1952	CD	DATE	1952	1952.0	1952-xx-xx		
+28	1	fb:cell.rani	Rani	rani	Rani	NNP	PERSON					
+28	2	fb:cell.hindi	Hindi	hindi	Hindi	NNP	O					
+28	3	fb:cell.null										
+28	4	fb:cell.anoop_kumar	Anoop Kumar	anoop|kumar	Anoop|Kumar	NNP|NNP	PERSON|PERSON	|				Anoop Kumar
+28	5	fb:cell.c_r_subburaman	C. R. Subburaman	c.|r.|subburaman	C.|R.|Subburaman	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				C. R. Subburaman
+28	6	fb:cell.jupiter_pictures	Jupiter Pictures	jupiter|pictures	Jupiter|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+29	0	fb:cell.1953	1953	1953	1953	CD	DATE	1953	1953.0	1953-xx-xx		
+29	1	fb:cell.chandirani	Chandirani	chandirani	Chandirani	NNP	PERSON					
+29	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+29	3	fb:cell.champa_chandi	Champa & Chandi	champa|&|chandi	Champa|&|Chandi	NNP|CC|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Champa & Chandi
+29	4	fb:cell.n_t_rama_rao	N. T. Rama Rao	n.|t.|rama|rao	N.|T.|Rama|Rao	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				N. T. Rama Rao
+29	5	fb:cell.c_r_subburaman_assistants_m_s_viswanathan_t_k_ramamoorthy	C. R. Subburaman, Assistants: M. S. Viswanathan & T. K. Ramamoorthy	c.|r.|subburaman|,|assistants|:|m.|s.|viswanathan|&|t.|k.|ramamoorthy	C.|R.|Subburaman|,|assistant|:|M.|S.|Viswanathan|&|T.|K.|Ramamoorthy	NNP|NNP|NNP|,|NNS|:|NNP|NNP|NNP|CC|NNP|NNP|NNP	PERSON|PERSON|PERSON|O|O|O|PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON	||||||||||||				C. R. Subburaman|Assistants: M. S. Viswanathan & T. K. Ramamoorthy
+29	6	fb:cell.bharani_pictures	Bharani Pictures	bharani|pictures	Bharani|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+30	0	fb:cell.1953	1953	1953	1953	CD	DATE	1953	1953.0	1953-xx-xx		
+30	1	fb:cell.chandirani	Chandirani	chandirani	Chandirani	NNP	PERSON					
+30	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+30	3	fb:cell.champa_chandi	Champa & Chandi	champa|&|chandi	Champa|&|Chandi	NNP|CC|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Champa & Chandi
+30	4	fb:cell.n_t_rama_rao	N. T. Rama Rao	n.|t.|rama|rao	N.|T.|Rama|Rao	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				N. T. Rama Rao
+30	5	fb:cell.c_r_subburaman_assistants_m_s_viswanathan_t_k_ramamoorthy	C. R. Subburaman, Assistants: M. S. Viswanathan & T. K. Ramamoorthy	c.|r.|subburaman|,|assistants|:|m.|s.|viswanathan|&|t.|k.|ramamoorthy	C.|R.|Subburaman|,|assistant|:|M.|S.|Viswanathan|&|T.|K.|Ramamoorthy	NNP|NNP|NNP|,|NNS|:|NNP|NNP|NNP|CC|NNP|NNP|NNP	PERSON|PERSON|PERSON|O|O|O|PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON	||||||||||||				C. R. Subburaman|Assistants: M. S. Viswanathan & T. K. Ramamoorthy
+30	6	fb:cell.bharani_pictures	Bharani Pictures	bharani|pictures	Bharani|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+31	0	fb:cell.1953	1953	1953	1953	CD	DATE	1953	1953.0	1953-xx-xx		
+31	1	fb:cell.chandirani	Chandirani	chandirani	Chandirani	NNP	PERSON					
+31	2	fb:cell.hindi	Hindi	hindi	Hindi	NNP	O					
+31	3	fb:cell.champa_chandi	Champa & Chandi	champa|&|chandi	Champa|&|Chandi	NNP|CC|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Champa & Chandi
+31	4	fb:cell.dilip_kumar	Dilip Kumar	dilip|kumar	Dilip|Kumar	NNP|NNP	PERSON|PERSON	|				Dilip Kumar
+31	5	fb:cell.c_r_subburaman_assistants_m_s_viswanathan_t_k_ramamoorthy	C. R. Subburaman, Assistants: M. S. Viswanathan & T. K. Ramamoorthy	c.|r.|subburaman|,|assistants|:|m.|s.|viswanathan|&|t.|k.|ramamoorthy	C.|R.|Subburaman|,|assistant|:|M.|S.|Viswanathan|&|T.|K.|Ramamoorthy	NNP|NNP|NNP|,|NNS|:|NNP|NNP|NNP|CC|NNP|NNP|NNP	PERSON|PERSON|PERSON|O|O|O|PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON	||||||||||||				C. R. Subburaman|Assistants: M. S. Viswanathan & T. K. Ramamoorthy
+31	6	fb:cell.bharani_pictures	Bharani Pictures	bharani|pictures	Bharani|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+32	0	fb:cell.1954	1954	1954	1954	CD	DATE	1954	1954.0	1954-xx-xx		
+32	1	fb:cell.aggi_ramudu	Aggi Ramudu	aggi|ramudu	Aggi|Ramudu	NNP|NNP	PERSON|PERSON	|				
+32	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+32	3	fb:cell.saradha	Saradha	saradha	Saradha	NNP	PERSON					Saradha
+32	4	fb:cell.n_t_rama_rao	N. T. Rama Rao	n.|t.|rama|rao	N.|T.|Rama|Rao	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				N. T. Rama Rao
+32	5	fb:cell.s_m_subbaiah_naidu	S. M. Subbaiah Naidu	s.|m.|subbaiah|naidu	S.|M.|Subbaiah|Naidu	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				S. M. Subbaiah Naidu
+32	6	fb:cell.pakshiraja_studios	Pakshiraja Studios	pakshiraja|studios	pakshiraja|studio	NN|NNS	ORGANIZATION|ORGANIZATION	|				
+33	0	fb:cell.1954	1954	1954	1954	CD	DATE	1954	1954.0	1954-xx-xx		
+33	1	fb:cell.malaikkallan	Malaikkallan	malaikkallan	Malaikkallan	NNP	PERSON					
+33	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+33	3	fb:cell.poonkothai	Poonkothai	poonkothai	Poonkothai	NNP	PERSON					Poonkothai
+33	4	fb:cell.m_g_ramachandran	M. G. Ramachandran	m.|g.|ramachandran	M.|G.|Ramachandran	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				M. G. Ramachandran
+33	5	fb:cell.s_m_subbaiah_naidu	S. M. Subbaiah Naidu	s.|m.|subbaiah|naidu	S.|M.|Subbaiah|Naidu	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				S. M. Subbaiah Naidu
+33	6	fb:cell.pakshiraja_studios	Pakshiraja Studios	pakshiraja|studios	pakshiraja|studio	NN|NNS	ORGANIZATION|ORGANIZATION	|				
+34	0	fb:cell.1954	1954	1954	1954	CD	DATE	1954	1954.0	1954-xx-xx		
+34	1	fb:cell.chakrapani	Chakrapani	chakrapani	Chakrapani	NNP	PERSON					
+34	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+34	3	fb:cell.granddaughter	Granddaughter	granddaughter	granddaughter	NN	O					Granddaughter
+34	4	fb:cell.a_nageswara_rao	A. Nageswara Rao	a.|nageswara|rao	a.|Nageswara|Rao	NN|NNP|NNP	PERSON|PERSON|PERSON	||				A. Nageswara Rao
+34	5	fb:cell.p_bhanumathi	P. Bhanumathi	p.|bhanumathi	P.|Bhanumathi	NNP|NNP	PERSON|PERSON	|				P. Bhanumathi
+34	6	fb:cell.null										
+35	0	fb:cell.1955	1955	1955	1955	CD	DATE	1955	1955.0	1955-xx-xx		
+35	1	fb:cell.vipranarayana	Vipranarayana	vipranarayana	Vipranarayana	NNP	PERSON					
+35	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+35	3	fb:cell.devadevi	Devadevi	devadevi	devadevus	NN	PERSON					Devadevi
+35	4	fb:cell.a_nageswara_rao	A. Nageswara Rao	a.|nageswara|rao	a.|Nageswara|Rao	NN|NNP|NNP	PERSON|PERSON|PERSON	||				A. Nageswara Rao
+35	5	fb:cell.s_rajeswara_rao	S. Rajeswara Rao	s.|rajeswara|rao	S.|Rajeswara|Rao	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				S. Rajeswara Rao
+35	6	fb:cell.bharani_pictures	Bharani Pictures	bharani|pictures	Bharani|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+36	0	fb:cell.1955	1955	1955	1955	CD	DATE	1955	1955.0	1955-xx-xx		
+36	1	fb:cell.vipranarayana	Vipranarayana	vipranarayana	Vipranarayana	NNP	PERSON					
+36	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+36	3	fb:cell.devadevi	Devadevi	devadevi	devadevus	NN	PERSON					Devadevi
+36	4	fb:cell.a_nageswara_rao	A. Nageswara Rao	a.|nageswara|rao	a.|Nageswara|Rao	NN|NNP|NNP	PERSON|PERSON|PERSON	||				A. Nageswara Rao
+36	5	fb:cell.s_rajeswara_rao	S. Rajeswara Rao	s.|rajeswara|rao	S.|Rajeswara|Rao	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				S. Rajeswara Rao
+36	6	fb:cell.bharani_pictures	Bharani Pictures	bharani|pictures	Bharani|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+37	0	fb:cell.1955	1955	1955	1955	CD	DATE	1955	1955.0	1955-xx-xx		
+37	1	fb:cell.kalvanin_kadhali	Kalvanin Kadhali	kalvanin|kadhali	kalvanin|kadhalus	NN|NN	PERSON|PERSON	|				
+37	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+37	3	fb:cell.kalyani	Kalyani	kalyani	Kalyani	NNP	PERSON					Kalyani
+37	4	fb:cell.sivaji_ganesan	Sivaji Ganesan	sivaji|ganesan	Sivaji|Ganesan	NNP|NNP	PERSON|PERSON	|				Sivaji Ganesan
+37	5	fb:cell.g_govindarajulu_naidu_ghantasala	G. Govindarajulu Naidu & Ghantasala	g.|govindarajulu|naidu|&|ghantasala	G.|Govindarajulu|Naidu|&|Ghantasala	NNP|NNP|NNP|CC|NNP	PERSON|PERSON|PERSON|O|PERSON	||||				G. Govindarajulu Naidu & Ghantasala
+37	6	fb:cell.revathi_productions	Revathi Productions	revathi|productions	Revathi|Productions	NNP|NNPS	O|O	|				
+38	0	fb:cell.1956	1956	1956	1956	CD	DATE	1956	1956.0	1956-xx-xx		
+38	1	fb:cell.alibabavum_narpadhu_thirudargalum	Alibabavum Narpadhu Thirudargalum	alibabavum|narpadhu|thirudargalum	alibabavum|narpadhu|thirudargalum	NN|NN|NN	PERSON|PERSON|PERSON	||				
+38	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+38	3	fb:cell.marjina	Marjina	marjina	Marjina	NNP	PERSON					Marjina
+38	4	fb:cell.m_g_ramachandran	M. G. Ramachandran	m.|g.|ramachandran	M.|G.|Ramachandran	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				M. G. Ramachandran
+38	5	fb:cell.s_dakshinamurthy	S. Dakshinamurthy	s.|dakshinamurthy	S.|Dakshinamurthy	NNP|NNP	PERSON|PERSON	|				S. Dakshinamurthy
+38	6	fb:cell.modern_theatres	Modern Theatres	modern|theatres	modern|theatre	JJ|NNS	O|O	|				
+39	0	fb:cell.1956	1956	1956	1956	CD	DATE	1956	1956.0	1956-xx-xx		
+39	1	fb:cell.alibaba_40_dongalu	Alibaba 40 Dongalu	alibaba|40|dongalu	Alibaba|40|dongalu	NNP|CD|NN	ORGANIZATION|NUMBER|O	|40.0|	40.0			
+39	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+39	3	fb:cell.marjina	Marjina	marjina	Marjina	NNP	PERSON					Marjina
+39	4	fb:cell.m_g_ramachandran	M. G. Ramachandran	m.|g.|ramachandran	M.|G.|Ramachandran	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				M. G. Ramachandran
+39	5	fb:cell.s_dakshinamurthy	S. Dakshinamurthy	s.|dakshinamurthy	S.|Dakshinamurthy	NNP|NNP	PERSON|PERSON	|				S. Dakshinamurthy
+39	6	fb:cell.modern_theatres	Modern Theatres	modern|theatres	modern|theatre	JJ|NNS	O|O	|				
+40	0	fb:cell.1956	1956	1956	1956	CD	DATE	1956	1956.0	1956-xx-xx		
+40	1	fb:cell.chintamani	Chintamani	chintamani	Chintamani	NNP	PERSON					Chintamani
+40	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+40	3	fb:cell.chintamani	Chintamani	chintamani	Chintamani	NNP	PERSON					Chintamani
+40	4	fb:cell.null										
+40	5	fb:cell.null										
+40	6	fb:cell.null										
+41	0	fb:cell.1956	1956	1956	1956	CD	DATE	1956	1956.0	1956-xx-xx		
+41	1	fb:cell.madurai_veeran	Madurai Veeran	madurai|veeran	Madurai|Veeran	NNP|NNP	LOCATION|O	|				
+41	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+41	3	fb:cell.princess_bommi	Princess Bommi	princess|bommi	Princess|Bommi	NNP|NNP	O|PERSON	|				Princess Bommi
+41	4	fb:cell.m_g_ramachandran	M. G. Ramachandran	m.|g.|ramachandran	M.|G.|Ramachandran	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				M. G. Ramachandran
+41	5	fb:cell.g_ramanathan	G. Ramanathan	g.|ramanathan	G.|Ramanathan	NNP|NNP	PERSON|PERSON	|				G. Ramanathan
+41	6	fb:cell.krishna_pictures	Krishna Pictures	krishna|pictures	Krishna|Pictures	NNP|NNP	PERSON|PERSON	|				
+42	0	fb:cell.1956	1956	1956	1956	CD	DATE	1956	1956.0	1956-xx-xx		
+42	1	fb:cell.rangoon_radha	Rangoon Radha	rangoon|radha	Rangoon|Radha	NNP|NNP	PERSON|PERSON	|				
+42	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+42	3	fb:cell.rangam	Rangam	rangam	rangam	NN	PERSON					Rangam
+42	4	fb:cell.sivaji_ganesan	Sivaji Ganesan	sivaji|ganesan	Sivaji|Ganesan	NNP|NNP	PERSON|PERSON	|				Sivaji Ganesan
+42	5	fb:cell.t_r_papa	T. R. Papa	t.|r.|papa	T.|R.|papa	NNP|NNP|NN	PERSON|PERSON|PERSON	||				T. R. Papa
+42	6	fb:cell.mekala_pictures	Mekala Pictures	mekala|pictures	Mekala|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+43	0	fb:cell.1956	1956	1956	1956	CD	DATE	1956	1956.0	1956-xx-xx		
+43	1	fb:cell.tenali_ramakrishna	Tenali Ramakrishna	tenali|ramakrishna	Tenali|Ramakrishna	NNP|NNP	PERSON|PERSON	|				
+43	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+43	3	fb:cell.rangasaani	Rangasaani	rangasaani	Rangasaani	NNP	PERSON					Rangasaani
+43	4	fb:cell.n_t_rama_rao_a_nageswara_rao	N. T. Rama Rao & A. Nageswara Rao	n.|t.|rama|rao|&|a.|nageswara|rao	N.|T.|Rama|Rao|&|A.|Nageswara|Rao	NNP|NNP|NNP|NNP|CC|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|O|PERSON|PERSON|PERSON	|||||||				N. T. Rama Rao & A. Nageswara Rao
+43	5	fb:cell.viswanathan_ramamoorthy	Viswanathan Ramamoorthy	viswanathan|ramamoorthy	Viswanathan|Ramamoorthy	NNP|NNP	PERSON|PERSON	|				Viswanathan Ramamoorthy
+43	6	fb:cell.vikram_productions	Vikram Productions	vikram|productions	Vikram|Productions	NNP|NNPS	PERSON|PERSON	|				
+44	0	fb:cell.1956	1956	1956	1956	CD	DATE	1956	1956.0	1956-xx-xx		
+44	1	fb:cell.tenali_raman	Tenali Raman	tenali|raman	Tenali|Raman	NNP|NNP	PERSON|PERSON	|				
+44	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+44	3	fb:cell.krishnasani	Krishnasani	krishnasani	Krishnasani	NNP	PERSON					Krishnasani
+44	4	fb:cell.n_t_rama_rao_sivaji_ganesan	N. T. Rama Rao & Sivaji Ganesan	n.|t.|rama|rao|&|sivaji|ganesan	N.|T.|Rama|Rao|&|Sivaji|Ganesan	NNP|NNP|NNP|NNP|CC|NNP|NNP	PERSON|PERSON|PERSON|PERSON|O|PERSON|PERSON	||||||				N. T. Rama Rao & Sivaji Ganesan
+44	5	fb:cell.viswanathan_ramamoorthy	Viswanathan Ramamoorthy	viswanathan|ramamoorthy	Viswanathan|Ramamoorthy	NNP|NNP	PERSON|PERSON	|				Viswanathan Ramamoorthy
+44	6	fb:cell.vikram_productions	Vikram Productions	vikram|productions	Vikram|Productions	NNP|NNPS	PERSON|PERSON	|				
+45	0	fb:cell.1956	1956	1956	1956	CD	DATE	1956	1956.0	1956-xx-xx		
+45	1	fb:cell.sadharam	Sadharam	sadharam	sadharam	FW	PERSON					Sadharam
+45	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+45	3	fb:cell.sadharam	Sadharam	sadharam	sadharam	FW	PERSON					Sadharam
+45	4	fb:cell.gemini_ganesan_k_r_ramaswamy	Gemini Ganesan & K. R. Ramaswamy	gemini|ganesan|&|k.|r.|ramaswamy	Gemini|Ganesan|&|K.|R.|Ramaswamy	NNP|NNP|CC|NNP|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON|PERSON	|||||				Gemini Ganesan & K. R. Ramaswamy
+45	5	fb:cell.g_ramanathan	G. Ramanathan	g.|ramanathan	G.|Ramanathan	NNP|NNP	PERSON|PERSON	|				G. Ramanathan
+45	6	fb:cell.kasturi_films	Kasturi Films	kasturi|films	Kasturi|film	NNP|NNS	ORGANIZATION|ORGANIZATION	|				
+46	0	fb:cell.1956	1956	1956	1956	CD	DATE	1956	1956.0	1956-xx-xx		
+46	1	fb:cell.thaaikkuppin_thaaram	Thaaikkuppin Thaaram	thaaikkuppin|thaaram	thaaikkuppin|thaaram	NN|NN	O|O	|				
+46	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+46	3	fb:cell.sivakami	Sivakami	sivakami	Sivakami	NNP	PERSON					Sivakami
+46	4	fb:cell.m_g_ramachandran	M. G. Ramachandran	m.|g.|ramachandran	M.|G.|Ramachandran	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				M. G. Ramachandran
+46	5	fb:cell.k_v_mahadevan	K. V. Mahadevan	k.|v.|mahadevan	K.|V.|Mahadevan	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				K. V. Mahadevan
+46	6	fb:cell.devar_films	Devar Films	devar|films	devar|film	JJ|NNS	O|O	|				
+47	0	fb:cell.1956	1956	1956	1956	CD	DATE	1956	1956.0	1956-xx-xx		
+47	1	fb:cell.rambaiyin_kaadhal	Rambaiyin Kaadhal	rambaiyin|kaadhal	rambaiyin|kaadhal	NN|NN	PERSON|PERSON	|				
+47	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+47	3	fb:cell.ramba	Ramba	ramba	Ramba	NNP	PERSON					Ramba
+47	4	fb:cell.k_a_thangavelu	K. A. Thangavelu	k.|a.|thangavelu	K.|A.|Thangavelu	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				K. A. Thangavelu
+47	5	fb:cell.t_r_papa	T. R. Papa	t.|r.|papa	T.|R.|papa	NNP|NNP|NN	PERSON|PERSON|PERSON	||				T. R. Papa
+47	6	fb:cell.kalpana_pictures	Kalpana Pictures	kalpana|pictures	Kalpana|Pictures	NNP|NNP	LOCATION|O	|				
+48	0	fb:cell.1957	1957	1957	1957	CD	DATE	1957	1957.0	1957-xx-xx		
+48	1	fb:cell.makkalai_petra_magarasi	Makkalai Petra Magarasi	makkalai|petra|magarasi	Makkalai|Petra|Magarasi	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+48	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+48	3	fb:cell.rangamma	Rangamma	rangamma	rangamma	NN	O					Rangamma
+48	4	fb:cell.sivaji_ganesan	Sivaji Ganesan	sivaji|ganesan	Sivaji|Ganesan	NNP|NNP	PERSON|PERSON	|				Sivaji Ganesan
+48	5	fb:cell.k_v_mahadevan	K. V. Mahadevan	k.|v.|mahadevan	K.|V.|Mahadevan	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				K. V. Mahadevan
+48	6	fb:cell.sri_lakshmi_pictures	Sri Lakshmi Pictures	sri|lakshmi|pictures	Sri|Lakshmi|Pictures	NNP|NNP|NNP	O|O|O	||				
+49	0	fb:cell.1957	1957	1957	1957	CD	DATE	1957	1957.0	1957-xx-xx		
+49	1	fb:cell.manamagan_thevai	Manamagan Thevai	manamagan|thevai	Manamagan|Thevai	NNP|NNP	PERSON|PERSON	|				
+49	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+49	3	fb:cell.null										
+49	4	fb:cell.sivaji_ganesan	Sivaji Ganesan	sivaji|ganesan	Sivaji|Ganesan	NNP|NNP	PERSON|PERSON	|				Sivaji Ganesan
+49	5	fb:cell.g_ramanathan	G. Ramanathan	g.|ramanathan	G.|Ramanathan	NNP|NNP	PERSON|PERSON	|				G. Ramanathan
+49	6	fb:cell.bharani_pictures	Bharani Pictures	bharani|pictures	Bharani|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+50	0	fb:cell.1957	1957	1957	1957	CD	DATE	1957	1957.0	1957-xx-xx		
+50	1	fb:cell.varudu_kavali	Varudu Kavali	varudu|kavali	Varudu|Kavali	NNP|NNP	PERSON|PERSON	|				
+50	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+50	3	fb:cell.null										
+50	4	fb:cell.k_jaggaiah	K. Jaggaiah	k.|jaggaiah	K.|Jaggaiah	NNP|NNP	PERSON|PERSON	|				K. Jaggaiah
+50	5	fb:cell.g_ramanathan	G. Ramanathan	g.|ramanathan	G.|Ramanathan	NNP|NNP	PERSON|PERSON	|				G. Ramanathan
+50	6	fb:cell.bharani_pictures	Bharani Pictures	bharani|pictures	Bharani|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+51	0	fb:cell.1957	1957	1957	1957	CD	DATE	1957	1957.0	1957-xx-xx		
+51	1	fb:cell.rani_lalithangi	Rani Lalithangi	rani|lalithangi	Rani|Lalithangi	NNP|NNP	PERSON|PERSON	|				
+51	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+51	3	fb:cell.null										
+51	4	fb:cell.sivaji_ganesan	Sivaji Ganesan	sivaji|ganesan	Sivaji|Ganesan	NNP|NNP	PERSON|PERSON	|				Sivaji Ganesan
+51	5	fb:cell.g_ramanathan	G. Ramanathan	g.|ramanathan	G.|Ramanathan	NNP|NNP	PERSON|PERSON	|				G. Ramanathan
+51	6	fb:cell.tnr_productions	TNR Productions	tnr|productions	TNR|Productions	NNP|NNPS	LOCATION|O	|				
+52	0	fb:cell.1957	1957	1957	1957	CD	DATE	1957	1957.0	1957-xx-xx		
+52	1	fb:cell.ambikapathy	Ambikapathy	ambikapathy	Ambikapathy	NNP	PERSON					
+52	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+52	3	fb:cell.princess_amaravati	Princess Amaravati	princess|amaravati	Princess|Amaravati	NNP|NNP	O|PERSON	|				Princess Amaravati
+52	4	fb:cell.sivaji_ganesan	Sivaji Ganesan	sivaji|ganesan	Sivaji|Ganesan	NNP|NNP	PERSON|PERSON	|				Sivaji Ganesan
+52	5	fb:cell.g_ramanathan	G. Ramanathan	g.|ramanathan	G.|Ramanathan	NNP|NNP	PERSON|PERSON	|				G. Ramanathan
+52	6	fb:cell.als_productions	ALS Productions	als|productions	ALS|Productions	NNP|NNPS	O|O	|				
+53	0	fb:cell.1957	1957	1957	1957	CD	DATE	1957	1957.0	1957-xx-xx		
+53	1	fb:cell.nala_damayanti	Nala Damayanti	nala|damayanti	nalum|Damayanti	NN|NNP	PERSON|PERSON	|				
+53	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+53	3	fb:cell.damayanthi	Damayanthi	damayanthi	Damayanthi	NNP	PERSON					Damayanthi
+53	4	fb:cell.kemparaj_urs	Kemparaj Urs	kemparaj|urs	Kemparaj|Urs	NNP|NNP	PERSON|PERSON	|				Kemparaj Urs
+53	5	fb:cell.null										
+53	6	fb:cell.null										
+54	0	fb:cell.1957	1957	1957	1957	CD	DATE	1957	1957.0	1957-xx-xx		
+54	1	fb:cell.sarangadhara	Sarangadhara	sarangadhara	Sarangadhara	NNP	PERSON					
+54	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+54	3	fb:cell.chitrangi_devi	Chitrangi Devi	chitrangi|devi	Chitrangi|Devi	NNP|NNP	PERSON|PERSON	|				Chitrangi Devi
+54	4	fb:cell.n_t_rama_rao	N. T. Rama Rao	n.|t.|rama|rao	N.|T.|Rama|Rao	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				N. T. Rama Rao
+54	5	fb:cell.g_ramanathan	G. Ramanathan	g.|ramanathan	G.|Ramanathan	NNP|NNP	PERSON|PERSON	|				G. Ramanathan
+54	6	fb:cell.minerva_pictures	Minerva Pictures	minerva|pictures	Minerva|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+55	0	fb:cell.1958	1958	1958	1958	CD	DATE	1958	1958.0	1958-xx-xx		
+55	1	fb:cell.sarangadhara	Sarangadhara	sarangadhara	Sarangadhara	NNP	PERSON					
+55	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+55	3	fb:cell.chitrangi_devi	Chitrangi Devi	chitrangi|devi	Chitrangi|Devi	NNP|NNP	PERSON|PERSON	|				Chitrangi Devi
+55	4	fb:cell.sivaji_ganesan	Sivaji Ganesan	sivaji|ganesan	Sivaji|Ganesan	NNP|NNP	PERSON|PERSON	|				Sivaji Ganesan
+55	5	fb:cell.g_ramanathan	G. Ramanathan	g.|ramanathan	G.|Ramanathan	NNP|NNP	PERSON|PERSON	|				G. Ramanathan
+55	6	fb:cell.minerva_pictures	Minerva Pictures	minerva|pictures	Minerva|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+56	0	fb:cell.1958	1958	1958	1958	CD	DATE	1958	1958.0	1958-xx-xx		
+56	1	fb:cell.nadodi_mannan	Nadodi Mannan	nadodi|mannan	Nadodi|Mannan	NNP|NNP	PERSON|PERSON	|				
+56	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+56	3	fb:cell.madhana	Madhana	madhana	Madhana	NNP	PERSON					Madhana
+56	4	fb:cell.m_g_ramachandran	M. G. Ramachandran	m.|g.|ramachandran	M.|G.|Ramachandran	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				M. G. Ramachandran
+56	5	fb:cell.s_m_subbaiah_naidu	S. M. Subbaiah Naidu	s.|m.|subbaiah|naidu	S.|M.|Subbaiah|Naidu	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				S. M. Subbaiah Naidu
+56	6	fb:cell.emgeeyar_pictures	Emgeeyar Pictures	emgeeyar|pictures	emgeeyar|picture	JJ|NNS	ORGANIZATION|ORGANIZATION	|				
+57	0	fb:cell.1959	1959	1959	1959	CD	DATE	1959	1959.0	1959-xx-xx		
+57	1	fb:cell.manimekalai	Manimekalai	manimekalai	manimekalaus	NN	PERSON					Manimekalai
+57	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+57	3	fb:cell.manimekalai	Manimekalai	manimekalai	manimekalaus	NN	PERSON					Manimekalai
+57	4	fb:cell.t_r_mahalingam	T. R. Mahalingam	t.|r.|mahalingam	T.|R.|Mahalingam	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				T. R. Mahalingam
+57	5	fb:cell.g_ramanathan	G. Ramanathan	g.|ramanathan	G.|Ramanathan	NNP|NNP	PERSON|PERSON	|				G. Ramanathan
+57	6	fb:cell.shekhar_art_film	Shekhar Art Film	shekhar|art|film	Shekhar|Art|Film	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+58	0	fb:cell.1960	1960	1960	1960	CD	DATE	1960	1960.0	1960-xx-xx		
+58	1	fb:cell.raja_bakthi	Raja Bakthi	raja|bakthi	Raja|Bakthi	NNP|NNP	PERSON|PERSON	|				
+58	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+58	3	fb:cell.maharasai	Maharasai	maharasai	Maharasai	NNP	PERSON					Maharasai
+58	4	fb:cell.sivaji_ganesan_vyjayanthimala	Sivaji Ganesan, Vyjayanthimala	sivaji|ganesan|,|vyjayanthimala	Sivaji|Ganesan|,|Vyjayanthimala	NNP|NNP|,|NNP	PERSON|PERSON|O|PERSON	|||				Sivaji Ganesan|Vyjayanthimala
+58	5	fb:cell.g_govindarajulu_naidu	G. Govindarajulu Naidu	g.|govindarajulu|naidu	G.|Govindarajulu|Naidu	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				G. Govindarajulu Naidu
+58	6	fb:cell.revathi_productions	Revathi Productions	revathi|productions	Revathi|Productions	NNP|NNPS	O|O	|				
+59	0	fb:cell.1960	1960	1960	1960	CD	DATE	1960	1960.0	1960-xx-xx		
+59	1	fb:cell.raja_desingu	Raja Desingu	raja|desingu	Raja|Desingu	NNP|NNP	PERSON|PERSON	|				
+59	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+59	3	fb:cell.ranibhai	Ranibhai	ranibhai	Ranibhai	NNP	PERSON					Ranibhai
+59	4	fb:cell.m_g_ramachandran	M. G. Ramachandran	m.|g.|ramachandran	M.|G.|Ramachandran	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				M. G. Ramachandran
+59	5	fb:cell.g_ramanathan	G. Ramanathan	g.|ramanathan	G.|Ramanathan	NNP|NNP	PERSON|PERSON	|				G. Ramanathan
+59	6	fb:cell.krishna_pictures	Krishna Pictures	krishna|pictures	Krishna|Pictures	NNP|NNP	PERSON|PERSON	|				
+60	0	fb:cell.1961	1961	1961	1961	CD	DATE	1961	1961.0	1961-xx-xx		
+60	1	fb:cell.batasari	Batasari	batasari	Batasari	NNP	PERSON					
+60	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+60	3	fb:cell.madhavi	Madhavi	madhavi	Madhavi	NNP	PERSON					Madhavi
+60	4	fb:cell.a_nageswara_rao	A. Nageswara Rao	a.|nageswara|rao	a.|Nageswara|Rao	NN|NNP|NNP	PERSON|PERSON|PERSON	||				A. Nageswara Rao
+60	5	fb:cell.master_venu	Master Venu	master|venu	master|venu	NN|NN	O|O	|				Master Venu
+60	6	fb:cell.bharani_pictures	Bharani Pictures	bharani|pictures	Bharani|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+61	0	fb:cell.1961	1961	1961	1961	CD	DATE	1961	1961.0	1961-xx-xx		
+61	1	fb:cell.kaanal_neer	Kaanal Neer	kaanal|neer	Kaanal|Neer	NNP|NNP	PERSON|PERSON	|				
+61	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+61	3	fb:cell.madhavi	Madhavi	madhavi	Madhavi	NNP	PERSON					Madhavi
+61	4	fb:cell.a_nageswara_rao	A. Nageswara Rao	a.|nageswara|rao	a.|Nageswara|Rao	NN|NNP|NNP	PERSON|PERSON|PERSON	||				A. Nageswara Rao
+61	5	fb:cell.master_venu	Master Venu	master|venu	master|venu	NN|NN	O|O	|				Master Venu
+61	6	fb:cell.bharani_pictures	Bharani Pictures	bharani|pictures	Bharani|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+62	0	fb:cell.1962	1962	1962	1962	CD	DATE	1962	1962.0	1962-xx-xx		
+62	1	fb:cell.annai	Annai	annai	Annai	NNP	PERSON					
+62	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+62	3	fb:cell.savithri	Savithri	savithri	Savithri	NNP	PERSON					Savithri
+62	4	fb:cell.s_v_ranga_rao	S. V. Ranga Rao	s.|v.|ranga|rao	S.|V.|Ranga|Rao	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				S. V. Ranga Rao
+62	5	fb:cell.r_sudharsanam	R. Sudharsanam	r.|sudharsanam	R.|Sudharsanam	NNP|NNP	PERSON|PERSON	|				R. Sudharsanam
+62	6	fb:cell.avm_productions	AVM Productions	avm|productions	AVM|Productions	NNP|NNPS	ORGANIZATION|O	|				
+63	0	fb:cell.1963	1963	1963	1963	CD	DATE	1963	1963.0	1963-xx-xx		
+63	1	fb:cell.kalai_arasi	Kalai Arasi	kalai|arasi	Kalai|Arasi	NNP|NNP	PERSON|PERSON	|				
+63	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+63	3	fb:cell.vani_valli	Vani & Valli	vani|&|valli	Vani|&|Valli	NNP|CC|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Vani & Valli
+63	4	fb:cell.m_g_ramachandran	M. G. Ramachandran	m.|g.|ramachandran	M.|G.|Ramachandran	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				M. G. Ramachandran
+63	5	fb:cell.k_v_mahadevan	K. V. Mahadevan	k.|v.|mahadevan	K.|V.|Mahadevan	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				K. V. Mahadevan
+63	6	fb:cell.sarodi_brothers	Sarodi Brothers	sarodi|brothers	Sarodi|Brothers	NNP|NNPS	PERSON|O	|				
+64	0	fb:cell.1963	1963	1963	1963	CD	DATE	1963	1963.0	1963-xx-xx		
+64	1	fb:cell.anuragam	Anuragam	anuragam	anuragam	NN	PERSON					
+64	2	fb:cell.null										
+64	3	fb:cell.null										
+64	4	fb:cell.null										
+64	5	fb:cell.null										
+64	6	fb:cell.null										
+65	0	fb:cell.1963	1963	1963	1963	CD	DATE	1963	1963.0	1963-xx-xx		
+65	1	fb:cell.arivaali	Arivaali	arivaali	Arivaali	NNP	PERSON					
+65	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+65	3	fb:cell.manorama	Manorama	manorama	Manorama	NNP	PERSON					Manorama
+65	4	fb:cell.sivaji_ganesan	Sivaji Ganesan	sivaji|ganesan	Sivaji|Ganesan	NNP|NNP	PERSON|PERSON	|				Sivaji Ganesan
+65	5	fb:cell.s_v_venkatraman	S. V. Venkatraman	s.|v.|venkatraman	S.|V.|Venkatraman	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				S. V. Venkatraman
+65	6	fb:cell.a_t_k_productions	A. T. K. Productions	a.|t.|k.|productions	a.|T.|K.|Productions	NN|NNP|NNP|NNPS	PERSON|PERSON|PERSON|PERSON	|||				
+66	0	fb:cell.1963	1963	1963	1963	CD	DATE	1963	1963.0	1963-xx-xx		
+66	1	fb:cell.penchina_prema	Penchina Prema	penchina|prema	Penchina|Prema	NNP|NNP	PERSON|PERSON	|				
+66	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+66	3	fb:cell.null										
+66	4	fb:cell.null										
+66	5	fb:cell.null										
+66	6	fb:cell.null										
+67	0	fb:cell.1963	1963	1963	1963	CD	DATE	1963	1963.0	1963-xx-xx		
+67	1	fb:cell.kaanchi_thalaivan	Kaanchi Thalaivan	kaanchi|thalaivan	Kaanchi|Thalaivan	NNP|NNP	PERSON|PERSON	|				
+67	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+67	3	fb:cell.null										
+67	4	fb:cell.m_g_ramachandran	M. G. Ramachandran	m.|g.|ramachandran	M.|G.|Ramachandran	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				M. G. Ramachandran
+67	5	fb:cell.k_v_mahadevan	K. V. Mahadevan	k.|v.|mahadevan	K.|V.|Mahadevan	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				K. V. Mahadevan
+67	6	fb:cell.mekala_pictures	Mekala Pictures	mekala|pictures	Mekala|Pictures	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+68	0	fb:cell.1964	1964	1964	1964	CD	DATE	1964	1964.0	1964-xx-xx		
+68	1	fb:cell.bobbili_yudham	Bobbili Yudham	bobbili|yudham	Bobbili|Yudham	NNP|NNP	PERSON|PERSON	|				
+68	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+68	3	fb:cell.mallamma	Mallamma	mallamma	mallamma	NN	PERSON					Mallamma
+68	4	fb:cell.n_t_rama_rao	N. T. Rama Rao	n.|t.|rama|rao	N.|T.|Rama|Rao	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				N. T. Rama Rao
+68	5	fb:cell.s_rajeswara_rao	S. Rajeswara Rao	s.|rajeswara|rao	S.|Rajeswara|Rao	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				S. Rajeswara Rao
+68	6	fb:cell.null										
+69	0	fb:cell.1964	1964	1964	1964	CD	DATE	1964	1964.0	1964-xx-xx		
+69	1	fb:cell.vivaha_bandham	Vivaha Bandham	vivaha|bandham	vivaha|bandham	NN|NN	PERSON|PERSON	|				
+69	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+69	3	fb:cell.bharati	Bharati	bharati	Bharati	NNP	PERSON					Bharati
+69	4	fb:cell.null										
+69	5	fb:cell.null										
+69	6	fb:cell.null										
+70	0	fb:cell.1965	1965	1965	1965	CD	DATE	1965	1965.0	1965-xx-xx		
+70	1	fb:cell.antastulu	Antastulu	antastulu	Antastulu	NNP	PERSON					
+70	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+70	3	fb:cell.null										
+70	4	fb:cell.a_nageswara_rao	A. Nageswara Rao	a.|nageswara|rao	a.|Nageswara|Rao	NN|NNP|NNP	PERSON|PERSON|PERSON	||				A. Nageswara Rao
+70	5	fb:cell.k_v_mahadevan	K. V. Mahadevan	k.|v.|mahadevan	K.|V.|Mahadevan	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				K. V. Mahadevan
+70	6	fb:cell.null										
+71	0	fb:cell.1965	1965	1965	1965	CD	DATE	1965	1965.0	1965-xx-xx		
+71	1	fb:cell.todu_needa	Todu Needa	todu|needa	todu|needa	NN|NN	PERSON|PERSON	|				
+71	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+71	3	fb:cell.null										
+71	4	fb:cell.null										
+71	5	fb:cell.null										
+71	6	fb:cell.null										
+72	0	fb:cell.1966	1966	1966	1966	CD	DATE	1966	1966.0	1966-xx-xx		
+72	1	fb:cell.palnati_yudham	Palnati Yudham	palnati|yudham	Palnati|Yudham	NNP|NNP	PERSON|PERSON	|				
+72	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+72	3	fb:cell.nagamma	Nagamma	nagamma	nagamma	NN	O					Nagamma
+72	4	fb:cell.n_t_rama_rao	N. T. Rama Rao	n.|t.|rama|rao	N.|T.|Rama|Rao	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				N. T. Rama Rao
+72	5	fb:cell.s_rajeswara_rao	S. Rajeswara Rao	s.|rajeswara|rao	S.|Rajeswara|Rao	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				S. Rajeswara Rao
+72	6	fb:cell.sri_anuroopa_films	Sri Anuroopa Films	sri|anuroopa|films	Sri|Anuroopa|film	NNP|NNP|NNS	O|O|O	||				
+73	0	fb:cell.1967	1967	1967	1967	CD	DATE	1967	1967.0	1967-xx-xx		
+73	1	fb:cell.grihalakshmi	Grihalakshmi	grihalakshmi	Grihalakshmi	NNP	PERSON					
+73	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+73	3	fb:cell.laxmi	Laxmi	laxmi	Laxmi	NNP	PERSON					Laxmi
+73	4	fb:cell.null										
+73	5	fb:cell.null										
+73	6	fb:cell.null										
+74	0	fb:cell.1967	1967	1967	1967	CD	DATE	1967	1967.0	1967-xx-xx		
+74	1	fb:cell.pattatthu_rani	Pattatthu Rani	pattatthu|rani	Pattatthu|Rani	NNP|NNP	PERSON|PERSON	|				
+74	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+74	3	fb:cell.null										
+74	4	fb:cell.gemini_ganesan	Gemini Ganesan	gemini|ganesan	Gemini|Ganesan	NNP|NNP	PERSON|PERSON	|				Gemini Ganesan
+74	5	fb:cell.t_k_ramamoorthy	T. K. Ramamoorthy	t.|k.|ramamoorthy	T.|K.|Ramamoorthy	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				T. K. Ramamoorthy
+74	6	fb:cell.null										
+75	0	fb:cell.1968	1968	1968	1968	CD	DATE	1968	1968.0	1968-xx-xx		
+75	1	fb:cell.poovum_pottum	Poovum Pottum	poovum|pottum	poovum|pottum	NN|NN	O|O	|				
+75	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+75	3	fb:cell.padmavathi	Padmavathi	padmavathi	padmavathus	NN	PERSON					Padmavathi
+75	4	fb:cell.s_v_ranga_rao	S. V. Ranga Rao	s.|v.|ranga|rao	S.|V.|Ranga|Rao	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				S. V. Ranga Rao
+75	5	fb:cell.r_govardhanam	R. Govardhanam	r.|govardhanam	R.|Govardhanam	NNP|NNP	PERSON|PERSON	|				R. Govardhanam
+75	6	fb:cell.vasu_films	Vasu Films	vasu|films	Vasu|film	NNP|NNS	PERSON|PERSON	|				
+76	0	fb:cell.1971	1971	1971	1971	CD	DATE	1971	1971.0	1971-xx-xx		
+76	1	fb:cell.mattilo_manikyam	Mattilo Manikyam	mattilo|manikyam	Mattilo|Manikyam	NNP|NNP	PERSON|PERSON	|				
+76	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+76	3	fb:cell.lalitha	Lalitha	lalitha	Lalitha	NNP	PERSON					Lalitha
+76	4	fb:cell.null										
+76	5	fb:cell.null										
+76	6	fb:cell.null										
+77	0	fb:cell.1972	1972	1972	1972	CD	DATE	1972	1972.0	1972-xx-xx		
+77	1	fb:cell.anta_mana_manchike	Anta Mana Manchike	anta|mana|manchike	Anta|Mana|Manchike	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+77	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+77	3	fb:cell.savitri	Savitri	savitri	Savitri	NNP	PERSON					Savitri
+77	4	fb:cell.null										
+77	5	fb:cell.null										
+77	6	fb:cell.null										
+78	0	fb:cell.1973	1973	1973	1973	CD	DATE	1973	1973.0	1973-xx-xx		
+78	1	fb:cell.kattila_thottila	Kattila Thottila	kattila|thottila	Kattila|Thottila	NNP|NNP	PERSON|PERSON	|				
+78	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+78	3	fb:cell.null										
+78	4	fb:cell.gemini_ganesan	Gemini Ganesan	gemini|ganesan	Gemini|Ganesan	NNP|NNP	PERSON|PERSON	|				Gemini Ganesan
+78	5	fb:cell.null										
+78	6	fb:cell.arul_films	Arul Films	arul|films	Arul|film	NNP|NNS	PERSON|PERSON	|				
+79	0	fb:cell.1973	1973	1973	1973	CD	DATE	1973	1973.0	1973-xx-xx		
+79	1	fb:cell.vichitra_vivaham	Vichitra Vivaham	vichitra|vivaham	Vichitra|Vivaham	NNP|NNP	PERSON|PERSON	|				
+79	2	fb:cell.null										
+79	3	fb:cell.null										
+79	4	fb:cell.null										
+79	5	fb:cell.null										
+79	6	fb:cell.null										
+80	0	fb:cell.1974	1974	1974	1974	CD	DATE	1974	1974.0	1974-xx-xx		
+80	1	fb:cell.ammayi_pelli	Ammayi Pelli	ammayi|pelli	Ammayi|Pelli	NNP|NNP	PERSON|PERSON	|				
+80	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+80	3	fb:cell.null										
+80	4	fb:cell.null										
+80	5	fb:cell.null										
+80	6	fb:cell.null										
+81	0	fb:cell.1974	1974	1974	1974	CD	DATE	1974	1974.0	1974-xx-xx		
+81	1	fb:cell.tatamma_kala	Tatamma Kala	tatamma|kala	Tatamma|Kala	NNP|NNP	PERSON|PERSON	|				
+81	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+81	3	fb:cell.null										
+81	4	fb:cell.null										
+81	5	fb:cell.null										
+81	6	fb:cell.null										
+82	0	fb:cell.1975	1975	1975	1975	CD	DATE	1975	1975.0	1975-xx-xx		
+82	1	fb:cell.ippadiyum_oru_penn	Ippadiyum Oru Penn	ippadiyum|oru|penn	Ippadiyum|Oru|Penn	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+82	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+82	3	fb:cell.null										
+82	4	fb:cell.null										
+82	5	fb:cell.null										
+82	6	fb:cell.null										
+83	0	fb:cell.1975	1975	1975	1975	CD	DATE	1975	1975.0	1975-xx-xx		
+83	1	fb:cell.pathu_maadha_bandham	Pathu Maadha Bandham	pathu|maadha|bandham	pathu|maadha|bandham	NN|NN|NN	PERSON|PERSON|PERSON	||				
+83	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+83	3	fb:cell.s_a_asokan	S. A. Asokan	s.|a.|asokan	S.|A.|Asokan	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				S. A. Asokan
+83	4	fb:cell.krishnan_panju	Krishnan-Panju	krishnan|panju	Krishnan|Panju	NNP|NNP	PERSON|PERSON	|				Krishnan-Panju
+83	5	fb:cell.null										
+83	6	fb:cell.null										
+84	0	fb:cell.1977	1977	1977	1977	CD	DATE	1977	1977.0	1977-xx-xx		
+84	1	fb:cell.manavadi_kosam	Manavadi Kosam	manavadi|kosam	Manavadi|Kosam	NNP|NNP	PERSON|PERSON	|				
+84	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+84	3	fb:cell.null										
+84	4	fb:cell.null										
+84	5	fb:cell.null										
+84	6	fb:cell.null										
+85	0	fb:cell.1984	1984	1984	1984	CD	DATE	1984	1984.0	1984-xx-xx		
+85	1	fb:cell.mangamma_gari_manavadu	Mangamma Gari Manavadu	mangamma|gari|manavadu	Mangamma|Gari|Manavadu	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+85	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+85	3	fb:cell.mangamma	Mangamma	mangamma	mangamma	NN	O					Mangamma
+85	4	fb:cell.null										
+85	5	fb:cell.null										
+85	6	fb:cell.null										
+86	0	fb:cell.1986	1986	1986	1986	CD	DATE	1986	1986.0	1986-xx-xx		
+86	1	fb:cell.muddula_manavaraalu	Muddula Manavaraalu	muddula|manavaraalu	muddulum|manavaraalu	NN|NN	PERSON|PERSON	|				
+86	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+86	3	fb:cell.null										
+86	4	fb:cell.null										
+86	5	fb:cell.null										
+86	6	fb:cell.null										
+87	0	fb:cell.1986	1986	1986	1986	CD	DATE	1986	1986.0	1986-xx-xx		
+87	1	fb:cell.kannukku_mai_ezhuthu	Kannukku Mai Ezhuthu	kannukku|mai|ezhuthu	Kannukku|Mai|Ezhuthu	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+87	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+87	3	fb:cell.null										
+87	4	fb:cell.sujatha_sarath_babu	Sujatha, Sarath Babu	sujatha|,|sarath|babu	Sujatha|,|Sarath|Babu	NNP|,|NNP|NNP	PERSON|O|PERSON|PERSON	|||				Sujatha|Sarath Babu
+87	5	fb:cell.ilaiyaraaja	Ilaiyaraaja	ilaiyaraaja	ilaiyaraaja	NN	PERSON					Ilaiyaraaja
+87	6	fb:cell.null										
+88	0	fb:cell.1988	1988	1988	1988	CD	DATE	1988	1988.0	1988-xx-xx		
+88	1	fb:cell.attagaru_swagatham	Attagaru Swagatham	attagaru|swagatham	attagaru|swagatham	NN|NN	PERSON|PERSON	|				
+88	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+88	3	fb:cell.null										
+88	4	fb:cell.null										
+88	5	fb:cell.null										
+88	6	fb:cell.null										
+89	0	fb:cell.1990	1990	1990	1990	CD	DATE	1990	1990.0	1990-xx-xx		
+89	1	fb:cell.bamma_maata_bangaru_baata	Bamma Maata Bangaru Baata	bamma|maata|bangaru|baata	Bamma|Maata|Bangaru|Baata	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				
+89	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+89	3	fb:cell.bamma	Bamma	bamma	bamma	NN	PERSON					Bamma
+89	4	fb:cell.null										
+89	5	fb:cell.null										
+89	6	fb:cell.null										
+90	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+90	1	fb:cell.chamanthi	Chamanthi	chamanthi	Chamanthi	NNP	PERSON					
+90	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+90	3	fb:cell.bhuvaneswari	Bhuvaneswari	bhuvaneswari	Bhuvaneswari	NNP	PERSON					Bhuvaneswari
+90	4	fb:cell.null										
+90	5	fb:cell.null										
+90	6	fb:cell.null										
+91	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+91	1	fb:cell.peddarikam	Peddarikam	peddarikam	peddarikam	NN	PERSON					
+91	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+91	3	fb:cell.adusumilli_basavapunnamma	Adusumilli Basavapunnamma	adusumilli|basavapunnamma	adusumilli|basavapunnamma	JJ|NN	PERSON|PERSON	|				Adusumilli Basavapunnamma
+91	4	fb:cell.null										
+91	5	fb:cell.null										
+91	6	fb:cell.null										
+92	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+92	1	fb:cell.samrat_ashok	Samrat Ashok	samrat|ashok	Samrat|Ashok	NNP|NNP	PERSON|PERSON	|				
+92	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+92	3	fb:cell.null										
+92	4	fb:cell.null										
+92	5	fb:cell.null										
+92	6	fb:cell.null										
+93	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+93	1	fb:cell.chembaruthi	Chembaruthi	chembaruthi	Chembaruthi	NNP	PERSON					
+93	2	fb:cell.tamil	Tamil	tamil	Tamil	NNP	MISC					
+93	3	fb:cell.null										
+93	4	fb:cell.prashanth_roja	Prashanth, Roja	prashanth|,|roja	Prashanth|,|Roja	NNP|,|NNP	O|O|PERSON	||				Prashanth|Roja
+93	5	fb:cell.ilaiyaraaja	Ilaiyaraaja	ilaiyaraaja	ilaiyaraaja	NN	PERSON					Ilaiyaraaja
+93	6	fb:cell.motherland_movies	Motherland Movies	motherland|movies	motherland|movie	NN|NNS	O|O	|				
+94	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+94	1	fb:cell.pelli_kanuka	Pelli Kanuka	pelli|kanuka	Pelli|Kanuka	NNP|NNP	PERSON|PERSON	|				
+94	2	fb:cell.telugu	Telugu	telugu	Telugu	NNP	O					
+94	3	fb:cell.savithramma	Savithramma	savithramma	savithramma	NN	PERSON					Savithramma
+94	4	fb:cell.null										
+94	5	fb:cell.null										
+94	6	fb:cell.null										

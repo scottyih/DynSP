@@ -1,0 +1,134 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.component	Component	component	component	NN	O					
+-1	1	fb:row.row.model_01	Model 01	model|01	model|01	NN|NN	O|NUMBER	|1.0				
+-1	2	fb:row.row.model_01_2	Model 01+	model|01|+	model|01|+	NN|NN|CC	O|NUMBER|O	|1.0|				
+-1	3	fb:row.row.model_02	Model 02	model|02	model|02	NN|NN	O|NUMBER	|2.0				
+-1	4	fb:row.row.model_e2	Model e2	model|e2	model|e2	NN|NN	O|O	|				
+-1	5	fb:row.row.model_2_pre_production	Model 2+ (Pre-production)	model|2|+|-lrb-|pre|production|-rrb-	model|2|+|-lrb-|pre|production|-rrb-	NN|CD|CC|-LRB-|JJ|NN|-RRB-	O|NUMBER|O|O|O|O|O	|2.0|||||				
+-1	6	fb:row.row.model_03_china_copy	model 03 (China Copy)	model|03|-lrb-|china|copy|-rrb-	model|03|-lrb-|China|copy|-rrb-	NN|NN|-LRB-|NNP|NN|-RRB-	O|NUMBER|O|LOCATION|O|O	|3.0||||				
+0	0	fb:cell.cpu	CPU	cpu	CPU	NNP	O					
+0	1	fb:cell.transmeta_crusoe_1_ghz	Transmeta Crusoe 1 GHz	transmeta|crusoe|1|ghz	Transmeta|Crusoe|1|ghz	NNP|NNP|CD|NN	ORGANIZATION|ORGANIZATION|NUMBER|O	||1.0|	1.0			Transmeta Crusoe 1 GHz
+0	2	fb:cell.transmeta_crusoe_1_ghz	Transmeta Crusoe 1 GHz	transmeta|crusoe|1|ghz	Transmeta|Crusoe|1|ghz	NNP|NNP|CD|NN	ORGANIZATION|ORGANIZATION|NUMBER|O	||1.0|	1.0			Transmeta Crusoe 1 GHz
+0	3	fb:cell.via_c7m_ulv_1_6_ghz	Via C7M ULV 1.6 GHz	via|c7m|ulv|1.6|ghz	via|c7m|ulv|1.6|ghz	IN|NN|NN|CD|NN	O|O|O|NUMBER|O	|||1.6|	7.0		1.6	Via C7M ULV 1.6 GHz
+0	4	fb:cell.via_c7m_ulv_1_6_ghz	Via C7M ULV 1.6 GHz	via|c7m|ulv|1.6|ghz	via|c7m|ulv|1.6|ghz	IN|NN|NN|CD|NN	O|O|O|NUMBER|O	|||1.6|	7.0		1.6	Via C7M ULV 1.6 GHz
+0	5	fb:cell.intel_atom_z540_1_86_ghz	Intel Atom Z540 1.86 GHz	intel|atom|z540|1.86|ghz	Intel|atom|z540|1.86|ghz	NNP|NN|NN|CD|NN	ORGANIZATION|O|O|NUMBER|O	|||1.86|	5401.86			Intel Atom Z540 1.86 GHz
+0	6	fb:cell.intel_atom_z550_1_2_ghz_dual_core	Intel atom Z550 1.2 GHz dual core	intel|atom|z550|1.2|ghz|dual|core	Intel|atom|z550|1.2|ghz|dual|core	NNP|NN|NN|CD|NN|JJ|NN	ORGANIZATION|O|O|NUMBER|O|O|O	|||1.2|||	5501.2			Intel atom Z550 1.2 GHz dual core
+1	0	fb:cell.ram	RAM	ram	RAM	NNP	O					
+1	1	fb:cell.256mb_ddr	256MB DDR	256mb|ddr	256mb|ddr	JJ|NN	O|O	|	256.0			256MB DDR
+1	2	fb:cell.512mb_ddr	512MB DDR	512mb|ddr	512mb|ddr	JJ|NN	O|O	|	512.0			512MB DDR
+1	3	fb:cell.1gb_ddr2	1GB DDR2	1gb|ddr2	1gb|ddr2	JJ|NN	O|O	|	1.0		2.0	1GB DDR2
+1	4	fb:cell.1gb_ddr2	1GB DDR2	1gb|ddr2	1gb|ddr2	JJ|NN	O|O	|	1.0		2.0	1GB DDR2
+1	5	fb:cell.2gb_ddr2	2GB DDR2	2gb|ddr2	2gb|ddr2	JJ|NN	O|O	|	2.0		2.0	2GB DDR2
+1	6	fb:cell.2gb_ddr2	2GB DDR2	2gb|ddr2	2gb|ddr2	JJ|NN	O|O	|	2.0		2.0	2GB DDR2
+2	0	fb:cell.hard_drive	Hard Drive	hard|drive	hard|drive	JJ|NN	O|O	|				
+2	1	fb:cell.20gb_hdd	20GB HDD	20gb|hdd	20gb|hdd	JJ|NN	O|O	|	20.0			20GB HDD
+2	2	fb:cell.30gb_hdd	30GB HDD	30gb|hdd	30gb|hdd	JJ|NN	O|O	|	30.0			30GB HDD
+2	3	fb:cell.120gb_hdd_or_64gb_ssd	120GB HDD or 64GB SSD	120gb|hdd|or|64gb|ssd	120gb|hdd|or|64gb|ssd	CD|NN|CC|JJ|NN	NUMBER|O|O|O|O	120.0||||	120.0		64.0	120GB HDD or 64GB SSD
+2	4	fb:cell.120gb_hdd_or_64gb_ssd	120GB HDD or 64GB SSD	120gb|hdd|or|64gb|ssd	120gb|hdd|or|64gb|ssd	CD|NN|CC|JJ|NN	NUMBER|O|O|O|O	120.0||||	120.0		64.0	120GB HDD or 64GB SSD
+2	5	fb:cell.120gb_hdd_or_64gb_ssd	120GB HDD or 64GB SSD	120gb|hdd|or|64gb|ssd	120gb|hdd|or|64gb|ssd	CD|NN|CC|JJ|NN	NUMBER|O|O|O|O	120.0||||	120.0		64.0	120GB HDD or 64GB SSD
+2	6	fb:cell.120gb_hdd_or_64gb_ssd	120GB HDD or 64GB SSD	120gb|hdd|or|64gb|ssd	120gb|hdd|or|64gb|ssd	CD|NN|CC|JJ|NN	NUMBER|O|O|O|O	120.0||||	120.0		64.0	120GB HDD or 64GB SSD
+3	0	fb:cell.display	Display	display	display	NN	O					
+3	1	fb:cell.5_transflective_800x480_lcd	5" Transflective 800x480 LCD	5|''|transflective|800x480|lcd	5|''|transflective|800x480|lcd	CD|''|JJ|NN|NNS	NUMBER|O|O|O|O	5.0||||	5.0		800.0	5" Transflective 800x480 LCD
+3	2	fb:cell.5_transflective_800x480_lcd	5" Transflective 800x480 LCD	5|''|transflective|800x480|lcd	5|''|transflective|800x480|lcd	CD|''|JJ|NN|NNS	NUMBER|O|O|O|O	5.0||||	5.0		800.0	5" Transflective 800x480 LCD
+3	3	fb:cell.5_800x480_lcd	5" 800x480 LCD	5|''|800x480|lcd	5|''|800x480|lcd	CD|''|CD|NNS	NUMBER|O|NUMBER|O	5.0||800480.0|	5.0		800.0	5" 800x480 LCD
+3	4	fb:cell.5_800x480_lcd	5" 800x480 LCD	5|''|800x480|lcd	5|''|800x480|lcd	CD|''|CD|NNS	NUMBER|O|NUMBER|O	5.0||800480.0|	5.0		800.0	5" 800x480 LCD
+3	5	fb:cell.5_active_matrix_800x480_oled	5" active matrix 800x480 OLED	5|''|active|matrix|800x480|oled	5|''|active|matrix|800x480|ole	CD|''|JJ|NN|CD|VBD	NUMBER|O|O|O|NUMBER|O	5.0||||800480.0|	5.0		800.0	5" active matrix 800x480 OLED
+3	6	fb:cell.4_8_active_matrix_1024x600_oled	4.8" active matrix 1024X600 OLED	4.8|''|active|matrix|1024x600|oled	4.8|''|active|matrix|1024x600|ole	CD|''|JJ|NN|CD|VBD	NUMBER|O|O|O|NUMBER|O	4.8||||1024600.0|	4.8		1024.0	4.8" active matrix 1024X600 OLED
+4	0	fb:cell.usb	USB	usb	usb	JJ	O					
+4	1	fb:cell.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1			1.1
+4	2	fb:cell.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0			2.0
+4	3	fb:cell.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0			2.0
+4	4	fb:cell.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0			2.0
+4	5	fb:cell.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0			2.0
+4	6	fb:cell.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0			2.0
+5	0	fb:cell.wi_fi	Wi-Fi	wi|fi	Wi|fus	NNP|NN	PERSON|PERSON	|				
+5	1	fb:cell.802_11b	802.11b	802.11|b	802.11|b	CD|NN	NUMBER|O	802.11|	802.11			802.11b
+5	2	fb:cell.802_11b	802.11b	802.11|b	802.11|b	CD|NN	NUMBER|O	802.11|	802.11			802.11b
+5	3	fb:cell.802_11a_b_g	802.11a/b/g	802.11|a/b/g	802.11|a/b/g	CD|NN	NUMBER|O	802.11|	802.11			802.11a|b|g
+5	4	fb:cell.802_11a_b_g	802.11a/b/g	802.11|a/b/g	802.11|a/b/g	CD|NN	NUMBER|O	802.11|	802.11			802.11a|b|g
+5	5	fb:cell.802_11a_b_g	802.11a/b/g	802.11|a/b/g	802.11|a/b/g	CD|NN	NUMBER|O	802.11|	802.11			802.11a|b|g
+5	6	fb:cell.802_11a_b_g_n	802.11a/b/g/n	802.11|a/b/g|/|n	802.11|a/b/g|/|n	CD|NN|:|NN	NUMBER|O|O|O	802.11|||	802.11			802.11a|b|g|n
+6	0	fb:cell.wwan	WWAN	wwan	WWAN	NNP	O					
+6	1	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+6	2	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+6	3	fb:cell.evdo_from_sprint_or_verizon	EVDO from Sprint or Verizon	evdo|from|sprint|or|verizon	EVDO|from|Sprint|or|Verizon	NNP|IN|NNP|CC|NNP	O|O|O|O|O	||||				EVDO from Sprint or Verizon
+6	4	fb:cell.hsdpa	HSDPA	hsdpa	hsdpa	NN	PERSON					HSDPA
+6	5	fb:cell.ev_do_and_hspa	EV-DO and HSPA	ev|do|and|hspa	ev|do|and|hspa	NN|VBD-AUX|CC|VBP	O|O|O|O	|||				EV-DO and HSPA
+6	6	fb:cell.hsdpa_3g	HSDPA 3G	hsdpa|3g	hsdpa|3g	NN|NN	O|O	|	3.0			HSDPA 3G
+7	0	fb:cell.bluetooth	Bluetooth	bluetooth	Bluetooth	NNP	O					
+7	1	fb:cell.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1			1.1
+7	2	fb:cell.1_1	1.1	1.1	1.1	CD	NUMBER	1.1	1.1			1.1
+7	3	fb:cell.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0			2.0
+7	4	fb:cell.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0			2.0
+7	5	fb:cell.2_0	2.0	2.0	2.0	CD	NUMBER	2.0	2.0			2.0
+7	6	fb:cell.2_1	2.1	2.1	2.1	CD	NUMBER	2.1	2.1			2.1
+8	0	fb:cell.wacom	Wacom	wacom	Wacom	NNP	ORGANIZATION					
+8	1	fb:cell.yes	Yes	yes	yes	UH	O					Yes
+8	2	fb:cell.yes_improved_accuracy	Yes (Improved accuracy)	yes|-lrb-|improved|accuracy|-rrb-	yes|-lrb-|improve|accuracy|-rrb-	UH|-LRB-|VBN|NN|-RRB-	O|O|O|O|O	||||				Yes (Improved accuracy)
+8	3	fb:cell.yes	Yes	yes	yes	UH	O					Yes
+8	4	fb:cell.yes	Yes	yes	yes	UH	O					Yes
+8	5	fb:cell.yes	Yes	yes	yes	UH	O					Yes
+8	6	fb:cell.unknown	unknown	unknown	unknown	JJ	O					unknown
+9	0	fb:cell.gpu	GPU	gpu	GPU	NNP	O					
+9	1	fb:cell.silicon_motion_lynx_3dm	Silicon motion Lynx 3DM+	silicon|motion|lynx|3dm|+	Silicon|motion|Lynx|3DM|+	NNP|NNP|NNP|NNP|CC	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O	||||	3.0			Silicon motion Lynx 3DM+
+9	2	fb:cell.silicon_motion_lynx_3dm	Silicon motion Lynx 3DM+	silicon|motion|lynx|3dm|+	Silicon|motion|Lynx|3DM|+	NNP|NNP|NNP|NNP|CC	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O	||||	3.0			Silicon motion Lynx 3DM+
+9	3	fb:cell.via_vx700	VIA VX700	via|vx700	via|vx700	IN|NN	O|O	|	700.0			VIA VX700
+9	4	fb:cell.via_vx700	VIA VX700	via|vx700	via|vx700	IN|NN	O|O	|	700.0			VIA VX700
+9	5	fb:cell.intel_gma500	Intel GMA500	intel|gma500	Intel|gma500	NNP|CD	ORGANIZATION|NUMBER	|500.0	500.0			Intel GMA500
+9	6	fb:cell.intel_gma500	Intel GMA500	intel|gma500	Intel|gma500	NNP|CD	ORGANIZATION|NUMBER	|500.0	500.0			Intel GMA500
+10	0	fb:cell.removable_battery	Removable Battery	removable|battery	removable|battery	JJ|NN	O|O	|				
+10	1	fb:cell.4_000_mah_or_8_000_mah	4,000 mAh or 8,000 mAh	4,000|mah|or|8,000|mah	4,000|mah|or|8,000|mah	CD|NN|CC|CD|NN	NUMBER|O|O|NUMBER|O	4000.0|||8000.0|	4000.0		8000.0	4,000 mAh or 8,000 mAh
+10	2	fb:cell.4_000_mah_or_8_000_mah	4,000 mAh or 8,000 mAh	4,000|mah|or|8,000|mah	4,000|mah|or|8,000|mah	CD|NN|CC|CD|NN	NUMBER|O|O|NUMBER|O	4000.0|||8000.0|	4000.0		8000.0	4,000 mAh or 8,000 mAh
+10	3	fb:cell.4_500_mah_or_9_000_mah	4,500 mAh or 9,000 mAh	4,500|mah|or|9,000|mah	4,500|mah|or|9,000|mah	CD|NN|CC|CD|NN	NUMBER|O|O|NUMBER|O	4500.0|||9000.0|	4500.0		9000.0	4,500 mAh or 9,000 mAh
+10	4	fb:cell.4_500_mah_or_9_000_mah	4,500 mAh or 9,000 mAh	4,500|mah|or|9,000|mah	4,500|mah|or|9,000|mah	CD|NN|CC|CD|NN	NUMBER|O|O|NUMBER|O	4500.0|||9000.0|	4500.0		9000.0	4,500 mAh or 9,000 mAh
+10	5	fb:cell.4_500_mah_or_9_000_mah	4,500 mAh or 9,000 mAh	4,500|mah|or|9,000|mah	4,500|mah|or|9,000|mah	CD|NN|CC|CD|NN	NUMBER|O|O|NUMBER|O	4500.0|||9000.0|	4500.0		9000.0	4,500 mAh or 9,000 mAh
+10	6	fb:cell.4_500_mah_or_9_000_mah	4,500 mAh or 9,000 mAh	4,500|mah|or|9,000|mah	4,500|mah|or|9,000|mah	CD|NN|CC|CD|NN	NUMBER|O|O|NUMBER|O	4500.0|||9000.0|	4500.0		9000.0	4,500 mAh or 9,000 mAh
+11	0	fb:cell.battery_type	Battery Type	battery|type	battery|type	NN|NN	O|O	|				
+11	1	fb:cell.lithium_polymer	lithium polymer	lithium|polymer	lithium|polymer	NN|NN	O|O	|				lithium polymer
+11	2	fb:cell.lithium_polymer	lithium polymer	lithium|polymer	lithium|polymer	NN|NN	O|O	|				lithium polymer
+11	3	fb:cell.lithium_ion_polymer	lithium ion polymer	lithium|ion|polymer	lithium|ion|polymer	NN|NN|NN	O|PERSON|PERSON	||				lithium ion polymer
+11	4	fb:cell.lithium_ion_polymer	lithium ion polymer	lithium|ion|polymer	lithium|ion|polymer	NN|NN|NN	O|PERSON|PERSON	||				lithium ion polymer
+11	5	fb:cell.lithium_ion_polymer	lithium ion polymer	lithium|ion|polymer	lithium|ion|polymer	NN|NN|NN	O|PERSON|PERSON	||				lithium ion polymer
+11	6	fb:cell.unknown	unknown	unknown	unknown	JJ	O					unknown
+12	0	fb:cell.docking_cable	Docking Cable	docking|cable	docking|cable	NN|NN	O|O	|				
+12	1	fb:cell.usb_1_1	USB 1.1	usb|1.1	usb|1.1	JJ|CD	O|NUMBER	|1.1	1.1			USB 1.1
+12	2	fb:cell.usb_2_0	USB 2.0	usb|2.0	usb|2.0	JJ|CD	O|NUMBER	|2.0	2.0			USB 2.0
+12	3	fb:cell.replaced_by_dongle_or_dock	replaced by dongle or dock	replaced|by|dongle|or|dock	replace|by|dongle|or|dock	VBN|IN|NN|CC|NN	O|O|O|O|O	||||				replaced by dongle or dock
+12	4	fb:cell.replaced_by_dongle_or_dock	replaced by dongle or dock	replaced|by|dongle|or|dock	replace|by|dongle|or|dock	VBN|IN|NN|CC|NN	O|O|O|O|O	||||				replaced by dongle or dock
+12	5	fb:cell.replaced_by_dongle_or_dock	replaced by dongle or dock	replaced|by|dongle|or|dock	replace|by|dongle|or|dock	VBN|IN|NN|CC|NN	O|O|O|O|O	||||				replaced by dongle or dock
+12	6	fb:cell.replaced_by_dongle_or_dock	replaced by dongle or dock	replaced|by|dongle|or|dock	replace|by|dongle|or|dock	VBN|IN|NN|CC|NN	O|O|O|O|O	||||				replaced by dongle or dock
+13	0	fb:cell.dock	Dock	dock	dock	NN	O					
+13	1	fb:cell.zinc_stand	Zinc stand	zinc|stand	zinc|stand	NN|NN	O|O	|				Zinc stand
+13	2	fb:cell.zinc_stand	Zinc stand	zinc|stand	zinc|stand	NN|NN	O|O	|				Zinc stand
+13	3	fb:cell.gloss_black_w_optical_drive	Gloss Black w/ optical drive	gloss|black|w|/|optical|drive	gloss|Black|w|/|optical|drive	VB|NNP|NNP|:|JJ|NN	O|O|O|O|O|O	|||||				Gloss Black w|optical drive
+13	4	fb:cell.gloss_black_w_optical_drive	Gloss Black w/ optical drive	gloss|black|w|/|optical|drive	gloss|Black|w|/|optical|drive	VB|NNP|NNP|:|JJ|NN	O|O|O|O|O|O	|||||				Gloss Black w|optical drive
+13	5	fb:cell.gloss_black_w_optical_drive	Gloss Black w/ optical drive	gloss|black|w|/|optical|drive	gloss|Black|w|/|optical|drive	VB|NNP|NNP|:|JJ|NN	O|O|O|O|O|O	|||||				Gloss Black w|optical drive
+13	6	fb:cell.gloss_black_w_optical_drive	Gloss Black w/ optical drive	gloss|black|w|/|optical|drive	gloss|Black|w|/|optical|drive	VB|NNP|NNP|:|JJ|NN	O|O|O|O|O|O	|||||				Gloss Black w|optical drive
+14	0	fb:cell.ethernet	Ethernet	ethernet	ethernet	NN	O					
+14	1	fb:cell.10baset	10BaseT	10baset	10baset	CD	NUMBER	10.0	10.0			10BaseT
+14	2	fb:cell.100baset	100BaseT	100baset	100baset	CD	NUMBER	100.0	100.0			100BaseT
+14	3	fb:cell.100baset	100BaseT	100baset	100baset	CD	NUMBER	100.0	100.0			100BaseT
+14	4	fb:cell.100baset	100BaseT	100baset	100baset	CD	NUMBER	100.0	100.0			100BaseT
+14	5	fb:cell.100baset	100BaseT	100baset	100baset	CD	NUMBER	100.0	100.0			100BaseT
+14	6	fb:cell.100baset	100BaseT	100baset	100baset	CD	NUMBER	100.0	100.0			100BaseT
+15	0	fb:cell.dongle	Dongle	dongle	dongle	NN	O					
+15	1	fb:cell.null										
+15	2	fb:cell.null										
+15	3	fb:cell.rj45_vga	RJ45 & VGA	rj45|&|vga	RJ45|&|VGA	NNP|CC|NNP	O|O|O	||	45.0			RJ45 & VGA
+15	4	fb:cell.rj45_vga	RJ45 & VGA	rj45|&|vga	RJ45|&|VGA	NNP|CC|NNP	O|O|O	||	45.0			RJ45 & VGA
+15	5	fb:cell.unknown	unknown	unknown	unknown	JJ	O					unknown
+15	6	fb:cell.unknown	unknown	unknown	unknown	JJ	O					unknown
+16	0	fb:cell.keyboard	Keyboard	keyboard	keyboard	NN	O					
+16	1	fb:cell.57_key	57 key	57|key	57|key	CD|NN	NUMBER|O	57.0|	57.0			57 key
+16	2	fb:cell.57_key	57 key	57|key	57|key	CD|NN	NUMBER|O	57.0|	57.0			57 key
+16	3	fb:cell.58_key	58 key	58|key	58|key	CD|NN	NUMBER|O	58.0|	58.0			58 key
+16	4	fb:cell.58_key	58 key	58|key	58|key	CD|NN	NUMBER|O	58.0|	58.0			58 key
+16	5	fb:cell.58_key	58 key	58|key	58|key	CD|NN	NUMBER|O	58.0|	58.0			58 key
+16	6	fb:cell.58_key	58 key	58|key	58|key	CD|NN	NUMBER|O	58.0|	58.0			58 key
+17	0	fb:cell.weight	Weight	weight	weight	NN	O					
+17	1	fb:cell.397g	397g	397g	397g	NN	O		397.0			397g
+17	2	fb:cell.397g	397g	397g	397g	NN	O		397.0			397g
+17	3	fb:cell.413g	413g*	413g|*	413g|*	CD|SYM	NUMBER|O	413.0|	413.0			413g*
+17	4	fb:cell.413g	413g*	413g|*	413g|*	CD|SYM	NUMBER|O	413.0|	413.0			413g*
+17	5	fb:cell.413g	413g*	413g|*	413g|*	CD|SYM	NUMBER|O	413.0|	413.0			413g*
+17	6	fb:cell.426g	426g*	426g|*	426g|*	CD|SYM	NUMBER|O	426.0|	426.0			426g*

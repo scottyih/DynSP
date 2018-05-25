@@ -1,0 +1,29 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.parish_sokn	Parish\n(Sokn)	parish|-lrb-|sokn|-rrb-	parish|-lrb-|sokn|-rrb-	NN|-LRB-|NN|-RRB-	O|O|O|O	|||				
+-1	1	fb:row.row.church_name	Church Name	church|name	Church|name	NNP|VB	O|O	|				
+-1	2	fb:row.row.location_of_the_church	Location\nof the Church	location|of|the|church	location|of|the|church	NN|IN|DT|NN	O|O|O|O	|||				
+-1	3	fb:row.row.year_built	Year Built	year|built	year|build	NN|VBD	DURATION|O	P1Y|				
+0	0	fb:cell.gildeskal	Gildeskål	gildeskål	gildeskål	NN	PERSON					
+0	1	fb:cell.gildeskal_church	Gildeskål Church	gildeskål|church	Gildeskål|Church	NNP|NNP	ORGANIZATION|ORGANIZATION	|				
+0	2	fb:cell.inndyr	Inndyr	inndyr	inndyr	NN	O					
+0	3	fb:cell.1881	1881	1881	1881	CD	DATE	1881	1881.0	1881-xx-xx		
+1	0	fb:cell.gildeskal	Gildeskål	gildeskål	gildeskål	NN	PERSON					
+1	1	fb:cell.old_gildeskal_church	Old Gildeskål Church	old|gildeskål|church	old|Gildeskål|Church	JJ|NNP|NNP	O|O|O	||				
+1	2	fb:cell.inndyr	Inndyr	inndyr	inndyr	NN	O					
+1	3	fb:cell.1100s	1100s	1100s	1100s	CD	DATE	110X	1100.0			
+2	0	fb:cell.gildeskal	Gildeskål	gildeskål	gildeskål	NN	PERSON					
+2	1	fb:cell.saura_church	Saura Church	saura|church	Saura|Church	NNP|NNP	PERSON|O	|				
+2	2	fb:cell.saura	Saura	saura	Saura	NNP	PERSON					
+2	3	fb:cell.1884	1884	1884	1884	CD	DATE	1884	1884.0	1884-xx-xx		
+3	0	fb:cell.gildeskal	Gildeskål	gildeskål	gildeskål	NN	PERSON					
+3	1	fb:cell.mevik_chapel	Mevik Chapel	mevik|chapel	Mevik|chapel	NNP|NN	PERSON|PERSON	|				
+3	2	fb:cell.mevik	Mevik	mevik	Mevik	NNP	PERSON					
+3	3	fb:cell.1910	1910	1910	1910	CD	DATE	1910	1910.0	1910-xx-xx		
+4	0	fb:cell.gildeskal	Gildeskål	gildeskål	gildeskål	NN	PERSON					
+4	1	fb:cell.nordstranda_chapel	Nordstranda Chapel	nordstranda|chapel	Nordstranda|chapel	NNP|NN	PERSON|PERSON	|				
+4	2	fb:cell.lekanger	Lekanger	lekanger	Lekanger	NNP	PERSON					
+4	3	fb:cell.1963	1963	1963	1963	CD	DATE	1963	1963.0	1963-xx-xx		
+5	0	fb:cell.gildeskal	Gildeskål	gildeskål	gildeskål	NN	PERSON					
+5	1	fb:cell.s_rfjorden_chapel	Sørfjorden Chapel	sørfjorden|chapel	Sørfjorden|chapel	NNP|NN	PERSON|PERSON	|				
+5	2	fb:cell.s_rfinnset	Sørfinnset	sørfinnset	Sørfinnset	NNP	O					
+5	3	fb:cell.1957	1957	1957	1957	CD	DATE	1957	1957.0	1957-xx-xx		

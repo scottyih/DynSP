@@ -1,0 +1,53 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.date_and_time	Date and time	date|and|time	date|and|time	NN|CC|NN	O|O|O	||				
+-1	1	fb:row.row.opponent	Opponent	opponent	opponent	NN	O					
+-1	2	fb:row.row.location	Location	location	location	NN	O					
+-1	3	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.26_june_1918_2035_hrs	26 June 1918, 2035 hrs	26|june|1918|,|2035|hrs	26|June|1918|,|2035|hr	CD|NNP|CD|,|CD|NNS	DATE|DATE|DATE|O|DURATION|DURATION	1918-06-26|1918-06-26|1918-06-26||PT2035H|PT2035H	26.0		1.9182035E7	26 June 1918|2035 hrs
+0	1	fb:cell.pfalz_d_iii	Pfalz D.III	pfalz|d.iii	Pfalz|D.III	NNP|NNP	PERSON|PERSON	|				
+0	2	fb:cell.east_of_albert_somme	East of Albert, Somme	east|of|albert|,|somme	East|of|Albert|,|Somme	NNP|IN|NNP|,|NNP	O|O|PERSON|O|O	||||				East of Albert|Somme
+0	3	fb:cell.null										
+1	0	fb:cell.13_july_1918_0857_hrs	13 July 1918, 0857 hrs	13|july|1918|,|0857|hrs	13|July|1918|,|0857|hr	CD|NNP|CD|,|CD|NNS	DATE|DATE|DATE|O|DURATION|DURATION	1918-07-13|1918-07-13|1918-07-13||PT857H|PT857H	13.0		1.9180857E7	13 July 1918|0857 hrs
+1	1	fb:cell.albatros_d_v	Albatros D.V	albatros|d.v	Albatros|D.V	NNP|NNP	PERSON|PERSON	|				
+1	2	fb:cell.poperinghe	Poperinghe	poperinghe	Poperinghe	NNP	PERSON					Poperinghe
+1	3	fb:cell.null										
+2	0	fb:cell.3_august_1918_0930_hrs	3 August 1918, 0930 hrs	3|august|1918|,|0930|hrs	3|August|1918|,|0930|hr	CD|NNP|CD|,|CD|NNS	DATE|DATE|DATE|O|DURATION|DURATION	1918-08-03|1918-08-03|1918-08-03||PT930H|PT930H	3.0		1.918093E7	3 August 1918|0930 hrs
+2	1	fb:cell.fokker_d_vii	Fokker D.VII	fokker|d.vii	Fokker|D.VII	NNP|NNP	ORGANIZATION|O	|				
+2	2	fb:cell.southeast_of_ostend	Southeast of Ostend	southeast|of|ostend	Southeast|of|Ostend	NNP|IN|NNP	O|O|LOCATION	||				Southeast of Ostend
+2	3	fb:cell.null										
+3	0	fb:cell.13_august_1918_1352_hrs	13 August 1918, 1352 hrs	13|august|1918|,|1352|hrs	13|August|1918|,|1352|hr	CD|NNP|CD|,|CD|NNS	DATE|DATE|DATE|O|DURATION|DURATION	1918-08-13|1918-08-13|1918-08-13||PT1352H|PT1352H	13.0		1.9181352E7	13 August 1918|1352 hrs
+3	1	fb:cell.fokker_d_vii	Fokker D.VII	fokker|d.vii	Fokker|D.VII	NNP|NNP	ORGANIZATION|O	|				
+3	2	fb:cell.north_of_roye_somme	North of Roye, Somme	north|of|roye|,|somme	North|of|Roye|,|Somme	NNP|IN|NNP|,|NNP	O|O|PERSON|O|O	||||				North of Roye|Somme
+3	3	fb:cell.flown_by_lothar_von_richthofen	Flown by Lothar von Richthofen	flown|by|lothar|von|richthofen	fly|by|Lothar|von|Richthofen	VBN|IN|NNP|NNP|NNP	O|O|PERSON|PERSON|PERSON	||||				
+4	0	fb:cell.2_september_1918_1150_hrs	2 September 1918, 1150 hrs	2|september|1918|,|1150|hrs	2|September|1918|,|1150|hr	CD|NNP|CD|,|CD|NNS	DATE|DATE|DATE|O|DURATION|DURATION	1918-09-02|1918-09-02|1918-09-02||PT1150H|PT1150H	2.0		1.918115E7	2 September 1918|1150 hrs
+4	1	fb:cell.fokker_d_vii	Fokker D.VII	fokker|d.vii	Fokker|D.VII	NNP|NNP	ORGANIZATION|O	|				
+4	2	fb:cell.south_of_rumaucourt	South of Rumaucourt	south|of|rumaucourt	South|of|Rumaucourt	NNP|IN|NNP	O|O|LOCATION	||				South of Rumaucourt
+4	3	fb:cell.null										
+5	0	fb:cell.5_september_1918_1720_hrs	5 September 1918, 1720 hrs	5|september|1918|,|1720|hrs	5|September|1918|,|1720|hr	CD|NNP|CD|,|CD|NNS	DATE|DATE|DATE|O|DURATION|DURATION	1918-09-05|1918-09-05|1918-09-05||PT1720H|PT1720H	5.0		1.918172E7	5 September 1918|1720 hrs
+5	1	fb:cell.fokker_d_vii	Fokker D.VII	fokker|d.vii	Fokker|D.VII	NNP|NNP	ORGANIZATION|O	|				
+5	2	fb:cell.saint_quentin_aisne_lake	Saint-Quentin, Aisne Lake	saint|quentin|,|aisne|lake	Saint|Quentin|,|Aisne|Lake	NNP|NNP|,|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Saint-Quentin|Aisne Lake
+5	3	fb:cell.null										
+6	0	fb:cell.15_september_1918_1050_hrs	15 September 1918, 1050 hrs	15|september|1918|,|1050|hrs	15|September|1918|,|1050|hr	CD|NNP|CD|,|CD|NNS	DATE|DATE|DATE|O|DURATION|DURATION	1918-09-15|1918-09-15|1918-09-15||PT1050H|PT1050H	15.0		1.918105E7	15 September 1918|1050 hrs
+6	1	fb:cell.fokker_d_vii	Fokker D.VII	fokker|d.vii	Fokker|D.VII	NNP|NNP	ORGANIZATION|O	|				
+6	2	fb:cell.epinoy	Epinoy	epinoy	epinoy	NN	PERSON					Epinoy
+6	3	fb:cell.null										
+7	0	fb:cell.17_september_1918_1300_hrs	17 September 1918, 1300 hrs	17|september|1918|,|1300|hrs	17|September|1918|,|1300|hr	CD|NNP|CD|,|CD|NNS	DATE|DATE|DATE|O|DURATION|DURATION	1918-09-17|1918-09-17|1918-09-17||PT1300H|PT1300H	17.0		1.91813E7	17 September 1918|1300 hrs
+7	1	fb:cell.fokker_d_vii	Fokker D.VII	fokker|d.vii	Fokker|D.VII	NNP|NNP	ORGANIZATION|O	|				
+7	2	fb:cell.epinoy	Epinoy	epinoy	epinoy	NN	PERSON					Epinoy
+7	3	fb:cell.null										
+8	0	fb:cell.24_september_1918_0728_hrs	24 September 1918, 0728 hrs	24|september|1918|,|0728|hrs	24|September|1918|,|0728|hr	CD|NNP|CD|,|CD|NNS	DATE|DATE|DATE|O|DURATION|DURATION	1918-09-24|1918-09-24|1918-09-24||PT728H|PT728H	24.0		1.9180728E7	24 September 1918|0728 hrs
+8	1	fb:cell.fokker_d_vii	Fokker D.VII	fokker|d.vii	Fokker|D.VII	NNP|NNP	ORGANIZATION|O	|				
+8	2	fb:cell.west_of_cambrai	West of Cambrai	west|of|cambrai	West|of|Cambrai	NNP|IN|NNP	O|O|LOCATION	||				West of Cambrai
+8	3	fb:cell.null										
+9	0	fb:cell.26_september_1918_1325_hrs	26 September 1918, 1325 hrs	26|september|1918|,|1325|hrs	26|September|1918|,|1325|hr	CD|NNP|CD|,|CD|NNS	DATE|DATE|DATE|O|DURATION|DURATION	1918-09-26|1918-09-26|1918-09-26||PT1325H|PT1325H	26.0		1.9181325E7	26 September 1918|1325 hrs
+9	1	fb:cell.fokker_d_vii	Fokker D.VII	fokker|d.vii	Fokker|D.VII	NNP|NNP	ORGANIZATION|O	|				
+9	2	fb:cell.east_of_bourlon_wood	East of Bourlon Wood	east|of|bourlon|wood	East|of|Bourlon|Wood	NNP|IN|NNP|NNP	O|O|O|O	|||				East of Bourlon Wood
+9	3	fb:cell.null										
+10	0	fb:cell.27_september_1918_0920_hrs	27 September 1918, 0920 hrs	27|september|1918|,|0920|hrs	27|September|1918|,|0920|hr	CD|NNP|CD|,|CD|NNS	DATE|DATE|DATE|O|DURATION|DURATION	1918-09-27|1918-09-27|1918-09-27||PT920H|PT920H	27.0		1.918092E7	27 September 1918|0920 hrs
+10	1	fb:cell.halberstadt_unspecified_c_series	Halberstadt (Unspecified C-series)	halberstadt|-lrb-|unspecified|c|series|-rrb-	Halberstadt|-lrb-|unspecified|C|series|-rrb-	NNP|-LRB-|JJ|NNP|NNP|-RRB-	PERSON|O|O|O|O|O	|||||				
+10	2	fb:cell.noyelles_sous_lens_l_escaut	Noyelles-sous-Lens/L'Escaut	noyelles|sous|lens/l|`|escaut	Noyelles|sous|lens/l|`|Escaut	NNP|JJ|NN|``|NNP	O|O|O|O|O	||||				Noyelles-sous-Lens|L'Escaut
+10	3	fb:cell.null										
+11	0	fb:cell.28_october_1918_1205_hrs	28 October 1918, 1205 hrs	28|october|1918|,|1205|hrs	28|October|1918|,|1205|hr	CD|NNP|CD|,|CD|NNS	DATE|DATE|DATE|O|DURATION|DURATION	1918-10-28|1918-10-28|1918-10-28||PT1205H|PT1205H	28.0		1.9181205E7	28 October 1918|1205 hrs
+11	1	fb:cell.fokker_d_vii	Fokker D.VII	fokker|d.vii	Fokker|D.VII	NNP|NNP	ORGANIZATION|O	|				
+11	2	fb:cell.villers_pol	Villers-Pol	villers|pol	Villers|Pol	NNP|NNP	PERSON|PERSON	|				Villers-Pol
+11	3	fb:cell.shared_with_lt_jesse_creech	Shared with Lt. Jesse Creech	shared|with|lt.|jesse|creech	share|with|Lt.|Jesse|Creech	VBN|IN|NNP|NNP|NNP	O|O|O|PERSON|PERSON	||||				

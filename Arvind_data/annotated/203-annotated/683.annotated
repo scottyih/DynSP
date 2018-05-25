@@ -1,0 +1,415 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.season	Season	season	season	NN	O					
+-1	1	fb:row.row.league	League	league	League	NNP	O					
+-1	2	fb:row.row.gold	Gold	gold	gold	NN	O					
+-1	3	fb:row.row.silver	Silver	silver	silver	NN	O					
+-1	4	fb:row.row.bronze	Bronze	bronze	bronze	NN	O					
+-1	5	fb:row.row.winning_manager	Winning manager	winning|manager	win|manager	VBG|NN	O|O	|				
+0	0	fb:cell.1937_38	1937–38	1937|--|38	1937|--|38	CD|:|CD	DATE|O|NUMBER	1937||38.0	1937.0		38.0	
+0	1	fb:cell.league_of_norway	League of Norway	league|of|norway	league|of|Norway	NN|IN|NNP	O|O|LOCATION	||				
+0	2	fb:cell.fredrikstad	Fredrikstad*	fredrikstad|*	Fredrikstad|*	NNP|SYM	LOCATION|O	|				
+0	3	fb:cell.lyn	Lyn	lyn	Lyn	NNP	PERSON					Lyn
+0	4	fb:cell.null	—	--	--	:	O					—
+0	5	fb:cell.null	—	--	--	:	O					—
+1	0	fb:cell.1938_39	1938–39	1938|--|39	1938|--|39	CD|:|CD	DATE|O|NUMBER	1938||39.0	1938.0		39.0	
+1	1	fb:cell.league_of_norway	League of Norway	league|of|norway	league|of|Norway	NN|IN|NNP	O|O|LOCATION	||				
+1	2	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+1	3	fb:cell.skeid	Skeid	skeid	skeid	NN	O					Skeid
+1	4	fb:cell.null	—	--	--	:	O					—
+1	5	fb:cell.null	—	--	--	:	O					—
+2	0	fb:cell.1947_48	1947–48	1947|--|48	1947|--|48	CD|:|CD	DATE|O|NUMBER	1947||48.0	1947.0		48.0	
+2	1	fb:cell.league_of_norway	League of Norway	league|of|norway	league|of|Norway	NN|IN|NNP	O|O|LOCATION	||				
+2	2	fb:cell.freidig	Freidig	freidig	freidig	NN	PERSON					
+2	3	fb:cell.sparta	Sparta	sparta	Sparta	NNP	PERSON					Sparta
+2	4	fb:cell.null	—	--	--	:	O					—
+2	5	fb:cell.null	—	--	--	:	O					—
+3	0	fb:cell.1948_49	1948–49	1948|--|49	1948|--|49	CD|:|CD	DATE|O|NUMBER	1948||49.0	1948.0		49.0	
+3	1	fb:cell.main_league	Main League	main|league	main|league	JJ|NN	O|O	|				
+3	2	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+3	3	fb:cell.valerenga	Vålerenga	vålerenga	Vålerenga	NNP	PERSON					Vålerenga
+3	4	fb:cell.null	—	--	--	:	O					—
+3	5	fb:cell.null_2										
+4	0	fb:cell.1949_50	1949–50	1949|--|50	1949|--|50	CD|:|CD	DATE|O|NUMBER	1949||50.0	1949.0		50.0	
+4	1	fb:cell.main_league	Main League	main|league	main|league	JJ|NN	O|O	|				
+4	2	fb:cell.fram_larvik	Fram Larvik	fram|larvik	Fram|Larvik	NNP|NNP	PERSON|PERSON	|				
+4	3	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+4	4	fb:cell.null	—	--	--	:	O					—
+4	5	fb:cell.null_2										
+5	0	fb:cell.1950_51	1950–51	1950|--|51	1950|--|51	CD|:|CD	DATE|O|NUMBER	1950||51.0	1950.0		51.0	
+5	1	fb:cell.main_league	Main League	main|league	main|league	JJ|NN	O|O	|				
+5	2	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+5	3	fb:cell.odd	Odd	odd	odd	JJ	O					Odd
+5	4	fb:cell.null	—	--	--	:	O					—
+5	5	fb:cell.null_2										
+6	0	fb:cell.1951_52	1951–52	1951|--|52	1951|--|52	CD|:|CD	DATE|O|NUMBER	1951||52.0	1951.0		52.0	
+6	1	fb:cell.main_league	Main League	main|league	main|league	JJ|NN	O|O	|				
+6	2	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+6	3	fb:cell.brann	Brann	brann	Brann	NNP	PERSON					Brann
+6	4	fb:cell.null	—	--	--	:	O					—
+6	5	fb:cell.null_2										
+7	0	fb:cell.1952_53	1952–53	1952|--|53	1952|--|53	CD|:|CD	DATE|O|NUMBER	1952||53.0	1952.0		53.0	
+7	1	fb:cell.main_league	Main League	main|league	main|league	JJ|NN	O|O	|				
+7	2	fb:cell.larvik_turn	Larvik Turn	larvik|turn	Larvik|turn	NNP|VB	ORGANIZATION|O	|				
+7	3	fb:cell.skeid	Skeid	skeid	skeid	NN	O					Skeid
+7	4	fb:cell.null	—	--	--	:	O					—
+7	5	fb:cell.null_2										
+8	0	fb:cell.1953_54	1953–54	1953|--|54	1953|--|54	CD|:|CD	DATE|O|NUMBER	1953||54.0	1953.0		54.0	
+8	1	fb:cell.main_league	Main League	main|league	main|league	JJ|NN	O|O	|				
+8	2	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+8	3	fb:cell.skeid	Skeid	skeid	skeid	NN	O					Skeid
+8	4	fb:cell.null	—	--	--	:	O					—
+8	5	fb:cell.null_2										
+9	0	fb:cell.1954_55	1954–55	1954|--|55	1954|--|55	CD|:|CD	DATE|O|NUMBER	1954||55.0	1954.0		55.0	
+9	1	fb:cell.main_league	Main League	main|league	main|league	JJ|NN	O|O	|				
+9	2	fb:cell.larvik_turn	Larvik Turn	larvik|turn	Larvik|turn	NNP|VB	ORGANIZATION|O	|				
+9	3	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+9	4	fb:cell.null	—	--	--	:	O					—
+9	5	fb:cell.null_2										
+10	0	fb:cell.1955_56	1955–56	1955|--|56	1955|--|56	CD|:|CD	DATE|O|NUMBER	1955||56.0	1955.0		56.0	
+10	1	fb:cell.main_league	Main League	main|league	main|league	JJ|NN	O|O	|				
+10	2	fb:cell.larvik_turn	Larvik Turn	larvik|turn	Larvik|turn	NNP|VB	ORGANIZATION|O	|				
+10	3	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+10	4	fb:cell.null	—	--	--	:	O					—
+10	5	fb:cell.null_2										
+11	0	fb:cell.1956_57	1956–57	1956|--|57	1956|--|57	CD|:|CD	DATE|O|NUMBER	1956||57.0	1956.0		57.0	
+11	1	fb:cell.main_league	Main League	main|league	main|league	JJ|NN	O|O	|				
+11	2	fb:cell.fredrikstad	Fredrikstad*	fredrikstad|*	Fredrikstad|*	NNP|SYM	LOCATION|O	|				
+11	3	fb:cell.odd	Odd	odd	odd	JJ	O					Odd
+11	4	fb:cell.null	—	--	--	:	O					—
+11	5	fb:cell.null_2										
+12	0	fb:cell.1957_58	1957–58	1957|--|58	1957|--|58	CD|:|CD	DATE|O|NUMBER	1957||58.0	1957.0		58.0	
+12	1	fb:cell.main_league	Main League	main|league	main|league	JJ|NN	O|O	|				
+12	2	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+12	3	fb:cell.skeid	Skeid	skeid	skeid	NN	O					Skeid
+12	4	fb:cell.null	—	--	--	:	O					—
+12	5	fb:cell.georg_monsen_william_danielsen_jens_opsahl	Georg Monsen\nWilliam Danielsen\nJens Opsahl	georg|monsen|william|danielsen|jens|opsahl	Georg|Monsen|William|Danielsen|Jens|Opsahl	NNP|NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Georg Monsen|William Danielsen|Jens Opsahl
+13	0	fb:cell.1958_59	1958–59	1958|--|59	1958|--|59	CD|:|CD	DATE|O|NUMBER	1958||59.0	1958.0		59.0	
+13	1	fb:cell.main_league	Main League	main|league	main|league	JJ|NN	O|O	|				
+13	2	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+13	3	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+13	4	fb:cell.null	—	--	--	:	O					—
+13	5	fb:cell.karl_gudmundson_rolf_brubak	Karl Gudmundson\nRolf Brubak	karl|gudmundson|rolf|brubak	Karl|Gudmundson|Rolf|Brubak	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Karl Gudmundson|Rolf Brubak
+14	0	fb:cell.1959_60	1959–60	1959|--|60	1959|--|60	CD|:|CD	DATE|O|NUMBER	1959||60.0	1959.0		60.0	
+14	1	fb:cell.main_league	Main League	main|league	main|league	JJ|NN	O|O	|				
+14	2	fb:cell.fredrikstad	Fredrikstad*	fredrikstad|*	Fredrikstad|*	NNP|SYM	LOCATION|O	|				
+14	3	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+14	4	fb:cell.eik_t_nsberg	Eik-Tønsberg	eik|tønsberg	Eik|Tønsberg	NNP|NNP	PERSON|PERSON	|				Eik-Tønsberg
+14	5	fb:cell.null_2										
+15	0	fb:cell.1960_61	1960–61	1960|--|61	1960|--|61	CD|:|CD	DATE|O|NUMBER	1960||61.0	1960.0		61.0	
+15	1	fb:cell.main_league	Main League	main|league	main|league	JJ|NN	O|O	|				
+15	2	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+15	3	fb:cell.eik_t_nsberg	Eik-Tønsberg	eik|tønsberg	Eik|Tønsberg	NNP|NNP	PERSON|PERSON	|				Eik-Tønsberg
+15	4	fb:cell.valerenga	Vålerenga	vålerenga	Vålerenga	NNP	PERSON					Vålerenga
+15	5	fb:cell.null_2										
+16	0	fb:cell.1961_62	1961–62	1961|--|62	1961|--|62	CD|:|CD	DATE|O|NUMBER	1961||62.0	1961.0		62.0	
+16	1	fb:cell.main_league	Main League	main|league	main|league	JJ|NN	O|O	|				
+16	2	fb:cell.brann	Brann	brann	Brann	NNP	PERSON					Brann
+16	3	fb:cell.steinkjer	Steinkjer	steinkjer	Steinkjer	NNP	PERSON					Steinkjer
+16	4	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+16	5	fb:cell.oddvar_hansen	Oddvar Hansen	oddvar|hansen	Oddvar|Hansen	NNP|NNP	PERSON|PERSON	|				Oddvar Hansen
+17	0	fb:cell.1963	1963	1963	1963	CD	DATE	1963	1963.0	1963-xx-xx		
+17	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+17	2	fb:cell.brann	Brann	brann	Brann	NNP	PERSON					Brann
+17	3	fb:cell.lyn	Lyn	lyn	Lyn	NNP	PERSON					Lyn
+17	4	fb:cell.skeid	Skeid	skeid	skeid	NN	O					Skeid
+17	5	fb:cell.oddvar_hansen	Oddvar Hansen	oddvar|hansen	Oddvar|Hansen	NNP|NNP	PERSON|PERSON	|				Oddvar Hansen
+18	0	fb:cell.1964	1964	1964	1964	CD	DATE	1964	1964.0	1964-xx-xx		
+18	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+18	2	fb:cell.lyn	Lyn	lyn	Lyn	NNP	PERSON					Lyn
+18	3	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+18	4	fb:cell.sarpsborg	Sarpsborg	sarpsborg	Sarpsborg	NNP	PERSON					Sarpsborg
+18	5	fb:cell.john_sveinsson	John Sveinsson	john|sveinsson	John|Sveinsson	NNP|NNP	PERSON|PERSON	|				John Sveinsson
+19	0	fb:cell.1965	1965	1965	1965	CD	DATE	1965	1965.0	1965-xx-xx		
+19	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+19	2	fb:cell.valerenga	Vålerenga	vålerenga	Vålerenga	NNP	PERSON					Vålerenga
+19	3	fb:cell.lyn	Lyn	lyn	Lyn	NNP	PERSON					Lyn
+19	4	fb:cell.sarpsborg	Sarpsborg	sarpsborg	Sarpsborg	NNP	PERSON					Sarpsborg
+19	5	fb:cell.anton_ploderer	Anton Ploderer	anton|ploderer	Anton|Ploderer	NNP|NNP	PERSON|PERSON	|				Anton Ploderer
+20	0	fb:cell.1966	1966	1966	1966	CD	DATE	1966	1966.0	1966-xx-xx		
+20	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+20	2	fb:cell.skeid	Skeid	skeid	skeid	NN	O					Skeid
+20	3	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+20	4	fb:cell.lyn	Lyn	lyn	Lyn	NNP	PERSON					Lyn
+20	5	fb:cell.null_2										
+21	0	fb:cell.1967	1967	1967	1967	CD	DATE	1967	1967.0	1967-xx-xx		
+21	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+21	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+21	3	fb:cell.skeid	Skeid	skeid	skeid	NN	O					Skeid
+21	4	fb:cell.lyn	Lyn	lyn	Lyn	NNP	PERSON					Lyn
+21	5	fb:cell.knut_n_ss	Knut Næss	knut|næss	Knut|Næss	NNP|NNP	PERSON|PERSON	|				Knut Næss
+22	0	fb:cell.1968	1968	1968	1968	CD	DATE	1968	1968.0	1968-xx-xx		
+22	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+22	2	fb:cell.lyn_2	Lyn*	lyn|*	Lyn|*	NNP|SYM	PERSON|O	|				
+22	3	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+22	4	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+22	5	fb:cell.knut_osnes	Knut Osnes	knut|osnes	Knut|Osnes	NNP|NNP	PERSON|PERSON	|				Knut Osnes
+23	0	fb:cell.1969	1969	1969	1969	CD	DATE	1969	1969.0	1969-xx-xx		
+23	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+23	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+23	3	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+23	4	fb:cell.str_msgodset	Strømsgodset	strømsgodset	Strømsgodset	NNP	O					Strømsgodset
+23	5	fb:cell.george_curtis	George Curtis	george|curtis	George|Curtis	NNP|NNP	PERSON|PERSON	|				George Curtis
+24	0	fb:cell.1970	1970	1970	1970	CD	DATE	1970	1970.0	1970-xx-xx		
+24	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+24	2	fb:cell.str_msgodset_2	Strømsgodset*	strømsgodset|*	Strømsgodset|*	NNP|SYM	O|O	|				
+24	3	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+24	4	fb:cell.ham_kam	Ham-Kam	ham|kam	ham|Kam	NN|NNP	PERSON|PERSON	|				Ham-Kam
+24	5	fb:cell.einar_larsen	Einar Larsen	einar|larsen	Einar|Larsen	NNP|NNP	PERSON|PERSON	|				Einar Larsen
+25	0	fb:cell.1971	1971	1971	1971	CD	DATE	1971	1971.0	1971-xx-xx		
+25	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+25	2	fb:cell.rosenborg_2	Rosenborg*	rosenborg|*	Rosenborg|*	NNP|SYM	ORGANIZATION|O	|				
+25	3	fb:cell.lyn	Lyn	lyn	Lyn	NNP	PERSON					Lyn
+25	4	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+25	5	fb:cell.nils_arne_eggen	Nils Arne Eggen	nils|arne|eggen	Nils|Arne|Eggen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nils Arne Eggen
+26	0	fb:cell.1972	1972	1972	1972	CD	DATE	1972	1972.0	1972-xx-xx		
+26	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+26	2	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+26	3	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+26	4	fb:cell.str_msgodset	Strømsgodset	strømsgodset	Strømsgodset	NNP	O					Strømsgodset
+26	5	fb:cell.kjell_schou_andreassen	Kjell Schou-Andreassen	kjell|schou|andreassen	Kjell|Schou|Andreassen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Kjell Schou-Andreassen
+27	0	fb:cell.1973	1973	1973	1973	CD	DATE	1973	1973.0	1973-xx-xx		
+27	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+27	2	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+27	3	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+27	4	fb:cell.start	Start	start	start	VB	O					Start
+27	5	fb:cell.sverre_andersen	Sverre Andersen	sverre|andersen	Sverre|Andersen	NNP|NNP	PERSON|PERSON	|				Sverre Andersen
+28	0	fb:cell.1974	1974	1974	1974	CD	DATE	1974	1974.0	1974-xx-xx		
+28	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+28	2	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+28	3	fb:cell.molde	Molde	molde	Molde	NNP	O					Molde
+28	4	fb:cell.valerenga	Vålerenga	vålerenga	Vålerenga	NNP	PERSON					Vålerenga
+28	5	fb:cell.stuart_williams	Stuart Williams	stuart|williams	Stuart|Williams	NNP|NNP	PERSON|PERSON	|				Stuart Williams
+29	0	fb:cell.1975	1975	1975	1975	CD	DATE	1975	1975.0	1975-xx-xx		
+29	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+29	2	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+29	3	fb:cell.brann	Brann	brann	Brann	NNP	PERSON					Brann
+29	4	fb:cell.start	Start	start	start	VB	O					Start
+29	5	fb:cell.olav_nilsen	Olav Nilsen	olav|nilsen	Olav|Nilsen	NNP|NNP	PERSON|PERSON	|				Olav Nilsen
+30	0	fb:cell.1976	1976	1976	1976	CD	DATE	1976	1976.0	1976-xx-xx		
+30	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+30	2	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+30	3	fb:cell.mj_ndalen	Mjøndalen	mjøndalen	Mjøndalen	NNP	PERSON					Mjøndalen
+30	4	fb:cell.brann	Brann	brann	Brann	NNP	PERSON					Brann
+30	5	fb:cell.joar_hoff	Joar Hoff	joar|hoff	Joar|Hoff	NNP|NNP	PERSON|PERSON	|				Joar Hoff
+31	0	fb:cell.1977	1977	1977	1977	CD	DATE	1977	1977.0	1977-xx-xx		
+31	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+31	2	fb:cell.lillestr_m_2	Lillestrøm*	lillestrøm|*	Lillestrøm|*	NNP|SYM	ORGANIZATION|O	|				
+31	3	fb:cell.bod_glimt	Bodø/Glimt	bodø|/|glimt	bodø|/|glimt	NN|:|NN	O|O|O	||				Bodø|Glimt
+31	4	fb:cell.molde	Molde	molde	Molde	NNP	O					Molde
+31	5	fb:cell.joe_hooley	Joe Hooley	joe|hooley	Joe|Hooley	NNP|NNP	PERSON|PERSON	|				Joe Hooley
+32	0	fb:cell.1978	1978	1978	1978	CD	DATE	1978	1978.0	1978-xx-xx		
+32	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+32	2	fb:cell.start	Start	start	start	VB	O					Start
+32	3	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+32	4	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+32	5	fb:cell.karsten_johannessen	Karsten Johannessen	karsten|johannessen	Karsten|Johannessen	NNP|NNP	PERSON|PERSON	|				Karsten Johannessen
+33	0	fb:cell.1979	1979	1979	1979	CD	DATE	1979	1979.0	1979-xx-xx		
+33	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+33	2	fb:cell.viking_2	Viking*	viking|*	viking|*	JJ|NN	O|O	|				
+33	3	fb:cell.moss	Moss	moss	Moss	NNP	PERSON					Moss
+33	4	fb:cell.start	Start	start	start	VB	O					Start
+33	5	fb:cell.tony_knapp	Tony Knapp	tony|knapp	Tony|Knapp	NNP|NNP	PERSON|PERSON	|				Tony Knapp
+34	0	fb:cell.1980	1980	1980	1980	CD	DATE	1980	1980.0	1980-xx-xx		
+34	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+34	2	fb:cell.start	Start	start	start	VB	O					Start
+34	3	fb:cell.bryne	Bryne	bryne	Bryne	NNP	PERSON					Bryne
+34	4	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+34	5	fb:cell.karsten_johannessen	Karsten Johannessen	karsten|johannessen	Karsten|Johannessen	NNP|NNP	PERSON|PERSON	|				Karsten Johannessen
+35	0	fb:cell.1981	1981	1981	1981	CD	DATE	1981	1981.0	1981-xx-xx		
+35	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+35	2	fb:cell.valerenga	Vålerenga	vålerenga	Vålerenga	NNP	PERSON					Vålerenga
+35	3	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+35	4	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+35	5	fb:cell.leif_eriksen	Leif Eriksen	leif|eriksen	Leif|Eriksen	NNP|NNP	PERSON|PERSON	|				Leif Eriksen
+36	0	fb:cell.1982	1982	1982	1982	CD	DATE	1982	1982.0	1982-xx-xx		
+36	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+36	2	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+36	3	fb:cell.bryne	Bryne	bryne	Bryne	NNP	PERSON					Bryne
+36	4	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+36	5	fb:cell.kjell_schou_andreassen	Kjell Schou-Andreassen	kjell|schou|andreassen	Kjell|Schou|Andreassen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Kjell Schou-Andreassen
+37	0	fb:cell.1983	1983	1983	1983	CD	DATE	1983	1983.0	1983-xx-xx		
+37	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+37	2	fb:cell.valerenga	Vålerenga	vålerenga	Vålerenga	NNP	PERSON					Vålerenga
+37	3	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+37	4	fb:cell.start	Start	start	start	VB	O					Start
+37	5	fb:cell.gunder_bengtsson	Gunder Bengtsson	gunder|bengtsson	Gunder|Bengtsson	NNP|NNP	PERSON|PERSON	|				Gunder Bengtsson
+38	0	fb:cell.1984	1984	1984	1984	CD	DATE	1984	1984.0	1984-xx-xx		
+38	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+38	2	fb:cell.valerenga	Vålerenga	vålerenga	Vålerenga	NNP	PERSON					Vålerenga
+38	3	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+38	4	fb:cell.start	Start	start	start	VB	O					Start
+38	5	fb:cell.gunder_bengtsson_per_anders_sj_vold	Gunder Bengtsson\nPer Anders Sjøvold	gunder|bengtsson|per|anders|sjøvold	Gunder|Bengtsson|per|Anders|Sjøvold	NNP|NNP|IN|NNP|NNP	PERSON|PERSON|O|O|O	||||				Gunder Bengtsson|Per Anders Sjøvold
+39	0	fb:cell.1985	1985	1985	1985	CD	DATE	1985	1985.0	1985-xx-xx		
+39	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+39	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+39	3	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+39	4	fb:cell.valerenga	Vålerenga	vålerenga	Vålerenga	NNP	PERSON					Vålerenga
+39	5	fb:cell.arne_dokken_bj_rn_hansen	Arne Dokken\nBjørn Hansen	arne|dokken|bjørn|hansen	Arne|Dokken|Bjørn|Hansen	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Arne Dokken|Bjørn Hansen
+40	0	fb:cell.1986	1986	1986	1986	CD	DATE	1986	1986.0	1986-xx-xx		
+40	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+40	2	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+40	3	fb:cell.mj_ndalen	Mjøndalen	mjøndalen	Mjøndalen	NNP	PERSON					Mjøndalen
+40	4	fb:cell.kongsvinger	Kongsvinger	kongsvinger	Kongsvinger	NNP	O					Kongsvinger
+40	5	fb:cell.tom_lund	Tom Lund	tom|lund	Tom|Lund	NNP|NNP	PERSON|PERSON	|				Tom Lund
+41	0	fb:cell.1987	1987	1987	1987	CD	DATE	1987	1987.0	1987-xx-xx		
+41	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+41	2	fb:cell.moss	Moss	moss	Moss	NNP	PERSON					Moss
+41	3	fb:cell.molde	Molde	molde	Molde	NNP	O					Molde
+41	4	fb:cell.kongsvinger	Kongsvinger	kongsvinger	Kongsvinger	NNP	O					Kongsvinger
+41	5	fb:cell.nils_arne_eggen	Nils Arne Eggen	nils|arne|eggen	Nils|Arne|Eggen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nils Arne Eggen
+42	0	fb:cell.1988	1988	1988	1988	CD	DATE	1988	1988.0	1988-xx-xx		
+42	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+42	2	fb:cell.rosenborg_2	Rosenborg*	rosenborg|*	Rosenborg|*	NNP|SYM	ORGANIZATION|O	|				
+42	3	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+42	4	fb:cell.molde	Molde	molde	Molde	NNP	O					Molde
+42	5	fb:cell.nils_arne_eggen	Nils Arne Eggen	nils|arne|eggen	Nils|Arne|Eggen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nils Arne Eggen
+43	0	fb:cell.1989	1989	1989	1989	CD	DATE	1989	1989.0	1989-xx-xx		
+43	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+43	2	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+43	3	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+43	4	fb:cell.troms	Tromsø	tromsø	tromsø	FW	O					Tromsø
+43	5	fb:cell.david_hay	David Hay	david|hay	David|hay	NNP|NN	PERSON|PERSON	|				David Hay
+44	0	fb:cell.1990	1990	1990	1990	CD	DATE	1990	1990.0	1990-xx-xx		
+44	1	fb:cell.first_division	First Division	first|division	first|division	RB|NN	ORDINAL|O	1.0|				
+44	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+44	3	fb:cell.troms	Tromsø	tromsø	tromsø	FW	O					Tromsø
+44	4	fb:cell.molde	Molde	molde	Molde	NNP	O					Molde
+44	5	fb:cell.nils_arne_eggen	Nils Arne Eggen	nils|arne|eggen	Nils|Arne|Eggen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nils Arne Eggen
+45	0	fb:cell.1991	1991	1991	1991	CD	DATE	1991	1991.0	1991-xx-xx		
+45	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+45	2	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+45	3	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+45	4	fb:cell.start	Start	start	start	VB	O					Start
+45	5	fb:cell.benny_lennartsson	Benny Lennartsson	benny|lennartsson	Benny|Lennartsson	NNP|NNP	PERSON|PERSON	|				Benny Lennartsson
+46	0	fb:cell.1992	1992	1992	1992	CD	DATE	1992	1992.0	1992-xx-xx		
+46	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+46	2	fb:cell.rosenborg_2	Rosenborg*	rosenborg|*	Rosenborg|*	NNP|SYM	ORGANIZATION|O	|				
+46	3	fb:cell.kongsvinger	Kongsvinger	kongsvinger	Kongsvinger	NNP	O					Kongsvinger
+46	4	fb:cell.start	Start	start	start	VB	O					Start
+46	5	fb:cell.nils_arne_eggen	Nils Arne Eggen	nils|arne|eggen	Nils|Arne|Eggen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nils Arne Eggen
+47	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+47	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+47	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+47	3	fb:cell.bod_glimt	Bodø/Glimt	bodø|/|glimt	bodø|/|glimt	NN|:|NN	O|O|O	||				Bodø|Glimt
+47	4	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+47	5	fb:cell.nils_arne_eggen	Nils Arne Eggen	nils|arne|eggen	Nils|Arne|Eggen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nils Arne Eggen
+48	0	fb:cell.1994	1994	1994	1994	CD	DATE	1994	1994.0	1994-xx-xx		
+48	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+48	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+48	3	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+48	4	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+48	5	fb:cell.nils_arne_eggen	Nils Arne Eggen	nils|arne|eggen	Nils|Arne|Eggen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nils Arne Eggen
+49	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+49	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+49	2	fb:cell.rosenborg_2	Rosenborg*	rosenborg|*	Rosenborg|*	NNP|SYM	ORGANIZATION|O	|				
+49	3	fb:cell.molde	Molde	molde	Molde	NNP	O					Molde
+49	4	fb:cell.bod_glimt	Bodø/Glimt	bodø|/|glimt	bodø|/|glimt	NN|:|NN	O|O|O	||				Bodø|Glimt
+49	5	fb:cell.nils_arne_eggen	Nils Arne Eggen	nils|arne|eggen	Nils|Arne|Eggen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nils Arne Eggen
+50	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+50	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+50	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+50	3	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+50	4	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+50	5	fb:cell.nils_arne_eggen	Nils Arne Eggen	nils|arne|eggen	Nils|Arne|Eggen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nils Arne Eggen
+51	0	fb:cell.1997	1997	1997	1997	CD	DATE	1997	1997.0	1997-xx-xx		
+51	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+51	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+51	3	fb:cell.brann	Brann	brann	Brann	NNP	PERSON					Brann
+51	4	fb:cell.str_msgodset	Strømsgodset	strømsgodset	Strømsgodset	NNP	O					Strømsgodset
+51	5	fb:cell.nils_arne_eggen	Nils Arne Eggen	nils|arne|eggen	Nils|Arne|Eggen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nils Arne Eggen
+52	0	fb:cell.1998	1998	1998	1998	CD	DATE	1998	1998.0	1998-xx-xx		
+52	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+52	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+52	3	fb:cell.molde	Molde	molde	Molde	NNP	O					Molde
+52	4	fb:cell.stab_k	Stabæk	stabæk	stabæk	NN	PERSON					Stabæk
+52	5	fb:cell.trond_sollied	Trond Sollied	trond|sollied	Trond|solly	NNP|VBD	PERSON|PERSON	|				Trond Sollied
+53	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+53	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+53	2	fb:cell.rosenborg_2	Rosenborg*	rosenborg|*	Rosenborg|*	NNP|SYM	ORGANIZATION|O	|				
+53	3	fb:cell.molde	Molde	molde	Molde	NNP	O					Molde
+53	4	fb:cell.brann	Brann	brann	Brann	NNP	PERSON					Brann
+53	5	fb:cell.nils_arne_eggen	Nils Arne Eggen	nils|arne|eggen	Nils|Arne|Eggen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nils Arne Eggen
+54	0	fb:cell.2000	2000	2000	2000	CD	DATE	2000	2000.0	2000-xx-xx		
+54	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+54	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+54	3	fb:cell.brann	Brann	brann	Brann	NNP	PERSON					Brann
+54	4	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+54	5	fb:cell.nils_arne_eggen	Nils Arne Eggen	nils|arne|eggen	Nils|Arne|Eggen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nils Arne Eggen
+55	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+55	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+55	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+55	3	fb:cell.lillestr_m	Lillestrøm	lillestrøm	lillestrøm	NN	PERSON					Lillestrøm
+55	4	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+55	5	fb:cell.nils_arne_eggen	Nils Arne Eggen	nils|arne|eggen	Nils|Arne|Eggen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nils Arne Eggen
+56	0	fb:cell.2002	2002	2002	2002	CD	DATE	2002	2002.0	2002-xx-xx		
+56	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+56	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+56	3	fb:cell.molde	Molde	molde	Molde	NNP	O					Molde
+56	4	fb:cell.lyn	Lyn	lyn	Lyn	NNP	PERSON					Lyn
+56	5	fb:cell.nils_arne_eggen	Nils Arne Eggen	nils|arne|eggen	Nils|Arne|Eggen	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Nils Arne Eggen
+57	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+57	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+57	2	fb:cell.rosenborg_2	Rosenborg*	rosenborg|*	Rosenborg|*	NNP|SYM	ORGANIZATION|O	|				
+57	3	fb:cell.bod_glimt	Bodø/Glimt	bodø|/|glimt	bodø|/|glimt	NN|:|NN	O|O|O	||				Bodø|Glimt
+57	4	fb:cell.stab_k	Stabæk	stabæk	stabæk	NN	PERSON					Stabæk
+57	5	fb:cell.age_hareide	Åge Hareide	åge|hareide	Åge|Hareide	NNP|NNP	PERSON|PERSON	|				Åge Hareide
+58	0	fb:cell.2004	2004	2004	2004	CD	DATE	2004	2004.0	2004-xx-xx		
+58	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+58	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+58	3	fb:cell.valerenga	Vålerenga	vålerenga	Vålerenga	NNP	PERSON					Vålerenga
+58	4	fb:cell.brann	Brann	brann	Brann	NNP	PERSON					Brann
+58	5	fb:cell.ola_by_rise	Ola By Rise	ola|by|rise	Ola|by|rise	NNP|IN|NN	O|O|O	||				Ola By Rise
+59	0	fb:cell.2005	2005	2005	2005	CD	DATE	2005	2005.0	2005-xx-xx		
+59	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+59	2	fb:cell.valerenga	Vålerenga	vålerenga	Vålerenga	NNP	PERSON					Vålerenga
+59	3	fb:cell.start	Start	start	start	VB	O					Start
+59	4	fb:cell.lyn	Lyn	lyn	Lyn	NNP	PERSON					Lyn
+59	5	fb:cell.kjetil_rekdal	Kjetil Rekdal	kjetil|rekdal	Kjetil|Rekdal	NNP|NNP	PERSON|PERSON	|				Kjetil Rekdal
+60	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+60	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+60	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+60	3	fb:cell.brann	Brann	brann	Brann	NNP	PERSON					Brann
+60	4	fb:cell.valerenga	Vålerenga	vålerenga	Vålerenga	NNP	PERSON					Vålerenga
+60	5	fb:cell.knut_t_rum_per_mathias_h_gmo	Knut Tørum\nPer-Mathias Høgmo	knut|tørum|per|mathias|høgmo	Knut|Tørum|per|Mathias|Høgmo	NNP|NNP|IN|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				Knut Tørum|Per-Mathias Høgmo
+61	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+61	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+61	2	fb:cell.brann	Brann	brann	Brann	NNP	PERSON					Brann
+61	3	fb:cell.stab_k	Stabæk	stabæk	stabæk	NN	PERSON					Stabæk
+61	4	fb:cell.viking	Viking	viking	viking	JJ	O					Viking
+61	5	fb:cell.mons_ivar_mjelde	Mons Ivar Mjelde	mons|ivar|mjelde	Mons|Ivar|Mjelde	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Mons Ivar Mjelde
+62	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+62	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+62	2	fb:cell.stab_k	Stabæk	stabæk	stabæk	NN	PERSON					Stabæk
+62	3	fb:cell.fredrikstad_2	Fredrikstad	fredrikstad	Fredrikstad	NNP	PERSON					Fredrikstad
+62	4	fb:cell.troms	Tromsø	tromsø	tromsø	FW	O					Tromsø
+62	5	fb:cell.jan_jonsson	Jan Jönsson	jan|jönsson	Jan|Jönsson	NNP|NNP	PERSON|PERSON	|				Jan Jönsson
+63	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+63	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+63	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+63	3	fb:cell.molde	Molde	molde	Molde	NNP	O					Molde
+63	4	fb:cell.stab_k	Stabæk	stabæk	stabæk	NN	PERSON					Stabæk
+63	5	fb:cell.erik_hamren	Erik Hamrén	erik|hamrén	Erik|Hamrén	NNP|NNP	PERSON|PERSON	|				Erik Hamrén
+64	0	fb:cell.2010	2010	2010	2010	CD	DATE	2010	2010.0	2010-xx-xx		
+64	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+64	2	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+64	3	fb:cell.valerenga	Vålerenga	vålerenga	Vålerenga	NNP	PERSON					Vålerenga
+64	4	fb:cell.troms	Tromsø	tromsø	tromsø	FW	O					Tromsø
+64	5	fb:cell.nils_arne_eggen_erik_hamren	Nils Arne Eggen\nErik Hamrén	nils|arne|eggen|erik|hamrén	Nils|Arne|Eggen|Erik|Hamrén	NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON	||||				Nils Arne Eggen|Erik Hamrén
+65	0	fb:cell.2011	2011	2011	2011	CD	DATE	2011	2011.0	2011-xx-xx		
+65	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+65	2	fb:cell.molde	Molde	molde	Molde	NNP	O					Molde
+65	3	fb:cell.troms	Tromsø	tromsø	tromsø	FW	O					Tromsø
+65	4	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+65	5	fb:cell.ole_gunnar_solskj_r	Ole Gunnar Solskjær	ole|gunnar|solskjær	ole|Gunnar|Solskjær	JJ|NNP|NNP	O|PERSON|PERSON	||				Ole Gunnar Solskjær
+66	0	fb:cell.2012	2012	2012	2012	CD	DATE	2012	2012.0	2012-xx-xx		
+66	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+66	2	fb:cell.molde	Molde	molde	Molde	NNP	O					Molde
+66	3	fb:cell.str_msgodset	Strømsgodset	strømsgodset	Strømsgodset	NNP	O					Strømsgodset
+66	4	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+66	5	fb:cell.ole_gunnar_solskj_r	Ole Gunnar Solskjær	ole|gunnar|solskjær	ole|Gunnar|Solskjær	JJ|NNP|NNP	O|PERSON|PERSON	||				Ole Gunnar Solskjær
+67	0	fb:cell.2013	2013	2013	2013	CD	DATE	2013	2013.0	2013-xx-xx		
+67	1	fb:cell.tippeligaen	Tippeligaen	tippeligaen	tippeligaen	NN	PERSON					
+67	2	fb:cell.str_msgodset	Strømsgodset	strømsgodset	Strømsgodset	NNP	O					Strømsgodset
+67	3	fb:cell.rosenborg	Rosenborg	rosenborg	Rosenborg	NNP	PERSON					Rosenborg
+67	4	fb:cell.haugesund	Haugesund	haugesund	Haugesund	NNP	O					Haugesund
+67	5	fb:cell.ronny_deila	Ronny Deila	ronny|deila	Ronny|Deila	NNP|NNP	PERSON|PERSON	|				Ronny Deila

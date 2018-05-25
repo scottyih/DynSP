@@ -1,0 +1,61 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.courthouse	Courthouse	courthouse	courthouse	NN	O					
+-1	1	fb:row.row.city	City	city	city	NN	O					
+-1	2	fb:row.row.street_address	Street address	street|address	Street|address	NNP|NN	O|O	|				
+-1	3	fb:row.row.jurisdiction	Jurisdiction	jurisdiction	jurisdiction	NN	O					
+-1	4	fb:row.row.dates_of_use	Dates of use	dates|of|use	date|of|use	NNS|IN|NN	O|O|O	||				
+-1	5	fb:row.row.named_for	Named for	named|for	name|for	VBN|IN	O|O	|				
+0	0	fb:cell.u_s_post_office_and_court_house	U.S. Post Office and Court House	u.s.|post|office|and|court|house	U.S.|Post|Office|and|Court|House	NNP|NNP|NNP|CC|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O	|||||				U.S. Post Office and Court House
+0	1	fb:cell.brattleboro	Brattleboro	brattleboro	Brattleboro	NNP	LOCATION					
+0	2	fb:cell.null	?	?	?	.	O					
+0	3	fb:cell.d_vt	D. Vt.	d.|vt.|.	D.|Vt.|.	NNP|NNP|.	O|O|O	||				
+0	4	fb:cell.1917_present	1917–present	1917|--|present	1917|--|present	CD|:|JJ	DATE|O|DATE	1917||PRESENT_REF	1917.0			1917–present
+0	5	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+1	0	fb:cell.u_s_post_office_and_court_house	U.S. Post Office and Court House	u.s.|post|office|and|court|house	U.S.|Post|Office|and|Court|House	NNP|NNP|NNP|CC|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O	|||||				U.S. Post Office and Court House
+1	1	fb:cell.burlington	Burlington	burlington	Burlington	NNP	LOCATION					
+1	2	fb:cell.175_main_street	175 Main Street	175|main|street	175|Main|Street	CD|NNP|NNP	NUMBER|O|O	175.0||	175.0			
+1	3	fb:cell.d_vt	D. Vt.	d.|vt.|.	D.|Vt.|.	NNP|NNP|.	O|O|O	||				
+1	4	fb:cell.1870_1982_destroyed_by_fire_in_1982	1870–1982\nDestroyed by fire in 1982.	1870|--|1982|destroyed|by|fire|in|1982|.	1870|--|1982|destroy|by|fire|in|1982|.	CD|:|CD|VBN|IN|NN|IN|CD|.	DATE|O|DATE|O|O|O|O|DATE|O	1870||1982|||||1982|	1870.0		1982.0	1870–1982|Destroyed by fire in 1982.
+1	5	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+2	0	fb:cell.federal_building_post_office_and_court_house	Federal Building, Post Office and Court House	federal|building|,|post|office|and|court|house	Federal|Building|,|Post|Office|and|Court|House	NNP|NNP|,|NNP|NNP|CC|NNP|NNP	O|O|O|O|O|O|O|O	|||||||				Federal Building|Post Office and Court House
+2	1	fb:cell.burlington	Burlington	burlington	Burlington	NNP	LOCATION					
+2	2	fb:cell.11_elmwood_avenue	11 Elmwood Avenue	11|elmwood|avenue	11|Elmwood|Avenue	CD|NNP|NNP	NUMBER|LOCATION|LOCATION	11.0||	11.0			
+2	3	fb:cell.d_vt	D. Vt.	d.|vt.|.	D.|Vt.|.	NNP|NNP|.	O|O|O	||				
+2	4	fb:cell.1958_present	1958-present	1958|present	1958|present	CD|JJ	DATE|DATE	1958|PRESENT_REF	1958.0			1958-present
+2	5	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+3	0	fb:cell.u_s_post_office_and_court_house	U.S. Post Office and Court House	u.s.|post|office|and|court|house	U.S.|Post|Office|and|Court|House	NNP|NNP|NNP|CC|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O	|||||				U.S. Post Office and Court House
+3	1	fb:cell.montpelier	Montpelier	montpelier	Montpelier	NNP	LOCATION					
+3	2	fb:cell.null	?	?	?	.	O					
+3	3	fb:cell.d_vt	D. Vt.	d.|vt.|.	D.|Vt.|.	NNP|NNP|.	O|O|O	||				
+3	4	fb:cell.1894_1948_razed_ca_1963	1894-1948\nrazed ca. 1963	1894-1948|razed|ca.|1963	1894-1948|raze|ca.|1963	CD|VBD|FW|CD	DURATION|O|O|DATE	PT473328H|||1963	1894.0		1948.0	1894-1948|razed ca. 1963
+3	5	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+4	0	fb:cell.federal_building	Federal Building	federal|building	federal|building	JJ|NN	O|O	|				Federal Building
+4	1	fb:cell.montpelier	Montpelier	montpelier	Montpelier	NNP	LOCATION					
+4	2	fb:cell.state_street	State Street	state|street	State|Street	NNP|NNP	O|O	|				
+4	3	fb:cell.d_vt	D. Vt.	d.|vt.|.	D.|Vt.|.	NNP|NNP|.	O|O|O	||				
+4	4	fb:cell.1964_1996_still_in_use_as_a_post_office	1964–1996\nStill in use as a post office.	1964|--|1996|still|in|use|as|a|post|office|.	1964|--|1996|still|in|use|as|a|post|office|.	CD|:|CD|RB|IN|NN|IN|DT|NN|NN|.	DATE|O|DATE|O|O|O|O|O|O|O|O	1964||1996||||||||	1964.0		1996.0	1964–1996|Still in use as a post office.
+4	5	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+5	0	fb:cell.u_s_court_house_post_office_and_custom_house	U.S. Court House, Post Office, and Custom House†	u.s.|court|house|,|post|office|,|and|custom|house|†	U.S.|Court|House|,|Post|Office|,|and|Custom|House|†	NNP|NNP|NNP|,|NNP|NNP|,|CC|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O|O|O|ORGANIZATION|ORGANIZATION|O	||||||||||				U.S. Court House|Post Office|and Custom House†
+5	1	fb:cell.newport	Newport	newport	Newport	NNP	LOCATION					
+5	2	fb:cell.null	?	?	?	.	O					
+5	3	fb:cell.d_vt	D. Vt.	d.|vt.|.	D.|Vt.|.	NNP|NNP|.	O|O|O	||				
+5	4	fb:cell.1904_1948_now_the_orleans_county_district_court	1904–1948\nNow the Orleans County District Court.	1904|--|1948|now|the|orleans|county|district|court|.	1904|--|1948|now|the|Orleans|County|District|Court|.	CD|:|CD|RB|DT|NNP|NNP|NNP|NNP|.	DATE|O|DATE|DATE|O|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O	1904||1948|PRESENT_REF||||||	1904.0		1948.0	1904–1948|Now the Orleans County District Court.
+5	5	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+6	0	fb:cell.u_s_court_house_and_post_office	U.S. Court House and Post Office	u.s.|court|house|and|post|office	U.S.|Court|House|and|Post|Office	NNP|NNP|NNP|CC|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O	|||||				U.S. Court House and Post Office
+6	1	fb:cell.rutland	Rutland	rutland	Rutland	NNP	LOCATION					
+6	2	fb:cell.10_court_street	10 Court Street	10|court|street	10|Court|Street	CD|NNP|NNP	NUMBER|O|O	10.0||	10.0			
+6	3	fb:cell.d_vt	D. Vt.	d.|vt.|.	D.|Vt.|.	NNP|NNP|.	O|O|O	||				
+6	4	fb:cell.1859_1933_now_the_rutland_free_library	1859–1933\nNow the Rutland Free Library.	1859|--|1933|now|the|rutland|free|library|.	1859|--|1933|now|the|Rutland|Free|Library|.	CD|:|CD|RB|DT|NNP|NNP|NNP|.	DATE|O|DATE|DATE|O|ORGANIZATION|ORGANIZATION|ORGANIZATION|O	1859||1933|PRESENT_REF|||||	1859.0		1933.0	1859–1933|Now the Rutland Free Library.
+6	5	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+7	0	fb:cell.u_s_court_house_and_post_office	U.S. Court House and Post Office	u.s.|court|house|and|post|office	U.S.|Court|House|and|Post|Office	NNP|NNP|NNP|CC|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O	|||||				U.S. Court House and Post Office
+7	1	fb:cell.rutland	Rutland	rutland	Rutland	NNP	LOCATION					
+7	2	fb:cell.null	?	?	?	.	O					
+7	3	fb:cell.d_vt	D. Vt.	d.|vt.|.	D.|Vt.|.	NNP|NNP|.	O|O|O	||				
+7	4	fb:cell.1933_present	1933–present	1933|--|present	1933|--|present	CD|:|JJ	DATE|O|DATE	1933||PRESENT_REF	1933.0			1933–present
+7	5	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a
+8	0	fb:cell.u_s_court_house_and_post_office	U.S. Court House and Post Office	u.s.|court|house|and|post|office	U.S.|Court|House|and|Post|Office	NNP|NNP|NNP|CC|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O|O	|||||				U.S. Court House and Post Office
+8	1	fb:cell.windsor	Windsor	windsor	Windsor	NNP	PERSON					
+8	2	fb:cell.57_main_st	57 Main St.	57|main|st.	57|main|St.	CD|JJ|NNP	NUMBER|O|O	57.0||	57.0			
+8	3	fb:cell.d_vt	D. Vt.	d.|vt.|.	D.|Vt.|.	NNP|NNP|.	O|O|O	||				
+8	4	fb:cell.1858_present_still_in_use_as_a_post_office	1858–Present\nStill in use as a post office.	1858|--|present|still|in|use|as|a|post|office|.	1858|--|present|still|in|use|as|a|post|office|.	CD|:|JJ|RB|IN|NN|IN|DT|NN|NN|.	DATE|O|DATE|O|O|O|O|O|O|O|O	1858||PRESENT_REF||||||||	1858.0			1858–Present|Still in use as a post office.
+8	5	fb:cell.n_a	n/a	n/a	n/a	NNP	O					n|a

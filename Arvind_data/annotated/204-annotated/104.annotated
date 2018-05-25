@@ -1,0 +1,393 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.title	Title	title	title	NN	O					
+-1	1	fb:row.row.genre	Genre	genre	genre	NN	O					
+-1	2	fb:row.row.sub_divisions	Sub­divisions	subdivisions	subdivision	NNS	O					
+-1	3	fb:row.row.libretto	Libretto	libretto	libretto	NN	O					
+-1	4	fb:row.row.premiere_date	Première date	première|date	Première|date	NNP|NN	O|O	|				
+-1	5	fb:row.row.place_theatre	Place, theatre	place|,|theatre	place|,|theatre	NN|,|NN	O|O|O	||				
+-1	6	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.zenobia_regina_de_palmireni	Zenobia, regina de’ Palmireni	zenobia|,|regina|de|'|palmireni	Zenobia|,|regina|de|'|palmirenus	NNP|,|NNP|NNP|POS|NN	PERSON|O|PERSON|PERSON|PERSON|PERSON	|||||				Zenobia|regina de’ Palmireni
+0	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+0	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+0	3	fb:cell.antonio_marchi	Antonio Marchi	antonio|marchi	Antonio|Marchi	NNP|NNP	PERSON|PERSON	|				
+0	4	fb:cell.1694_carnival	1694, carnival	1694|,|carnival	1694|,|carnival	CD|,|NNP	DATE|O|O	1694||	1694.0			1694|carnival
+0	5	fb:cell.venice_teatro_santi_giovanni_e_paolo	Venice, Teatro Santi Giovanni e Paolo	venice|,|teatro|santi|giovanni|e|paolo	Venice|,|Teatro|Santi|Giovanni|e|Paolo	NNP|,|NNP|NNP|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON|PERSON|PERSON	||||||				Venice|Teatro Santi Giovanni e Paolo
+0	6	fb:cell.version_of_the_score_survives_in_library_of_congress_washington	version of the score survives in Library of Congress, Washington	version|of|the|score|survives|in|library|of|congress|,|washington	version|of|the|score|survive|in|library|of|Congress|,|Washington	NN|IN|DT|NN|VBZ|IN|NN|IN|NNP|,|NNP	O|O|O|NUMBER|O|O|O|O|ORGANIZATION|O|LOCATION	|||20.0|||||||				version of the score survives in Library of Congress|Washington
+1	0	fb:cell.il_prodigio_dell_innocenza	Il prodigio dell’innocenza	il|prodigio|dell|'|innocenza	il|prodigio|dell|'|innocenza	NN|NNP|NNP|POS|NN	ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O	||||				Il prodigio dell’innocenza
+1	1	fb:cell.dramma	dramma	dramma	dramma	NN	PERSON					
+1	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+1	3	fb:cell.fulgenzio_maria_gualazzi	Fulgenzio Maria Gualazzi	fulgenzio|maria|gualazzi	Fulgenzio|Maria|Gualazzi	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+1	4	fb:cell.1695_carnival	1695, carnival	1695|,|carnival	1695|,|carnival	CD|,|NNP	DATE|O|O	1695||	1695.0			1695|carnival
+1	5	fb:cell.venice_teatro_santi_giovanni_e_paolo	Venice, Teatro Santi Giovanni e Paolo	venice|,|teatro|santi|giovanni|e|paolo	Venice|,|Teatro|Santi|Giovanni|e|Paolo	NNP|,|NNP|NNP|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON|PERSON|PERSON	||||||				Venice|Teatro Santi Giovanni e Paolo
+1	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+2	0	fb:cell.zenone_imperator_d_oriente	Zenone, imperator d’Oriente	zenone|,|imperator|d’oriente	Zenone|,|imperator|d’Oriente	NNP|,|NNP|NNP	PERSON|O|O|O	|||				Zenone|imperator d’Oriente
+2	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+2	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+2	3	fb:cell.antonio_marchi	Antonio Marchi	antonio|marchi	Antonio|Marchi	NNP|NNP	PERSON|PERSON	|				
+2	4	fb:cell.1696_autumn	1696, autumn	1696|,|autumn	1696|,|autumn	CD|,|NN	DATE|DATE|DATE	1696-FA|1696-FA|1696-FA	1696.0			1696|autumn
+2	5	fb:cell.venice_teatro_s_cassiano	Venice, Teatro S Cassiano	venice|,|teatro|s|cassiano	Venice|,|Teatro|S|Cassiano	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Venice|Teatro S Cassiano
+2	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+3	0	fb:cell.il_tigrane_re_d_armenia	Il Tigrane, re d’Armenia	il|tigrane|,|re|d’armenia	il|tigrane|,|re|d’Armenia	NN|NN|,|NNP|NNP	PERSON|PERSON|O|O|O	||||				Il Tigrane|re d’Armenia
+3	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+3	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+3	3	fb:cell.giulio_cesare_corradi	Giulio Cesare Corradi	giulio|cesare|corradi	Giulio|Cesare|Corradi	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+3	4	fb:cell.1697_carnival	1697, carnival	1697|,|carnival	1697|,|carnival	CD|,|NNP	DATE|O|O	1697||	1697.0			1697|carnival
+3	5	fb:cell.venice_teatro_s_cassiano	Venice, Teatro S Cassiano	venice|,|teatro|s|cassiano	Venice|,|Teatro|S|Cassiano	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Venice|Teatro S Cassiano
+3	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+4	0	fb:cell.primislao_primo_re_di_boemia	Primislao, primo re di Boemia	primislao|,|primo|re|di|boemia	Primislao|,|primo|re|di|Boemia	NNP|,|NNP|NNP|NNP|NNP	PERSON|O|PERSON|PERSON|PERSON|PERSON	|||||				Primislao|primo re di Boemia
+4	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+4	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+4	3	fb:cell.giulio_cesare_corradi	Giulio Cesare Corradi	giulio|cesare|corradi	Giulio|Cesare|Corradi	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+4	4	fb:cell.1697_autumn	1697, autumn	1697|,|autumn	1697|,|autumn	CD|,|NN	DATE|DATE|DATE	1697-FA|1697-FA|1697-FA	1697.0			1697|autumn
+4	5	fb:cell.venice_teatro_s_cassiano	Venice, Teatro S Cassiano	venice|,|teatro|s|cassiano	Venice|,|Teatro|S|Cassiano	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Venice|Teatro S Cassiano
+4	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+5	0	fb:cell.l_ingratitudine_castigata	L’ingratitudine castigata	l’ingratitudine|castigata	l’ingratitudine|castiga	NN|NN	PERSON|PERSON	|				L’ingratitudine castigata
+5	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+5	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+5	3	fb:cell.francesco_silvani	Francesco Silvani	francesco|silvani	Francesco|Silvani	NNP|NNP	PERSON|PERSON	|				
+5	4	fb:cell.1698_carnival	1698, carnival	1698|,|carnival	1698|,|carnival	CD|,|NNP	DATE|O|O	1698||	1698.0			1698|carnival
+5	5	fb:cell.venice_teatro_s_cassiano	Venice, Teatro S Cassiano	venice|,|teatro|s|cassiano	Venice|,|Teatro|S|Cassiano	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Venice|Teatro S Cassiano
+5	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+6	0	fb:cell.radamisto	Radamisto	radamisto	Radamisto	NNP	PERSON					Radamisto
+6	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+6	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+6	3	fb:cell.antonio_marchi	Antonio Marchi	antonio|marchi	Antonio|Marchi	NNP|NNP	PERSON|PERSON	|				
+6	4	fb:cell.1698_autumn	1698, autumn	1698|,|autumn	1698|,|autumn	CD|,|NN	DATE|DATE|DATE	1698-FA|1698-FA|1698-FA	1698.0			1698|autumn
+6	5	fb:cell.venice_teatro_sant_angelo	Venice, Teatro Sant'Angelo	venice|,|teatro|sant|`|angelo	Venice|,|Teatro|Sant|`|Angelo	NNP|,|NNP|NNP|``|NNP	LOCATION|O|PERSON|PERSON|O|PERSON	|||||				Venice|Teatro Sant'Angelo
+6	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+7	0	fb:cell.diomede_punito_da_alcide	Diomede punito da Alcide	diomede|punito|da|alcide	Diomede|punito|da|Alcide	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Diomede punito da Alcide
+7	1	fb:cell.dramma	dramma	dramma	dramma	NN	PERSON					
+7	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+7	3	fb:cell.aurelio_aureli	Aurelio Aureli	aurelio|aureli	Aurelio|Aureli	NNP|NNP	PERSON|PERSON	|				
+7	4	fb:cell.1700_autumn	1700, autumn	1700|,|autumn	1700|,|autumn	CD|,|NN	DATE|DATE|DATE	1700-FA|1700-FA|1700-FA	1700.0			1700|autumn
+7	5	fb:cell.venice_teatro_sant_angelo	Venice, Teatro Sant'Angelo	venice|,|teatro|sant|`|angelo	Venice|,|Teatro|Sant|`|Angelo	NNP|,|NNP|NNP|``|NNP	LOCATION|O|PERSON|PERSON|O|PERSON	|||||				Venice|Teatro Sant'Angelo
+7	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+8	0	fb:cell.l_inganno_innocente	L’inganno innocente	l’inganno|innocente	L’inganno|innocente	NNP|NNP	PERSON|PERSON	|				L’inganno innocente
+8	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+8	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+8	3	fb:cell.francesco_silvani	Francesco Silvani	francesco|silvani	Francesco|Silvani	NNP|NNP	PERSON|PERSON	|				
+8	4	fb:cell.1701_carnival	1701, carnival	1701|,|carnival	1701|,|carnival	CD|,|NNP	DATE|O|O	1701||	1701.0			1701|carnival
+8	5	fb:cell.venice_teatro_sant_angelo	Venice, Teatro Sant'Angelo	venice|,|teatro|sant|`|angelo	Venice|,|Teatro|Sant|`|Angelo	NNP|,|NNP|NNP|``|NNP	LOCATION|O|PERSON|PERSON|O|PERSON	|||||				Venice|Teatro Sant'Angelo
+8	6	fb:cell.music_lost_except_some_arias	music lost, except some arias	music|lost|,|except|some|arias	music|lose|,|except|some|arias	NN|VBD|,|IN|DT|NNP	O|O|O|O|O|PERSON	|||||				music lost|except some arias
+9	0	fb:cell.l_arte_in_gara_con_l_arte	L’arte in gara con l’arte	l’arte|in|gara|con|l’arte	l’arte|in|gara|con|l’arte	NN|IN|NNP|NN|NN	O|O|PERSON|O|O	||||				L’arte in gara con l’arte
+9	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+9	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+9	3	fb:cell.francesco_silvani	Francesco Silvani	francesco|silvani	Francesco|Silvani	NNP|NNP	PERSON|PERSON	|				
+9	4	fb:cell.1702_carnival	1702, carnival	1702|,|carnival	1702|,|carnival	CD|,|NNP	DATE|O|O	1702||	1702.0			1702|carnival
+9	5	fb:cell.venice_teatro_s_cassiano	Venice, Teatro S Cassiano	venice|,|teatro|s|cassiano	Venice|,|Teatro|S|Cassiano	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Venice|Teatro S Cassiano
+9	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+10	0	fb:cell.griselda	Griselda	griselda	Griselda	NNP	PERSON					Griselda
+10	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+10	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+10	3	fb:cell.apostolo_zeno	Apostolo Zeno	apostolo|zeno	Apostolo|Zeno	NNP|NNP	PERSON|PERSON	|				
+10	4	fb:cell.1703_carnival	1703, carnival	1703|,|carnival	1703|,|carnival	CD|,|NNP	DATE|O|O	1703||	1703.0			1703|carnival
+10	5	fb:cell.florence_cocomero	Florence, Cocomero	florence|,|cocomero	Florence|,|Cocomero	NNP|,|NNP	LOCATION|O|PERSON	||				Florence|Cocomero
+10	6	fb:cell.music_lost_except_three_arias	music lost, except three arias	music|lost|,|except|three|arias	music|lose|,|except|three|arias	NN|VBD|,|IN|CD|NNP	O|O|O|O|PERSON|PERSON	|||||				music lost|except three arias
+11	0	fb:cell.aminta	Aminta	aminta	Aminta	NNP	PERSON					Aminta
+11	1	fb:cell.dramma_regio_pastorale	dramma regio pastorale	dramma|regio|pastorale	dramma|regio|pastorale	NN|NN|NN	O|O|O	||				
+11	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+11	3	fb:cell.apostolo_zeno	Apostolo Zeno	apostolo|zeno	Apostolo|Zeno	NNP|NNP	PERSON|PERSON	|				
+11	4	fb:cell.1703_autumn	1703, autumn	1703|,|autumn	1703|,|autumn	CD|,|NN	DATE|DATE|DATE	1703-FA|1703-FA|1703-FA	1703.0			1703|autumn
+11	5	fb:cell.florence_cocomero	Florence, Cocomero	florence|,|cocomero	Florence|,|Cocomero	NNP|,|NNP	LOCATION|O|PERSON	||				Florence|Cocomero
+11	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+12	0	fb:cell.il_piu_fedel_tra_i_vassalli	Il più fedel tra i vassalli	il|più|fedel|tra|i|vassalli	il|più|fedel|tra|i|vassalli	NN|NN|NNP|NNP|PRP|VBP	PERSON|PERSON|PERSON|PERSON|PERSON|PERSON	|||||				Il più fedel tra i vassalli
+12	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+12	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+12	3	fb:cell.francesco_silvani	Francesco Silvani	francesco|silvani	Francesco|Silvani	NNP|NNP	PERSON|PERSON	|				
+12	4	fb:cell.1705_autumn	1705, autumn	1705|,|autumn	1705|,|autumn	CD|,|NN	DATE|DATE|DATE	1705-FA|1705-FA|1705-FA	1705.0			1705|autumn
+12	5	fb:cell.genoa_falcone	Genoa, Falcone	genoa|,|falcone	Genoa|,|Falcone	NNP|,|NNP	ORGANIZATION|O|PERSON	||				Genoa|Falcone
+12	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+13	0	fb:cell.la_prosperita_di_elio_sejano	La prosperità di Elio Sejano	la|prosperità|di|elio|sejano	La|prosperità|di|Elio|Sejano	NNP|NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON|PERSON	||||				La prosperità di Elio Sejano
+13	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+13	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+13	3	fb:cell.nicolo_minato	Nicolò Minato	nicolò|minato	Nicolò|Minato	NNP|NNP	PERSON|PERSON	|				
+13	4	fb:cell.1707_carnival	1707, carnival	1707|,|carnival	1707|,|carnival	CD|,|NNP	DATE|O|O	1707||	1707.0			1707|carnival
+13	5	fb:cell.genoa_falcone	Genoa, Falcone	genoa|,|falcone	Genoa|,|Falcone	NNP|,|NNP	ORGANIZATION|O|PERSON	||				Genoa|Falcone
+13	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+14	0	fb:cell.la_fede_tra_gl_inganni	La fede tra gl’inganni	la|fede|tra|gl|'|inganni	La|fede|tra|gl|'|inganni	NNP|NNP|NNP|NNP|POS|NNP	PERSON|PERSON|PERSON|O|O|O	|||||				La fede tra gl’inganni
+14	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+14	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+14	3	fb:cell.francesco_silvani	Francesco Silvani	francesco|silvani	Francesco|Silvani	NNP|NNP	PERSON|PERSON	|				
+14	4	fb:cell.1707_carnival	1707, carnival	1707|,|carnival	1707|,|carnival	CD|,|NNP	DATE|O|O	1707||	1707.0			1707|carnival
+14	5	fb:cell.venice_teatro_sant_angelo	Venice, Teatro Sant'Angelo	venice|,|teatro|sant|`|angelo	Venice|,|Teatro|Sant|`|Angelo	NNP|,|NNP|NNP|``|NNP	LOCATION|O|PERSON|PERSON|O|PERSON	|||||				Venice|Teatro Sant'Angelo
+14	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+15	0	fb:cell.la_fortezza_al_cimento	La fortezza al cimento	la|fortezza|al|cimento	La|fortezza|al|cimento	NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				La fortezza al cimento
+15	1	fb:cell.melodramma	melodramma	melodramma	melodramma	NN	PERSON					
+15	2	fb:cell.2_acts	2 acts	2|acts	2|act	CD|NNS	NUMBER|O	2.0|	2.0			
+15	3	fb:cell.francesco_silvani	Francesco Silvani	francesco|silvani	Francesco|Silvani	NNP|NNP	PERSON|PERSON	|				
+15	4	fb:cell.1707	1707	1707	1707	CD	DATE	1707	1707.0	1707-xx-xx		1707
+15	5	fb:cell.piacenza_ducale	Piacenza, Ducale	piacenza|,|ducale	Piacenza|,|Ducale	NNP|,|NNP	ORGANIZATION|O|PERSON	||				Piacenza|Ducale
+15	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+16	0	fb:cell.astarto	Astarto	astarto	Astarto	NNP	PERSON					Astarto
+16	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+16	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+16	3	fb:cell.apostolo_zeno_and_pietro_pariati	Apostolo Zeno and Pietro Pariati	apostolo|zeno|and|pietro|pariati	Apostolo|Zeno|and|Pietro|Pariati	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				
+16	4	fb:cell.1708_autumn	1708, autumn	1708|,|autumn	1708|,|autumn	CD|,|NN	DATE|DATE|DATE	1708-FA|1708-FA|1708-FA	1708.0			1708|autumn
+16	5	fb:cell.venice_teatro_s_cassiano	Venice, Teatro S Cassiano	venice|,|teatro|s|cassiano	Venice|,|Teatro|S|Cassiano	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Venice|Teatro S Cassiano
+16	6	fb:cell.music_lost_except_some_arias	music lost, except some arias	music|lost|,|except|some|arias	music|lose|,|except|some|arias	NN|VBD|,|IN|DT|NNP	O|O|O|O|O|PERSON	|||||				music lost|except some arias
+17	0	fb:cell.pimpinone	Pimpinone	pimpinone	pimpinone	NN	O					Pimpinone
+17	1	fb:cell.intermezzo	intermezzo	intermezzo	intermezzo	NNP	O					
+17	2	fb:cell.3_intermezzos	3 intermezzos	3|intermezzos	3|intermezzos	CD|NNPS	NUMBER|O	3.0|	3.0			
+17	3	fb:cell.pietro_pariati	Pietro Pariati	pietro|pariati	Pietro|Pariati	NNP|NNP	PERSON|PERSON	|				
+17	4	fb:cell.1708_autumn	1708, autumn	1708|,|autumn	1708|,|autumn	CD|,|NN	DATE|DATE|DATE	1708-FA|1708-FA|1708-FA	1708.0			1708|autumn
+17	5	fb:cell.venice_teatro_s_cassiano	Venice, Teatro S Cassiano	venice|,|teatro|s|cassiano	Venice|,|Teatro|S|Cassiano	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Venice|Teatro S Cassiano
+17	6	fb:cell.null										
+18	0	fb:cell.engelberta	Engelberta	engelberta	Engelberta	NNP	PERSON					Engelberta
+18	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+18	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+18	3	fb:cell.apostolo_zeno_and_pietro_pariati	Apostolo Zeno and Pietro Pariati	apostolo|zeno|and|pietro|pariati	Apostolo|Zeno|and|Pietro|Pariati	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				
+18	4	fb:cell.1709_carnival	1709, carnival	1709|,|carnival	1709|,|carnival	CD|,|NNP	DATE|O|O	1709||	1709.0			1709|carnival
+18	5	fb:cell.venice_teatro_s_cassiano	Venice, Teatro S Cassiano	venice|,|teatro|s|cassiano	Venice|,|Teatro|S|Cassiano	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Venice|Teatro S Cassiano
+18	6	fb:cell.4th_and_5th_acts_by_francesco_gasparini	4th and 5th acts by Francesco Gasparini	4th|and|5th|acts|by|francesco|gasparini	4th|and|5th|act|by|Francesco|Gasparini	JJ|CC|JJ|NNS|IN|NNP|NNP	ORDINAL|ORDINAL|ORDINAL|O|O|PERSON|PERSON	4.0||||||	4.0		5.0	4th and 5th acts by Francesco Gasparini
+19	0	fb:cell.il_tradimento_tradito	Il tradimento tradito	il|tradimento|tradito	il|tradimento|tradito	NN|NN|NN	O|O|O	||				Il tradimento tradito
+19	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+19	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+19	3	fb:cell.francesco_silvani	Francesco Silvani	francesco|silvani	Francesco|Silvani	NNP|NNP	PERSON|PERSON	|				
+19	4	fb:cell.1708_carnival	1708, carnival	1708|,|carnival	1708|,|carnival	CD|,|NNP	DATE|O|O	1708||	1708.0			1708|carnival
+19	5	fb:cell.venice_teatro_sant_angelo	Venice, Teatro Sant'Angelo	venice|,|teatro|sant|`|angelo	Venice|,|Teatro|Sant|`|Angelo	NNP|,|NNP|NNP|``|NNP	LOCATION|O|PERSON|PERSON|O|PERSON	|||||				Venice|Teatro Sant'Angelo
+19	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+20	0	fb:cell.ciro	Ciro	ciro	Ciro	NNP	PERSON					Ciro
+20	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+20	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+20	3	fb:cell.pietro_pariati	Pietro Pariati	pietro|pariati	Pietro|Pariati	NNP|NNP	PERSON|PERSON	|				
+20	4	fb:cell.1710_carnival	1710, carnival	1710|,|carnival	1710|,|carnival	CD|,|NNP	DATE|O|O	1710||	1710.0			1710|carnival
+20	5	fb:cell.venice_teatro_s_cassiano	Venice, Teatro S Cassiano	venice|,|teatro|s|cassiano	Venice|,|Teatro|S|Cassiano	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Venice|Teatro S Cassiano
+20	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+21	0	fb:cell.il_tiranno_eroe	Il tiranno eroe	il|tiranno|eroe	il|tiranno|eroe	NN|NN|NN	PERSON|PERSON|PERSON	||				Il tiranno eroe
+21	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+21	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+21	3	fb:cell.vincenzo_cassani	Vincenzo Cassani	vincenzo|cassani	Vincenzo|Cassani	NNP|NNP	PERSON|PERSON	|				
+21	4	fb:cell.1711_carnival	1711, carnival	1711|,|carnival	1711|,|carnival	CD|,|NNP	DATE|O|O	1711||	1711.0			1711|carnival
+21	5	fb:cell.venice_teatro_s_cassiano	Venice, Teatro S Cassiano	venice|,|teatro|s|cassiano	Venice|,|Teatro|S|Cassiano	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Venice|Teatro S Cassiano
+21	6	fb:cell.null										
+22	0	fb:cell.il_giustino	Il Giustino	il|giustino	il|giustino	NN|NN	PERSON|PERSON	|				Il Giustino
+22	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+22	2	fb:cell.5_acts	5 acts	5|acts	5|act	CD|NNS	NUMBER|O	5.0|	5.0			
+22	3	fb:cell.pietro_pariati_after_nicolo_beregan	Pietro Pariati after Nicolò Beregan	pietro|pariati|after|nicolò|beregan	Pietro|Pariati|after|Nicolò|Beregan	NNP|NNP|IN|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				
+22	4	fb:cell.1711_spring	1711, spring	1711|,|spring	1711|,|spring	CD|,|NN	DATE|DATE|DATE	1711-SP|1711-SP|1711-SP	1711.0			1711|spring
+22	5	fb:cell.bologna_formagliari	Bologna, Formagliari	bologna|,|formagliari	Bologna|,|Formagliari	NNP|,|NNP	ORGANIZATION|O|PERSON	||				Bologna|Formagliari
+22	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+23	0	fb:cell.la_pace_generosa	La pace generosa	la|pace|generosa	La|pace|generosa	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				La pace generosa
+23	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+23	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+23	3	fb:cell.francesco_silvani	Francesco Silvani	francesco|silvani	Francesco|Silvani	NNP|NNP	PERSON|PERSON	|				
+23	4	fb:cell.1711_autumn	1711, autumn	1711|,|autumn	1711|,|autumn	CD|,|NN	DATE|DATE|DATE	1711-FA|1711-FA|1711-FA	1711.0			1711|autumn
+23	5	fb:cell.genoa_falcone	Genoa, Falcone	genoa|,|falcone	Genoa|,|Falcone	NNP|,|NNP	ORGANIZATION|O|PERSON	||				Genoa|Falcone
+23	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+24	0	fb:cell.le_gare_generose	Le gare generose	le|gare|generose	Le|gare|generose	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Le gare generose
+24	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+24	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+24	3	fb:cell.antonio_zaniboni	Antonio Zaniboni	antonio|zaniboni	Antonio|Zaniboni	NNP|NNP	PERSON|PERSON	|				
+24	4	fb:cell.1712_autumn	1712, autumn	1712|,|autumn	1712|,|autumn	CD|,|NN	DATE|DATE|DATE	1712-FA|1712-FA|1712-FA	1712.0			1712|autumn
+24	5	fb:cell.venice_teatro_s_cassiano	Venice, Teatro S Cassiano	venice|,|teatro|s|cassiano	Venice|,|Teatro|S|Cassiano	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Venice|Teatro S Cassiano
+24	6	fb:cell.music_lost_except_five_arias	music lost, except five arias	music|lost|,|except|five|arias	music|lose|,|except|five|arias	NN|VBD|,|IN|CD|NNP	O|O|O|O|PERSON|PERSON	|||||				music lost|except five arias
+25	0	fb:cell.lucio_vero	Lucio Vero	lucio|vero	Lucio|Vero	NNP|NNP	PERSON|PERSON	|				Lucio Vero
+25	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+25	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+25	3	fb:cell.apostolo_zeno	Apostolo Zeno	apostolo|zeno	Apostolo|Zeno	NNP|NNP	PERSON|PERSON	|				
+25	4	fb:cell.1713_spring	1713, spring	1713|,|spring	1713|,|spring	CD|,|NN	DATE|DATE|DATE	1713-SP|1713-SP|1713-SP	1713.0			1713|spring
+25	5	fb:cell.ferrara_s_stefano	Ferrara, S Stefano	ferrara|,|s|stefano	Ferrara|,|s|Stefano	NNP|,|NNS|NNP	PERSON|O|O|PERSON	|||				Ferrara|S Stefano
+25	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+26	0	fb:cell.l_amor_di_figlio_non_conosciuto	L'amor di figlio non conosciuto	l'amor|di|figlio|non|conosciuto	L'amor|di|figlio|non|conosciuto	NNP|NNP|NNP|JJ|NN	PERSON|PERSON|PERSON|O|O	||||				L'amor di figlio non conosciuto
+26	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+26	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+26	3	fb:cell.domenico_lalli	Domenico Lalli	domenico|lalli	Domenico|Lalli	NNP|NNP	PERSON|PERSON	|				
+26	4	fb:cell.1716_carnival	1716, carnival	1716|,|carnival	1716|,|carnival	CD|,|NNP	DATE|O|O	1716||	1716.0			1716|carnival
+26	5	fb:cell.venice_teatro_sant_angelo	Venice, Teatro Sant'Angelo	venice|,|teatro|sant|`|angelo	Venice|,|Teatro|Sant|`|Angelo	NNP|,|NNP|NNP|``|NNP	LOCATION|O|PERSON|PERSON|O|PERSON	|||||				Venice|Teatro Sant'Angelo
+26	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+27	0	fb:cell.eumene	Eumene	eumene	Eumene	NNP	PERSON					Eumene
+27	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+27	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+27	3	fb:cell.antonio_salvi	Antonio Salvi	antonio|salvi	Antonio|Salvi	NNP|NNP	PERSON|PERSON	|				
+27	4	fb:cell.1717_autumn	1717, autumn	1717|,|autumn	1717|,|autumn	CD|,|NN	DATE|DATE|DATE	1717-FA|1717-FA|1717-FA	1717.0			1717|autumn
+27	5	fb:cell.venice_teatro_san_giovanni_grisostomo	Venice, Teatro San Giovanni Grisostomo	venice|,|teatro|san|giovanni|grisostomo	Venice|,|Teatro|San|Giovanni|Grisostomo	NNP|,|NNP|NNP|NNP|NNP	LOCATION|O|LOCATION|LOCATION|LOCATION|LOCATION	|||||				Venice|Teatro San Giovanni Grisostomo
+27	6	fb:cell.music_lost_except_one_aria	music lost, except one aria	music|lost|,|except|one|aria	music|lose|,|except|one|aria	NN|VBD|,|IN|CD|NN	O|O|O|O|NUMBER|O	||||1.0|				music lost|except one aria
+28	0	fb:cell.meleagro	Meleagro	meleagro	Meleagro	NNP	PERSON					Meleagro
+28	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+28	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+28	3	fb:cell.pietro_antonio_bernardoni	Pietro Antonio Bernardoni	pietro|antonio|bernardoni	Pietro|Antonio|Bernardoni	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+28	4	fb:cell.1718_carnival	1718, carnival	1718|,|carnival	1718|,|carnival	CD|,|NNP	DATE|O|O	1718||	1718.0			1718|carnival
+28	5	fb:cell.venice_teatro_sant_angelo	Venice, Teatro Sant'Angelo	venice|,|teatro|sant|`|angelo	Venice|,|Teatro|Sant|`|Angelo	NNP|,|NNP|NNP|``|NNP	LOCATION|O|PERSON|PERSON|O|PERSON	|||||				Venice|Teatro Sant'Angelo
+28	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+29	0	fb:cell.cleomene	Cleomene	cleomene	cleomene	NN	PERSON					Cleomene
+29	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+29	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+29	3	fb:cell.vincenzo_cassani	Vincenzo Cassani	vincenzo|cassani	Vincenzo|Cassani	NNP|NNP	PERSON|PERSON	|				
+29	4	fb:cell.1718_carnival	1718, carnival	1718|,|carnival	1718|,|carnival	CD|,|NNP	DATE|O|O	1718||	1718.0			1718|carnival
+29	5	fb:cell.venice_teatro_sant_angelo	Venice, Teatro Sant'Angelo	venice|,|teatro|sant|`|angelo	Venice|,|Teatro|Sant|`|Angelo	NNP|,|NNP|NNP|``|NNP	LOCATION|O|PERSON|PERSON|O|PERSON	|||||				Venice|Teatro Sant'Angelo
+29	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+30	0	fb:cell.gli_eccessi_della_gelosia	Gli eccessi della gelosia	gli|eccessi|della|gelosia	Gli|eccessi|della|gelosia	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Gli eccessi della gelosia
+30	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+30	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+30	3	fb:cell.domenico_lalli	Domenico Lalli	domenico|lalli	Domenico|Lalli	NNP|NNP	PERSON|PERSON	|				
+30	4	fb:cell.1722_carnival	1722, carnival	1722|,|carnival	1722|,|carnival	CD|,|NNP	DATE|O|O	1722||	1722.0			1722|carnival
+30	5	fb:cell.venice_teatro_sant_angelo	Venice, Teatro Sant'Angelo	venice|,|teatro|sant|`|angelo	Venice|,|Teatro|Sant|`|Angelo	NNP|,|NNP|NNP|``|NNP	LOCATION|O|PERSON|PERSON|O|PERSON	|||||				Venice|Teatro Sant'Angelo
+30	6	fb:cell.music_lost_except_some_arias	music lost, except some arias	music|lost|,|except|some|arias	music|lose|,|except|some|arias	NN|VBD|,|IN|DT|NNP	O|O|O|O|O|PERSON	|||||				music lost|except some arias
+31	0	fb:cell.i_veri_amici	I veri amici	i|veri|amici	I|veri|amici	PRP|VBP|NNP	O|PERSON|PERSON	||				I veri amici
+31	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+31	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+31	3	fb:cell.francesco_silvani_and_domenico_lalli_after_pierre_corneille	Francesco Silvani and Domenico Lalli after Pierre Corneille	francesco|silvani|and|domenico|lalli|after|pierre|corneille	Francesco|Silvani|and|Domenico|Lalli|after|Pierre|Corneille	NNP|NNP|CC|NNP|NNP|IN|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON|O|PERSON|PERSON	|||||||				
+31	4	fb:cell.1722_october	1722, October	1722|,|october	1722|,|October	CD|,|NNP	DATE|DATE|DATE	1722-10|1722-10|1722-10	1722.0	1722-10-xx		1722|October
+31	5	fb:cell.munich_hof	Munich, Hof	munich|,|hof	Munich|,|Hof	NNP|,|NNP	LOCATION|O|O	||				Munich|Hof
+31	6	fb:cell.music_lost_except_some_arias	music lost, except some arias	music|lost|,|except|some|arias	music|lose|,|except|some|arias	NN|VBD|,|IN|DT|NNP	O|O|O|O|O|PERSON	|||||				music lost|except some arias
+32	0	fb:cell.il_trionfo_d_amore	Il trionfo d’amore	il|trionfo|d’amore	il|trionfo|d’amore	NN|NN|NN	O|O|O	||				Il trionfo d’amore
+32	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+32	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+32	3	fb:cell.pietro_pariati	Pietro Pariati	pietro|pariati	Pietro|Pariati	NNP|NNP	PERSON|PERSON	|				
+32	4	fb:cell.1722_november	1722, November	1722|,|november	1722|,|November	CD|,|NNP	DATE|DATE|DATE	1722-11|1722-11|1722-11	1722.0	1722-11-xx		1722|November
+32	5	fb:cell.munich	Munich	munich	Munich	NNP	LOCATION					Munich
+32	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+33	0	fb:cell.eumene	Eumene	eumene	Eumene	NNP	PERSON					Eumene
+33	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+33	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+33	3	fb:cell.apostolo_zeno	Apostolo Zeno	apostolo|zeno	Apostolo|Zeno	NNP|NNP	PERSON|PERSON	|				
+33	4	fb:cell.1723_carnival	1723, carnival	1723|,|carnival	1723|,|carnival	CD|,|NNP	DATE|O|O	1723||	1723.0			1723|carnival
+33	5	fb:cell.venice_teatro_san_moise	Venice, Teatro San Moisè	venice|,|teatro|san|moisè	Venice|,|Teatro|San|Moisè	NNP|,|NNP|NNP|NNP	LOCATION|O|LOCATION|LOCATION|LOCATION	||||				Venice|Teatro San Moisè
+33	6	fb:cell.music_lost_except_2_arias	music lost, except 2 arias	music|lost|,|except|2|arias	music|lose|,|except|2|arias	NN|VBD|,|IN|CD|NNP	O|O|O|O|NUMBER|PERSON	||||2.0|	2.0			music lost|except 2 arias
+34	0	fb:cell.ermengarda	Ermengarda	ermengarda	Ermengarda	NNP	PERSON					Ermengarda
+34	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+34	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+34	3	fb:cell.antonio_maria_lucchini	Antonio Maria Lucchini	antonio|maria|lucchini	Antonio|Maria|Lucchini	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				
+34	4	fb:cell.1723_autumn	1723, autumn	1723|,|autumn	1723|,|autumn	CD|,|NN	DATE|DATE|DATE	1723-FA|1723-FA|1723-FA	1723.0			1723|autumn
+34	5	fb:cell.venice_teatro_san_moise	Venice, Teatro San Moisè	venice|,|teatro|san|moisè	Venice|,|Teatro|San|Moisè	NNP|,|NNP|NNP|NNP	LOCATION|O|LOCATION|LOCATION|LOCATION	||||				Venice|Teatro San Moisè
+34	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+35	0	fb:cell.antigono_tutore_di_filippo_re_di_macedonia	Antigono, tutore di Filippo, re di Macedonia	antigono|,|tutore|di|filippo|,|re|di|macedonia	Antigono|,|tutore|di|Filippo|,|re|di|Macedonia	NNP|,|NNP|NNP|NNP|,|NNP|NNP|NNP	PERSON|O|PERSON|PERSON|PERSON|O|O|O|LOCATION	||||||||				Antigono|tutore di Filippo|re di Macedonia
+35	1	fb:cell.tragedia	tragedia	tragedia	tragedia	NNP	PERSON					
+35	2	fb:cell.5_acts	5 acts	5|acts	5|act	CD|NNS	NUMBER|O	5.0|	5.0			
+35	3	fb:cell.giovanni_piazzon	Giovanni Piazzon	giovanni|piazzon	Giovanni|Piazzon	NNP|NNP	PERSON|PERSON	|				
+35	4	fb:cell.1724_carnival	1724, carnival	1724|,|carnival	1724|,|carnival	CD|,|NNP	DATE|O|O	1724||	1724.0			1724|carnival
+35	5	fb:cell.venice_teatro_san_moise	Venice, Teatro San Moisè	venice|,|teatro|san|moisè	Venice|,|Teatro|San|Moisè	NNP|,|NNP|NNP|NNP	LOCATION|O|LOCATION|LOCATION|LOCATION	||||				Venice|Teatro San Moisè
+35	6	fb:cell.5th_act_by_giovanni_porta_music_lost	5th act by Giovanni Porta, music lost	5th|act|by|giovanni|porta|,|music|lost	5th|act|by|Giovanni|Porta|,|music|lose	JJ|NN|IN|NNP|NNP|,|NN|VBD	ORDINAL|O|O|PERSON|PERSON|O|O|O	5.0|||||||	5.0			5th act by Giovanni Porta|music lost
+36	0	fb:cell.scipione_nelle_spagne	Scipione nelle Spagne	scipione|nelle|spagne	Scipione|nelle|Spagne	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Scipione nelle Spagne
+36	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+36	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+36	3	fb:cell.apostolo_zeno	Apostolo Zeno	apostolo|zeno	Apostolo|Zeno	NNP|NNP	PERSON|PERSON	|				
+36	4	fb:cell.1724_ascension	1724, Ascension	1724|,|ascension	1724|,|ascension	CD|,|NN	DATE|O|O	1724||	1724.0			1724|Ascension
+36	5	fb:cell.venice_teatro_san_samuele	Venice, Teatro San Samuele	venice|,|teatro|san|samuele	Venice|,|Teatro|San|Samuele	NNP|,|NNP|NNP|NNP	LOCATION|O|LOCATION|LOCATION|LOCATION	||||				Venice|Teatro San Samuele
+36	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+37	0	fb:cell.laodice	Laodice	laodice	laodice	NN	O					Laodice
+37	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+37	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+37	3	fb:cell.angelo_schietti	Angelo Schietti	angelo|schietti	Angelo|Schietti	NNP|NNP	PERSON|PERSON	|				
+37	4	fb:cell.1724_autumn	1724, autumn	1724|,|autumn	1724|,|autumn	CD|,|NN	DATE|DATE|DATE	1724-FA|1724-FA|1724-FA	1724.0			1724|autumn
+37	5	fb:cell.venice_teatro_san_moise	Venice, Teatro San Moisè	venice|,|teatro|san|moisè	Venice|,|Teatro|San|Moisè	NNP|,|NNP|NNP|NNP	LOCATION|O|LOCATION|LOCATION|LOCATION	||||				Venice|Teatro San Moisè
+37	6	fb:cell.music_lost_except_2_arias	music lost, except 2 arias	music|lost|,|except|2|arias	music|lose|,|except|2|arias	NN|VBD|,|IN|CD|NNP	O|O|O|O|NUMBER|PERSON	||||2.0|	2.0			music lost|except 2 arias
+38	0	fb:cell.didone_abbandonata	Didone abbandonata	didone|abbandonata	didone|abbandona	NN|NN	PERSON|PERSON	|				Didone abbandonata
+38	1	fb:cell.tragedia	tragedia	tragedia	tragedia	NNP	PERSON					
+38	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+38	3	fb:cell.metastasio	Metastasio	metastasio	Metastasio	NNP	PERSON					
+38	4	fb:cell.1725_carnival	1725, carnival	1725|,|carnival	1725|,|carnival	CD|,|NNP	DATE|O|O	1725||	1725.0			1725|carnival
+38	5	fb:cell.venice_teatro_s_cassiano	Venice, Teatro S Cassiano	venice|,|teatro|s|cassiano	Venice|,|Teatro|S|Cassiano	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Venice|Teatro S Cassiano
+38	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+39	0	fb:cell.l_impresario_delle_isole_canarie	L'impresario delle Isole Canarie	l'impresario|delle|isole|canarie	L'impresario|delle|Isole|Canarie	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				L'impresario delle Isole Canarie
+39	1	fb:cell.intermezzo	intermezzo	intermezzo	intermezzo	NNP	O					
+39	2	fb:cell.2_acts	2 acts	2|acts	2|act	CD|NNS	NUMBER|O	2.0|	2.0			
+39	3	fb:cell.metastasio	Metastasio	metastasio	Metastasio	NNP	PERSON					
+39	4	fb:cell.1725_carnival	1725, carnival	1725|,|carnival	1725|,|carnival	CD|,|NNP	DATE|O|O	1725||	1725.0			1725|carnival
+39	5	fb:cell.venice_teatro_s_cassiano	Venice, Teatro S Cassiano	venice|,|teatro|s|cassiano	Venice|,|Teatro|S|Cassiano	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Venice|Teatro S Cassiano
+39	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+40	0	fb:cell.alcina_delusa_da_ruggero	Alcina delusa da Ruggero	alcina|delusa|da|ruggero	Alcina|delusa|da|Ruggero	NNP|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Alcina delusa da Ruggero
+40	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+40	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+40	3	fb:cell.antonio_marchi	Antonio Marchi	antonio|marchi	Antonio|Marchi	NNP|NNP	PERSON|PERSON	|				
+40	4	fb:cell.1725_autumn	1725, autumn	1725|,|autumn	1725|,|autumn	CD|,|NN	DATE|DATE|DATE	1725-FA|1725-FA|1725-FA	1725.0			1725|autumn
+40	5	fb:cell.venice_teatro_s_cassiano	Venice, Teatro S Cassiano	venice|,|teatro|s|cassiano	Venice|,|Teatro|S|Cassiano	NNP|,|NNP|NNP|NNP	LOCATION|O|PERSON|PERSON|PERSON	||||				Venice|Teatro S Cassiano
+40	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+41	0	fb:cell.i_rivali_generosi	I rivali generosi	i|rivali|generosi	I|rivali|generosus	PRP|VBP|NNS	O|PERSON|PERSON	||				I rivali generosi
+41	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+41	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+41	3	fb:cell.apostolo_zeno	Apostolo Zeno	apostolo|zeno	Apostolo|Zeno	NNP|NNP	PERSON|PERSON	|				
+41	4	fb:cell.1725	1725	1725	1725	CD	DATE	1725	1725.0	1725-xx-xx		1725
+41	5	fb:cell.brescia_nuovo	Brescia, Nuovo	brescia|,|nuovo	Brescia|,|Nuovo	NNP|,|NNP	ORGANIZATION|O|PERSON	||				Brescia|Nuovo
+41	6	fb:cell.null										
+42	0	fb:cell.la_statira	La Statira	la|statira	La|Statira	NNP|NNP	PERSON|PERSON	|				La Statira
+42	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+42	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+42	3	fb:cell.apostolo_zeno_and_pietro_pariati	Apostolo Zeno and Pietro Pariati	apostolo|zeno|and|pietro|pariati	Apostolo|Zeno|and|Pietro|Pariati	NNP|NNP|CC|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				
+42	4	fb:cell.1726_carnival	1726, Carnival	1726|,|carnival	1726|,|Carnival	CD|,|NNP	DATE|O|O	1726||	1726.0			1726|Carnival
+42	5	fb:cell.rome_teatro_capranica	Rome, Teatro Capranica	rome|,|teatro|capranica	Rome|,|Teatro|Capranica	NNP|,|NNP|NNP	LOCATION|O|PERSON|PERSON	|||				Rome|Teatro Capranica
+42	6	fb:cell.null										
+43	0	fb:cell.malsazio_e_fiammetta	Malsazio e Fiammetta	malsazio|e|fiammetta	Malsazio|e|Fiammetta	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Malsazio e Fiammetta
+43	1	fb:cell.intermezzo	intermezzo	intermezzo	intermezzo	NNP	O					
+43	2	fb:cell.null										
+43	3	fb:cell.null										
+43	4	fb:cell.1726_carnival	1726, Carnival	1726|,|carnival	1726|,|Carnival	CD|,|NNP	DATE|O|O	1726||	1726.0			1726|Carnival
+43	5	fb:cell.rome_teatro_capranica	Rome, Teatro Capranica	rome|,|teatro|capranica	Rome|,|Teatro|Capranica	NNP|,|NNP|NNP	LOCATION|O|PERSON|PERSON	|||				Rome|Teatro Capranica
+43	6	fb:cell.null										
+44	0	fb:cell.il_trionfo_di_armida	Il trionfo di Armida	il|trionfo|di|armida	il|trionfo|di|Armida	NN|NNP|NNP|NNP	PERSON|PERSON|PERSON|PERSON	|||				Il trionfo di Armida
+44	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+44	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+44	3	fb:cell.girolamo_colatelli_after_torquato_tasso	Girolamo Colatelli after Torquato Tasso	girolamo|colatelli|after|torquato|tasso	Girolamo|Colatelli|after|Torquato|Tasso	NNP|NNP|IN|NNP|NNP	PERSON|PERSON|O|PERSON|PERSON	||||				
+44	4	fb:cell.1726_autumn	1726, autumn	1726|,|autumn	1726|,|autumn	CD|,|NN	DATE|DATE|DATE	1726-FA|1726-FA|1726-FA	1726.0			1726|autumn
+44	5	fb:cell.venice_teatro_san_moise	Venice, Teatro San Moisè	venice|,|teatro|san|moisè	Venice|,|Teatro|San|Moisè	NNP|,|NNP|NNP|NNP	LOCATION|O|LOCATION|LOCATION|LOCATION	||||				Venice|Teatro San Moisè
+44	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+45	0	fb:cell.l_incostanza_schernita	L’incostanza schernita	l’incostanza|schernita	l’incostanza|schernita	NN|NN	PERSON|PERSON	|				L’incostanza schernita
+45	1	fb:cell.dramma_comico_pastorale	dramma comico-pastorale	dramma|comico|pastorale	dramma|comico|pastorale	NNP|NNP|NNP	O|O|O	||				
+45	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+45	3	fb:cell.vincenzo_cassani	Vincenzo Cassani	vincenzo|cassani	Vincenzo|Cassani	NNP|NNP	PERSON|PERSON	|				
+45	4	fb:cell.1727_ascension	1727, Ascension	1727|,|ascension	1727|,|ascension	CD|,|NN	DATE|O|O	1727||	1727.0			1727|Ascension
+45	5	fb:cell.venice_teatro_san_samuele	Venice, Teatro San Samuele	venice|,|teatro|san|samuele	Venice|,|Teatro|San|Samuele	NNP|,|NNP|NNP|NNP	LOCATION|O|LOCATION|LOCATION|LOCATION	||||				Venice|Teatro San Samuele
+45	6	fb:cell.music_lost_except_some_arias	music lost, except some arias	music|lost|,|except|some|arias	music|lose|,|except|some|arias	NN|VBD|,|IN|DT|NNP	O|O|O|O|O|PERSON	|||||				music lost|except some arias
+46	0	fb:cell.le_due_rivali_in_amore	Le due rivali in amore	le|due|rivali|in|amore	Le|due|rivalus|in|amore	NNP|JJ|NNS|IN|NN	PERSON|PERSON|PERSON|O|LOCATION	||||				Le due rivali in amore
+46	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+46	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+46	3	fb:cell.aurelio_aureli	Aurelio Aureli	aurelio|aureli	Aurelio|Aureli	NNP|NNP	PERSON|PERSON	|				
+46	4	fb:cell.1728_autumn	1728, autumn	1728|,|autumn	1728|,|autumn	CD|,|NN	DATE|DATE|DATE	1728-FA|1728-FA|1728-FA	1728.0			1728|autumn
+46	5	fb:cell.venice_teatro_san_moise	Venice, Teatro San Moisè	venice|,|teatro|san|moisè	Venice|,|Teatro|San|Moisè	NNP|,|NNP|NNP|NNP	LOCATION|O|LOCATION|LOCATION|LOCATION	||||				Venice|Teatro San Moisè
+46	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+47	0	fb:cell.il_satrapone	Il Satrapone	il|satrapone	il|satrapone	NN|NN	PERSON|PERSON	|				Il Satrapone
+47	1	fb:cell.intermezzo	intermezzo	intermezzo	intermezzo	NNP	O					
+47	2	fb:cell.null										
+47	3	fb:cell.salvi	Salvi	salvi	Salvi	NNP	PERSON					
+47	4	fb:cell.1729	1729	1729	1729	CD	DATE	1729	1729.0	1729-xx-xx		1729
+47	5	fb:cell.parma_omodeo	Parma, Omodeo	parma|,|omodeo	Parma|,|Omodeo	NNP|,|NNP	ORGANIZATION|O|PERSON	||				Parma|Omodeo
+47	6	fb:cell.null										
+48	0	fb:cell.li_stratagemmi_amorosi	Li stratagemmi amorosi	li|stratagemmi|amorosi	Li|stratagemmi|amorosi	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Li stratagemmi amorosi
+48	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+48	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+48	3	fb:cell.f_passerini	F Passerini	f|passerini	f|passerinus	NN|NNS	O|PERSON	|				
+48	4	fb:cell.1730_carnival	1730, carnival	1730|,|carnival	1730|,|carnival	CD|,|NNP	DATE|O|O	1730||	1730.0			1730|carnival
+48	5	fb:cell.venice_teatro_san_moise	Venice, Teatro San Moisè	venice|,|teatro|san|moisè	Venice|,|Teatro|San|Moisè	NNP|,|NNP|NNP|NNP	LOCATION|O|LOCATION|LOCATION|LOCATION	||||				Venice|Teatro San Moisè
+48	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+49	0	fb:cell.elenia	Elenia	elenia	Elenia	NNP	PERSON					Elenia
+49	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+49	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+49	3	fb:cell.luisa_bergalli	Luisa Bergalli	luisa|bergalli	Luisa|Bergalli	NNP|NNP	PERSON|PERSON	|				
+49	4	fb:cell.1730_carnival	1730, carnival	1730|,|carnival	1730|,|carnival	CD|,|NNP	DATE|O|O	1730||	1730.0			1730|carnival
+49	5	fb:cell.venice_teatro_sant_angelo	Venice, Teatro Sant'Angelo	venice|,|teatro|sant|`|angelo	Venice|,|Teatro|Sant|`|Angelo	NNP|,|NNP|NNP|``|NNP	LOCATION|O|PERSON|PERSON|O|PERSON	|||||				Venice|Teatro Sant'Angelo
+49	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+50	0	fb:cell.merope	Merope	merope	merope	NN	O					Merope
+50	1	fb:cell.dramma	dramma	dramma	dramma	NN	PERSON					
+50	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+50	3	fb:cell.apostolo_zeno	Apostolo Zeno	apostolo|zeno	Apostolo|Zeno	NNP|NNP	PERSON|PERSON	|				
+50	4	fb:cell.1731_autumn	1731, autumn	1731|,|autumn	1731|,|autumn	CD|,|NN	DATE|DATE|DATE	1731-FA|1731-FA|1731-FA	1731.0			1731|autumn
+50	5	fb:cell.prague_sporck_theater	Prague, Sporck Theater	prague|,|sporck|theater	Prague|,|Sporck|Theater	NNP|,|NNP|NNP	LOCATION|O|PERSON|O	|||				Prague|Sporck Theater
+50	6	fb:cell.mostly_by_albinoni_music_lost	mostly by Albinoni, music lost	mostly|by|albinoni|,|music|lost	mostly|by|Albinoni|,|music|lose	RB|IN|NNP|,|NN|VBD	O|O|PERSON|O|O|O	|||||				mostly by Albinoni|music lost
+51	0	fb:cell.il_piu_infedel_tra_gli_amanti	Il più infedel tra gli amanti	il|più|infedel|tra|gli|amanti	il|più|infedel|tra|glus|amanti	NN|NN|NN|NN|NN|NNP	O|O|O|O|O|O	|||||				Il più infedel tra gli amanti
+51	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+51	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+51	3	fb:cell.angelo_schietti	Angelo Schietti	angelo|schietti	Angelo|Schietti	NNP|NNP	PERSON|PERSON	|				
+51	4	fb:cell.1731_autumn	1731, autumn	1731|,|autumn	1731|,|autumn	CD|,|NN	DATE|DATE|DATE	1731-FA|1731-FA|1731-FA	1731.0			1731|autumn
+51	5	fb:cell.treviso_dolphin	Treviso, Dolphin	treviso|,|dolphin	Treviso|,|Dolphin	NNP|,|NNP	LOCATION|O|PERSON	||				Treviso|Dolphin
+51	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+52	0	fb:cell.ardelinda	Ardelinda	ardelinda	Ardelinda	NNP	PERSON					Ardelinda
+52	1	fb:cell.dramma	dramma	dramma	dramma	NN	PERSON					
+52	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+52	3	fb:cell.bartolomeo_vitturi	Bartolomeo Vitturi	bartolomeo|vitturi	Bartolomeo|Vitturi	NNP|NNP	PERSON|PERSON	|				
+52	4	fb:cell.1732_autumn	1732, autumn	1732|,|autumn	1732|,|autumn	CD|,|NN	DATE|DATE|DATE	1732-FA|1732-FA|1732-FA	1732.0			1732|autumn
+52	5	fb:cell.venice_teatro_sant_angelo	Venice, Teatro Sant'Angelo	venice|,|teatro|sant|`|angelo	Venice|,|Teatro|Sant|`|Angelo	NNP|,|NNP|NNP|``|NNP	LOCATION|O|PERSON|PERSON|O|PERSON	|||||				Venice|Teatro Sant'Angelo
+52	6	fb:cell.music_lost_except_five_arias	music lost, except five arias	music|lost|,|except|five|arias	music|lose|,|except|five|arias	NN|VBD|,|IN|CD|NNP	O|O|O|O|PERSON|PERSON	|||||				music lost|except five arias
+53	0	fb:cell.candalide	Candalide	candalide	candalide	NN	O					Candalide
+53	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+53	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+53	3	fb:cell.bartolomeo_vitturi	Bartolomeo Vitturi	bartolomeo|vitturi	Bartolomeo|Vitturi	NNP|NNP	PERSON|PERSON	|				
+53	4	fb:cell.1734_carnival	1734, carnival	1734|,|carnival	1734|,|carnival	CD|,|NNP	DATE|O|O	1734||	1734.0			1734|carnival
+53	5	fb:cell.venice_teatro_sant_angelo	Venice, Teatro Sant'Angelo	venice|,|teatro|sant|`|angelo	Venice|,|Teatro|Sant|`|Angelo	NNP|,|NNP|NNP|``|NNP	LOCATION|O|PERSON|PERSON|O|PERSON	|||||				Venice|Teatro Sant'Angelo
+53	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost
+54	0	fb:cell.artamene	Artamene	artamene	artamene	NN	PERSON					Artamene
+54	1	fb:cell.dramma_per_musica	dramma per musica	dramma|per|musica	dramma|per|musica	NN|IN|NN	O|O|O	||				
+54	2	fb:cell.3_acts	3 acts	3|acts	3|act	CD|NNS	NUMBER|O	3.0|	3.0			
+54	3	fb:cell.bartolomeo_vitturi	Bartolomeo Vitturi	bartolomeo|vitturi	Bartolomeo|Vitturi	NNP|NNP	PERSON|PERSON	|				
+54	4	fb:cell.1741_carnival	1741, carnival	1741|,|carnival	1741|,|carnival	CD|,|NNP	DATE|O|O	1741||	1741.0			1741|carnival
+54	5	fb:cell.venice_teatro_sant_angelo	Venice, Teatro Sant'Angelo	venice|,|teatro|sant|`|angelo	Venice|,|Teatro|Sant|`|Angelo	NNP|,|NNP|NNP|``|NNP	LOCATION|O|PERSON|PERSON|O|PERSON	|||||				Venice|Teatro Sant'Angelo
+54	6	fb:cell.music_lost	music lost	music|lost	music|lose	NN|VBD	O|O	|				music lost

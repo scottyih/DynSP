@@ -1,0 +1,131 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.call_sign	Call Sign	call|sign	call|sign	VB|NN	O|O	|				
+-1	1	fb:row.row.frequency	Frequency	frequency	frequency	NN	O					
+-1	2	fb:row.row.city_of_license	City of License	city|of|license	city|of|license	NN|IN|NN	O|O|O	||				
+-1	3	fb:row.row.licensee	Licensee	licensee	licensee	NN	O					
+-1	4	fb:row.row.format	Format	format	format	NN	O					
+0	0	fb:cell.kmsa	KMSA	kmsa	KMSA	NNP	PERSON					
+0	1	fb:cell.91_3_fm	91.3 FM	91.3|fm	91.3|FM	CD|NNP	NUMBER|O	91.3|	91.3			
+0	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+0	3	fb:cell.colorado_mesa_university	Colorado Mesa University	colorado|mesa|university	Colorado|Mesa|University	NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Colorado Mesa University
+0	4	fb:cell.aaa	AAA	aaa	aaa	JJ	O					AAA
+1	0	fb:cell.kmgj	KMGJ	kmgj	KMGJ	NNP	PERSON					
+1	1	fb:cell.93_1_fm	93.1 FM	93.1|fm	93.1|FM	CD|NNP	NUMBER|O	93.1|	93.1			
+1	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+1	3	fb:cell.mbc_grand_broadcasting_inc	MBC Grand Broadcasting, Inc.	mbc|grand|broadcasting|,|inc.|.	mbc|Grand|Broadcasting|,|Inc.|.	NN|NNP|NNP|,|NNP|.	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O	|||||				MBC Grand Broadcasting|Inc.
+1	4	fb:cell.top_40_chr_contemporary_hit_radio	Top 40 (CHR)/Contemporary Hit Radio	top|40|-lrb-|chr|-rrb-|/|contemporary|hit|radio	top|40|-lrb-|chr|-rrb-|/|contemporary|hit|radio	JJ|CD|-LRB-|NN|-RRB-|:|JJ|NN|NN	O|NUMBER|O|O|O|O|O|O|O	|40.0|||||||	40.0			Top 40 (CHR)|Contemporary Hit Radio
+2	0	fb:cell.kkvt	KKVT	kkvt	KKVT	NNP	PERSON					
+2	1	fb:cell.100_7_fm	100.7 FM	100.7|fm	100.7|FM	CD|NNP	NUMBER|O	100.7|	100.7			
+2	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+2	3	fb:cell.mbc_grand_broadcasting_inc	MBC Grand Broadcasting, Inc.	mbc|grand|broadcasting|,|inc.|.	mbc|Grand|Broadcasting|,|Inc.|.	NN|NNP|NNP|,|NNP|.	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O	|||||				MBC Grand Broadcasting|Inc.
+2	4	fb:cell.country	Country	country	country	NN	O					Country
+3	0	fb:cell.klfv	KLFV	klfv	KLFV	NNP	PERSON					
+3	1	fb:cell.90_3_fm	90.3 FM	90.3|fm	90.3|FM	CD|NNP	NUMBER|O	90.3|	90.3			
+3	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+3	3	fb:cell.educational_media_foundation	Educational Media Foundation	educational|media|foundation	educational|media|foundation	JJ|NNS|NN	O|O|O	||				Educational Media Foundation
+3	4	fb:cell.christian_contemporary	Christian Contemporary	christian|contemporary	Christian|Contemporary	NNP|NNP	MISC|O	|				Christian Contemporary
+4	0	fb:cell.kmoz_fm	KMOZ-FM	kmoz|fm	KMOZ|FM	NNP|NNP	PERSON|O	|				
+4	1	fb:cell.92_3_fm	92.3 FM	92.3|fm	92.3|FM	CD|NNP	NUMBER|O	92.3|	92.3			
+4	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+4	3	fb:cell.mbc_grand_broadcasting_inc	MBC Grand Broadcasting, Inc.	mbc|grand|broadcasting|,|inc.|.	mbc|Grand|Broadcasting|,|Inc.|.	NN|NNP|NNP|,|NNP|.	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O	|||||				MBC Grand Broadcasting|Inc.
+4	4	fb:cell.adult_hits	Adult Hits	adult|hits	adult|hit	JJ|NNS	O|O	|				Adult Hits
+5	0	fb:cell.kgjn_lp	KGJN-LP	kgjn|lp	KGJN|lp	NNP|NN	PERSON|PERSON	|				
+5	1	fb:cell.106_7_fm	106.7 FM	106.7|fm	106.7|FM	CD|NNP	NUMBER|O	106.7|	106.7			
+5	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+5	3	fb:cell.colorado_state_of_telecom_servs	Colorado, State Of, Telecom Servs	colorado|,|state|of|,|telecom|servs	Colorado|,|state|of|,|Telecom|Servs	NNP|,|NN|IN|,|NNP|NNP	LOCATION|O|O|O|O|O|O	||||||				Colorado|State Of|Telecom Servs
+5	4	fb:cell.news_talk_information	News Talk Information	news|talk|information	news|talk|information	NN|NN|NN	O|O|O	||				News Talk Information
+6	0	fb:cell.kjol	KJOL	kjol	KJOL	NNP	PERSON					
+6	1	fb:cell.620_am	620 AM	620|am	620|be	CD|VBD-AUX	NUMBER|O	620.0|	620.0			
+6	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+6	3	fb:cell.united_ministries	United Ministries	united|ministries	United|ministry	NNP|NNS	ORGANIZATION|ORGANIZATION	|				United Ministries
+6	4	fb:cell.christian_contemporary	Christian Contemporary	christian|contemporary	Christian|Contemporary	NNP|NNP	MISC|O	|				Christian Contemporary
+7	0	fb:cell.kcic	KCIC	kcic	KCIC	NNP	PERSON					
+7	1	fb:cell.88_5_fm	88.5 FM	88.5|fm	88.5|FM	CD|NNP	NUMBER|O	88.5|	88.5			
+7	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+7	3	fb:cell.pear_park_baptist_schools	Pear Park Baptist Schools	pear|park|baptist|schools	Pear|Park|Baptist|Schools	NNP|NNP|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|O	|||				Pear Park Baptist Schools
+7	4	fb:cell.religious	Religious	religious	religious	JJ	O					Religious
+8	0	fb:cell.kbkl	KBKL	kbkl	KBKL	NNP	PERSON					
+8	1	fb:cell.107_9_fm	107.9 FM	107.9|fm	107.9|FM	CD|NNP	NUMBER|O	107.9|	107.9			
+8	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+8	3	fb:cell.townsquare_media_group	Townsquare Media Group	townsquare|media|group	Townsquare|Media|group	NNP|NNP|NN	O|O|O	||				Townsquare Media Group
+8	4	fb:cell.oldies	Oldies	oldies	Oldies	NNPS	O					Oldies
+9	0	fb:cell.kafm	KAFM	kafm	KAFM	NNP	PERSON					
+9	1	fb:cell.88_1_fm	88.1 FM	88.1|fm	88.1|FM	CD|NNP	NUMBER|O	88.1|	88.1			
+9	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+9	3	fb:cell.grand_valley_public_radio_co_inc	Grand Valley Public Radio Co, Inc	grand|valley|public|radio|co|,|inc	Grand|Valley|Public|Radio|Co|,|Inc	NNP|NNP|NNP|NNP|NNP|,|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O|O	||||||				Grand Valley Public Radio Co|Inc
+9	4	fb:cell.variety	Variety	variety	variety	NN	O					Variety
+10	0	fb:cell.kexo	KEXO	kexo	KEXO	NNP	PERSON					
+10	1	fb:cell.1230_am	1230 AM	1230|am	1230|be	CD|VBD-AUX	DATE|O	1230|	1230.0			
+10	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+10	3	fb:cell.townsquare_media_group	Townsquare Media Group	townsquare|media|group	Townsquare|Media|group	NNP|NNP|NN	O|O|O	||				Townsquare Media Group
+10	4	fb:cell.regional_mexican_talk	Regional Mexican/Talk	regional|mexican/talk	regional|mexican/talk	JJ|NN	O|O	|				Regional Mexican|Talk
+11	0	fb:cell.knzz	KNZZ	knzz	KNZZ	NNP	PERSON					
+11	1	fb:cell.1100_am	1100 AM	1100|am	1100|be	CD|VBD-AUX	DATE|O	1100|	1100.0			
+11	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+11	3	fb:cell.mbc_grand_broadcasting_inc	MBC Grand Broadcasting, Inc.	mbc|grand|broadcasting|,|inc.|.	mbc|Grand|Broadcasting|,|Inc.|.	NN|NNP|NNP|,|NNP|.	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O	|||||				MBC Grand Broadcasting|Inc.
+11	4	fb:cell.news_talk	News/Talk	news/talk	news/talk	NN	O					News|Talk
+12	0	fb:cell.kmxy	KMXY	kmxy	kmxy	NN	PERSON					
+12	1	fb:cell.104_3_fm	104.3 FM	104.3|fm	104.3|FM	CD|NNP	NUMBER|O	104.3|	104.3			
+12	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+12	3	fb:cell.townsquare_media_group	Townsquare Media Group	townsquare|media|group	Townsquare|Media|group	NNP|NNP|NN	O|O|O	||				Townsquare Media Group
+12	4	fb:cell.hot_adult_contemporary	Hot Adult Contemporary	hot|adult|contemporary	hot|adult|contemporary	JJ|JJ|JJ	O|O|O	||				Hot Adult Contemporary
+13	0	fb:cell.kprn	KPRN	kprn	KPRN	NNP	PERSON					
+13	1	fb:cell.89_5_fm	89.5 FM	89.5|fm	89.5|FM	CD|NNP	NUMBER|O	89.5|	89.5			
+13	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+13	3	fb:cell.public_broadcasting_of_colorado_inc	Public Broadcasting of Colorado, Inc.	public|broadcasting|of|colorado|,|inc.|.	Public|Broadcasting|of|Colorado|,|Inc.|.	NNP|NNP|IN|NNP|,|NNP|.	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O	||||||				Public Broadcasting of Colorado|Inc.
+13	4	fb:cell.public_news_talk	Public/News/Talk	public/news/talk	public/news/talk	NN	O					Public|News|Talk
+14	0	fb:cell.ktmm	KTMM	ktmm	KTMM	NNP	PERSON					
+14	1	fb:cell.1340_am	1340 AM	1340|am	1340|be	CD|VBD-AUX	DATE|O	1340|	1340.0			
+14	2	fb:cell.grand_junction	Grand Junction	grand|junction	Grand|junction	NNP|NN	MISC|MISC	|				Grand Junction
+14	3	fb:cell.mbc_grand_broadcasting_inc	MBC Grand Broadcasting, Inc.	mbc|grand|broadcasting|,|inc.|.	mbc|Grand|Broadcasting|,|Inc.|.	NN|NNP|NNP|,|NNP|.	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION|O	|||||				MBC Grand Broadcasting|Inc.
+14	4	fb:cell.sports_talk	Sports/Talk	sports/talk	sports/talk	NN	O					Sports|Talk
+15	0	fb:cell.kaai	KAAI	kaai	KAAI	NNP	PERSON					
+15	1	fb:cell.98_5_fm	98.5 FM	98.5|fm	98.5|FM	CD|NNP	NUMBER|O	98.5|	98.5			
+15	2	fb:cell.palisade_colorado	Palisade, Colorado	palisade|,|colorado	Palisade|,|Colorado	NNP|,|NNP	LOCATION|O|LOCATION	||				Palisade|Colorado
+15	3	fb:cell.educational_media_foundation	Educational Media Foundation	educational|media|foundation	educational|media|foundation	JJ|NNS|NN	O|O|O	||				Educational Media Foundation
+15	4	fb:cell.christian_rock	Christian Rock	christian|rock	Christian|Rock	NNP|NNP	PERSON|PERSON	|				Christian Rock
+16	0	fb:cell.kmzk_fm	KMZK (FM)	kmzk|-lrb-|fm|-rrb-	kmzk|-lrb-|fm|-rrb-	NN|-LRB-|NN|-RRB-	PERSON|O|O|O	|||				
+16	1	fb:cell.106_9_fm	106.9 FM	106.9|fm	106.9|FM	CD|NNP	NUMBER|O	106.9|	106.9			
+16	2	fb:cell.clifton	Clifton	clifton	Clifton	NNP	PERSON					Clifton
+16	3	fb:cell.charles_d_hall	Charles D. Hall	charles|d.|hall	Charles|D.|Hall	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Charles D. Hall
+16	4	fb:cell.null										
+17	0	fb:cell.kekb	KEKB	kekb	KEKB	NNP	PERSON					
+17	1	fb:cell.99_9_fm	99.9 FM	99.9|fm	99.9|FM	CD|NNP	NUMBER|O	99.9|	99.9			
+17	2	fb:cell.fruita	Fruita	fruita	Fruita	NNP	LOCATION					Fruita
+17	3	fb:cell.townsquare_media_group	Townsquare Media Group	townsquare|media|group	Townsquare|Media|group	NNP|NNP|NN	O|O|O	||				Townsquare Media Group
+17	4	fb:cell.country	Country	country	country	NN	O					Country
+18	0	fb:cell.krzx	KRZX	krzx	KRZX	NNP	PERSON					
+18	1	fb:cell.106_1_fm	106.1 FM	106.1|fm	106.1|FM	CD|NNP	NUMBER|O	106.1|	106.1			
+18	2	fb:cell.redlands	Redlands	redlands	Redlands	NNP	LOCATION					Redlands
+18	3	fb:cell.cochise_media_licenses_llc	Cochise Media Licenses LLC	cochise|media|licenses|llc	Cochise|Media|license|llc	NNP|NNP|VBZ|NN	ORGANIZATION|ORGANIZATION|ORGANIZATION|ORGANIZATION	|||				Cochise Media Licenses LLC
+18	4	fb:cell.null										
+19	0	fb:cell.kzks	KZKS	kzks	KZKS	NNPS	PERSON					
+19	1	fb:cell.105_3_fm	105.3 FM	105.3|fm	105.3|FM	CD|NNP	NUMBER|O	105.3|	105.3			
+19	2	fb:cell.rifle_colorado	Rifle, Colorado	rifle|,|colorado	rifle|,|Colorado	NN|,|NNP	O|O|LOCATION	||				Rifle|Colorado
+19	3	fb:cell.western_slope_communications	Western Slope Communications	western|slope|communications	western|slope|communication	JJ|NN|NNS	O|O|O	||				Western Slope Communications
+19	4	fb:cell.classic_hits	Classic Hits	classic|hits	classic|hit	JJ|NNS	O|O	|				Classic Hits
+20	0	fb:cell.knoz	KNOZ	knoz	KNOZ	NNP	PERSON					
+20	1	fb:cell.97_7_fm	97.7 FM	97.7|fm	97.7|FM	CD|NNP	NUMBER|O	97.7|	97.7			
+20	2	fb:cell.orchard_mesa	Orchard Mesa	orchard|mesa	Orchard|Mesa	NNP|NNP	PERSON|PERSON	|				Orchard Mesa
+20	3	fb:cell.paul_varecha	Paul Varecha	paul|varecha	Paul|Varecha	NNP|NNP	PERSON|PERSON	|				Paul Varecha
+20	4	fb:cell.all_news_radio	All-News Radio	all|news|radio	all|news|radio	DT|NN|NN	O|O|O	||				All-News Radio
+21	0	fb:cell.ktun	KTUN	ktun	KTUN	NNP	PERSON					
+21	1	fb:cell.93_5_fm	93.5 FM	93.5|fm	93.5|FM	CD|NNP	NUMBER|O	93.5|	93.5			
+21	2	fb:cell.new_castle_colorado	New Castle, Colorado	new|castle|,|colorado	new|castle|,|Colorado	JJ|NN|,|NNP	O|O|O|LOCATION	|||				New Castle|Colorado
+21	3	fb:cell.wildcat_communications	Wildcat Communications	wildcat|communications	wildcat|communication	NN|NNS	O|O	|				Wildcat Communications
+21	4	fb:cell.spanish_hits	Spanish Hits	spanish|hits	spanish|hit	JJ|NNS	MISC|O	|				Spanish Hits
+22	0	fb:cell.kknn	KKNN	kknn	KKNN	NNP	PERSON					
+22	1	fb:cell.95_1_fm	95.1 FM	95.1|fm	95.1|FM	CD|NNP	NUMBER|O	95.1|	95.1			
+22	2	fb:cell.delta_colorado	Delta, Colorado	delta|,|colorado	delta|,|Colorado	NN|,|NNP	ORGANIZATION|O|LOCATION	||				Delta|Colorado
+22	3	fb:cell.townsquare_media_group	Townsquare Media Group	townsquare|media|group	Townsquare|Media|group	NNP|NNP|NN	O|O|O	||				Townsquare Media Group
+22	4	fb:cell.active_rock	Active Rock	active|rock	active|rock	JJ|NN	O|O	|				Active Rock
+23	0	fb:cell.kstr_fm	KSTR-FM	kstr|fm	KSTR|FM	NNP|NNP	O|O	|				
+23	1	fb:cell.96_1_fm	96.1 FM	96.1|fm	96.1|FM	CD|NNP	NUMBER|O	96.1|	96.1			
+23	2	fb:cell.montrose_colorado	Montrose, Colorado	montrose|,|colorado	Montrose|,|Colorado	NNP|,|NNP	LOCATION|O|LOCATION	||				Montrose|Colorado
+23	3	fb:cell.mbc_grand_broadcasting	MBC Grand Broadcasting	mbc|grand|broadcasting	mbc|Grand|Broadcasting	NN|NNP|NNP	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				MBC Grand Broadcasting
+23	4	fb:cell.classic_rock	Classic Rock	classic|rock	Classic|Rock	NNP|NNP	O|O	|				Classic Rock
+24	0	fb:cell.kubc	KUBC	kubc	KUBC	NNP	PERSON					
+24	1	fb:cell.580_am	580 AM	580|am	580|be	CD|VBD-AUX	NUMBER|O	580.0|	580.0			
+24	2	fb:cell.montrose_colorado	Montrose, Colorado	montrose|,|colorado	Montrose|,|Colorado	NNP|,|NNP	LOCATION|O|LOCATION	||				Montrose|Colorado
+24	3	fb:cell.cherry_creek_radio	Cherry Creek Radio	cherry|creek|radio	Cherry|Creek|radio	NNP|NNP|NN	ORGANIZATION|ORGANIZATION|ORGANIZATION	||				Cherry Creek Radio
+24	4	fb:cell.news_talk	News/Talk	news/talk	news/talk	NN	O					News|Talk

@@ -1,0 +1,184 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.material	Material	material	material	NN	O					
+-1	1	fb:row.row._nm	λ (nm)	λ|-lrb-|nm|-rrb-	λ|-lrb-|nm|-rrb-	NN|-LRB-|NN|-RRB-	O|O|O|O	|||				
+-1	2	fb:row.row.n	n	n	n	NN	O					
+0	0	fb:cell.vacuum	Vacuum	vacuum	vacuum	NN	O					Vacuum
+0	1	fb:cell.null										
+0	2	fb:cell.1_by_definition	1 (by definition)	1|-lrb-|by|definition|-rrb-	1|-lrb-|by|definition|-rrb-	CD|-LRB-|IN|NN|-RRB-	NUMBER|O|O|O|O	1.0||||	1.0			1 (by definition)
+1	0	fb:cell.air_at_stp	Air at STP	air|at|stp	air|at|stp	NN|IN|NN	O|O|ORGANIZATION	||				Air at STP
+1	1	fb:cell.null										
+1	2	fb:cell.1_000277	1.000277	1.000277	1.000277	CD	NUMBER	1.000277	1.000277			1.000277
+2	0	fb:cell.air	Air	air	Air	NNP	O					Air
+2	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+2	2	fb:cell.1_000293	1.000293	1.000293	1.000293	CD	NUMBER	1.000293	1.000293			1.000293
+3	0	fb:cell.carbon_dioxide	Carbon dioxide	carbon|dioxide	carbon|dioxide	NN|NN	O|O	|				Carbon dioxide
+3	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+3	2	fb:cell.1_00045	1.00045	1.00045	1.00045	CD	NUMBER	1.00045	1.00045			1.00045
+4	0	fb:cell.helium	Helium	helium	Helium	NNP	O					Helium
+4	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+4	2	fb:cell.1_000036	1.000036	1.000036	1.000036	CD	NUMBER	1.000036	1.000036			1.000036
+5	0	fb:cell.hydrogen	Hydrogen	hydrogen	hydrogen	NN	O					Hydrogen
+5	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+5	2	fb:cell.1_000132	1.000132	1.000132	1.000132	CD	NUMBER	1.000132	1.000132			1.000132
+6	0	fb:cell.arsenic_trisulfide_and_sulfur_in_methylene_iodide	Arsenic trisulfide and sulfur in methylene iodide	arsenic|trisulfide|and|sulfur|in|methylene|iodide	arsenic|trisulfide|and|sulfur|in|methylene|iodide	JJ|NN|CC|NN|IN|NN|NN	MISC|MISC|O|O|O|O|O	||||||				Arsenic trisulfide and sulfur in methylene iodide
+6	1	fb:cell.null										
+6	2	fb:cell.1_9	1.9	1.9	1.9	CD	NUMBER	1.9	1.9			1.9
+7	0	fb:cell.benzene	Benzene	benzene	Benzene	NNP	O					Benzene
+7	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+7	2	fb:cell.1_501	1.501	1.501	1.501	CD	NUMBER	1.501	1.501			1.501
+8	0	fb:cell.carbon_disulfide	Carbon disulfide	carbon|disulfide	carbon|disulfide	NN|NN	O|O	|				Carbon disulfide
+8	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+8	2	fb:cell.1_628	1.628	1.628	1.628	CD	NUMBER	1.628	1.628			1.628
+9	0	fb:cell.carbon_tetrachloride	Carbon tetrachloride	carbon|tetrachloride	carbon|tetrachloride	NN|NN	O|O	|				Carbon tetrachloride
+9	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+9	2	fb:cell.1_461	1.461	1.461	1.461	CD	NUMBER	1.461	1.461			1.461
+10	0	fb:cell.ethyl_alcohol_ethanol	Ethyl alcohol (ethanol)	ethyl|alcohol|-lrb-|ethanol|-rrb-	Ethyl|alcohol|-lrb-|ethanol|-rrb-	NNP|NNP|-LRB-|NN|-RRB-	ORGANIZATION|ORGANIZATION|O|O|O	||||				Ethyl alcohol (ethanol)
+10	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+10	2	fb:cell.1_361	1.361	1.361	1.361	CD	NUMBER	1.361	1.361			1.361
+11	0	fb:cell.silicone_oil	Silicone oil	silicone|oil	silicone|oil	NN|NN	O|O	|				Silicone oil
+11	1	fb:cell.null										
+11	2	fb:cell.1_336_1_582	1.336-1.582	1.336-1|.582	1.336-1|.582	CD|NN	NUMBER|NUMBER	|0.582	1.336		1.582	1.336-1.582
+12	0	fb:cell.water	Water	water	water	NN	O					Water
+12	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+12	2	fb:cell.1_3330	1.3330	1.3330	1.3330	CD	NUMBER	1.333	1.333			1.3330
+13	0	fb:cell.10_glucose_solution_in_water	10% Glucose solution in water	10|%|glucose|solution|in|water	10|%|glucose|solution|in|water	CD|NN|NN|NN|IN|NN	PERCENT|PERCENT|O|O|O|O	%10.0|%10.0||||	10.0			10% Glucose solution in water
+13	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+13	2	fb:cell.1_3477	1.3477	1.3477	1.3477	CD	NUMBER	1.3477	1.3477			1.3477
+14	0	fb:cell.20_glucose_solution_in_water	20% Glucose solution in water	20|%|glucose|solution|in|water	20|%|glucose|solution|in|water	CD|NN|NN|NN|IN|NN	PERCENT|PERCENT|O|O|O|O	%20.0|%20.0||||	20.0			20% Glucose solution in water
+14	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+14	2	fb:cell.1_3635	1.3635	1.3635	1.3635	CD	NUMBER	1.3635	1.3635			1.3635
+15	0	fb:cell.60_glucose_solution_in_water	60% Glucose solution in water	60|%|glucose|solution|in|water	60|%|glucose|solution|in|water	CD|NN|NN|NN|IN|NN	PERCENT|PERCENT|O|O|O|O	%60.0|%60.0||||	60.0			60% Glucose solution in water
+15	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+15	2	fb:cell.1_4394	1.4394	1.4394	1.4394	CD	NUMBER	1.4394	1.4394			1.4394
+16	0	fb:cell.titanium_dioxide_rutile_phase	Titanium dioxide (Rutile phase )	titanium|dioxide|-lrb-|rutile|phase|-rrb-	titanium|dioxide|-lrb-|rutile|phase|-rrb-	NN|NN|-LRB-|NN|NN|-RRB-	O|O|O|O|O|O	|||||				Titanium dioxide (Rutile phase )
+16	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+16	2	fb:cell.2_496	2.496	2.496	2.496	CD	NUMBER	2.496	2.496			2.496
+17	0	fb:cell.diamond	Diamond	diamond	diamond	NN	O					Diamond
+17	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+17	2	fb:cell.2_419	2.419	2.419	2.419	CD	NUMBER	2.419	2.419			2.419
+18	0	fb:cell.strontium_titanate	Strontium titanate	strontium|titanate	strontium|titanate	NN|NN	O|O	|				Strontium titanate
+18	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+18	2	fb:cell.2_41	2.41	2.41	2.41	CD	NUMBER	2.41	2.41			2.41
+19	0	fb:cell.amber	Amber	amber	Amber	NNP	O					Amber
+19	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+19	2	fb:cell.1_55	1.55	1.55	1.55	CD	NUMBER	1.55	1.55			1.55
+20	0	fb:cell.fused_silica_also_called_fused_quartz	Fused silica (also called Fused Quartz)	fused|silica|-lrb-|also|called|fused|quartz|-rrb-	fuse|silica|-lrb-|also|call|fuse|quartz|-rrb-	VBN|NN|-LRB-|RB|VBN|VBN|NN|-RRB-	O|O|O|O|O|O|O|O	|||||||				Fused silica (also called Fused Quartz)
+20	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+20	2	fb:cell.1_458	1.458	1.458	1.458	CD	NUMBER	1.458	1.458			1.458
+21	0	fb:cell.sodium_chloride	Sodium chloride	sodium|chloride	sodium|chloride	NN|NN	O|O	|				Sodium chloride
+21	1	fb:cell.589_29	589.29	589.29	589.29	CD	NUMBER	589.29	589.29			
+21	2	fb:cell.1_544	1.544	1.544	1.544	CD	NUMBER	1.544	1.544			1.544
+22	0	fb:cell.liquid_helium	Liquid helium	liquid|helium	liquid|helium	JJ|NNP	O|O	|				Liquid helium
+22	1	fb:cell.null										
+22	2	fb:cell.1_025	1.025	1.025	1.025	CD	NUMBER	1.025	1.025			1.025
+23	0	fb:cell.water_ice	Water ice	water|ice	water|ice	NN|NN	O|O	|				Water ice
+23	1	fb:cell.null										
+23	2	fb:cell.1_31	1.31	1.31	1.31	CD	NUMBER	1.31	1.31			1.31
+24	0	fb:cell.cornea_human	Cornea (human)	cornea|-lrb-|human|-rrb-	cornea|-lrb-|human|-rrb-	NN|-LRB-|JJ|-RRB-	O|O|O|O	|||				Cornea (human)
+24	1	fb:cell.null										
+24	2	fb:cell.1_373_1_380_1_401	1.373/1.380/1.401	1.373|/|1.380|/|1.401	1.373|/|1.380|/|1.401	CD|:|CD|:|CD	NUMBER|O|NUMBER|O|NUMBER	1.373||1.38||1.401	1.373		1.38	1.373|1.380|1.401
+25	0	fb:cell.lens_human	Lens (human)	lens|-lrb-|human|-rrb-	lens|-lrb-|human|-rrb-	NN|-LRB-|JJ|-RRB-	O|O|O|O	|||				Lens (human)
+25	1	fb:cell.null										
+25	2	fb:cell.1_386_1_406	1.386 - 1.406	1.386|-|1.406	1.386|-|1.406	CD|:|CD	NUMBER|O|NUMBER	1.386||1.406	1.386		1.406	1.386 - 1.406
+26	0	fb:cell.acetone	Acetone	acetone	acetone	NN	O					Acetone
+26	1	fb:cell.null										
+26	2	fb:cell.1_36	1.36	1.36	1.36	CD	NUMBER	1.36	1.36			1.36
+27	0	fb:cell.ethanol	Ethanol	ethanol	ethanol	NN	O					Ethanol
+27	1	fb:cell.null										
+27	2	fb:cell.1_36	1.36	1.36	1.36	CD	NUMBER	1.36	1.36			1.36
+28	0	fb:cell.glycerol	Glycerol	glycerol	glycerol	NN	O					Glycerol
+28	1	fb:cell.null										
+28	2	fb:cell.1_4729	1.4729	1.4729	1.4729	CD	NUMBER	1.4729	1.4729			1.4729
+29	0	fb:cell.bromine	Bromine	bromine	bromine	NN	O					Bromine
+29	1	fb:cell.null										
+29	2	fb:cell.1_661	1.661	1.661	1.661	CD	NUMBER	1.661	1.661			1.661
+30	0	fb:cell.teflon_af	Teflon AF	teflon|af	Teflon|AF	NNP|NNP	O|O	|				Teflon AF
+30	1	fb:cell.null										
+30	2	fb:cell.1_315	1.315	1.315	1.315	CD	NUMBER	1.315	1.315			1.315
+31	0	fb:cell.teflon	Teflon	teflon	Teflon	NNP	O					Teflon
+31	1	fb:cell.null										
+31	2	fb:cell.1_35_1_38	1.35 - 1.38	1.35|-|1.38	1.35|-|1.38	CD|:|CD	NUMBER|O|NUMBER	1.35||1.38	1.35		1.38	1.35 - 1.38
+32	0	fb:cell.cytop	Cytop	cytop	cytop	NN	PERSON					Cytop
+32	1	fb:cell.null										
+32	2	fb:cell.1_34	1.34	1.34	1.34	CD	NUMBER	1.34	1.34			1.34
+33	0	fb:cell.sylgard_184_polydimethylsiloxane	Sylgard 184 (Polydimethylsiloxane)	sylgard|184|-lrb-|polydimethylsiloxane|-rrb-	sylgard|184|-lrb-|polydimethylsiloxane|-rrb-	NN|CD|-LRB-|NN|-RRB-	MISC|NUMBER|O|O|O	|184.0|||	184.0			Sylgard 184 (Polydimethylsiloxane)
+33	1	fb:cell.null										
+33	2	fb:cell.1_4118	1.4118	1.4118	1.4118	CD	NUMBER	1.4118	1.4118			1.4118
+34	0	fb:cell.pla	PLA	pla	PLA	NNP	O					PLA
+34	1	fb:cell.null										
+34	2	fb:cell.1_46	1.46	1.46	1.46	CD	NUMBER	1.46	1.46			1.46
+35	0	fb:cell.acrylic_glass	Acrylic glass	acrylic|glass	Acrylic|glass	NNP|NNP	O|O	|				Acrylic glass
+35	1	fb:cell.null										
+35	2	fb:cell.1_490_1_492	1.490 - 1.492	1.490|-|1.492	1.490|-|1.492	CD|:|CD	NUMBER|O|NUMBER	1.49||1.492	1.49		1.492	1.490 - 1.492
+36	0	fb:cell.polycarbonate	Polycarbonate	polycarbonate	polycarbonate	NN	O					Polycarbonate
+36	1	fb:cell.null										
+36	2	fb:cell.1_584_1_586	1.584 - 1.586	1.584|-|1.586	1.584|-|1.586	CD|:|CD	NUMBER|O|NUMBER	1.584||1.586	1.584		1.586	1.584 - 1.586
+37	0	fb:cell.pmma	PMMA	pmma	pmma	NN	PERSON					PMMA
+37	1	fb:cell.null										
+37	2	fb:cell.1_4893_1_4899	1.4893 - 1.4899	1.4893|-|1.4899	1.4893|-|1.4899	CD|:|CD	NUMBER|O|NUMBER	1.4893||1.4899	1.4893		1.4899	1.4893 - 1.4899
+38	0	fb:cell.petg	PETg	petg	petg	NN	PERSON					PETg
+38	1	fb:cell.null										
+38	2	fb:cell.1_57	1.57	1.57	1.57	CD	NUMBER	1.57	1.57			1.57
+39	0	fb:cell.pet	PET	pet	pet	NN	O					PET
+39	1	fb:cell.null										
+39	2	fb:cell.1_5750	1.5750	1.5750	1.5750	CD	NUMBER	1.575	1.575			1.5750
+40	0	fb:cell.crown_glass_pure	Crown glass (pure)	crown|glass|-lrb-|pure|-rrb-	Crown|glass|-lrb-|pure|-rrb-	NNP|NNP|-LRB-|JJ|-RRB-	O|O|O|O|O	||||				Crown glass (pure)
+40	1	fb:cell.null										
+40	2	fb:cell.1_50_1_54	1.50 - 1.54	1.50|-|1.54	1.50|-|1.54	CD|:|CD	NUMBER|O|NUMBER	1.5||1.54	1.5		1.54	1.50 - 1.54
+41	0	fb:cell.flint_glass_pure	Flint glass (pure)	flint|glass|-lrb-|pure|-rrb-	Flint|glass|-lrb-|pure|-rrb-	NNP|NNP|-LRB-|JJ|-RRB-	O|O|O|O|O	||||				Flint glass (pure)
+41	1	fb:cell.null										
+41	2	fb:cell.1_60_1_62	1.60 - 1.62	1.60|-|1.62	1.60|-|1.62	CD|:|CD	NUMBER|O|NUMBER	1.6||1.62	1.6		1.62	1.60 - 1.62
+42	0	fb:cell.crown_glass_impure	Crown glass (impure)	crown|glass|-lrb-|impure|-rrb-	Crown|glass|-lrb-|impure|-rrb-	NNP|NNP|-LRB-|JJ|-RRB-	O|O|O|O|O	||||				Crown glass (impure)
+42	1	fb:cell.null										
+42	2	fb:cell.1_485_1_755	1.485 - 1.755	1.485|-|1.755	1.485|-|1.755	CD|:|CD	NUMBER|O|NUMBER	1.485||1.755	1.485		1.755	1.485 - 1.755
+43	0	fb:cell.flint_glass_impure	Flint glass (impure)	flint|glass|-lrb-|impure|-rrb-	Flint|glass|-lrb-|impure|-rrb-	NNP|NNP|-LRB-|JJ|-RRB-	O|O|O|O|O	||||				Flint glass (impure)
+43	1	fb:cell.null										
+43	2	fb:cell.1_523_1_925	1.523 - 1.925	1.523|-|1.925	1.523|-|1.925	CD|:|CD	NUMBER|O|NUMBER	1.523||1.925	1.523		1.925	1.523 - 1.925
+44	0	fb:cell.pyrex_a_borosilicate_glass	Pyrex (a borosilicate glass)	pyrex|-lrb-|a|borosilicate|glass|-rrb-	pyrex|-lrb-|a|borosilicate|glass|-rrb-	NN|-LRB-|DT|NN|NN|-RRB-	O|O|O|O|O|O	|||||				Pyrex (a borosilicate glass)
+44	1	fb:cell.null										
+44	2	fb:cell.1_470	1.470	1.470	1.470	CD	NUMBER	1.47	1.47			1.470
+45	0	fb:cell.cryolite	Cryolite	cryolite	Cryolite	NNP	O					Cryolite
+45	1	fb:cell.null										
+45	2	fb:cell.1_338	1.338	1.338	1.338	CD	NUMBER	1.338	1.338			1.338
+46	0	fb:cell.rock_salt	Rock salt	rock|salt	Rock|salt	NNP|NNP	O|O	|				Rock salt
+46	1	fb:cell.null										
+46	2	fb:cell.1_516	1.516	1.516	1.516	CD	NUMBER	1.516	1.516			1.516
+47	0	fb:cell.sapphire	Sapphire	sapphire	Sapphire	NNP	PERSON					Sapphire
+47	1	fb:cell.null										
+47	2	fb:cell.1_762_1_778	1.762–1.778	1.762|--|1.778	1.762|--|1.778	CD|:|CD	NUMBER|O|NUMBER	1.762||1.778	1.762		1.778	1.762–1.778
+48	0	fb:cell.sugar_solution_25	Sugar Solution, 25%	sugar|solution|,|25|%	sugar|solution|,|25|%	NN|NN|,|CD|NN	O|O|O|PERCENT|PERCENT	|||%25.0|%25.0	25.0			Sugar Solution|25%
+48	1	fb:cell.null										
+48	2	fb:cell.1_3723	1.3723	1.3723	1.3723	CD	NUMBER	1.3723	1.3723			1.3723
+49	0	fb:cell.sugar_solution_50	Sugar Solution, 50%	sugar|solution|,|50|%	sugar|solution|,|50|%	NN|NN|,|CD|NN	O|O|O|PERCENT|PERCENT	|||%50.0|%50.0	50.0			Sugar Solution|50%
+49	1	fb:cell.null										
+49	2	fb:cell.1_4200	1.4200	1.4200	1.4200	CD	NUMBER	1.42	1.42			1.4200
+50	0	fb:cell.sugar_solution_75	Sugar Solution, 75%	sugar|solution|,|75|%	sugar|solution|,|75|%	NN|NN|,|CD|NN	O|O|O|PERCENT|PERCENT	|||%75.0|%75.0	75.0			Sugar Solution|75%
+50	1	fb:cell.null										
+50	2	fb:cell.1_4774	1.4774	1.4774	1.4774	CD	NUMBER	1.4774	1.4774			1.4774
+51	0	fb:cell.cubic_zirconia	Cubic zirconia	cubic|zirconia	cubic|zirconium	JJ|NN	O|O	|				Cubic zirconia
+51	1	fb:cell.null										
+51	2	fb:cell.2_15_2_18	2.15 - 2.18	2.15|-|2.18	2.15|-|2.18	CD|:|CD	NUMBER|O|NUMBER	2.15||2.18	2.15		2.18	2.15 - 2.18
+52	0	fb:cell.potassium_niobate_knbo3	Potassium Niobate (KNbO3)	potassium|niobate|-lrb-|knbo3|-rrb-	potassium|niobate|-lrb-|knbo3|-rrb-	NN|NN|-LRB-|NN|-RRB-	O|O|O|O|O	||||	3.0			Potassium Niobate (KNbO3)
+52	1	fb:cell.null										
+52	2	fb:cell.2_28	2.28	2.28	2.28	CD	NUMBER	2.28	2.28			2.28
+53	0	fb:cell.silicon_carbide	Silicon carbide	silicon|carbide	Silicon|carbide	NNP|NNP	O|O	|				Silicon carbide
+53	1	fb:cell.null										
+53	2	fb:cell.2_65_2_69	2.65 - 2.69	2.65|-|2.69	2.65|-|2.69	CD|:|CD	NUMBER|O|NUMBER	2.65||2.69	2.65		2.69	2.65 - 2.69
+54	0	fb:cell.cinnabar_mercury_sulfide	Cinnabar (Mercury sulfide)	cinnabar|-lrb-|mercury|sulfide|-rrb-	cinnabar|-lrb-|mercury|sulfide|-rrb-	NN|-LRB-|NN|NN|-RRB-	O|O|O|O|O	||||				Cinnabar (Mercury sulfide)
+54	1	fb:cell.null										
+54	2	fb:cell.3_02	3.02	3.02	3.02	CD	NUMBER	3.02	3.02			3.02
+55	0	fb:cell.gallium_iii_phosphide	Gallium(III) phosphide	gallium|-lrb-|iii|-rrb-|phosphide	gallium|-lrb-|iii|-rrb-|phosphide	NN|-LRB-|CD|-RRB-|NNP	O|O|NUMBER|O|O	||0.0||				Gallium(III) phosphide
+55	1	fb:cell.null										
+55	2	fb:cell.3_5	3.5	3.5	3.5	CD	NUMBER	3.5	3.5			3.5
+56	0	fb:cell.gallium_iii_arsenide	Gallium(III) arsenide	gallium|-lrb-|iii|-rrb-|arsenide	gallium|-lrb-|iii|-rrb-|arsenide	NN|-LRB-|CD|-RRB-|NN	O|O|NUMBER|O|O	||0.0||				Gallium(III) arsenide
+56	1	fb:cell.null										
+56	2	fb:cell.3_927	3.927	3.927	3.927	CD	NUMBER	3.927	3.927			3.927
+57	0	fb:cell.zinc_oxide	Zinc Oxide	zinc|oxide	zinc|oxide	NN|NN	O|O	|				Zinc Oxide
+57	1	fb:cell.390	390	390	390	CD	NUMBER	390.0	390.0			
+57	2	fb:cell.2_4	2.4	2.4	2.4	CD	NUMBER	2.4	2.4			2.4
+58	0	fb:cell.germanium	Germanium	germanium	germanium	NN	O					Germanium
+58	1	fb:cell.null										
+58	2	fb:cell.4_01	4.01	4.01	4.01	CD	NUMBER	4.01	4.01			4.01
+59	0	fb:cell.silicon	Silicon	silicon	Silicon	NNP	O					Silicon
+59	1	fb:cell.590	590	590	590	CD	NUMBER	590.0	590.0			
+59	2	fb:cell.3_962	3.962	3.962	3.962	CD	NUMBER	3.962	3.962			3.962

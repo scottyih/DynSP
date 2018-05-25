@@ -1,0 +1,9 @@
+Pollutant,Units,Emission Standard,Coal-fired,Petroleum Coke-fired
+SO2,lb/MMBTU,<= 0.15,0.0-0.04,0.03-0.13
+NOx,lb/MMBTU,<= 0.09,0.04-0.06,0.02
+Solid particulate,lb/MMBTU,<= 0.011,0.004,0.007
+PM10,lb/MMBTU,<= 0.011,0.006,0.004
+SO3,lb/hour,<= 1.1,0.43,0.0
+Fluoride,lb/MMBTU,<= 1.57x10-4,1.06x10-4,0.95x10-4
+Lead,lb/MMBTU,<= 2.6x10-5,0.56x10-5,0.59x10-5
+Mercury,lb/MMBTU,<= 1.05x10-5,0.095x10-5,0.028x10-5

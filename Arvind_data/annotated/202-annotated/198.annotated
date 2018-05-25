@@ -1,0 +1,65 @@
+row	col	id	content	tokens	lemmaTokens	posTags	nerTags	nerValues	number	date	num2	list
+-1	0	fb:row.row.year	Year	year	year	NN	DURATION	P1Y				
+-1	1	fb:row.row.title	Title	title	title	NN	O					
+-1	2	fb:row.row.role	Role	role	role	NN	O					
+-1	3	fb:row.row.notes	Notes	notes	note	NNS	O					
+0	0	fb:cell.1979	1979	1979	1979	CD	DATE	1979	1979.0	1979-xx-xx		
+0	1	fb:cell.california_fever	California Fever	california|fever	California|fever	NNP|NN	LOCATION|O	|				California Fever
+0	2	fb:cell.lisa_bannister	Lisa Bannister	lisa|bannister	Lisa|Bannister	NNP|NNP	PERSON|PERSON	|				Lisa Bannister
+0	3	fb:cell.episode_the_girl_from_somewhere	Episode: "The Girl from Somewhere"	episode|:|``|the|girl|from|somewhere|''	episode|:|``|the|girl|from|somewhere|''	NN|:|``|DT|NN|IN|RB|''	O|O|O|O|O|O|O|O	|||||||				Episode: "The Girl from Somewhere"
+1	0	fb:cell.1984	1984	1984	1984	CD	DATE	1984	1984.0	1984-xx-xx		
+1	1	fb:cell.faerie_tale_theatre	Faerie Tale Theatre	faerie|tale|theatre	Faerie|Tale|Theatre	NNP|NNP|NNP	O|O|O	||				Faerie Tale Theatre
+1	2	fb:cell.snow_white	Snow White	snow|white	Snow|White	NNP|NNP	PERSON|PERSON	|				Snow White
+1	3	fb:cell.episode_snow_white_and_the_seven_dwarfs	Episode: "Snow White and the Seven Dwarfs"	episode|:|``|snow|white|and|the|seven|dwarfs|''	episode|:|``|Snow|White|and|the|seven|dwarf|''	NN|:|``|NNP|NNP|CC|DT|CD|VBZ|''	O|O|O|O|O|O|O|NUMBER|O|O	|||||||7.0||				Episode: "Snow White and the Seven Dwarfs"
+2	0	fb:cell.1993	1993	1993	1993	CD	DATE	1993	1993.0	1993-xx-xx		
+2	1	fb:cell.performance	Performance	performance	performance	NN	O					Performance
+2	2	fb:cell.beatrice_joanna	Beatrice-Joanna	beatrice|joanna	Beatrice|Joanna	NNP|NNP	PERSON|PERSON	|				Beatrice-Joanna
+2	3	fb:cell.episode_the_changeling	Episode: "The Changeling"	episode|:|``|the|changeling|''	episode|:|``|the|Changeling|''	NN|:|``|DT|NNP|''	O|O|O|O|O|O	|||||				Episode: "The Changeling"
+3	0	fb:cell.1995	1995	1995	1995	CD	DATE	1995	1995.0	1995-xx-xx		
+3	1	fb:cell.if_not_for_you	If Not for You	if|not|for|you	if|not|for|you	IN|RB|IN|PRP	O|O|O|O	|||				If Not for You
+3	2	fb:cell.jessie_kent	Jessie Kent	jessie|kent	Jessie|Kent	NNP|NNP	PERSON|PERSON	|				Jessie Kent
+3	3	fb:cell.8_episodes	8 episodes	8|episodes	8|episode	CD|NNS	NUMBER|O	8.0|	8.0			8 episodes
+4	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+4	1	fb:cell.tracey_takes_on	Tracey Takes On...	tracey|takes|on|...	Tracey|take|on|...	NNP|VBZ|RP|:	PERSON|O|O|O	|||				Tracey Takes On...
+4	2	fb:cell.judge_loring	Judge Loring	judge|loring	Judge|Loring	NNP|NNP	O|PERSON	|				Judge Loring
+4	3	fb:cell.episode_vanity	Episode: "Vanity"	episode|:|``|vanity|''	episode|:|``|Vanity|''	NN|:|``|NNP|''	O|O|O|O|O	||||				Episode: "Vanity"
+5	0	fb:cell.1996	1996	1996	1996	CD	DATE	1996	1996.0	1996-xx-xx		
+5	1	fb:cell.tales_from_the_crypt	Tales from the Crypt	tales|from|the|crypt	tale|from|the|crypt	NNS|IN|DT|NN	O|O|O|O	|||				Tales from the Crypt
+5	2	fb:cell.laura_kendall	Laura Kendall	laura|kendall	Laura|Kendall	NNP|NNP	PERSON|PERSON	|				Laura Kendall
+5	3	fb:cell.episode_horror_in_the_night	Episode: "Horror in the Night"	episode|:|``|horror|in|the|night|''	episode|:|``|horror|in|the|night|''	NN|:|``|NN|IN|DT|NN|''	O|O|O|O|O|O|TIME|O	||||||TNI|				Episode: "Horror in the Night"
+6	0	fb:cell.1999	1999	1999	1999	CD	DATE	1999	1999.0	1999-xx-xx		
+6	1	fb:cell.the_scarlet_pimpernel	The Scarlet Pimpernel	the|scarlet|pimpernel	the|scarlet|pimpernel	DT|JJ|NN	O|O|O	||				The Scarlet Pimpernel
+6	2	fb:cell.lady_margaret_blakeney	Lady Margaret Blakeney	lady|margaret|blakeney	Lady|Margaret|Blakeney	NNP|NNP|NNP	O|PERSON|PERSON	||				Lady Margaret Blakeney
+6	3	fb:cell.3_episodes	3 episodes	3|episodes	3|episode	CD|NNS	NUMBER|O	3.0|	3.0			3 episodes
+7	0	fb:cell.2001	2001	2001	2001	CD	DATE	2001	2001.0	2001-xx-xx		
+7	1	fb:cell.table_12	Table 12	table|12	table|12	NN|CD	O|NUMBER	|12.0	12.0			Table 12
+7	2	fb:cell.mel	Mel	mel	Mel	NNP	PERSON					Mel
+7	3	fb:cell.episode_preserves	Episode: "Preserves"	episode|:|``|preserves|''	episode|:|``|preserve|''	NN|:|``|VBZ|''	O|O|O|O|O	||||				Episode: "Preserves"
+8	0	fb:cell.2003	2003	2003	2003	CD	DATE	2003	2003.0	2003-xx-xx		
+8	1	fb:cell.the_brotherhood_of_poland_new_hampshire	The Brotherhood of Poland, New Hampshire	the|brotherhood|of|poland|,|new|hampshire	the|Brotherhood|of|Poland|,|New|Hampshire	DT|NNP|IN|NNP|,|NNP|NNP	O|O|O|LOCATION|O|LOCATION|LOCATION	||||||				The Brotherhood of Poland|New Hampshire
+8	2	fb:cell.helen_shaw	Helen Shaw	helen|shaw	Helen|Shaw	NNP|NNP	PERSON|PERSON	|				Helen Shaw
+8	3	fb:cell.7_episodes	7 episodes	7|episodes	7|episode	CD|NNS	NUMBER|O	7.0|	7.0			7 episodes
+9	0	fb:cell.2006	2006	2006	2006	CD	DATE	2006	2006.0	2006-xx-xx		
+9	1	fb:cell.three_moons_over_milford	Three Moons over Milford	three|moons|over|milford	three|moon|over|Milford	CD|NNS|IN|NNP	NUMBER|O|O|LOCATION	3.0|||				Three Moons over Milford
+9	2	fb:cell.laura_davis	Laura Davis	laura|davis	Laura|Davis	NNP|NNP	PERSON|PERSON	|				Laura Davis
+9	3	fb:cell.8_episodes	8 episodes	8|episodes	8|episode	CD|NNS	NUMBER|O	8.0|	8.0			8 episodes
+10	0	fb:cell.2007	2007	2007	2007	CD	DATE	2007	2007.0	2007-xx-xx		
+10	1	fb:cell.law_and_order_special_victims_unit	Law and Order: Special Victims Unit	law|and|order|:|special|victims|unit	law|and|order|:|special|victim|unit	NN|CC|NN|:|JJ|NNS|NN	PERSON|O|O|O|O|O|O	||||||				Law and Order: Special Victims Unit
+10	2	fb:cell.dr_faith_sutton	Dr. Faith Sutton	dr.|faith|sutton	Dr.|faith|Sutton	NNP|NN|NNP	O|PERSON|PERSON	||				Dr. Faith Sutton
+10	3	fb:cell.episode_harm	Episode: "Harm"	episode|:|``|harm|''	episode|:|``|harm|''	NN|:|``|NN|''	O|O|O|O|O	||||				Episode: "Harm"
+11	0	fb:cell.2007_2008	2007–2008	2007|--|2008	2007|--|2008	CD|:|CD	DATE|O|DATE	2007||2008	2007.0		2008.0	
+11	1	fb:cell.freezing	Freezing	freezing	freezing	NN	O					Freezing
+11	2	fb:cell.elizabeth	Elizabeth	elizabeth	Elizabeth	NNP	PERSON					Elizabeth
+11	3	fb:cell.3_episodes	3 episodes	3|episodes	3|episode	CD|NNS	NUMBER|O	3.0|	3.0			3 episodes
+12	0	fb:cell.2008	2008	2008	2008	CD	DATE	2008	2008.0	2008-xx-xx		
+12	1	fb:cell.agatha_christie_poirot	Agatha Christie: Poirot	agatha|christie|:|poirot	Agatha|Christie|:|Poirot	NNP|NNP|:|NNP	PERSON|PERSON|O|PERSON	|||				Agatha Christie: Poirot
+12	2	fb:cell.dame_celia_westholme	Dame Celia Westholme	dame|celia|westholme	Dame|Celia|Westholme	NNP|NNP|NNP	PERSON|PERSON|PERSON	||				Dame Celia Westholme
+12	3	fb:cell.episode_appointment_with_death	Episode: "Appointment with Death"	episode|:|``|appointment|with|death|''	episode|:|``|appointment|with|death|''	NN|:|``|NN|IN|NN|''	O|O|O|O|O|O|O	||||||				Episode: "Appointment with Death"
+13	0	fb:cell.2009	2009	2009	2009	CD	DATE	2009	2009.0	2009-xx-xx		
+13	1	fb:cell.10_minute_tales	10 Minute Tales	10|minute|tales	10|minute|tale	CD|JJ|NNS	DURATION|DURATION|O	PT10M|PT10M|	10.0			10 Minute Tales
+13	2	fb:cell.the_ex_wife	The Ex-Wife	the|ex|wife	the|ex|wife	DT|FW|NN	O|O|O	||				The Ex-Wife
+13	3	fb:cell.episode_the_running_of_the_deer	Episode: "The Running of the Deer"	episode|:|``|the|running|of|the|deer|''	episode|:|``|the|running|of|the|deer|''	NN|:|``|DT|NN|IN|DT|NNS|''	O|O|O|O|O|O|O|O|O	||||||||				Episode: "The Running of the Deer"
+14	0	fb:cell.2010_present	2010–present	2010|--|present	2010|--|present	CD|:|JJ	DATE|O|DATE	2010||PRESENT_REF	2010.0			
+14	1	fb:cell.downton_abbey	Downton Abbey	downton|abbey	Downton|Abbey	NNP|NNP	PERSON|PERSON	|				Downton Abbey
+14	2	fb:cell.cora_countess_of_grantham	Cora, Countess of Grantham	cora|,|countess|of|grantham	Cora|,|countess|of|Grantham	NNP|,|NN|IN|NNP	PERSON|O|O|O|PERSON	||||				Cora|Countess of Grantham
+14	3	fb:cell.29_episodes_screen_actors_guild_award_for_outstanding_performance_by_an_ensemble_in_a_drama_series_nominated_golden_globe_award_for_best_actress_miniseries_or_television_film_nominated_primetime_emmy_award_for_outstanding_lead_actress_in_a_miniseries_or_a_movie_nominated_satellite_award_for_best_actress_miniseries_or_television_film	29 episodes\nScreen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series\nNominated—Golden Globe Award for Best Actress – Miniseries or Television Film\nNominated—Primetime Emmy Award for Outstanding Lead Actress in a Miniseries or a Movie\nNominated—Satellite Award for Best Actress – Miniseries or Television Film	29|episodes|screen|actors|guild|award|for|outstanding|performance|by|an|ensemble|in|a|drama|series|nominated|--|golden|globe|award|for|best|actress|--|miniseries|or|television|film|nominated|--|primetime|emmy|award|for|outstanding|lead|actress|in|a|miniseries|or|a|movie|nominated|--|satellite|award|for|best|actress|--|miniseries|or|television|film	29|episode|screen|actor|guild|award|for|outstanding|performance|by|a|ensemble|in|a|drama|series|nominate|--|Golden|Globe|award|for|best|actress|--|miniseries|or|television|film|nominate|--|primetime|emmy|award|for|outstanding|lead|actress|in|a|miniseries|or|a|movie|nominate|--|satellite|award|for|best|actress|--|miniseries|or|television|film	CD|NNS|NN|NNS|NN|NN|IN|JJ|NN|IN|DT|NN|IN|DT|NN|NN|VBN|:|NNP|NNP|NN|IN|JJS|NN|:|NNS|CC|NN|NN|VBN|:|JJ|NN|NN|IN|JJ|NN|NN|IN|DT|NN|CC|DT|NN|VBN|:|JJ|NN|IN|JJS|NN|:|NNS|CC|NN|NN	NUMBER|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O	29.0|||||||||||||||||||||||||||||||||||||||||||||||||||||||	29.0			29 episodes|Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series|Nominated—Golden Globe Award for Best Actress – Miniseries or Television Film|Nominated—Primetime Emmy Award for Outstanding Lead Actress in a Miniseries or a Movie|Nominated—Satellite Award for Best Actress – Miniseries or Television Film
